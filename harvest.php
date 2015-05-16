@@ -9,6 +9,8 @@ require_once(dirname(__FILE__) . '/nameparse.php');
 require_once(dirname(__FILE__) . '/ojsxml.php');
 require_once(dirname(__FILE__) . '/xml.php');
 
+require_once(dirname(__FILE__) . '/formatting.php');
+
 global $issues;
 global $current_volume;
 
@@ -171,6 +173,9 @@ foreach ($files1 as $filename)
 				// remove extra whitespace
 				$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
 				$reference->title = preg_replace('/^\s+/u', '', $reference->title);
+				
+				// from http://stackoverflow.com/a/7619044
+				$reference->title  = force_balance_tags($reference->title);
 				
 				// is this an erratum?
 				if (preg_match('/^Erratum/', $reference->title))
