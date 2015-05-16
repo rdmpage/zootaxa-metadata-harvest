@@ -60,7 +60,7 @@ function authors_from_string($authorstring)
 
 
 $basedir = 'zootaxa/list';
-//$basedir = 'zootaxa/list/2008';
+$basedir = 'zootaxa/list/2008';
 //$basedir = 'zootaxa/list/2012';
 
 $files1 = scandir($basedir);
