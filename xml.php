@@ -870,7 +870,7 @@ function process($filename, &$reference)
 		{
 			case 0:
 				// Next block has the abstract
-				if (preg_match('/<b>Abstract<\/b>/', $block->tokens[0]))
+				if (preg_match('/<b>Abstract<\/b>/i', $block->tokens[0]))
 				{
 					$reference->state = 1;
 				}
@@ -884,6 +884,7 @@ function process($filename, &$reference)
 					$keywords = preg_replace('/,(<\/i>)\s+/', '</i>|', $keywords);
 					$keywords = preg_replace('/,\s+/', '|', $keywords);
 					$keywords = preg_replace('/-\s+/', '', $keywords);
+					$keywords = preg_replace('/-<\/i>\s+<i>/', '', $keywords);
 					$reference->keywords = preg_split('/\|/', $keywords);
 					$reference->state = 0;
 				}
