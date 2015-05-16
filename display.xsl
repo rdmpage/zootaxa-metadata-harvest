@@ -37,7 +37,7 @@
 </xsl:template>
 
 <xsl:template match="article">
-	<div style="padding:10px;margin:10px;border:1px solid rgb(128,128,128);background-color:#F1FFD7;">
+	<div style="padding:10px;margin:10px;border:1px solid rgb(192,192,192);background-color:#F1FFD7;">
 	
 	<p>
 	<xsl:text>DOI: </xsl:text>
