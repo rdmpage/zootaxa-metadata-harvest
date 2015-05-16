@@ -860,15 +860,28 @@ function process($filename, &$reference)
 	$html .= '<div style="position:absolute;left:600px;width:400px;top:0px;border:1px solid blue;font-size:10px;">';
 	
 	
-	
+	$reference->has_introduction = false;
 	
 	foreach ($final_blocks as $block)
 	{
-		//print_r($block);
+		print_r($block);
 	
 		switch ($reference->state)
 		{
 			case 0:
+				// table of contents
+				$c = 0;
+				foreach ($block->tokens as $token)
+				{
+					if ($token == '.') $c++;
+				}
+				if ($c > 2)
+				{
+					// contents
+					break;
+				}
+			
+			
 				// Next block has the abstract
 				if (preg_match('/<b>Abstract<\/b>/i', $block->tokens[0]))
 				{
@@ -876,7 +889,7 @@ function process($filename, &$reference)
 				}
 				
 				// Key words
-				if (preg_match('/<b>Key<\/b>/', $block->tokens[0]))
+				if (preg_match('/<b>Key(words:)?<\/b>/', $block->tokens[0]))
 				{
 					// pop off the first two tokens ("Key words")
 					$tokens = array_slice($block->tokens, 2);
@@ -888,6 +901,27 @@ function process($filename, &$reference)
 					$reference->keywords = preg_split('/\|/', $keywords);
 					$reference->state = 0;
 				}
+				
+				
+				if (in_array($block->class, array("block-not-indented", "block-other")))
+				{
+					if (isset($reference->abstract) && !isset($reference->keywords) && !$reference->has_introduction)
+					{
+						$line = join(' ', $block->tokens);
+						$line = preg_replace('/-\s+(\w)/', '$1', $line);
+						$line = preg_replace('/-<\/i>\s+<i>/', '', $line);
+						$reference->abstract .= $line;
+					}
+				}
+				
+				
+				// introduction
+				if (preg_match('/<b>Introduction<\/b>/', $block->tokens[0]))
+				{
+					$reference->has_introduction = true;
+				}
+				
+
 				
 				// title
 				if ($block->class == "block-title")
@@ -939,10 +973,12 @@ function process($filename, &$reference)
 				}
 				$reference->state = 0;
 				break;
+				
 
 			case 2:				
 				$reference->state = 0;
 				break;
+				
 				
 			default:
 				break;
@@ -998,10 +1034,6 @@ function extract_metadata(&$reference, $basedir)
 
 	foreach ($xmlfiles as $filename)
 	{
-		if ($reference->page_count == 1)
-		{
-			$reference->state = 1;
-		}
 		$filename = preg_replace('/pageNum-[0]+/', 'pageNum-', $filename);
 		$html .= process($basedir . '/' . $filename, $reference);
 	
@@ -1029,8 +1061,15 @@ function extract_metadata(&$reference, $basedir)
 if (0)
 {
 	$reference = new stdclass;
-	extract_metadata($reference, 'pdf/2008/z01671p031f.xml_data');
+	//extract_metadata($reference, 'pdf/2008/z01671p031f.xml_data');
 	//extract_metadata($reference, 'pdf/2008/z01673p048f.xml_data');
+	
+	//extract_metadata($reference, 'pdf/2003/z00338f.xml_data');
+
+	extract_metadata($reference, 'pdf/2003/z00315f.xml_data');
+	
+	
+	//extract_metadata($reference, 'pdf/2002/z00021f.xml_data');
 	print_r($reference);
 }
 
