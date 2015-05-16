@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1671.1</id>
+    <title locale="en_US">1 Jan. 2008</title>
+    <volume>1671</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Zoological taxonomy at 250: showcasing species descriptions in the cyber era</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhi-Qiang</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-2</pages>
+        <date_published>2008-01-01</date_published>
+      </article>
+      <article language="en">
+        <id type="zoobank">urn:lsid:zoobank.org:pub:68376390-7809-46FF-9EC4-1371B4AAD0FF</id>
+        <title locale="en_US">Five new species of the damselfish genus &lt;i&gt;Chromis&lt;/i&gt; (Perciformes: Labroidei: Pomacentridae) from deep coral reefs in the tropical western Pacific</title>
+        <abstract locale="en_US">Five new species of the damselfish genus &lt;i&gt;Chromis&lt;/i&gt; 2 (Perciformes 3 : Labroidei 4 : Pomacentridae 5 ) are described from specimens collected from deep (&gt;60 m) coral-reef habitat in the western Pacific by divers using mixed-gas closed-circuit rebreather gear. Two of the five new species (C. &lt;i&gt;abyssus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;circumaurea)&lt;/i&gt; are each described from specimens taken at a single locality within the Caroline Islands (Palau and Yap, respectively); one (C. &lt;i&gt;degruyi)&lt;/i&gt; is described from specimens collected or observed throughout the Caroline Islands, and two (C. &lt;i&gt;brevirostris&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;earina)&lt;/i&gt; are described from specimens collected from several localities throughout the Caroline Islands, Fiji, and Vanuatu. All five species can easily be distinguished from other known &lt;i&gt;Chromis,&lt;/i&gt; and from each other, on the basis of color and morphology. These new species represent the first five scientific names prospectively registered in the official ICZN ZooBank registry 6 . Moreover, the electronic online edition of this document has been specially formatted with many embedded links to additional resources available online via the internet to enhance access to taxonomically-relevant information, and as a demonstration of the utility of international standards for biodiversity informatics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Chromis&lt;/i&gt; &lt;i&gt;abyssus&lt;/i&gt;; &lt;i&gt;Chromis&lt;/i&gt; &lt;i&gt;brevirostris&lt;/i&gt;; &lt;i&gt;Chromis&lt;/i&gt; &lt;i&gt;circumaurea&lt;/i&gt;; &lt;i&gt;Chromis&lt;/i&gt; &lt;i&gt;degruyi&lt;/i&gt;; &lt;i&gt;Chromis&lt;/i&gt; &lt;i&gt;earina&lt;/i&gt;; new species; taxonomy; cybertaxonomy; mesophotic; mixed-gas diving; rebreather; ZooBank</subject>
+          <subject_class locale="en_US">&lt;i&gt;Chromis&lt;/i&gt; &lt;i&gt;abyssus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Pyle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>L.</middlename>
+          <lastname>Earle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>D.</middlename>
+          <lastname>Greene</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>3-31</pages>
+        <date_published>2008-01-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new legskates of the genus &lt;i&gt;Sinobatis&lt;/i&gt; (Rajoidei: Anacanthobatidae) from the IndoWest Pacific</title>
+        <abstract locale="en_US">Three new species of legskates (Anacanthobatidae) are described from the Indo–Australian region. Two of these species conform to the subgenus &lt;i&gt;Sinobatis&lt;/i&gt; Hulley of &lt;i&gt;Anacanthobatis&lt;/i&gt; von Bonde &amp; Swart, which is herein elevated to genus level based primarily on clasper morphology. &lt;i&gt;Sinobatis&lt;/i&gt; presently includes &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;borneensis&lt;/i&gt; (South China Sea and Taiwan) and possibly &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melanosoma&lt;/i&gt; (East and South China Seas and Taiwan), as well as the new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bulbicauda&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (eastern Indonesia and northwestern Australia, SE Indian Ocean) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;filicauda&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (northeastern Australia, SE Pacific Ocean). The third new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;caerulea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (northwestern Australia, SE Indian Ocean), is provisionally placed in &lt;i&gt;Sinobatis&lt;/i&gt; in the absence of an adult male. The new species are distinguishable from each other, and from nominal Indo–Pacific legskates, based on their morphometrics, meristics, tail morphology and coloration. Legskates exhibit marked intraspecific variation in shape associated with their soft, flexible bodies, and considerable ontogenetic and sexual differentiation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sinobatis&lt;/i&gt;; new species; Anacanthobatidae; Rajoidei; legskate; Indo–West Pacific</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sinobatis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernard</firstname>
+          <lastname>Séret</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-58</pages>
+        <date_published>2008-01-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new record of the Late Cretaceous cirripede &lt;i&gt;Eoverruca hewitti&lt;/i&gt; (Verrucomorpha, Proverrucidae) from southern Poland</title>
+        <abstract locale="en_US">Isolated valves of proverrucid cirripedes (Thoracica, Verrucomorpha) from upper lower Campanian strata exposed at Jeżówka, near Wolbrom (southern Poland), are shown to be conspecific with the type (and sole) species of the genus &lt;i&gt;Eoverruca,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hewitti&lt;/i&gt; Withers, 1935. This species was first recorded from the upper Santonian (Marsupites &lt;i&gt;testudinarius&lt;/i&gt; Zone, &lt;i&gt;Uintacrinus&lt;/i&gt; Band in Withers’s terminology) at East Harling, Norfolk and at Wattisfield, Suffolk (eastern England). To our knowledge, there have been no subsequent records of this taxon. In general, proverrucids are rare fossils, with but a handful of species known to date from the upper Turonian to upper Maastrichtian (and possibly lower Paleocene) of northwest Europe (Rügen, Germany; eastern England; the Liège-Limburg Basin in northeast Belgium and southeast Netherlands; present record from southern Poland). In part, this undoubtedly reflects collection failure; because of diminutive size, valves of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hewitti&lt;/i&gt; have probably been frequently overlooked. In addition, the species may have had special ecological requirements, and thus be restricted to particular facies types. The present material originates almost exclusively from glauconite-rich levels just below a hardground, with none or very few other cirripede species associated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cirripedia; Verrucomorpha; Proverrucidae; &lt;i&gt;Eoverruca&lt;/i&gt; &lt;i&gt;hewitti&lt;/i&gt;; Campanian; Cretaceous; southern Poland; palaeoecology</subject>
+          <subject_class locale="en_US">Cirripedia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>W. M.</middlename>
+          <lastname>Jagt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Iwona</firstname>
+          <lastname>Jaskula</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anna</firstname>
+          <lastname>Witek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elena</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jagt-Yazykova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2008-01-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>
