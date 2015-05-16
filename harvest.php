@@ -101,11 +101,12 @@ foreach ($files1 as $filename)
 			{
 				$rows = explode("<br>", $paragraph);
 				
-				//print_r($rows);
+				print_r($rows);
 				
 				
 				switch ($filename)
 				{
+					case 'list2003.html':
 					case 'list2002.html':
 						if (preg_match('/Monograph/', $rows[0]))
 						{
