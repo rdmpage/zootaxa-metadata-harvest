@@ -98,7 +98,7 @@
 </xsl:template>
 
 <xsl:template match="open_access">
-	<p><img src="Open-Access-logo-300x145.png" width="100"/></p>
+	<p><img src="../Open-Access-logo-300x145.png" width="100"/></p>
 </xsl:template>
 
 

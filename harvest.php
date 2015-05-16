@@ -368,7 +368,16 @@ foreach ($files1 as $filename)
 			}
 		}
 
-		$ojs_filename = dirname(__FILE__) . '/ojs/' . $base_filename . '.xml';
+		// output OJS
+		$dir = dirname(__FILE__) . '/ojs/' . $year;
+		if (!file_exists($dir))
+		{
+			$oldumask = umask(0); 
+			mkdir($dir, 0777);
+			umask($oldumask);
+		}
+		
+		$ojs_filename = $dir . '/' . $base_filename . '.xml';
 		$xml = $ojs->saveXML();
 		file_put_contents($ojs_filename, $xml);
 		
@@ -381,7 +390,7 @@ foreach ($files1 as $filename)
 		$xml_doc = new DOMDocument;
 		$xml_doc->loadXML($xml);
 		
-		$output_filename = dirname(__FILE__) . '/ojs/' . $base_filename . '.html';
+		$output_filename = $dir . '/' . $base_filename . '.html';
 		$output = $xp->transformToXML($xml_doc);
 		
 		file_put_contents($output_filename, $output);
