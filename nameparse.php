@@ -20,9 +20,13 @@ Bugs:	If one of the words in the middle name is Ben (or St., for that matter),
 
 */
 
+
+
 function	norm_str($string) {
 	return	trim(strtolower(
 		str_replace('.','',$string)));
+		
+		
 	}
 
 function	in_array_norm($needle,$haystack) {
@@ -36,8 +40,11 @@ function	parse_name($fullname) {
 							'la','le','san','st','ste','van','vel','von');
 	$suffices		=	array('esq','esquire','jr','sr','2','ii','iii','iv');
 
-	$pieces			=	explode(',',preg_replace('/\s+/',' ',trim($fullname)));
+	$pieces			=	explode(',',preg_replace('/\s+/u',' ',trim($fullname)));
 	$n_pieces		=	count($pieces);
+	
+	//print_r($pieces);
+	//echo $fullname . "\n";
 	
 	$out = array();
 
