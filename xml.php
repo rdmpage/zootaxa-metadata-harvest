@@ -6,6 +6,35 @@ require_once('components.php');
 require_once('spatial.php');
 
 //--------------------------------------------------------------------------------------------------
+
+$parents = array();
+
+function makeset($x) {
+	global $parents;
+	
+	$parents[$x] = $x;
+}
+
+function find($x) {
+	global $parents;
+	
+	if ($x == $parents[$x]) {
+		return $x;
+	} else {
+		return find($parents[$x]);
+	}
+}
+
+function union($x, $y) {
+	global $parents;
+	
+	$x_root = find($x);
+	$y_root = find($y);
+	$parents[$x_root] = $y_root;
+	
+}
+
+//--------------------------------------------------------------------------------------------------
 // From http://stackoverflow.com/questions/2312075/get-xpath-of-xml-node-within-recursive-function
 function whereami($node)
 {
@@ -135,6 +164,8 @@ class Paragraph
 //--------------------------------------------------------------------------------------------------
 function find_blocks($page)
 {
+	global $parents;
+	
 	// Find blocks by looking for overlap between (inflated)
 	// bounding boxes, then find components of graph of overlaps
 	$X = array();
@@ -143,18 +174,28 @@ function find_blocks($page)
 	//echo "n=$n\n";
 	//print_r($page->lines);
 
-	// Create adjacency matrix and fill with 0's
-	$X = array();
-	for ($i = 0; $i < $n; $i++)
+	if (1)
 	{
-		$X[$i] = array();
-		
-		for ($j = 0; $j < $n; $j++)
-		{ 
-			$X[$i][$j] = 0;
+		for ($i = 0; $i < $n; $i++)
+		{
+			makeset($i);
 		}
 	}
-	
+	else
+	{
+		// Create adjacency matrix and fill with 0's
+		$X = array();
+		for ($i = 0; $i < $n; $i++)
+		{
+			$X[$i] = array();
+		
+			for ($j = 0; $j < $n; $j++)
+			{ 
+				$X[$i][$j] = 0;
+			}
+		}
+	}
+		
 	// Populate adjacency graph
 	foreach ($page->lines as $line)
 	{
@@ -204,14 +245,48 @@ function find_blocks($page)
 		
 		foreach ($overlap as $o)
 		{
-			$X[$line->id][$o] = 1;
-			$X[$o][$line->id] = 1;
+			if (1)
+			{
+				union($line->id, $o);			
+			}
+			else
+			{
+				$X[$line->id][$o] = 1;
+				$X[$o][$line->id] = 1;
+			}
 		}
 	}
 	
 	
 	// Components of X are blocks of overlapping text
-	$blocks = get_components($X);
+	if (1)
+	{
+		$blocks = array();
+		
+		$n = count($page->lines);
+		
+		//print_r($parents);
+		//exit();
+		
+		for ($i = 0; $i < $n; $i++)
+		{
+			$p = $parents[$i];
+			
+			if (!isset($blocks[$p]))
+			{
+				$blocks[$p] = array();
+			}
+			$blocks[$p][] = $i;
+		}
+		
+		//print_r($blocks);
+		
+		
+	}
+	else
+	{
+		$blocks = get_components($X);
+	}
 	
 	
 	// A block may comprise more than one paragraph or other unit, so see if we can cut the blocks further
@@ -1127,7 +1202,11 @@ if (0)
 	
 	//extract_metadata($reference, 'pdf/2008/z01709p109f.xml_data');
 	
-	extract_metadata($reference, 'pdf/2004/z00498f.xml_data');
+	//extract_metadata($reference, 'pdf/2004/z00498f.xml_data');
+	
+	// Has Russian text 
+	extract_metadata($reference, 'pdf/2009/z02101p152f.xml_data');
+	
 	print_r($reference);
 }
 
