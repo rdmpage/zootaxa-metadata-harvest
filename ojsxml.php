@@ -61,6 +61,22 @@ function add_article(&$ojs, &$section, $reference)
 		$abstract->appendChild($ojs->createTextNode($reference->abstract));
 	}
 
+	if (isset($reference->resumo))
+	{
+		$abstract = $article->appendChild($ojs->createElement('abstract'));
+		$abstract->setAttribute('locale', 'pt');
+	
+		$abstract->appendChild($ojs->createTextNode($reference->resumo));
+	}
+
+	if (isset($reference->resumen))
+	{
+		$abstract = $article->appendChild($ojs->createElement('abstract'));
+		$abstract->setAttribute('locale', 'es');
+	
+		$abstract->appendChild($ojs->createTextNode($reference->resumen));
+	}
+
 	$indexing = $article->appendChild($ojs->createElement('indexing'));
 	
 	$discipline = $indexing->appendChild($ojs->createElement('discipline'));
