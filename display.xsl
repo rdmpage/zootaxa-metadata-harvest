@@ -59,7 +59,8 @@
 	</h4>
 	
 	<h4>Abstract</h4>
-	<p><xsl:value-of select="abstract" disable-output-escaping="yes"/></p>
+	<xsl:apply-templates select="abstract" />
+	
 	
 	<h4>Keywords</h4>
 	<p><xsl:value-of select="indexing/subject" disable-output-escaping="yes"/></p>
@@ -100,6 +101,17 @@
 <xsl:template match="open_access">
 	<p><img src="../Open-Access-logo-300x145.png" width="100"/></p>
 </xsl:template>
+
+<xsl:template match="abstract">
+	<p>
+		<xsl:text>[</xsl:text><xsl:value-of select="@locale" /><xsl:text>] </xsl:text>
+		<xsl:value-of select="." disable-output-escaping="yes"/>
+	</p>
+</xsl:template>
+
+
+
+
 
 
 </xsl:stylesheet>
