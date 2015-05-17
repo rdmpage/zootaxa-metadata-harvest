@@ -59,9 +59,15 @@ function authors_from_string($authorstring)
 
 
 
-$basedir = 'zootaxa/list';
-$basedir = 'zootaxa/list/2008';
+//$basedir = 'zootaxa/list';
+//$basedir = 'zootaxa/list/2008';
 //$basedir = 'zootaxa/list/2012';
+//$basedir = 'zootaxa/list/2006';
+//$basedir = 'zootaxa/list/2007';
+//$basedir = 'zootaxa/list/2009';
+//$basedir = 'zootaxa/list/2010';
+//$basedir = 'zootaxa/list/2011';
+$basedir = 'zootaxa/list/2012';
 
 $files1 = scandir($basedir);
 
@@ -69,11 +75,29 @@ $files1 = scandir($basedir);
 
 $count = 0;
 
+$skip = true;
+$skip = false;
+
 foreach ($files1 as $filename)
 {
 	if (preg_match('/\.html$/', $filename))
+	//if (preg_match('/\.html$/', $filename) && ($filename == 'zt02208.html'))
 	{	
 		echo $filename . "\n";
+		
+		if (0)
+		{
+			if ($filename  == 'zt02276.html')
+			{
+				$skip = false;
+			}
+			else
+			{
+				$skip = true;
+			}
+		}
+		if (!$skip)
+		{
 	
 		$ojs = ojs_initialise();
 		$base_filename = str_replace('.html', '', $filename);
@@ -81,15 +105,25 @@ foreach ($files1 as $filename)
 	
 		$html = file_get_contents($basedir . '/' . $filename);
 		
-		$html = str_replace("–", "-", $html);
+		
+		//$html = str_replace("–", "-", $html);
+		//$html = str_replace("–", "-", $html);
+		
+		if (preg_match('/201[0|1|2]/', $basedir))
+		{
+			$html = mb_convert_encoding($html, 'UTF-8', 'Windows-1252');
+		}
+		else
+		{
+			$html = mb_convert_encoding($html, 'UTF-8', 'ISO-8859-1');
+		}
 		$html = str_replace("&nbsp;", " ", $html);
-
 		
-		$html = mb_convert_encoding($html, 'UTF-8', 'ISO-8859-1');
 
-		$html = str_replace("\n", " ", $html);
+
+		//$html = str_replace("\n", " ", $html);
 		
-		$html = preg_replace('/<p(\s+align="left")?>/', '<PARAGRAPH>', $html);
+		$html = preg_replace('/<p(\s+align="left")?>/i', '<PARAGRAPH>', $html);
 		$paragraphs = explode('<PARAGRAPH>', $html);
 		
 		//print_r($paragraphs);
@@ -97,7 +131,7 @@ foreach ($files1 as $filename)
 		
 		foreach($paragraphs as $paragraph)
 		{
-			if (preg_match('/^<font( color="#FFFFFF" face="Times-Bold")? size="2"/', $paragraph))
+			if (preg_match('/^<font(\s+color="#FFFFFF")?(\s+face="Times-Bold")? size="2"/', $paragraph))
 			{
 				$rows = explode("<br>", $paragraph);
 				
@@ -106,8 +140,16 @@ foreach ($files1 as $filename)
 				
 				switch ($filename)
 				{
+					case 'list2001.html':
+						$title_row = 2;
+						$author_row = 3;						
+						$metadata_row = 1;
+						$link_row = 4;
+						break;
+				
 					case 'list2003.html':
 					case 'list2002.html':
+					default:		
 						if (preg_match('/Monograph/', $rows[0]))
 						{
 							$title_row = 2;
@@ -123,16 +165,42 @@ foreach ($files1 as $filename)
 							$link_row = 3;
 						}
 						break;
-				
-					case 'list2001.html':
-					default:
-						$title_row = 2;
-						$author_row = 3;						
-						$metadata_row = 1;
-						$link_row = 4;
-						break;
 				}
 				
+				// 2007
+				if (preg_match('/2007-/', $filename))
+				{
+							$title_row = 2;
+							$author_row = 3;						
+							$metadata_row = 1;
+							$link_row = 4;										
+				}
+
+				if (preg_match('/2009/', $basedir))
+				{
+							$title_row = 2;
+							$author_row = 3;						
+							$metadata_row = 1;
+							$link_row = 4;										
+				}
+				if (preg_match('/201[0|1|2]/', $basedir))
+				{
+							$title_row = 2;
+							$author_row = 3;						
+							$metadata_row = 1;
+							$link_row = 4;	
+							
+							if (count($rows) == 6)
+							{
+								$title_row = 3;
+								$author_row = 4;						
+								$metadata_row = 2;
+								$link_row = 5;								
+							}									
+				}
+
+				//echo "meta row=$metadata_row\ntitle row=$title_row\nauthor row=$author_row\nlink_row=$link_row\n";
+				//exit();
 				
 				$reference = new stdclass;
 				$reference->type = 'article';
@@ -205,13 +273,19 @@ foreach ($files1 as $filename)
 					foreach ($authors as $a)
 					{
 						// Get parts of name
+						
 						$parts = parse_name($a);
+						
+						//echo $a . "\n";
+						//print_r($parts);
+						
 	
 						$author = new stdClass();
 	
 						if (isset($parts['last']))
 						{
 							$author->lastname = $parts['last'];
+							
 						}
 						if (isset($parts['suffix']))
 						{
@@ -230,10 +304,12 @@ foreach ($files1 as $filename)
 					
 						$reference->author[] = $author;
 					}
+					
+					//exit();
 				}				
 				
 				// metadata
-				if (preg_match('/<b>(?<volume>\d+)<\/b>:\s+(?<spage>\d+)(.(?<epage>\d+))?\s+\((?<date>(.*) (?<year>[0-9]{4}))<\/i>\)/U', $rows[$metadata_row], $mm))
+				if (preg_match('/<b>\s*(?<volume>\d+)\s*<\/b>[:]?\s*(?<spage>\d+)(.(?<epage>\d+))?\s+\((?<date>(.*) (?<year>[0-9]{4}))(<\/a>)?<\/i>\)/Uu', $rows[$metadata_row], $mm))
 				{
 					//print_r($mm);
 					
@@ -258,12 +334,24 @@ foreach ($files1 as $filename)
 				
 								
 				}
+				else
+				{
+					//echo "\noops\n";
+					//exit();
+				}
 				
 				// URL and PDF
 				if (preg_match('/<a href="(?<url>.*)\.pdf">Abstract /Uu', $rows[$link_row], $mm))
 				{
 					$reference->url = $mm['url'] . '.pdf';
 				}
+				// 2010
+				if (preg_match('/<a href="(?<url>.*)\.pdf">Preview/Uu', $rows[$link_row], $mm))
+				{
+					$reference->url = $mm['url'] . '.pdf';
+				}
+					
+				
 				// 2001
 				if (preg_match('/font>\s+<a href="(?<url>.*)\.pdf">Full/', $rows[$link_row], $mm))
 				{
@@ -331,6 +419,9 @@ foreach ($files1 as $filename)
 							$have_pdf = true;
 						}
 		
+						// Extract from PDF, ignore some special cases (e.g., Russian text)
+						// where xml.php crashes as too many objects to build components
+						
 						if ($have_pdf)
 						{
 							// generate XML
@@ -343,6 +434,7 @@ foreach ($files1 as $filename)
 					
 							extract_metadata($reference, $xmldir);
 						}
+						
 					}
 				}				
 				
@@ -354,19 +446,23 @@ foreach ($files1 as $filename)
 					unset ($reference->journal->issue);
 				}
 				
-				//print_r($reference);
 				
-	
-				// OJS xml
-				if ($reference->journal->volume != $current_volume)
+				if (isset($reference->title) && ($reference->title != ''))
 				{
-					$section = add_issue($ojs, $issues, $reference);
-					$current_volume = $reference->journal->volume;
-				}
-	
-	
-				add_article($ojs, $section, $reference);
 				
+					print_r($reference);
+				
+	
+					// OJS xml
+					if ($reference->journal->volume != $current_volume)
+					{
+						$section = add_issue($ojs, $issues, $reference);
+						$current_volume = $reference->journal->volume;
+					}
+	
+	
+					add_article($ojs, $section, $reference);
+				}
 				$count++;
 				//if ($count == 20) exit();
 				
@@ -399,9 +495,12 @@ foreach ($files1 as $filename)
 		$output_filename = $dir . '/' . $base_filename . '.html';
 		$output = $xp->transformToXML($xml_doc);
 		
+		echo $output;
+		echo $output_filename . "\n";
+		
 		file_put_contents($output_filename, $output);
 		
-		
+		}
 		
 	}
 }
