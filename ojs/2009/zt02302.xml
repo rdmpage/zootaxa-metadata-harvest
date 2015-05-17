@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2302.1</id>
+    <title locale="en_US">2 Dec. 2009</title>
+    <volume>2302</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Larval morphologies of three species of stream toads, genus &lt;i&gt;Ansonia&lt;/i&gt; (Amphibia: Bufonidae) from East Malaysia (Borneo), with a key to known Bornean &lt;i&gt;Ansonia &lt;/i&gt;tadpoles</title>
+        <abstract locale="en_US">We describe the external morphology of tadpoles of &lt;i&gt;Ansonia&lt;/i&gt; &lt;i&gt;longidigita&lt;/i&gt; Inger, 1960, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; Inger, 1960, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;platysoma&lt;/i&gt; Inger, 1960 from East Malaysia, Borneo. Specimens were collected from small to medium-sized streams with swift current in Sarawak State. Tadpole identities were confirmed by matching tadpole genetic sequences (16S mtRNA) to sequences from adult toads from the same collection sites. Among the three species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; appears to prefer the strongest current and was collected from fast-flowing waters in association with boulders. &lt;i&gt;Ansonia&lt;/i&gt; &lt;i&gt;longidigita&lt;/i&gt; larvae inhabit more moderate currents than sympatric &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;platysoma.&lt;/i&gt; Species microhabitat choices are reflected in their body shape, with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;platysoma&lt;/i&gt; being more streamlined than &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;longidigita.&lt;/i&gt; Colour photos of live specimens and a key to the known Bornean &lt;i&gt;Ansonia&lt;/i&gt; tadpoles are provided to facilitate field identification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ansonia&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;longidigita&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;platysoma&lt;/i&gt;; tadpole description; larva; larval morphology; oral disc; rheophilous tadpoles; DNA barcoding; identification key</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ansonia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexander</firstname>
+          <lastname>Haas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johanna</firstname>
+          <lastname>Wolter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefan</firstname>
+          <middlename>T.</middlename>
+          <lastname>Hertwig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Indraneil</firstname>
+          <lastname>Das</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2009-12-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new small &lt;i&gt;Arthroleptis &lt;/i&gt;(Amphibia: Anura: Arthroleptidae) from the Liberian part of Mount Nimba, West Africa</title>
+        <abstract locale="en_US">A new small West African &lt;i&gt;Arthroleptis&lt;/i&gt; from the rainforest at the south-eastern tip of Mount Nimba, Liberia is described. The new species differs from all known congeners by the combination of a unique color pattern, a rounded canthal region and a completely smooth skin. The comparison of 592 base pairs of the mitochondrial 16S rRNA from the new species with &lt;i&gt;Arthroleptis&lt;/i&gt; samples from all over West Africa, revealed genetic distances between 13.4–17.9%. From the morphologically similar &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aureoli&lt;/i&gt; the new species differed by 17.9%. Future research may reveal the necessity to establish a new genus for this peculiar new frog.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Arthroleptis&lt;/i&gt; &lt;i&gt;langeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; rainforest; Mount Nimba; Liberia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Arthroleptis&lt;/i&gt; &lt;i&gt;langeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; rainforest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mark-Oliver</firstname>
+          <lastname>Rödel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseph</firstname>
+          <lastname>Doumbia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alex</firstname>
+          <middlename>T.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Annika</firstname>
+          <lastname>Hillers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-30</pages>
+        <date_published>2009-12-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of the family Lithodidae (Decapoda: Anomura) from the collections of the National Museum of Natural History, Smithsonian Institution</title>
+        <abstract locale="en_US">Four new species of lithodid crab were identified in the collections of the National Museum of Natural History, Smithsonian Institution. These include three species of the genus &lt;i&gt;Paralomis:&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nivosa&lt;/i&gt; from the Philippines, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;makarovi&lt;/i&gt; from the Bering Sea, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alcockiana&lt;/i&gt; from South Carolina; and one new species of the genus &lt;i&gt;Lithodes,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;galapagensis,&lt;/i&gt; from the Galapagos archipelago. Two of these species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nivosa&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;makarovi&lt;/i&gt; were part of a collection of previously unidentified lithodid samples from the Albatross expeditions of 1906–1908. &lt;i&gt;Paralomis&lt;/i&gt; &lt;i&gt;makarovi&lt;/i&gt; may have been misidentified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;multispina&lt;/i&gt; Benedict, 1894, or &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;histrix&lt;/i&gt; (De Haan, 1844) in other collections owing to superficial similarities in carapace ornamentation and overlapping distributions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">king crab; &lt;i&gt;Lithodes&lt;/i&gt;; &lt;i&gt;Paralomis&lt;/i&gt;; Albatross expedition; new species; Anomura; Lithodidae</subject>
+          <subject_class locale="en_US">king crab</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sally</firstname>
+          <lastname>Hall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sven</firstname>
+          <lastname>Thatje</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-47</pages>
+        <date_published>2009-12-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Another new species of &lt;i&gt;Ranitomeya &lt;/i&gt;(Anura: Dendrobatidae) from Amazonian Colombia</title>
+        <abstract locale="en_US">We describe a new species of &lt;i&gt;Ranitomeya&lt;/i&gt; (family Dendrobatidae) which we discovered on a recent expedition to the Río Apaporis region in southeastern Colombia. This species had previously been referred to as &lt;i&gt;Dendrobates&lt;/i&gt; &lt;i&gt;quinquevittatus&lt;/i&gt; sensu Silverstone, based on a single specimen collected in the 1950s from the mouth of Río Apaporis. We found additional specimens from two sites in this region; near the town of La Pedrera (Departamento Amazonas), and on the lower Apaporis (Departamento Vaupés). We also found several &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ventrimaculata,&lt;/i&gt; and the two species are likely sympatric throughout much of this region. Although the new species and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ventrimaculata&lt;/i&gt; have similar life-history attributes (such as using similar bromeliads for tadpole deposition), the two species clearly differ in color pattern and advertisement call parameters. Ongoing molecular studies indicate that the new species is not closely related to the sympatric &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ventrimaculata,&lt;/i&gt; but rather is sister to an apparently undescribed species of &lt;i&gt;Ranitomeya&lt;/i&gt; from the upper Brazilian Amazon.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; Apaporis; Caquetá; Colombia; Dendrobatidae; new species; poison frogs; &lt;i&gt;Ranitomeya&lt;/i&gt; &lt;i&gt;defleri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ranitomeya&lt;/i&gt; &lt;i&gt;ventrimaculata&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Anura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Evan</firstname>
+          <lastname>Twomey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jason</firstname>
+          <middlename>L.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-60</pages>
+        <date_published>2009-12-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Re-evaluation of species allied to &lt;i&gt;Mithrax hispidus &lt;/i&gt;(Decapoda: Brachyura: Majoidea: Mithracidae) based on three mitochondrial genes</title>
+        <abstract locale="en_US">&lt;i&gt;Mithrax&lt;/i&gt; &lt;i&gt;hispidus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;caribbaeus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pleuracanthus,&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tortugae&lt;/i&gt; are closely related shallow-water crabs that are difficult to distinguish by morphology alone. This led to recent synonymy of the four species under &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hispidus&lt;/i&gt; (Herbst, 1790). The use of three mitochondrial genes (12s, 16s, and COI) nevertheless provides evidence for three distinct species (M. &lt;i&gt;hispidus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pleuracanthus,&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tortugae)&lt;/i&gt; and the synonymy of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;caribbaeus&lt;/i&gt; with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hispidus.&lt;/i&gt; Morphological features of the merus and carpus of the chelipeds serve as characters to separate the three species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phylogenetics; Sequencing; Spider Crabs</subject>
+          <subject_class locale="en_US">Phylogenetics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amanda</firstname>
+          <middlename>M.</middlename>
+          <lastname>Windsor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darryl</firstname>
+          <middlename>L.</middlename>
+          <lastname>Felder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-12-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

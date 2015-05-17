@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2896.1</id>
+    <title locale="en_US">28 May. 2011</title>
+    <volume>2896</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Notes on the genus &lt;i&gt;Paraxizicus &lt;/i&gt;Gorochov &amp; Kang, 2007 (Orthoptera: Tettigoniidae: Meconematinae) from China</title>
+        <abstract locale="en_US">The Chinese species of the genus &lt;i&gt;Paraxizicus&lt;/i&gt; Gorochov &amp; Kang are reviewed and a key is presented. Two new species are described: &lt;i&gt;Paraxizicus&lt;/i&gt; &lt;i&gt;trilobus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Paraxizicus&lt;/i&gt; &lt;i&gt;singulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; One known species &lt;i&gt;Xiphidiopsis&lt;/i&gt; &lt;i&gt;forcipa&lt;/i&gt; Shi &amp; Chen, 2002 is transferred to &lt;i&gt;Paraxizicus.&lt;/i&gt; The type specimens are kept in the Museum of Hebei University.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Paraxizicus&lt;/i&gt;; Meconematinae; Tettigoniidae; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Paraxizicus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xun</firstname>
+          <lastname>Bian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Lin</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-45</pages>
+        <date_published>2011-05-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Noctuidae species from China (Lepidoptera, Noctuoidea)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <lastname>Gyulai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>Ronkay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Saldaitis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-52</pages>
+        <date_published>2011-05-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Mexican &lt;i&gt;Mesene &lt;/i&gt;(Lepidoptera, Riodinidae)</title>
+        <abstract locale="en_US">A new species of Riodinidae, &lt;i&gt;Mesene&lt;/i&gt; &lt;i&gt;jimena&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from the Pacific slope in southern Mexico, including notes on its habits, habitat and distribution. A comparison is made with its close relative, &lt;i&gt;Mesene&lt;/i&gt; &lt;i&gt;margaretta&lt;/i&gt; (A. White, 1843), found in southeastern Mexico (Atlantic slope) and Chiapas State. In addition to morphology, other criteria are discussed including behavior and related structures, spatial and temporal factors, comparison of distribution with areas of endemism and ecology. These factors were examined for the new taxon and found to confirm its status.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Papilionoidea; taxonomy; Colombia; Venezuela; Central America; systematics; biogeography</subject>
+          <subject_class locale="en_US">Papilionoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Curtis</firstname>
+          <middlename>John</middlename>
+          <lastname>Callaghan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Llorente-Bousquets</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Luis-Martinez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-64</pages>
+        <date_published>2011-05-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

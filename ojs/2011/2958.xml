@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2958.1</id>
+    <title locale="en_US">8 Jun. 2011</title>
+    <volume>2958</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist and distribution of semiaquatic and aquatic Heteroptera (Gerromorpha and Nepomorpha) occurring in Brazil</title>
+        <abstract locale="en_US">Based on published information of about 200 references, 479 species of Gerromorpha and Nepomorpha have been recorded from Brazil and compiled here for the first time. Of these, 105 belong to the family Veliidae. Families Gerridae, Belostomatidae, Corixidae, Naucoridae, Nepidae, and Notonectidae contain between 44 and 61 species each. Because of their apparent inherent lower diversity or difficulty of collection and/or study, other families present at most 21 species. Of the recorded species, 47% occur solely in Brazil, 44% in Brazil and other South American countries, 7% are more distributed along the Neotropical Region, and only 2% are widely distributed in Americas. Species records from Brazil are more concentrated in the North and Southeast regions, and on Amazonas, Pará, Minas Gerais, and Rio de Janeiro states, not alone due to environmental conditions, but also because of historical factors. A high number of endemic species of &lt;i&gt;Rhagovelia,&lt;/i&gt; &lt;i&gt;Limnocoris,&lt;/i&gt; and &lt;i&gt;Ranatra&lt;/i&gt; is found in the Southeast and South regions. Other groups are exclusive or more diverse in the Amazon Region, such as &lt;i&gt;Lathriobatoides,&lt;/i&gt; &lt;i&gt;Bacillometra,&lt;/i&gt; &lt;i&gt;Cryptovelia,&lt;/i&gt; &lt;i&gt;Darwinivelia,&lt;/i&gt; &lt;i&gt;Euvelia,&lt;/i&gt; &lt;i&gt;Stridulivelia,&lt;/i&gt; and &lt;i&gt;Weberiella.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aquatic insects; semi-aquatic insects; Hemiptera; Neotropical Region; taxonomy; catalog</subject>
+          <subject_class locale="en_US">Aquatic insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Felipe</firstname>
+          <middlename>Ferraz Figueiredo</middlename>
+          <lastname>Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julianna</firstname>
+          <middlename>Freires</middlename>
+          <lastname>Barbosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Ricardo Inacio</middlename>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Viviani</firstname>
+          <middlename>Pereira</middlename>
+          <lastname>Alecrim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-74</pages>
+        <date_published>2011-06-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

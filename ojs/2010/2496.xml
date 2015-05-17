@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2496.1</id>
+    <title locale="en_US">7 Jun. 2010</title>
+    <volume>2496</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Diversity of Australasian freshwater turtles, with an annotated synonymy and keys to species</title>
+        <abstract locale="en_US">There have been many substantial advances in our knowledge of Australasian freshwater turtle biodiversity in the last three decades, but the classification of genera and species is in dire need of review. The proliferation of names in unpublished manuscripts and in taxonomic works published in ephemeral (often privately printed) magazines, journals or books, without the benefits of peer review and often with little justification and scant diagnoses, many of which are not allowable nomenclatural actions under the International Code of Zoological Nomenclature, has led to considerable confusion. Taxonomy is punctuated by timely and rigorous revisions that bring a check on the proliferation of names for unsubstantiated taxa. This paper is not a comprehensive revision, but in it we provide an assessment of the current taxonomy of Australasian freshwater turtles, focusing on information available to establish the validity of taxa as biological entities (as opposed to the validity of the names). We include an annotated list of species, an outline of the taxonomic issues for those taxa that are controversial (leading in some cases to synonymies), keys to the identification of genera and species, and updated information on their distributions. We call upon the International Commission on Zoological Nomenclature to incorporate effective measures into the Code to prevent the destabilizing influence of the proliferation of names for taxa that have not been established as real biological entities through the normal processes of peer reviewed publication. The provision by the ICZN of a list of journals in which nomenclatural acts must appear in order to be valid, in addition to meeting the other provisions of the Code, is suggested as such a measure. Without such action, destabilization of our taxonomy will continue, the traditional Linnaean binominal nomenclature will be undermined, and credibility will build for other forms of nomenclature that are on a firmer scientific footing, but in other ways inferior.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Reptilia; Testudinata; Chelidae; Trionychidae; Carettochelyidae</subject>
+          <subject_class locale="en_US">Reptilia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Georges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Scott</firstname>
+          <lastname>Thomson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2010-06-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Pseudopaludicola &lt;/i&gt;Miranda-Ribeiro, 1926 from the state of São Paulo, Southeastern Brazil (Anura, Leiuperidae)</title>
+        <abstract locale="en_US">We describe here a new species of &lt;i&gt;Pseudopaludicola&lt;/i&gt; (P. &lt;i&gt;murundu&lt;/i&gt; sp. nov.) that is found in the central portion of the state of São Paulo, Brazil. This new species is related to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;saltica,&lt;/i&gt; from which it distinguishes by the presence of a single, dark, and subgular vocal sac with dark longitudinal folds in males, immaculate to light brown nuptial pads in males that cover the external part of the finger I, from the wrist to the second phalanx, and 11 pairs of chromosomes without heteromorphic sex chromosomes. From all other species of the genus it distinguishes by presenting very long hindlimbs, with tibio-tarsal articulation reaching beyond the end of the snout, and absence of T-shaped terminal phalanges. Tadpoles, advertisement call, and the karyotype are described as well.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; &lt;i&gt;Pseudopaludicola&lt;/i&gt;; new species; tadpole; advertisement call; karyotype</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luís</firstname>
+          <middlename>Felipe</middlename>
+          <lastname>Toledo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sérgio</firstname>
+          <lastname>Siqueira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thiago</firstname>
+          <middlename>C.</middlename>
+          <lastname>Duarte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Cristina P.</middlename>
+          <lastname>Veigamenoncello</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shirlei</firstname>
+          <middlename>M.</middlename>
+          <lastname>Recco-Pimentel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Célio</firstname>
+          <middlename>F. B.</middlename>
+          <lastname>Haddad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-48</pages>
+        <date_published>2010-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species boundaries in the &lt;i&gt;Rana arfaki &lt;/i&gt;group (Anura: Ranidae) and phylogenetic relationships to other New Guinean &lt;i&gt;Rana&lt;/i&gt;</title>
+        <abstract locale="en_US">Allozyme electrophoresis is used to explore molecular genetic relationships within the &lt;i&gt;Rana&lt;/i&gt; &lt;i&gt;arfaki&lt;/i&gt; group and between this group and selected lineages of New Guinean &lt;i&gt;Rana.&lt;/i&gt; &lt;i&gt;Rana&lt;/i&gt; &lt;i&gt;jimiensis&lt;/i&gt; is confirmed as a species distinct from &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;arfaki&lt;/i&gt; and its range in Papua New Guinea is extended to the Southern Highlands Province and the north-coastal ranges in Sandaun Province. &lt;i&gt;Rana&lt;/i&gt; &lt;i&gt;arfaki&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;jimiensis&lt;/i&gt; show a high level of genetic differentiation maintained across a wide geographic area and show consistent morphological differences in head shape, tympanum size, degree of digital disc dilation and extent of sexual dimorphism. The two species occur syntopically on the Papuan Plateau, Southern Highlands Province, and are regionally sympatric in Sandaun Province. The observed level of genetic differentiation is equivalent to that reported previously between regionally sympatric members of the &lt;i&gt;Rana&lt;/i&gt; &lt;i&gt;papua&lt;/i&gt; group. Populations of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;jimiensis&lt;/i&gt; from north and south of the central cordillera show no obvious morphological and only minor genetic differentiation. In contrast, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;arfaki&lt;/i&gt; shows considerable geographic variation in both morphology and allozymes and may include two or more regionally distinctive forms.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Allozyme electrophoresis; Anura; frog; morphology; &lt;i&gt;Rana;&lt;/i&gt; taxonomy; New Guinea</subject>
+          <subject_class locale="en_US">Allozyme electrophoresis; Anura; frog; morphology; &lt;i&gt;Rana;&lt;/i&gt; taxonomy; New Guinea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephen</firstname>
+          <middlename>C.</middlename>
+          <lastname>Donnellan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ken</firstname>
+          <middlename>P.</middlename>
+          <lastname>Aplin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Terry</firstname>
+          <lastname>Bertozzi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-62</pages>
+        <date_published>2010-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Elachistocleis &lt;/i&gt;(Anura; Microhylidae) from the Brazilian Amazon</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Elachistocleis&lt;/i&gt; (E. &lt;i&gt;magnus)&lt;/i&gt; is described from the Amazon basin, in the municipality of Espigão do Oeste, state of Rondônia, Brazil. It differs from all other species of the genus by the combination of the following characters: i) size larger than 31 mm in adult males, ii) grayish ventral coloration, iii) presence of large post-commissural glands, iv) lack of red coloration in the body, and v) grayish dorsum in preserved individuals. There is dimorphism between males and females in size, structures and coloration. Vocalizations and larvae remain unknown.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Gastrophryninae; &lt;i&gt;Elachistocleis&lt;/i&gt; &lt;i&gt;magnus&lt;/i&gt; sp. nov.; biodiversidade neotropical</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luís</firstname>
+          <middlename>Felipe</middlename>
+          <lastname>Toledo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-06-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

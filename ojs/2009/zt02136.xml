@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2136.1</id>
+    <title locale="en_US">19 Jun. 2009</title>
+    <volume>2136</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Hexactinellida (Porifera) from the ANDEEP III Expedition to the Weddell Sea, Antarctica</title>
+        <abstract locale="en_US">New Hexactinellida from the deep Weddell Sea collected in 2005 during the ANT XXII/3 expedition (ANDEEP III ) are described. This hexactinellid fauna includes 12 species from 8 genera, 2 of which are new to science: &lt;i&gt;Lophocalyx&lt;/i&gt; &lt;i&gt;profundum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;topsenti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; It further contains the first record of &lt;i&gt;Caulophacus&lt;/i&gt; (Caulodiscus) &lt;i&gt;valdiviae&lt;/i&gt; in the Weddell Sea, and the second findings of the species &lt;i&gt;Acoelocalyx&lt;/i&gt; &lt;i&gt;brucei&lt;/i&gt; and &lt;i&gt;Caulophacus&lt;/i&gt; (Oxydiscus) &lt;i&gt;weddelli&lt;/i&gt; since their original descriptions. The Southern Ocean deep-sea, including the deep Weddell Sea, still offers a challenging potential for the discovery of new taxa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Porifera; Hexactinellida; Antarctica; new species; deep-sea sponges</subject>
+          <subject_class locale="en_US">Porifera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dorte</firstname>
+          <lastname>Janussen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henry</firstname>
+          <middlename>M.</middlename>
+          <lastname>Reiswig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2009-06-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new sympatric species of freshwater &lt;i&gt;Gammarus &lt;/i&gt;(Crustacea: Amphipoda) from Southern Zagros Region, Iran</title>
+        <abstract locale="en_US">&lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;zagrosensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;sepidannus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; both from &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;pulex–group,&lt;/i&gt; are described from Sepidan County, Fars Province. They inhabit mountainous springs and were found co-occuring in some localities. Many clear morphological differences were recognized, including the setation of the second antenna and pereopods, length of antennal gland cone, postero-inferior protruding lobe and postero-distal corner setation in the basis of P6–7, endopodite/ exopodite ratios of uropod 3, dorsal elevation of urosomites, and setation of lower distal margin of epimeral plates 2 and 3. &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;zagrosensis&lt;/i&gt; is distinguished from &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pseudosyriacus&lt;/i&gt; by having setae on the distal segments of pereopod 5–7, a less pointed epimeral plate 2, posterior-inferior corner setae, and the longer setae on uropod 3. The closest species to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sepidannus&lt;/i&gt; are &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;balutchi&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;lobifer,&lt;/i&gt; the most evident differences of which are the eye size, setosity of first antennal peduncles and flagellum of second antenna, length of gland cone, and uropod rami length ratios. Comparison of the head cuticular micro-structures gives more arguments for separating the two new species from each other, as well as from the previously studied, related species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gammaridae; &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;zagrosensis&lt;/i&gt;; &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;sepidannus&lt;/i&gt;; Zagros; Fars; SEM; springs</subject>
+          <subject_class locale="en_US">Gammaridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mehrdad</firstname>
+          <lastname>Zamanpoore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <lastname>Poeckl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michal</firstname>
+          <lastname>Grabowski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Friedrich</firstname>
+          <lastname>Schiemer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-39</pages>
+        <date_published>2009-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Soft-bottom sipunculans in Izmir Bay (Aegean Sea, eastern Mediterranean)</title>
+        <abstract locale="en_US">This paper deals with the sipunculan species distributed in Izmir Bay (Aegean Sea, eastern Mediterranean). Benthic samples were taken at 29 stations between 1998 and 2001 at depths ranging from 8 to 77 m. Six species and 200 individuals belonging to three families were found. &lt;i&gt;Aspidosiphon&lt;/i&gt; (A.) &lt;i&gt;mexicanus&lt;/i&gt; is newly recorded from Izmir Bay. The majority of specimens were found on a sandy-mud substratum (42%), followed by sand (35%), muddy-sand (19%) and sand (3%), respectively. Among the habitats, &lt;i&gt;Posidonia&lt;/i&gt; &lt;i&gt;oceanica&lt;/i&gt; and muddy-sand were represented by the highest numbers of species (4 species), followed by sandy-mud (3 species), and sand (2 species). The densities of the species at sampling stations were determined and compared seasonally, based on the data collected in 2001. Brief descriptions of the species and their distributional, reproductive and ecological characteristics are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sipuncula; distribution; ecology; Aegean Sea; eastern Mediterranean</subject>
+          <subject_class locale="en_US">Sipuncula</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sermin</firstname>
+          <lastname>Açik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-48</pages>
+        <date_published>2009-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Devario anomalus&lt;/i&gt;, a new species of freshwater fish from Bangladesh (Ostariophysi: Cyprinidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Devario&lt;/i&gt; &lt;i&gt;anomalus,&lt;/i&gt; new species, is described from a small coastal stream south of Cox’s Bazar, Chittagong Division, Bangladesh. The new species can be distinguished from all other species of &lt;i&gt;Devario&lt;/i&gt; by its unique colour pattern. It is further distinguished from all congeners reported from Bangladesh by a combination of characters, including its shorter P-stripe, the presence of maxillary barbels, an ascending process on the first infraorbital, and a lower number of lateralline scales, branched dorsal-fin rays, branched anal-fin rays, and circumpeduncular scale rows.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cypriniformes; New species; &lt;i&gt;Devario&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Cypriniformes; New species; &lt;i&gt;Devario&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kevin</firstname>
+          <middlename>W.</middlename>
+          <lastname>Conway</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mayden</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>L.</middlename>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2009-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new soil-dwelling palpigrade species from Northern Italy (Palpigradi: Eukoeneniidae)</title>
+        <abstract locale="en_US">Among the 27 palpigrade species recorded in Europe so far, 23 occur in caves or narrow subterranean voids. &lt;i&gt;Eukoenenia&lt;/i&gt; &lt;i&gt;gallii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from a cork oak forest on the Italian Riviera (Liguria) is added to the small group of edaphic European palpigrades. &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;gallii&lt;/i&gt; is not closely related to the common soil-dweller &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; (Grassi &amp; Calandruccio, 1885), but to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;subangusta&lt;/i&gt; (Silvestri, 1903). Body shape and proportions make the new species look extremely edaphomorphic. All instars are described and illustrated with light micrographs of diagnostic traits.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; &lt;i&gt;Eukoenenia&lt;/i&gt;; taxonomy; diagnostic characters; edaphomorphic; Europe; Liguria</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Erhard</firstname>
+          <lastname>Christian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-06-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

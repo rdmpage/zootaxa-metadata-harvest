@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3390.1</id>
+    <title locale="en_US">18 Apr. 2012</title>
+    <volume>3390</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Naruse, T., Chan, T.-Y., Tan H.H., Ahyong, S.T. &amp; Reimer, J.D. (2012) Scientific Results of the Marine Biodiversity Expedition—KUMEJIMA 2009. &lt;i&gt;Zootaxa&lt;/i&gt;, 3367, 1–280. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2012-04-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2369.1</id>
+    <title locale="en_US">24 Feb. 2010</title>
+    <volume>2369</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Crab spiders from Hainan Island, China (Araneae, Thomisidae)</title>
+        <abstract locale="en_US">The crab spiders (Araneae: Thomisidae) collected from Hainan Island, China are studied. A total of 25 genera, 43 species are reported, including 12 new species, two new combinations and one new synonym. The new species are: &lt;i&gt;Borboropactus&lt;/i&gt; &lt;i&gt;brevidens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Borboropactus&lt;/i&gt; &lt;i&gt;edentatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Borboropactus&lt;/i&gt; &lt;i&gt;longidens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lycopus&lt;/i&gt; &lt;i&gt;longissimus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lysiteles&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lysiteles&lt;/i&gt; &lt;i&gt;leptosiphus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Oxytate&lt;/i&gt; &lt;i&gt;multa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ozyptila&lt;/i&gt; &lt;i&gt;biprominula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Paraborboropactus&lt;/i&gt; &lt;i&gt;liangweii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Paraborboropactus&lt;/i&gt; &lt;i&gt;oblatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Thomisops&lt;/i&gt; &lt;i&gt;altus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Thomisus&lt;/i&gt; &lt;i&gt;eminulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The species &lt;i&gt;Philodamia&lt;/i&gt; &lt;i&gt;gongi&lt;/i&gt; (Yin &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al,&lt;/i&gt; 2004) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is transferred from &lt;i&gt;Tmarus&lt;/i&gt; and &lt;i&gt;Sinothomisus&lt;/i&gt; &lt;i&gt;hainanus&lt;/i&gt; (Song, 1994) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Xysticus.&lt;/i&gt; The species &lt;i&gt;Lysiteles&lt;/i&gt; &lt;i&gt;guangxiensis&lt;/i&gt; He &amp; Hu, 1999 is a junior synonym of &lt;i&gt;Alcimochthes&lt;/i&gt; &lt;i&gt;limbatus&lt;/i&gt; Simon, 1885. The true females of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hainanus&lt;/i&gt; Song, 1993 and &lt;i&gt;Lysiteles&lt;/i&gt; &lt;i&gt;minusculus&lt;/i&gt; Song &amp; Chai, 1990 are described for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; revision; new species; Southeast Asia; tropical rainforest</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guo</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2010-02-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

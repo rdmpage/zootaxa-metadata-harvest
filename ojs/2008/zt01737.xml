@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1737.1</id>
+    <title locale="en_US">31 Mar. 2008</title>
+    <volume>1737</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-03-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New World direct-developing frogs (Anura: Terrarana): Molecular phylogeny, classification, biogeography, and conservation</title>
+        <abstract locale="en_US">New World frogs recently placed in a single, enormous family (Brachycephalidae) have direct development and reproduce on land, often far away from water. DNA sequences from mitochondrial and nuclear genes of 344 species were analyzed to estimate their relationships. The molecular phylogeny in turn was used as the basis for a revised classification of the group. The 882 described species are placed in a new taxon, Terrarana, and allocated to four families, four subfamilies, 24 genera, 11 subgenera, 33 species series, 56 species groups, and 11 species subgroups. Systematic accounts are provided for all taxa above the species level. Two families (Craugastoridae and Strabomantidae), three subfamilies (Holoadeninae, Phyzelaphryninae, and Strabomantinae), six genera (Bryophryne, &lt;i&gt;Diasporus,&lt;/i&gt; &lt;i&gt;Haddadus,&lt;/i&gt; &lt;i&gt;Isodactylus,&lt;/i&gt; &lt;i&gt;Lynchius,&lt;/i&gt; and &lt;i&gt;Psychrophrynella),&lt;/i&gt; and two subgenera (Campbellius and &lt;i&gt;Schwartzius)&lt;/i&gt; are proposed and named as new taxa, 13 subspecies are considered to be distinct species, and 613 new combinations are formed. Most of the 100 informal groups (species series, species groups, and species subgroups) are new or newly defined. &lt;i&gt;Brachycephalus&lt;/i&gt; and &lt;i&gt;Ischnocnema&lt;/i&gt; are placed in Brachycephalidae, a relatively small clade restricted primarily to southeastern Brazil. Eleutherodactylidae includes two subfamilies, four genera, and five subgenera and is centered in the Caribbean region. Craugastoridae contains two genera and three subgenera and is distributed mainly in Middle America. Strabomantidae is distributed primarily in the Andes of northwestern South America and includes two subfamilies, 16 genera, and three subgenera. Images and distribution maps are presented for taxa above the species level and a complete list of species is provided. Aspects of the evolution, biogeography, and conservation of Terrarana are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Brachycephalidae; Craugastoridae; DNA sequence; Eleutherodactylidae; evolution; Strabomantidae; systematics; taxonomy</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>Blair</middlename>
+          <lastname>Hedges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>William</firstname>
+          <middlename>E.</middlename>
+          <lastname>Duellman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Heinicke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-182</pages>
+        <date_published>2008-03-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

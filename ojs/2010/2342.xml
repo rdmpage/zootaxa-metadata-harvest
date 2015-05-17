@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2342.1</id>
+    <title locale="en_US">22 Jan. 2010</title>
+    <volume>2342</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-01-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Neotropical subfamily Eurychoromyiinae (Diptera: Lauxaniidae)</title>
+        <abstract locale="en_US">The status of the enigmatic family Eurychoromyiidae is revised to a subfamily of Lauxaniidae, and the entire subfamily is revised with a key to genera and species, and maps for all species. Previously monotypic with only the species &lt;i&gt;Eurychoromyia&lt;/i&gt; &lt;i&gt;mallea&lt;/i&gt; Hendel, one closely related genus, &lt;i&gt;Tauridion&lt;/i&gt; Papp &amp; Silva, is moved into this subfamily, and five new genera are described: &lt;i&gt;Choryeuromyia,&lt;/i&gt; &lt;i&gt;Euryhendelimyia,&lt;/i&gt; &lt;i&gt;Eurystratiomyia,&lt;/i&gt; &lt;i&gt;Physegeniopsis,&lt;/i&gt; and &lt;i&gt;Roryeuchomyia.&lt;/i&gt; Besides the type species for &lt;i&gt;Eurychoromyia&lt;/i&gt; and &lt;i&gt;Tauridion,&lt;/i&gt; all species herein are new, including &lt;i&gt;Choryeuromyia&lt;/i&gt; &lt;i&gt;xenisma&lt;/i&gt; (type species of genus), &lt;i&gt;Euryhendelimyia&lt;/i&gt; &lt;i&gt;schlingeri&lt;/i&gt; (type species of genus), &lt;i&gt;Eurystratiomyia&lt;/i&gt; &lt;i&gt;epacrovitta,&lt;/i&gt; &lt;i&gt;Eurystratiomyia&lt;/i&gt; &lt;i&gt;erwini&lt;/i&gt; (type species of genus), &lt;i&gt;Physegeniopsis&lt;/i&gt; &lt;i&gt;albeto,&lt;/i&gt; &lt;i&gt;Physegeniopsis&lt;/i&gt; &lt;i&gt;ankhoidea&lt;/i&gt; (type species of genus), &lt;i&gt;Physegeniopsis&lt;/i&gt; &lt;i&gt;hadrocara,&lt;/i&gt; and &lt;i&gt;Roryeuchomyia&lt;/i&gt; &lt;i&gt;tigrina&lt;/i&gt; (type species of genus). Eggs are described for &lt;i&gt;Tauridion&lt;/i&gt; &lt;i&gt;shewelli&lt;/i&gt; and &lt;i&gt;Physegeniopsis&lt;/i&gt; &lt;i&gt;albeto.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Lauxaniidae; Eurychoromyiidae; &lt;i&gt;Choryeuromyia&lt;/i&gt;; &lt;i&gt;Eurychoromyia&lt;/i&gt;; &lt;i&gt;Euryhendelimyia&lt;/i&gt;; &lt;i&gt;Eurystratiomyia&lt;/i&gt;; &lt;i&gt;Physegeniopsis&lt;/i&gt;; &lt;i&gt;Roryeuchomyia&lt;/i&gt;; &lt;i&gt;Tauridion&lt;/i&gt;; Neotropical</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Gaimari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vera</firstname>
+          <middlename>C.</middlename>
+          <lastname>Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2010-01-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

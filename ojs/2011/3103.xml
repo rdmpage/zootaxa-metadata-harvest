@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3103.1</id>
+    <title locale="en_US">18 Nov. 2011</title>
+    <volume>3103</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-11-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Oxynaspididae (Crustacea, Cirripedia): phylogenetics and evolutionary ecology, with descriptions of three new genera and six new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>J.</middlename>
+          <lastname>Van Syoc</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Allen</firstname>
+          <middlename>M.</middlename>
+          <lastname>Dekelboum</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2011-11-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Parasitic copepods of the family Taeniacanthidae (Crustacea) from triggerfishes (Teleostei, Balistidae) and filefishes (Teleostei, Monacanthidae) collected in the Indo-West Pacific region, with descriptions of two new species of &lt;i&gt;Taeniacanthus &lt;/i&gt;Sumpf, 1871</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Taeniacanthus&lt;/i&gt; Sumpf, 1871 (Copepoda, Taeniacanthidae) are described from filefishes (Monacanthidae) caught in the Indo-West Pacific region: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;brayae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;Pervagor&lt;/i&gt; &lt;i&gt;melanocephalus&lt;/i&gt; (Bleeker) collected from five localities within the Central Indo-Pacific realm and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;mcgroutheri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;Monacanthus&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt; (Osbeck) and &lt;i&gt;Paramonacanthus&lt;/i&gt; &lt;i&gt;choirocephalus&lt;/i&gt; (Bleeker) caught off the Australian coast. &lt;i&gt;Taeniacanthus&lt;/i&gt; &lt;i&gt;brayae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;mcgroutheri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are distinguished from their congeners by the presence of an elongate terminal endopodal segment of the antenna, a spinulated terminal process and one seta on the maxillary basis, six elements on the terminal exopodal segment of legs 2–4 and an armature of II, I, 2 and II, I, 1 on the terminal endopodal segments of legs 2 and 3, respectively. &lt;i&gt;Taeniacanthus&lt;/i&gt; &lt;i&gt;brayae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; can be readily distinguished from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;mcgroutheri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; by having one row (rather than multiple rows) of spinules on the large pectinate process of the antenna, four setae (rather than three) on the maxillule and a 3-segmented (rather than 2-segmented) endopod on legs 2–4. New host and/or locality records for the taeniacanthids &lt;i&gt;Cirracanthus&lt;/i&gt; &lt;i&gt;monacanthi&lt;/i&gt; (Yamaguti, 1939), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spinosus&lt;/i&gt; Dojiri &amp; Cressey, 1987, &lt;i&gt;Nudisodalis&lt;/i&gt; &lt;i&gt;acicula&lt;/i&gt; Dojiri &amp; Cressey, 1987 and &lt;i&gt;Taeniacanthus&lt;/i&gt; &lt;i&gt;aluteri&lt;/i&gt; (Avdeev, 1977) parasitic on triggerfishes and filefishes, as well as supplementary morphological information for the females and the first descriptions of the males of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;monacanthi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spinosus&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;acicula,&lt;/i&gt; are also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Copepoda; Tetraodontiformes; host-specificity; ectoparasite</subject>
+          <subject_class locale="en_US">Copepoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Danny</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daisuke</firstname>
+          <lastname>Uyeno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazuya</firstname>
+          <lastname>Nagasawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-56</pages>
+        <date_published>2011-11-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Prodorylaimus filamentus &lt;/i&gt;sp. n. and &lt;i&gt;Eutobrilus longicaudatoides &lt;/i&gt;sp. n. (Nematoda) from Lake Baikal, Russia</title>
+        <abstract locale="en_US">Two nematode species found in Lake Baikal, Russia are described. &lt;i&gt;Prodorylaimus&lt;/i&gt; &lt;i&gt;filamentus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is morphologically close to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;longicaudatoides&lt;/i&gt; Altherr, 1968 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kralli&lt;/i&gt; Tsalolikhin, 1975. The new species can be separated from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;longicaudatoides&lt;/i&gt; by the longer body (L = 4.89–6.06 mm &lt;i&gt;versus&lt;/i&gt; &lt;i&gt;L&lt;/i&gt; = 2.0–3.5 mm), relatively longer tail (c′ = 18.4–25.0 &lt;i&gt;versus&lt;/i&gt; &lt;i&gt;c′&lt;/i&gt; = 14–18), longer odontostyle (60–65 µm long &lt;i&gt;versus&lt;/i&gt; 32–37 µm long), presence of double and wide guiding ring and longer spicules (89–90 µm long &lt;i&gt;versus&lt;/i&gt; 70–78 µm long). It can also be separated from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kralli&lt;/i&gt; by the longer tail (c = 4.3– 6.0, &lt;i&gt;c’&lt;/i&gt; = 18.4–25.0 &lt;i&gt;versus&lt;/i&gt; &lt;i&gt;c&lt;/i&gt; = 7.0–8.0, &lt;i&gt;c′&lt;/i&gt; = 11–16), lower “vulva-anus to tail length” ratio (1.6–2.2 &lt;i&gt;versus&lt;/i&gt; 2.5–3.0), shorter odontostyle (60–65 µm long &lt;i&gt;versus&lt;/i&gt; 75–80 µm long). &lt;i&gt;Eutobrilus&lt;/i&gt; &lt;i&gt;longicaudatoides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is closely related to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;anguiculus&lt;/i&gt; Tsalolikhin, 1977, but is clearly distinct in the shorter outer labial setae (9–10 µm long or 45–52% of the labial region diameter &lt;i&gt;versus&lt;/i&gt; 15–20 µm long or 50–60 % of the labial region diameter), longer tail (males, &lt;i&gt;c&lt;/i&gt; = 5.3–5.5, &lt;i&gt;c’&lt;/i&gt; = 11.4–11.8, females, &lt;i&gt;c&lt;/i&gt; = 4.5–6.3, &lt;i&gt;c′&lt;/i&gt; = 15.1–16.7, &lt;i&gt;versus&lt;/i&gt; males, &lt;i&gt;c&lt;/i&gt; = 7.4–10.4, &lt;i&gt;c′&lt;/i&gt; &lt;i&gt;=&lt;/i&gt; 8–9, females, &lt;i&gt;c&lt;/i&gt; = 5.0–7.7, &lt;i&gt;c′&lt;/i&gt; &lt;i&gt;=&lt;/i&gt; 10–12), smaller number of supplements (5 &lt;i&gt;versus&lt;/i&gt; 6) and shorter spicules (47–53 µm long &lt;i&gt;versus&lt;/i&gt; 66–68 µm long).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">descriptions; &lt;i&gt;Eutobrilus&lt;/i&gt; &lt;i&gt;longicaudatoides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; free-living freshwater nematodes; Lake Baikal; new species; &lt;i&gt;Prodorylaimus&lt;/i&gt; &lt;i&gt;filamentus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; taxonomy</subject>
+          <subject_class locale="en_US">descriptions</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>G.</middlename>
+          <lastname>Gagarin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatyana</firstname>
+          <middlename>V.</middlename>
+          <lastname>Naumova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2011-11-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

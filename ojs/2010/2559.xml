@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2559.1</id>
+    <title locale="en_US">5 Aug. 2010</title>
+    <volume>2559</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of &lt;i&gt;Jankowskia &lt;/i&gt;Oberthür, 1884, with descriptions of four new species (Lepidoptera: Geometridae, Ennominae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Jankowskia&lt;/i&gt; Oberthür, 1884 is reviewed and four new species are described: &lt;i&gt;J.&lt;/i&gt; &lt;i&gt;curva&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;J.&lt;/i&gt; &lt;i&gt;acuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;J.&lt;/i&gt; &lt;i&gt;improjecta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;J.&lt;/i&gt; &lt;i&gt;obtusangula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;J.&lt;/i&gt; &lt;i&gt;bituminaria&lt;/i&gt; &lt;i&gt;raddensis&lt;/i&gt; (Wehrli, 1941) is recorded for the first time from China. A key to all species of the genus is provided. The diagnoses for all species are given. Illustrations of adults and genitalia are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Jankowskia&lt;/i&gt;; taxonomy; new species; Geometridae; Lepidoptera</subject>
+          <subject_class locale="en_US">&lt;i&gt;Jankowskia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nan</firstname>
+          <lastname>Jiang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dayong</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongxiang</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2010-08-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the New Caledonian endemic genus &lt;i&gt;Agnotecous&lt;/i&gt; (Orthoptera, Grylloidea, Eneopterinae, Lebinthini)</title>
+        <abstract locale="en_US">To analyze the pattern of endemism of Eneopterinae crickets (Orthoptera, Grylloidea, Eneopteridae) in New Caledonia, available data sets have been completed by intensive field work and by the study of museum collections. Five new species of &lt;i&gt;Agnotecous&lt;/i&gt; Saussure, 1878 (A. &lt;i&gt;humboldti&lt;/i&gt; Robillard, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nekando&lt;/i&gt; Robillard, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minoris&lt;/i&gt; Robillard, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;petchekara&lt;/i&gt; Desutter-Grandcolas, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pinsula&lt;/i&gt; Robillard, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; and one new subspecies (A. &lt;i&gt;brachypterus&lt;/i&gt; &lt;i&gt;pocquensis&lt;/i&gt; Desutter-Grandcolas, n. ssp.) are described here from Grande Terre and Île des Pins. These new data (1) enhance the richness of &lt;i&gt;Agnotecous&lt;/i&gt; in New Caledonia, with a total of 20 known species for the genus; (2) complete the distributional data about species sympatry; (3) further document the distribution of the genus in the archipelago; and (4) confirm the acoustic properties of &lt;i&gt;Agnotecous&lt;/i&gt; calling songs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthoptera; Eneopterinae; Lebinthini; &lt;i&gt;Agnotecous&lt;/i&gt;; new species; new subspecies; New Caledonia; endemism</subject>
+          <subject_class locale="en_US">Orthoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tony</firstname>
+          <lastname>Robillard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Romain</firstname>
+          <lastname>Nattier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laure</firstname>
+          <lastname>Desutter-Grandcolas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-35</pages>
+        <date_published>2010-08-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Adult morphology of &lt;i&gt;Paramorganiella adventurosa &lt;/i&gt;Tonnoir (Diptera: Mycetophilidae: Sciophilinae), including a description of the unique maxillary palpi</title>
+        <abstract locale="en_US">The adult morphology of male &lt;i&gt;Paramorganiella&lt;/i&gt; &lt;i&gt;adventurosa&lt;/i&gt; Tonnoir is redescribed on the basis of new material from Tasmania. Details of the male genitalia are described and figured for the first time. The female is described for the first time. Special attention is paid to the clypeus and maxillary palpus, both sexually dimorphic, of which the anatomy is extensively illustrated and discussed with respect to possible function and in the context of palpal modifications found in other Mycetophilidae. Anatomy suggests the palpi of males function as a mechanical tool rather than a probing organ, which is unique among Mycetophilidae and Diptera. Various functional hypotheses are discussed in the context of sexual selection.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mycetophilidae; &lt;i&gt;Paramorganiella&lt;/i&gt; &lt;i&gt;adventurosa&lt;/i&gt;; anatomy; maxillary palpus; sexual dimorphism; sexual selection; female description; Australia</subject>
+          <subject_class locale="en_US">Mycetophilidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mathias</firstname>
+          <lastname>Jaschhof</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Blank</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Uwe</firstname>
+          <lastname>Kallweit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-46</pages>
+        <date_published>2010-08-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new South American species of &lt;i&gt;Banasa &lt;/i&gt;Stål (Hemiptera: Heteroptera: Pentatomidae: Pentatominae): from egg to adult</title>
+        <abstract locale="en_US">&lt;i&gt;Banasa&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from a Brazilian Atlantic Forest, including immature stages and aspects of its life history. Adults and nymphs were reared in laboratory and fed on fruits of &lt;i&gt;Miconia&lt;/i&gt; &lt;i&gt;sellowiana&lt;/i&gt; (Melastomataceae). Eggs and first instars of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; are similar to those of other species of &lt;i&gt;Banasa;&lt;/i&gt; however, the color pattern of the abdomen distinguishes &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculata,&lt;/i&gt; particularly first, fourth, and fifth instars. Light and dark morphs were observed for third, fourth, and fifth instars. Head-width measurements overlap only between fourth and fifth instars. Eggs of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculata,&lt;/i&gt; in S.E.M., show a reticulate pattern with deep cells and irregular rims. The most frequent size of an egg clutch was 12. Average duration of the immature stages (egg to adult) was 37.6 ± 13.24 days. The highest mortality occurred in the fifth instar (45.9%). &lt;i&gt;Banasa&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; belongs to the “cuspidata group” of &lt;i&gt;Banasa&lt;/i&gt; because of the presence of an apical projection of each posterolateral angle of the pygophore. Adults of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; resemble &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;varians&lt;/i&gt; Stål; the new species is recognized by the transversal, irregular, broad macula on pronotum; gonocoxites 8 deeply excavated medially; and the male proctiger subtriangular, narrowing toward the apex.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pentatominae; morphology of genitalia; immature stages; chorion sculpture</subject>
+          <subject_class locale="en_US">Pentatominae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luiz</firstname>
+          <middlename>Alexandre</middlename>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jocelia</firstname>
+          <lastname>Grazia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thereza</firstname>
+          <lastname>De Almeida Garbelotto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Filipe</firstname>
+          <middlename>Michels</middlename>
+          <lastname>Bianchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nara</firstname>
+          <middlename>Coral</middlename>
+          <lastname>Lanzarini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-57</pages>
+        <date_published>2010-08-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">True females of the subgenus &lt;i&gt;Photomorphina &lt;/i&gt;Schuster (Hymenoptera: Mutillidae)</title>
+        <abstract locale="en_US">Using morphological and distributional evidence, the females of &lt;i&gt;Photomorphus&lt;/i&gt; (Photomorphina) &lt;i&gt;archboldi&lt;/i&gt; Manley &amp; Deyrup, &lt;i&gt;P.&lt;/i&gt; (Photomorphina) &lt;i&gt;auriventris&lt;/i&gt; Schuster, and &lt;i&gt;P.&lt;/i&gt; (Photomorphina) &lt;i&gt;spinci&lt;/i&gt; (Bradley) are newly described. Discovery of these females facilitated a necessary study on the structural differences between the two &lt;i&gt;Photomorphus&lt;/i&gt; subgenera, &lt;i&gt;Photomorphus&lt;/i&gt; Viereck and &lt;i&gt;Photomorphina&lt;/i&gt; Schuster, and revealed diagnostic setal patterns and sculpturing of the mesosoma and metasoma for the two subgenera. Furthermore, examination of type material revealed past misidentifications that led to incorrect taxonomic status for these insects, requiring significant changes to taxonomy. &lt;i&gt;Photomorphus&lt;/i&gt; &lt;i&gt;myrmicoides&lt;/i&gt; (Cockerell) is transferred from the subgenus &lt;i&gt;Photomorphina&lt;/i&gt; to subgenus &lt;i&gt;Photomorphus.&lt;/i&gt; &lt;i&gt;Photomorphus&lt;/i&gt; &lt;i&gt;subtenuis&lt;/i&gt; (Viereck), &lt;b&gt;revised&lt;/b&gt; &lt;b&gt;status,&lt;/b&gt; and &lt;i&gt;Photomorphus&lt;/i&gt; &lt;i&gt;impar&lt;/i&gt; (Melander), &lt;b&gt;revised&lt;/b&gt; &lt;b&gt;status,&lt;/b&gt; are resurrected from incorrect synonymy under &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;myrmicoides.&lt;/i&gt; &lt;i&gt;Photomorphus&lt;/i&gt; &lt;i&gt;impar&lt;/i&gt; is considered the senior synonym of &lt;i&gt;Mutilla&lt;/i&gt; &lt;i&gt;parvula&lt;/i&gt; Blake, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;johnsoni&lt;/i&gt; Viereck, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;johnsoni&lt;/i&gt; var. &lt;i&gt;argentipilis&lt;/i&gt; Schuster, &lt;b&gt;new&lt;/b&gt; &lt;b&gt;synonyms.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Xenomorphus&lt;/i&gt;; nocturnal velvet ant</subject>
+          <subject_class locale="en_US">&lt;i&gt;Xenomorphus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Craig</firstname>
+          <middlename>M.</middlename>
+          <lastname>Brabant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>A.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>P.</middlename>
+          <lastname>Pitts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2010-08-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

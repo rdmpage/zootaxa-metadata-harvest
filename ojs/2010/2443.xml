@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2443.1</id>
+    <title locale="en_US">3 May. 2010</title>
+    <volume>2443</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the tarantula spider genus &lt;i&gt;Coremiocnemis&lt;/i&gt; Simon 1892 (Araneae, Theraphosidae), with further notes on the Selenocosmiinae</title>
+        <abstract locale="en_US">The selenocosmiine genus &lt;i&gt;Coremiocnemis&lt;/i&gt; Simon 1892 is revised for the first time with six new species included. Five new species are from West Malaysia: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brachyramosa&lt;/i&gt; sp. nov. from Gunung Ledang, Johor; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gnathospina&lt;/i&gt; sp. nov. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hoggi&lt;/i&gt; sp. nov. from Fraser’s Hill, Selangor; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jeremyhuffi&lt;/i&gt; sp. nov. from Tapah, Perak, Fraser’s Hill, Selangor to Pahang and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;obscura&lt;/i&gt; sp. nov. from Taiping, Perak to Cameron Highlands, Pahang. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kotacana&lt;/i&gt; sp. nov. is described from Aceh Teneggara, Sumatra, being the first record of this genus outside Malaysia or Australia. A lectotype and paralectotype are designated for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cunicularia&lt;/i&gt; (Simon 1892). All but two of Abraham’s non-type &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;valida&lt;/i&gt; Pocock 1895 (Abraham 1924) specimens held in both the NHM and RMBR are newly transferred to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cunicularia.&lt;/i&gt; Abraham’s two remaining specimens are removed from &lt;i&gt;Coremiocnemis.&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;valida&lt;/i&gt; is redescribed, its former dubious locality is resolved. Zoogeographic considerations of all species are discussed and resolved. Ontogenetic variation within &lt;i&gt;Coremiocnemis&lt;/i&gt; is discussed. Several new characters are introduced. Subfamilial relationships with proposed sister genera &lt;i&gt;Selenocosmia&lt;/i&gt; Ausserer 1871 and &lt;i&gt;Lyrognathus&lt;/i&gt; Pocock 1895 are discussed. A key to species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mygalomorph; new species; Borneo; Sumatra; Malaysia; Australia; distribution; ontogeny; zoogeography; natural history.</subject>
+          <subject_class locale="en_US">Mygalomorph</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rick</firstname>
+          <middlename>C.</middlename>
+          <lastname>West</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steven</firstname>
+          <middlename>C.</middlename>
+          <lastname>Nunn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2010-05-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

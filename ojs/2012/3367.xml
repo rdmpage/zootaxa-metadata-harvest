@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Table of contents</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Full</firstname>
+          <middlename>Article Open Access</middlename>
+          <lastname>Erratum</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3367.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3367</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Scientific Results of the Kumejima Marine Biodiversity Expedition — KUMEJIMA 2009 — Editorial</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heok</firstname>
+          <middlename>Hui</middlename>
+          <lastname>Tan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shane</firstname>
+          <middlename>T.</middlename>
+          <lastname>Ahyong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>Davis</middlename>
+          <lastname>Reimer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>5-7</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The KUMEMEJIMA 2009 Expedition: station data and collecting sites</title>
+        <abstract locale="en_US">The present paper introduces the sampling methods employed during the Marine Biodiversity Expedition — KUMEJIMA 2009. Data of all sampling stations are listed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">KUMEJIMA 2009 Expedition; methodology; sampling; station data</subject>
+          <subject_class locale="en_US">KUMEJIMA 2009 Expedition</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>8-20</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Epibiotic barnacles (Crustacea: Cirripedia: Thoracica) collected by the Kumejima 2009 Expedition, with descriptions of two new species</title>
+        <abstract locale="en_US">The present study reports on the epibiotic barnacles collected by the Kumejima 2009 Expedition. Six cirripedespecies from five genera within four families were identified: &lt;i&gt;Oxynaspis&lt;/i&gt; &lt;i&gt;celata&lt;/i&gt; Darwin, 1852, &lt;i&gt;Euscalpellum&lt;/i&gt; c.f.&lt;i&gt;squamosum&lt;/i&gt; Hiro, 1937, &lt;i&gt;Poecilasma&lt;/i&gt; &lt;i&gt;obliqua&lt;/i&gt; (Hoek, 1907) and &lt;i&gt;Platylepas&lt;/i&gt; &lt;i&gt;hexastylos&lt;/i&gt; (Fabricius, 1798), all ofwhich had been recorded previously from Japanese waters, and two new taxa, &lt;i&gt;Calantica&lt;/i&gt; &lt;i&gt;arcuata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and&lt;i&gt;Oxynaspis&lt;/i&gt; &lt;i&gt;ryukyuensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The hosts of the barnacles collected included antipatharian corals, gorgonian corals, a decapod crustacean and a sea turtle.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Benny</firstname>
+          <middlename>K. K.</middlename>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ryota</firstname>
+          <lastname>Hayashi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-48</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the copepod &lt;i&gt;Hatschekia &lt;/i&gt;Poche, 1902 (Siphonostomatoida: Hatschekiidae) from angelfishes (Pisces: Perciformes: Pomacanthidae) collected during the KUMEJIMA 2009 Expedition</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Hatschekia&lt;/i&gt; Poche, 1902 (Siphonostomatoida: Hatschekiidae) are described based on specimenscollected during the KUMEJIMA 2009 Expedition carried out at Kumejima Island, Ryukyu Islands, an area getting strongKuroshio current influence in the East China Sea, Japan. Female &lt;i&gt;Hatscekia&lt;/i&gt; &lt;i&gt;triannuli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and female and male &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;sumireyakko&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; were removed from &lt;i&gt;Centropyge&lt;/i&gt; &lt;i&gt;heraldi&lt;/i&gt; Woods &amp; Schultz and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;venusta&lt;/i&gt; (Yasuda &amp; Tominaga),respectively. The two new species shares a unique dorsal frame on the cephalothorax that is absent on other congeners. These two species can be differentiated from each other by the shape and proportion of the cephalothorax, trunk, and leg 2.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasitic Copepoda; new species; the Ryukyu Islands; angelfish</subject>
+          <subject_class locale="en_US">parasitic Copepoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daisuke</firstname>
+          <lastname>Uyeno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazuya</firstname>
+          <lastname>Nagasawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the copepod genus &lt;i&gt;Anthessius &lt;/i&gt;Della Valle, 1880 (Poecilostomatoida: Anthessiidae) from Turbo marmoratus Linnaeus (Gastropoda: Turbinidae) collected during the KUMEJIMA 2009 Expedition</title>
+        <abstract locale="en_US">&lt;i&gt;Anthessius&lt;/i&gt; &lt;i&gt;isamusi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described based on female and male specimens from a turbinid gastropod, &lt;i&gt;Turbo&lt;/i&gt; &lt;i&gt;marmoratus&lt;/i&gt;Linnaeus, collected in the East China Sea off Kumejima Island, the Ryukyu Islands, southern Japan, during the KUME-JIMA 2009 Expedition. The female of the new species is differentiated from its congeners by the following combinationof characters: 1) the absence of denticles on the ventral surface of the anal somite; 2) the length to width ratio of the caudalramus; 3) the antenna bearing 4 claws; 4) the maxilla with 3 distal teeth; 5) the exopod of leg 4 with 3 spines on the terminal segment, and; 6) leg 5 with a rod-like terminal segment.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Copepoda; new species; the Ryukyu Islands; gastropod</subject>
+          <subject_class locale="en_US">Copepoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daisuke</firstname>
+          <lastname>Uyeno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazuya</firstname>
+          <lastname>Nagasawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Thetispelecaris &lt;/i&gt;Gutu &amp; Illife, 1998 (Crustacea: Peracarida: Bochusacea) from a submarine cave in the Pacific Ocean</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Thetispelecaris&lt;/i&gt; is described from a submarine cave in Japan as the first record of the genus from thePacific Ocean. &lt;i&gt;Thetispelecaris&lt;/i&gt; &lt;i&gt;kumejimensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from its congeners in the following combination of characters:carapace 1.1 times as long as wide; antennal scale with 3–4 setae; maxilliped dactylus with 4 slender setae; basis of pere-opod 1 with 2 long setae ventrodistally; exopod of pereopods 4 and 5 4-segmented; basis and ischium of pereopod 3 sep-arated; basis and ischium of pereopods 4–6 partly fused; and pleopods 4 and 5 with 2 setae apically. This study represents the sixth species of the order Bochusacea.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; &lt;i&gt;Thetispelecaris&lt;/i&gt;; submarine cave; Kumejima Is.; Bochusacea</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michitaka</firstname>
+          <lastname>Shimomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-78</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Gnathiidae from &lt;i&gt;Kumejima &lt;/i&gt;Island in the Ryukyu Archipelago, southwestern Japan, with description of three new species (Crustacea: Isopoda)</title>
+        <abstract locale="en_US">A marine biodiversity expedition was carried out from 7 November to 22 November 2009 in Kumejima Island, the RyukyuArchipelago, southwestern Japan. The dredge and trawl samplings from 10 to 147 m depths yielded five gnathiid speciesincluding three new &lt;i&gt;Gnathia&lt;/i&gt; species. In this paper, these three new species are described based on male morphologies and three morphotypes of larvae are also described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gnathiid isopod; new species; biodiversity expedition; the Ryukyu Archipelago; Kumejima Island</subject>
+          <subject_class locale="en_US">Gnathiid isopod</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuzo</firstname>
+          <lastname>Ota</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-94</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Hippolytidae and Barbouriidae (Decapoda: Caridea) collected during the Ryukyu “KUMEJIMA 2009” expedition</title>
+        <abstract locale="en_US">The present report deals with caridean shrimps from the families Hippolytidae (7 species) and Barbouriidae (1 species)collected during the KUMEJIMA 2009 expedition in the Ryukyu Islands. The deep-water hippolytid &lt;i&gt;Gelastreutes&lt;/i&gt;&lt;i&gt;crosnieri&lt;/i&gt; Bruce, 1990 is recorded from Kumejima based on a single female specimen, representing a considerable rangeextension of this species from New Caledonia to Japan. The opportunity is also taken to record and illustrate the firstknown male specimen of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;crosnieri,&lt;/i&gt; collected during the SANTO 2006 expedition off West Mavéa Island, Vanuatu. Thecolour pattern of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;crosnieri&lt;/i&gt; is shown for the first time. The Kumejima and Vanuatu specimens present noticeabledifferences in both morphology and colouration, but appear to be conspecific based on comparison of the barcoding geneCOI sequences. The recently described &lt;i&gt;Lysmata&lt;/i&gt; &lt;i&gt;lipkei&lt;/i&gt; Okuno &amp; Fielder, 2010 is recorded for the second time, however,not representing a significant range extension of this species. The other species reported are &lt;i&gt;Saron&lt;/i&gt; &lt;i&gt;marmoratus&lt;/i&gt; (Olivier,1811), &lt;i&gt;Saron&lt;/i&gt; &lt;i&gt;neglectus&lt;/i&gt; De Man, 1902, &lt;i&gt;Thinora&lt;/i&gt; &lt;i&gt;maldivensis&lt;/i&gt; (Borradaile, 1915), &lt;i&gt;Thor&lt;/i&gt; &lt;i&gt;amboinensis&lt;/i&gt; (De Man, 1888), &lt;i&gt;Tozeuma&lt;/i&gt; &lt;i&gt;armatum&lt;/i&gt; Paul’son, 1875 (Hippolytidae), and &lt;i&gt;Parhippolyte&lt;/i&gt; &lt;i&gt;misticia&lt;/i&gt; (Clark, 1989) (Barbouriidae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caridea; Hippolytidae; Barbouriidae; new records; &lt;i&gt;Gelastreutes&lt;/i&gt;; Kumejima; Japan</subject>
+          <subject_class locale="en_US">Caridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sammy</firstname>
+          <lastname>De Grave</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Junji</firstname>
+          <lastname>Okuno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>95-102</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Crinoid-associated pontoniine shrimps of the genus &lt;i&gt;Laomenes &lt;/i&gt;Clark, 1919 (Decapoda, Caridea, Palaemonidae) from PANGLAO 2004 and KUMEJIMA 2009 Expeditions, with description of two new species</title>
+        <abstract locale="en_US">Four species of the crinoid-associated pontoniine shrimps of the “Laomenes &lt;i&gt;amboinensis&lt;/i&gt; (De Man, 1888)” species groupwere collected in the Philippines PANGLAO 2004 and Ryukyu KUMEJIMA 2009 Expeditions. Two of them, &lt;i&gt;L.&lt;/i&gt;&lt;i&gt;pestrushka&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Ryukyus and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gyrophthalmus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Philippines, are new to science. The two others, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;cornutus&lt;/i&gt; (Borradaile, 1915) and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;holthuisi&lt;/i&gt; Marin &amp; Okuno, 2010, are rarely collected species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Pontoniinae; &lt;i&gt;Laomenes&lt;/i&gt;; new species; Crinoidea; Ryukyu Islands; Philippines</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ivan</firstname>
+          <lastname>Marin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Junji</firstname>
+          <lastname>Okuno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>103-114</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new antipatharian-associated species of the genus &lt;i&gt;Cuapetes &lt;/i&gt;Clark, 1919 (Crustacea: Decapoda: Palaemonidae) and a new record of C. nilandensis (Borradaile, 1915) from Japan</title>
+        <abstract locale="en_US">Two antipatharian-associated species of the pontoniine shrimp genus &lt;i&gt;Cuapetes&lt;/i&gt; Clark, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lanceolatus&lt;/i&gt; sp. nov. and &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;nilandensis&lt;/i&gt; (Borradaile), are reported from the Ryukyu Islands, Japan. The new species appears closest to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;akiensis&lt;/i&gt;(Kubo) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;calmani&lt;/i&gt; (Tattersall), but differs considerably from the latter two species in the shape of the rostrum and thelength of upper antennular flagellum. &lt;i&gt;Cuapetes&lt;/i&gt; &lt;i&gt;nilandensis,&lt;/i&gt; the type species of the genus, is recorded from Japanese waters for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Palaemonidae; &lt;i&gt;Cuapetes&lt;/i&gt;; new species; range extension; antipatharian associate</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Junji</firstname>
+          <lastname>Okuno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>115-125</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Reef lobsters of the genus &lt;i&gt;Enoplometopus &lt;/i&gt;A. Milne-Edwards, 1862 (Crustacea: Decapoda: Nephropidea) from the KUMEJIMA 2009 Expedition in Okinawa, with the second record of the rare species &lt;i&gt;E. chacei&lt;/i&gt; Kensley &amp; Child, 1986</title>
+        <abstract locale="en_US">Two reef lobsters of the genus &lt;i&gt;Enoplometopus&lt;/i&gt; A. Milne-Edwards, 1862, were collected during the KUMEJIMA 2009 Ex-pedition. The first is the very rare species &lt;i&gt;Enoplometopus&lt;/i&gt; &lt;i&gt;chacei&lt;/i&gt; Kensley &amp; Child, 1986, which was previously knownonly from the male holotype collected in the Philippines. It is found that &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;chacei&lt;/i&gt; has two colour forms: one form withthe body covered with red dots while the other form completely lacking red dots on the body. The second species collectedis &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;voigtmanni&lt;/i&gt; Türkay, 1989, and represents the first recorded male of this species. Colour photographs are provided for the two species. The characters distinguishing &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;chacei&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;voigtmanni&lt;/i&gt; from their closest congeners are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; reef lobsters; &lt;i&gt;Enoplometopus&lt;/i&gt; &lt;i&gt;chacei&lt;/i&gt;; &lt;i&gt;Enoplometopus&lt;/i&gt; &lt;i&gt;voigtmanni&lt;/i&gt;; Kume Islands; Okinawa</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>126-133</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Raymunida &lt;/i&gt;Macpherson &amp; Machordom, 2000 (Crustacea: Decapoda: Anomura: Munididae) from the KUMEJIMA 2009 Expedition in the Ryukyu Islands, Japan</title>
+        <abstract locale="en_US">Two species of the munidid genus &lt;i&gt;Raymunida&lt;/i&gt; Macpherson &amp; Machordom, 2000, are reported from Kume Island, RyukyuIslands, southwestern Japan. &lt;i&gt;Raymunida&lt;/i&gt; &lt;i&gt;striata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; appears closest to &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;confundens&lt;/i&gt; Macpherson &amp; Machordom, 2001,and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;dextralis&lt;/i&gt; Macpherson &amp; Machordom, 2001, but is distinguished by the second and third abdominal somites eachwith an uninterrupted stria between two distinct transverse ridges on the dorsal surface, the merus of the third maxillipedwith a prominent distal spine on the extensor margin, and the mero-carpal articulation of the fourth pereopod reachingonly to the lateral end of the anterior cervical groove of the carapace. The occurrence of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; Macpherson, 2009, inKume Island greatly extends its distribution range to the north hemisphere. Morphological variations of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; are also discussed on the basis of the present specimens. An updated key to the species of &lt;i&gt;Raymunida&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Munididae; &lt;i&gt;Raymunida&lt;/i&gt;; new species; Okinawa</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masayuki</firstname>
+          <lastname>Osawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>134-144</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and new species of pagurid hermit crab (Crustacea: Decapoda: Anomura: Paguroidea) from a submarine cave in Kume Island, Ryukyu Islands</title>
+        <abstract locale="en_US">A new genus and new species of pagurid hermit crab, &lt;i&gt;Kumepagurus&lt;/i&gt; &lt;i&gt;cavernicolus,&lt;/i&gt; is described on the basis of a singlemale specimen collected from a submarine cave in Kume Island, Ryukyu Islands, at a depth of 38 m. The new genus su-perficially resembles &lt;i&gt;Pylopaguropsis&lt;/i&gt; Alcock, 1905, in having13 pairs of biserial phyllobranchiae, the operculate rightchela and the possession of two terminal spines on the fixed finger of the left cheliped, but it is unique in the combination of 13 pairs of biserial gills and the presence of male sexual tubes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Anomura; Paguridae; new genus; new species; Ryukyu Islands; submarine cave</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masayuki</firstname>
+          <lastname>Osawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>145-154</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Pagurus &lt;/i&gt;Fabricius, 1775 (Crustacea: Decapoda: Anomura: Paguridae) from the Ryukyu Islands, southwestern Japan</title>
+        <abstract locale="en_US">A new species of pagurid hermit crab, &lt;i&gt;Pagurus&lt;/i&gt; &lt;i&gt;tabataorum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from Kume Island, Ryukyu Islands,southwestern Japan. It appears closest to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;capsularis&lt;/i&gt; McLaughlin, 1997, known from the Tanimbar Islands in Indonesia,but is readily distinguished by the possession of numerous arcuate or sinuous, transverse scutes on the dorsal surface ofthe chelae. Distributional patterns of species of the genus &lt;i&gt;Pagurus&lt;/i&gt; Fabricius, 1775, hitherto recorded from the Ryukyu Islands are briefly reviewed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Anomura; &lt;i&gt;Pagurus&lt;/i&gt;; new species; Ryukyus</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masayuki</firstname>
+          <lastname>Osawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>155-164</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new cryptic species in the “&lt;i&gt;Calcinus anani &lt;/i&gt;Poupin &amp; McLaughlin, 1998” species complex (Decapoda: Anomura: Diogenidae): evidence from colouration and molecular genetics</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Calcinus&lt;/i&gt; is described from western Pacific material, including specimens previously identified as &lt;i&gt;Cal-&lt;/i&gt;&lt;i&gt;cinus&lt;/i&gt; &lt;i&gt;anani&lt;/i&gt; Poupin &amp; McLaughlin, 1998. The new species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fuscus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anani&lt;/i&gt; in the colouration in life,and their specific distinction is genetically supported by the barcoding gene cytochrome oxidase I (COI). The two speciesalso have different geographic distributions, with &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fuscus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; ranging from Japan to the Philippines, Papua New Guin-ea, and New Caledonia, while &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anani&lt;/i&gt; is restricted to French Polynesia. Moreover &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fuscus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is found at shallower depths than its sister species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anani.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hermit crab; cryptic species; colour pattern</subject>
+          <subject_class locale="en_US">Hermit crab</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <middlename>Celia D.</middlename>
+          <lastname>Malay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>165-175</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Hermit crabs (Crustacea: Decapoda: Diogenidae) from the KUMEJIMA 2009 Expedition, Japan</title>
+        <abstract locale="en_US">Hermit crabs fauna of the family Diogenidae in the Kume Island, south Japan, were found to consist of 49 species, ofwhich 47 species were collected during the KUMEJIMA 2009 Expedition. Of the 49 species collected, 20 species, &lt;i&gt;Calci-&lt;/i&gt;&lt;i&gt;nus&lt;/i&gt; &lt;i&gt;seurati&lt;/i&gt; Forest, 1951; &lt;i&gt;Ciliopagurus&lt;/i&gt; &lt;i&gt;krempfi&lt;/i&gt; (Forest, 1952), &lt;i&gt;Clibanarius&lt;/i&gt; &lt;i&gt;corallinus&lt;/i&gt; H. Milne Edwards, 1848; &lt;i&gt;Clibanar-&lt;/i&gt;&lt;i&gt;ius&lt;/i&gt; &lt;i&gt;englaucus&lt;/i&gt; Ball &amp; Haig, 1972; &lt;i&gt;Clibanarius&lt;/i&gt; &lt;i&gt;rhabdodactylus&lt;/i&gt; Forest, 1953; &lt;i&gt;Clibanarius&lt;/i&gt; &lt;i&gt;striolatus&lt;/i&gt; Dana, 1852; &lt;i&gt;Dardanus&lt;/i&gt;&lt;i&gt;brachyops&lt;/i&gt; Forest, 1962; &lt;i&gt;Dardanus&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Asakura, 2006; &lt;i&gt;Dardanus&lt;/i&gt; &lt;i&gt;scutellatus&lt;/i&gt; (H. Milne Edwards, 1848); &lt;i&gt;Dardanus&lt;/i&gt;&lt;i&gt;woodmasoni&lt;/i&gt; Alcock, 1905; &lt;i&gt;Diogenes&lt;/i&gt; &lt;i&gt;holthuisi&lt;/i&gt; Asakura &amp; Tachikawa, 2010; &lt;i&gt;Diogenes&lt;/i&gt; &lt;i&gt;leptocerus&lt;/i&gt; Forest, 1956; &lt;i&gt;Diogenes&lt;/i&gt;&lt;i&gt;pallescens&lt;/i&gt; Whitelegge, 1897; &lt;i&gt;Paguristes&lt;/i&gt; &lt;i&gt;macrops&lt;/i&gt; Rahayu &amp; Forest, 2009; &lt;i&gt;Paguristes&lt;/i&gt; &lt;i&gt;ocellus&lt;/i&gt; Komai, 2010; &lt;i&gt;Pseudop-&lt;/i&gt;&lt;i&gt;aguristes&lt;/i&gt; &lt;i&gt;bicolour&lt;/i&gt; Asakura &amp; Kosuge, 2004; &lt;i&gt;Pseudopaguristes&lt;/i&gt; &lt;i&gt;bollandi&lt;/i&gt; Asakura &amp; McLaughlin, 2003; &lt;i&gt;Pseudopaguristes&lt;/i&gt;&lt;i&gt;janetkae&lt;/i&gt; McLaughlin, 2002; &lt;i&gt;Pseudopaguristes&lt;/i&gt; &lt;i&gt;laurentae&lt;/i&gt; (Morgan &amp; Forest, 1991); and &lt;i&gt;Pseudopaguristes&lt;/i&gt; &lt;i&gt;monoporus&lt;/i&gt;(Morgan, 1987), are recorded for the first time from Kume Island. Six species, &lt;i&gt;Dardanus&lt;/i&gt; &lt;i&gt;brachyops,&lt;/i&gt; &lt;i&gt;Diogenes&lt;/i&gt; &lt;i&gt;holthuisi,&lt;/i&gt; &lt;i&gt;Diogenes&lt;/i&gt; &lt;i&gt;leptocerus,&lt;/i&gt; &lt;i&gt;Diogenes&lt;/i&gt; &lt;i&gt;pallescens,&lt;/i&gt; &lt;i&gt;Paguristes&lt;/i&gt; &lt;i&gt;macrops,&lt;/i&gt; and &lt;i&gt;Pseudopaguristes&lt;/i&gt; &lt;i&gt;laurentae,&lt;/i&gt; are discussed in detail.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Anomura; Diogenidae; Kume Island; Japan</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dwi</firstname>
+          <middlename>Listyo</middlename>
+          <lastname>Rahayu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masayuki</firstname>
+          <lastname>Osawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>176-190</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first zoeal stage morphology of Crossotonotus spinipes (De Man, 1888) and Pseudopalicus serripes (Alcock &amp; Anderson, 1895), with implications for palicoid systematics (Crustacea: Brachyura: Palicoidea)</title>
+        <abstract locale="en_US">Traditionally, &lt;i&gt;Crossotonotus&lt;/i&gt; &lt;i&gt;spinipes&lt;/i&gt; (De Man, 1888) and &lt;i&gt;Pseudopalicus&lt;/i&gt; &lt;i&gt;serripes&lt;/i&gt; (Alcock &amp; Anderson, 1895) were as-signed to the Crossotonotinae Moosa &amp; Serène, 1981, and Palicinae Bouvier, 1898, respectively. However, Ng &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt;(2008: 127) listed a number of major adult characters that suggested both subfamilies should be recognised as distinct fam-ilies within the Palicoidea Bouvier, 1898 (see also Castro 2010, 2011; Guinot &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; in prep.). Recently, ovigerous speci-mens of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spinipes&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;serripes&lt;/i&gt; were collected from Okinawajima and Kumejima, central Ryukyu Islands, Japan. Thefirst zoeal stages of both species were hatched in the laboratory, dissected, examined, and the appendages illustrated anddescribed. &lt;i&gt;Crossotonotus&lt;/i&gt; &lt;i&gt;spinipes&lt;/i&gt; first stage zoeas were distinguished by three characters: the absence of lateral carapacespines (present in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;serripes),&lt;/i&gt; abdominal somite 4 with a pair of dorsolateral processes directed ventrally (absent in &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;serripes)&lt;/i&gt; and the presence of a small lateral spine on the telson (absent in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;serripes).&lt;/i&gt; These distinguishing features appear to support the recent division of the Palicoidea into two families.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ball</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>191-203</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kume tigra&lt;/i&gt;, a new genus and new species of carupine swimming crab (Crustacea: Brachyura: Portunidae) from Kume Island, Ryukyu Islands, Japan</title>
+        <abstract locale="en_US">A new genus and species of swimming crab of the family Portunidae Rafinesque, 1815, is described from Kume Island,Ryukyus, Japan. The new genus of the subfamily Carupinae Paul’son, 1875 is allied to the genera &lt;i&gt;Pele&lt;/i&gt; Ng, 2011, and&lt;i&gt;Libystes&lt;/i&gt; A. Milne-Edwards, 1867, but differs in the shapes of the carapace, thoracic sternum, third maxilliped, merus of the cheliped, fifth pereiopod, male abdomen and gonopods.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Kume&lt;/i&gt; &lt;i&gt;tigra&lt;/i&gt;; new genus; new species; taxonomy; Kumejima; Ryukyu Islands; Japan</subject>
+          <subject_class locale="en_US">&lt;i&gt;Kume&lt;/i&gt; &lt;i&gt;tigra&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>204-210</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identity of &lt;i&gt;Pilumnoplax acanthomerus &lt;/i&gt;Rathbun, 1911 (Crustacea: Decapoda: Brachyura: Xanthidae), with new records from the central and western Pacific</title>
+        <abstract locale="en_US">The identity of the rare xanthid crab, &lt;i&gt;Pilumnoplax&lt;/i&gt; &lt;i&gt;acanthomerus&lt;/i&gt; Rathbun, 1911, originally described from the AmiranteIslands in the western Indian Ocean, is elucidated. Števčić (2005) transferred the species from &lt;i&gt;Pilumnoplax&lt;/i&gt; Stimpson,1858, to a new genus, &lt;i&gt;Linnaeoxantho.&lt;/i&gt; This monotypic genus is re-diagnosed and new morphological characters are high-lighted. New records from Ryukyu and Line Islands, in the western and central Pacific, respectively, are reported. &lt;i&gt;Linnae-&lt;/i&gt;&lt;i&gt;oxantho&lt;/i&gt; is compared with the morphologically similar &lt;i&gt;Melybia&lt;/i&gt; Stimpson, 1871, from the western Atlantic, and theiraffinities are discussed. Linnaeoxanthinae Števčić, 2005, is here recognised as a valid xanthid subfamily for &lt;i&gt;Linnaeoxantho&lt;/i&gt; and &lt;i&gt;Melybia,&lt;/i&gt; and is considered to have priority over Melybiidae Števčić, 2005.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Xanthoidea; &lt;i&gt;Pilumnoplax&lt;/i&gt;; &lt;i&gt;Linnaeoxantho&lt;/i&gt; &lt;i&gt;acanthomerus&lt;/i&gt;; &lt;i&gt;Melybia&lt;/i&gt;; range extension; Amirante Islands; Ryukyu Islands; Line Islands; western Atlantic</subject>
+          <subject_class locale="en_US">Xanthoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jose</firstname>
+          <middlename>Christopher E.</middlename>
+          <lastname>Mendoza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>211-221</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Indopinnixa &lt;/i&gt;Manning &amp; Morton, 1987 (Decapoda: Brachyura: Pinnotheridae) from the Ryukyu Islands, Japan</title>
+        <abstract locale="en_US">Two new species of pinnotherid crabs of the genus &lt;i&gt;Indopinnixa&lt;/i&gt; Manning &amp; Morton, 1987, are described from Kume andOkinawa islands, Ryukyu Islands, Japan. The new species are distinguished from congeners as well as allied &lt;i&gt;Pinnixa&lt;/i&gt; species by a combination of characters of the carapace, male abdominal somites, ambulatory legs, and/or male first gonopod.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Indopinnixa&lt;/i&gt;; new species; Pinnotheridae; Kumejima; Okinawa; Ryukyu Islands; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Indopinnixa&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tadafumi</firstname>
+          <lastname>Maenosono</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>222-231</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Stomatopod Crustacea of the KUMEJIMA 2009 Expedition, Japan</title>
+        <abstract locale="en_US">The stomatopod Crustacea collected during the KUMEJIMA 2009 expedition to Kume Island, Ryukyu Islands, southernJapan, are reported. The collection comprises 20 species from three superfamilies, six families and 15 genera. Of these 20species, 10 are new records for Japan, of which one species, &lt;i&gt;Gonodactylellus&lt;/i&gt; &lt;i&gt;kume,&lt;/i&gt; is new to science. The new speciesranges from Japan to northern Australia and is most similar to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;micronesicus&lt;/i&gt; (Manning, 1971), differing in the colour ofthe meral spot of raptorial claw and shape of the pleopod 1 endopod of adult males. The identities of &lt;i&gt;Alima&lt;/i&gt; &lt;i&gt;angusta&lt;/i&gt; Dana,1852, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; H. Milne Edwards, 1837, as junior synonyms of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;neptuni&lt;/i&gt; Linneaus, 1758, are fixed by neotype selection. A checklist of the 68 species of Stomatopoda recorded from Japan is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Stomatopoda; &lt;i&gt;Gonodactylellus&lt;/i&gt;; &lt;i&gt;Alima&lt;/i&gt;; Kume; Ryukyus; Japan; Australia; mantis shrimp</subject>
+          <subject_class locale="en_US">Stomatopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shane</firstname>
+          <middlename>T.</middlename>
+          <lastname>Ahyong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>232-251</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Neoferdina &lt;/i&gt;and three new records of sea stars (Echinodermata: Asteroidea) collected from Kumejima Island, southwestern Japan</title>
+        <abstract locale="en_US">Sea stars were collected at depths ranging from 91 to 160 m around Kumejima Island situated in the middle of the RyukyuIslands chain in the Western Pacific. Sampling was carried out using a dredge or beam trawl in November 2009, as partof the KUMEJIMA 2009 Expedition. The specimens included an undescribed species of the genus &lt;i&gt;Neoferdina,&lt;/i&gt; and threespecies that have never been reported in Japanese waters. Features that characterise this new species, &lt;i&gt;Neoferdina&lt;/i&gt; &lt;i&gt;longi-&lt;/i&gt;&lt;i&gt;brachia,&lt;/i&gt; include: extremely long and narrow arms, no alternating arrangement of large and small superomarginal plates,body surface (except for the marginal plates) completely covered with granules, and an adambulacral armature with 3 furrow spines.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">starfish; &lt;i&gt;Neoferdina&lt;/i&gt; &lt;i&gt;longibrachia&lt;/i&gt;; Ryukyu Islands; taxonomy</subject>
+          <subject_class locale="en_US">starfish</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yoichi</firstname>
+          <lastname>Kogure</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>252-260</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Comanthus kumi&lt;/i&gt;, a new shallow-water comatulid (Echinodermata: Crinoidea: Comatulida: Comasteridae) from the Ryukyu Islands, Japan</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Comanthus&lt;/i&gt; A.H. Clark, 1908, is described on the basis of specimens collected from KumeIsland and Okinawa Island, the Ryukyu Islands, Japan. &lt;i&gt;Comanthus&lt;/i&gt; &lt;i&gt;kumi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is distinguished from all ten congeners byhaving extremely elongate arms exceeding 300 mm in length and the colouration in life. The new species concealed itswhole body in a crevice or small hole on coral reefs during the day and protruded only several elongate arms on the reef surface at night. This habit suggests that the new species is nocturnal.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crinoidea; Comatulida; Comasteridae; new species; Okinawa</subject>
+          <subject_class locale="en_US">Crinoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masami</firstname>
+          <lastname>Obuchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>261-268</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Obliquogobius &lt;/i&gt;Koumans, 1941 (Teleostei: Gobiidae) from Kumejima, Ryukyu Islands, Japan</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>I-Shiung</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zeehan</firstname>
+          <lastname>Jaafar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kwang-Tsao</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>269-273</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new deepwater goby of the genus &lt;i&gt;Discordipinna &lt;/i&gt;Hoese &amp; Fourmanoir, 1978 (Teleostei: Gobiidae) from Kumejima of the Ryukyus, Japan</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>I-Shiung</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Toshiyuki</firstname>
+          <lastname>Suzuki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kwang-Tsao</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>274-280</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3241.1</id>
+    <title locale="en_US">21 Mar. 2012</title>
+    <volume>3241</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-03-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A redescription of &lt;i&gt;Carcharhinus dussumieri &lt;/i&gt;and &lt;i&gt;C. sealei&lt;/i&gt;, with resurrection of &lt;i&gt;C. coatesi &lt;/i&gt;and &lt;i&gt;C. tjutjot &lt;/i&gt;as valid species (Chondrichthyes: Carcharhinidae) </title>
+        <abstract locale="en_US">A taxonomic re-evaluation of the &lt;i&gt;Carcharhinus&lt;/i&gt; &lt;i&gt;sealei-dussumieri&lt;/i&gt; group using meristic and morphological data revealedthat this group consists of 5 species. Two species, &lt;i&gt;Carcharhinus&lt;/i&gt; &lt;i&gt;coatesi&lt;/i&gt; (Whitley, 1939) from northern Australia and prob-ably New Guinea and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tjutjot&lt;/i&gt; (Bleeker, 1852) from Indonesian to Taiwan, are resurrected as valid species and togetherwith &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sealei&lt;/i&gt; are redescribed. Garrick’s lectotype designation of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tjutjot&lt;/i&gt; areretained. A neotype for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sealei,&lt;/i&gt; collected from the same locality as the holotype which was destroyed during World WarII, is designated. A fifth, possibly undescribed species (Carcharhinus sp.) is also noted from the Western Indian Oceanand its affinities briefly discussed. The four redescribed species are very similarly morphologically but can be distin-guished by a combination of meristic, morphological, dental and colour characters. The most important characters for dis-tinguishing these species are: vertebral counts, tooth counts, tooth morphology, shape of first dorsal and pectoral fins,second dorsal fin colouration, and mouth width. Two independent molecular studies have produced results which closely correlate with and support the findings of this study.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Carcharhinus&lt;/i&gt; &lt;i&gt;dussumieri/sealei&lt;/i&gt; group; resurrection; redescription; neotype; taxonomic resolution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Carcharhinus&lt;/i&gt; &lt;i&gt;dussumieri/sealei&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>T.</middlename>
+          <lastname>White</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-03-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Records of species of the hippolytid genus &lt;i&gt;Lebbeus &lt;/i&gt;White, 1847 (Crustacea: Decapoda: Caridea) from hydrothermal vents in the Pacific Ocean, with descriptions of three new species </title>
+        <abstract locale="en_US">Five species of the hippolytid shrimp genus &lt;i&gt;Lebbeus&lt;/i&gt; White, 1847 are reported from various deep-water hydrothermal ventsites in the Pacific Ocean: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;laurentae&lt;/i&gt; Wicksten, 2010 from the East Pacific Rise 13°N; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;wera&lt;/i&gt; Ahyong, 2009 from theBrothers Seamount, Kermadec Ridge, New Zealand; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pacmanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Manus Basin, Bismarck Sea; &lt;i&gt;L.&lt;/i&gt;&lt;i&gt;shinkaiae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Okinawa Trough, Japan; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;thermophilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Manus and Lau basins, south-western Pacific. &lt;i&gt;Lebbeus&lt;/i&gt; &lt;i&gt;laurentae&lt;/i&gt; is fully redescribed because the original and subsequent descriptions are not totallydetailed. Differentiating characters among the three new species and close allies are discussed. Previous records of &lt;i&gt;Lebbeus&lt;/i&gt; species from hydrothermal vents are reviewed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Caridea; Hippolytidae; &lt;i&gt;Lebbeus&lt;/i&gt;; new species; hydrothermal vents; Pacific Ocean</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shinji</firstname>
+          <lastname>Tsuchida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <lastname>Segonzac</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-63</pages>
+        <date_published>2012-03-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Mallinella &lt;/i&gt;Strand, 1906 (Araneae: Zodariidae) from China </title>
+        <abstract locale="en_US">Two new species of the spider genus &lt;i&gt;Mallinella&lt;/i&gt; are reported from China: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;zhui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (♂) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tianlin&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (♂).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; &lt;i&gt;Mallinella&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bao-Shi</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Mei</firstname>
+          <lastname>Jia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-03-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

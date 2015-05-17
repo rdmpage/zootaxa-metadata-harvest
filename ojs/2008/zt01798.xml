@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1798.1</id>
+    <title locale="en_US">16 Jun. 2008</title>
+    <volume>1798</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the New World genus &lt;i&gt;Fidia&lt;/i&gt; Baly 1863 (Coleoptera: Chrysomelidae: Eumolpinae: Adoxini)</title>
+        <abstract locale="en_US">The North and Central American genus &lt;i&gt;Fidia&lt;/i&gt; Baly 1863 (Coleoptera: Chrysomelidae) is revised. The genus is redescribed and a diagnosis separating &lt;i&gt;Fidia&lt;/i&gt; from similar genera is provided. Twenty-four species are recognized: &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; Jacoby 1882 is transferred to &lt;i&gt;Xanthonia;&lt;/i&gt; &lt;i&gt;Colaspis&lt;/i&gt; &lt;i&gt;flavescens&lt;/i&gt; Sturm 1826 is a nomen nudum; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;sallei&lt;/i&gt; Lefèvre 1877 and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;unistriata&lt;/i&gt; Jacoby 1882 are synonymized with &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;albovittata&lt;/i&gt; Lefèvre 1877; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;atra&lt;/i&gt; Jacoby 1882 is synonymized with &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;spuria&lt;/i&gt; Lefèvre 1877. Twelve species are described as new- &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;chapini&lt;/i&gt; from Mexico; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;comalensis&lt;/i&gt; from Mexico; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;convexicollis&lt;/i&gt; from Texas and Oklahoma; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;costaricensis&lt;/i&gt; from Costa Rica; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;delilahae&lt;/i&gt; from Alabama and Mississippi; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;dicelloposthe&lt;/i&gt; from Mexico; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;dichroma&lt;/i&gt; from Mexico; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;marraverpa&lt;/i&gt; from Mexico; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;papillata&lt;/i&gt; from Mexico; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;pedinops&lt;/i&gt; from Alabama, Florida, and Georgia; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;rileyorum&lt;/i&gt; from the southeastern United States; and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;xanthonioides&lt;/i&gt; from Mexico. Lectotypes are designated for &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;albovittata&lt;/i&gt; Lefèvre 1877, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;cana&lt;/i&gt; Horn 1892, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;guatemalensis&lt;/i&gt; Jacoby 1879, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;lurida&lt;/i&gt; Lefèvre 1885, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;plagiata&lt;/i&gt; Lefèvre 1877, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;sallei&lt;/i&gt; Lefèvre 1877, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;spuria&lt;/i&gt; Lefèvre 1877, and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;unistriata&lt;/i&gt; Jacoby 1882. A key to the recognized species is presented and important taxonomic characters are illustrated. Distribution maps are provided for each species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Chrysomelidae; Eumolpinae; &lt;i&gt;Fidia&lt;/i&gt;; new species; key</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Strother</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Staines</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-100</pages>
+        <date_published>2008-06-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

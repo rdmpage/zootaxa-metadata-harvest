@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2936.1</id>
+    <title locale="en_US">1 Jul. 2011</title>
+    <volume>2936</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalog of the Acari types deposited in the American Museum of Natural History, New York (Arthropoda: Arachnida)</title>
+        <abstract locale="en_US">A catalog of the type specimens of Acari representing 45 families, 153 genera and 377 species deposited at the American Museum of Natural History is presented. Additional material from the original type series deposited in other institutions is also noted. Where possible, the host is indicated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeremy</firstname>
+          <middlename>C.</middlename>
+          <lastname>Huff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Barry</firstname>
+          <middlename>M.</middlename>
+          <lastname>Oconnor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Monopterus ichthyophoides&lt;/i&gt;, a new species of scaled swamp eel (Teleostei: Synbranchiformes: Synbranchidae) from Mizoram, India</title>
+        <abstract locale="en_US">&lt;i&gt;Monopterus&lt;/i&gt; &lt;i&gt;ichthyophoides&lt;/i&gt; is described from specimens collected from the Sawleng River and a public well at Luangmual, both in the Barak River drainage in Mizoram, India. The new species differs from all other synbranchids in having only two, instead of five or six branchiostegal rays. It belongs to the &lt;i&gt;Amphipnous&lt;/i&gt; species group characterized by possession of scales on the body and can be readily distinguished from all other species of this group by the lower number of vertebrae (114–117 vs 126–188).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; freshwater fishes; Indo-Burma biodiversity hotspot</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hmar</firstname>
+          <middlename>Tlawmte</middlename>
+          <lastname>Lalremsanga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lalrotluanga</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lalramliana</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-58</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of pitviper of the genus &lt;i&gt;Protobothrops &lt;/i&gt;from China (Squamata: Viperidae)</title>
+        <abstract locale="en_US">A new species of pitviper, &lt;i&gt;Protobothrops&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the forested karst region in Maolan National Nature Reserve, Guizhou, China based on scalation, body proportions and color pattern. Data on the natural history of the new species are provided and a new key to the currently recognized species of &lt;i&gt;Protobothrops&lt;/i&gt; is given. The new discovery and other recent findings suggest that further research is desirable in the karst regions in southern China and adjacent Vietnam, Laos and Myanmar.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crotalinae; karst region; &lt;i&gt;Protobothrops&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; snake; taxonomy; &lt;i&gt;Trimeresurus&lt;/i&gt; sensu lato</subject>
+          <subject_class locale="en_US">Crotalinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jian-Huan</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikolai</firstname>
+          <middlename>L.</middlename>
+          <lastname>Orlov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ying-Yong</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

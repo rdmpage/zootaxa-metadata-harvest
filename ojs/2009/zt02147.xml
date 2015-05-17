@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2147.1</id>
+    <title locale="en_US">2 Jul. 2009</title>
+    <volume>2147</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the family Sphaeronectidae (Class Hydrozoa, Order Siphonophora), with the description of three new species</title>
+        <abstract locale="en_US">The last reviewer of the family Sphaeronectidae (Siphonophora, Calycophorae) (Carré, 1968c) considered that it consisted of a single genus, &lt;i&gt;Sphaeronectes,&lt;/i&gt; containing five species; three of which had been recently described by himself. For the other two species there had been much nomenclatural confusion in the past, as is herein reviewed. It is considered that for one of these species the name &lt;i&gt;Sphaeronectes&lt;/i&gt; &lt;i&gt;koellikeri&lt;/i&gt; Huxley (1859) has priority over the name currently in usage, that is &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (Claus, 1873; 1874). In addition the status of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;brevitruncata&lt;/i&gt; (Chun, 1888) is reconsidered and the species considered valid, with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; (Stepanjants, 1967) being considered as a likely junior synonym of it. Three new &lt;i&gt;Sphaeronectes&lt;/i&gt; species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;christiansonae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;haddocki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tiburonae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described, and the systematic position of the genus reconsidered in the light of preliminary molecular phylogenetic data.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Siphonophora; Calycophorae; &lt;i&gt;Sphaeronectes&lt;/i&gt;; Systematics; Phylogeny</subject>
+          <subject_class locale="en_US">Siphonophora</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Pugh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2009-07-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Acledra &lt;/i&gt;Signoret, 1864 (Hemiptera: Heteroptera: Pentatomidae) in Chile</title>
+        <abstract locale="en_US">The Chilean species of the genus &lt;i&gt;Acledra&lt;/i&gt; Signoret, 1864 are listed, an identification key is provided, and new distributional records are recorded. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gregalis&lt;/i&gt; Berg, 1878 is for the first time cited for Chile, and the biology, taxonomy, and nomenclature of the genus are commented upon.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Pentatomidae; &lt;i&gt;Acledra&lt;/i&gt;; Chile</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <middlename>I.</middlename>
+          <lastname>Faúndez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leyla</firstname>
+          <middlename>M.</middlename>
+          <lastname>Verdejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2009-07-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology of the first instar larva in the tribe Clytrini, with two new descriptions in the subtribe Megalostomina (Coleoptera: Chrysomelidae: Cryptocephalinae)</title>
+        <abstract locale="en_US">Original descriptions and illustrations of the first instar larva of &lt;i&gt;Megalostomis&lt;/i&gt; &lt;i&gt;(Heterostomis)&lt;/i&gt; &lt;i&gt;lacordairei&lt;/i&gt; Lacordaire and of &lt;i&gt;Coscinoptera&lt;/i&gt; &lt;i&gt;argentina&lt;/i&gt; Burmeister (Clytrini: Megalostomina) are provided. Based on the available information on first instar larvae, the tribe Clytrini is diagnosed. Unique of the larvae of clytrini is the antennal sensorium dome-like. Characters in common between Clytrini, Cryptocephalini, and Chlamisini (Cryptocephalinae) are highlighted, like the body J-shaped (in association with case-bearer habits); frons, clypeus, and labrum fused; spiracles with reticulate peritreme; egg-bursters present on mesoand metathorax, each situated anterior to a very long seta and a short seta ventral to these.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Larvae; morphology; Cryptocephalinae; Clytrini; &lt;i&gt;Megalostomis&lt;/i&gt;; &lt;i&gt;Coscinoptera&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Larvae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Federico</firstname>
+          <middlename>A.</middlename>
+          <lastname>Agrain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <middlename>E.</middlename>
+          <lastname>Marvaldi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-07-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

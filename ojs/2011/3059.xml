@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3059.1</id>
+    <title locale="en_US">14 Oct. 2011</title>
+    <volume>3059</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Contribution to the systematics and zoogeography of the East-African &lt;i&gt;Acomys spinosissimus &lt;/i&gt;Peters 1852 species complex and the description of two new species (Rodentia: Muridae) </title>
+        <abstract locale="en_US">We revised the taxonomic status of the putative &lt;i&gt;Acomys&lt;/i&gt; &lt;i&gt;spinosissimus&lt;/i&gt; complex based on the comparative study of specimen collections from Tanzania, Zambia, Zimbabwe, Mozambique, DR Congo and South Africa, by means of analysis of external morphology, craniometry, enzymes, mitochondrial DNA sequences and karyology. Our results confirm that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spinosissimus&lt;/i&gt; represents a complex of species with seemingly non-overlapping distribution ranges. The distribution range of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spinosissimus&lt;/i&gt; appears to be restricted between the Zambesi and Limpopo Rivers, while the reinstated &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;selousi&lt;/i&gt; (that includes &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;transvaalensis)&lt;/i&gt; occurs further to the South (i.e. northern limit seemingly just north of the Limpopo River). The investigated populations north of the Zambezi River are morphologically and genetically distinct from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spinosissimus&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;selousi.&lt;/i&gt; Based on this evidence, we described &lt;i&gt;Acomys&lt;/i&gt; &lt;i&gt;muzei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Acomys&lt;/i&gt; &lt;i&gt;ngurui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; each one occurring separately along one side of the Eastern Arc Mountains. Finally, we lacked sufficient information to describe a third new species from the area north of the Zambesi River.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acomys&lt;/i&gt; &lt;i&gt;spinosissimus&lt;/i&gt;; taxonomy; cytochrome &lt;i&gt;b&lt;/i&gt;; craniometry; morphology; enzymes</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acomys&lt;/i&gt; &lt;i&gt;spinosissimus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Walter</firstname>
+          <lastname>Verheyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Hulselmans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wim</firstname>
+          <lastname>Wendelen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Herwig</firstname>
+          <lastname>Leirs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <middlename>Corti Thierry</middlename>
+          <lastname>Backeljau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Erik</firstname>
+          <lastname>Verheyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2011-10-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new low altitude species of &lt;i&gt;Megophrys &lt;/i&gt;Kuhl and van Hasselt (Amphibia: Megophryidae), from Assam, Northeast India </title>
+        <abstract locale="en_US">Northeast Indian amphibian systematics and taxonomy is receiving increasing interest from herpetologists in recent years as remote, previously unexplored areas become more accessible for surveying. Even locations nearby cosmopolitan cities have the potential to produce taxonomic novelties. Herein we describe a new species of &lt;i&gt;Megophrys&lt;/i&gt; from the foot-hills of the East Khasi Hills, northern Meghalaya, and adjacent forest in Garbhanga Reserve Forest, and Mayeng Hill Reserve Forest nearby the city of Guwahati, southern Assam. &lt;i&gt;Megophrys&lt;/i&gt; &lt;i&gt;megacephala&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is here compared with all Asian mainland congeners. This species altitudinal distribution is the lowest of all known &lt;i&gt;Megophrys&lt;/i&gt; described from India and surrounding countries. A brief discussion is provided regarding some of the current difficulties faced by taxonomists working on the genus and several major problems in recent descriptions of congeners from Northeast India.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Xenophrys&lt;/i&gt;; taxonomy; &lt;i&gt;Megophrys&lt;/i&gt; &lt;i&gt;megacephala&lt;/i&gt;; new species; Northeast India</subject>
+          <subject_class locale="en_US">&lt;i&gt;Xenophrys&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephen</firstname>
+          <lastname>Mahony</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Saibal</firstname>
+          <lastname>Sengupta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rachunliu</firstname>
+          <middlename>G.</middlename>
+          <lastname>Kamei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Biju</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-46</pages>
+        <date_published>2011-10-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Bicornucandona &lt;/i&gt;gen. nov., sp. nov. (Crustacea, Ostracoda) from Finegan Springs (Texas, U.S.A.) OKAN KÜLKÖYLÜOĞLU (Turkey), RANDY GIBSON (USA), PETER H. DIAZ (USA) &amp; JEAN-PAUL COLIN (Portugal) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2011-10-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a third species in the alpheid shrimp genus &lt;i&gt;Richalpheus &lt;/i&gt;Anker &amp; Jeng, 2006 (Crustacea, Decapoda) </title>
+        <abstract locale="en_US">A new species of the alpheid genus &lt;i&gt;Richalpheus&lt;/i&gt; Anker &amp; Jeng, 2006 is described from the Egyptian Red Sea and Moorea, French Polynesia. &lt;i&gt;Richalpheus&lt;/i&gt; &lt;i&gt;alpheoides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from the two previously described species of this genus, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;palmeri&lt;/i&gt; Anker &amp; Jeng, 2006 and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;dahabensis&lt;/i&gt; Dworschak &amp; Anker, 2007, by the presence of a distinct proximal tooth on the dactylus fitting into a shallow fossa on the pollex of the major chela, reminiscent of the snapping mechanism in &lt;i&gt;Alpheus&lt;/i&gt; Fabricius, 1798. Recently collected material of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;palmeri&lt;/i&gt; from Moorea is reported, whilst a specimen previously reported as &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;palmeri&lt;/i&gt; is reassigned to &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;alpheoides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the three known species of &lt;i&gt;Richalpheus&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alpheidae; &lt;i&gt;Richalpheus&lt;/i&gt;; infaunal shrimps; Indo-West Pacific; Red Sea; French Polynesia</subject>
+          <subject_class locale="en_US">Alpheidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2011-10-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

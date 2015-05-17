@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2470.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2470</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Palaearctic oak gallwasps galling oaks (&lt;i&gt;Quercus&lt;/i&gt;) in the section Cerris: re-appraisal of generic limits, with descriptions of new genera and species (Hymenoptera: Cynipidae: Cynipini) </title>
+        <abstract locale="en_US">We discuss the taxonomy of oak gallwasps (Hymenoptera: Cynipidae: Cynipini) whose lifecycle involves only Palaearctic oaks (Quercus subgen. &lt;i&gt;Quercus)&lt;/i&gt; in the section Cerris. Recent phylogenetic reconstructions support a deep split between such Cerris-associated species in the genera &lt;i&gt;Aphelonyx,&lt;/i&gt; &lt;i&gt;Dryocosmus,&lt;/i&gt; &lt;i&gt;Plagiotrochus,&lt;/i&gt; &lt;i&gt;Neuroterus,&lt;/i&gt; &lt;i&gt;Pseudoneuroterus&lt;/i&gt; and species and genera associated with oaks in the section Quercus &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto.&lt;/i&gt; We reappraise the generic limits of the Cerris-associated genera, proposing new limits for &lt;i&gt;Dryocosmus,&lt;/i&gt; &lt;i&gt;Pseudoneuroterus&lt;/i&gt; and &lt;i&gt;Neuroterus,&lt;/i&gt; establishing a new genus &lt;i&gt;Cerroneuroterus,&lt;/i&gt; elevating &lt;i&gt;Latuspina&lt;/i&gt; to a genus level, reestablishing the genera &lt;i&gt;Chilaspis&lt;/i&gt; and &lt;i&gt;Trichagalma&lt;/i&gt; and proposed new species name combinations. We provide a new key to oak gallwasp genera of the Palaearctic and keys to all species of genera associated with Cerris section oaks. We describe five new species, &lt;i&gt;Aphelonyx&lt;/i&gt; &lt;i&gt;kordestanica,&lt;/i&gt; &lt;i&gt;Trichagalma&lt;/i&gt; &lt;i&gt;formosana,&lt;/i&gt; &lt;i&gt;Dryocosmus&lt;/i&gt; &lt;i&gt;jungalii,&lt;/i&gt; &lt;i&gt;Pseudoneuroterus&lt;/i&gt; &lt;i&gt;mazandarani,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nichollsi.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cynipidae; Cynipini; oak gallwasp; plesiomorphic lineage; taxonomy; Palaearctic</subject>
+          <subject_class locale="en_US">Cynipidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>George</firstname>
+          <lastname>Melika</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juli</firstname>
+          <lastname>Pujadevillar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Abe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chang-Ti</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <lastname>Nicholls</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nakatada</firstname>
+          <lastname>Wachi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatsuya</firstname>
+          <lastname>Ide</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Man-Miao</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zsolt</firstname>
+          <lastname>Pénzes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>György</firstname>
+          <lastname>Csóka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Graham</firstname>
+          <middlename>N.</middlename>
+          <lastname>Stone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-79</pages>
+        <date_published>2010-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

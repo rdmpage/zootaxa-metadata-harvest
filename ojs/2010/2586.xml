@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2586.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2586</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The water mites (Acari: Hydrachnidia) of the Balkan peninsula, a revised survey with new records and descriptions of five new taxa</title>
+        <abstract locale="en_US">Based on published records and original data from recent research, a list is presented of the water mite (Acari: Hydrachnidia) fauna of the Balkan countries, i.e. Croatia, Bosnia and Hercegovina, Montenegro, Albania, Serbia, Macedonia, Bulgaria and Greece. It includes 382 species and subspecies in 77 genera and 34 families. Numerous new records for national faunas are reported, and five taxa, &lt;i&gt;Sperchon&lt;/i&gt; &lt;i&gt;pelopeius&lt;/i&gt; (Greece), &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;stankovici&lt;/i&gt; (Croatia), &lt;i&gt;Axonopsis&lt;/i&gt; &lt;i&gt;graeca&lt;/i&gt; (Greece), &lt;i&gt;Woolastookia&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; (Bosnia and Hercegovina, Greece) and &lt;i&gt;Arrenurus&lt;/i&gt; &lt;i&gt;ornatus&lt;/i&gt; &lt;i&gt;graecus&lt;/i&gt; (Greece) are described as new to science. &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;moniezi&lt;/i&gt; (Motaş, 1927) is synonymized with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lacustris&lt;/i&gt; (Lundblad, 1925). The assumption of K. O. Viets (1987) that &lt;i&gt;Pionopsis&lt;/i&gt; &lt;i&gt;subruber&lt;/i&gt; Đ orđević, 1903 is a synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lutescens&lt;/i&gt; (Hermann, 1804) is confirmed. The characteristics of the water mite fauna in the treated area are briefly outlined. Additional field work is highly desirable for a more appropriate evaluation of the extant water mite biodiversity in the Balkans.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; species diversity; Croatia; Bosnia and Hercegovina; Montenegro; Albania; Serbia; Macedonia; Bulgaria; Greece</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reinhard</firstname>
+          <lastname>Gerecke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>Di</middlename>
+          <lastname>Sabatino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-100</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

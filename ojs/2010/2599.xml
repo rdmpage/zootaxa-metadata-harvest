@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2599.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2599</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Identification guide to the shallow water (0–200 m) octocorals of the South Atlantic Bight</title>
+        <abstract locale="en_US">Octocoral diversity is well documented in the tropical western Atlantic and Indo–Pacific, but it has been several decades since a thorough species account of the shallow South Atlantic Bight region was produced (northwestern Atlantic between Cape Hatteras, NC and Cape Canaveral, FL, USA). Through the use of material from the NMNH and SERTC Octocorallia (=Alcyonaria) collections, this work documents the presence of 28 species of octocorals recorded in the shallow (0–200 m) South Atlantic Bight and reports five new range extensions. Included are illustrated keys to the species, synonymies, species images and remarks, and SEM images of sclerites from described species without previously published sclerite imagery. A brief history of previous work and discussion of octocoral morphology are also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coelenterata; Cnidaria; Octocorallia; Alcyonaria; Gorgonacea; Alcyonacea; Alcyoniidae; Nidaliidae; Nephtheidae; Anthothelidae; Plexauridae; Gorgoniidae; Ellisellidae; Clavulariidae; Renillidae; Kophobelemnidae; Virgulariidae; western Atlantic</subject>
+          <subject_class locale="en_US">Coelenterata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Susan</firstname>
+          <middlename>T.</middlename>
+          <lastname>Devictor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steve</firstname>
+          <middlename>L.</middlename>
+          <lastname>Morton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2010-08-31</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1136.1</id>
+    <title locale="en_US">27 Feb. 2006</title>
+    <volume>1136</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the Iblidae and the stalked barnacles (Crustacea: Cirripedia: Thoracica), including new ordinal, familial and generic taxa, and two new species from New Zealand and Tasmanian waters</title>
+        <abstract locale="en_US">The discovery of two diminutive and very distinct ibliform barnacles from shallow waters off northern New Zealand and northeastern Tasmania provides an opportunity to re-evaluate the Iblidae, the most primitive of the living thoracicans. These are retained within the Superorder Thoracica, but are distinguished at ordinal level from the remainder of the Pedunculata &lt;i&gt;s.l.&lt;/i&gt; The resultant new order, the Ibliformes &lt;i&gt;nov.,&lt;/i&gt; comprises barnacles with predominantly chitinous rather than calcareous capitular plates; two families are recognized, the Iblidae &lt;i&gt;s.s.,&lt;/i&gt; comprising two subfamilies, the Iblinae (Ibla &lt;i&gt;s.s.)&lt;/i&gt; and the Neoiblinae &lt;i&gt;nov.&lt;/i&gt; (Neoibla &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.),&lt;/i&gt; and the Idioiblidae &lt;i&gt;nov.&lt;/i&gt; comprising the Idioiblinae &lt;i&gt;nov.&lt;/i&gt; (Idioibla &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.)&lt;/i&gt; and the Chaetolepadinae &lt;i&gt;nov.&lt;/i&gt; (Chaetolepas Studer, 1889 and &lt;i&gt;Chitinolepas&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.).&lt;/i&gt; The monotypic &lt;i&gt;Chitinolepas&lt;/i&gt; further highlights the high endemism and relict nature of the New Zealand marine fauna in particular and the southern hemisphere in general. On the basis of morphology and, where possible, genetic and larval work, it is recommended that the remainder of the stalked thoracicans be divided between three new orders, the †Cyprilepadiformes, Ibliformes, Lepadiformes and Scalpelliformes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cirripedia; Thoracica; †Cyprilepadiformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov;&lt;/i&gt; Ibliformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov;&lt;/i&gt; Lepadiformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; Scalpelliformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; Iblidae; Idioiblidae &lt;i&gt;fam.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; †Illilepas &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis;&lt;/i&gt; &lt;i&gt;Chaetolepas;&lt;/i&gt; &lt;i&gt;Chitinolepas&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; &lt;i&gt;Ibla;&lt;/i&gt; &lt;i&gt;Idioibla&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; &lt;i&gt;Neoibla&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; apatitecalcite mineralization; naupliar setation; cyprid lattice organs; molecular clock calibration</subject>
+          <subject_class locale="en_US">Cirripedia; Thoracica; †Cyprilepadiformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov;&lt;/i&gt; Ibliformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov;&lt;/i&gt; Lepadiformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; Scalpelliformes &lt;i&gt;ord.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; Iblidae; Idioiblidae &lt;i&gt;fam.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; †Illilepas &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis;&lt;/i&gt; &lt;i&gt;Chaetolepas;&lt;/i&gt; &lt;i&gt;Chitinolepas&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; &lt;i&gt;Ibla;&lt;/i&gt; &lt;i&gt;Idioibla&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; &lt;i&gt;Neoibla&lt;/i&gt; &lt;i&gt;gen.&lt;/i&gt; &lt;i&gt;nov.;&lt;/i&gt; apatitecalcite mineralization; naupliar setation</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Buckeridge</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Newman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2006-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the Neotropical bee genera &lt;i&gt;Agapostemonoides &lt;/i&gt;Roberts &amp; Brooks and &lt;i&gt;Rhinetula &lt;/i&gt;Friese, with description of a new species of &lt;i&gt;Agapostemonoides &lt;/i&gt;(Hymenoptera, Apidae, Halictinae)</title>
+        <abstract locale="en_US">The genera &lt;i&gt;Agapostemonoides&lt;/i&gt; and &lt;i&gt;Rhinetula&lt;/i&gt; have been treated as containing only a single species each. In this work &lt;i&gt;Agapostemonoides&lt;/i&gt; &lt;i&gt;weyrauchi&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; from Bolivia and Peru, is described and the species &lt;i&gt;Rhinetula&lt;/i&gt; &lt;i&gt;rufiventris&lt;/i&gt; Friese, 1922 is removed from the synonymy of &lt;i&gt;Rhinetula&lt;/i&gt; &lt;i&gt;denticrus&lt;/i&gt; Friese, 1922. Identification keys, illustrations of male terminalia and record maps for the species of both genera are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; Halictidae; Caenohalictina; Neotropical</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Goncalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <middlename>A. R.</middlename>
+          <lastname>Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-48</pages>
+        <date_published>2006-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Macrostomus &lt;/i&gt;Wiedemann (Diptera, Empididae) from Colombia, Ecuador and Peru</title>
+        <abstract locale="en_US">Six new species of &lt;i&gt;Macrostomus&lt;/i&gt; Wiedemann are described and figured, namely &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;alpinus&lt;/i&gt; (Colombia, Ecuador), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ciliaticosta&lt;/i&gt; (Ecuador, Peru, Brazil), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lineatus&lt;/i&gt; (Ecuador, Peru), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; (Colombia), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;penai&lt;/i&gt; (Ecuador, Peru) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tarsalis&lt;/i&gt; (Ecuador).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Empididae; &lt;i&gt;Macrostomus&lt;/i&gt;; Taxonomy</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rafael</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cumming</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-64</pages>
+        <date_published>2006-02-27</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1135.1</id>
+    <title locale="en_US">27 Feb. 2006</title>
+    <volume>1135</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new deep-sea pectinid bivalve from thermal vents of Manus back-arc Basin (south-western Pacific), &lt;i&gt;Sinepecten segonzaci &lt;/i&gt;n. gen., n. sp. (Pectinoidea: Pectinidae), and its relationships with the genera &lt;i&gt;Bathypecten &lt;/i&gt;and &lt;i&gt;Catillopecten&lt;/i&gt;</title>
+        <abstract locale="en_US">&lt;i&gt;Sinepecten&lt;/i&gt; &lt;i&gt;segonzaci&lt;/i&gt; new genus and new species is described from a thermal vent environment in the Manus back-arc basin, North of New Guinea (south-western Pacific) at 1620–1680 m depth. &lt;i&gt;Sinepecten&lt;/i&gt; &lt;i&gt;segonzaci&lt;/i&gt; has close affinities with species of the genera &lt;i&gt;Bathypecten&lt;/i&gt; and &lt;i&gt;Catillopecten.&lt;/i&gt; It differs from the living fossil &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;vulcani&lt;/i&gt; Schein-Fatton, 1985 from hydrothermal vents of the East Pacific Rise (13°N, 2630 m) in its ornamentation and in two main derived characters of the right valve: a prismatic shell microstructure is restricted to the juvenile stage and there is a specialized byssal notch in the new genus and species. Characters, shell ontogeny and biogeography of the three genera &lt;i&gt;Bathypecten,&lt;/i&gt; &lt;i&gt;Catillopecten&lt;/i&gt; and &lt;i&gt;Sinepecten&lt;/i&gt; are compared to discuss their place in pectinid evolution.&lt;b&gt;Keys&lt;/b&gt; &lt;b&gt;words:&lt;/b&gt; &lt;i&gt;Sinepecten&lt;/i&gt; &lt;i&gt;segonzaci,&lt;/i&gt; new taxa, ontogeny, hydrothermal vents, back-arc basin, Western Pacific, Bivalvia, Pectinidae</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>E.</firstname>
+          <lastname>Schein</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2006-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Chrysaora lactea &lt;/i&gt;Eschscholtz, 1829 (Cnidaria, Scyphozoa) from the Brazilian coast, with designation of a neotype</title>
+        <abstract locale="en_US">A redescription of the species &lt;i&gt;Chrysaora&lt;/i&gt; &lt;i&gt;lactea&lt;/i&gt; from the western South Atlantic is given based on live and preserved specimens from the Brazilian, Uruguayan and Argentinean coasts, and a neotype specimen is designated. The species is one of the commonest scyphomedusae in Brazilian coastal waters, reaching up to 25 cm in bell diameter with several different colour patterns (mainly milkywhite). The species is recorded with certainty from Jamaica to the northern coast of Argentina, and can be distinguished from its congeners primarily by the order of the development of tentacles (2nd, 3rd, 1st, 3rd, 2nd).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Discomedusae; Semaeostomeae; Pelagiidae; taxonomy; systematics; jellyfish; scyphomedusae; South Atlantic</subject>
+          <subject_class locale="en_US">Discomedusae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>A.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Morandini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Da Silveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <middlename>F. S.</middlename>
+          <lastname>Cornelius</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-48</pages>
+        <date_published>2006-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Aedes &lt;/i&gt;(&lt;i&gt;Finlaya&lt;/i&gt;) &lt;i&gt;alongi &lt;/i&gt;Galliard and Ngu (Diptera: Culicidae: Aedini): description of the female, redescription of the fourth-instar larva, and reassignment to genus &lt;i&gt;Bothaella &lt;/i&gt;Reinert</title>
+        <abstract locale="en_US">The female of &lt;i&gt;Aedes&lt;/i&gt; (Finlaya) &lt;i&gt;alongi&lt;/i&gt; is described for the first time and the fourth-instar larva is redescribed in detail. The species is reassigned to &lt;i&gt;Bothaella&lt;/i&gt; and compared to other species of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Bothaella&lt;/i&gt; &lt;i&gt;alongi&lt;/i&gt;; mosquito; Diptera; Culicidae; Aedini</subject>
+          <subject_class locale="en_US">&lt;i&gt;Bothaella&lt;/i&gt; &lt;i&gt;alongi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Reinert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Harbach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Huong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-55</pages>
+        <date_published>2006-02-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Tetrabdella neotropica &lt;/i&gt;(Acari: Bdellidae), a new genus and species from Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Tetrabdella&lt;/i&gt; &lt;i&gt;neotropica&lt;/i&gt; Hernandes &amp; Feres n. gen., n. sp. is the first representative of the family Bdellidae from South America. It can be distinguished from other bdellid mites by the presence of two trichobothriae on tarsi III and IV. The subfamily Spinibdellinae is herein redefined to accomodate the new genus. A key to world genera of Bdellidae is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Prostigmata; new genus; asymmetry; neotropical; mites; &lt;i&gt;Hevea&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>J. F.</middlename>
+          <lastname>Feres</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2006-02-27</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1134.1</id>
+    <title locale="en_US">23 Feb. 2006</title>
+    <volume>1134</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The taxonomy of Neotropical Brunettiina (Diptera, Psychodidae, Psychodinae, Mormiini), with descriptions of ten new species from Brazil and comments on the generic classification of the subtribe</title>
+        <abstract locale="en_US">Ten new species of Brazilian Brunettiina are described. A cladistic analysis was used to test the two generic classifications of Brunettiina in the literature, providing a more objective classification of nine of the ten new species with 14 flagellomeres. The genus &lt;i&gt;Mormia&lt;/i&gt; Enderlein was chosen to polarize the characters and root the cladogram. Seventeen characters were used for the analysis. The two classificatory proposals are coherent with the topology of the cladogram obtained in this study; however, the classification that recognizes three genera in the subtribe was accepted because it corresponds to the three major groups observed in the cladogram: &lt;i&gt;Brunettia&lt;/i&gt; Annandale, with four subgenera; &lt;i&gt;Atrichobrunettia&lt;/i&gt; Satchell, with five subgenera; and &lt;i&gt;Gerobrunettia&lt;/i&gt; Quate &amp; Quate. A new subgenus was proposed for the nine new species of Brunettiina with 14 flagellomeres. This new subgenus is classified with the subgenera &lt;i&gt;Atrichobrunettia,&lt;/i&gt; &lt;i&gt;Mirousiella&lt;/i&gt; Vaillant, &lt;i&gt;Plesiobrunettia&lt;/i&gt; Duckhouse, and &lt;i&gt;Horobrunettia&lt;/i&gt; Duckhouse in the genus &lt;i&gt;Atrichobrunettia.&lt;/i&gt; The taxonomy of the subtribe Brunettiina in the Neotropical Region is re-examined. Keys are provided for the genera and subgenera of Brunettiina and for the Neotropical species of &lt;i&gt;Brunettia&lt;/i&gt; and &lt;i&gt;Atrichobrunettia.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Psychodidae; Psychodinae; Brunettiina; new species; Brazil; cladistic analysis</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <lastname>Bravo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Non-biting midges of the genus &lt;i&gt;Paracladopelma &lt;/i&gt;Harnisch (Diptera: Chironomidae) from the Russian Far East</title>
+        <abstract locale="en_US">The Far Eastern species of the genus &lt;i&gt;Paracladopelma&lt;/i&gt; Harnisch, 1923 are revised. Four new species of &lt;i&gt;Paracladopelma&lt;/i&gt; are described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;augustus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;globosum,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pseudocamptolabis,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;urkanensis.&lt;/i&gt; Seven species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;doris&lt;/i&gt; (Townes), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;furudoprimum&lt;/i&gt; Sasa, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;laminatum&lt;/i&gt; (Kieffer), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nais&lt;/i&gt; (Townes), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nereis&lt;/i&gt; (Townes), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigritulum&lt;/i&gt; (Goetghebuer), and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;undine&lt;/i&gt; (Townes) are redescribed on the basis of male morphology. Six species are recorded from Russia for the first time. &lt;i&gt;Paracladopelma&lt;/i&gt; &lt;i&gt;simantodeea&lt;/i&gt; Sasa et al. 1998 is presented as a junior synonym of &lt;i&gt;Paracladopelma&lt;/i&gt; &lt;i&gt;furudoprimum&lt;/i&gt; Sasa &amp; Arakawa. A key for males of 12 Far Eastern species of &lt;i&gt;Paracladopelma&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; Chironominae; &lt;i&gt;Paracladopelma&lt;/i&gt;; new species; key; Russian Far East</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>O.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Zorina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-49</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first snipe fly (Diptera: Rhagionidae) from the Middle Jurassic of Inner Mongolia, China</title>
+        <abstract locale="en_US">The description of the oldest Rhagionidae in China, &lt;i&gt;Sinorhagio&lt;/i&gt; &lt;i&gt;daohugouensis&lt;/i&gt; gen. et sp. nov., is given as new to science. It comes from the Middle Jurassic Daohugou Formation of Inner Mongolia. The relationships of &lt;i&gt;Sinorhagio&lt;/i&gt; and other relevant genera of Rhagionidae are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Rhagionidae; &lt;i&gt;Sinorhagio&lt;/i&gt;; new genus; Daohugou; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-57</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the distribution of the marine genus &lt;i&gt;Thinolestris &lt;/i&gt;Grootaert &amp; Meuffels (Diptera, Dolichopodidae) with a description of a new species from Singapore, Malaysia and Brunei</title>
+        <abstract locale="en_US">Four species of &lt;i&gt;Thinolestris&lt;/i&gt; Grootaert &amp; Meuffels are known so far, including &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which is described here from Singapore, Malaysia and Brunei. New morphological data on the genus are given. At the moment, &lt;i&gt;Thinolestris&lt;/i&gt; is only known from Andaman Sea, Strait of Singapore, South China Sea, Celebes Sea, Bismarck Sea and the Coral Sea. It is not yet known from North Australia nor from the Gulf of Thailand, or farther north. &lt;i&gt;Thinolestris&lt;/i&gt; adults are active on beaches with small pebbles mixed with sandy patches. It is not found on rocks, pure sandy beaches nor mangroves.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Thinolestris&lt;/i&gt;; Dolichopodidae; Aphrosylinae; marine Diptera; tropical Orient; Australasia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Thinolestris&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <lastname>Grootaert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1133.1</id>
+    <title locale="en_US">23 Feb. 2006</title>
+    <volume>1133</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The spiders of Quebec: update, additions and corrections</title>
+        <abstract locale="en_US">The taxonomic knowledge of the spider fauna of Québec (Canada) is updated with new records, corrections, recent taxonomic changes, and additions to the species list. Illustrations are provided for species not previously reported for the province. The following species are reported for the first time: Araneidae: &lt;i&gt;Araneus&lt;/i&gt; &lt;i&gt;iviei&lt;/i&gt; (Archer 1951), &lt;i&gt;Araneus&lt;/i&gt; &lt;i&gt;juniperi&lt;/i&gt; (Emerton 1884), &lt;i&gt;Araneus&lt;/i&gt; &lt;i&gt;thaddeus&lt;/i&gt; (Hentz 1847), &lt;i&gt;Araneus&lt;/i&gt; &lt;i&gt;washingtoni&lt;/i&gt; Levi 1971; Clubionidae: &lt;i&gt;Elaver&lt;/i&gt; &lt;i&gt;excepta&lt;/i&gt; (L. Koch 1866); Dictynidae: &lt;i&gt;Emblyna&lt;/i&gt; &lt;i&gt;chitina&lt;/i&gt; (Chamberlin &amp; Gertsch 1958); Gnaphosidae: &lt;i&gt;Zelotes&lt;/i&gt; &lt;i&gt;exiguoides&lt;/i&gt; Platnick &amp; Shadab 1983, &lt;i&gt;Haplodrassus&lt;/i&gt; &lt;i&gt;eunis&lt;/i&gt; Chamberlin 1922; Linyphiidae: &lt;i&gt;Centromerus&lt;/i&gt; &lt;i&gt;cornupalpis&lt;/i&gt; O. Pickard-Cambridge 1875, &lt;i&gt;Ceratinopsis&lt;/i&gt; &lt;i&gt;nigripalpis&lt;/i&gt; Emerton 1882, &lt;i&gt;Eridantes&lt;/i&gt; &lt;i&gt;utibilis&lt;/i&gt; Crosby &amp; Bishop 1933, &lt;i&gt;Pocadicnemis&lt;/i&gt; &lt;i&gt;pumila&lt;/i&gt; (Blackwall 1841), &lt;i&gt;Sciastes&lt;/i&gt; &lt;i&gt;extremus&lt;/i&gt; Holm 1967, &lt;i&gt;Scotinotylus&lt;/i&gt; &lt;i&gt;vernalis&lt;/i&gt; (Emerton 1882), &lt;i&gt;Thyreosthenius&lt;/i&gt; &lt;i&gt;parasiticus&lt;/i&gt; (Westring 1851); Nesticidae: &lt;i&gt;Nesticus&lt;/i&gt; &lt;i&gt;cellulanus&lt;/i&gt; (Clerck 1757); Philodromidae: &lt;i&gt;Philodromus&lt;/i&gt; &lt;i&gt;histrio&lt;/i&gt; (Latreille 1819), &lt;i&gt;Philodromus&lt;/i&gt; &lt;i&gt;oneida&lt;/i&gt; Levi 1951; Salticidae: &lt;i&gt;Pellenes&lt;/i&gt; &lt;i&gt;montanus&lt;/i&gt; (Emerton 1894), &lt;i&gt;Synageles&lt;/i&gt; &lt;i&gt;canadensis&lt;/i&gt; Cutler 1988; Tetragnathidae: &lt;i&gt;Tetragnatha&lt;/i&gt; &lt;i&gt;guatemalensis&lt;/i&gt; O. Pickard-Cambridge 1889; Theridiidae: &lt;i&gt;Achaearanea&lt;/i&gt; &lt;i&gt;conjuncta&lt;/i&gt; (Gertsch &amp; Mulaik 1936), &lt;i&gt;Enoplognatha&lt;/i&gt; &lt;i&gt;intrepida&lt;/i&gt; (Sørensen 1898), &lt;i&gt;Euryopis&lt;/i&gt; &lt;i&gt;gertschi&lt;/i&gt; Levi 1951, &lt;i&gt;Pholcomma&lt;/i&gt; &lt;i&gt;hirsutum&lt;/i&gt; Thorell 1869, &lt;i&gt;Theridion&lt;/i&gt; &lt;i&gt;impressum&lt;/i&gt; L. Koch 1881; Thomisidae: &lt;i&gt;Xysticus&lt;/i&gt; &lt;i&gt;fraternus&lt;/i&gt; Banks 1895, and Zodariidae: &lt;i&gt;Zodarion&lt;/i&gt; &lt;i&gt;rubidum&lt;/i&gt; Simon 1914. Collecting data, overview of distribution, and a diagnosis are provided for each added species. The spider fauna of Québec is discussed in light of these new records, and the value of such faunistic/taxonomic work is stressed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spider fauna; identification; diagnoses; disjunct distribution; faunistic</subject>
+          <subject_class locale="en_US">Spider fauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <lastname>Paquin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <lastname>Duperre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hydraena &lt;/i&gt;(&lt;i&gt;s. str.&lt;/i&gt;) &lt;i&gt;emineae &lt;/i&gt;sp. n. from Antalya, southern Turkey (Coleoptera: Hydraenidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Hydraena&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;emineae&lt;/i&gt; Jäch &amp; Kasapo™lu, sp. n. from Antalya, southern Turkey is described. The new species is tentatively assigned to the &lt;i&gt;H.&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;eichleri&lt;/i&gt; d’Orchymont species complex.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Hydraenidae; &lt;i&gt;Hydraena&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.&lt;/i&gt;; &lt;i&gt;Hydraena&lt;/i&gt; &lt;i&gt;eichleri&lt;/i&gt; species complex; taxonomy; Turkey; Antalya</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Kasapoglu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-43</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Water mites of the genus &lt;i&gt;Torrenticola &lt;/i&gt;Piersig, 1896 (Acari, Hydrachnidia, Torrenticolidae) from Iran, with description of two new species</title>
+        <abstract locale="en_US">Nine water mite species of the genus &lt;i&gt;Torrenticola&lt;/i&gt; Piersig, 1896 are reported from Iran. &lt;i&gt;Torrenticola&lt;/i&gt; &lt;i&gt;irana&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;khorassanula&lt;/i&gt; are described as new to science, and the first records for Iran are given for &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;brevirostris&lt;/i&gt; (Halbert, 1911), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;barsica&lt;/i&gt; (Szalay, 1933), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;amplexa&lt;/i&gt; (Koenike, 1908) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;thori&lt;/i&gt; (Halbert, 1944).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; &lt;i&gt;Torrenticola&lt;/i&gt;; taxonomy; new species; running waters; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>V.</firstname>
+          <lastname>Pesic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Saboori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Asadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Vafaei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <lastname>Sanatgar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-59</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Liolaemus &lt;/i&gt;from central steppes of Chubut, Patagonia Argentina (Reptilia: Iguania: Iguanidae)</title>
+        <abstract locale="en_US">A new &lt;i&gt;Liolaemus&lt;/i&gt; species related to “Liolaemus &lt;i&gt;kingii”&lt;/i&gt; complex of Patagonian species, is described. It lives at about 800 m of altitude in a sandy habitat near to Somuncurá plateau. The new species and the closely related &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;somuncurae&lt;/i&gt; are morphologically compared, and its distribution and natural history are pointed out.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Liolaemus&lt;/i&gt;; Patagonian Reptiles; Somuncurá plateau; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Liolaemus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Scolaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2006-02-23</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1132.1</id>
+    <title locale="en_US">20 Feb. 2006</title>
+    <volume>1132</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Robber flies of South KoreaI. South Korean species of the Subfamily Asilinae Latreille, 1802 (Diptera, Asilidae)</title>
+        <abstract locale="en_US">Eight genera and 13 species within the subfamily Asilinae are recorded from South Korea. New records for the area include: &lt;i&gt;Aneomochtherus&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; (Ricardo, 1919), &lt;i&gt;Asilella&lt;/i&gt; &lt;i&gt;londti&lt;/i&gt; Lehr, 1989, &lt;i&gt;Machimus&lt;/i&gt; &lt;i&gt;aurulentus&lt;/i&gt; Becker, 1925, &lt;i&gt;Machimus&lt;/i&gt; cf. &lt;i&gt;pastshenkoae&lt;/i&gt; (Lehr, 1976), &lt;i&gt;Mercuriana&lt;/i&gt; &lt;i&gt;ussuriensis&lt;/i&gt; (Lehr, 1981), &lt;i&gt;Neoitamus&lt;/i&gt; &lt;i&gt;castaneipennis&lt;/i&gt; Tagawa, 1981, and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;zouhari&lt;/i&gt; Hradskv, 1960. Drawings of diagnostic features, a checklist, keys, and descriptions are included. All mentioned species are re-described based on specimens collected for this study.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Asilidae; robber flies; Asilinae; South Korea</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Young</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2006-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Trichouropoda turcicaovalis &lt;/i&gt;sp. nov., a new uropodine mite (Acari: Mesostigmata: Trematuridae) from Turkey</title>
+        <abstract locale="en_US">&lt;i&gt;Trichouropoda&lt;/i&gt; &lt;i&gt;turcicaovalis&lt;/i&gt; sp. nov. (Acari : Trematuridae) is described and illustrated on the basis of specimens collected from Turkey. The protonymph, deutonymph and adult of the new species are described, and an identification key for all 45 species of the &lt;i&gt;Trichouropoda&lt;/i&gt; &lt;i&gt;ovalis&lt;/i&gt; species group is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;:&lt;/b&gt; Acari; Uropodina; &lt;i&gt;Trichouropoda&lt;/i&gt;; new species; Turkey</subject>
+          <subject_class locale="en_US">&lt;b&gt;:&lt;/b&gt; Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Ozkan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-49</pages>
+        <date_published>2006-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological and molecular characterization of a new isolate of &lt;i&gt;Steinernema feltiae &lt;/i&gt;(Filipjev, 1934) from Vancouver, Canada, with morphometrical comparison with the topotype population from Russia</title>
+        <abstract locale="en_US">&lt;i&gt;Steinernema&lt;/i&gt; &lt;i&gt;feltiae,&lt;/i&gt; strain British Columbia (BC) was collected from Vancouver, Canada. SEM, morphometrical and molecular studies were conducted and the results reported. This article presents the SEM study of different stages of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;feltiae.&lt;/i&gt; The significant characteristic found in this study is that the formula of the lateral field of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;feltiae&lt;/i&gt; is 2, 7, 8, 7, 4, 2. Morphometric comparison of the new isolate and the topotype population (strain RU from Russia) showed that the body length, distance from anterior end to excretory pore, tail length, and hyaline length are significantly different. Molecular studies of rDNA ITS regions showed that the strain BC is closely related to the topotype of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;feltiae&lt;/i&gt; (strain RU) from Russia. Sequence length of strain RU is 980 base pairs compared to 977 base pairs for strain BC. Intraspecific relationships among strains of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;feltiae&lt;/i&gt; showed that geographic distribution is associated with the genetic differences, but the differences are not sufficient to delimit new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Canada; &lt;i&gt;Steinernema&lt;/i&gt; &lt;i&gt;feltiae&lt;/i&gt;; entomopathogenic nematodes; morphology; molecular characterization; Greater Vancouver</subject>
+          <subject_class locale="en_US">Canada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Z.</firstname>
+          <lastname>Mracek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Webster</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2006-02-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogeny of the Sciaroidea (Diptera): the implication of additional taxa and character data</title>
+        <abstract locale="en_US">A cladistic analysis of the extant Sciaroidea was made, using re-evaluated morphological characters, with some additional taxa and with or without the Mesozoic Mesosciophilidae in the ingroup. When the new data were incorporated, the conflict between our earlier phylogenies, with extant taxa only and with both extant and fossil taxa in the ingroup, was resolved. The present result is similar to the one we reached earlier with extant + fossil taxa, which showed the Cecidomyiidae as the sister group of all other Sciaroidea, instead of the Cecidomyiidae appearing as the sister group of the Mycetophilidae + Sciaridae. In the new hypothesis, the main clades of the Sciaroidea outside the Cecidomyiidae were as follows: Ditomyiidae + (Diadocidiidae + ((Keroplatidae + (((Bolitophilidae + ((((Mesosciophila + (((((Starkomyia + rest of Sciaroidea))))). The placement of the recently described, enigmatic New Zealand genus &lt;i&gt;Starkomyia&lt;/i&gt; Jaschhof was similar regardless of whether the fossil Mesosciophilidae were included in the analysis or not. The two stillundescribed Neotropical taxa that we included fell in the Rangomaraminae clade within the Sciaridae. Unlike our earlier result with extant taxa only, and similar to our extant + fossil result, the &lt;i&gt;Ohakunea&lt;/i&gt; + &lt;i&gt;Colonomyia&lt;/i&gt; clade now appears as the sister group of the MycetophilidaeLygistorrhinidae-Sciaridae lineage.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Sciaroidea; phylogeny</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>H.</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Vilkamaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2006-02-20</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1131.1</id>
+    <title locale="en_US">20 Feb. 2006</title>
+    <volume>1131</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Osteology and phylogeny of &lt;i&gt;Parioglossus &lt;/i&gt;(Teleostei, Gobioidei), with a revised key to the species</title>
+        <abstract locale="en_US">The seventeen species of &lt;i&gt;Parioglossus&lt;/i&gt; (Perciformes, Gobioidei) form a group of small fishes that inhabit the warm temperate to tropical regions of the western Pacific and Indian Oceans. A revised key to the species, based on external characters, is provided. Using external characters and osteology, a parsimony analysis of 24 characters of the 17 described species resulted in five equally most parsimonious trees. The strict consensus tree of these five trees supports the monophyly of &lt;i&gt;Parioglossus.&lt;/i&gt; There is a basal polytomy, within which are monophyletic subgroups, one consisting only of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dotui&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;neocaledonicus.&lt;/i&gt; The other subgroup is fully resolved, and consists of (P. &lt;i&gt;galzini&lt;/i&gt; (P.aporos (P. &lt;i&gt;nudus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;philippinus)&lt;/i&gt; (P. &lt;i&gt;rainfordi&lt;/i&gt; (P. &lt;i&gt;palustris&lt;/i&gt; (P. &lt;i&gt;interruptus&lt;/i&gt; (P. &lt;i&gt;taeniatus&lt;/i&gt; (P. &lt;i&gt;formosus&lt;/i&gt; (P. &lt;i&gt;sinensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;raoi)))))))).&lt;/i&gt; However, only two of the nodes have a support value of greater than one.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Parioglossus&lt;/i&gt;; Gobioidei; osteology; phylogeny; key to species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Parioglossus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Winterbottom</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2006-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic analysis of &lt;i&gt;Notalina &lt;/i&gt;(&lt;i&gt;Neonotalina&lt;/i&gt;) Holzenthal (Trichoptera: Leptoceridae), with the description of two new species from southeastern Brazil</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Notalina&lt;/i&gt; (Neonotalina) Holzenthal 1986 from southeastern Brazil are described and illustrated, &lt;i&gt;N.&lt;/i&gt; (Neonotalina) &lt;i&gt;froehlichi&lt;/i&gt; Calor &amp; Holzenthal and &lt;i&gt;N.&lt;/i&gt; (Neonotalina) &lt;i&gt;paulista&lt;/i&gt; Calor &amp; Holzenthal. Phylogenetic analyses confirm the placement of the nine Neotropical species of &lt;i&gt;Notalina&lt;/i&gt; into two species groups, the &lt;i&gt;roraima&lt;/i&gt; species-group and the &lt;i&gt;brasiliana&lt;/i&gt; speciesgroup, with northern South American and southeastern Brazilian patterns of distribution, respectively. Additional collection records of previously described species from Brazil are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trichoptera; Leptoceridae; &lt;i&gt;Notalina&lt;/i&gt;; Neotropical; systematics; phylogeny</subject>
+          <subject_class locale="en_US">Trichoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>A.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Calor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>W.</middlename>
+          <lastname>Holzenthal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-48</pages>
+        <date_published>2006-02-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Selfcoelum limnodromi &lt;/i&gt;n. gen., n. sp. (Digenea: Cyclocoelidae: Cyclocoelinae) from the long-billed dowitcher, &lt;i&gt;Limnodromus&lt;/i&gt; &lt;i&gt;scolopaceus &lt;/i&gt;(Charadriiformes: Scolopacidae) from Oklahoma, U.S.A.</title>
+        <abstract locale="en_US">Eleven specimens of a new genus of cyclocoelid, &lt;i&gt;Selfcoelum&lt;/i&gt; &lt;i&gt;limnodromi&lt;/i&gt; n. gen., n. sp. (Digenea: Cyclocoelidae: Cyclocoelinae) from the air sacs of a long-billed dowitcher, &lt;i&gt;Limnodromus&lt;/i&gt; &lt;i&gt;scolopaceus,&lt;/i&gt; collected from the Cheyenne bottoms in Oklahoma and deposited at the Howard W. Manter Laboratory, University of Nebraska by Dr. Teague Self, former professor, Department of Zoology, University of Oklahoma, Norman, Oklahoma were examined. The new genus has an intertesticular ovary placing it in Cyclocoeolinae. It is most similar to species of Morishitium and &lt;i&gt;Neohyptiasmus&lt;/i&gt; in having a postpharyngeal genital pore and vitelline fields that are not confluent posteriorly. However, unlike species of either of these 2 genera, the ovary of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;limnodromi&lt;/i&gt; n. gen., n. sp. forms a triangle with the testes as is found in species of &lt;i&gt;Cyclocoelum&lt;/i&gt; where the genital pore is prepharyngeal rather than postpharyngeal. &lt;i&gt;Selfcoelum&lt;/i&gt; n. gen. further differs from Morishitium by having uterine loops that surpass the ceca and vitelline fields laterally approaching the body wall instead of being intercecal, and from &lt;i&gt;Neohyptiasmus&lt;/i&gt; by having testes that are rounded and entire instead of being lobed. A revised key to the Cyclocoelinae is provided to include the 2 additional genera that have been recently described from North America, &lt;i&gt;Neoallopyge&lt;/i&gt; and &lt;i&gt;Selfcoelum.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;Cyclocoelinae&lt;/b&gt; &lt;b&gt;(revision&lt;/b&gt; &lt;b&gt;based&lt;/b&gt; &lt;b&gt;on&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;key&lt;/b&gt; &lt;b&gt;published&lt;/b&gt; &lt;b&gt;by&lt;/b&gt; &lt;b&gt;Kanev&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;al.&lt;/b&gt; &lt;b&gt;2002)&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;Cyclocoelinae&lt;/b&gt; &lt;b&gt;(revision&lt;/b&gt; &lt;b&gt;based&lt;/b&gt; &lt;b&gt;on&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;key&lt;/b&gt; &lt;b&gt;published&lt;/b&gt; &lt;b&gt;by&lt;/b&gt; &lt;b&gt;Kanev&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;al.&lt;/b&gt; &lt;b&gt;2002)&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>N.</firstname>
+          <middlename>O.</middlename>
+          <lastname>Dronen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Gardner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jimenez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2006-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Ammatucha &lt;/i&gt;Turner with descriptions of three new species (Lepidoptera: Pyralidae: Phycitinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Ammatucha&lt;/i&gt; Turner is recorded for the first time from China, with three species described as new: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;longilepigera&lt;/i&gt; Ren &amp; Li, sp. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brevilepigera&lt;/i&gt; Ren &amp; Li, sp. nov., and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;flavipalpa&lt;/i&gt; Ren &amp; Li, sp. nov. The female of the genus is reported for the first time, and the generic diagnosis is amended accordingly. &lt;i&gt;Ammatucha&lt;/i&gt; is compared to the superficially similar &lt;i&gt;Ceroprepes&lt;/i&gt; Zeller. A map of the geographic distribution of &lt;i&gt;Ammatucha&lt;/i&gt; for the world is presented, and a key for the identification of all described species based on male genitalia is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Pyralidae; Phycitinae; &lt;i&gt;Ammatucha&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Y.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2006-02-20</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1130.1</id>
+    <title locale="en_US">16 Feb. 2006</title>
+    <volume>1130</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Nymphs of the genus &lt;i&gt;Isoperla &lt;/i&gt;Banks (Plecoptera, Perlodidae) from the Eastern Palaearctic Region</title>
+        <abstract locale="en_US">The nymphs of the genus &lt;i&gt;Isoperla&lt;/i&gt; Banks inhabiting the Eastern Palaearctic Region are reviewed. Previously unknown nymphs of &lt;i&gt;Isoperla&lt;/i&gt; &lt;i&gt;asiatica,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;eximia,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;flavescens,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;lunigera,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;maculata,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;mongolica,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;pseudornata&lt;/i&gt; are described and illustrated. A key is provided. Complementary distributional data are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Perlodidae; &lt;i&gt;Isoperla&lt;/i&gt;; nymphs; Eastern Palaearctic Region</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>V.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Teslenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Zhiltzova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The relationship and taxonomic position of the genera &lt;i&gt;Apolophus&lt;/i&gt; and &lt;i&gt;Scolomus &lt;/i&gt;(Hymenoptera: Ichneumonidae)</title>
+        <abstract locale="en_US">The metopiine genus &lt;i&gt;Apolophus&lt;/i&gt; Townes is treated as a junior synonym [syn. &lt;b&gt;nov.]&lt;/b&gt; of the ctenopelmatine genus &lt;i&gt;Scolomus&lt;/i&gt; Townes &amp; Townes. The distinguishing features of the expanded genus are described and illustrated. The systematic position of &lt;i&gt;Scolomus&lt;/i&gt; is discussed and it is concluded that the genus belongs to the Metopiinae. The monophyly of the Ctenopelmatinae is open to question and it is suggested that the Metopiinae may have arisen from within the Ctenopelmatinae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ophioniformes; Ctenopelmatinae; classification; paraphyly; Metopiinae; hostrelationships</subject>
+          <subject_class locale="en_US">Ophioniformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>I.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Gauld</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Wahl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-41</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Antennuloniscus alfi &lt;/i&gt;n. sp. (Crustacea: Isopoda: Haploniscidae) from the Scotia Sea, Antarctica</title>
+        <abstract locale="en_US">&lt;i&gt;Antennuloniscus&lt;/i&gt; &lt;i&gt;alfi&lt;/i&gt; n. sp. is reported from samples obtained with an epibenthic sledge in the deep sea of the Southern Ocean. The species can be recognised by its trapezoidal head, the broad and short articles 5 and 6 of the antenna and the pleotelson, which has rounded margins and two dorsal cuticular tubercles.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; Asellota; Haploniscidae; &lt;i&gt;Antennuloniscus&lt;/i&gt;; deep sea; Antarctica</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <lastname>Wurzberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <lastname>Brokeland</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-55</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Chironomus &lt;/i&gt;Meigen (Diptera: Chironomidae: Chironominae) from polluted streams of southeastern Brazil</title>
+        <abstract locale="en_US">The larva, pupa, adults, and karyotype of &lt;i&gt;Chironomus&lt;/i&gt; &lt;i&gt;inquinatus&lt;/i&gt; sp. n. are described. This species lives in polluted streams in southeastern Brazil and belongs to the &lt;i&gt;pseudothummi&lt;/i&gt; cytocomplex, with chromosome arm combinations AE, BF, CD, and G.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Chironomus&lt;/i&gt; &lt;i&gt;inquinatus&lt;/i&gt; sp. n.; morphology; karyology; Chironomidae; Diptera; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Chironomus&lt;/i&gt; &lt;i&gt;inquinatus&lt;/i&gt; sp. n.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>C. S.</middlename>
+          <lastname>Correia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <lastname>Trivinho-Strixino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Michailova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1129.1</id>
+    <title locale="en_US">16 Feb. 2006</title>
+    <volume>1129</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New records of Heteroptera (Hemiptera) from Argentina</title>
+        <abstract locale="en_US">Sixty-four species of Heteroptera, in 46 genera, are recorded for the first time from Argentina; these belong to nine families: Schizopteridae (1 sp.), Reduviidae (10 sp.), Miridae (40 sp.), Nabidae (1 sp.), Largidae (1 sp.), Pyrrhocoridae (1 sp.), Lygaeidae (3 sp.), Pachygronthidae (1 sp.), and Rhyparochromidae (6 sp.). Fifteen genera represent new records, and the tribes Cylapini Kirkaldy 1906 (Miridae: Cylapinae), Phorticini Kerzhner 1971 (Nabidae: Prostemmatinae), and Udeocorini Sweet 1967 (Rhyparochromidae: Rhyparochrominae) are recorded for the first time from this country as well.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New records; Argentina; terrestrial Heteroptera</subject>
+          <subject_class locale="en_US">New records</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Carpintero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Dellape</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Polypterus mokelembembe&lt;/i&gt;, a new species of bichir from the central Congo River basin (Actinopterygii: Cladistia: Polypteridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Polypterus&lt;/i&gt; &lt;i&gt;mokelembembe&lt;/i&gt; sp. n. is described from the central Congo River basin. It is distinguished from all other &lt;i&gt;Polypterus&lt;/i&gt; species except &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;retropinnis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;teugelsi&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;palmas&lt;/i&gt; &lt;i&gt;palmas&lt;/i&gt; by its high predorsal scale count (32–37 vs. 11–28). It differs from P. &lt;i&gt;teugelsi&lt;/i&gt; by having 57– 60 lateral line scales (vs. 63–65), from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;palmas&lt;/i&gt; &lt;i&gt;palmas&lt;/i&gt; by a single large black blotch on the pectoral-fin base (vs. numerous small spots on the posterior part of the base), and from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;retropinnis&lt;/i&gt; by having a wider first dorsal-fin spine (6.4–8.1 vs. 4.6–6.1 % of HL), a smaller internostril distance (11.6–13.7 vs 14.3–18.0 % of HL), and fewer pectoral-fin rays (23–29 vs. 30– 34). Inasmuch as the type series (comprising three specimens) of &lt;i&gt;Polypterus&lt;/i&gt; &lt;i&gt;retropinnis&lt;/i&gt; Vaillant, 1899 is of mixed composition, and includes two specimens of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mokelembembe,&lt;/i&gt; a lectotype is designated for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;retropinnis&lt;/i&gt; and a rediagnosis for that species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Polypteridae&lt;/i&gt;; new species; Congo basin</subject>
+          <subject_class locale="en_US">&lt;i&gt;Polypteridae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>U.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Schliewen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <lastname>Schafer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-36</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Raspailia (Raspaxilla) bouryesnaultae&lt;/i&gt;, a new name for Brazilian &lt;i&gt;Raspaxilla elegans &lt;/i&gt;Boury-Esnault, 1973 (Demospongiae, Poecilosclerida, Raspailiidae) with a redescription and a new record</title>
+        <abstract locale="en_US">The combination &lt;i&gt;Raspailia&lt;/i&gt; &lt;i&gt;(Raspaxilla)&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; Boury-Esnault, 1973 is precoccupied by &lt;i&gt;Raspailia&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; Lendenfeld,1887 (Porifera, Poecilosclerida, Raspailiidae). A new name for this Brazilian shallow-water species is proposed, &lt;i&gt;Raspailia&lt;/i&gt; &lt;i&gt;(Raspaxilla)&lt;/i&gt; &lt;i&gt;bouryesnaultae&lt;/i&gt; n.n., and the species is redescribed based on a skeleton slide from the holotype and additional material freshly collected from the coast of Santa Catarina state. The distribution is now expanded to encompass the area from 22º to 27°S, in southeastern Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Porifera; &lt;i&gt;Raspailia&lt;/i&gt;; Sowthwestern Atlantic; Brazil</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <lastname>Lerner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Carraro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Van Soest</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-45</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Ilyarachna zachsi &lt;/i&gt;Gurjanova, 1933 (Crustacea: Isopoda: Munnopsidae) from the Sea of Japan, with the synonymisation of &lt;i&gt;I. starokadomskii &lt;/i&gt;Gurjanova, 1933</title>
+        <abstract locale="en_US">&lt;i&gt;Ilyarachna&lt;/i&gt; &lt;i&gt;zachsi&lt;/i&gt; Gurjanova, 1933, from the Sea of Japan, is redescribed and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;starokadomskii&lt;/i&gt; Gurjanova, 1933 is regarded as a junior subjective synonym of that species. &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;zachsi&lt;/i&gt; is characterized by the cephalon having a transverse row of 6 dorsal spines, anterior margins of pereonites 1–3 with 4–14 dorsal spines and the male pleopods 2 stylet not reaching the distal end of protopod. The species displays significant intraspecific variability in the armament of pereonites 1– 3. The smaller specimens with 4 long spines are generally males, these having been previously described as I. starokadomskii, while the larger, more spiny specimens are females (the specimen with extreme state of this character was previously described as &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;zachsi).&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Isopoda; Munnopsidae; &lt;i&gt;Ilyarachna;&lt;/i&gt; Sea of Japan; taxonomy</subject>
+          <subject_class locale="en_US">Crustacea; Isopoda; Munnopsidae; &lt;i&gt;Ilyarachna;&lt;/i&gt; Sea of Japan; taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>O.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Golovan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Malyutina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-60</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Prismognathus &lt;/i&gt;Motschulsky from Xizang (Tibet), China (Coleoptera: Scarabaeoidea: Lucanidae)</title>
+        <abstract locale="en_US">A new species of stag beetle, &lt;i&gt;Prismognathus&lt;/i&gt; &lt;i&gt;prossi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from Xizang (Tibet), China. The new species is compared with similar species, from which it differs in the peculiar shape of the eye canthus. The status of the type specimen of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;branczicki&lt;/i&gt; Nonfried is discussed. A checklist of the known species and subspecies of &lt;i&gt;Prismognathus&lt;/i&gt; Motschulsky is also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Lucanidae; &lt;i&gt;Prismognathus&lt;/i&gt;; new species; China; Xizang; Tibet</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <lastname>Bartolozzi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>X.</firstname>
+          <lastname>Wan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1128.1</id>
+    <title locale="en_US">16 Feb. 2006</title>
+    <volume>1128</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Eight new species of Scissurellidae and Anatomidae (Mollusca: Gastropoda: Vetigastropoda) from around the world, with discussion of two new senior synonyms</title>
+        <abstract locale="en_US">Eight new species of Scissurellidae and Anatomidae are described: &lt;i&gt;Scissurella&lt;/i&gt; &lt;i&gt;kaiserae&lt;/i&gt; new species from the Panamic; &lt;i&gt;Scissurella&lt;/i&gt; &lt;i&gt;lorenzi&lt;/i&gt; new species from the Indo-Malayan archipelago; &lt;i&gt;Scissurella&lt;/i&gt; &lt;i&gt;maraisorum&lt;/i&gt; new species from South Africa; &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;garciai&lt;/i&gt; new species from the Caribbean; &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;globosa&lt;/i&gt; new species from the tropical Western Pacific; &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;macleani&lt;/i&gt; new species from the Philippines; &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;singeri&lt;/i&gt; new species from the Red Sea; and &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;jansenae&lt;/i&gt; new species from southern Australia. Radulae of &lt;i&gt;Scissurella&lt;/i&gt; &lt;i&gt;kaiserae&lt;/i&gt; and &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;singeri&lt;/i&gt; are illustrated. &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;munieri&lt;/i&gt; (Fischer, Oct. 1862) is identified as a senior synonym of &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;turbinata&lt;/i&gt; (A. Adams, Nov. 1862), and &lt;i&gt;Sukashitrochus&lt;/i&gt; &lt;i&gt;morleti&lt;/i&gt; (Crosse, 1880) is shown to be a senior synonym of &lt;i&gt;Sukashitrochus&lt;/i&gt; &lt;i&gt;indonesicus&lt;/i&gt; Bandel, 1998, and &lt;i&gt;Sukashitrochus&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt; Bandel, 1998. These synonymies are based on examination of type material in the Muséum Nationale dHistoire Naturelle, Paris; scanning electron microscope images of the types are provided, and lectotypes are here selected.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">microgastropods; SEM; protoconch</subject>
+          <subject_class locale="en_US">microgastropods</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Geiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2006-02-16</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identity of &lt;i&gt;Paraleyrodes perseae &lt;/i&gt;(Quaintance) (Sternorrhyncha: Aleyrodidae), a potential pest of fruit trees in the United States and beyond</title>
+        <abstract locale="en_US">&lt;i&gt;Paraleyrodes&lt;/i&gt; &lt;i&gt;perseae&lt;/i&gt; (Quaintance) is redefined, with both puparial and male identification characters illustrated, in order to overcome confusion caused by conflicting earlier accounts of this species. A lectotype is designated. The pest potential of this species is briefly discussed, in relation to invasive populations of other &lt;i&gt;Paraleyrodes&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">whiteflies; pests; &lt;i&gt;Paraleyrodes&lt;/i&gt; &lt;i&gt;perseae&lt;/i&gt;; redefinition; invasive potential; lectotype</subject>
+          <subject_class locale="en_US">whiteflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-47</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Psectrotanypus &lt;/i&gt;Kieffer (Diptera: Chironomidae: Tanypodinae) from China</title>
+        <abstract locale="en_US">Adults of the genus &lt;i&gt;Psectrotanypus&lt;/i&gt; are recorded from the Oriental Region for the first time. &lt;i&gt;Psectrotanypus&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; sp. n. is described and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;varius&lt;/i&gt; (Fabricius) is redescribed from males, and a key to males of the genus worldwide is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; Tanypodinae; &lt;i&gt;Psectrotanypus&lt;/i&gt;; new species; key; China</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <lastname>Cheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>X.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-56</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Contribution to the taxonomy of Eastern North American &lt;i&gt;Epeorus &lt;/i&gt;Eaton (Ephemeroptera: Heptageniidae)</title>
+        <abstract locale="en_US">The larva of &lt;i&gt;Epeorus&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; (McDunnough) is described for the first time based on reared specimens from West Virginia. Larvae are differentiated from those of other &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;vitreus&lt;/i&gt; species group species by the bluntly pointed femoral projections, subrectangular head capsule, and short posterolateral abdominal projections. &lt;i&gt;Epeorus&lt;/i&gt; &lt;i&gt;rubidus&lt;/i&gt; (Traver) is considered to be a junior subjective synonym of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;vitreus&lt;/i&gt; (Walker). A key for the known larvae of the eastern North American species of the &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;vitreus&lt;/i&gt; species group [E. &lt;i&gt;dispar&lt;/i&gt; (Traver), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;punctatus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;subpallidus&lt;/i&gt; (Traver), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;vitreus]&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ephemeroptera; taxonomy; &lt;i&gt;Epeorus&lt;/i&gt;; Heptageniidae; new synonym; stage description</subject>
+          <subject_class locale="en_US">Ephemeroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>P.</middlename>
+          <lastname>Mccafferty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-64</pages>
+        <date_published>2006-02-16</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1126.1</id>
+    <title locale="en_US">10 Feb. 2006</title>
+    <volume>1126</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Gastromyzon &lt;/i&gt;(Teleostei: Balitoridae) from southern Sarawak</title>
+        <abstract locale="en_US">Three new species of the genus &lt;i&gt;Gastromyzon&lt;/i&gt; are described from southern Sarawak. &lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;scitulus,&lt;/i&gt; new species, is similar to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ctenocephalus&lt;/i&gt; but differs in having a black body, with numerous evenly spaced smaller light brown spots, head dorsum black, with numerous cream spots, pectoral and pelvic fins with cream spots; caudal fin with iridescent blue streaks when live; and 57– 58 scales in lateral line. &lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;crenastus,&lt;/i&gt; new species, is the smallest known &lt;i&gt;Gastromyzon,&lt;/i&gt; largest recorded specimen measuring only 29.7 mm SL. It is similar to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ridens,&lt;/i&gt; but differs in having a black body, dorsum with 6–8 thin cream bars or spots, head black with cream spots and blotches; a truncate snout when viewed dorsally; and 60–65 scales in lateral line. &lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;farragus,&lt;/i&gt; new species, is similar to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ocellatus&lt;/i&gt; but differs in having a dark brown body, dorsum with 9–10 thin cream bars, side with spots and blotches, head dorsum dark brown with fine cream spots; caudal fin reddish in life; and 52–55 scales in lateral line. Data on these species are presented, together with a short discussion on their ecology.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;scitulus&lt;/i&gt;; &lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;crenastus&lt;/i&gt;; &lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;farragus&lt;/i&gt;; biodiversity; Borneo</subject>
+          <subject_class locale="en_US">&lt;i&gt;Gastromyzon&lt;/i&gt; &lt;i&gt;scitulus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>H.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Tan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>U. M.</middlename>
+          <lastname>Leh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological development of &lt;i&gt;Pellona flavipinnis &lt;/i&gt;post-yolk-sac larvae and juveniles (Clupeiformes: Pristigasteridae)</title>
+        <abstract locale="en_US">Pristigasterids are predominantly coastal marine sardines of tropical and subtropical seas, with some species being found in fresh water. Two species of the genus &lt;i&gt;Pellona,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;castelnaeana&lt;/i&gt; Valenciennes, 1847 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavipinnis&lt;/i&gt; (Valenciennes, 1837), inhabit fresh waters of the neotropical region, with the latter occurring in the Pantanal of Mato Grosso, in the Paraguay River basin of central Brazil. The development of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavipinnis&lt;/i&gt; larvae and early juveniles was characterized from an ontogenic series of 27 specimens (6.3–35 mm SL), based on morphological and meristic characters. The larval and juvenile development of this freshwater sardine are typical of most clupeiforms. Exact hatching size is unknown, but it is less than 6 mm standard length (SL) and the yolk is absorbed under 10 mm. Transformation to the flexion stage occurs at about 11 mm, to the postflexion stage between 16 and 19 mm, and to the juvenile stage after 26 mm. The ventral scutes begin to form between 25 and 31 mm, with the full complement of scutes (32 to 37) formed between 32 and 35 mm. Total myomere count averages 42. As the dorsal fin and origin of the anal fin and vent migrate anteriorly, the preanal myomere count ranges from 29 in the flexion larvae to 24 in early juveniles up to 35 mm. Corresponding preanal lengths range from 85 to 61%, respectively.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Clupeiformes; Pristigasteridae; &lt;i&gt;Pellona&lt;/i&gt; &lt;i&gt;flavipinnis&lt;/i&gt;; larvae; development; Pantanal; Neotropical</subject>
+          <subject_class locale="en_US">Clupeiformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>W.</firstname>
+          <lastname>Severi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Verani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-33</pages>
+        <date_published>2006-02-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Branchinecta &lt;/i&gt;(Crustacea: Branchiopoda: Anostraca) from the Nearctic</title>
+        <abstract locale="en_US">&lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;lateralis,&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;constricta&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;serrata,&lt;/i&gt; three new species of fairy shrimp, are described from central North American temporary pools. &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;campestris&lt;/i&gt; Lynch, 1960 has been thought to occur on both sides of the Rocky Mountains in Canada and the United States. However, material from east of the North American Continental Divide were found to represent an undescribed species, morphologically distinct from &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;campestris,&lt;/i&gt; and is described here as &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; n. sp. &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;constricta&lt;/i&gt; n. sp. has affinities with &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;coloradensis,&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;packardi,&lt;/i&gt; yet is distinguished in that the male second antenna has a proximal constriction. &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;serrata&lt;/i&gt; n. sp. is closely related to &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;paludosa&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;kaibabensis,&lt;/i&gt; but differs in the shape of the distal segment of the male second antenna and in the female pattern of dorsolateral projections.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Branchinecta&lt;/i&gt;; new species; &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt;; &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;campestris&lt;/i&gt;; &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;constricta&lt;/i&gt;; &lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;serrata&lt;/i&gt;; Montana; Wyoming; Texas; Alberta; fairy shrimp</subject>
+          <subject_class locale="en_US">&lt;i&gt;Branchinecta&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-51</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of Comesomatidae Filipjev, 1922 (Nematoda: Chromadorida) from sandy bottoms of Tenerife, Canary Islands</title>
+        <abstract locale="en_US">Two new species of Comesomatidae Filipjev, 1922 are described from sandy bottoms of Tenerife, Canary Islands. &lt;i&gt;Paracomesoma&lt;/i&gt; &lt;i&gt;sigmoidalis&lt;/i&gt; new species is characterized by having 35 precloacal supplements, S-shaped and slender spicules, and an elliptical plaque at the distal end of the gubernaculum. &lt;i&gt;Setosabatieria&lt;/i&gt; &lt;i&gt;triangularis&lt;/i&gt; new species is characterized by the number of turns (2.5) and development of the amphid (68% cbd), and a triangular gubernaculum.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematoda; Comesomatidae; &lt;i&gt;Paracomesoma&lt;/i&gt;; &lt;i&gt;Setosabatieria&lt;/i&gt;; free-living; soft-bottoms; Canary Islands; Tenerife</subject>
+          <subject_class locale="en_US">Nematoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <lastname>Riera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Nunez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>D. C.</middlename>
+          <lastname>Brito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Opistheurista &lt;/i&gt;Carvalho, from Southern Brazil (Heteroptera: Miridae: Mirinae)</title>
+        <abstract locale="en_US">The Resthenini genus &lt;i&gt;Opistheurista&lt;/i&gt; has been known until now by the single species &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;clandestina,&lt;/i&gt; which occurs in the Nearctic region. While studying mirids from Rio Grande do Sul, Brazil, we found a female exemplar as a new species. We provide descriptions, diagnoses, illustrations, and a key to distinguish the two species of genus &lt;i&gt;Opistheurista.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Opistheurista&lt;/i&gt;; Resthenini; New species &lt;i&gt;derrubadensis&lt;/i&gt; ; Neotropical; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Opistheurista&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <middlename>S. F.</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Coelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-68</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1125.1</id>
+    <title locale="en_US">10 Feb. 2006</title>
+    <volume>1125</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the hyperiidean amphipod superfamily Archaeoscinoidea Vinogradov, Volkov &amp; Semenova, 1982 (Crustacea: Amphipoda: Hyperiidea)</title>
+        <abstract locale="en_US">A taxonomic review of the superfamily Archaeoscinoidea is presented, based predominantly on collections held by the Zoological Museum, University of Copenhagen, Denmark. The superfamily includes just one family, Archaeoscinidae, comprising two genera, &lt;i&gt;Archaeoscina&lt;/i&gt; and &lt;i&gt;Paralanceola.&lt;/i&gt; Prior to this review, &lt;i&gt;Archaeoscina&lt;/i&gt; was known from two species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;steenstrupi&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;stebbingi,&lt;/i&gt; with the status of the latter in doubt. Despite the loss of the unique type of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;stebbingi&lt;/i&gt; it is regarded as valid species for the time being. In addition, one new species of &lt;i&gt;Archaeoscina,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;danae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from the Pacific, Indo-Pacific and Atlantic Ocean. &lt;i&gt;Paralanceola&lt;/i&gt; was known only from the unique type of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;anomala&lt;/i&gt; Barnard, 1930. Remains of the type were re-examined to determine unique characters such as the morphology of the second antennae. More specimens of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;anomala&lt;/i&gt; were not found but two additional species are described as new to science; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;wolffi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the South Pacific and Atlantic Ocean and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;oleseni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the tropical Atlantic Ocean. Two new characters were discovered during this study; the presence of a partial ventral suture between urosomites 2 &amp; 3 in all specimens and the presence of male genital papillae in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;oleseni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; An examination of other members of the Physosomata revealed that these characters are also present in most other genera. Thus, they may be of phylogenetic significance. Keys are provided for genera and all species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; Hyperiidea; Archaeoscinoidea; Archaeoscinidae; &lt;i&gt;Archaeoscina&lt;/i&gt;; &lt;i&gt;Paralanceola&lt;/i&gt;; review; taxonomy; new species</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>W.</firstname>
+          <lastname>Zeidler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Authorship and publication date of the Palaeozoic genera &lt;i&gt;Cypridinella, Cypridellina, Sulcuna, Rhombina, and Offa&lt;/i&gt; (Ostracoda: Myodocopa)</title>
+        <abstract locale="en_US">Authorship and publication date of the Palaeozoic genera &lt;i&gt;Cypridinella,&lt;/i&gt; &lt;i&gt;Cypridellina,&lt;/i&gt; &lt;i&gt;Rhombina,&lt;/i&gt; &lt;i&gt;Sulcuna,&lt;/i&gt; and &lt;i&gt;Offa&lt;/i&gt; have been attributed in the literature to either Jones 1873a, Jones &amp; Kirkby, 1874, or Jones, Kirkby, and Brady, 1874, or 1884 (see Kornicker, 2001). Kornicker (2001) concluded that the correct authorship and publication date of the five genera are Jones, 1873a. Becker (2004) disputed this and argued that the correct authorship and publication date of the first four genera are Jones and Kirkby, 1874 (Offa not mentioned), centering his argument on the genus &lt;i&gt;Sulcuna.&lt;/i&gt; On June 10, 2005, I forwarded a request to the International Commission on Zoological Nomenclature (ICZN) requesting a ruling on the identity of the author of the Palaeozoic genus &lt;i&gt;Sulcuna.&lt;/i&gt; An answering letter received in August 2005 from the ICZN Secretariat (Fig. 1) stated that Jones (1873a) should be credited as the author of the genus &lt;i&gt;Sulcuna.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sulcuna&lt;/i&gt;; Jones; Authorship; Ostracoda; Myodocopa; Palaeozoic</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sulcuna&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Louis</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kornicker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-43</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Synodontis acanthoperca&lt;/i&gt;, a new species from the Ogooue River system, Gabon with comments on spiny ornamentation and sexual dimorphism in mochokid catfishes (Siluriformes: Mochokidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Synodontis&lt;/i&gt; &lt;i&gt;acanthoperca,&lt;/i&gt; a new species of mochokid catfish, is described from rapids within the Ogôoué River system of Gabon. This relatively small species (&lt;50 mm SL) is distinguished from all congeners by a distinctive pigmentation pattern that includes a pair of dark patches on the caudal fin and by the presence of hypertrophied opercular spines in sexually mature males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Siluriformes; Mochokidae; &lt;i&gt;Synodontis&lt;/i&gt;; new species; Africa; Gabon; Ogôoué River; spiny ornamentation; sexual dimorphism</subject>
+          <subject_class locale="en_US">Siluriformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>P.</middlename>
+          <lastname>Friel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>T.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Vigliotta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2006-02-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Tenuipalpus &lt;/i&gt;Donnadieu (Acari, Tenuipalpidae) from the State of São Paulo, Brazil</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Tenuipalpus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;carlosflechtmanni&lt;/i&gt; n. sp., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;moraesi&lt;/i&gt; n. sp. and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;ariauae&lt;/i&gt; n. sp., collected on wild plants in Brazil, are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Tenuipalpidae; &lt;i&gt;Tenuipalpus&lt;/i&gt;; taxonomy; false spider mites</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>J. F.</middlename>
+          <lastname>Feres</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2006-02-10</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1124.1</id>
+    <title locale="en_US">8 Feb. 2006</title>
+    <volume>1124</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Arrhopalites &lt;/i&gt;Börner, 1906 (Collembola, Appendiciphora, Arrhopalitidae) in the Neotropical Region, with description of four new cave species from Brazil</title>
+        <abstract locale="en_US">Twenty two known and new Neotropical species of the genus &lt;i&gt;Arrhopalites&lt;/i&gt; (Collembola: Arrhopalitidae) are revised and diagnosed. The four new cave species from Brazil are described and illustrated and the remaining Brazilian and Mexican species are redescribed and illustrated. Neotropical species are distributed along the Good’s biogeographic zones 8, 24a, 27 and 29. Four species described as &lt;i&gt;Arrhopalites&lt;/i&gt; are replaced in the genus &lt;i&gt;Pararrhopalites&lt;/i&gt; Bonet &amp; Tellez 1944 based on their morphology. A short discussion is made about the distribution of the genus in the Neotropical Region, and a key for identification of the Neotropical species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Collembola; Symphypleona; Arrhopalitidae; Arrhopalites; cave Collembola; Neotropical Region</subject>
+          <subject_class locale="en_US">Collembola</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <lastname>Zeppelini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Watanabesaruzo &lt;/i&gt;(Coleoptera: Curculionidae: Ceutorhynchinae) from China</title>
+        <abstract locale="en_US">&lt;i&gt;Watanabesaruzo&lt;/i&gt; &lt;i&gt;yunnanensis&lt;/i&gt; sp. nov. is described from Yunnan Province, China. It is a peculiar species of &lt;i&gt;Watanabesaruzo&lt;/i&gt; Yoshitake et Yamauchi and represents a new record for the genus in China. The genus &lt;i&gt;Watanabesaruzo&lt;/i&gt; was erected by Yoshitake and Yamauchi (2002) based on two species, &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;taimeii&lt;/i&gt; and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;malayanus.&lt;/i&gt; A key to the three species is presented. The type specimen is deposited in the Institute of Zoology, Chinese Academy of Sciences in Beijing, China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ceutorhynchinae; &lt;i&gt;Watanabesaruzo&lt;/i&gt;; new species; weevil; Yunnan; China</subject>
+          <subject_class locale="en_US">Ceutorhynchinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>Z.</middlename>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>W.</middlename>
+          <lastname>Pelsue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-46</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Microcerella&lt;/i&gt; (Diptera: Sarcophagidae) from Argentinean Patagonia</title>
+        <abstract locale="en_US">&lt;i&gt;Microcerella&lt;/i&gt; &lt;i&gt;coniceti&lt;/i&gt; sp. nov. is described and illustrated from Santa Cruz province, Argentina, based on male specimens. A new record of &lt;i&gt;Microcerella&lt;/i&gt; &lt;i&gt;curicoensis&lt;/i&gt; (Lopes) from Austral Argentinean Patagonia is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Sarcophagidae; &lt;i&gt;Microcerella&lt;/i&gt;; new species; Argentinean Patagonia</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Mariluis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-53</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Phyllonorycter &lt;/i&gt;(Lepidoptera: Gracillariidae) from Kenya discovered by using the sex attractant Z8-tetradecen-1-yl acetate</title>
+        <abstract locale="en_US">&lt;i&gt;Phyllonorycter&lt;/i&gt; &lt;i&gt;obandai,&lt;/i&gt; new species, was discovered in Kenya using traps baited with the synthetic sex attractant Z8-tetradecen-1-yl acetate. This is the first species of &lt;i&gt;Phyllonorycter&lt;/i&gt; recorded from Kenya. External morphological features of adult males, along with their genitalia are described and illustrated from specimens attracted to the traps. A distribution map for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;obandai&lt;/i&gt; is also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phyllonorycter&lt;/i&gt; &lt;i&gt;obandai&lt;/i&gt;; new species; Kenya; &lt;i&gt;Phyllonorycter&lt;/i&gt;; Lithocolletinae; Gracillariidae; morphology; sex attractant; pheromone; Afrotropical.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phyllonorycter&lt;/i&gt; &lt;i&gt;obandai&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <lastname>De Prins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Mozuraitis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2006-02-08</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1123.1</id>
+    <title locale="en_US">8 Feb. 2006</title>
+    <volume>1123</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Geographic distribution of Miridae in Minas Gerais State, Brazil (Hemiptera: Heteroptera)</title>
+        <abstract locale="en_US">We present for the first time the geographic distribution of mirids in the state of Minas Gerais, Brazil, taking into account the vegetation areas, climate features, and species richness. All the information about species distribution in Minas Gerais was obtained using references on Neotropical Miridae and data labels of specimens deposited in National collections. Minas Gerais represents the largest diversity of mirids in Brazil, 311 species. The mirids were collected in 42 counties in Minas Gerais. They are present in all the 4 major biomes of the State. The Atlantic Forest has the greatest richness, with 214 species, followed by Cerrado with 128 species. We suggest that the diversity of Minas Gerais mirids began in the Atlantic Forest. Fisher's PLSD test among mirid subfamilies at different elevations, temperatures, and precipitations showed a significant effect of elevation only.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical Miridae; Distribution; Brazil; Biogeography; Hemiptera; Heteroptera</subject>
+          <subject_class locale="en_US">Neotropical Miridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <middlename>S. F.</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pires</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>S.</middlename>
+          <lastname>De Paula</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Coelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Simulium &lt;/i&gt;(&lt;i&gt;Chirostilbia&lt;/i&gt;) &lt;i&gt;jefersoni&lt;/i&gt;, a new species of black fly (Diptera: Simuliidae) from the state of Bahia, Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;jefersoni&lt;/i&gt; n. sp. is described based on adults, pupae, and larvae collected in Chapada Diamantina National Park and the surrounding area, in the state of Bahia, Brazil. Its affinities with other species, distribution, and biology in Brazil are presented. The immature stages of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;jefersoni&lt;/i&gt; n. sp. were found in 44% of the 68 streams sampled in the study area. Females did not bite humans in the field.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Chirostilbia&lt;/i&gt;; black fly; aquatic insects; Neotropical Region; taxonomy; Parque Nacional Chapada Diamantina</subject>
+          <subject_class locale="en_US">&lt;i&gt;Chirostilbia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>N.</firstname>
+          <lastname>Hamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Hernandez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>L. B.</middlename>
+          <lastname>Luz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Pepinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-37</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Keilbachia &lt;/i&gt;Mohrig (Diptera: Sciaridae) in a biodiversity hot spot: new sympatric species from Kambaiti, Burma</title>
+        <abstract locale="en_US">Eight new, strictly sympatric species of the genus &lt;i&gt;Keilbachia&lt;/i&gt; Mohrig, 1987, from Burma (Myanmar) are described and illustrated: &lt;i&gt;Keilbachia&lt;/i&gt; &lt;i&gt;aculeata,&lt;/i&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;apprima,&lt;/i&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;arcuata,&lt;/i&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;arrecta,&lt;/i&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;demissa,&lt;/i&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;mira,&lt;/i&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;scutica,&lt;/i&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;tenuicula.&lt;/i&gt; &lt;i&gt;Keilbachia&lt;/i&gt; &lt;i&gt;flagrispina&lt;/i&gt; Mohrig is redescribed on the basis of Burmese specimens. A key to all currently known species of &lt;i&gt;Keilbachia&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sciaridae; &lt;i&gt;Keilbachia&lt;/i&gt;; new species; Burma (Myanmar)</subject>
+          <subject_class locale="en_US">Sciaridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <lastname>Vilkamaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Komarova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-55</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Neobruchidius lovie&lt;/i&gt;, new genus and new species from Latin America (Coleoptera: Chrysomelidae: Bruchinae)</title>
+        <abstract locale="en_US">The new genus &lt;i&gt;Neobruchidius&lt;/i&gt; is described principally because of the single spine near the apex of the hind femur of all ten species. This and other characters differentiate it from other genera in the New World and ally it to the Old World genus &lt;i&gt;Bruchidius,&lt;/i&gt; hence the name. Seven of the ten species of &lt;i&gt;Neobruchidius&lt;/i&gt; were all originally described in the genus &lt;i&gt;Acanthoscelides&lt;/i&gt; by Johnson and one is the new species &lt;i&gt;Neobruchidius&lt;/i&gt; &lt;i&gt;lovie.&lt;/i&gt; The nine species are &lt;i&gt;Neobruchidius&lt;/i&gt; &lt;i&gt;barinas,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;canar,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;curimagua,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;guatemala,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lituratus,&lt;/i&gt; (Sharp), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;macheta,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;tabidus&lt;/i&gt; (Erichson), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;tibiospinalis,&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;zacatlan.&lt;/i&gt; A discussion of the genus is provided as is a key to species, and some comments on allometry in adult bruchids due to seed size of their hosts. &lt;i&gt;Neobruchidius&lt;/i&gt; &lt;i&gt;lovie&lt;/i&gt; differs from species in the genus &lt;i&gt;Sennius&lt;/i&gt; principally by lacking hinge sclerites in the median lobe of the male genitalia and with a mucro on the apex of the hind tibia that is much shorter than 0.25 times as long as the first hind tarsomere. Most species of &lt;i&gt;Sennius&lt;/i&gt; lack a mucro or almost so.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Neobruchidius&lt;/i&gt; &lt;i&gt;lovie&lt;/i&gt;; &lt;i&gt;Neobruchidius&lt;/i&gt;; Bruchidae; New Genus; &lt;i&gt;Sennius&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Neobruchidius&lt;/i&gt; &lt;i&gt;lovie&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Romero-Napoles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2006-02-08</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1122.1</id>
+    <title locale="en_US">2 Feb. 2006</title>
+    <volume>1122</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Five new species of the genus &lt;i&gt;Milnesium&lt;/i&gt; (Tardigrada, Eutardigrada, Milnesiidae)</title>
+        <abstract locale="en_US">An illustrated description of five new tardigrade species belonging to genus &lt;i&gt;Milnesium&lt;/i&gt; is given. The new species differ from all known species of this genus mainly by the proportions of the claws and bucco-pharyngeal apparatus. A new key to the determination of recent species of the genus &lt;i&gt;Milnesium&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tardigrada; &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;antarcticum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;almatyense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;asiaticum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;reductum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;longiungue&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Antarctica; Himalaya; Tien-Shan</subject>
+          <subject_class locale="en_US">Tardigrada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Tumanov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Mnemosynini taxa (Hemiptera, Fulgoromorpha: Cixiidae) from the Palaeogene of France with notes on their early association with host plants</title>
+        <abstract locale="en_US">Three new genera: &lt;i&gt;Stalisyne&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; comprising &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lutetiorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;veromanduiorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Mnaomaia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bellovaciorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; both from the Lowermost Eocene (Sparnacian) amber of Oise, (Northern France) and &lt;i&gt;Mnasthaia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;arverniorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Palaeocene strata of Menat (Auvergne) are described. Characters of extant and fossil Mnemosynini are discussed also. Remarks on co-evolutionary processes of Mnemosynini, as well as Cixiidae and the host plants are presented. Eco-evolutionary processes affecting Mnemosynini and other Cixiidae lineages are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cixiidae; Mnemosynini; Oise amber; Menat; Palaeogene; France; co-evolution plantinsects</subject>
+          <subject_class locale="en_US">Cixiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <lastname>Szwedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>T.</firstname>
+          <lastname>Bourgoin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <lastname>Lefebvre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-45</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new synonym of the biting midge, &lt;i&gt;Culicoides bottimeri &lt;/i&gt;Wirth, with a redescription, new distribution records and seasonal activity data (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US">We provide evidence that the North American biting midge, &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;multidentatus&lt;/i&gt; Atchley &amp; Wirth, is a junior objective synonym of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bottimeri&lt;/i&gt; Wirth (new synonym). A detailed comparison of paratypes of both species with recently collected specimens from California and Utah revealed that only one species is represented in the southwestern United States. Also provided are redescriptions, illustrations, and photographs of key characters of both sexes of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bottimeri,&lt;/i&gt; as well as new distribution records from California and Utah (new state record), and seasonal activity data from Utah.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Ceratopogonidae; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;bottimeri&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;multidentatus&lt;/i&gt;; biting midge; new synonymy; United States</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Phillips</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grogan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mullens</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-55</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Investigation of taxonomically important morphological features of endoparasitic bat flies of the subfamily Ascodipterinae (Diptera: Streblidae) by scanning electron microscopy</title>
+        <abstract locale="en_US">Endoparasitic dealate females of &lt;i&gt;Ascodipteron&lt;/i&gt; and an undescribed genus of Ascodipterinae are examined by scanning electron microscopy. The unique morphology of the head and mouth parts and terminal segments are displayed and discussed. Prior reports have focused only on details observable with light microscopy. The taxonomic position of members of the subfamily Ascodipterinae relative to the Old World families of Streblidae and Nycteribiidae is briefly discussed in light of previously published molecular information.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ascodipteron&lt;/i&gt;; bat flies; Streblidae; Nycteribiidae; SEM</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ascodipteron&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>W.</middlename>
+          <lastname>Hastriter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <lastname>Dittmar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Whiting</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1121.1</id>
+    <title locale="en_US">2 Feb. 2006</title>
+    <volume>1121</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Tycherobius &lt;/i&gt;(Acari: Camerobiidae), with descriptions of four new species from Australia</title>
+        <abstract locale="en_US">This is the first review on the genus &lt;i&gt;Tycherobius&lt;/i&gt; Bolland since its establishment in 1986. We studied characters of the genus, provide distribution and habitat information, and described four new species from Australia: &lt;i&gt;Tycherobius&lt;/i&gt; &lt;i&gt;stipula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from grasstree litter in Brisbane and wetsandy heath litter in Cooloola, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from forest litter in Brisbane, wet-sandy heath litter in Cooloola, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;acicula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from litter in African Mahogany plantation in Far North Queensland and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from forest litter in Brisbane. We also give a key to adults of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Camerobiidae; &lt;i&gt;Tycherobius&lt;/i&gt;; review; new species; Australia</subject>
+          <subject_class locale="en_US">Camerobiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Q.-H.</firstname>
+          <lastname>Fan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Walter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Spirinia elongata&lt;/i&gt;, sp. nov. (Nematoda, Desmodoridae) from Pina Basin, Pernambuco, Brazil</title>
+        <abstract locale="en_US">A new species &lt;i&gt;Spirinia&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; sp. nov., is described from the Pina Basin a hypereutrophic estuary on the coast of Pernambuco state (Brazil). The new species belongs to the Desmodoridae and is distinguished from all known valid species of the genus by the presence of two dorsal teeth and one ventral tooth.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">marine nematodes; &lt;i&gt;Spirinia&lt;/i&gt;; polluted estuary; Desmodoridae.</subject>
+          <subject_class locale="en_US">marine nematodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <middlename>J. V.</middlename>
+          <lastname>De Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>T.</firstname>
+          <middlename>N. C.</middlename>
+          <lastname>Bezerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <lastname>Fonseca-Genevois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1120.1</id>
+    <title locale="en_US">2 Feb. 2006</title>
+    <volume>1120</volume>
+    <number>1</number>
+    <year>2006</year>
+    <date_published>2006-02-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Heterochrony in &lt;i&gt;Haplomesus &lt;/i&gt;(Crustacea: Isopoda: Ischnomesidae): revision of two species and description of two new species</title>
+        <abstract locale="en_US">Two new species of Ischnomesidae, &lt;i&gt;Haplomesus&lt;/i&gt; &lt;i&gt;celticensis&lt;/i&gt; sp. nov. and &lt;i&gt;Haplomesus&lt;/i&gt; &lt;i&gt;hanseni&lt;/i&gt; sp. nov. are described from the southwest of Ireland and the Argentine Basin respectively. Both species lack the expression of pereopod VII, a characteristic that we argue is produced by progenesis, not neoteny as suggested by Brökeland &amp; Brandt (2004). &lt;i&gt;Haplomesus&lt;/i&gt; &lt;i&gt;angustus&lt;/i&gt; Hansen, 1916 and &lt;i&gt;Haplomesus&lt;/i&gt; &lt;i&gt;tropicalis&lt;/i&gt; Menzies, 1962, also lack pereopod VII and are revised from the type material. The original description of &lt;i&gt;Haplomesus&lt;/i&gt; &lt;i&gt;angustus&lt;/i&gt; Hansen, 1916 describes the adult type specimen as a juvenile; the original description of &lt;i&gt;Haplomesus&lt;/i&gt; &lt;i&gt;tropicalis&lt;/i&gt; Menzies, 1962 fails to mention the lack of pereopod VII. Progenesis is discussed for the above species and within the family Ischnomesidae as a whole.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; Asellota; Ischnomesidae; &lt;i&gt;Haplomesus&lt;/i&gt;; heterochrony; progenesis</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kavanagh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <middlename>D. F.</middlename>
+          <lastname>Wilson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Power</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2006-02-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural changes and notes in the tribe Erythroneurini (Homoptera: Cicadellidae: Typhlocybinae)</title>
+        <abstract locale="en_US">New replacement names are proposed for 5 genera, 1 subgenus, and 1 species of the tribe Erythroneurini. One homonymous genus name is replaced by its junior synonym. The following changes are proposed: genera &lt;i&gt;Neolokia&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Lokia&lt;/i&gt; Thapa (not Ris), &lt;i&gt;Makia&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Makilingana&lt;/i&gt; Mahmood (not Miller), &lt;i&gt;Hepneriana&lt;/i&gt; Dworakowska for &lt;i&gt;Mandera&lt;/i&gt; Ahmed (not Fauvel), &lt;i&gt;Theroniana&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Sandia&lt;/i&gt; Theron (not Clench &amp; Ehrlich), &lt;i&gt;Damaniana&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Damania&lt;/i&gt; Thapa (not Smith), &lt;i&gt;Thapaia&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Masaakia&lt;/i&gt; Thapa (not Takeuchi), subgenus &lt;i&gt;Ratburella&lt;/i&gt; (Buraria) &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Ratburella&lt;/i&gt; (Burara) Dworakowska (not Swinhoe), species &lt;i&gt;Erythroneura&lt;/i&gt; (Eratoneura) &lt;i&gt;hepneri&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;E.&lt;/i&gt; (E.) &lt;i&gt;spatulata&lt;/i&gt; Ross (not Beamer).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Typhlocybinae; Erythroneurini; leafhopper; systematics; homonyms</subject>
+          <subject_class locale="en_US">Typhlocybinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Dmitriev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Dietrich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-39</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species and new record of &lt;i&gt;Rhombognathus &lt;/i&gt;from Singapore (Acari: Halacaridae)</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Rhombognathus&lt;/i&gt; &lt;i&gt;aspidotus,&lt;/i&gt; and a new record, &lt;i&gt;Rhombognathus&lt;/i&gt; &lt;i&gt;scutulatus&lt;/i&gt; Bartsch, are reported from the shores of Singapore. The new species is characterized by the presence of a dorsal shield and is similar to &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;scutulatus.&lt;/i&gt; The shape of the claws and the ornamentation of the dorsal shield separate &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;aspidotus&lt;/i&gt; from &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;scutulatus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Singapore; Halacaridae; &lt;i&gt;Rhombognathus&lt;/i&gt;; mangrove; new species; new record</subject>
+          <subject_class locale="en_US">Singapore</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>I.</firstname>
+          <lastname>Bartsch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-49</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Biology of &lt;i&gt;Monocystis clubae &lt;/i&gt;sp. nov. (Apicomplexa: Eugregarinida) from an Indian earthworm &lt;i&gt;Lampito mauritii&lt;/i&gt; (Annelida: Oligochaeta) of India</title>
+        <abstract locale="en_US">Surveys of the endoparasitic acephaline gregarines in West Bengal revealed a new species of the genus &lt;i&gt;Monocystis&lt;/i&gt; Stein, 1848, that resides in the seminal vesicle of the earthworm &lt;i&gt;Lampito&lt;/i&gt; &lt;i&gt;mauritii.&lt;/i&gt; &lt;i&gt;Monocystis&lt;/i&gt; &lt;i&gt;clubae&lt;/i&gt; sp. nov. is characterized by a club-shaped gamont having a taillike structure at the posterior end and measures 104.0–179.0 (160.0±24.5) µm x 62.5–71.0 (64.0±6.5) µm. Shape of the gametocysts are rounded to ovoid and measures 88.0–107.0 (104.0±1.3) µm x 86.0–102.0 µm (96.0±1.9) µm in diameter. Oocysts are navicular in shape and measures 9.6–11.0 (10.4± 0.3) µm x 7.3–8.0 (7.6±0.2) µm.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Monocystis&lt;/i&gt; &lt;i&gt;clubae&lt;/i&gt; sp. nov.; gregarine; earthworm; seminal vesicle; India</subject>
+          <subject_class locale="en_US">&lt;i&gt;Monocystis&lt;/i&gt; &lt;i&gt;clubae&lt;/i&gt; sp. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Bandyopadhyay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A</firstname>
+          <lastname>Mitra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Mallik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-55</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Moenkhausia pankilopteryx&lt;/i&gt;, new species from rio Tocantins drainage, Brazil (Ostariophysi: Characiformes, Characidae)</title>
+        <abstract locale="en_US">A new characid species, &lt;i&gt;Moenkhausia&lt;/i&gt; &lt;i&gt;pankilopteryx,&lt;/i&gt; is described from the rio Tocantins drainage. The new species is distinguished from its congeners by the combination of 37–41 pored scales in the lateral line; a deep body, 43.3–51.0 % SL; the presence of bony hooks on all fins of mature males; a caudal-peduncle spot; two humeral spots, the first of which is black, larger and vertically elongate, with the second dark and very diffuse (not visible in some specimens); two or three tricuspid or pentacuspid maxillary teeth; and anal-fin rays: ii–iv, 24–27.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical; taxonomy; fish; bony hooks</subject>
+          <subject_class locale="en_US">Neotropical</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>V.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bertaco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <middlename>H. F.</middlename>
+          <lastname>Lucinda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2006-02-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

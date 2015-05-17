@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2501.1</id>
+    <title locale="en_US">10 Jun. 2010</title>
+    <volume>2501</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Nomisia &lt;/i&gt;in Greece and neighboring regions with the description of two new species</title>
+        <abstract locale="en_US">In this revision ten species of the genus &lt;i&gt;Nomisia&lt;/i&gt; are diagnosed and taxonomically commented. Of them, five are well established in the previous literature, namely, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;aussereri&lt;/i&gt; (L. Koch, 1872), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;exornata&lt;/i&gt; (C. L. Koch, 1839), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;ripariensis&lt;/i&gt; (O. P.Cambridge, 1872), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; Dalmas, 1921 and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;palaestina&lt;/i&gt; (O. P.Cambridge, 1872). &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;recepta&lt;/i&gt; (Pavesi, 1880) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;excerpta&lt;/i&gt; (O. P.Cambridge, 1872) are critically compared and re-established. &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;excerpta&lt;/i&gt; shows wide intra-specific variation, possibly leading to new species. &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;conigera&lt;/i&gt; (Spassky, 1941) is here synonymized with the recently described &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;anatolica&lt;/i&gt; Seyyar, Ayyildiz &amp; Topçu, 2009. Finally two new species are described, namely, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;levyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;peloponnesiaca&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; From the above list, only seven species are recorded in Greece, leaving out &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;orientalis,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;recepta&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;conigera.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">ground spiders; Mediterranean; taxonomy; &lt;i&gt;Nomisia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">ground spiders</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <lastname>Chatzaki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2010-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of reed frog from the Congo basin with discussion of paraphyly in Cinnamon-belly reed frogs</title>
+        <abstract locale="en_US">We describe a new species of Afrotropical reed frog, genus &lt;i&gt;Hyperolius&lt;/i&gt; (Hyperoliidae), from Salonga National Park in the central Congo basin, Democratic Republic of Congo. Males and females have similar colour and pattern and are easily distinguished from other taxa by a relatively short and broad, bright yellow (in life), dorsolateral line ending in the sacral region and the presence of a light spot on the heel. In a 16S mitochondrial rRNA phylogeny, it clusters with samples allocable to the Cinnamon-belly reed frog, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;cinnamomeoventris.&lt;/i&gt; The new species, along with other morphologically well distinguished taxa, splits &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;cinnamomeoventris&lt;/i&gt; into different non-sister clades. We discuss paraphyly of this reed frog in a taxonomic framework.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; DNA barcoding; Hyperoliidae; &lt;i&gt;Hyperolius&lt;/i&gt; &lt;i&gt;cinnamomeoventris&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;veithi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; paraphyly; taxonomy</subject>
+          <subject_class locale="en_US">Anura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Susanne</firstname>
+          <lastname>Schick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jos</firstname>
+          <lastname>Kielgast</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dennis</firstname>
+          <lastname>Rödder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vincent</firstname>
+          <lastname>Muchai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marius</firstname>
+          <lastname>Burger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefan</firstname>
+          <lastname>Lötters</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-36</pages>
+        <date_published>2010-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A reappraisal of some basal lineages of the family Macrochelidae, with the description of a new genus (Acarina: Mesostigmata)</title>
+        <abstract locale="en_US">&lt;i&gt;Macrocheles&lt;/i&gt; &lt;i&gt;analis&lt;/i&gt; Hyatt &amp; Emberson is redescribed and assigned to a new genus, &lt;i&gt;Reductholaspis&lt;/i&gt; gen. nov. &lt;i&gt;Longicheles&lt;/i&gt; Valle is separated from the genus &lt;i&gt;Geholaspis&lt;/i&gt; Berlese and given generic rank, based on a complex of strongly autapomorphic features and a possible synapomorphy with &lt;i&gt;Reductholaspis.&lt;/i&gt; The new tribe Geholaspini, including the genera &lt;i&gt;Dissoloncha&lt;/i&gt; Falconer, &lt;i&gt;Geholaspis,&lt;/i&gt; &lt;i&gt;Longicheles,&lt;/i&gt; and &lt;i&gt;Reductholaspis&lt;/i&gt; is described and a key to the genera is provided. The genus &lt;i&gt;Macrholaspis&lt;/i&gt; Oudemans and the subgenus &lt;i&gt;Nothrholaspis&lt;/i&gt; Berlese of &lt;i&gt;Macrocheles&lt;/i&gt; Latreille are reinstated at the generic level, based on distinctive synapomorphies of the included species. &lt;i&gt;Scleritholaspis&lt;/i&gt; Mašàn is newly synonymised with &lt;i&gt;Nothrholaspis.&lt;/i&gt; Lists of included species are provided for each of the genera discussed. Proposed new combinations are: &lt;i&gt;Longicheles&lt;/i&gt; &lt;i&gt;bianchii&lt;/i&gt; (Valle &amp; Mazzoleni), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;lagrecai&lt;/i&gt; (Valle), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ilvana&lt;/i&gt; (Valle &amp; Mazzoleni), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;longisetosus&lt;/i&gt; (Balogh), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;longulus&lt;/i&gt; (Berlese), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mandibularis&lt;/i&gt; (Berlese), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ranzii&lt;/i&gt; (Valle &amp; Mazzoleni), &lt;i&gt;Reductholaspis&lt;/i&gt; &lt;i&gt;analis&lt;/i&gt; (Hyatt &amp; Emberson), &lt;i&gt;Nothrholaspis&lt;/i&gt; &lt;i&gt;banaticus&lt;/i&gt; (Iavorschi), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;caucasicus&lt;/i&gt; (Bregetova &amp; Koroleva), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;coenosus&lt;/i&gt; (Takaku), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;shennongjianensis&lt;/i&gt; (Ma &amp; Liu), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;subcoenosus&lt;/i&gt; (Takaku), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;submotus&lt;/i&gt; (Falconer), &lt;i&gt;Macrholaspis&lt;/i&gt; &lt;i&gt;beieri&lt;/i&gt; (Johnston), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;carpathicus&lt;/i&gt; (Mašán), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;georgicus&lt;/i&gt; (Bregetova), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;morikawai&lt;/i&gt; (Ishikawa), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;recki&lt;/i&gt; (Bregetova &amp; Koroleva), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;reductus&lt;/i&gt; (Petrova), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;similiopacus&lt;/i&gt; (Mašán), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stammeri&lt;/i&gt; (Krauss), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;terreus&lt;/i&gt; (Canestrini &amp; Fanzago), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tianschanicus&lt;/i&gt; (Bregetova).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gamasina; Geholaspini; new tribe; &lt;i&gt;Geholaspis&lt;/i&gt;; &lt;i&gt;Longicheles&lt;/i&gt;; &lt;i&gt;Reductholaspis&lt;/i&gt;; &lt;i&gt;Macrholaspis&lt;/i&gt;; &lt;i&gt;Nothrholaspis&lt;/i&gt;; &lt;i&gt;Macrocheles&lt;/i&gt;; new synonymy; new combinations</subject>
+          <subject_class locale="en_US">Gamasina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rowan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Emberson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-53</pages>
+        <date_published>2010-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new poreless species of &lt;i&gt;Gekko &lt;/i&gt;Laurenti, 1768 (Gekkonidae: Squamata) from An Giang Province, southern Vietnam</title>
+        <abstract locale="en_US">A new poreless gecko, &lt;i&gt;Gekko&lt;/i&gt; &lt;i&gt;vietnamensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from an isolated hill in southern Vietnam. The new species is characterized by a medium size (SVL up to 91 mm); rostral touching nostril; 11–12 supralabials, 10–11 infralabials; body slender with four unclear transverse bands on the back and 28–30 scales across mid-belly; lack of precloacal and femoral pores, no enlarged femoral scales; 18–20 undivided transverse lamellae under the fourth toe; digits free; and tail longer than snout-vent length with enlarged undivided transverse subcaudal scales.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gekkonidae; &lt;i&gt;Gekko&lt;/i&gt; &lt;i&gt;vietnamensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; morphology; Vietnam</subject>
+          <subject_class locale="en_US">Gekkonidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nguyen</firstname>
+          <middlename>Ngoc</middlename>
+          <lastname>Sang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-60</pages>
+        <date_published>2010-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new dwarf sentinel crab from Mayotte Island, western Indian Ocean (Decapoda: Brachyura: Macrophthalmidae)</title>
+        <abstract locale="en_US">A new sentinel crab of the genus &lt;i&gt;Macrophthalmus&lt;/i&gt; is described from Mayotte Island, western Indian Ocean. The new species is remarkable by its very small size, with a carapace width not longer than 5.5 mm for the largest ovigerous females. It is closely related to &lt;i&gt;Macrophthalmus&lt;/i&gt; (Chaenostoma) &lt;i&gt;boscii&lt;/i&gt; Audouin, 1826.Affinities of these two species are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Macrophthalmidae; &lt;i&gt;Macrophthalmus&lt;/i&gt;; &lt;i&gt;Chaenostoma&lt;/i&gt;; sentinel crabs; Indian Ocean; Mayotte; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joseph</firstname>
+          <lastname>Poupin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Marie</firstname>
+          <lastname>Bouchard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-67</pages>
+        <date_published>2010-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum—KIM, YOUNG-HYO., HENDRYCKS, ED A. &amp; LEE, KYUNG-SOOK (2010) A new species and new record of the Amphilochidae (Crustacea: Amphipoda) from Korea. &lt;i&gt;Zootaxa&lt;/i&gt;, 2477, 21–36.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2010-06-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

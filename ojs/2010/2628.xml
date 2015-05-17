@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2628.1</id>
+    <title locale="en_US">28 Sep. 2010</title>
+    <volume>2628</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-09-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Magelonidae (Polychaeta) from the Arabian Peninsula: a review of known species, with notes on &lt;i&gt;Magelona tinae &lt;/i&gt;from Thailand</title>
+        <abstract locale="en_US">Five species of &lt;i&gt;Magelona&lt;/i&gt; have been previously reported from the seas surrounding the Arabian Peninsula: &lt;i&gt;Magelona&lt;/i&gt; &lt;i&gt;cornuta&lt;/i&gt; Wesenberg-Lund, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obockensis&lt;/i&gt; Gravier, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;heteropoda&lt;/i&gt; Mohammed, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pulchella&lt;/i&gt; Mohammed and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;papillicornis&lt;/i&gt; F. Müller. The type material of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;heteropoda,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pulchella&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obockensis&lt;/i&gt; are examined and redescriptions presented. Several features not recorded in the original descriptions and several corrections are made; as a result &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;heteropoda&lt;/i&gt; is synonymised with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obockensis.&lt;/i&gt; &lt;i&gt;Magelona&lt;/i&gt; &lt;i&gt;tinae&lt;/i&gt; is deemed to be morphologically similar to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obockensis.&lt;/i&gt; Variations seen between the specimens may be caused by a disparity in their size. Further examination of specimens of a similar size are required. Specimens recorded as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cornuta&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;papillicornis&lt;/i&gt; from the Red Sea (Amoureux 1983) are examined. Material originally identified as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;papillicornis&lt;/i&gt; is found to be &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obockensis&lt;/i&gt; and that identified as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obockensis&lt;/i&gt; is believed to be an undescribed species. The current terminology for magelonid pouches is discussed. A key is provided for the 12 species currently known from the western Indian Ocean region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arabian Sea; &lt;i&gt;Magelona&lt;/i&gt; &lt;i&gt;obockensis&lt;/i&gt;; &lt;i&gt;Magelona&lt;/i&gt; &lt;i&gt;heteropoda&lt;/i&gt;; &lt;i&gt;Magelona&lt;/i&gt; &lt;i&gt;pulchella&lt;/i&gt;; pouches</subject>
+          <subject_class locale="en_US">Arabian Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kate</firstname>
+          <lastname>Mortimer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2010-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First report of &lt;i&gt;Aulopus &lt;/i&gt;(Teleostei: Aulopidae) from Southwestern Atlantic, with a review of records and a key to Western Atlantic Aulopoidei species</title>
+        <abstract locale="en_US">In this second paper dedicated to report on deep-sea fishes from Brazilian waters, mainly from Bahia, the presence of one family and three species of Aulopoidei is reported for the first time from Brazilian waters: the aulopid &lt;i&gt;Aulopus&lt;/i&gt; &lt;i&gt;filamentosus&lt;/i&gt; (royal flagfin), the synodontids &lt;i&gt;Saurida&lt;/i&gt; &lt;i&gt;normani&lt;/i&gt; and &lt;i&gt;Synodus&lt;/i&gt; &lt;i&gt;poeyi&lt;/i&gt; (shortjaw lizardfish and offshore lizardfish, respectively). The presence of &lt;i&gt;Synodus&lt;/i&gt; &lt;i&gt;saurus&lt;/i&gt; and &lt;i&gt;Saurida&lt;/i&gt; &lt;i&gt;suspicio&lt;/i&gt; in Brazilian waters is discussed, and a key to the Western Atlantic Aulopoidei is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lizardfishes; flagfin; &lt;i&gt;Aulopus&lt;/i&gt;; &lt;i&gt;Saurida&lt;/i&gt;; &lt;i&gt;Synodus&lt;/i&gt;; Aulopidae; Synodontidae; deep-sea fishes</subject>
+          <subject_class locale="en_US">Lizardfishes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alfredo</firstname>
+          <lastname>Carvalho-Filho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guy</firstname>
+          <lastname>Marcovaldi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cláudio</firstname>
+          <middlename>L. S.</middlename>
+          <lastname>Sampaio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Isabel G.</middlename>
+          <lastname>Paiva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luiz</firstname>
+          <middlename>A. G.</middlename>
+          <lastname>Duarte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-42</pages>
+        <date_published>2010-09-28</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revised survey of water mites (Acari: Hydrachnidia) from Iran: new synonyms and descriptions of three new species</title>
+        <abstract locale="en_US">The paper deals with the changes which are necessary in the taxonomy of water mites (Acari, Hydrachnidia) from Iran after revision of type material of certain water mites (Hydrachnidia) deposited in the collection of the Naturhistorisches Museum Basel and recent field work. The following synonyms are established: Family Sperchontidae: &lt;i&gt;Sperchon&lt;/i&gt; &lt;i&gt;amuzgari&lt;/i&gt; Bader &amp; Sepasgozarian, 1979 = &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;hispidus&lt;/i&gt; Koenike, 1895, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bispinosus&lt;/i&gt; Bader &amp; Sepasgosarian, 1982 = &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;papillosus&lt;/i&gt; Thor, 1901, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;beneckei&lt;/i&gt; Bader &amp; Sepasgosarian, 1982 = &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;algeriensis&lt;/i&gt; Lundblad, 1942; Family Torrenticolidae: &lt;i&gt;Torrenticola&lt;/i&gt; &lt;i&gt;baueri&lt;/i&gt; Bader &amp; Sepasgozarian, 1987 = &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;barsica&lt;/i&gt; (Szalay, 1933); &lt;i&gt;Monatractides&lt;/i&gt; &lt;i&gt;persicus&lt;/i&gt; Pešić &amp; Saboori, 2004 = &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stadleri&lt;/i&gt; (Walter, 1924); &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sepasi&lt;/i&gt; Bader, 1988 = &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lusitanicus&lt;/i&gt; (Lundblad, 1941). Furthermore, three species &lt;i&gt;Atractides&lt;/i&gt; (Polymegapus) &lt;i&gt;persicus&lt;/i&gt; Pešić &amp; Asadi, &lt;i&gt;Axonopsis&lt;/i&gt; (Hexaxonopsis) &lt;i&gt;iranica&lt;/i&gt; Pešić &amp; Asadi and &lt;i&gt;A.&lt;/i&gt; (Hexaxonopsis) &lt;i&gt;manoojani&lt;/i&gt; Pešić &amp; Asadi are described as new to science; the first description of the deutonymph is given for &lt;i&gt;Limnesia&lt;/i&gt; &lt;i&gt;kochi&lt;/i&gt; Smit &amp; Pešić, 2010, a species previously known only from Oman.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; taxonomy; new species; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mahdieh</firstname>
+          <lastname>Asadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Isa</firstname>
+          <lastname>Etemadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-55</pages>
+        <date_published>2010-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Glyptothorax chimtuipuiensis, &lt;/i&gt;a new species of catfish (Teleostei: Sisoridae) from the Koladyne basin, India</title>
+        <abstract locale="en_US">&lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;chimtuipuiensis,&lt;/i&gt; a new species of sisorid catfish, is described from the Koladyne basin of Mizoram State, India. It is characterized by having a short and stout body with granulated skin; the dorsal profile anterior to the adipose fin strongly arched; a short and smooth dorsal spine, its length 5.1–8.9% SL; a pectoral-fin length of 16.8–21.9% SL, with the ventral surface of its first simple ray plaited; an adipose-fin base length 22.1–27.3% SL; and a chevron-shaped thoracic adhesive apparatus, the middle of its base concave, opening caudally with a depression at its posterior end, followed by a small fold of skin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sisorid; Kaladan; Mizoram</subject>
+          <subject_class locale="en_US">Sisorid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>N.</firstname>
+          <lastname>Anganthoibi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <lastname>Vishwanath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-62</pages>
+        <date_published>2010-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Ramanella palmata &lt;/i&gt;(Anura: Microhylidae), a frog endemic to Sri Lanka</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>D. B.</middlename>
+          <lastname>Ukuwela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <middlename>I. L.</middlename>
+          <lastname>Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <middlename>P.</middlename>
+          <lastname>Athukorala</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-65</pages>
+        <date_published>2010-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kraussia &lt;/i&gt;Dana, 1852 (Crustacea: Decapoda: Brachyura), the senior homonym of &lt;i&gt;Kraussia &lt;/i&gt;Davidson, 1852 (Brachiopoda: Terebratulida: Terebratellidina): confirmation and authorship of the replacement name &lt;i&gt;Kraussina &lt;/i&gt;Suess, 1859</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2010-09-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

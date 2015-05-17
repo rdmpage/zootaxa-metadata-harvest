@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2803.1</id>
+    <title locale="en_US">29 Mar. 2011</title>
+    <volume>2803</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Emphytopsis &lt;/i&gt;Wei &amp; Nie (Hymenoptera: Tenthredinidae) with descriptions of seven new species from China and Japan</title>
+        <abstract locale="en_US">&lt;i&gt;Emphytopsis&lt;/i&gt; Wei &amp; Nie, 1998 of Allantinae, Tenthredinidae is revised. Seven species are described as new: &lt;i&gt;Emphytopsis&lt;/i&gt; &lt;i&gt;nigricornis&lt;/i&gt; Wei &amp; Xu, sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;quadrata&lt;/i&gt; Wei &amp; Xu, sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;unimaculata&lt;/i&gt; Wei, sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;zhongi&lt;/i&gt; Wei &amp; Niu, sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; Wei, sp. nov. from China, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;shinoharai&lt;/i&gt; Wei &amp; Niu, sp. nov. and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;flatoserrula&lt;/i&gt; Wei, sp. nov. from Japan. &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nigromaculata&lt;/i&gt; (Takeuchi, 1952) new combination is transferred from &lt;i&gt;Taxonus&lt;/i&gt; Hartig. A key to the species of the genus is presented. &lt;i&gt;Emphytopsis&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; Wei &amp; Nie, 1998 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nigromaculata&lt;/i&gt; (Takeuchi) are redescribed. The previously unknown male of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; is described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Allantinae; Allantini; Taxonina; &lt;i&gt;Emphytopsis&lt;/i&gt;; new species; new combination; China; Japan</subject>
+          <subject_class locale="en_US">Allantinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Meicai</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yi</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gengyun</firstname>
+          <lastname>Niu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Indian species of &lt;i&gt;Liophloeothrips &lt;/i&gt;Priesner (Thysanoptera, Phlaeothripidae) with one new species</title>
+        <abstract locale="en_US">&lt;i&gt;Liophloeothrips&lt;/i&gt; Priesner is a small genus of leaf-feeding Phlaeothripidae that is related to the widespread genera &lt;i&gt;Gynaikothrips&lt;/i&gt; and &lt;i&gt;Liothrips.&lt;/i&gt; A key is presented to distinguish these three genera, together with a key to, and review of, the 13 species now recognized in &lt;i&gt;Liophloeothrips&lt;/i&gt; from India. &lt;i&gt;Liophloeothrips&lt;/i&gt; &lt;i&gt;acaciae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Karnataka State, collected from the dry flowers, leaves and bark of &lt;i&gt;Acacia&lt;/i&gt; &lt;i&gt;auriculiformis.&lt;/i&gt; &lt;i&gt;Liophloeothrips&lt;/i&gt; &lt;i&gt;tenebrosus&lt;/i&gt; Ananthakrishnan &amp; Jagadish is placed as a new synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pavettae&lt;/i&gt; Ananthakrishnan &amp; Jagadish. A lectotype is designated for &lt;i&gt;Liophloeothrips&lt;/i&gt; &lt;i&gt;cecidii&lt;/i&gt; Ananthakrishnan 1964.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Liophloeothrips&lt;/i&gt;; review; &lt;i&gt;Liophloeothrips&lt;/i&gt; &lt;i&gt;acaciae&lt;/i&gt;; new species; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;tenebrosus&lt;/i&gt;; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pavettae&lt;/i&gt;; key; synonym; Phlaeothripidae; India</subject>
+          <subject_class locale="en_US">&lt;i&gt;Liophloeothrips&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kaomud</firstname>
+          <lastname>Tyagi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vikas</firstname>
+          <lastname>Kumar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-31</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The planthopper genus &lt;i&gt;Epora &lt;/i&gt;Walker (Hemiptera: Fulgoroidea: Tropiduchidae) from China with description of one new species</title>
+        <abstract locale="en_US">The three Chinese species of the tropiduchid genus &lt;i&gt;Epora&lt;/i&gt; Walker are revised, including one new species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;biprolata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Hainan Province, China. Morphological description or diagnoses and illustrations for Chinese &lt;i&gt;Epora&lt;/i&gt; and an identification key for all nine species worldwide are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fulgoromorpha; &lt;i&gt;Epora&lt;/i&gt;; new species; taxonomy; China</subject>
+          <subject_class locale="en_US">Fulgoromorpha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qiu-Lei</firstname>
+          <lastname>Men</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ji-Nian</firstname>
+          <lastname>Feng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dao-Zheng</firstname>
+          <lastname>Qin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-40</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Eogyropsylla sedzimiri &lt;/i&gt;sp. nov. from Eocene Baltic amber with a key to the species of the fossil genus &lt;i&gt;Eogyropsylla &lt;/i&gt;Klimaszewski, 1993 (Hemiptera: Sternorrhyncha: Psylloidea)</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Eogyropsylla&lt;/i&gt; &lt;i&gt;sedzimiri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Eocene Baltic amber is described. Illustrations of head, thorax, forewing, hind wing, antennae, legs and female terminalia are given. A key to the species of the fossil genus &lt;i&gt;Eogyropsylla&lt;/i&gt; Klimaszewski, 1993 is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;sedzimiri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Eogyropsylla&lt;/i&gt;; Sternorrhyncha; Hemiptera; Psyllidae; Aphalarinae; taxonomy; fossil record; Baltic amber; Eocene</subject>
+          <subject_class locale="en_US">&lt;i&gt;sedzimiri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Eogyropsylla&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jowita</firstname>
+          <lastname>Drohojowska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-48</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Buprestis &lt;/i&gt;Linnaeus, 1758 from Veracruz, Mexico (Coleoptera: Buprestidae: Buprestini) and a brief discussion of the Mesoamerican species of the subgenus &lt;i&gt;Knulliobuprestis &lt;/i&gt;Kurosawa, 1988</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Buprestis&lt;/i&gt; (Knulliobuprestis) &lt;i&gt;aurora,&lt;/i&gt; is described from localities in the Mexican state of Veracruz and discussed in relation to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;catoxantha&lt;/i&gt; Gory, 1840. The following species of &lt;i&gt;Buprestis&lt;/i&gt; are transferred to the subgenus &lt;i&gt;Knulliobuprestis:&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bergevini&lt;/i&gt; Théry 1911, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;carabuho&lt;/i&gt; Westcott 1998, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;catoxantha&lt;/i&gt; Gory 1840 (synonyms: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;jimenezi&lt;/i&gt; Dugès 1891 and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; Laporte &amp; Gory 1837), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hauseri&lt;/i&gt; Obenberger 1928, and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;panamensis&lt;/i&gt; Théry 1923 (synonym: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;panamensis&lt;/i&gt; var. &lt;i&gt;nigripennis&lt;/i&gt; Théry 1934).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Buprestidae; Buprestini; &lt;i&gt;Buprestis&lt;/i&gt;; &lt;i&gt;Knulliobuprestis&lt;/i&gt;; Mexico; Veracruz; new species</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bellamy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-56</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic review of the &lt;i&gt;lepida&lt;/i&gt;-group of &lt;i&gt;Fannia &lt;/i&gt;R.-D. (Diptera: Fanniidae)</title>
+        <abstract locale="en_US">The &lt;i&gt;Fannia&lt;/i&gt; &lt;i&gt;lepida-group&lt;/i&gt; is reviewed. &lt;i&gt;Fannia&lt;/i&gt; &lt;i&gt;immutica&lt;/i&gt; Collin is recorded for the first time in China. A key to males of the four known species is provided. &lt;i&gt;Fannia&lt;/i&gt; &lt;i&gt;lepida&lt;/i&gt; (Wiedemann), &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;grahami&lt;/i&gt; Chillcott, and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;immutica&lt;/i&gt; Collin are redescribed and the male terminalia illustrated. &lt;i&gt;Fannia&lt;/i&gt; &lt;i&gt;grahami&lt;/i&gt; remained unrecorded since its 1961 original description.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Fannia&lt;/i&gt;; &lt;i&gt;Fannia&lt;/i&gt; &lt;i&gt;lepida-group&lt;/i&gt;; new record; China; redescriptions</subject>
+          <subject_class locale="en_US">&lt;i&gt;Fannia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dong</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Fu</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The authorship and date of the genus-group name &lt;i&gt;Pachylomera&lt;/i&gt; (Coleoptera: Scarabaeidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefano</firstname>
+          <lastname>Ziani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tristão</firstname>
+          <lastname>Branco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-03-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

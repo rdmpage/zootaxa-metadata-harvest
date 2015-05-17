@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2082.1</id>
+    <title locale="en_US">24 Apr. 2009</title>
+    <volume>2082</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of &lt;i&gt;Leydigia &lt;/i&gt;Kurz, 1875 (Anomopoda, Cladocera, Branchiopoda), and subgeneric differentiation within the genus</title>
+        <abstract locale="en_US">A revision of the genus &lt;i&gt;Leydigia&lt;/i&gt; Kurz, 1875 (Anomopoda, Cladocera, Branchiopoda) is presented. The list of all species-group nominal taxa consists of 34 published and 3 unpublished names. Of these, 12 species are accepted as valid: (1) &lt;i&gt;Leydigia&lt;/i&gt; (Leydigia) &lt;i&gt;leydigi&lt;/i&gt; (Schödler, 1863); (2) &lt;i&gt;L.&lt;/i&gt; (L.) &lt;i&gt;louisi&lt;/i&gt; Jenkin, 1934 with two subspecies &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;louisi&lt;/i&gt; &lt;i&gt;louisi&lt;/i&gt; Jenkin, 1934 and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;louisi&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; Kotov, Elías-Gutiérrez et Nieto, 2003; (3) &lt;i&gt;Leydigia&lt;/i&gt; (Neoleydigia) &lt;i&gt;propinqua&lt;/i&gt; Sars, 1903; (4) &lt;i&gt;L.&lt;/i&gt; (N.) &lt;i&gt;australis&lt;/i&gt; Sars, 1885; (5) &lt;i&gt;L.&lt;/i&gt; (N.) &lt;i&gt;microps&lt;/i&gt; Sars, 1916; (6) &lt;i&gt;L.&lt;/i&gt; (N.) &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from 'L. &lt;i&gt;acanthocercoides'&lt;/i&gt; in Alonso, 1996; (7) &lt;i&gt;L.&lt;/i&gt; (N.). &lt;i&gt;macrodonta&lt;/i&gt; Sars, 1916; (8) &lt;i&gt;L.&lt;/i&gt; (N.) &lt;i&gt;acanthocercoides&lt;/i&gt; (Fischer, 1854); (9) &lt;i&gt;L.&lt;/i&gt; (N.). &lt;i&gt;laevis&lt;/i&gt; Gurney, 1927; (10) &lt;i&gt;L.&lt;/i&gt; (N.) cf. &lt;i&gt;ipojucae&lt;/i&gt; Brehm, 1939; (11) &lt;i&gt;L.&lt;/i&gt; (N.) &lt;i&gt;ciliata&lt;/i&gt; Gauthier, 1939; (12) &lt;i&gt;L.&lt;/i&gt; (N.) cf. &lt;i&gt;striata&lt;/i&gt; Birabén, 1939. Lectotypes are selected for 3, 5, 7, and 9. Exact identification of 10 and 12 is not possible without examination of material from type localities and neotype selection. As confirmed by examination of authors' type material, some taxa (Leydigia &lt;i&gt;africana&lt;/i&gt; Gurney, 1904 and &lt;i&gt;Leydigia&lt;/i&gt; &lt;i&gt;ankammaraoi&lt;/i&gt; Prasad, Santa Kumari et Bose, 1985) prove to be junior synonyms of previously described species; species 8-12 form a compact &lt;i&gt;acanthocercoides-group,&lt;/i&gt; with fine differences among members. A cladistic analysis for 13 studied taxa and 18 morphological characters resulted in four most-parsimonious trees (TL = 32; CI = 0.78), which differ only in the grouping of members of the &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;acanthocercoides-group.&lt;/i&gt; A slightly polytomic strict consensus tree (the 50% majority rule bootstrap simulation led to a tree of similar topology to the contree), as well as some 'orthodox' ideas on the evolution of the genus (not contradicting each other), are used to subdivide the genus into two subgenera, &lt;i&gt;Leydigia&lt;/i&gt; (Leydigia) Kurz, 1875 and &lt;i&gt;Leydigia&lt;/i&gt; (Neoleydigia) subgen. nov. &lt;i&gt;L.&lt;/i&gt; (N.) &lt;i&gt;acanthocercoides&lt;/i&gt; is the type species of the latter. A key for the identification of well-known species of &lt;i&gt;Leydigia&lt;/i&gt; is provided. The level of description of representatives of the genus &lt;i&gt;Leydigia&lt;/i&gt; in different continents is estimated, and perspectives for further investigations are outlined.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anomopoda; Chydoridae; Cladocera; Crustacea; &lt;i&gt;Leydigia&lt;/i&gt;; morphology; phylogeny; revision; systematics; taxonomy</subject>
+          <subject_class locale="en_US">Anomopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kotov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-84</pages>
+        <date_published>2009-04-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

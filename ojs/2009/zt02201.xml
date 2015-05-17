@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2201.1</id>
+    <title locale="en_US">18 Aug. 2009</title>
+    <volume>2201</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Conolophus marthae &lt;/i&gt;sp.nov. (Squamata, Iguanidae), a new species of land iguana from the Galápagos archipelago</title>
+        <abstract locale="en_US">&lt;i&gt;Conolophus&lt;/i&gt; &lt;i&gt;marthae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a new species endemic to Volcan Wolf of northern Isla Isabela of the Galápagos archipelago, is described. The new species is morphologically, behaviorally, and genetically distinguished from the other two congeneric species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;subcristatus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pallidus.&lt;/i&gt; Besides the taxonomic implications, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;marthae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is extremely important as it is the only evidence of deep divergence within the Galápagos land iguana lineage.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Galápagos pink land iguana; &lt;i&gt;Conolophus&lt;/i&gt;; Iguanidae; Squamata; Galápagos Islands; Galápagos National Park; lizards; endemism</subject>
+          <subject_class locale="en_US">Galápagos pink land iguana</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gabriele</firstname>
+          <lastname>Gentile</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Howard</firstname>
+          <lastname>Snell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-10</pages>
+        <date_published>2009-08-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Commentaries on Gentile &amp; Snell (2009): an introduction</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alessandro</firstname>
+          <lastname>Minelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>11-11</pages>
+        <date_published>2009-08-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Type specimens, samples of live individuals and the Galapagos Pink Land Iguana</title>
+        <abstract locale="en_US">The nomenclatural implications of Gentile &amp; Snell (2009)'s innovations in the designation of a type specimen that is sampled and tagged but not killed are discussed. The paper also responds to Nemésio (2009)'s criticism of Donegan (2008), where I argued that descriptions based on samples of live individuals are valid. I also discuss whether recent descriptions of such a nature involve a different degree of scientific rigour to other descriptions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nomenclatural availability; vouchers; collecting; specimen; type specimen; sample; ethics; framework; &lt;i&gt;Code&lt;/i&gt;; Commission; &lt;i&gt;Conolophus&lt;/i&gt; &lt;i&gt;marthae.&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Nomenclatural availability</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thomas</firstname>
+          <middlename>M.</middlename>
+          <lastname>Donegan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>12-20</pages>
+        <date_published>2009-08-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the live holotype of the Galápagos pink land Iguana, &lt;i&gt;Conolophus marthae&lt;/i&gt; Gentile &amp; Snell, 2009 (Squamata: Iguanidae): is it an acceptable exception?</title>
+        <abstract locale="en_US">The Galápagos pink land iguana, &lt;i&gt;Conolophus&lt;/i&gt; &lt;i&gt;marthae&lt;/i&gt; Gentile &amp; Snell, 2009 (Squamata: Iguanidae) is the latest example of a species being described without the proper deposition of a preserved onomatophore (name-bearing type specimen) in a taxonomic collection. Differently from other recent similar descriptions, the holotype of &lt;i&gt;Conolophus&lt;/i&gt; &lt;i&gt;marthae&lt;/i&gt; was marked with a Passive Integrated Transponder, allegedly allowing it to be tracked and found after its death, when it would be deposited at the Governmental Galápagos collection. Although apparently fulfilling the criteria of the International Code of Zoological Nomenclature, I here argue that this practice should not be followed and that the International Commission on Zoological Nomenclature should urgently act to standardize criteria that should be met by those describing species found at the brink of extinction.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">International Code of Zoological Nomenclature; Nomenclature; taxonomy</subject>
+          <subject_class locale="en_US">International Code of Zoological Nomenclature</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Nemésio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-25</pages>
+        <date_published>2009-08-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Endangered species and endangered knowledge</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-29</pages>
+        <date_published>2009-08-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Phyllodesmium &lt;/i&gt;Ehrenberg (Gastropoda: Nudibranchia: Aeolidoidea), and a revised phylogenetic analysis</title>
+        <abstract locale="en_US">Mimicry and camouflage are an important protective measure for nudibranch gastropods. In the genus &lt;i&gt;Phyllodesmium,&lt;/i&gt; species have evolved elaborate morphological traits that allow them to be very cryptic among their coral prey. In this study, three new species of &lt;i&gt;Phyllodesmium&lt;/i&gt; from the Philippine islands are described: &lt;i&gt;Phyllodesmium&lt;/i&gt; &lt;i&gt;tuberculatum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Phyllodesmium&lt;/i&gt; &lt;i&gt;pinnatum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;Phyllodesmium&lt;/i&gt; &lt;i&gt;karenae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The first two, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tuberculatum&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pinnatum,&lt;/i&gt; are highly cryptic on their prey and were already included in a phylogenetic analysis by Moore &amp; Gosliner (in press). The third species (P. &lt;i&gt;karenae)&lt;/i&gt; is newly discovered and has not yet been observed on its prey. A revised morphological phylogenetic analysis is presented that includes this species, as well as three species that were recently described by Burghardt et al. (2008a). In addition, the current analysis excludes a previously presumed new species, which was referred to as &lt;i&gt;Phyllodesmium&lt;/i&gt; sp. 3 by Moore &amp; Gosliner (in press), because it was determined to be an abnormally preserved specimen of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;jakobsenae.&lt;/i&gt; The newest species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;karenae,&lt;/i&gt; has an unusual dental morphology, no branching of the digestive diverticula, and no zooxanthellae present in the cerata. It fell into the basal part of the phylogeny, as was expected based on previous general trends showing the derived status of symbiotic species. The three species described by Burghardt et al. (2008a), two of which are associated with xeniid corals, appear in a highly unresolved part of the phylogeny including other xeniid-associated species. One of these, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;koehleri,&lt;/i&gt; is not associated with xeniid corals but is indistinguishably intermixed within this clade. Decay analysis values for most nodes are low, indicating that support for this topology is lacking. It is recommended that the addition of less ambiguous characters, such as genetic sequences, be considered for further phylogenetic analyses.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">zooxanthellae; symbiosis; evolution; biodiversity</subject>
+          <subject_class locale="en_US">zooxanthellae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elizabeth</firstname>
+          <lastname>Moore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Terrence</firstname>
+          <lastname>Gosliner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-48</pages>
+        <date_published>2009-08-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Six new eriophyoid mites (Acari: Eriophyoidea) associated with &lt;i&gt;Ficus &lt;/i&gt;spp. (Moraceae) from China</title>
+        <abstract locale="en_US">Six new species of the family Eriophyidae associated with the plant genus &lt;i&gt;Ficus&lt;/i&gt; (Moraceae) from southern China are described and illustrated in this paper: &lt;i&gt;Colopodacus&lt;/i&gt; &lt;i&gt;variegatae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; Bl. var. &lt;i&gt;chlorocarpa&lt;/i&gt; (Benth.) King; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;yunnanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;benjamina&lt;/i&gt; Linn., &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;tinctoria&lt;/i&gt; Forst. f. var. &lt;i&gt;gibbosa&lt;/i&gt; and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;virens&lt;/i&gt; Ait. var. &lt;i&gt;sublanceolata&lt;/i&gt; (Miq.) Corner; &lt;i&gt;Gammaphytoptus&lt;/i&gt; &lt;i&gt;ficus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; Bl. var. &lt;i&gt;chlorocarpa&lt;/i&gt; (Benth.) King; &lt;i&gt;Glyptacus&lt;/i&gt; &lt;i&gt;microcarpae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;microcarpa&lt;/i&gt; Linn., &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;hispida&lt;/i&gt; Linn., &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;benjamina&lt;/i&gt; Linn., and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;altissima&lt;/i&gt; Bl.; &lt;i&gt;Shevtchenkella&lt;/i&gt; &lt;i&gt;hainanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; Bl. and &lt;i&gt;Tegonotus&lt;/i&gt; &lt;i&gt;hispidae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;hispida&lt;/i&gt; Linn.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">eriophyid mites; plant host; new species; Moraceae; taxonomy</subject>
+          <subject_class locale="en_US">eriophyid mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guoquan</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Suigai</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-62</pages>
+        <date_published>2009-08-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">From sponges to primates: emendation of 30 species nomina dedicated to the Swedish zoologist Einar Lönnberg</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefan</firstname>
+          <lastname>Koerber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-08-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

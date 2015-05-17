@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3286.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3286</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An annotated catalog of fossil and subfossil Lepidoptera (Insecta: Holometabola) of the world</title>
+        <abstract locale="en_US">In this catalog, we attempt to assemble all fossil records of Lepidoptera described formally or informally in the worldliterature. A total of 667 records dealing with at least 4,568 specimens have been compiled. They include descriptions of131 fossil genera and 229 fossil species, as well as 72 extant genera and 21 extant species to which some of these fossilssupposedly belong or show superficial similarity. Replacement names of two fossil genera are proposed to avoidhomonymy: &lt;i&gt;Baltopsyche&lt;/i&gt; Sohn, &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Palaeopsyche&lt;/i&gt; Sobczyk and Kobbert, 2009 and &lt;i&gt;Netoxena&lt;/i&gt; Sohn, &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for&lt;i&gt;Xena&lt;/i&gt; Martins-Neto, 1999. New generic combinations are proposed for: &lt;i&gt;Tortrix?&lt;/i&gt; &lt;i&gt;destructus&lt;/i&gt; Cockerell, 1916, &lt;i&gt;Tortrix&lt;/i&gt;&lt;i&gt;florissantanus&lt;/i&gt; Cockerell, 1907, and &lt;i&gt;Tortrix&lt;/i&gt; sp. sensu Gravenhorst (1835), all three to &lt;i&gt;Tortricites&lt;/i&gt; Kozlov, 1988;&lt;i&gt;Pterophorus&lt;/i&gt; &lt;i&gt;oligocenicus&lt;/i&gt; Bigot, Nel and Nel, 1986, to &lt;i&gt;Merrifieldia&lt;/i&gt; Tutt, 1905; &lt;i&gt;Aporia&lt;/i&gt; sp. &lt;i&gt;sensu&lt;/i&gt; Branscheid (1969) to&lt;i&gt;Pierites&lt;/i&gt; Heer, 1849; &lt;i&gt;Noctua&lt;/i&gt; spp. &lt;i&gt;sensu&lt;/i&gt; Hope (1836) and Lomnicki (1894), both to &lt;i&gt;Noctuites&lt;/i&gt; Heer, 1849. Eleven namesimproperly proposed for lepidopteran fossils are invalidated: &lt;i&gt;Baltonides&lt;/i&gt; &lt;i&gt;roeselliformis&lt;/i&gt; Skalski in Kosmowska-Ceranowicz and Popiolek, 1981; &lt;i&gt;Baltodines&lt;/i&gt; Kupryjanowicz, 2001; &lt;i&gt;Barbarothea&lt;/i&gt; Scudder, 1890; &lt;i&gt;Lepidopterites&lt;/i&gt; Piton,1936; &lt;i&gt;Palaeozygaena&lt;/i&gt; Reiss, 1936; &lt;i&gt;Psamateia&lt;/i&gt; &lt;i&gt;calipsa&lt;/i&gt; Martins-Neto, 2002; &lt;i&gt;Saxibatinca&lt;/i&gt; &lt;i&gt;meyi&lt;/i&gt; Skalski in Kristensen andSkalski, 1998; &lt;i&gt;Spatalistiforma&lt;/i&gt; &lt;i&gt;submerga&lt;/i&gt; Skalski, 1976; &lt;i&gt;Thanatites&lt;/i&gt; &lt;i&gt;juvenalis&lt;/i&gt; Scudder, 1875; &lt;i&gt;Tortricibaltia&lt;/i&gt; &lt;i&gt;diakonoffi&lt;/i&gt;Skalski, 1976; and &lt;i&gt;Zygaenites&lt;/i&gt; Reiss, 1936. An unnecessary subsequent type designation for &lt;i&gt;Pierites&lt;/i&gt; Heer, 1849, isdiscussed. A total of 129 records include lepidopteran fossils which cannot be placed in any taxonomic rank. There alsoexist at least 25 fossil records which lack any evidence of the supposed lepidopteran association. Misidentified specimens,including 18 fossil genera, 29 fossil species and 12 unnamed fossils, are excluded from Lepidoptera. All the knownlepidopteran fossils are annotated by fossil type, specimen deposition, excavation locality, association with plants when present, and geological age. A bibliographic list of lepidopteran fossils is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nomenclature; paleobiodiversity; paleontology; plant-insect interactions; taxonomy.</subject>
+          <subject_class locale="en_US">Nomenclature</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jae-Cheon</firstname>
+          <lastname>Sohn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Conrad</firstname>
+          <lastname>Labandeira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donald</firstname>
+          <lastname>Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <lastname>Mitter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-132</pages>
+        <date_published>2012-04-30</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

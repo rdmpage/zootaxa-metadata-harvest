@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1983.1</id>
+    <title locale="en_US">19 Jan. 2009</title>
+    <volume>1983</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-01-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Identification and host-plant associations of Australian Sericothripinae (Thysanoptera, Thripidae)</title>
+        <abstract locale="en_US">The Sericothripinae is a largely tropical group of about 140 species that are often strikingly bicoloured and have complex surface sculpture, but for which the biology is poorly known. Although 15 genera have been described in this subfamily, only three of these are currently recognised, with five new generic synonymies indicated here. In Australia, &lt;i&gt;Sericothrips&lt;/i&gt; Haliday is introduced, with one European species deployed as a weed biological control agent. &lt;i&gt;Hydatothrips&lt;/i&gt; Karny comprises 43 species worldwide, with six species found in Australia, of which two are shared with Southeast Asia, and four are associated with the native vine genus, &lt;i&gt;Parsonsia.&lt;/i&gt; &lt;i&gt;Neohydatothrips&lt;/i&gt; John comprises 96 species worldwide, with nine species in Australia, of which one is shared with Southeast Asia and two are presumably introduced from the Americas. Illustrated keys are provided to the three genera and 16 species from Australia, including six new species [Hydatothrips &lt;i&gt;aliceae;&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;bhattii;&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;williamsi;&lt;/i&gt; &lt;i&gt;Neohydatothrips&lt;/i&gt; &lt;i&gt;barrowi,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bellissi,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;katherinae].&lt;/i&gt; One new specific synonym is recognised [Hydatothrips &lt;i&gt;haschemi&lt;/i&gt; Girault (=H. &lt;i&gt;palawanensis&lt;/i&gt; Kudo)], also four new generic synonyms [Neohydatothrips John (=Faureana Bhatti; &lt;i&gt;Onihothrips&lt;/i&gt; Bhatti; &lt;i&gt;Sariathrips&lt;/i&gt; Bhatti; &lt;i&gt;Papiliothrips&lt;/i&gt; Bhatti); &lt;i&gt;Sericothrips&lt;/i&gt; Haliday (=Susserico- &lt;i&gt;thrips&lt;/i&gt; Han)].</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Thysanoptera; Thripidae; Sericothripinae; new species; new synonyms; &lt;i&gt;Sericothrips&lt;/i&gt;; &lt;i&gt;Hydatothrips&lt;/i&gt;; &lt;i&gt;Neohydatothrips&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Thysanoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <middlename>A. Mound And Desley J.</middlename>
+          <lastname>Tree</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-01-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Neotropical Meliponini: the genus &lt;i&gt;Leurotrigona&lt;/i&gt; Moure  two new species (Hymenoptera: Apidae, Apinae)</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Leurotrigona&lt;/i&gt; are described: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;crispula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from the Magdalena River valley, Antioquia, Colombia, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from western Amazon. Additional geographic records and illustrations are provided for &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;muelleri&lt;/i&gt; (Friese) and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; Camargo &amp; Moure, as well as an identification key to the species of the genus. Species can be recognized mainly by pilosity on the face. Morphological characters, including shape of the head and tibia III of the workers, and genitalia and pre-genital sterna of the male are indicative of two distinct groups, one composed of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;muelleri&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and the other, of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;crispula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Stingless bees; taxonomy; identification key; males</subject>
+          <subject_class locale="en_US">Stingless bees</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Silvia</firstname>
+          <middlename>R. M.</middlename>
+          <lastname>Pedro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>M. F.</middlename>
+          <lastname>Camargo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-44</pages>
+        <date_published>2009-01-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Antigius&lt;/i&gt; (Lepidoptera: Lycaenidae: Theclini) from Taiwan</title>
+        <abstract locale="en_US">&lt;i&gt;Antigius&lt;/i&gt; &lt;i&gt;jinpingi,&lt;/i&gt; new species, is described from Taiwan, which Theclini fauna has been investigated extensively. The sister species of the new taxon is presumed to be &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;butleri,&lt;/i&gt; a species distributed in the Asiatic continent and Japan. The larval host plant of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;jinpingi&lt;/i&gt; is unknown, but the most likely candidate is &lt;i&gt;Quercus&lt;/i&gt; &lt;i&gt;dentata,&lt;/i&gt; a deciduous oak with a relictual distribution in Taiwan.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">hairstreak; butterflies; Formosa; Asia; &lt;i&gt;Antigius&lt;/i&gt;; new species; Lycaenidae; Theclini</subject>
+          <subject_class locale="en_US">hairstreak</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yu-Feng</firstname>
+          <lastname>Hsu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-53</pages>
+        <date_published>2009-01-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Aphanarthrum&lt;/i&gt; Wollaston (Coleoptera: Curculionidae, Scolytinae) associated with &lt;i&gt;Euphorbia &lt;/i&gt;in South Africa</title>
+        <abstract locale="en_US">Two species of &lt;i&gt;Aphanarthrum&lt;/i&gt; collected from dead spurges of &lt;i&gt;Euphorbia&lt;/i&gt; in South Africa are illustrated and described as new to science. They represent the first records from the southern parts of Africa and thus significantly extend the known distribution of the genus. Analyses of the phylogenetic relationships of the species of &lt;i&gt;Aphanarthrum&lt;/i&gt; and &lt;i&gt;Coleobothrus&lt;/i&gt; based on molecular and morphological characters yielded a relatively well supported but nevertheless distant sister relationship between the two South African species. Their relationship to other &lt;i&gt;Aphanarthrum&lt;/i&gt; remains uncertain and revealed deep divergence, indicative of a rather ancient origin. The peripheral distribution of the South African species and the broad availability of suitable host plants throughout the continent suggest that more species remain to be discovered in this region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aphanarthrum&lt;/i&gt;; &lt;i&gt;Coleobothrus&lt;/i&gt;; Crypturgini; Cytochrome Oxidase I; Elongation Factor-1α; &lt;i&gt;Euphorbia&lt;/i&gt;; phylogeny; Scolytinae; South Africa</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aphanarthrum&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bjarte</firstname>
+          <middlename>H.</middlename>
+          <lastname>Jordal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2009-01-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Discovery in China of &lt;i&gt;Dorypteryx&lt;/i&gt; Aaron (Psocoptera: Trogiomorpha: Psyllipsocidae), with one new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;adults&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Dorypteryx&lt;/i&gt;&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;adults&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Dorypteryx&lt;/i&gt;&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fasheng</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xingyue</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-65</pages>
+        <date_published>2009-01-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Phanoperla&lt;/i&gt; &lt;i&gt;namcattien, &lt;/i&gt;a new stonefly from Vietnam&lt;i&gt; &lt;/i&gt;(Plecoptera: Perlidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thi</firstname>
+          <middlename>Kim Thu</middlename>
+          <lastname>Cao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yeon</firstname>
+          <middlename>Jae</middlename>
+          <lastname>Bae</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2009-01-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2248.1</id>
+    <title locale="en_US">6 Oct. 2009</title>
+    <volume>2248</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of the genus &lt;i&gt;Klinckowstroemia &lt;/i&gt;Baker &amp;Wharton from Mexico (Acari: Mesostigmata: Trigynaspida: Klinckowstroemiidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gabriel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Villegas-Guzman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tila</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <lastname>Reyes-Castillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-46</pages>
+        <date_published>2009-10-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The brine shrimps (&lt;i&gt;Artemia &lt;/i&gt;and &lt;i&gt;Parartemia&lt;/i&gt;) of South Australia, including descriptions of four new species of &lt;i&gt;Parartemia&lt;/i&gt; (Crustacea: Anostraca: Artemiina)</title>
+        <abstract locale="en_US">The Australian endemic brine shrimp &lt;i&gt;Parartemia&lt;/i&gt; is more speciose than the literature suggests, with eight described species, four new ones added here from South Australia and many undescribed species elsewhere in Australia. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;acidiphila&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; occurs in acidic salinas on Eyre Peninsula, in the Gawler Ranges in South Australia and also in the Esperance hinterland, Western Australia, while &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;auriciforma&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;triquetra&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;yarleensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; occur in remote episodic salinas in western South Australia. Introduced &lt;i&gt;Artemia&lt;/i&gt; &lt;i&gt;franciscana&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;parthenogenetica&lt;/i&gt; are limited to present and defunct salt works; reports of &lt;i&gt;Artemia&lt;/i&gt; beyond salt works in South Australia are enigmatic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; biogeography; keys; salinas; &lt;i&gt;Artemia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brian</firstname>
+          <middlename>V</middlename>
+          <lastname>Timms</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Hudson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2009-10-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

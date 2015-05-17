@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">GILSON A. RIVAS, CÉSAR R. MOLINA, GABRIEL N. UGUETO, TITO R. BARROS, </title>
+        <abstract locale="en_US">We update the list of reptiles of Venezuela, reporting a total of 370 species from the country (four of these exotic), arrangedin 122 genera (one exotic), 30 families and three orders. Introduced species and dubious or erroneous records are discussed.Taxonomic, nomenclatural and distributional comments are provided when required. Considering species of probableoccurrence in the country (known to occur in Colombia, Brazil and Guyana at localities very close to the Venezuelan border) and still undescribed taxa, we estimate that the total number of species in Venezuela could exceed 400.Se actualiza la lista de reptiles de Venezuela a un total de 370 especies (cuatro de ellas exóticas), pertenecientes a 122géneros (un exótico), 30 familias y tres órdenes. Se discuten las especies introducidas, los registros dudosos o erróneos yse proporcionan comentarios taxonómicos, nomenclaturales o de distribución en casos necesarios. Después de considerarlas especies de probable presencia en el país (registros conocidos cercanos a la frontera con Colombia, Brasil y Guyana) y los taxones aun no descritos, se estima que el número total de especies en Venezuela podría superar las 400 especies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diversity; Reptiles; South America; Venezuela.</subject>
+          <subject_class locale="en_US">Diversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>César</firstname>
+          <middlename>L.</middlename>
+          <lastname>Barrio-Amorós4</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philippe</firstname>
+          <middlename>J. R.</middlename>
+          <lastname>Kok</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

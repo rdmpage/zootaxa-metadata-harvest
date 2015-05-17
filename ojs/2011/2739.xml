@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2739.1</id>
+    <title locale="en_US">13 Jan. 2011</title>
+    <volume>2739</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-01-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Plonaphacarus &lt;/i&gt;(Acari: Oribatida: Steganacaridae), with descriptions of eight new species from China</title>
+        <abstract locale="en_US">The oribatid mite genus &lt;i&gt;Plonaphacarus&lt;/i&gt; Niedbała, 1986 (Steganacaridae) is reviewed. Ten species of &lt;i&gt;Plonaphacarus&lt;/i&gt; including eight new species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bicarinatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;concavus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cristatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;foveolatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hainanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lanceolatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;protrusus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rotundus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and one newly recorded species from China are identified. A checklist of all known species and a key to Chinese known species of this genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oribatida; Steganacaridae; &lt;i&gt;Plonaphacarus&lt;/i&gt;; soil mites; new species; new record; China</subject>
+          <subject_class locale="en_US">Oribatida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dong</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donghui</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jun</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2011-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Draconarius &lt;/i&gt;Ovtchinnikov, 1999 (Araneae, Amaurobioidea, Coelotinae) from Northern Pakistan</title>
+        <abstract locale="en_US">A new species &lt;i&gt;Draconarius&lt;/i&gt; &lt;i&gt;latellai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described on the basis of two sexes from Northern Pakistan. It belongs to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;venustus&lt;/i&gt; species group and most similar to the generotype &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;venustus&lt;/i&gt; Ovtchinnikov, 1999. The new species is compared with three other species occuring in Central Asia: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;venustus&lt;/i&gt; (Tajikistan), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;naranensis&lt;/i&gt; Ovtchinnikov, 2005 and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pakistanicus&lt;/i&gt; Ovtchinnikov, 2005 (both from Northern Pakistan). Key to the four Central Asian species is provided and illustrations of all species are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Northern Areas; Gilgit-Baltistan; male palp; epigyne; Agelenidae; Amaurobiidae; Coelotidae</subject>
+          <subject_class locale="en_US">Northern Areas</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuri</firstname>
+          <middlename>M.</middlename>
+          <lastname>Marusik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francesco</firstname>
+          <lastname>Ballarin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-32</pages>
+        <date_published>2011-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of flea-toad, genus &lt;i&gt;Brachycephalus &lt;/i&gt;Fitzinger (Amphibia: Anura: Brachycephalidae), from the Atlantic rainforest of southern Bahia, Brazil</title>
+        <abstract locale="en_US">We describe a new species of flea-toad related to &lt;i&gt;Brachycephalus&lt;/i&gt; &lt;i&gt;didactylus&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hermogenesi&lt;/i&gt; from the Serra Bonita mountain, an Atlantic rainforest remnant in the Municipality of Camacan, State of Bahia, northeastern Brazil, constituting the northernmost record of the genus. &lt;i&gt;Brachycephalus&lt;/i&gt; &lt;i&gt;pulex&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is mainly diagnosed by the toe II externally absent, the toe V vestigial, fingers I and IV externally absent, and an inverted depigmented v-shaped mark on chest bordered above by a dark brown stripe on each side.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Brachycephalus&lt;/i&gt; &lt;i&gt;pulex&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;didactylus&lt;/i&gt;; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hermogenesi&lt;/i&gt;; &lt;i&gt;Psyllophryne&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Brachycephalus&lt;/i&gt; &lt;i&gt;pulex&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;didactylus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>Felgueiras</middlename>
+          <lastname>Napoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulisses</firstname>
+          <lastname>Caramaschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>Alberto Gonçalves</middlename>
+          <lastname>Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Iuri</firstname>
+          <middlename>Ribeiro</middlename>
+          <lastname>Dias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-40</pages>
+        <date_published>2011-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Reuniting males and females: redescriptions of &lt;i&gt;Nuisiana arboris &lt;/i&gt;(Marples 1959) and &lt;i&gt;Cambridgea reinga &lt;/i&gt;Forster &amp; Wilton 1973 (Araneae: Desidae, Stiphidiidae)</title>
+        <abstract locale="en_US">Two New Zealand endemic spider species, &lt;i&gt;Nuisiana&lt;/i&gt; &lt;i&gt;arboris&lt;/i&gt; (Marples 1959) (Desidae) and &lt;i&gt;Cambridgea&lt;/i&gt; &lt;i&gt;reinga&lt;/i&gt; Forster &amp; Wilton 1973 (Stiphidiidae), are redescribed, including notes on their distribution and DNA sequences from the mitochondrial gene cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit 1. Based on morphological evidence and mitochondrial DNA sequences, &lt;i&gt;Matachia&lt;/i&gt; &lt;i&gt;magna&lt;/i&gt; Forster 1970 is a junior synonym of &lt;i&gt;Nuisiana&lt;/i&gt; &lt;i&gt;arboris,&lt;/i&gt; and &lt;i&gt;Nanocambridgea&lt;/i&gt; &lt;i&gt;grandis&lt;/i&gt; Blest &amp; Vink 2000 is a junior synonym of &lt;i&gt;Cambridgea&lt;/i&gt; &lt;i&gt;reinga.&lt;/i&gt; Two forms of male morph in &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;reinga&lt;/i&gt; are recorded.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit 1 (COI); DNA; &lt;i&gt;Matachia&lt;/i&gt;; new synonymy; New Zealand; &lt;i&gt;Nanocambridgea&lt;/i&gt;</subject>
+          <subject_class locale="en_US">cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit 1 (COI)</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cor</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vink</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>M.</middlename>
+          <lastname>Fitzgerald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Phil</firstname>
+          <middlename>J.</middlename>
+          <lastname>Sirvid</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadine</firstname>
+          <lastname>Dupérré</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-50</pages>
+        <date_published>2011-01-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology and SSU rRNA gene sequence of the new brackish water ciliate, &lt;i&gt;Anteholosticha pseudomonilata &lt;/i&gt;n. sp. (Ciliophora, Hypotrichida, Holostichidae) from Korea</title>
+        <abstract locale="en_US">The morphology and infraciliature of a hypotrichous ciliate collected from brackish-water biotope (salinity 5 ‰) in South Korea were investigated which indicate this organism should be a new form within the genus &lt;i&gt;Anteholosticha&lt;/i&gt; Berger, 2003. Careful morphological comparison and SSU rRNA gene sequence alignment with similar species are performed to support the validity of &lt;i&gt;Anteholosticha&lt;/i&gt; &lt;i&gt;pseudomonilata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The main diagnostic and distinguishing characteristics of the new species include: 1) 8–11 transverse cirri; 2) midventral complex composed of 10–16 pairs of zigzagging midventral cirri, extending posteriorly to slightly ahead of pretransverse cirri; 3) cortical granules colourless and pigment-like, 0.5 µm across, longitudinally arranged in more or less short rows on whole cortex except along dorsal kineties and cirral rows; and 4) 8–12 macronuclear nodules located left of midline.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Anteholosticha&lt;/i&gt;; infraciliature; morphology; new species; SSU rRNA gene sequence</subject>
+          <subject_class locale="en_US">&lt;i&gt;Anteholosticha&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Liqiong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sadia</firstname>
+          <middlename>Nawroz</middlename>
+          <lastname>Khan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daode</firstname>
+          <lastname>Ji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mann</firstname>
+          <middlename>Kyoon</middlename>
+          <lastname>Shin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2011-01-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New and little known species of ptyctimous mites (Acari, Oribatida) from Ethiopia</title>
+        <abstract locale="en_US">Three new species of oribatid mites of the genus Plonaphacarus, Plonaphacarus sidorchukae &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Plonaphacarus rybalovi &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and Plonaphacarus hamulus &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described from Bale Mountains National Park (Afrotropical region, Ethiopia). Morphological and taxonomical remarks about Steganacarus (Steganacarus) sol and Steganacarus (Steganacarus) vestitus are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">oribatid; ptyctimous mites; new species; Ethiopia</subject>
+          <subject_class locale="en_US">oribatid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wojciech</firstname>
+          <lastname>Niedbała</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergey</firstname>
+          <middlename>G.</middlename>
+          <lastname>Ermilov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-01-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

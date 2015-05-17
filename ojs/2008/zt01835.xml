@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1835.1</id>
+    <title locale="en_US">30 Jul. 2008</title>
+    <volume>1835</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of &lt;i&gt;Aleurodicus &lt;/i&gt;Douglas (Sternorrhyncha, Aleyrodidae), with two new genera proposed for palaeotropical natives and an identification guide to world genera of Aleurodicinae</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Aleurodicus&lt;/i&gt; is discussed in the context of the whole subfamily Aleurodicinae, and is fully revised with 35 species now included, 10 of them newly described here. The genus &lt;i&gt;Lecanoideus&lt;/i&gt; Quaintance &amp; Baker is here regarded as a junior synonym of &lt;i&gt;Aleurodicus&lt;/i&gt; &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Aleurodicus&lt;/i&gt; &lt;i&gt;fucatus&lt;/i&gt; Bondar is proposed as a junior synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;capiangae&lt;/i&gt; Bondar &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; &lt;i&gt;Palaealeurodicus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described to accommodate six native Asian species hitherto included in &lt;i&gt;Aleurodicus,&lt;/i&gt; along with one new species here described. &lt;i&gt;Aleuroctarthrus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is proposed to accommodate &lt;i&gt;Aleurodicus&lt;/i&gt; &lt;i&gt;destructor&lt;/i&gt; Mackie. Two species are here transferred from &lt;i&gt;Aleurodicus&lt;/i&gt; to other genera. Puparial keys are provided to the worldwide genera of Aleurodicinae, and to the described species of &lt;i&gt;Aleurodicus&lt;/i&gt; and &lt;i&gt;Palaealeurodicus.&lt;/i&gt; Lectotypes are here designated for 11 species of Aleurodicinae, and a neotype for one species. A check list is provided to all the species treated in this paper. The paper is illustrated with 144 figures including 7 plates of habitus photographs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aleurodicus&lt;/i&gt;; &lt;i&gt;Palaealeurodicus&lt;/i&gt;; &lt;i&gt;Aleuroctarthrus&lt;/i&gt;; whiteflies; new genera; new species; lectotypes; neotype; check list; keys to genera and species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aleurodicus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jon</firstname>
+          <middlename>H.</middlename>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-100</pages>
+        <date_published>2008-07-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

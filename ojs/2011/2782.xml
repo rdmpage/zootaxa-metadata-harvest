@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2782.1</id>
+    <title locale="en_US">3 Mar. 2011</title>
+    <volume>2782</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogeography and taxonomic revision of the New Zealand cryptic skink (&lt;i&gt;Oligosoma inconspicuum&lt;/i&gt;; Reptilia: Scincidae) species complex</title>
+        <abstract locale="en_US">The New Zealand skink fauna is highly diverse and contains numerous cryptic, undescribed or hitherto undiscovered species. We completed a taxonomic revision of the cryptic skink (Oligosoma &lt;i&gt;inconspicuum)&lt;/i&gt; species complex using molecular (550 bp of the ND2 mitochondrial gene) and morphological analyses. Four new species are described, with each diagnosable by a range of morphological characters and genetic differentiation from several closely related species: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;inconspicuum&lt;/i&gt; (sensu stricto), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;notosaurus,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;maccanni,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;stenotis&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;grande.&lt;/i&gt; &lt;i&gt;Oligosoma&lt;/i&gt; &lt;i&gt;tekakahu&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is restricted to Chalky Island in Fiordland, and is most closely related to &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;inconspicuum&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;notosaurus.&lt;/i&gt; The other three new species are restricted to particular mountainous regions in central and western Otago (O. &lt;i&gt;burganae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Lammermoor and Rock and Pillar Ranges; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;toka&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Nevis Valley; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;repens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Eyre Mountains) and are most closely related to &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;stenotis&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;grande.&lt;/i&gt; We also re-described &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;inconspicuum.&lt;/i&gt; Two proposed new taxa, the ‘Big Bay’ skink and ‘Mahogany’ skink, were found to represent Westland/Fiordland populations of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;inconspicuum&lt;/i&gt; rather than distinct taxa. We discuss the evolutionary and phylogeographic implications of cryptic and ‘anti-cryptic’ species within the &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;inconspicuum&lt;/i&gt; species complex, and suggest that morphologically aberrant populations are the result of local adaptation to novel selective regimes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cryptic species; Fiordland; Miocene; mitochondrial DNA; molecular clock; morphology; ND2; Otago; Pliocene tectonism; Southland; Stewart Island</subject>
+          <subject_class locale="en_US">cryptic species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>G.</middlename>
+          <lastname>Chapple</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Trent</firstname>
+          <middlename>P.</middlename>
+          <lastname>Bell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephanie</firstname>
+          <middlename>N. J.</middlename>
+          <lastname>Chapple</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kimberly</firstname>
+          <middlename>A.</middlename>
+          <lastname>Miller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>H.</middlename>
+          <lastname>Daugherty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Geoff</firstname>
+          <middlename>B.</middlename>
+          <lastname>Patterson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2011-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new spider species &lt;i&gt;Harpactea complicata &lt;/i&gt;Deltshev sp. nov. from caves of Serbia (Araneae: Dysderidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christo</firstname>
+          <lastname>Deltshev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Božidar</firstname>
+          <middlename>P. M.</middlename>
+          <lastname>Ćurčić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-38</pages>
+        <date_published>2011-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic catalogue of the Spionidae (Annelida: Polychaeta) of the Grand Caribbean</title>
+        <abstract locale="en_US">The aim of this study was to provide a revised taxonomic catalogue of Spionidae species recorded from the Grand Caribbean. The names included were compiled from the checklists of Salazar-Vallejo (1996) and Perkins and Savage (1975). Names were revised and updated based on recent revisions. For each species, the original name is included together with current and previous names under which it has been recorded; all with associated citations. The type locality of each species, museum or institution where the type materials are deposited, and comments on systematics and geographic distributions are also included. The catalogue lists 66 species in 24 genera and at the end a list of species with questionable distribution in the Grand Caribbean is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spionids; taxonomy; nomenclature; Mexico; Caribbean Sea</subject>
+          <subject_class locale="en_US">Spionids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Victor</firstname>
+          <middlename>Hugo</middlename>
+          <lastname>Delgado-Blas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patricia</firstname>
+          <lastname>Salazar-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-66</pages>
+        <date_published>2011-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural note: &lt;i&gt;Heteropathes &lt;/i&gt;(Cnidaria: Anthozoa: Antipatharia: Cladopathidae): A new name for &lt;i&gt;Heliopathes &lt;/i&gt;Opresko, 2003</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Opresko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2011-03-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

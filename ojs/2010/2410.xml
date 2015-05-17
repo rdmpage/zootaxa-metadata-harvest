@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2410.1</id>
+    <title locale="en_US">25 Mar. 2010</title>
+    <volume>2410</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Chorthippus brunneus &lt;/i&gt;subgroup (Orthoptera, Gomphocerinae) in Anatolia with description of two new species: data suggest an Anatolian origin for the lineage</title>
+        <abstract locale="en_US">The &lt;i&gt;Chorthippus&lt;/i&gt; &lt;i&gt;biguttulus&lt;/i&gt; group distributed in the west Palaearctic, while intensively examined in Europe, is poorly known in the glacial refugia such as Anatolia. This produces constraints in making accurate statements about evolution and the biogeography of the group. The &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brunneus&lt;/i&gt; subgroup of this lineage is examined using large amounts of morphological and song data from Anatolia (Asian Turkey) and representatives from Europe. Song and morphology in combination suggested three species to be found in Anatolia. The first is &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bornhalmi&lt;/i&gt; Harz which is also known from south-east Europe. The other two are new species: &lt;i&gt;Chorthippus&lt;/i&gt; &lt;i&gt;antecessor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Chorthippus&lt;/i&gt; &lt;i&gt;relicticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n..&lt;/b&gt; Morphologically, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;antecessor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is the most aberrant species of the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brunneus&lt;/i&gt; subgroup, but is similar to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bornhalmi&lt;/i&gt; in song. The specific song and morphology (the aberrant number of stridulatory pegs) define &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;relicticus&lt;/i&gt; as a new species and both also indicate that it is closely related to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brunneus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jacobsi.&lt;/i&gt; A song and morphology based phyloylogenetic assumption for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brunneus&lt;/i&gt; subgroup suggests &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;antecessor,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bornhalmi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;miramae&lt;/i&gt; to constitute one clade and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brunneus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jacobsi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;relicticus&lt;/i&gt; another. The scenario suggested for their evolution assume the following steps: (i) divergence of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bornhalmi&lt;/i&gt; from a &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;antecessor&lt;/i&gt; like ancestor, (ii) derivation of an ancestral population (which later give rise to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brunneus&lt;/i&gt; + &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jacobsi&lt;/i&gt; + &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;relicticus)&lt;/i&gt; from a &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bornhalmi&lt;/i&gt; like ancestor, and (iii) later fragmentation of this ancestral population to result in the present three species (C. &lt;i&gt;brunneus&lt;/i&gt; + &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jacobsi&lt;/i&gt; + &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;relicticus).&lt;/i&gt; All of these events seem to be correlated with the climatic cycles during Pleistocene. The conclusion is that the two new species are range-restricted, vulnerable species as is the case for many other taxa present in the Mediterranean Taurus biodiversity hotspot.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Chorthippus&lt;/i&gt;; song; morphology; Anatolia; Europe; biogeography</subject>
+          <subject_class locale="en_US">&lt;i&gt;Chorthippus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Deniz</firstname>
+          <lastname>Sirin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Otto</firstname>
+          <lastname>Von Helversen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Battal</firstname>
+          <lastname>Ciplak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2010-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review and Revision of &lt;i&gt;Nysius &lt;/i&gt;Dallas of Australia and South West Pacific (Hemiptera: Heteroptera: Orsillidae)</title>
+        <abstract locale="en_US">During a review of Australian &lt;i&gt;Nysius&lt;/i&gt; Dallas, types of all species recorded from Australia and its territories and neighbouring areas in the South West Pacific were examined. As a result of this, the following synonymies have become necessary: &lt;i&gt;Nysius&lt;/i&gt; &lt;i&gt;andrewsi&lt;/i&gt; Izzard and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;usingeri&lt;/i&gt; Izzard as junior synonyms of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;vinitor&lt;/i&gt; Bergroth; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;clevelandensis&lt;/i&gt; Evans, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;turneri&lt;/i&gt; Evans, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;pacificus&lt;/i&gt; China, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;dissimilis&lt;/i&gt; Izzard, and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;villicus&lt;/i&gt; Van Duzee as junior synonyms of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;caledoniae&lt;/i&gt; Distant. Other species from Australia and the South West Pacific which have had their status confirmed in this study are: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;spectabilis&lt;/i&gt; Distant, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;pulchellus&lt;/i&gt; Stål, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;picipes&lt;/i&gt; Usinger, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;oceanicus&lt;/i&gt; Usinger, and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;femoratus&lt;/i&gt; Van Duzee. A lectotype is designated for &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;vinitor&lt;/i&gt; Bergroth. A key to all species now recognised from Australia and the SW Pacific is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">complex group of species; researching doubtful status; type specimens; lectotype designation; new synonymy; diagnoses; genitalia; key to recognised species; distribution</subject>
+          <subject_class locale="en_US">complex group of species; researching doubtful status; type specimens; lectotype designation; new synonymy; diagnoses; genitalia; key to recognised species; distribution</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Malipatil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-44</pages>
+        <date_published>2010-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the &lt;i&gt;Proisotoma &lt;/i&gt;complex. III. A revision of the genus &lt;i&gt;Narynia&lt;/i&gt; (Collembola: Isotomidae) with a description of a new species from China</title>
+        <abstract locale="en_US">The three known species in the genus &lt;i&gt;Narynia&lt;/i&gt; Martynova, &lt;i&gt;Narynia&lt;/i&gt; &lt;i&gt;setosa&lt;/i&gt; Martynova, &lt;i&gt;Narynia&lt;/i&gt; &lt;i&gt;andreevae&lt;/i&gt; Martynova in Martynova &amp; Tshelnokov and &lt;i&gt;Narynia&lt;/i&gt; &lt;i&gt;kolimiensis&lt;/i&gt; Martynova are revised based on type specimens. A new species for the genus, &lt;i&gt;Narynia&lt;/i&gt; &lt;i&gt;luanae&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; from Northwest China, is described. An identification key to the species and the diagnosis of the genus are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anurophorinae; key to species; continental Asia</subject>
+          <subject_class locale="en_US">Anurophorinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cheng-Wang</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikhail</firstname>
+          <lastname>Potapov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan</firstname>
+          <lastname>Gao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-52</pages>
+        <date_published>2010-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A redescription of &lt;i&gt;Torymus sapporoensis &lt;/i&gt;Ashmead and description of a new species of &lt;i&gt;Torymus &lt;/i&gt;Dalman (Hymenoptera: Torymidae) parasitizing &lt;i&gt;Paratephritis fukaii &lt;/i&gt;(Diptera: Tephritidae) in Japan</title>
+        <abstract locale="en_US">&lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;itoi&lt;/i&gt; Matsuo &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hymenoptera: Torymidae) is described as a parasitoid of &lt;i&gt;Paratephritis&lt;/i&gt; &lt;i&gt;fukaii&lt;/i&gt; Shiraki (Diptera: Tephritidae) which induces galls on the petioles and peduncles of &lt;i&gt;Farfugium&lt;/i&gt; &lt;i&gt;japonicum&lt;/i&gt; (L.) Kitam. (Asteraceae) in Japan. Torymid specimens that were previously identified as &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sapporoensis&lt;/i&gt; Ashmead in Ito (1947) are identical with &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;itoi,&lt;/i&gt; which is shown to be different from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sapporoensis.&lt;/i&gt; To complement the insufficient original description, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sapporoensis&lt;/i&gt; is redescribed based on the holotype.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;itoi&lt;/i&gt;; fruit fly; &lt;i&gt;Farfugium&lt;/i&gt; &lt;i&gt;japonicum&lt;/i&gt;; gall</subject>
+          <subject_class locale="en_US">&lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;itoi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kazunori</firstname>
+          <lastname>Matsuo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-58</pages>
+        <date_published>2010-03-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of &lt;i&gt;Podosilis geukdongensis &lt;/i&gt;n. sp. (Coleoptera: Cantharidae) from South Korea</title>
+        <abstract locale="en_US">&lt;i&gt;Podosilis&lt;/i&gt; &lt;i&gt;geukdongensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from South Korea is described, illustrated and compared with the closely related species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;omissa&lt;/i&gt; (Wittmer, 1954). The &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;omissa&lt;/i&gt; group is established and defined.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Coleoptera; Cantharidae; &lt;i&gt;Podosilis&lt;/i&gt;; new group; new species; Far East Asia; Palaearctic Region</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tae</firstname>
+          <middlename>Hwa</middlename>
+          <lastname>Kang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Young</firstname>
+          <middlename>Bo</middlename>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hae</firstname>
+          <middlename>Chul</middlename>
+          <lastname>Park</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2010-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Type species of genera in Aphididae (Hemiptera Sternorrhyncha) with two new generic synonymies</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>M. Nieto</middlename>
+          <lastname>Nafría</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Colin</firstname>
+          <lastname>Favret</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Pilar Mier</middlename>
+          <lastname>Durante</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masakazu</firstname>
+          <lastname>Sano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shin-Ichi</firstname>
+          <lastname>Akimoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sebastiano</firstname>
+          <lastname>Barbagallo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samiran</firstname>
+          <lastname>Chakrabarti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gary</firstname>
+          <middlename>L.</middlename>
+          <lastname>Miller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicolás</firstname>
+          <middlename>Pérez</middlename>
+          <lastname>Hidalgo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ge-Xia</firstname>
+          <lastname>Qiao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Stekolshchikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Piotr</firstname>
+          <lastname>Wegierek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2010-03-25</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

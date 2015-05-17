@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2330.1</id>
+    <title locale="en_US">7 Jan. 2010</title>
+    <volume>2330</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-01-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of names in &lt;i&gt;Alona &lt;/i&gt;Baird 1843 (Crustacea: Cladocera: Chydoridae) and their current status: an analysis of the taxonomy of a lump genus</title>
+        <abstract locale="en_US">We discuss current progress with the revision of &lt;i&gt;Alona&lt;/i&gt; Baird, 1843 (Crustacea: Cladocera: Chydoridae), the largest cladoceran lump genus. We present the first inventory of these Aloninae since the 1970’s and include an updated checklist of names, with comments on the current status and position of each taxon. We discuss validity, affinities and synonymy of ca. 240 names, including subspecies and varieties. Recent taxonomic shifts have lead to a better delineation of natural groups in the Aloninae but the &lt;i&gt;Alona&lt;/i&gt; puzzle remains incomplete. The majority of taxa are grouped into species-complexes or separate genera. We count 14 Aloninae genera, now considered valid, that were split from &lt;i&gt;Alona.&lt;/i&gt; The status of a significant portion remains unclear, due to poor original descriptions and/or loss of type material. Even with detailed morphological descriptions, the phylogenetic position of many Aloninae remains unsettled. Analysis of &lt;i&gt;Alona&lt;/i&gt; taxonomy based on the checklist shows historical trends and long periods of instability in the systematics of these micro-crustaceans.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cladocera; Chydoridae; Anomopoda; Aloninae; &lt;i&gt;Alona&lt;/i&gt;; checklist; taxonomy; nomenclature; revision</subject>
+          <subject_class locale="en_US">Cladocera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kay</firstname>
+          <lastname>Van Damme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kotov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henri</firstname>
+          <middlename>J.</middlename>
+          <lastname>Dumont</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2010-01-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

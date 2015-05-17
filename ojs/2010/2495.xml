@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2495.1</id>
+    <title locale="en_US">4 Jun. 2010</title>
+    <volume>2495</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Iberian spider checklist (Araneae)</title>
+        <abstract locale="en_US">We compiled all the available information regarding spider species distribution in the Iberian Peninsula (including the Balearic Islands). At present, 1335 species are known from the region, of which 236 are Iberian endemics, in 373 genera and 55 families. Portugal presents 768 species and Spain (including Andorra and Gibraltar), 1213 species. Although the work developed during recent decades has allowed a major increase in our knowledge of this group, there are certainly many species yet to be found and, for those already listed, the distribution is largely unknown. Although linyphiids present the highest number of known species (267), dysderids present the highest endemic richness (46 species). Information regarding the provinces from where each species was referenced is also presented and reveals large differences in the knowledge about each province, with most presenting very few known records and species. This checklist is accompanied by an online catalogue where all the information here presented is exhaustively listed and regularly updated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arthropoda; Balearic Islands; catalogue; distribution; endemic species; Portugal; Spain; species list</subject>
+          <subject_class locale="en_US">Arthropoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pedro</firstname>
+          <lastname>Cardoso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <lastname>Morano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2010-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of immature stages and redescription of adults of &lt;i&gt;Ixodes luciae&lt;/i&gt; Sénevet (Acari: Ixodidae)</title>
+        <abstract locale="en_US">The tick &lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt; occurs in many countries within the Neotropical region but only adult ticks have been morphologically described. Larvae and nymphs parasitize marsupials and rodents while adults are common on marsupials. A colony of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt; was obtained from females collected on marsupials from the State of Rondônia, Northern Brazil. After being fed on rabbits, the specimens were maintained under controlled conditions of temperature and humidity. Unfed larvae, nymphs, males and females of the first generation were cleaned and prepared for both optical and scanning electron microscopy. &lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt; is closely related to &lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;loricatus,&lt;/i&gt; &lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;schulzei,&lt;/i&gt; and &lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;amarali,&lt;/i&gt; although each species has its own array of distinctive characters. The larva of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt; differs from those of both &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;schulzei&lt;/i&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;amarali&lt;/i&gt; in the length of the capitulum and from &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;schulzei&lt;/i&gt; in the number of posthalleral setae in the Haller’s organ. Nymphs differ from &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;amarali,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;loricatus&lt;/i&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;schulzei&lt;/i&gt; by the length of the external spur on coxae I, and from &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;schulzei&lt;/i&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;amarali&lt;/i&gt; in having slender and shorter capitulum and hypostome. Males and females of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt; differ from the other three species by the length of the external spur on coxae I and by the scutal punctations, which are much longer and larger, respectively, in &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;luciae.&lt;/i&gt; However, except for a few features, the chaetotaxy is the same for larvae of the four species, not only on the idiosoma (e.g. scutum with four pairs of setae), palpi and tarsus I, but also the number of porose setae within the capsule of Haller’s organ and the prehalleral setae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt;; ixodid ticks; morphology; taxonomy; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ixodes&lt;/i&gt; &lt;i&gt;luciae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valeria</firstname>
+          <middlename>C.</middlename>
+          <lastname>Onofrio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>B.</middlename>
+          <lastname>Labruna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Luiz H.</middlename>
+          <lastname>Faccini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darci</firstname>
+          <middlename>M.</middlename>
+          <lastname>Barros-Battesti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-64</pages>
+        <date_published>2010-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Philodromus (Artanes) &lt;/i&gt;from Macedonia, Greece (Araneae: Philodromidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christoph</firstname>
+          <lastname>Muster</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johan</firstname>
+          <lastname>Van Keer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2010-06-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

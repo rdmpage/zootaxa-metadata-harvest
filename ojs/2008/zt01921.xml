@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1921.1</id>
+    <title locale="en_US">3 Nov. 2008</title>
+    <volume>1921</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-11-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Cyrtodactylus &lt;/i&gt;(Squamata: Gekkonidae) from Peninsular Malaysia</title>
+        <abstract locale="en_US">Three new species of the gekkonid genus &lt;i&gt;Cyrtodactylus&lt;/i&gt; are described from Peninsular Malaysia; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jarakensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Pulau Jarak off the west coast of Perak, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;batucolus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Pulau Besar of the Water Islands Archipelago off the west coast of Melaka, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pantiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Gunung Panti Forest Reserve, Johor. All are distinguishable from other Sunda Shelf species of &lt;i&gt;Cyrtodactylus&lt;/i&gt; in having unique combinations of morphological and color pattern characteristics. The continued high potential for finding additional new species in unexplored regions of southern Peninsular Malaysia and its associated archipelagos is further supported with these findings.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Malaysia; Gunung Panti; Johor; Melaka; &lt;i&gt;Cyrtodactylus&lt;/i&gt;; &lt;i&gt;batucolus&lt;/i&gt;; &lt;i&gt;jarakensis&lt;/i&gt;; &lt;i&gt;pantiensis&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Malaysia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chan</firstname>
+          <middlename>Kin</middlename>
+          <lastname>Onn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Perry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daicus</firstname>
+          <lastname>Belabut</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2008-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery of a long known species, &lt;i&gt;Ixalus lateralis&lt;/i&gt; Anderson, 1871</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Leptolalax&lt;/i&gt; Dubois, 1980 is for the first time reported from India. The nomen &lt;i&gt;Ixalus&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; Anderson 1871, created for a specimen from an unknown type locality, probably in North-East India, is applied to this species. A neotype is designated to stabilize the taxonomic status of this nomen and to fix a precise type locality.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Megophryidae; Ixalus lateralis; neotype</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>Nzano</middlename>
+          <lastname>Humtsoe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sabitry</firstname>
+          <lastname>Bordoloi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Annemarie</firstname>
+          <lastname>Ohler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-34</pages>
+        <date_published>2008-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological and molecular evidence for a new species of longnose skate (Rajiformes: Rajidae: &lt;i&gt;Dipturus&lt;/i&gt;) from Argentinean waters based on DNA barcoding</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Dipturus&lt;/i&gt; is described from ten specimens collected off Patagonia, Argentina. Morphological and molecular approaches were used to compare among specimens of recognized &lt;i&gt;Dipturus&lt;/i&gt; species. By comparing morphometric, meristic and mitochondrial cytochrome &lt;i&gt;c&lt;/i&gt; oxidase I (COI) sequence data, specimens referred to as longnose skate and originally regarded as &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;chilensis&lt;/i&gt; were shown to be a discrete species as distinguished from both the Yellownose skate, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;chilensis&lt;/i&gt; and the Roughskin skate, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;trachyderma.&lt;/i&gt; &lt;i&gt;Dipturus&lt;/i&gt; &lt;i&gt;argentinensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; can be distinguished from all other southwestern Atlantic longnose skate species by its color pattern, lack of squamation on both upper and lower surfaces of the disc, and a long, thin tail that is approximately half the total length. The new species has one median row of 10 to 24 small caudal thorns, one or two interdorsal thorns and 35 to 40, and 34 to 43 tooth rows on upper and lower jaws, respectively. The 648 base pair COI mitochondrial DNA “barcodes” derived from specimens of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;argentinensis&lt;/i&gt; are identical to each other and exhibit greater than 3% sequence divergence from all other &lt;i&gt;Dipturus&lt;/i&gt; species similarly characterized to date. Taken together, these independent morphological and molecular observations serve to corroborate one another and thus provide strong evidence for the recognition of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;argentinensis&lt;/i&gt; as a new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Dipturus&lt;/i&gt; &lt;i&gt;argentinensis&lt;/i&gt;; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; COI; DNA barcode; Argentina; Rajidae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Dipturus&lt;/i&gt; &lt;i&gt;argentinensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>Martin Díaz</middlename>
+          <lastname>De Astarloa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ezequiel</firstname>
+          <lastname>Mabragaña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Hanner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>E.</middlename>
+          <lastname>Figueroa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2008-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Australian species of &lt;i&gt;Iphidozercon&lt;/i&gt; (Acari: Ascidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Iphidozercon&lt;/i&gt; Berlese (Acari: Ascidae) is reviewed. The genus is characterised mainly by a holodorsal shield without lateral incisions; the vertex of the dorsal shield bent sharply downward to conceal setae j1 from above; and the anterior ends of the peritremes bent sharply posteroventrally. Three new species are described from rainforest leaf litter in eastern Australia - &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;foveatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;walteri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The genus now includes eight species from Europe, the Middle East, Russia, North America, Australia and New Caledonia. A key to the known species worldwide is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Iphidozercon&lt;/i&gt;; Ascidae; Acari; Australia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Iphidozercon&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>J.</middlename>
+          <lastname>Gwiazdowicz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Halliday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2008-11-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

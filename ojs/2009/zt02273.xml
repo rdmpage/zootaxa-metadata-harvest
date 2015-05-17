@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2273.1</id>
+    <title locale="en_US">27 Oct. 2009</title>
+    <volume>2273</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalog of the New World Biting Midges North of Mexico (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US">This catalog of the biting midges (Diptera: Ceratopogonidae) of the New World north of Mexico includes 603 species and 39 genera. The full citation, province or state of the type locality and distribution by province and/or state of each species is given. The most recent revision for each genus, subgenus and species group is cited.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ceratopogonidae; biting midges; catalog; Nearctic; distribution</subject>
+          <subject_class locale="en_US">Ceratopogonidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Art</firstname>
+          <lastname>Borkent</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>William</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grogan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2009-10-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four distinctive new Neotropical species of &lt;i&gt;Coniceromyia &lt;/i&gt;Borgmeier (Diptera: Phoridae) with patterned-wings</title>
+        <abstract locale="en_US">Four new species of patterned-wing &lt;i&gt;Coniceromyia&lt;/i&gt; are described: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;browni,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sakaii,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;valdesi&lt;/i&gt; from Colombia, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hoggi&lt;/i&gt; from Costa Rica.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Phoridae; &lt;i&gt;Coniceromyia&lt;/i&gt;; Neotropical; taxonomy</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giar-Ann</firstname>
+          <lastname>Kung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2009-10-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogeny of the genera &lt;i&gt;Euclidiodes &lt;/i&gt;and &lt;i&gt;Hasodima &lt;/i&gt;(Lepidoptera: Geometridae) and description of two new species from the Fray Jorge relict forest in northern Chile</title>
+        <abstract locale="en_US">The Fray Jorge National park contains the northernmost temperate relict forest of Chile (30º40’S), located over 1000 kilometers north of the rest of the coastal &lt;i&gt;Aextoxicon&lt;/i&gt; &lt;i&gt;punctatum&lt;/i&gt; (olivillo) communities of southern Chile. In this work we describe two new species of moths in the Fray Jorge relict forest belonging to the genera &lt;i&gt;Hasodima&lt;/i&gt; Butler 1882 and &lt;i&gt;Euclidiodes&lt;/i&gt; Warren 1895: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;ediliacarmenae&lt;/i&gt; Parra &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;frayjorgeana&lt;/i&gt; Parra &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The sister species of these new taxa are distributed in the central-southern zone of Chile, in plant associations where the olivillo is present. We hypothesize that the ancestor from which these species derived was widely distributed in association with coastal “olivillo” forests, which became restricted in distribution during interglacial periods, resulting in the isolation of these insects’ populations, and their subsequent speciation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ennominae; Lithinini; Nacophorini; &lt;i&gt;Hasodima&lt;/i&gt; &lt;i&gt;ediliacarmenae&lt;/i&gt;; &lt;i&gt;Euclidiodes&lt;/i&gt; &lt;i&gt;frayjorgeana&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Ennominae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>E.</middlename>
+          <lastname>Parra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Romina</firstname>
+          <lastname>Villagrán-Mella</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Marquet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-10-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

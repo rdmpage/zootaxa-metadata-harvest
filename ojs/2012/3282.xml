@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3282.1</id>
+    <title locale="en_US">27 Apr. 2012</title>
+    <volume>3282</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Artimpaza &lt;/i&gt;Thomson (Coleoptera, Cerambycidae, Cerambycinae) from China, with a key to the Chinese species of the genus</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Artimpaza&lt;/i&gt; &lt;i&gt;brevilineata&lt;/i&gt; Tian &amp; Chen, sp. nov. (Coleoptera: Cerambycidae: Cerambycinae), is described from China, and a key to the Chinese species of &lt;i&gt;Artimpaza&lt;/i&gt; Thomson is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;Chinese&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Artimpaza&lt;/i&gt;&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;Chinese&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Artimpaza&lt;/i&gt;&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lichao</firstname>
+          <lastname>Tian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-44</pages>
+        <date_published>2012-04-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

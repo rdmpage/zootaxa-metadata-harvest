@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3203.1</id>
+    <title locale="en_US">22 Feb. 2012</title>
+    <volume>3203</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Flabelligera &lt;/i&gt;Sars, 1829 (Polychaeta: Flabelligeridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Flabelligera&lt;/i&gt; Sars, 1829 is the type genus for Flabelligeridae de Saint-Joseph, 1894 and includes species common in tem-perate or cold waters in the world oceans. Together with &lt;i&gt;Flabelliderma&lt;/i&gt; Hartman, 1969 they are the only genera whoseneurohooks have multiarticulate handles and bending crests. However, &lt;i&gt;Flabelliderma&lt;/i&gt; species differ because they formlarge notopodial lobes, and often have dorsal sediment tubercles. The revision of all type and non-type materials resultedin the distinction of five body patterns within &lt;i&gt;Flabelligera;&lt;/i&gt; they can be recognized on the basis of body shape, tunic de-velopment, parapodial position, notopodial alignment, and shape of neurohooks. &lt;i&gt;Flabelligera&lt;/i&gt; is restricted and four generaare proposed: &lt;i&gt;Annenkova&lt;/i&gt; (neurohooks with crests tapered, apparently segmented), &lt;i&gt;Flabegraviera&lt;/i&gt; (notopodia in laterallydescending series, notochaetae and neurochaetae in cylindrical sheaths, markedly longer than body width), &lt;i&gt;Flabehlersia&lt;/i&gt;(body fusiform, notopodia ventrolateral) and &lt;i&gt;Flabesymbios&lt;/i&gt; (body papillae not covered by tunic, notopodia dorsal with papillae in fan-shaped pattern, neuropodia ventral). &lt;i&gt;Flabelligera&lt;/i&gt; contains 16 species with three newly described and a re-placement name is proposed: &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;haswelli&lt;/i&gt; n. n. &lt;i&gt;pro&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;affine&lt;/i&gt; Haswell, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;nuniezi&lt;/i&gt; n. sp. from the Northeastern Atlantic andMediterranean Sea, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;orensanzi&lt;/i&gt; n. sp. from the Southwestern Atlantic, and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;salazarae&lt;/i&gt; n. sp. from the Eastern tropicalPacific. &lt;i&gt;Annenkova&lt;/i&gt; is monotypic: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mastigophora&lt;/i&gt; (Annenkova, 1952) n. comb. from the Northwestern Pacific. &lt;i&gt;Flabe-&lt;/i&gt;&lt;i&gt;graviera&lt;/i&gt; contains &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;mundata&lt;/i&gt; (Gravier, 1906) n. comb. and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;profunda&lt;/i&gt; n. sp. both from the Antarctic. &lt;i&gt;Flabehlersia&lt;/i&gt; in-cludes two species: &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;induta&lt;/i&gt; (Ehlers, 1897) n. comb. from Tierra del Fuego and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;persimilis&lt;/i&gt; (Annenkova-Chlopina 1924)n. comb. from the Northwestern Pacific. &lt;i&gt;Flabesymbios&lt;/i&gt; contains two species living on Northeastern Pacific sea-urchins: &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;commensalis&lt;/i&gt; (Moore, 1909) n. comb. on &lt;i&gt;Strongylocentrotus&lt;/i&gt; and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;roberti&lt;/i&gt; n. sp. on &lt;i&gt;Centrostephanus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Siphonostoma&lt;/i&gt;; &lt;i&gt;Pherusa&lt;/i&gt;; hard-bottoms; soft-bottoms.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Siphonostoma&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <middlename>I.</middlename>
+          <lastname>Salazar-Vallejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2012-02-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

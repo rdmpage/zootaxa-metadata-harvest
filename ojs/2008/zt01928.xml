@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1928.1</id>
+    <title locale="en_US">10 Nov. 2008</title>
+    <volume>1928</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-11-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A phylogenetic analysis of the tribe Zopherini with a review of the species and generic classification (Coleoptera: Zopheridae)</title>
+        <abstract locale="en_US">A morphology-based phylogenetic analysis of all known species (excluding the well-revised &lt;i&gt;Zopherus&lt;/i&gt; Gray) of the tribe Zopherini was performed. The genus &lt;i&gt;Sesaspis&lt;/i&gt; Casey is elevated from synonymy, redescribed and two new species are described from Central America, &lt;i&gt;Sesaspis&lt;/i&gt; &lt;i&gt;ashei&lt;/i&gt; NEW SPECIES and &lt;i&gt;Sesaspis&lt;/i&gt; &lt;i&gt;triplehorni&lt;/i&gt; NEW SPECIES. The following NEW COMBINATIONS are proposed: &lt;i&gt;Noserinus&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; (Kirsch), &lt;i&gt;Phloeodes&lt;/i&gt; &lt;i&gt;venustus&lt;/i&gt; (Champion), &lt;i&gt;Sesaspis&lt;/i&gt; &lt;i&gt;emarginata&lt;/i&gt; (Horn), &lt;i&gt;Sesaspis&lt;/i&gt; &lt;i&gt;lutosa&lt;/i&gt; (Champion), &lt;i&gt;Sesaspis&lt;/i&gt; &lt;i&gt;sylvatica&lt;/i&gt; (García-París &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.),&lt;/i&gt; and &lt;i&gt;Sesaspis&lt;/i&gt; &lt;i&gt;doyeni&lt;/i&gt; (GarcíaParís &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.).&lt;/i&gt; The following NEW SYNONYMIES are proposed: &lt;i&gt;Phloeodes&lt;/i&gt; &lt;i&gt;pustulosus&lt;/i&gt; LeConte of &lt;i&gt;Phloeodes&lt;/i&gt; &lt;i&gt;diabolicus&lt;/i&gt; LeConte, &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;prominens&lt;/i&gt; Casey, &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;senex&lt;/i&gt; Casey, &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;brevicollis&lt;/i&gt; Casey, and &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;subglabrus&lt;/i&gt; Casey of &lt;i&gt;Eurychora&lt;/i&gt; &lt;i&gt;inaequale&lt;/i&gt; Say &lt;i&gt;as&lt;/i&gt; &lt;i&gt;Verodes&lt;/i&gt; &lt;i&gt;inaequalis&lt;/i&gt; (Say), &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;insigne&lt;/i&gt; Champion of &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;interruptum&lt;/i&gt; Champion as &lt;i&gt;Verodes&lt;/i&gt; &lt;i&gt;interruptus&lt;/i&gt; (Champion), &lt;i&gt;Noserodes&lt;/i&gt; &lt;i&gt;squalidus&lt;/i&gt; Casey of &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;guatemalense&lt;/i&gt; Champion as &lt;i&gt;Verodes&lt;/i&gt; &lt;i&gt;guatemalensis&lt;/i&gt; (Champion), &lt;i&gt;Scoriaderma&lt;/i&gt; &lt;i&gt;congolense&lt;/i&gt; Fairmaire of &lt;i&gt;Nosoderma&lt;/i&gt; &lt;i&gt;scabrosum&lt;/i&gt; Solier as &lt;i&gt;Verodes&lt;/i&gt; &lt;i&gt;scabrosus&lt;/i&gt; (Solier), and &lt;i&gt;Scoriaderma&lt;/i&gt; &lt;i&gt;comoriense&lt;/i&gt; Fairmaire of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cordicolle&lt;/i&gt; Waterhouse. A revised key to the world genera is provided, as well as keys to all species of the tribe, save those of &lt;i&gt;Zopherus,&lt;/i&gt; including the multispecies genera &lt;i&gt;Noserinus&lt;/i&gt; Casey, &lt;i&gt;Nosoderma&lt;/i&gt; Guérin-Méneville, &lt;i&gt;Phloeodes&lt;/i&gt; LeConte, &lt;i&gt;Sesaspis&lt;/i&gt; Casey, and &lt;i&gt;Verodes&lt;/i&gt; Casey. A synoptic catalog of the described species is provided, with brief comments on the taxonomic histories of the tribe, genera, and species. All recognized species are illustrated and diagnosed, with information on their types, taxonomic history and geographic distributions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Zopheridae; new species; taxonomy</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ian</firstname>
+          <middlename>A.</middlename>
+          <lastname>Foley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>A.</middlename>
+          <lastname>Ivie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-72</pages>
+        <date_published>2008-11-10</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

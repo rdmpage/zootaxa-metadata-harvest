@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1772.1</id>
+    <title locale="en_US">19 May. 2008</title>
+    <volume>1772</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of Neotropical &lt;i&gt;Chonocephalus&lt;/i&gt; Wandolleck (Diptera: Phoridae)</title>
+        <abstract locale="en_US">16 new species are described and a key to the males of 27 of the 28 Neotropical species known is provided (the omitted species being only known in the female sex). A partial key to the females is also provided but most are given code letters only until they can be linked to their males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Phoridae; &lt;i&gt;Chonocephalus&lt;/i&gt;; new species; keys; Neotropical Region</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>H. L.</middlename>
+          <lastname>Disney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2008-05-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Xyleborus atratus&lt;/i&gt; Eichhoff from Europe, with an illustrated key to the European Xyleborini (Coleoptera: Curculionidae: Scolytinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Xyleborus&lt;/i&gt; &lt;i&gt;atratus&lt;/i&gt; Eichhoff, an ambrosia beetle of Asian origin, is reported for the first time from Europe, based on a series of females collected in northern Italy in April 2007 and 2008 in funnel traps baited with ethanol. A diagnosis of the species and a revised key to the genera and species of Xyleborini occurring in Europe is presented. An explanation is suggested for the large number of recent introductions of exotic ambrosia beetles into Europe.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">exotic pest; invasive species; ambrosia beetles; Asia</subject>
+          <subject_class locale="en_US">exotic pest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Massimo</firstname>
+          <lastname>Faccoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2008-05-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Chilean species of &lt;i&gt;Cycloneda &lt;/i&gt;Crotch (Coleoptera: Coccinellidae: Coccinellinae: Coccinellini)</title>
+        <abstract locale="en_US">&lt;i&gt;Cycloneda&lt;/i&gt; &lt;i&gt;pretiosa,&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; is described from Lago Pirihueico in southern Chile The species is diagnosed and compared with both related and superficially similar species. Habitus and genitalic characters are illustrated. Geographical and temporal data are given. The new species is assigned to the &lt;i&gt;Cycloneda&lt;/i&gt; &lt;i&gt;germainii&lt;/i&gt; species complex and integrated into the key to species of this group (González and Vandenberg, 2006).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Coleoptera; Coccinellidae; &lt;i&gt;Cycloneda&lt;/i&gt;; new species; key; South America; Chile</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Natalia</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vandenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>Gonzalez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2008-05-19</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2738.1</id>
+    <title locale="en_US">12 Jan. 2011</title>
+    <volume>2738</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-01-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Descriptions of five new species in the genus &lt;i&gt;Metriaclima &lt;/i&gt;(Teleostei: Cichlidae) from Lake Malaŵi, Africa</title>
+        <abstract locale="en_US">Five new species of rock-dwelling cichlids from Lake Malaŵi are described. All five species phenotypically resemble &lt;i&gt;Metriaclima&lt;/i&gt; &lt;i&gt;aurora&lt;/i&gt; based on the absence of a black band in the dorsal fin and occupying the rock-sand interface of the lake. Differences in overall shape, meristics, and coloration distinguish these new species from each other and from previously described species within this group. The new species &lt;i&gt;Metriaclima&lt;/i&gt; &lt;i&gt;glaucos,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mossambicus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;nkhunguensis,&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;xanthos&lt;/i&gt; originate from the Mozambique coast of the lake, while &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sciasma&lt;/i&gt; is restricted to Tanzanian waters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cichlids; Lake Malaŵi; &lt;i&gt;Metriaclima&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Cichlids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ciccotto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adrianus</firstname>
+          <lastname>Konings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jay</firstname>
+          <middlename>R.</middlename>
+          <lastname>Stauffer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2011-01-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Platyrhina &lt;/i&gt;(Chondrichthys: Platyrhinidae) from the northwestern Pacific, with descriptions of two new species</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Platyrhina&lt;/i&gt; from the northwestern Pacific was reviewed, including a redescription and neotype proposal for &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; (Bloch and Schneider 1801), and the description of two new species. &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;limboonkengi&lt;/i&gt; Tang 1933 is relegated to the synonymy of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sinensis,&lt;/i&gt; both species having two rows of hooked thorns on the mid-dorsum of the tail. Specimens previously widely identified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sinensis,&lt;/i&gt; but characterized by one row of such hooked thorns, represented an undescribed species, herein named &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;tangi&lt;/i&gt; Iwatsuki, Zhang and Nakaya &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;hyugaensis&lt;/i&gt; Iwatsuki, Miyamoto and Nakaya &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; known from specimens limited primarily to the Hyuga Nada Sea, off Miyazaki, the Pacific coast of southern Japan, is similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tangi&lt;/i&gt; in having one row of hooked thorns on the mid-dorsum of the trunk and tail, but differs in having larger hooked thorns, not encircled by light yellow or white pigment on the orbital, nape and scapular regions, and a pair of hooked thorns (absent in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tangi)&lt;/i&gt; anteriorly on the scapular region. Nominal species are discussed and key to northwestern Pacific species of &lt;i&gt;Platyrhina&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; NW Pacific; &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt;; &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;hyugaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Platyrhina&lt;/i&gt; &lt;i&gt;tangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yukio</firstname>
+          <lastname>Iwatsuki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kei</firstname>
+          <lastname>Miyamoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazuhiro</firstname>
+          <lastname>Nakaya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jie</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-40</pages>
+        <date_published>2011-01-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new water mite species of the genus &lt;i&gt;Atractides &lt;/i&gt;Koch (Acari: Hydrachnidia: Hygrobatidae) from Russia</title>
+        <abstract locale="en_US">Four new water mite species in the genus &lt;i&gt;Atractides&lt;/i&gt; are described: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;yaroslavlensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (male, female and larva) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ildicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (female) from streams in the Yaroslavl Province, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;komarovkaensis&lt;/i&gt; (female) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;primoryensis&lt;/i&gt; (female) from the Primory Territory of Russia are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; Hygrobatidae; new species; running waters; Russia</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <middlename>V.</middlename>
+          <lastname>Tuzovskij</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-59</pages>
+        <date_published>2011-01-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First Iranian species of &lt;i&gt;Neosilphitrombium &lt;/i&gt;(Acari: Prostigmata: Neothrombiidae) with a key to world species</title>
+        <abstract locale="en_US">&lt;i&gt;Neosilphitrombium&lt;/i&gt; &lt;i&gt;tenebrionidum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Acari: Neothrombiidae) is described and illustrated from larvae ectoparasitic on &lt;i&gt;Opatroides&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; Brullé, 1832 (Coleoptera: Tenebrionidae) from Mashhad and Gonabad, Razavi Khorasan Province, Iran. It is the first report of the representatives of the genus &lt;i&gt;Neosilphitrombium&lt;/i&gt; from Iran and the first record of the family Tenebrionidae as a host for the genus &lt;i&gt;Neosilphitrombium.&lt;/i&gt; A key to world larval species of &lt;i&gt;Neosilphitrombium&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Neosilphitrombium&lt;/i&gt; &lt;i&gt;tenebrionidum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Tenebrionidae; new host; larva; ectoparasite; Parasitengona</subject>
+          <subject_class locale="en_US">&lt;i&gt;Neosilphitrombium&lt;/i&gt; &lt;i&gt;tenebrionidum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Tenebrionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alireza</firstname>
+          <lastname>Saboori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hamidreza</firstname>
+          <lastname>Hajiqanbar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masoud</firstname>
+          <lastname>Hakimitabar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-01-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2282.1</id>
+    <title locale="en_US">5 Nov. 2009</title>
+    <volume>2282</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Curt Schrottky (18741937): South American entomology at the beginning of the 20th century (Hymenoptera, Lepidoptera, Diptera)</title>
+        <abstract locale="en_US">Curt Schrottky was one the early European entomologists to reside in South America. Caught in the midst of personal and political conflicts, he still amazed to propose 593 new names in Hymenoptera (from sawflies to bees), Diptera (black flies, Simuliidae) and Lepidoptera (tiger moths, Arctiidae) between 1901 and 1922. Many of his primary types (syntypes and holotypes) were originally in his private collection, which were partially destroyed, and the remaining part scattered among multiple institutions. Other type specimens were exchanged before the destruction of his main collection to institutions in South America, USA, and Europe. The present catalog provides a complete list of the taxa proposed by Schrottky, including a bibliography of his 86 entomological publications. The catalog also lists all valid names proposed by Schrottky with details on the nomenclature, sex, type locality, and type repository for 126 known surviving types, representing 23% of all species-group taxa proposed by Schrottky. The remaining types (77%) are most likely lost. A brief biography is followed by a discussion of where to locate and how to treat original types and neotypes of Schrottky.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andrenidae; Apidae; Argidae; Braconidae; Chalcididae; Cimbicidae; Colletidae; Crabronidae; Eulophidae; Eupelmidae; Eurytomidae; Gasteruptiidae; Halictidae; Ichneumonidae; Megachilidae; Monomachidae; Mutillidae; Pergidae; Podagrionidae; Pompilidae; Scoliidae; Sphecidae; Tenthredinidae; Tiphiidae; Torymidae; Trigonalyidae; Vespidae; Simuliidae; Arctiidae; biography</subject>
+          <subject_class locale="en_US">Andrenidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claus</firstname>
+          <lastname>Rasmussen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bolívar</firstname>
+          <middlename>Rafael</middlename>
+          <lastname>Garcete-Barrett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>B.</middlename>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2009-11-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ten new species of &lt;i&gt;Wakarumbia &lt;/i&gt;Bocak, 1999 from Sulawesi (Coleoptera: Lycidae), with a key to males of the genus</title>
+        <abstract locale="en_US">The recently collected material of the genus &lt;i&gt;Wakarumbia&lt;/i&gt; Bocak, 1999 from Sulawesi revealed a high number of endemic species. Ten new species are recognized: &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;aurea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;decepta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;hanae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;hirsuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;kundratai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;linearis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;obscura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;obstinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;pendolensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;pseudofasciata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Their descriptions are provided and male genitalia are figured. The key to males of all 31 species of &lt;i&gt;Wakarumbia&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; Coleoptera; Lycidae; &lt;i&gt;Wakarumbia&lt;/i&gt;; key; Sulawesi</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <lastname>Dvorak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>Bocak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2009-11-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The bee genus &lt;i&gt;Ruizantheda &lt;/i&gt;(Hymenoptera: Halictidae), its scope and description of a new species</title>
+        <abstract locale="en_US">The South American caenohalictine genus &lt;i&gt;Ruizantheda&lt;/i&gt; is understood to comprise &lt;i&gt;Halictus&lt;/i&gt; &lt;i&gt;proximus&lt;/i&gt; Spinola, &lt;i&gt;Halictus&lt;/i&gt; &lt;i&gt;divaricatus&lt;/i&gt; Vachal, and the new species &lt;i&gt;Ruizantheda&lt;/i&gt; &lt;i&gt;centralis&lt;/i&gt; from Argentina. The new species is intermediate between the first two, bridging the gap in morphology observed in these rather different species. Diagnostic characteristics for the genus are indicated; a key and a comparative table of characters for the three species are given. The new species, which occurs in the provinces of Santa Fe, Santiago del Estero and Chaco, in Argentina, is described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caenohalictina; Argentina; Brazil; Chile; taxonomy</subject>
+          <subject_class locale="en_US">Caenohalictina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rocio</firstname>
+          <middlename>Ana</middlename>
+          <lastname>Gonzalez-Vaquero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arturo</firstname>
+          <lastname>Roig-Alsina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2009-11-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

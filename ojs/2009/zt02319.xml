@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2319.1</id>
+    <title locale="en_US">22 Dec. 2009</title>
+    <volume>2319</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The pycnogonid fauna (Pycnogonida, Arthropoda) of the Tayrona National Park and adjoining areas on the Caribbean coast of Colombia </title>
+        <abstract locale="en_US">A complete account on the shallow-water Pycnogonida known up to now from depths between 0-30 m in the Caribbean Sea of Colombia is presented. Almost all the information included herein is based upon the data obtained by the first author during a 14-month fieldwork programme carried out at the Instituto de Investigaciones Marinas de Punta de Betin (INVEMAR) in Santa Marta, Magdalena department. 5312 specimens of 50 species, including 7 species new to science in the genera &lt;i&gt;Ammothella&lt;/i&gt; (2), &lt;i&gt;Tanystylum&lt;/i&gt; (1), &lt;i&gt;Callipallene&lt;/i&gt; (2), &lt;i&gt;Anoplodactylus&lt;/i&gt; (1) and &lt;i&gt;Endeis&lt;/i&gt; (1), were collected from 179 samples at 45 stations. The area covered by this research ranges in the west from Punta Brava, just near the airport of Santa Marta, eastward to Punta el Diamante at the eastern border of the Tayrona National Park, extending over about 70 km of coastline. Additionally, 6 other pycnogonid species reported previously from outside this area, which are also known from the Caribbean Sea of Colombia are briefly reviewed. The species from the Santa Marta area are described in detail, with comments on their intraspecific affinities, habitat preference, phenology, vertical distribution and geographic distribution. Quantitative samples were taken approximately monthly at three stations at Bahía Concha over one year to compare the species composition from substrata of different structure, namely stands of the brown algae &lt;i&gt;Digenia&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt; and &lt;i&gt;Sargassum&lt;/i&gt; &lt;i&gt;cymosum&lt;/i&gt; on a dead &lt;i&gt;Porites&lt;/i&gt; reef, and a stand of &lt;i&gt;Thalassia&lt;/i&gt; &lt;i&gt;testudinum,&lt;/i&gt; which was interspersed with dead coral substratum and coralline algae. Number of species at all of these stations was found to be similar and species composition of the two species of brown algae almost identical. &lt;i&gt;Achelia&lt;/i&gt; &lt;i&gt;sawayai&lt;/i&gt; was by far the most numerous species in samples of &lt;i&gt;Digenia&lt;/i&gt; &lt;i&gt;simplex,&lt;/i&gt; whereas &lt;i&gt;Tanystylum&lt;/i&gt; &lt;i&gt;acuminatum&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;isabellae&lt;/i&gt; were most numerous in &lt;i&gt;Sargassum&lt;/i&gt; &lt;i&gt;cymosum.&lt;/i&gt; Species composition in &lt;i&gt;Thalassia&lt;/i&gt; was rather different from that of the algal vegetation. In &lt;i&gt;Thalassia,&lt;/i&gt; &lt;i&gt;Ammothella&lt;/i&gt; &lt;i&gt;appendiculata&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;exornata&lt;/i&gt; were the commonest species which were not found in &lt;i&gt;Digenia&lt;/i&gt; and &lt;i&gt;Sargassum.&lt;/i&gt; No evidence was found that reproduction of pycnogonids in this tropical area is limited to certain periods of the year. One might presume a shorter reproductive cycle only for &lt;i&gt;Tanystylum&lt;/i&gt; &lt;i&gt;acuminatum,&lt;/i&gt; because ovigerous males appeared at the end of the rainy season in December and remained until May, therefore for most of the duration of the dry season. Generally, number of species and specimens collected at all three quantitative sampling stations was rather variable from month to month, implying a heterogenous distribution within the substratum, which surely depend on the distribution of their food. Zoogeographic patterns are at present almost impossible to interpret, owing to the limited information available on the distribution of most species. However, it can be seen that the Santa Marta region has a very high number of shallowwater pycnogonid species, compared with the fauna of Panamá and Belize, where only 34 and 33 species have been recorded, respectively. However, the high number of species found in the Santa Marta area may be a result of the extensive collecting efforts made over a period of more than one year.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pycnogonid fauna; shallow water; Caribbean coast; Colombia; &lt;i&gt;Ammothella&lt;/i&gt;; &lt;i&gt;Tanystylum&lt;/i&gt;; &lt;i&gt;Callipallene&lt;/i&gt;; &lt;i&gt;Anoplodactylus&lt;/i&gt;; &lt;i&gt;Endeis&lt;/i&gt;; ecology; phenology</subject>
+          <subject_class locale="en_US">Pycnogonid fauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hans-Georg</firstname>
+          <lastname>Müller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Franz</firstname>
+          <lastname>Krapp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-138</pages>
+        <date_published>2009-12-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

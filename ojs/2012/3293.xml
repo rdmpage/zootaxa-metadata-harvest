@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3293.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3293</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Lower Ordovician (upper Floian) bathyurid trilobite &lt;i&gt;Aponileus &lt;/i&gt;Hu, with species from Utah, Texas, and Greenland</title>
+        <abstract locale="en_US">The previously monotypic bathyurid trilobite &lt;i&gt;Aponileus&lt;/i&gt; Hu, 1963, was known only from poorly preserved material of itstype species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;latus,&lt;/i&gt; and was interpreted as a junior subjective synonym of &lt;i&gt;Psephosthenaspis&lt;/i&gt; Whittington. New speciesfrom the upper Floian (Blackhillsian) Fillmore Formation of western Utah belong to &lt;i&gt;Aponileus&lt;/i&gt; and help demonstrate thatthe genus is an entirely Lower Ordovician (upper Floian) clade phylogenetically separate from the Middle Ordovician(Dapingian) &lt;i&gt;Psephosthenaspis.&lt;/i&gt; Species of either group have broadly similar morphology, but the species of &lt;i&gt;Psephosthe-&lt;/i&gt;&lt;i&gt;naspis&lt;/i&gt; which most closely resembles those of &lt;i&gt;Aponileus&lt;/i&gt; is the youngest and most derived member, and the similarities areconvergent. &lt;i&gt;Psephosthenaspis&lt;/i&gt; roots among a group of heavily tuberculate, mostly undescribed, upper Floian species, oneof which is briefly illustrated for comparison. The species most resembling some species of &lt;i&gt;Aponileus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;glabrior,&lt;/i&gt; is il-lustrated on the basis of new silicified material which extends its range from the upper Juab Formation into the base of theKanosh Formation. New Blackhillsian species are &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;laikaae&lt;/i&gt; (Fillmore Formation; &lt;i&gt;Presbynileus&lt;/i&gt; &lt;i&gt;ibexensis&lt;/i&gt; Zone), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aasei&lt;/i&gt;(Fillmore Formation; probably &lt;i&gt;Pseudocybele&lt;/i&gt; &lt;i&gt;paranasuta&lt;/i&gt; Zone), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;belkaae,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;strelkaae,&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ugolekae&lt;/i&gt; (all Wah WahFormation; "Pseudocybele &lt;i&gt;nasuta&lt;/i&gt; Zone"). &lt;i&gt;Aponileus?&lt;/i&gt; &lt;i&gt;veterokae&lt;/i&gt; n. sp., from high in the &lt;i&gt;"Pseudocybele&lt;/i&gt; &lt;i&gt;nasuta&lt;/i&gt; Zone" ofthe Wah Wah Formation, is tentatively assigned. &lt;i&gt;Bolbocephalus&lt;/i&gt; &lt;i&gt;glaber&lt;/i&gt; Poulsen, 1927, from the Nunatami Formation ofnorthwest Greenland, is poorly known but is also a member of &lt;i&gt;Aponileus,&lt;/i&gt; and is similar in morphology to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;aasei;&lt;/i&gt; it is revised on the basis of reillustrated type material. Phylogenetic analysis indicates that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;laikaae&lt;/i&gt; is the basalspecies, followed by a sister pair of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;belkaae&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;strelkaae.&lt;/i&gt; These are sister to a pair of subclades, the sister pair of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ugolekae&lt;/i&gt; and &lt;i&gt;A.?&lt;/i&gt; &lt;i&gt;veterokae,&lt;/i&gt; and an effaced group lacking genal spines including &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aasei,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;latus,&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;glaber.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Silicified; Utah; Texas; Greenland; taxonomy; cladistics</subject>
+          <subject_class locale="en_US">Silicified</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jonathan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Adrain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neo</firstname>
+          <middlename>E. B.</middlename>
+          <lastname>Mcadams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-67</pages>
+        <date_published>2012-04-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2508.1</id>
+    <title locale="en_US">16 Jun. 2010</title>
+    <volume>2508</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Cytotaxonomy and DNA taxonomy of lizards (Squamata, Sauria) from a tropical dry forest in the Chamela-Cuixmala Biosphere Reserve on the coast of Jalisco, Mexico </title>
+        <abstract locale="en_US">Tropical dry forests contribute to a substantial proportion of the herpetological diversity of Mexico. The south-western coast of Jalisco is one of the more important areas by number of endemics and the high presence of endangered and restricted species. In this paper we used a combined karyological and molecular genetic (sequences of mtDNA genes for NDH2, cytb or 16S rDNA) approach to genetically characterize 13 lizard species belonging to seven families that inhabit the dry forests of the Chamela-Cuixmala Biosphere Reserve (Anguidae: &lt;i&gt;Gerrhonotus&lt;/i&gt; cf. &lt;i&gt;liocephalus;&lt;/i&gt; Eublepharidae: &lt;i&gt;Coleonyx&lt;/i&gt; &lt;i&gt;elegans;&lt;/i&gt; Phyllodactylidae: &lt;i&gt;Phyllodactylus&lt;/i&gt; &lt;i&gt;lanei;&lt;/i&gt; Gekkonidae: &lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;frenatus;&lt;/i&gt; Phrynosomatidae: &lt;i&gt;Sceloporus&lt;/i&gt; &lt;i&gt;melanorhinus,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;utiformis,&lt;/i&gt; &lt;i&gt;Urosaurus&lt;/i&gt; &lt;i&gt;bicarinatus;&lt;/i&gt; Polychrotidae: &lt;i&gt;Norops&lt;/i&gt; &lt;i&gt;nebulosus;&lt;/i&gt; Scincidae: &lt;i&gt;Mabuya&lt;/i&gt; &lt;i&gt;unimarginata,&lt;/i&gt; &lt;i&gt;Plestiodon&lt;/i&gt; &lt;i&gt;parvulus;&lt;/i&gt; Teiidae: &lt;i&gt;Ameiva&lt;/i&gt; &lt;i&gt;undulata,&lt;/i&gt; &lt;i&gt;Aspidoscelis&lt;/i&gt; &lt;i&gt;communis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lineattissima).&lt;/i&gt; The karyotypes of six species were here described for the first time (G. &lt;i&gt;liocephalus,&lt;/i&gt; 2n = 38, 14 macrochromosomes and 24 microcromosomes; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;elegans,&lt;/i&gt; 2n = 24 FN = 26; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;nebulosus&lt;/i&gt; 2n = 30, 13 macroand 17 microchromosomes; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;unimarginata&lt;/i&gt; 2n = 32, 18 macroand 14 microchromosomes; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; 2n = 26, 12 macroand 14 microchromosomes; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;undulata&lt;/i&gt; 2n = 50, 26 macroand 24 microchromosomes). Chromosomal heteromorphism was found in &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;elegans,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;nebulosus,&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melanorhinus.&lt;/i&gt; For &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lanei&lt;/i&gt; we found a karyotype different from that previously described in other localities. This variation matched with a high genetic divergence usually found in different species. The DNA typing of mtDNA genes allowed the identification of the taxonomic affinities of five Mexican endemic species, namely: &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;bicarinatus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nebulosus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;parvulus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lineattissima&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;communis.&lt;/i&gt; The specimen of &lt;i&gt;Gerrhonotus&lt;/i&gt; from Chamela is very divergent by 16S rDNA and probably does not belong to the so far studied species of &lt;i&gt;Gerrhonotus.&lt;/i&gt; High genetic divergence has been also observed between samples of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;undulata&lt;/i&gt; and &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;bicarinatus&lt;/i&gt; from different regions. In these latter two cases, additional data are needed to understand the taxonomic status of these populations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity hotspot; cytogenetic; dry forest; molecular systematic; NDH2; Reptilia; 16S rDNA</subject>
+          <subject_class locale="en_US">biodiversity hotspot</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Riccardo</firstname>
+          <lastname>Castiglia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Flavia</firstname>
+          <lastname>Annesi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandra</firstname>
+          <middlename>M. R.</middlename>
+          <lastname>Bezerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrés</firstname>
+          <lastname>García</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <lastname>Flores-Villela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2010-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new record of &lt;i&gt;Sphaeroma annandalei &lt;/i&gt;Stebbing, 1911 (Crustacea: Isopoda: Sphaeromatidae) from the Persian Gulf, and description of a new related species (&lt;i&gt;Sphaeroma silvai &lt;/i&gt;nov. sp.) from the South Atlantic Ocean</title>
+        <abstract locale="en_US">Two similar species of &lt;i&gt;Sphaeroma&lt;/i&gt; (Sphaeromatidae: Isopoda) are studied and described from two different Oceans. &lt;i&gt;Sphaeroma&lt;/i&gt; &lt;i&gt;annandalei&lt;/i&gt; Stebbing, 1911 is redescribed from different localities of the Indian Ocean, and &lt;i&gt;Sphaeroma&lt;/i&gt; &lt;i&gt;silvai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the South Atlantic Ocean. &lt;i&gt;Sphaeroma&lt;/i&gt; &lt;i&gt;silvai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is easily distinguished from &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;annandalei&lt;/i&gt; by its pereopod 5, where the basis carries a well extended inferior lobe; the shape of the pleotelson and the tuberculation of pereonites and pleon. Both species are distinguished from other species of the genus by transverse ridges on their pereonites. The known distribution of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;annandalei&lt;/i&gt; is limited to the northern areas of the Indian Ocean, from the Persian Gulf to Malaysia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Isopoda; Sphaeromatidae; &lt;i&gt;Sphaeroma&lt;/i&gt;; new species; Iran; Brazil</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valiallah</firstname>
+          <lastname>Khalaji-Pirbalouty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johann-Wolfgang</firstname>
+          <lastname>Wägele</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-44</pages>
+        <date_published>2010-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Canga renatae&lt;/i&gt;, a new genus and species of Cyphophthalmi from Brazilian Amazon caves (Opiliones: Neogoveidae)</title>
+        <abstract locale="en_US">A new genus and species of Cyphophthalmi, &lt;i&gt;Canga&lt;/i&gt; &lt;i&gt;renatae&lt;/i&gt; gen. nov., sp. nov., is described in the family Neogoveidae from a system of caves in the Serra de Carajás, Pará State, Brazil. &lt;i&gt;Canga&lt;/i&gt; can be easily distinguished from other neogoveid genera by the presence of a dentate claw on leg I, a unique character among known cyphophthalmid species, and by the free coxa II, which is fused to coxae III and IV in all the other neogoveid species except for the North American &lt;i&gt;Metasiro.&lt;/i&gt; The new genus also differs from other Neotropical neogoveids in the lack of a dorsal crest on the chelicerae and in the lack of opisthosomal glands. The finding of a neogoveid in the Pará State greatly increases the known distribution of South American cyphophtalmids into the Eastern Brazilian Amazon forest.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; Neotropics; Canga caves; Amazonia</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcio</firstname>
+          <middlename>Bernardino</middlename>
+          <lastname>Dasilva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Pinto-Da-Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gonzalo</firstname>
+          <lastname>Giribet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-55</pages>
+        <date_published>2010-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Huntsman spiders (Araneae: Sparassidae) from Xishuangbanna Rainforest, China</title>
+        <abstract locale="en_US">An extensive faunal survey of spiders from Xishuangbanna was carried out over one year (July 2006–August 2007) using various collecting techniques (ground pitfall traps, trunk pitfall traps, fogging and hand collecting). Three known Sparassidae species were collected: &lt;i&gt;Heteropoda&lt;/i&gt; &lt;i&gt;tetrica&lt;/i&gt; Thorell, 1897, &lt;i&gt;Pseudopoda&lt;/i&gt; &lt;i&gt;songi&lt;/i&gt; Jäger, 2008, and &lt;i&gt;Pseudopoda&lt;/i&gt; &lt;i&gt;namkhan&lt;/i&gt; Jäger, Pathoumthong &amp; Vedel, 2006, the latter reported for the first time from China. &lt;i&gt;Thelcticopis&lt;/i&gt; &lt;i&gt;zhengi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described and illustrated based on males and females. All specimens are deposited in the Institute of Zoology, Chinese Academy of Sciences in Beijing (IZCAS) and Research Institute Senckenberg in Frankfurt am Main (SMF).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; fauna; new species; new record; Yunnan</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jie</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Jäger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-64</pages>
+        <date_published>2010-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Leptodactylus pentadactylus &lt;/i&gt;(Anura: Leptodactylidae) from Central Amazonia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <lastname>Menin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Albertina</firstname>
+          <middlename>P.</middlename>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Domingos</firstname>
+          <middlename>J.</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2010-06-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

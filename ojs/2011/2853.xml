@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2853.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2853</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision of the genus &lt;i&gt;Cerocoma &lt;/i&gt;Geoffroy, 1762 (Coleoptera: Meloidae: Cerocomini)</title>
+        <abstract locale="en_US">The taxonomy of the Palaearctic genus &lt;i&gt;Cerocoma&lt;/i&gt; is revised using a classical morphological approach. A catalogue to species with current synonyms, type information and repositories is provided as well as diagnostic keys to species (male and female) and subspecies (only male), illustrations of male dimorphic and diagnostic characters and detailed distribution data, including literature and collection records. The biology of &lt;i&gt;Cerocoma&lt;/i&gt; is summarised, based on available literature and original field observations. Three new species are described and figured: &lt;i&gt;Cerocoma&lt;/i&gt; &lt;i&gt;confusa&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; (= &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;syriaca&lt;/i&gt; Auctorum), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;longiseta&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;martae&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; New status is assessed for two taxa: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;latreillei&lt;/i&gt; &lt;i&gt;sterbai&lt;/i&gt; &lt;b&gt;stat.n.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;marginiventris&lt;/i&gt; &lt;b&gt;stat.n.&lt;/b&gt; New synonymies are proposed as follows: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;syriaca&lt;/i&gt; Abeille de Perrin, 1880 = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;barthelemyi&lt;/i&gt; Baudi, 1878 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;latreillei&lt;/i&gt; &lt;i&gt;schah&lt;/i&gt; Kaszab, 1968 = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;latreillei&lt;/i&gt; &lt;i&gt;sterbai&lt;/i&gt; Mařan, 1944 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;scovitzi&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; Dvořák, 1993 = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;scovitzi&lt;/i&gt; &lt;i&gt;intermedia&lt;/i&gt; Mařan, 1944 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Adult morphological characters and molecular datasets (nuclear ITS2 and mitochondrial 16S) are used, separately and combined, to carry out the first attempt to elucidate the &lt;i&gt;Cerocoma&lt;/i&gt; phylogeny, using Maximum Parsimony and Bayesian Inference. The resulted phylogeny supports the arrangement of &lt;i&gt;Cerocoma&lt;/i&gt; into five subgenera: &lt;i&gt;Cerocomina,&lt;/i&gt; &lt;i&gt;Mesocerocoma&lt;/i&gt; and &lt;i&gt;Metacerocoma&lt;/i&gt; as previously defined; the nominate subgenus, restricted to the species group of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;schaefferi&lt;/i&gt; Linnaeus, 1758; and &lt;i&gt;Meloides&lt;/i&gt; Piller &amp; Mitterpacher, 1783, recently resurrected on morphological data only.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; &lt;i&gt;Cerocomina&lt;/i&gt;; &lt;i&gt;Meloides&lt;/i&gt;; &lt;i&gt;Mesocerocoma&lt;/i&gt;; &lt;i&gt;Metacerocoma&lt;/i&gt;; taxonomy; phylogeny; morphology; DNA; 16S; ITS2; key; distribution; biology</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Federica</firstname>
+          <lastname>Turco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bologna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-71</pages>
+        <date_published>2011-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

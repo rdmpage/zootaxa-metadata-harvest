@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2001.1</id>
+    <title locale="en_US">4 Feb. 2009</title>
+    <volume>2001</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Tarsal spinules and setae of vaejovid scorpions (Scorpiones: Vaejovidae) </title>
+        <abstract locale="en_US">The relative importance of tarsal characters in vaejovid scorpions has long been neglected. The spinules and setae of the third leg basitarsus and telotarsus of the North American scorpion family Vaejovidae are illustrated, described, and compared. Nomenclature for tarsal spinules and setae is included. Variation in setal numbers and patterns within taxonomic groups, including some species, is addressed. Certain tarsal setal and spinule patterns are found to provide good characters at the genus, species group, and species levels. Over 400 specimens representing over half of the species in the family Vaejovidae were examined for setal and spinule characters. The majority of these specimens were involved in an analysis of telotarsal spinule counts of each leg. The most consistent characters that have taxonomic value were found on the telotarsus, including the relative numbers of the retroinferior and proinferior setae, the retroinferior terminal and proinferior terminal setae, and the numbers of the distal spinules of the ventromedian telotarsus surface. Other characters involving the basitarsus and additional telotarsus characters are addressed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">scorpions; Vaejovidae; arachnids; leg; tarsal setae; tarsal spinules; telotarsus; basitarsus</subject>
+          <subject_class locale="en_US">scorpions</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kari</firstname>
+          <middlename>J.</middlename>
+          <lastname>Mcwest</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-126</pages>
+        <date_published>2009-02-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

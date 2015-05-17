@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1746.1</id>
+    <title locale="en_US">11 Apr. 2008</title>
+    <volume>1746</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-04-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Toxoptera&lt;/i&gt; Koch (Hemiptera: Aphididae), a generic account, description of a new species from China, and keys to species</title>
+        <abstract locale="en_US">The aphid genus &lt;i&gt;Toxoptera&lt;/i&gt; Koch is reviewed. &lt;i&gt;Toxoptera&lt;/i&gt; &lt;i&gt;chaetosiphon&lt;/i&gt; sp. nov. is described from &lt;i&gt;Camellia&lt;/i&gt; &lt;i&gt;oleifera&lt;/i&gt; in Guangxi, China. Keys to known species of &lt;i&gt;Toxoptera&lt;/i&gt; in China are provided. The type specimens studied are deposited in the Zoological Museum, Institute of Zoology, the Chinese Academy of Sciences, Beijing, China and the Natural History Museum, London, UK.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Toxoptera&lt;/i&gt;; Hemiptera; Aphididae; new species; key; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Toxoptera&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gexia</firstname>
+          <lastname>Qiao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jianfeng</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guangxue</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-14</pages>
+        <date_published>2008-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular systematics and biogeography of the genus &lt;i&gt;Zizina&lt;/i&gt; (Lepidoptera: Lycaenidae)</title>
+        <abstract locale="en_US">Butterflies of the genus &lt;i&gt;Zizina&lt;/i&gt; are widely distributed in all zoogeographical regions except the New World (North and South America) and the northern part of Eurasia. We address some of the problems in regard to the taxonomy and biogeography of the genus. We inferred phylogenetic relationships for all four species in the current classification of this genus from the ND5 region of mtDNA. From our molecular analyses and morphological evidence, we concluded that this genus contains three species; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;otis,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;oxleyi&lt;/i&gt; and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;emelina.&lt;/i&gt; The status of the latter species is revised, while &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;labradus&lt;/i&gt; and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;antanossa,&lt;/i&gt; which were formerly treated as specifically distinct, are regarded as subspecies of &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;otis.&lt;/i&gt; Based on our analyses, we also employ phylogeography to discuss possible speciation events in the genus. Each of the three &lt;i&gt;Zizina&lt;/i&gt; species appears to have branched from the common ancestor, with a divergence time estimated to be about 2.5 million years ago. The ancestors of &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;oxleyi&lt;/i&gt; and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;emelina&lt;/i&gt; are postulated to have adapted to a temperate climate, diverged in the northern and southern hemispheres, and resulted in the extant species from New Zealand and East Asia, respectively. In contrast, the ancestor of &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;otis&lt;/i&gt; adapted mainly to tropical and subtropical zones, and the extant &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;otis&lt;/i&gt; dispersed into the Afrotropical, Oriental and Australian regions. Feeding adaptations in the larvae also might have had an effect on speciation within &lt;i&gt;Zizina.&lt;/i&gt; In addition, our results indicated that there is a possibility that the distribution of the New Zealand &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;oxleyi&lt;/i&gt; was reduced in extent by the introduction of &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;otis,&lt;/i&gt; which immigrated recently from Australia or its surroundings.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">classification; conservation; evolution; introduction; lycaenid butterfly; molecular clock; molecular phylogeny; mtDNA; phylogeography; Polyommatini; speciation</subject>
+          <subject_class locale="en_US">classification</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masaya</firstname>
+          <lastname>Yago</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norio</firstname>
+          <lastname>Hirai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariko</firstname>
+          <lastname>Kondo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tetsuo</firstname>
+          <lastname>Tanikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Minoru</firstname>
+          <lastname>Ishii</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Min</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rei</firstname>
+          <lastname>Ueshima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>15-38</pages>
+        <date_published>2008-04-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kerteszmyia&lt;/i&gt;, a new genus of Pachygastrinae from the Neotropical Region (Diptera: Stratiomyidae)</title>
+        <abstract locale="en_US">A new genus and species, &lt;i&gt;Kerteszmyia&lt;/i&gt; &lt;i&gt;ecuadora&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; (Diptera: Stratiomyidae, Pachygastrinae) is described from material from Ecuador (type locality), Venezuela, and Costa Rica. A key to the known Neotropical genera of Pachygastrinae with two or more scutellar spines is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Kerteszmyia&lt;/i&gt; &lt;i&gt;ecuadora&lt;/i&gt;; new species; Ecuador; Venezuela; Costa Rica; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Kerteszmyia&lt;/i&gt; &lt;i&gt;ecuadora&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Norman</firstname>
+          <middlename>E.</middlename>
+          <lastname>Woodley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-45</pages>
+        <date_published>2008-04-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval morphology and biology of three European species of &lt;i&gt;Megastigmus&lt;/i&gt; (Hymenoptera, Torymidae, Megastigminae) parasitoids of gall wasps, including a comparison with the larvae of two seed-infesting species</title>
+        <abstract locale="en_US">The morphology of the terminal larvae of three species of &lt;i&gt;Megastigmus&lt;/i&gt; parasitoids of gall-wasps (Hym., Cynipidae) in Europe, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dorsalis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stigmatizans&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dumicola,&lt;/i&gt; is described for the first time based on SEM images. Larvae of two phytophagous, seed-infesting species of this genus, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pistaciae&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;aculeatus,&lt;/i&gt; are also described and compared with the larvae of the parasitoid species. The morphological characters that differentiate larvae of &lt;i&gt;Megastigmus&lt;/i&gt; from other torymid larvae include: strong mandibles bearing four or five teeth, labrum fringed on the anterior margin, and reduced pilosity on the body and head. A key for the identification of the larvae of the five study species is presented. The larvae of the entomophagous &lt;i&gt;Megastigmus&lt;/i&gt; species share an important diagnostic character, a deep medial frontal pit not present in the larvae of the seed-infesting species. Biological data of the species studied are discussed and illustrated with digital photographs. While the larvae of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dumicola&lt;/i&gt; are parasitic in twig galls of species of &lt;i&gt;Plagiotrochus&lt;/i&gt; on evergreen oaks of the section &lt;i&gt;Ilex,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dorsalis&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stigmatizans&lt;/i&gt; are associated with galls of many cynipid genera induced on &lt;i&gt;Quercus&lt;/i&gt; of the section &lt;i&gt;Quercus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chalcidoidea; Torymidae; larva; parasitoids; cynipid-galls; seed-infesting; &lt;i&gt;Quercus&lt;/i&gt;; &lt;i&gt;Pistacia&lt;/i&gt;; &lt;i&gt;Rosa&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Chalcidoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jose</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Nieves-Aldrey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Hernandez</middlename>
+          <lastname>Nieves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>F.</middlename>
+          <lastname>Gomez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-60</pages>
+        <date_published>2008-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Neotropical sharpshooter genus &lt;i&gt;Spinagonalia&lt;/i&gt; (Insecta, Hemiptera, Cicadellidae, Cicadellinae) with description of a new species from &lt;i&gt;Citrus&lt;/i&gt; orchards and grapevines</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodney</firstname>
+          <middlename>Ramiro</middlename>
+          <lastname>Cavichioli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2008-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the ectoparasitic biting midge, &lt;i&gt;Atrichopogon &lt;/i&gt;(&lt;i&gt;Meloehelea&lt;/i&gt;) &lt;i&gt;oedemerarum &lt;/i&gt;Stora from the Neotropical region (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrea</firstname>
+          <lastname>Tothova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-67</pages>
+        <date_published>2008-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additions to the description of the genus &lt;i&gt;Brevisiphonaphis&lt;/i&gt; (Hemiptera, Aphididae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Stekolshchikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Qiao</firstname>
+          <lastname>Ge-Xia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2008-04-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

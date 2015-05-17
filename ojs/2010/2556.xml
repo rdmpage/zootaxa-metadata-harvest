@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2556.1</id>
+    <title locale="en_US">2 Aug. 2010</title>
+    <volume>2556</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Muscidae (Diptera) of Vanuatu</title>
+        <abstract locale="en_US">The Muscidae of Vanuatu are reviewed. All the genera and recorded species are diagnosed and an identification key is given. The work was carried out in the Muséum national d’Histoire naturelle (Paris, France), where material belonging to that museum and also a large collection from the Bishop Museum (Honolulu, USA) were studied. A total of 35 species, 4 of them endemic, were recognized, including two species newly described, &lt;i&gt;Dichaetomyia&lt;/i&gt; &lt;i&gt;univittata,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Parvisquama&lt;/i&gt; &lt;i&gt;vanuatuensis,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The following genera are recorded for the first time: &lt;i&gt;Cephalispa&lt;/i&gt; Malloch, &lt;i&gt;Coenosia&lt;/i&gt; Meigen, &lt;i&gt;Helina&lt;/i&gt; Robineau-Desvoidy, &lt;i&gt;Lispocephala&lt;/i&gt; Pokorny, &lt;i&gt;Musca&lt;/i&gt; Linnaeus and &lt;i&gt;Stomoxys&lt;/i&gt; Geoffroy. The following species are recorded for the first time: &lt;i&gt;Atherigona&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; Karl, &lt;i&gt;Cephalispa&lt;/i&gt; &lt;i&gt;commoni&lt;/i&gt; (Paramonov), &lt;i&gt;Coenosia&lt;/i&gt; &lt;i&gt;pumilio&lt;/i&gt; Stein, &lt;i&gt;Helina&lt;/i&gt; &lt;i&gt;flavoextrema&lt;/i&gt; Couri, Pont &amp; Daugeron, &lt;i&gt;Limnophora&lt;/i&gt; &lt;i&gt;longiantennata&lt;/i&gt; Couri, Pont &amp; Daugeron (male described for the first time), &lt;i&gt;Lispe&lt;/i&gt; &lt;i&gt;nicobarensis&lt;/i&gt; Schiner, &lt;i&gt;Lispocephala&lt;/i&gt; &lt;i&gt;pectinata&lt;/i&gt; (Stein), &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;domestica&lt;/i&gt; Linnaeus, &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;ventrosa&lt;/i&gt; Wiedemann, &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;vetustissima&lt;/i&gt; Walker and &lt;i&gt;Stomoxys&lt;/i&gt; &lt;i&gt;calcitrans&lt;/i&gt; (Linnaeus). A brief discussion on the composition of the fauna is also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Vanuatu; Diptera; Muscidae; descriptions; taxonomy</subject>
+          <subject_class locale="en_US">Vanuatu</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcia</firstname>
+          <middlename>S.</middlename>
+          <lastname>Couri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adrian</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pont</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christophe</firstname>
+          <lastname>Daugeron</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2010-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the immature female instars of &lt;i&gt;Ceroplastes rusci &lt;/i&gt;(Linnaeus) (Hemiptera: Coccidae)</title>
+        <abstract locale="en_US">The immature female instars of the fig wax scale, &lt;i&gt;Ceroplastes&lt;/i&gt; &lt;i&gt;rusci&lt;/i&gt; (L.), are redescribed and illustrated here with the aim of improving our knowledge on its morphology and phenology by the correct identification of the pest stages present on the host plant. A key to different instars is also provided. The biology of this species, which has recently increased in abundance in fig cultivation areas in Messinia (Greece), is briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Soft scales; fig wax scale; identification key; female nymphs morphology</subject>
+          <subject_class locale="en_US">Soft scales</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giuseppina</firstname>
+          <lastname>Pellizzari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessio</firstname>
+          <lastname>Rainato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <middlename>J.</middlename>
+          <lastname>Stathas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-50</pages>
+        <date_published>2010-08-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Unravelling phylogenetic relationships among regionally co-existing species: &lt;i&gt;Hydropsyche &lt;/i&gt;species (Trichoptera: Hydropsychidae) in the Loire River</title>
+        <abstract locale="en_US">Taxonomy is undoubtedly complementary to other fields in biology such as ecology, and both ecologists and taxonomists increasingly acknowledge that they can profit from phylogenetic ecology or ecological phylogeny, respectively. However, such mutual relations between these disciplines are constrained by traditional focuses on different operational scales: taxonomists are more familiar with large scales (e.g., global, continental, many species of a given clade), whereas ecologists are more familiar with small scales (regional, ecosystems, habitats, few species of a given clade). To foster mutually fruitful, 2-way exchanges between taxonomy and ecology at such smaller scales requires assessments of the small-scale performance of taxonomic practices so far used at larger scales. Such assessments are the objective of this study. To combine quantified ecology and phylogeny at the smaller scale, we designed a research project using 9 species of &lt;i&gt;Hydropsyche&lt;/i&gt; (Trichoptera) from the Loire River (i.e., we focus on the regional scale). Here, we tried to unravel the phylogenetic relationships of this regional set of species using (1) many different characters (molecular and morphological characters of larvae and adults), (2) taxonomic congruence instead of total evidence (as the former provides more opportunities for future research on links between different data sets), and (3) an explicit data matrix and analysis methods that are commonly recommended for phylogenetic studies (e.g., maximum parsimony, maximum likelihood, bootstrapping), and we also included traditional, parsimonious, phylogenetic reasoning. Combining these elements, we obtained the following information for the regional &lt;i&gt;Hydropsyche&lt;/i&gt; representatives from the Loire: (1) phylogenetic clusters of the species, (2) phylogenetic distances among the species, and (3) phylogenetic polarities of characters (plesioto apomorphies) in the species tree. For our future ecological studies, this will enable (1) establishment of priorities in species selections for experimental approaches, (2) establishment of relationships between ecological and phylogenetic distances, and (3) interpretation of ecological response gradients across the species in the context of evolutionary processes such as adaptation, niche conservatism, or fitness. These future ecological studies will provide elements that in turn should be useful for taxonomists wishing to include small-scale ecological data into their analyses.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cladistics; molecular data; morphological data; phylogenetic distance; phylogenetic polarity</subject>
+          <subject_class locale="en_US">cladistics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bernhard</firstname>
+          <lastname>Statzner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christophe</firstname>
+          <middlename>J.</middlename>
+          <lastname>Douady</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lara</firstname>
+          <lastname>Konecny</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sylvain</firstname>
+          <lastname>Dolédec</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2010-08-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

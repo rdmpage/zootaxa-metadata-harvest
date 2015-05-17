@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2399.1</id>
+    <title locale="en_US">15 Mar. 2010</title>
+    <volume>2399</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species in the phyllophorid genus &lt;i&gt; Massinium&lt;/i&gt; (Echinodermata: Holothuroidea) with redescription of &lt;i&gt;Massinium &lt;/i&gt;magnum</title>
+        <abstract locale="en_US">The recently erected phyllophorid genus &lt;i&gt;Massinium&lt;/i&gt; Samyn &amp; Thandar, 2003 hithertho held three species: the southern African endemics &lt;i&gt;Massinium&lt;/i&gt; &lt;i&gt;arthroprocessum&lt;/i&gt; (Thandar, 1989) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;maculosum&lt;/i&gt; Samyn &amp; Thandar, 2003 (type species), and the central Indo-Pacific &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;magnum&lt;/i&gt; (Ludwig, 1882). Careful examination of the incomplete holotype of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;magnum&lt;/i&gt; and material assigned to this species from various museums allowed us to completely redescribe the type, supplement the description with information from entire voucher specimens, and recognise two species new to science, previously assigned to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;magnum.&lt;/i&gt; In addition, the diagnosis of &lt;i&gt;Massinium&lt;/i&gt; is amended to also include &lt;i&gt;Neothyonidium&lt;/i&gt; &lt;i&gt;dissimilis&lt;/i&gt; Cherbonnier, 1988 from Madagascar. The six currently recognised congenerics are keyed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Indo-Pacific; sea cucumbers; Phyllophoridae; &lt;i&gt;Massinium&lt;/i&gt;; new species; new combination</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Samyn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ahmed</firstname>
+          <middlename>S.</middlename>
+          <lastname>Thandar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Vandenspiegel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2010-03-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The millipede genus &lt;i&gt;Anoplodesmus &lt;/i&gt;Pocock, 1895, recorded in Taiwan for the first time, with descriptions of two new species (Diplopoda: Polydesmida: Paradoxosomatidae: Sulciferini)</title>
+        <abstract locale="en_US">The large, South and Southeast Asian millipede genus &lt;i&gt;Anoplodesmus&lt;/i&gt; is rediagnosed and here reported from Taiwan for the first time, with two new, apparently northeasternmost species involved: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spiniger&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aspinosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Both of these congeners differ from each other primarily in several details of gonopod structure. “Takao”, the type locality of &lt;i&gt;Geniculodesmus&lt;/i&gt; &lt;i&gt;inexpectatus&lt;/i&gt; (Attems, 1944), is here rectified as actually being the same as Kaohsiung, Taiwan, not “Mount Takao, Hachiouji-shi, Tokyo Prefecture, Japan”.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Millipede; &lt;i&gt;Anoplodesmus&lt;/i&gt;; &lt;i&gt;Geniculodesmus&lt;/i&gt; &lt;i&gt;inexpectatus&lt;/i&gt;; systematics; new species; Taiwan</subject>
+          <subject_class locale="en_US">Millipede</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chao-Chun</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>I.</middlename>
+          <lastname>Golovatch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mikhaljova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hseuh-Wen</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-30</pages>
+        <date_published>2010-03-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematics of the ectoparasitic quill mites of the genus &lt;i&gt;Aulobia &lt;/i&gt;Kethley, 1970 (Acari: Syringophilidae) with the description of a new species</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Aulobia&lt;/i&gt; is described and figured: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cardueli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; found inside the quill feathers of the Lesser Goldfinch &lt;i&gt;Carduelis&lt;/i&gt; &lt;i&gt;psaltria&lt;/i&gt; (Say) (Passeriformes: Fringillidae) from the USA. Additionally, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dendroicae&lt;/i&gt; (Clark, 1964) is redescribed and &lt;i&gt;Syringophilopsis&lt;/i&gt; &lt;i&gt;sylviettae&lt;/i&gt; Fain &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2000 is transferred to the genus &lt;i&gt;Aulobia.&lt;/i&gt; A key to all named species is given. Distribution and host association of mites of this genus are summarized in tabular form.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; &lt;i&gt;Aulobia&lt;/i&gt;; quill mites; ectoparasites</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hendricks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Greg</firstname>
+          <middlename>S.</middlename>
+          <lastname>Spicer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-41</pages>
+        <date_published>2010-03-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Platocoelotes &lt;/i&gt;species and first description of the male of &lt;i&gt;Platocoelotes&lt;/i&gt; &lt;i&gt;icohamatoides &lt;/i&gt;from Hunan, China (Araneae: Amaurobiidae: Coelotinae)</title>
+        <abstract locale="en_US">We describe a new coelotine species, &lt;i&gt;Platocoelotes&lt;/i&gt; &lt;i&gt;bifidus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and the male of &lt;i&gt;Platocoelotes&lt;/i&gt; &lt;i&gt;icohamatoides&lt;/i&gt; (Peng &amp; Wang) from Hunan Province of China. &lt;i&gt;Platocoelotes&lt;/i&gt; found only in caves (nine species) consistently differ from &lt;i&gt;Platocoelotes&lt;/i&gt; found in surface habitats (or both cave and surface habitats; six species) in some genitalic characters (only one patellar apophysis, very short cymbial furrow, simple spermathecae). Nevertheless, the entire genus is united by the presence of a conductor ventral apophysis on the male palp, a broad, shallow atrium, and distinct epigynal hoods. We briefly discuss the distribution and diversity of cave-associated species of &lt;i&gt;Platocoelotes.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; morphology; Coelotinae; cave spider</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Haiqiang</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiang</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hengmei</firstname>
+          <lastname>Yan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-50</pages>
+        <date_published>2010-03-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Gammarus kesanensis &lt;/i&gt;sp. nov., a new blind amphipod species from Turkey (Amphipoda, Gammaridae), with a key to eyeless &lt;i&gt;Gammarus &lt;/i&gt;species of Europe</title>
+        <abstract locale="en_US">A new blind species of freshwater amphipod, &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;kesanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; collected from Erikli Fountain, Keşan, Turkey, is described and illustrated. The new species belongs to &lt;i&gt;Gammarus&lt;/i&gt; &lt;i&gt;pulex-&lt;/i&gt; group and is the fourth blind species of the group reported from Europe and Turkey. A detailed morphological description and illustrations of the new species are given and differences from related species are discussed. In addition, a key to the blind/eyeless species of &lt;i&gt;Gammarus&lt;/i&gt; genus of Europe is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Freshwater; blind amphipod; &lt;i&gt;Gammarus&lt;/i&gt;; new species; Turkey</subject>
+          <subject_class locale="en_US">Freshwater</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Murat</firstname>
+          <lastname>Özbek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Belgin</firstname>
+          <lastname>Çamur-Elipek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-60</pages>
+        <date_published>2010-03-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">One new species of scorpion belonging to the genus &lt;i&gt;Euscorpiops &lt;/i&gt;Vachon, 1980 from Yunan, China (Scorpiones: Euscorpiidae, Scorpiopinae)</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Euscorpiops&lt;/i&gt; Vachon, 1980 is described, based on specimens collected from Menglian County, Yunnan Province, China. It is characterized by the following characters: (1) pectinal teeth number 7–7 in females and 8–8 in males; (2) cheliceral movable finger with 6–7 basal teeth on ventral edge; (3) chela ratio of length to width over 3.5 in females and over 4.1 in males; (4) a slight lobe on movable finger and corresponding notch on fixed finger in both males and females, with no marked sexual dimorphism; (5) patella with 19 external trichobothria (6eb, 2esb, 2em, 4est, 5et), and with 10 ventral trichobothria. With the species described in the present publication, the number of known species of &lt;i&gt;Euscorpiops&lt;/i&gt; is raised to 17.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Euscorpiidae; &lt;i&gt;Euscorpiops&lt;/i&gt;; new species; Yunnan; China</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dong</firstname>
+          <lastname>Sun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Sheng</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-03-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

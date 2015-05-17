@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3159.1</id>
+    <title locale="en_US">13 Jan. 2012</title>
+    <volume>3159</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the southern African species of the subgenus &lt;i&gt;Creightonella &lt;/i&gt;Cockerell (Apoidea: Megachilidae: &lt;i&gt;Megachile &lt;/i&gt;Latreille)</title>
+        <abstract locale="en_US">The southern African species of &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;(Creightonella)&lt;/i&gt; are revised. Twelve valid species are recognised, one of whichis new, &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;serrula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and four are only known from the female. Ten new synonymies are recorded. &lt;i&gt;Megachile&lt;/i&gt;&lt;i&gt;cognata&lt;/i&gt; var. &lt;i&gt;claripennis&lt;/i&gt; Friese, &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; Friese are synonymized with &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;cognata&lt;/i&gt; Smith. &lt;i&gt;Megachile&lt;/i&gt;&lt;i&gt;consanguinea&lt;/i&gt; &lt;i&gt;zamelaena&lt;/i&gt; Cockerell is synonymized with &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;ianthoptera&lt;/i&gt; Smith. &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;hopilitis&lt;/i&gt; Vachal,&lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;vanderysti&lt;/i&gt; Cockerell, &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;triangulifera&lt;/i&gt; &lt;i&gt;kivuicola&lt;/i&gt; Cockerell, and &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;heptadonta&lt;/i&gt; Cockerell aresynonymized with &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;angulata&lt;/i&gt; Smith. Four new lectotypes were designated; they are &lt;i&gt;Megachile&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; Friese,&lt;i&gt;M.&lt;/i&gt; &lt;i&gt;discolor&lt;/i&gt; Smith, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cornigera&lt;/i&gt; Friese and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;braunsiana&lt;/i&gt; Friese. The nomenclatorial history of each species is documented, diagnoses are given, food plants are recorded and distribution maps are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">bee; pollinator; Afrotropical</subject>
+          <subject_class locale="en_US">bee</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Connal</firstname>
+          <lastname>Eardley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-01-13</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">(Diptera: Dolichopodidae)</title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Cymatopus&lt;/i&gt; Kertész, 1901, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;femoralis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ventralis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described andillustrated from Pagan, Saipan, Rota, and Guam. This is the first record of &lt;i&gt;Cymatopus&lt;/i&gt; from the Mariana Islands. A key to all known species of the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dolichopodidae; &lt;i&gt;Cymatopus&lt;/i&gt;; Australasian Region; Mariana Islands; Guam; Rota; Saipan; Pagan</subject>
+          <subject_class locale="en_US">Dolichopodidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kazuhiro</firstname>
+          <lastname>Masunaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3159.1</id>
+    <title locale="en_US">13 Jan. 2012</title>
+    <volume>3159</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Aeschnosoma &lt;/i&gt;Selys, 1870 (Odonata: Anisoptera: Corduliidae s.s.)</title>
+        <abstract locale="en_US">The larva, the adult male and the adult female of &lt;i&gt;Aeschnosoma&lt;/i&gt; &lt;i&gt;hamadae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described and illustrated. This species belongs to the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; group of species. A comparison with other species of this group is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aeschnosoma&lt;/i&gt; &lt;i&gt;hamadae&lt;/i&gt;; &lt;i&gt;Aeschnosoma&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt;; &lt;i&gt;Aeschnosoma&lt;/i&gt; &lt;i&gt;marizae&lt;/i&gt;; Amazonia; Brazil; dragonfly</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aeschnosoma&lt;/i&gt; &lt;i&gt;hamadae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Günther</firstname>
+          <lastname>Fleck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulisses</firstname>
+          <middlename>G.</middlename>
+          <lastname>Neiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2012-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Heleodromia &lt;/i&gt;Haliday newly recorded from China with descriptions of two new species (Diptera: Empidoidea)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Heleodromia&lt;/i&gt; Haliday is recorded from China for the first time with the following three species belonging tothe subgenus &lt;i&gt;Heleodromia:&lt;/i&gt; &lt;i&gt;Heleodromia&lt;/i&gt; (Heleodromia) &lt;i&gt;didyma&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (H.) &lt;i&gt;helanshana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; (H.) &lt;i&gt;immaculata&lt;/i&gt; Haliday. A key to the known species of &lt;i&gt;Heleodromia&lt;/i&gt; from China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Empididae; &lt;i&gt;Heleodromia&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoyan</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jinjing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2012-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new scarab species, &lt;i&gt;Aphodius gissaricus &lt;/i&gt;(Coleoptera: Scarabaeidae: Aphodiinae), from the Pamir-Alay Mountains in Tajikistan</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lilia</firstname>
+          <lastname>Akhmetova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrey</firstname>
+          <lastname>Frolov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-01-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1908.1</id>
+    <title locale="en_US">17 Oct. 2008</title>
+    <volume>1908</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphological re-examination and taxonomy of the genus &lt;i&gt;Macropodus&lt;/i&gt; (Perciformes, Osphronemidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tom</firstname>
+          <lastname>Winstanley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kendall</firstname>
+          <middlename>D.</middlename>
+          <lastname>Clements</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2008-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Astyanax&lt;/i&gt; (Characiformes: Characidae) from upper rio Paraguaçu and rio Itapicuru basins, Chapada Diamantina, Bahia, Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Angela</firstname>
+          <middlename>M.</middlename>
+          <lastname>Zanata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Priscila</firstname>
+          <lastname>Camelier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-40</pages>
+        <date_published>2008-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Oreobates &lt;/i&gt;(Anura: Strabomantidae) from the Andes of northern Argentina</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcos</firstname>
+          <lastname>Vaira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liliana</firstname>
+          <lastname>Ferrari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-50</pages>
+        <date_published>2008-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Zealand exports: &lt;i&gt;Pseudosphaeroma&lt;/i&gt; Chilton, 1909 (Isopoda: Sphaeromatidae), a Southern Hemisphere genus introduced to the Pacific coast of North America</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Niel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bruce</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Regina</firstname>
+          <lastname>Wetzer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-56</pages>
+        <date_published>2008-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Proposed amendment of the &lt;i&gt;International Code of Zoological Nomenclature&lt;/i&gt; to expand and refine methods of publication</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>International</firstname>
+          <middlename>Commission On Zoological</middlename>
+          <lastname>Nomenclature</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-67</pages>
+        <date_published>2008-10-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Opening the door to electronic publication of zoological nomenclature and taxonomy</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhi-Qiang</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2008-10-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

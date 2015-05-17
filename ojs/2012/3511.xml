@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3511.1</id>
+    <title locale="en_US">9 Oct. 2012</title>
+    <volume>3511</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Molluscan taxa in the publications of the Museum Godeffroy of Hamburg, with a discussion of the Godeffroy Sales Catalogs (1864–1884), the &lt;i&gt;Journal des Museum Godeffroy &lt;/i&gt;(1873–1910), and a history of the museum </title>
+        <abstract locale="en_US">The Museum Godeffroy (1861–1885), a private natural history museum in Hamburg (Germany) founded by the merchantJohn Cesar VI Godeffroy, functioned as a research and public display museum, as well as a natural history specimendealership. Large collections of zoological, botanical, ethnographic, and anthropological specimens were obtained bycompany employees and an international group of contract collectors, mostly in the Pacific, made available for study tospecialists, and placed in the museum’s holdings or distributed by sale. The museum produced two series of publications,both containing descriptions of new zoological taxa as well as &lt;i&gt;nomina&lt;/i&gt; &lt;i&gt;nuda:&lt;/i&gt; a set of Museum Godeffroy &lt;i&gt;Catalogs&lt;/i&gt;(1864–1884) and the &lt;i&gt;Journal&lt;/i&gt; &lt;i&gt;des&lt;/i&gt; &lt;i&gt;Museum&lt;/i&gt; &lt;i&gt;Godeffroy&lt;/i&gt; (1873–1910), both described and dated in detail herein. This papersummarizes the history of the museum and its collecting efforts, with special focus on malacological research and thedevelopment and fate of molluscan collections of the Museum Godeffroy, with much of the material having passed toHamburg’s Naturhistorisches Museum where they were largely destroyed during World War II. Using a species-levelnumbering system, the Museum Godeffroy &lt;i&gt;Catalog&lt;/i&gt; series (and the labels associated with Museum Godeffroy specimens thatwere sold and traded worldwide) introduced hundreds of gastropod and bivalve &lt;i&gt;nomina&lt;/i&gt; &lt;i&gt;nuda&lt;/i&gt; into the molluscan literature.Previously uncertain dating of the malacological publications in the Museum’s &lt;i&gt;Journal,&lt;/i&gt; mostly by Rudolph Bergh on Pacificnudibranchs, similarly created taxonomic confusion as many of the supposedly new taxa were near-simultaneously publishedalso in other serial publications. 591 molluscan names in the Museum Godeffroy &lt;i&gt;Catalogs,&lt;/i&gt; and 59 in the &lt;i&gt;Journal&lt;/i&gt; arediscussed. It is shown that 42 molluscan names date from these publications, all of them gastropods: 1 (preoccupied) genus-group name and 4 replacement species names by J. D. E. Schmeltz, 5 genera and 31 species-group taxa by R. Bergh, and 1 species by F. Heynemann.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mollusks; taxonomy; species; Oceania; South Sea; Australia; Pacific</subject>
+          <subject_class locale="en_US">mollusks</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rüdiger</firstname>
+          <lastname>Bieler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>E.</middlename>
+          <lastname>Petit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-80</pages>
+        <date_published>2012-10-09</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2048.1</id>
+    <title locale="en_US">23 Mar. 2009</title>
+    <volume>2048</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the Australian predaceous water beetle genus &lt;i&gt;Carabhydrus &lt;/i&gt;Watts, 1978 (Col. Dytiscidae, Hydroporinae, Hydroporini)</title>
+        <abstract locale="en_US">The present paper treats with the enigmatic Australian predaceous water beetle genus &lt;i&gt;Carabhydrus&lt;/i&gt; Watts, 1978 (Dytiscidae, Hydroporinae, Hydroporini) which—except &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;stephanieae&lt;/i&gt; Watts, Hancock &amp; Leys, 2007—is distributed in forest streams and rivers along the Great Dividing Range of the East Coast and the mountain ranges of SE Australia and Tasmania. The largest species of the genus, &lt;i&gt;Carabhydrus&lt;/i&gt; &lt;i&gt;innae&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; from southern Victoria and New South Wales, and the smallest, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;storeyi&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; from north-eastern Queensland, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;janmillerae&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; from south-eastern and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;turaki&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; from north-eastern New South Wales are described as new. All species, except &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mubboonus&lt;/i&gt; Larson &amp; Storey, 1994, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; Watts, 1978 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;andreas&lt;/i&gt; Zwick, 1981, are very rarely collected and mainly known from a few specimens from their type localities. The adults of most species can be found under pebbles and stones and among roots at the edge of running waters, only &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;stephanieae&lt;/i&gt; has been described from ground water. A key to the ten described species of &lt;i&gt;Carabhydrus&lt;/i&gt; is presented, and their distribution and habitats are briefly illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Australia; &lt;i&gt;Carabhydrus&lt;/i&gt;; new species; running waters; zoogeography; faunistics</subject>
+          <subject_class locale="en_US">Australia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lars</firstname>
+          <lastname>Hendrich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chris</firstname>
+          <middlename>H. S.</middlename>
+          <lastname>Watts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphotaxonomy of the &lt;i&gt;Simulium &lt;/i&gt;(&lt;i&gt;Simulium&lt;/i&gt;) &lt;i&gt;tuberosum &lt;/i&gt;species group (Diptera: Simuliidae) in Thailand</title>
+        <abstract locale="en_US">Seventeen cytogenetically distinct taxa of the &lt;i&gt;Simulium&lt;/i&gt; (Simulium) &lt;i&gt;tuberosum&lt;/i&gt; species group in Thailand were examined morphologically, including &lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;doipuiense&lt;/i&gt; (cytoforms A and B), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;manooni,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;rufibasis,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;setsukoae,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tani&lt;/i&gt; (cytoforms A-I), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;weji,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;yuphae,&lt;/i&gt; and one unknown species. Identification keys to larvae, pupae, males, and females are provided, along with diagnostic characters for each taxon and a morphology-based phylogeny.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;tuberosum&lt;/i&gt; group; aquatic insects; black flies; morphology; Thailand</subject>
+          <subject_class locale="en_US">&lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;tuberosum&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ubon</firstname>
+          <lastname>Tangkawanit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chaliow</firstname>
+          <lastname>Kuvangkadilok</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Visut</firstname>
+          <lastname>Baimai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>H.</middlename>
+          <lastname>Adler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-46</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the species in the &lt;i&gt;Cyclocephala bicolor &lt;/i&gt;Laporte species group (Coleoptera: Scarabaeidae: Dynastinae)</title>
+        <abstract locale="en_US">The species in the &lt;i&gt;Cyclocephala&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; Laporte species group are revised. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; Laporte, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bicolorata&lt;/i&gt; Endrödi, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sarahae&lt;/i&gt; Ratcliffe, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dichroa&lt;/i&gt; Dechambre are redescribed, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anibali,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Venezuela. The group is characterized and a key for identification of the species, drawings of the key characters, and distribution maps are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Scarabaeidae; Dynastinae; &lt;i&gt;Cyclocephala&lt;/i&gt;; Neotropics; new species; taxonomy; identification key</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>J.</middlename>
+          <lastname>Joly</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-64</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the female of &lt;i&gt;Tehuacania howdeni &lt;/i&gt;Endrödi (Coleoptera: Scarabaeidae: Dynastinae: Oryctini), with a key to the genera of Oryctini from Mexico</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alberto</firstname>
+          <lastname>Bitar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>Ángel</middlename>
+          <lastname>Morón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-03-23</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

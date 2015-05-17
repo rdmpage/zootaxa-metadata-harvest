@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3467.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3467</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;The Middle Ordovician bathyurid trilobite &lt;i&gt;Pseudoolenoides&lt;/i&gt;, with a revised trilobite biostratigraphy of the Dapingian and lower Darriwilian of western Laurentia&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US">The Middle Ordovician bathyurid trilobite &lt;i&gt;Pseudoolenoides&lt;/i&gt; Hintze has been treated in only a small handful of papers andfew of its species have been adequately known. Here we revise all previously known species on the basis of new materialand illustrations, and describe four new species, three of which are formally named. The genus now comprises 10 species,nine of which are formally named. Five of these are Dapingian and five are early Darriwilian in age. Cladistic parsimonyanalysis of the nine named species results in a generally well supported hypothesis of relationship which is fully congruentwith stratigraphic order. A particularly well supported subclade (11 unreversed synapomorphies and 100% bootstrap sup-port in 10,000 pseudoreplicates) consists of six species, including the type, which are likely a product of neotenic paedo-morphosis. Three other species are resolved as successive sister taxa to this derived clade. A new trilobite zonationrecently proposed for the Tulean and Blackhillsian stages (Lower Ordovician) is extended through Middle Ordovician(Dapingian and lower Darriwilian) rocks in western Laurentia. New species are &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pogonipensis&lt;/i&gt; (Dapingian; &lt;i&gt;Pseudoole-&lt;/i&gt;&lt;i&gt;noides&lt;/i&gt; &lt;i&gt;dilectus&lt;/i&gt; Zone) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fossilmountainensis&lt;/i&gt; (lower Darriwilian; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fossilmountainensis&lt;/i&gt; Zone), both from the Kanosh Formation of western Utah, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;oilcreekensis&lt;/i&gt; (lower Darriwilian) from the Oil Creek Formation of Oklahoma.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Silicified; Utah; Oklahoma; taxonomy; biostratigraphy; cladistics; paedomorphosis</subject>
+          <subject_class locale="en_US">Silicified</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jonathan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Adrain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neo</firstname>
+          <middlename>E. B.</middlename>
+          <lastname>Mcadams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Talia</firstname>
+          <middlename>S.</middlename>
+          <lastname>Karim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-97</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

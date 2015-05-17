@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1706.1</id>
+    <title locale="en_US">20 Feb. 2008</title>
+    <volume>1706</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An annotated world catalogue of the millipede order Callipodida (Arthropoda: Diplopoda)</title>
+        <abstract locale="en_US">The paper presents the first world catalogue of the millipede order Callipodida (Diplopoda: Helminthomorpha). The order is currently known to comprise 3 suborders, 7 families, 35 valid (sub-)genera and 133 (sub-)species. Furthermore, 10 nominal species, whose taxonomic status has not been considered in any publications other than the first descriptions, are listed as &lt;i&gt;species&lt;/i&gt; &lt;i&gt;inquirenda.&lt;/i&gt; The synonymy of &lt;i&gt;Paracortina&lt;/i&gt; &lt;i&gt;wangi&lt;/i&gt; Stoev, 2004 under &lt;i&gt;Angulifemur&lt;/i&gt; &lt;i&gt;unidigitis&lt;/i&gt; Zhang, 1997 is formalized here. Given for each (sub-)species are the original description with author, year, pages and figures; complete chronological list of subsequent faunistic or taxonomic references; type material and, if known, current repository; type locality; species range; and sometimes additional remarks on its status or distribution. The relevant taxonomic and faunistic literature on Diplopoda was consulted to complete the data presented here. The species list is based on a species index card catalogue housed in the Museum National d’Histoire Naturelle in Paris (“Fichier iconographiqueBrolemann et successeurs”), with additions from the Zoological Record and various on-line resources. A bibliography containing 286 taxonomic references relevant to the Callipodida is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Myriapoda; Nematophora; catalogue; synonymy; new records; bibliography</subject>
+          <subject_class locale="en_US">Myriapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pavel</firstname>
+          <lastname>Stoev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petra</firstname>
+          <lastname>Sierwald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amber</firstname>
+          <lastname>Billey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2008-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Onychostenhelia&lt;/i&gt; Ito (Copepoda, Harpacticoida, Miraciidae) from the Bohai Sea, China</title>
+        <abstract locale="en_US">&lt;i&gt;Onychostenhelia&lt;/i&gt; &lt;i&gt;bispinosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from material collected from the Bohai Sea, China. It differs from the type and only known species of &lt;i&gt;Onychostenhelia&lt;/i&gt; in the setal formula of the swimming legs, the form of the setae on the baseoendopod of P5 in both sexes, the female rostrum, the structure of the sexually dimorphic P4 exopod in the male, and size. &lt;i&gt;Onychostenhelia,&lt;/i&gt; &lt;i&gt;Cladorostrata&lt;/i&gt; and &lt;i&gt;Delavalia&lt;/i&gt; belong to a core group within the Stenheliinae that exhibits an unusual morphology in the maxillule, the exopod and endopod being confluent at base but not actually fused to the supporting basis. Based on this circumstantial evidence it is postulated that in biramous limb patterning both exopodal and endopodal primordia are recruited from a common precursor and, consequently, patterns of axial diversification in crustacean limbs and the mechanisms of segmentation that establish them may have to be reinterpreted. Previously published evidence supporting the monophyly of the Stenheliinae is reviewed and a dichotomous key to the nine genera of the subfamily Stenheliinae provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Onychostenhelia&lt;/i&gt; &lt;i&gt;bispinosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Harpacticoida; Miraciidae; Stenheliinae; taxonomy; limb patterning; Bohai Sea; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Onychostenhelia&lt;/i&gt; &lt;i&gt;bispinosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Harpacticoida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rony</firstname>
+          <lastname>Huys</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fang-Hong</firstname>
+          <lastname>Mu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2008-02-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

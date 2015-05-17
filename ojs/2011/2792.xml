@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2792.1</id>
+    <title locale="en_US">16 Mar. 2011</title>
+    <volume>2792</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of &lt;i&gt;Gripopteryx &lt;/i&gt;(Pictet, 1841) (Plecoptera: Gripopterygidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Gripopteryx&lt;/i&gt; is revised and two new species are described, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;japi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from southeastern Brazil, and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;clemira&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from northeastern Brazil. The male of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; Šámal, 1921 and the female of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;flinti&lt;/i&gt; Froehlich, 1993 are described. New figures for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;maculosa&lt;/i&gt; Jewett, 1960, for the male of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;reticulata&lt;/i&gt; Brauer, 1866, and for the female of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; are provided. Keys to adult males and to nymphs are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Gripopterygidae; &lt;i&gt;Gripopteryx&lt;/i&gt;; new species; Brazil</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lucas</firstname>
+          <middlename>Silveira</middlename>
+          <lastname>Lecci</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <middlename>Gilberto</middlename>
+          <lastname>Froehlich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New genera and species of Carventinae from New Caledonia (Hemiptera: Heteroptera: Aradidae)</title>
+        <abstract locale="en_US">Only a few taxa of Aradidae were described from the Pacific island of New Caledonia to date. Based on recently collected material, 3 new genera (Kanakaptera &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;i&gt;Rugicarventus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; and &lt;i&gt;Paracaraptera&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.)&lt;/b&gt; and 7 new species (Ka- &lt;i&gt;nakaptera&lt;/i&gt; &lt;i&gt;laticeps&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;montdoa&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;K.heimiana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;carininota&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Rugicarventus&lt;/i&gt; &lt;i&gt;pygmaeus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Paracaraptera&lt;/i&gt; &lt;i&gt;schuhiana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;Nesiaptera&lt;/i&gt; &lt;i&gt;picea&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; are described in this paper. All species are illustrated by colour photographs and a key is provided for the species of &lt;i&gt;Kanakaptera&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Heteroptera; Aradidae; Carventinae; new genus; new species; New Caledonia</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>E.</firstname>
+          <lastname>Heiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-32</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Palpares &lt;/i&gt;Rambur (Neuroptera: Myrmeleontidae) with an identification key to the species of West Africa</title>
+        <abstract locale="en_US">&lt;i&gt;Palpares&lt;/i&gt; &lt;i&gt;longimaculatus&lt;/i&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from West Africa. This species resembles &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;radiatus&lt;/i&gt; Rambur, 1842 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;incommodus&lt;/i&gt; (Walker, 1853) from the same region and is very similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kalahariensis&lt;/i&gt; Stitz, 1912 from South Africa. The characters differentiating these species are indicated. An identification key to the West African species of &lt;i&gt;Palpares&lt;/i&gt; is provided and all the keyed species are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Palparinae; Africa; Afrotropical Region; antlion</subject>
+          <subject_class locale="en_US">Palparinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Massouroudini</firstname>
+          <lastname>Akoudjin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bruno</firstname>
+          <lastname>Michel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-40</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species and a new key to the &lt;i&gt;Diplonevra &lt;/i&gt;Lioy (Diptera: Phoridae) from Australia</title>
+        <abstract locale="en_US">&lt;i&gt;Diplonevra&lt;/i&gt; &lt;i&gt;collessi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;fumosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nigricorpus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from Australia. A key to the eleven Australian species known in the male sex is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Phoridae; &lt;i&gt;Diplonevra&lt;/i&gt;; new species; key; Australia</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>H. L.</middlename>
+          <lastname>Disney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-50</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ripiphorus caboverdianus &lt;/i&gt;sp. nov.—the first ripiphorid record from the Macaronesian volcanic islands (Coleoptera: Ripiphoridae: Ripiphorinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Ripiphorus&lt;/i&gt; &lt;i&gt;caboverdianus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Ripiphoridae, Ripiphorinae) from Boavista Island (Cape Verde archipelago) represents the first record of the family Ripiphoridae from the volcanic islands west of Africa and the first record of the genus &lt;i&gt;Ripiphorus&lt;/i&gt; on an isolated volcanic archipelago worldwide. Its significance for our understanding of oceanic dispersal abilities of the subfamily Ripiphorinae is discussed. The new species is characterized by milky white elytra, hyaline hind wings and translucent membranous suture between dorsal and ventral surface of the first abdominal segments in both sexes. Female has a slightly curved hind tibia, 2× wider at the apex than at its base, and a slender, parallel-sided first metatarsomere, 5× as long as wide. Morphology of the free-living first instar larva is described; it is very similar to &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;smithi&lt;/i&gt; Linsley &amp; MacSwain, 1950. Behavioral observations of the adults and the first instar larvae in the type locality are given. Known hosts of the genus &lt;i&gt;Ripiphorus&lt;/i&gt; are reviewed; possible host-association and conservation implications for the new species are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Ripiphoridae; &lt;i&gt;Ripiphorus&lt;/i&gt;; Cape Verde; oceanic dispersal; phoresy; new species; immature stage; Hymenoptera; Halictidae; &lt;i&gt;Halictus&lt;/i&gt;; host species</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Batelka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jakub</firstname>
+          <lastname>Straka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Laccodytes &lt;/i&gt;Régimbart, 1895 (Coleoptera, Dytiscidae, Laccophilinae) from Cuba</title>
+        <abstract locale="en_US">&lt;i&gt;Laccodytes&lt;/i&gt; &lt;i&gt;cobrinae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Cuba, which brings to 11 the number of species included in the Neotropical Laccophilinae genus &lt;i&gt;Laccodytes&lt;/i&gt; Régimbart, 1895. Description and illustration of the new species are provided along with a discussion of its ecology and systematic position. The unexpected discovery of a new species in Cuba represents the first mention of &lt;i&gt;Laccodytes&lt;/i&gt; in the Caribbean area, which extends considerably the distribution of the genus in the Neotropics. Such finding suggests that other species of &lt;i&gt;Laccodytes&lt;/i&gt; could be found elsewhere in the Caribbean or Antilles as well as north of the Orinoco basin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dytiscidae; Laccophilinae; &lt;i&gt;Laccodytes&lt;/i&gt;; new species; Cuba; Neotropical Region</subject>
+          <subject_class locale="en_US">Dytiscidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mario</firstname>
+          <lastname>Toledo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoandri</firstname>
+          <middlename>S.</middlename>
+          <lastname>Megna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yves</firstname>
+          <lastname>Alarie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-67</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: Alejandro Zaldívar-Riverón &amp; Vladimir Salvador de Jesús-Bonilla (2010) Redescription of species of the Neotropical parasitoid &lt;i&gt;Notiospathius &lt;/i&gt;Mathews et Marsh (Braconidae: Doryctinae) based on their nineteenth and early twentieth century types. &lt;i&gt;Zootaxa&lt;/i&gt;, 2543, 31–42. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2011-03-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

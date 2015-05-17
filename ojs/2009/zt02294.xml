@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2294.1</id>
+    <title locale="en_US">20 Nov. 2009</title>
+    <volume>2294</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of a new genus and two new species of killifish (Cyprinodontiformes: Nothobranchiidae) from West Africa, with a discussion of the taxonomic status of &lt;i&gt;Aphyosemion maeseni &lt;/i&gt;Poll, 1941</title>
+        <abstract locale="en_US">The phylogeny of the West African genus &lt;i&gt;Archiaphyosemion&lt;/i&gt; was studied with mitochondrial and nuclear DNA sequences. The results of the combined dataset presented here did not support a monophyletic group. After the exclusion of the type species of the genus, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;guineense,&lt;/i&gt; the remaining species form a well-supported monophyletic group. Based on these molecular results and supported by morphological data, we suggest a new name for this group, &lt;i&gt;Nimbapanchax,&lt;/i&gt; new genus. Additionally, based on a recent collection in Guinea, two new &lt;i&gt;Nimbapanchax&lt;/i&gt; species were described. The taxon &lt;i&gt;Nimbapanchax&lt;/i&gt; &lt;i&gt;leucopterygius,&lt;/i&gt; new species, is described for a nothobranchiid fish formerly misidentified as &lt;i&gt;Archiaphyosemion&lt;/i&gt; &lt;i&gt;maeseni&lt;/i&gt; (Poll, 1941). &lt;i&gt;Nimbapanchax&lt;/i&gt; &lt;i&gt;melanopterygius,&lt;/i&gt; new species, is described from the Mount Nimba region in southeastern Guinea. Both new &lt;i&gt;Nimbapanchax&lt;/i&gt; species are clearly distinguished from their congeners by the coloration pattern of adult males. The results of the DNA data support the assumption based on color pattern and morphological characters that the new described species are sister taxa. The type of &lt;i&gt;Aphyosemion&lt;/i&gt; &lt;i&gt;maeseni&lt;/i&gt; Poll, 1941 was reexamined and transferred to the genus &lt;i&gt;Epiplatys,&lt;/i&gt; a decision based on diagnostic morphological characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Nimbapanchax&lt;/i&gt; new genus; &lt;i&gt;Nimbapanchax&lt;/i&gt; &lt;i&gt;leucopterygius&lt;/i&gt; new species; &lt;i&gt;Nimbapanchax&lt;/i&gt; &lt;i&gt;melanopterygius&lt;/i&gt; new species; &lt;i&gt;Epiplatys&lt;/i&gt; &lt;i&gt;maeseni&lt;/i&gt; new combination; &lt;i&gt;Archiaphyosemion&lt;/i&gt;; systematics; phylogeny; morphology; color pattern; taxonomy; mitochondrial DNA; nuclear LSU</subject>
+          <subject_class locale="en_US">&lt;i&gt;Nimbapanchax&lt;/i&gt; new genus</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rainer</firstname>
+          <lastname>Sonnenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eckhard</firstname>
+          <lastname>Busch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new mid-altitude rainforest species of &lt;i&gt;Typhlops &lt;/i&gt;(Serpentes: Typhlopidae) from Madagascar with notes on the taxonomic status of &lt;i&gt;T. boettgeri &lt;/i&gt;Boulenger, &lt;i&gt;T. microcephalus &lt;/i&gt;Werner, and &lt;i&gt;T. capensis &lt;/i&gt;Rendahl</title>
+        <abstract locale="en_US">We describe a new &lt;i&gt;Typhlops&lt;/i&gt; species from mid-altitude rainforest (ca. 950 m elevation) of the Andasibe region in central eastern Madagascar. &lt;i&gt;Typhlops&lt;/i&gt; &lt;i&gt;andasibensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is a medium-sized species (up to 340 mm total length) and can be separated from all other Malagasy typhlopids by the combination of 26 midbody scale rows, less than 400 middorsals, and a T–V supralabial imbrication pattern. &lt;i&gt;Typhlops&lt;/i&gt; &lt;i&gt;microcephalus&lt;/i&gt; is confirmed as a valid species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;boettgeri&lt;/i&gt; is resurrected from the synonymy of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;arenarius,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; is synonymized with &lt;i&gt;Ramphotyphlops&lt;/i&gt; &lt;i&gt;exocoeti.&lt;/i&gt; Keys to the three genera and 14 described species of Madagascar and Comoro typhlopids are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Typhlops&lt;/i&gt;; &lt;i&gt;Ramphotyphlops&lt;/i&gt;; &lt;i&gt;Xenotyphlops&lt;/i&gt;; Madagascar; Comoros; taxonomy; morphology; visceral anatomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Typhlops&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Van</firstname>
+          <lastname>Wallach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-38</pages>
+        <date_published>2009-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Michaelcallianassa sinica &lt;/i&gt;sp. nov. (Crusacea, Decapoda, Thalassinidea, Callianassidae) from the South China Sea</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Michaelcallianassa&lt;/i&gt; &lt;i&gt;sinica,&lt;/i&gt; from the Beibu Gulf (Tonkin Gulf), northern South China Sea, is described and illustrated. The new species is readily distinguished from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; Sakai, 2002, the type species of the genus, by its short uropodal endopod and exopod, and elongated carpus of the minor cheliped.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Callianassidae; &lt;i&gt;Michaelcallianassa&lt;/i&gt;; new species; northern South China Sea</subject>
+          <subject_class locale="en_US">Callianassidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wenliang</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ruiyu</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-46</pages>
+        <date_published>2009-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Unduloribates &lt;/i&gt;from North America (Acari, Oribatida, Unduloribatidae)</title>
+        <abstract locale="en_US">We propose a new species of oribatid mite, &lt;i&gt;Unduloribates&lt;/i&gt; &lt;i&gt;dianae&lt;/i&gt; sp. nov., based on material collected from a variety of boreal habitats in the Canadian Provinces Newfoundland, Nova Scotia, Québec, Alberta and British Columbia, and in New York State in the USA. This is the first species in this genus from the Nearctic. Description is based on adults and all immature stages. We present an expanded generic diagnosis and a key to world species of &lt;i&gt;Unduloribates,&lt;/i&gt; and argue for the retention of Unduloribatidae as a monogeneric family in Phenopelopoidea.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachypylina; Phenopelopoidea; new species; immatures; Nearctic; boreal</subject>
+          <subject_class locale="en_US">Brachypylina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valerie</firstname>
+          <middlename>M.</middlename>
+          <lastname>Behan-Pelletier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>E.</middlename>
+          <lastname>Walter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-61</pages>
+        <date_published>2009-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Podochela meloi &lt;/i&gt;Sankarankutty, Ferreira &amp; Cunha, 2001, a junior synonym of the spider crab &lt;i&gt;Inachoides forceps &lt;/i&gt;A. Milne-Edwards, 1879 (Crustacea: Brachyura: Inachoididae)</title>
+        <abstract locale="en_US">&lt;i&gt;Podochela&lt;/i&gt; &lt;i&gt;meloi&lt;/i&gt; Sankarankutty, Ferreira &amp; Cunha, 2001, originally described in the Inachidae MacLeay, 1838, was recently transferred to the Inachoididae genus &lt;i&gt;Inachoides&lt;/i&gt; H. Milne Edwards &amp; Lucas, 1842, based upon overall similarities. Placement of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;meloi&lt;/i&gt; in both Inachoididae and &lt;i&gt;Inachoides&lt;/i&gt; is found to be supported by a number of synapomorphies as shown herein. &lt;i&gt;Podochela&lt;/i&gt; &lt;i&gt;meloi&lt;/i&gt; is shown to be a junior synonym of &lt;i&gt;Inachoides&lt;/i&gt; &lt;i&gt;forceps&lt;/i&gt; A. MilneEdwards, 1879.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Podochela&lt;/i&gt;; &lt;i&gt;Inachoides&lt;/i&gt;; Inachidae; Inachoididae; Decapoda; Brachyura</subject>
+          <subject_class locale="en_US">&lt;i&gt;Podochela&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <lastname>Santana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <lastname>Tavares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2009-11-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

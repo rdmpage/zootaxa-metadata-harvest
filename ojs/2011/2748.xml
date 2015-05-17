@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2748.1</id>
+    <title locale="en_US">25 Jan. 2011</title>
+    <volume>2748</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-01-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the New World &lt;i&gt;Hendelia &lt;/i&gt;(Diptera: Clusiidae: Clusiodinae)</title>
+        <abstract locale="en_US">The New World species of &lt;i&gt;Hendelia&lt;/i&gt; Czerny, 1903 (Clusiidae, Clusiodinae) are recognized as a single lineage (the “H. &lt;i&gt;mirabilis&lt;/i&gt; clade”) and revised with the description of seven new neotropical species: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;campa&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;heliconiae&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;masneri&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigripalpus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;putealis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;salebrosa&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The fourteen neotropical species are discussed, an identification key is provided, and new morphological and distributional data are given for previously described taxa. The unusual, and sometimes very large genal processes characteristic of several species are figured and discussed. This clade can be separated from other species of neotropical Clusiidae by the presence of one pair of well-developed interfrontal bristles, entirely reclinate fronto-orbital bristles, and derived male and female genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hendelia&lt;/i&gt;; Diptera; Clusiidae; New World; revision; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hendelia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Owen</firstname>
+          <lastname>Lonsdale</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>A.</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2011-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Recovery of mitochondrial DNA for systematic studies of Pentatomoidea (Hemiptera: Heteroptera): successful PCR on early 20th century dry museum specimens</title>
+        <abstract locale="en_US">First molecular studies on museum specimens of five families of pentatomoid bugs, namely Cydnidae, Dinidoridae, Parastrachiidae, Tessaratomidae, and Thyreocoridae (Hemiptera: Heteroptera: Pentatomoidea), are presented, as a preliminary approach to molecular phylogenetic analyses of these families. Forty-eight pin-mounted museum specimens representing 46 pentatomoid species collected in the late 19 th and the 20 th century (more than 15 years old, the oldest specimen collected in 1894) were analyzed; and the acquisition of PCR amplifiable mitochondrial DNA (16S and/or 12S rDNA fragments) was successful from 10 specimens, i.e., 2 specimens (2 species) of Cydnidae, 4 specimens (4 species) of Dinidoridae, 1 specimen (1 species) of Parastrachiidae, 1 specimen (1 species) of Tessaratomidae, and 2 specimens (2 species) of Thyreocoridae. The oldest PCR amplifiable mtDNA sample was extracted from &lt;i&gt;Strombosoma&lt;/i&gt; &lt;i&gt;impictum&lt;/i&gt; (Stål) (Thyreocoridae) collected in 1932 in Zaire.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Heteroptera; Cydnidae; Dinidoridae; Parastrachiidae; Tessaratomidae; Thyreocoridae; ancient DNA; museum specimens; mitochondrial DNA; molecular phylogeny</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerzy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dariusz</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ziaja</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paweł</firstname>
+          <lastname>Lis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-28</pages>
+        <date_published>2011-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus, &lt;i&gt;Krameragallia&lt;/i&gt;, a segregate from the Neogeic genus &lt;i&gt;Agalliopsis&lt;/i&gt; (Hemiptera: Cicadellidae: Megophthalminae)</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Krameragallia,&lt;/i&gt; type-species &lt;i&gt;Agalliopsis&lt;/i&gt; &lt;i&gt;rex&lt;/i&gt; gen. nov. Kramer, is described and illustrated. &lt;i&gt;Krameragallia&lt;/i&gt; gen. nov. can be distinguished from all other known genera of Neotropical Agalliini by morphological features such as the following: largest size (7.4–9mm) among known species in the New World representatives of the subfamily; strong contrasting scarlet and black color pattern; aedeagus shaft very long, almost ribbon-like with ventral process; aedeagal apex bearing one pair of lateral slender processes on each side and first valvifer of female genitalia very well developed and hook-shaped. Female genitalia are described for the first time, including a highly unusual, well developed first valvifer. Notes on the genus as well as on the distinction between &lt;i&gt;Krameragallia&lt;/i&gt; gen. nov., &lt;i&gt;Agalliopsis&lt;/i&gt; Kirkaldy, &lt;i&gt;Brasa&lt;/i&gt; Oman, and &lt;i&gt;Chromagallia&lt;/i&gt; Linnavuori are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; Agalliini; new genus; taxonomy; morphology; leafhopper</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Clara</middlename>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mervin</firstname>
+          <middlename>William</middlename>
+          <lastname>Nielson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-37</pages>
+        <date_published>2011-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Phylloicus &lt;/i&gt;Müller, 1880 (Trichoptera: Calamoceratidae), from southeastern Brazil, including descriptions of larval and pupal stages</title>
+        <abstract locale="en_US">The cosmopolitan family Calamoceratidae Ulmer, 1906, has 8 living genera, among them &lt;i&gt;Phylloicus&lt;/i&gt; Müller, 1880, with species distributed from South to Central America. This genus is characterized by its dark-colored adults (brown to black) with diurnal to crepuscular habits. In this paper, the adults, pupae, and larvae of &lt;i&gt;Phylloicus&lt;/i&gt; &lt;i&gt;camargoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are described and illustrated. The new species is easily diagnosed by male tergum X bearing a short, digitate, setose, basodorsal process; 2 short, digitate, hairless, lateral processes; and 2 pairs of very short processes on the posterior margin: a pair of digitate, hairless, posterolateral processes, and a pair of posteromesal processes. Additional diagnostic characters are the presence of 3 color bands on the forewings, 2 golden longitudinal bands and a white transversal one.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">adults; caddisflies; immatures; Integripalpia; Neotropics; taxonomy</subject>
+          <subject_class locale="en_US">adults</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <middlename>B.</middlename>
+          <lastname>Quinteiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adolfo</firstname>
+          <middlename>R.</middlename>
+          <lastname>Calor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Froehlich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-46</pages>
+        <date_published>2011-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the identity of &lt;i&gt;Ashlockobius &lt;/i&gt;Slater &amp; Slater and &lt;i&gt;Villalobosothignus&lt;/i&gt; Brailovsky (Hemiptera: Heteroptera: Rhyparochromidae: Myodochini), with the description of a new arboreal species from Ecuador</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Villalobosothignus&lt;/i&gt; Brailovsky, 1984 is diagnosed, and &lt;i&gt;Ashlockobius&lt;/i&gt; Slater &amp; Slater, 1999 is synonymized with it. A new arboreal species of &lt;i&gt;Villalobosothignus&lt;/i&gt; from Ecuador is described, and photographs of the adult and male genitalia are provided together with illustrations of certain diagnostic characters to facilitate identification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">checking generic status; new synonymy; new combinations; new taxon; diagnoses; habitat; distribution</subject>
+          <subject_class locale="en_US">checking generic status</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <middlename>Matías</middlename>
+          <lastname>Dellapé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sara</firstname>
+          <middlename>Itzel</middlename>
+          <lastname>Montemayor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-52</pages>
+        <date_published>2011-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Trichopseniini (Coleoptera, Staphylinidae) found with &lt;i&gt;Schedorhinotermes &lt;/i&gt;termite (Isoptera, Rhinotermitidae) in Khao Yai National Park, Thailand</title>
+        <abstract locale="en_US">&lt;i&gt;Schedolimulus&lt;/i&gt; &lt;i&gt;komatsui&lt;/i&gt; Kanao &amp; Maruyama, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Aleocharinae, Trichopseniini) is described from Khao Yai National Park, East Thailand. This is a new record of Trichopseniini from Thailand. &lt;i&gt;Phorilimulus&lt;/i&gt; Pasteels &amp; Kistner, 1971 is synonymized with &lt;i&gt;Schedolimulus&lt;/i&gt; Pasteels &amp; Kistner, 1971, and &lt;i&gt;Schedolimulus&lt;/i&gt; is redescribed. &lt;i&gt;Phorilimulus&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt; Pasteels &amp; Kistner, 1971 is transferred to &lt;i&gt;Schedolimulus.&lt;/i&gt; A key to the species of &lt;i&gt;Schedolimulus&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Schedolimulus&lt;/i&gt;; &lt;i&gt;Phorilimulus&lt;/i&gt;; Aleocharinae; Trichopseniini; taxonomy; synonymy; termitophily</subject>
+          <subject_class locale="en_US">&lt;i&gt;Schedolimulus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Taisuke</firstname>
+          <lastname>Kanao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Munetoshi</firstname>
+          <lastname>Maruyama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Watana</firstname>
+          <lastname>Sakchoowong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2011-01-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the &lt;i&gt;boneti&lt;/i&gt;-group of the genus &lt;i&gt;Coecobrya&lt;/i&gt; (Collembola: Entomobryidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Coecobrya&lt;/i&gt; is divided here into &lt;i&gt;tenebricosa-&lt;/i&gt; and &lt;i&gt;boneti-groups,&lt;/i&gt; blind and with a large outer tooth on the unguiculus in the former, and eyed and with the outer edge of unguiculus smooth or serrate in the latter. All five species of &lt;i&gt;boneti-group&lt;/i&gt; are reviewed here and their diagnostic characters compared in a table. &lt;i&gt;Coecobrya.&lt;/i&gt; &lt;i&gt;boneti&lt;/i&gt; (Denis) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tetrophthalma&lt;/i&gt; (Denis) from Vietnam, are redescribed based on examination of their types and of newly collected topotypes. A key to the species of &lt;i&gt;boneti-group&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">chaetotaxy; eyed &lt;i&gt;Coecobrya&lt;/i&gt;; identification key; species redescription; Vietnam</subject>
+          <subject_class locale="en_US">chaetotaxy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Le</firstname>
+          <middlename>Cong</middlename>
+          <lastname>Man</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Louis</firstname>
+          <lastname>Deharveng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2011-01-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2311.1</id>
+    <title locale="en_US">15 Dec. 2009</title>
+    <volume>2311</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new North American genus of Hetaeriinae (Coleoptera: Histeridae), with descriptions of six new species from the U.S.A. and Mexico</title>
+        <abstract locale="en_US">&lt;i&gt;Renclasea&lt;/i&gt; &lt;b&gt;&lt;i&gt;n.&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;gen.,&lt;/i&gt;&lt;/b&gt; a genus of the Hetaeriinae (Histeridae), with six species, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;skelleyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (United States: Florida and Georgia), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;falli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (United States: California), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;helavai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (United States: Arizona), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Mexico: Hidalgo), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (United States: Arizona and New Mexico) and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cazieri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (United States: Arizona), are described, illustrated and diagnosed. The status of two female specimens of &lt;i&gt;Renclasea&lt;/i&gt; from western Texas, apparently closely related to &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;occidentalis,&lt;/i&gt; remains uncertain. The only host record available for the genus is an association of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; with undetermined species of &lt;i&gt;Neivamyrmex&lt;/i&gt; army ants.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Histeridae; Hetaeriinae; &lt;i&gt;Renclasea&lt;/i&gt;; new genus; new species; myrmecophily; &lt;i&gt;Neivamyrmex&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <middlename>K.</middlename>
+          <lastname>Tishechkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>S.</middlename>
+          <lastname>Caterino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2009-12-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Amnestus &lt;/i&gt;from Guatemala, with new records for some other Guatemalan burrower bugs (Hemiptera: Heteroptera: Cydnidae)</title>
+        <abstract locale="en_US">In this paper we describe two new species in the genus &lt;i&gt;Amnestus,&lt;/i&gt; &lt;i&gt;Amnestus&lt;/i&gt; &lt;i&gt;henryi&lt;/i&gt; and &lt;i&gt;Amnestus&lt;/i&gt; &lt;i&gt;zacki,&lt;/i&gt; and we register new localities for 10 species of burrowing bugs for the fauna of Guatemala; two of these species correspond to new records, &lt;i&gt;Amnestus&lt;/i&gt; &lt;i&gt;pusio&lt;/i&gt; (Stål), and &lt;i&gt;Dallasiellus&lt;/i&gt; &lt;i&gt;reflexus&lt;/i&gt; Froeschner. We include a brief description of the 28 species known for Guatemala, mentioning old and new records; new species are fully described and illustrated, and drawings of the male genitalia, scent gland opening, fore, and hind legs of males are also presented. A key to separate the 28 Guatemalan species of burrower bugs is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; Central America; &lt;i&gt;Amnestus&lt;/i&gt;; diversity</subject>
+          <subject_class locale="en_US">New species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cristina</firstname>
+          <middlename>Mayorga</middlename>
+          <lastname>M.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>Cervantes</middlename>
+          <lastname>P.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-37</pages>
+        <date_published>2009-12-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additional records of Heteroptera (Hemiptera) from Argentina</title>
+        <abstract locale="en_US">New Heteroptera findings of Anthocoridae (1 sp.), Coreidae (5 sp.), Cydnidae (1 sp.), Miridae (6 sp.), Nabidae (2 sp.), and Reduviidae (8 sp.) are given from Argentina. New country records are mentioned for the families Coreidae: &lt;i&gt;Lybius&lt;/i&gt; &lt;i&gt;dichrous&lt;/i&gt; Stål, &lt;i&gt;Vilga&lt;/i&gt; &lt;i&gt;(Vilgula)&lt;/i&gt; &lt;i&gt;serrulata&lt;/i&gt; Montandon, &lt;i&gt;Vilga&lt;/i&gt; &lt;i&gt;(Laevivilga)&lt;/i&gt; &lt;i&gt;divaricata&lt;/i&gt; Distant; and Reduviidae: &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;flavipennis&lt;/i&gt; Herrich-Schaeffer, &lt;i&gt;Rasahus&lt;/i&gt; &lt;i&gt;paraguayensis&lt;/i&gt; Coscarón, &lt;i&gt;Ricolla&lt;/i&gt; &lt;i&gt;femoralis&lt;/i&gt; Distant, and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;quadrispinosa&lt;/i&gt; (Linné).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Anthocoridae; Coreidae; Cydnidae; Miridae; Nabidae; Reduviidae; New records; Argentina</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Olivo</firstname>
+          <middlename>Verónica</middlename>
+          <lastname>Inés</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <lastname>Del Carmen Coscarón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-48</pages>
+        <date_published>2009-12-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of the planthopper tribe Augilini Baker (Hemiptera, Caliscelidae, Ommatidiotinae) from Thailand and China</title>
+        <abstract locale="en_US">In the present paper a new genus and new species of caliscelid planthopper (Hemiptera: Fulgoromorpha), &lt;i&gt;Pseudosymplanella&lt;/i&gt; &lt;i&gt;nigrifasciata&lt;/i&gt; are described and illustrated. The species is recorded from China and from bamboo in Thailand. This represents the first record of the tribe Augilini from Thailand and the first record of bamboo as a host for a member of this tribe. A key to genera of Augilini is provided and notes given on &lt;i&gt;Augilina&lt;/i&gt; &lt;i&gt;longipes&lt;/i&gt; Melichar.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fulgoroidea; Fulgoromorpha; taxonomy; bamboo</subject>
+          <subject_class locale="en_US">Fulgoroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yanli</firstname>
+          <lastname>Che</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-54</pages>
+        <date_published>2009-12-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Metadrinomyia &lt;/i&gt;Shima (Diptera: Tachinidae) with descriptions of two new species</title>
+        <abstract locale="en_US">A little known tachinid genus, &lt;i&gt;Metadrinomyia&lt;/i&gt; Shima, is revised based on four East Asian species including two new to science: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flavifrons&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;xanthokolos&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The majority of the specimens used in this study were collected from low vegetation in the foothills of mountains in South Korea. The new species can be clearly distinguished from their congeners by their pruinosity, chaetotaxy and genitalic structures. A key, descriptions, photographs, and illustrations of the male genitalic structures are provided and the phylogenetic relationships among the species are investigated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Tachinidae; Exoristinae; Blondeliini; &lt;i&gt;Metadrinomyia&lt;/i&gt;; revision; East Asia</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hye-Woo</firstname>
+          <lastname>Byun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ho-Yeon</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-65</pages>
+        <date_published>2009-12-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Dryocoetoides &lt;/i&gt;Hopkins from southern Florida (Coleoptera: Curculionidae: Scolytinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>T.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Atkinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2009-12-15</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

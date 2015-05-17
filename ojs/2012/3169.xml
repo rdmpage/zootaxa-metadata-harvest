@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3169.1</id>
+    <title locale="en_US">23 Jan. 2012</title>
+    <volume>3169</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="PT-BR"&gt;Revision of the genus&lt;i&gt; Andraegoidus&lt;/i&gt; Aurivillius&lt;/span&gt; &lt;span LANG="PT-BR"&gt;(Insecta: Coleoptera: Cerambycidae)&lt;/span&gt;&lt;span LANG="PT-BR"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US">A revision of the genus &lt;i&gt;Andraegoidus&lt;/i&gt; Aurivillius, 1920, based on a study of external morphology and terminalia, is pre-sented. The genus and species are redescribed; two subspecies are elevated to species level: &lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;fabricii&lt;/i&gt; (Du-pont, 1838) &lt;b&gt;status&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;richteri&lt;/i&gt; (Bruch, 1908) &lt;b&gt;status&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; synonyms are proposed: &lt;i&gt;Trachyderes&lt;/i&gt; &lt;i&gt;fulvipennis&lt;/i&gt;(Dupont, 1838) = &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fabricii&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;zonatus&lt;/i&gt; (Dalman, 1823) = &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rufipes&lt;/i&gt; (Fabricius, 1787). The genus is composed of 10species and no subspecies: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cruentatus&lt;/i&gt; (Dupont, 1838), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;distinguendus&lt;/i&gt; Hüdepohl, 1985, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;homoplatus&lt;/i&gt; (Dupont,1838), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fabricii&lt;/i&gt; (Dupont, 1838), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lacordairei&lt;/i&gt; (Dupont, 1838), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;laticollis&lt;/i&gt; Tippmann, 1953, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;richteri&lt;/i&gt; (Bruch, 1902),&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rufipes&lt;/i&gt; (Fabricius, 1878), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;translucidus&lt;/i&gt; Botero &amp; Monné, 2011 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;variegatus&lt;/i&gt; (Perty, 1832). A key to species for each gender as well as photographs and geographical distribution maps are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trachyderini; redescription; new status; synonym</subject>
+          <subject_class locale="en_US">Trachyderini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>Pablo Botero</middlename>
+          <lastname>R.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcela</firstname>
+          <middlename>L.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2012-01-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2211.1</id>
+    <title locale="en_US">27 Aug. 2009</title>
+    <volume>2211</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new frog family (Anura: Terrarana) from South America and an expanded direct-developing clade revealed by molecular phylogeny</title>
+        <abstract locale="en_US">Three frogs of a new species found in cloud forests on two nearby mountains in Guyana were included in a molecular phylogeny of 17 nuclear and mitochondrial genes (10,739 aligned sites) that revealed that their closest relative is Terrarana (Brachycephalidae, Craugastoridae, Eleutherodactylidae, and Strabomantidae) and their next-closest relative is Hemiphractidae (marsupial frogs). We place these frogs in a new family, genus, and species which is strongly supported as the basal clade within Terrarana: Ceuthomantidae n. fam., &lt;i&gt;Ceuthomantis&lt;/i&gt; &lt;i&gt;smaragdinus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Morphological evidence supports the placement of two other species from the Guiana Highlands, &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;aracamuni&lt;/i&gt; (BarrioAmorós &amp; Molina) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cavernibardus&lt;/i&gt; (Myers &amp; Donnelly), in the new family and genus. This close phylogenetic relationship of terraranans and marsupial frogs, nearly all of which have direct development, supports an hypothesis that direct development evolved early in the evolution of this huge clade (~1000 species), for which we propose the unranked taxonomic epithet Orthobatrachia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Ceuthomantidae; Guyana; Hemiphractidae; Nobleobatrachia; Orthobatrachia; Terrarana</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Heinicke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>William</firstname>
+          <middlename>E.</middlename>
+          <lastname>Duellman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Linda</firstname>
+          <lastname>Trueb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Bruce</middlename>
+          <lastname>Means</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ross</firstname>
+          <middlename>D.</middlename>
+          <lastname>Macculloch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>Blair</middlename>
+          <lastname>Hedges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2009-08-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the taxonomy and distribution of &lt;i&gt;Spirostreptus &lt;/i&gt;Brandt 1833 (Diplopoda, Spirostreptida, Spirostreptidae) with descriptions of a new species and a new genus of spirostreptid millipede</title>
+        <abstract locale="en_US">The giant millipede genus &lt;i&gt;Spirostreptus&lt;/i&gt; Brandt 1833 is revised to include six species from Africa, south of the Congo River. The six species formerly included in the genus were &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;heros&lt;/i&gt; Porat 1872, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;kruegeri&lt;/i&gt; Attems 1928, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sebae&lt;/i&gt; Brandt 1833, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tripartitus&lt;/i&gt; (Cook &amp; Collins 1893), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;unciger&lt;/i&gt; Attems 1928 and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;kymatorhabdus&lt;/i&gt; Attems 1914. &lt;i&gt;Spirostreptus&lt;/i&gt; &lt;i&gt;kymatorhabdus&lt;/i&gt; is here removed from &lt;i&gt;Spirostreptus&lt;/i&gt; and accommodated in the new genus &lt;i&gt;Namibostreptus.&lt;/i&gt; A new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;batokensis&lt;/i&gt; Mwabvu from Zimbabwe, is described. A key to the species of &lt;i&gt;Spirostreptus&lt;/i&gt; species based on gonopod morphology is presented. Despite the remarkable similarity between the gonopods of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;heros&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;kruegeri,&lt;/i&gt; the two species are distinct. &lt;i&gt;Spirostreptus&lt;/i&gt; has strict fidelity to the savanna biome, with overlapping distributions of species, thus making conservation of many species in one biome possible.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">savanna; millipedes; gonopod; identification key; conservation; southern Africa</subject>
+          <subject_class locale="en_US">savanna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tarombera</firstname>
+          <lastname>Mwabvu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michelle</firstname>
+          <lastname>Hamer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Slotow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Barraclough</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-56</pages>
+        <date_published>2009-08-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new hermit crab species of the genus &lt;i&gt;Catapagurus &lt;/i&gt;(Crustacea: Decapoda: Anomura: Paguridae) from the Ryukyu Islands, southern Japan</title>
+        <abstract locale="en_US">A new species of the pagurid hermit crab genus &lt;i&gt;Catapagurus&lt;/i&gt; A. Milne-Edwards, 1880, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;insolitus,&lt;/i&gt; is described and illustrated based on specimens from shallow waters in Okinawa Island, the Ryukyus. It belongs to an informal species group characterized by the possession of blade-shaped ambulatory dactyli, and is morphologically most similar to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kosugei&lt;/i&gt; (Asakura, 2001). However, the new species is unique within the genus in having a multispinose antennal acicle, rarely seen in species of the family Paguridae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"></subject>
+          <subject_class locale="en_US"></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masayuki</firstname>
+          <lastname>Osawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2009-08-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

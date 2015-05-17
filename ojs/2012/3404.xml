@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3404.1</id>
+    <title locale="en_US">31 Jul. 2012</title>
+    <volume>3404</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Notes on three poorly known &lt;i&gt;Arctosa &lt;/i&gt;species from China (Araneae: Lycosidae)</title>
+        <abstract locale="en_US">Three species of the genus &lt;i&gt;Arctosa&lt;/i&gt; are revised and their relationship with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cinerea,&lt;/i&gt; the type species of the genus, is dis-cussed. &lt;i&gt;Arctosa&lt;/i&gt; &lt;i&gt;binalis&lt;/i&gt; Yu &amp; Song, 1988 is a junior synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;depectinata&lt;/i&gt; (Bösenberg &amp; Strand, 1906). Males of&lt;i&gt;Arctosa&lt;/i&gt; &lt;i&gt;gougu&lt;/i&gt; Chen &amp; Song, 1999 and &lt;i&gt;Arctosa&lt;/i&gt; &lt;i&gt;vaginalis&lt;/i&gt; Yu &amp; Song, 1988 are described for the first time. All specimensexamined were collected from the Yunnan Province, China. Morphological illustrations, photos, descriptions and SEMphotographs of the male bulbus of all species are given. Stridulatory files on chelicerae in Lycosidae are reported for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; wolf spiders; morphology; redescription; distribution</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lu-Yu</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yuri</firstname>
+          <middlename>M.</middlename>
+          <lastname>Marusik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhi-Sheng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2012-07-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

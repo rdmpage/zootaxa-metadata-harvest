@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3054.1</id>
+    <title locale="en_US">10 Oct. 2011</title>
+    <volume>3054</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Amphibulimidae (Mollusca: Gastropoda: Orthalicoidea) from Colombia and adjacent areas FRANCISCO J. BORRERO (USA) &amp; ABRAHAM S.H. BREURE (the Netherlands) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-59</pages>
+        <date_published>2011-10-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the Red Sea gobiid fish &lt;i&gt;Ctenogobiops maculosus &lt;/i&gt;(Fourmanoir) and validation of &lt;i&gt;C. crocineus &lt;/i&gt;Smith </title>
+        <abstract locale="en_US">The shrimp-associated gobiid fish &lt;i&gt;Ctenogobiops&lt;/i&gt; &lt;i&gt;maculosus,&lt;/i&gt; briefly described by Fourmanoir (1955) from one specimen from the southern Red Sea, is redescribed and illustrated with underwater photographs. A diagnosis is given for the closely related &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;crocineus&lt;/i&gt; Smith 1959, also with underwater photographs. &lt;i&gt;Ctenogobiops&lt;/i&gt; &lt;i&gt;maculosus&lt;/i&gt; is presently known only from the Red Sea. &lt;i&gt;Ctenogobiops&lt;/i&gt; &lt;i&gt;crocineus&lt;/i&gt; is wide-ranging from the Red Sea, and Indian Ocean (type locality, Seychelles), to the western Pacific, with records from the Great Barrier Reef and the Ryukyu Islands. The record of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;maculosus&lt;/i&gt; from Taiwan by Thacker &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2010) is reidentified as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;crocineus,&lt;/i&gt; a first record for the island, and their range extension of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;crocineus&lt;/i&gt; to Fiji is confirmed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Red Sea; gobiid fishes; &lt;i&gt;Ctenogobiops&lt;/i&gt;; redescription; validation</subject>
+          <subject_class locale="en_US">Red Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <lastname>Kovačić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Bogorodsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>E.</middlename>
+          <lastname>Randall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-10-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

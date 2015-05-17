@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2157.1</id>
+    <title locale="en_US">14 Jul. 2009</title>
+    <volume>2157</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the stiletto fly genus &lt;i&gt;Neodialineura &lt;/i&gt;Mann (Diptera: Therevidae): an empirical example of cybertaxonomy</title>
+        <abstract locale="en_US">The endemic Australian genus &lt;i&gt;Neodialineura&lt;/i&gt; Mann is revised to include 13 species. Three species are previously described: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;nitens&lt;/i&gt; (White) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;saxatilis&lt;/i&gt; (White) from southern mainland Australia and Tasmania, and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;striatithorax&lt;/i&gt; Mann from eastern Australia. Ten species are described as new, including &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;ataxia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;atmis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bagdad&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bifaria&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;litura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;polygramma&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;signum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;spinosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;tessella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;trichidion&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; This revision serves as an empirical example for modernising the process of documenting global biodiversity by making taxonomic description and key development more efficient by avoiding redundancy in data handling and using digital media. Complete taxonomic descriptions were generated using online specimen and image databases, and a character matrix in Structured Descriptive Data (SDD) format developed in Lucid Builder to simultaneously generate natural language descriptions and an interactive key. Numerous web resources are provided with taxonomic descriptions throughout the document including: a) links to archived images of all species on Morphbank, b) registration of authors, publications, taxon names and other nomenclatural acts in Zoobank, with assignment of Life Science Identifiers (LSIDs) for each, c) links to Genbank accession records for DNA sequences, and d) assignment of LSIDs to specimen records with links to respective records in an online Therevidae specimen database. Colour images of male and female specimens of all &lt;i&gt;Neodialineura&lt;/i&gt; species are included, along with a traditional dichotomous key to species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Asiloidea; natural language description; cybertaxonomy; Life Science Identifier; Lucid.</subject>
+          <subject_class locale="en_US">Asiloidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shaun</firstname>
+          <middlename>L.</middlename>
+          <lastname>Winterton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2009-07-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Reduviidae (Hemiptera: Heteroptera) of Ipassa Reserve (Makokou, Gabon)</title>
+        <abstract locale="en_US">In the frame of global and rapid inventories of biodiversity, a first inventory of the Reduviidae of the Ipassa Reserve in Makokou, Gabon is done, including recent field surveys as well as information from museum collections. A total of 42 species, including 27 newly recorded from Ipassa Reserve and 16 also newly recorded from Gabon, are listed. Their distributions, and a general discussion on the geographical distributions of the species, are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biodiversity; inventory; new records from Gabon; museum collections</subject>
+          <subject_class locale="en_US">Biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eric</firstname>
+          <lastname>Guilbert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dominik</firstname>
+          <lastname>Chłond</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-42</pages>
+        <date_published>2009-07-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Drylichus &lt;/i&gt;Heller (Insecta: Coleoptera: Dryopidae) </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Drylichus&lt;/i&gt; Heller, which has not been treated since the original description in 1916, is reviewed taxonomically. The type species, &lt;i&gt;Drylichus&lt;/i&gt; &lt;i&gt;hylesinoides&lt;/i&gt; Heller (New Caledonia), is redescribed. Two new species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;fidelitas&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Lifou Island) and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;monteithi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (New Caledonia), are described. &lt;i&gt;Drylichus&lt;/i&gt; is hypothesized to be closely related with &lt;i&gt;Parnida&lt;/i&gt; Broun (New Zealand), with which it shares the following characters: (1) shape of mouthparts and gular region, (2) distribution and morphology of sensilla on mouthparts, (3) configuration of antennomeres, (4) correspondence of several types of antennal sensilla, (5) shape of ventral sclerites of thorax and abdomen.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Coleoptera; Dryopidae; taxonomy; &lt;i&gt;Drylichus&lt;/i&gt;; New Caledonia; Loyalty Islands; Lifou Island</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ján</firstname>
+          <lastname>Kodada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jäch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Čiampor</firstname>
+          <lastname>Fedor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-58</pages>
+        <date_published>2009-07-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New fossil species of Nymphidae (Neuroptera) from the Eocene of North America and Europe</title>
+        <abstract locale="en_US">Two new fossil species of Nymphidae (Neuroptera) are described: &lt;i&gt;Nymphes&lt;/i&gt; &lt;i&gt;georgei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Early Eocene locality at Republic, Washington, U.S.A., and &lt;i&gt;Pronymphes&lt;/i&gt; &lt;i&gt;hoffeinsorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Late Eocene Baltic amber. The assignment of the new Republic species to &lt;i&gt;Nymphes&lt;/i&gt; Leach maintains some doubt. This is the first fossil record of the genus (or one very closely related), today restricted to the Australian region, and its biogeographical implications are briefly discussed. The genus &lt;i&gt;Pronymphes&lt;/i&gt; Krüger is considered to be valid and a diagnosis is provided, as is an amended diagnosis for the wings of &lt;i&gt;Nymphes.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nymphidae; Eocene; Okanagan Highlands; Baltic amber</subject>
+          <subject_class locale="en_US">Nymphidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>Bruce</middlename>
+          <lastname>Archibald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <middlename>N.</middlename>
+          <lastname>Makarkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jörg</firstname>
+          <lastname>Ansorge</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-07-14</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

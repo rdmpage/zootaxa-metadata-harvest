@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2869.1</id>
+    <title locale="en_US">6 May. 2011</title>
+    <volume>2869</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the geckos of the &lt;i&gt;Gonatodes concinnatus &lt;/i&gt;complex (Squamata: Sphaerodactylidae), with description of two new species</title>
+        <abstract locale="en_US">The &lt;i&gt;Gonatodes&lt;/i&gt; &lt;i&gt;concinnatus&lt;/i&gt; complex, as here considered, consists of &lt;i&gt;Gonatodes&lt;/i&gt; species characterized by a white suprahumeral spot with black margins; vermiculations or not on back; and transversely enlarged scales under the tail, showing the sequence 1’1’1”, and in some specimens 1’1’2” on the anterior portion. Two species are presently recognized in this Amazonian complex: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;concinnatus&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tapajonicus.&lt;/i&gt; New material collected in eastern Amazonia (states of Pará and Amapá, Brazil) made it necessary to review these species. We analyzed several populations within this complex, from Colombia, Ecuador, Peru, Venezuela and Brazil, including these new records. Specimens were separated in groups defined on basis of color pattern. Stepwise discriminant function analyses were then performed to compare the external morphology (measurements and scale counts) in these groups. Results support recognition of five taxa, corresponding to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;concinnatus&lt;/i&gt; from western Amazonia, in Ecuador and northern Peru; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ligiae&lt;/i&gt; from northwestern Venezuela (east of the Andes); &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tapajonicus,&lt;/i&gt; from the Tapajós river basin, in Pará, Brazil; and two new species, one from eastern Amazonia, in the states of Pará (north and south of the Amazon river) and Amapá, Brazil, and another from central Colombia, east of the Andes. Diagnoses and descriptions of all species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">lizard; South America; Amazonian rainforest; taxonomy</subject>
+          <subject_class locale="en_US">lizard</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>José</middlename>
+          <lastname>Sturaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Teresa</firstname>
+          <middlename>C. S.</middlename>
+          <lastname>Avila-Pires</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2011-05-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Andhracoides shabuddin &lt;/i&gt;gen. nov., sp. nov., a new phreatoicidean isopod (Crustacea, Hypsimetopidae) from hypogean aquatic habitats in Andhra Pradesh, India</title>
+        <abstract locale="en_US">A decade-long survey of ground waters in the state of Andhra Pradesh, India, has so far yielded over sixty new crustacean taxa, belonging to Copepoda, Bathynellacea, Amphipoda, Isopoda, and Ostracoda. This paper describes a new genus and species attributable to the phreatoicidean isopod family Hypsimetopidae Nicholls, and provides ecological and behavioural observations. The new taxon was found in Guthikonda Cave, which is about 8 km from Piduguralla town in the Palnadu area of Andhra Pradesh State. The species belonging to this clade are unusual in that their dorsoventrally flattened pleotelson gives them a non-phreatoicidean appearance. Because the postanal margin is missing, as in other members of the Hypsimetopidae, this is a superficial similarity rather than homology with other isopods. Other unusual features include robust blunt denticles on opposing margins of the pleotelson and protopod of the uropods. The species in this clade, of which &lt;i&gt;Andhracoides&lt;/i&gt; &lt;i&gt;shabuddin&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is only the first to be described, are related to &lt;i&gt;Nichollsia&lt;/i&gt; Chopra &amp; Tiwari, found in northeastern India, and to &lt;i&gt;Pilbarophreatoicus&lt;/i&gt; Knott &amp; Halse from the Pilbara region of Western Australia. The new species differs from its undescribed congeners in being nearly devoid of dorsal setae; other species of &lt;i&gt;Andhracoides&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are much more hirsute.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phreatoicidea; cavernicolous; groundwater; systematics; ecology</subject>
+          <subject_class locale="en_US">Phreatoicidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>George</firstname>
+          <middlename>D. F.</middlename>
+          <lastname>Wilson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yenumula</firstname>
+          <middlename>Ranga</middlename>
+          <lastname>Reddy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-53</pages>
+        <date_published>2011-05-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Centromedon zoe &lt;/i&gt;(Crustacea: Amphipoda: Lysianassoidea: Uristidae), a new deep-water scavenger species from the North Atlantic, with a key to the genus &lt;i&gt;Centromedon&lt;/i&gt;</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Centromedon&lt;/i&gt; Sars, 1891 is described based on abundant material collected in baited traps at 2500 m on the Mid-Atlantic Ridge. The species can be distinguished from the most closely allied species, &lt;i&gt;Centromedon&lt;/i&gt; &lt;i&gt;typhlops&lt;/i&gt; (Sars, 1879), &lt;i&gt;Centromedon&lt;/i&gt; &lt;i&gt;mediator&lt;/i&gt; (Barnard, 1962) comb. nov. and &lt;i&gt;Centromedon&lt;/i&gt; &lt;i&gt;laevis&lt;/i&gt; (Bonnier, 1896) comb. nov., by the form of the gnathopods, and characters of the mouthparts. A key to the eight species in the genus is provided. The differences between the closely allied genera &lt;i&gt;Uristes&lt;/i&gt; Dana, 1849 and &lt;i&gt;Centromedon&lt;/i&gt; are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Lysianassoidea; Uristidae; &lt;i&gt;Centromedon&lt;/i&gt;; &lt;i&gt;Uristes&lt;/i&gt;; new species; deep-sea</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tammy</firstname>
+          <lastname>Horton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Thurston</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2011-05-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Meteterakis &lt;/i&gt;Karve, 1930 (Nematoda: Heterakoidea) from &lt;i&gt;Indotestudo elongata &lt;/i&gt;(Blyth) in China with a key to the species of &lt;i&gt;Meteterakis&lt;/i&gt;</title>
+        <abstract locale="en_US">&lt;i&gt;Meteterakis&lt;/i&gt; &lt;i&gt;wangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was collected from the intestine of &lt;i&gt;Indotestudo&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; (Blyth) from Shijiazhuang, Hebei Province, China by anthelminthic treatment. The new species differs from congeners by the shape and length of spicules, the number and arrangement of caudal papillae, and presence of gubernaculum. The name of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bufonis&lt;/i&gt; Gambhir, Tarnita, Chinglenkhomba, Gyaneswori &amp; Indranich, 2006 was preoccupied and is thus a junior secondary homonym of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bufonis&lt;/i&gt; (Biswas &amp; Charkavarty, 1963) Baker, 1984. We propose to rename the species as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gambhiri&lt;/i&gt; nom. nov. A key to the species of the genus &lt;i&gt;Meteterakis&lt;/i&gt; is also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Meteterakis&lt;/i&gt; &lt;i&gt;wangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Heterakoidea; &lt;i&gt;Indotestudo&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt;; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Meteterakis&lt;/i&gt; &lt;i&gt;wangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Heterakoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shuqian</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luping</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-05-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

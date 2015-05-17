@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3124.1</id>
+    <title locale="en_US">8 Dec. 2011</title>
+    <volume>3124</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics, morphology, and ecology of pigeons and doves (Aves: Columbidae) of the Mascarene Islands, with three new species</title>
+        <abstract locale="en_US">The original diversity of the pigeons and doves (Columbidae: &lt;i&gt;Nesoenas,&lt;/i&gt; &lt;i&gt;Columba,&lt;/i&gt; &lt;i&gt;Alectroenas)&lt;/i&gt; of the Mascarene Islands (Mauritius, Réunion, Rodrigues) has been poorly understood. Only two of perhaps as many as ten species are known from skin specimens, whereas the rest are known from old accounts and subfossil remains only. Most accounts, however, do not distinguish between species, so accurate identification is difficult to determine. The introduction of non-native pigeons has further exacerbated the problem and has led to erroneous interpretation. This paper provides a detailed re-analysis of the Mascarene columbid fauna (excluding the large, terrestrial “didines”, the Dodo &lt;i&gt;Raphus&lt;/i&gt; &lt;i&gt;cucullatus&lt;/i&gt; and Solitaire &lt;i&gt;Pezophaps&lt;/i&gt; &lt;i&gt;solitaria),&lt;/i&gt; based partly on newly discovered subfossil remains. Key findings include: a new species of &lt;i&gt;Alectroenas&lt;/i&gt; from Rodrigues and new species of &lt;i&gt;Nesoenas&lt;/i&gt; and &lt;i&gt;Columba&lt;/i&gt; from Mauritius; referral of the problematic species 'Columba' &lt;i&gt;rodericana&lt;/i&gt; of Rodrigues to the genus &lt;i&gt;Nesoenas;&lt;/i&gt; and documentation of new morphological and historical information concerning the extant Pink Pigeon &lt;i&gt;Nesoenas&lt;/i&gt; &lt;i&gt;mayeri&lt;/i&gt; and the extinct Mauritius Blue Pigeon &lt;i&gt;Alectroenas&lt;/i&gt; &lt;i&gt;nitidissima.&lt;/i&gt; The Columbidae comprises the largest avian radiation in the Mascarenes and probably colonised the islands at least four times from Madagascar and SE Asia during low sea level stands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mascarene pigeons and doves; &lt;i&gt;Nesoenas&lt;/i&gt;; &lt;i&gt;Alectroenas&lt;/i&gt;; &lt;i&gt;Columba&lt;/i&gt; extinction; affinities; ecology</subject>
+          <subject_class locale="en_US">Mascarene pigeons and doves</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julian</firstname>
+          <middlename>Pender</middlename>
+          <lastname>Hume</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2011-12-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

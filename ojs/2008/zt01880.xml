@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1880.1</id>
+    <title locale="en_US">19 Sep. 2008</title>
+    <volume>1880</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phytoseiid mites (Acari: Phytoseiidae) of the subfamily Amblyseiinae Muma from Peru, with descriptions of four new species</title>
+        <abstract locale="en_US">This paper reports the mites of the subfamily Amblyseiinae (Phytoseiidae) known from Peru, based on an extensive survey conducted in different regions of the country as well as on published information. Forty-eight species are reported, four of which are new to science, namely &lt;i&gt;Aristadromips&lt;/i&gt; &lt;i&gt;escarsidentatus&lt;/i&gt; Guanilo &amp; Moraes &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Proprioseiopsis&lt;/i&gt; &lt;i&gt;parabelizensis&lt;/i&gt; Guanilo &amp; Moraes &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Typhlodromips&lt;/i&gt; &lt;i&gt;angustus&lt;/i&gt; Guanilo &amp; Moraes &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Typhlodromips&lt;/i&gt; &lt;i&gt;amazonensis&lt;/i&gt; Guanilo &amp; Moraes &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; In addition to the description of the new species, measurements of all species collected and a taxonomic key to separate the species reported from Peru are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; predatory mites; biological control</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alberto</firstname>
+          <middlename>Daniel</middlename>
+          <lastname>Guanilo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>José</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Markus</firstname>
+          <lastname>Knapp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-47</pages>
+        <date_published>2008-09-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The family Epicriidae in Slovakia: annotated faunal synopsis and description of a new species of &lt;i&gt;Epicrius&lt;/i&gt; (Acari, Mesostigmata, Epicriidae)</title>
+        <abstract locale="en_US">Eight species of the family Epicriidae, all in the genus &lt;i&gt;Epicrius&lt;/i&gt; Canestrini &amp; Fanzago, 1877, are documented from Slovakia: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bureschi&lt;/i&gt; Balogh, 1958, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mollis&lt;/i&gt; (Kramer, 1876), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; Bregetova, 1977, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;resinae&lt;/i&gt; Karg, 1971, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;schusteri&lt;/i&gt; Błaszak &amp; Alberti, 1989, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;simoni&lt;/i&gt; sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sophiae&lt;/i&gt; Bregetova, 1977, and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tauricus&lt;/i&gt; Bregetova, 1977. A new species is here described (E. &lt;i&gt;simoni&lt;/i&gt; sp. nov.), and one other species is redescribed and illustrated for the first time (E. &lt;i&gt;sophiae).&lt;/i&gt; &lt;i&gt;Epicrius&lt;/i&gt; &lt;i&gt;kargi&lt;/i&gt; Solomon, 1978 is synonymised with &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tauricus.&lt;/i&gt; Two of the species are recorded from Slovakia for the first time (E. &lt;i&gt;schusteri&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sophiae),&lt;/i&gt; and one has been wrongly recorded from Slovakia (E. &lt;i&gt;stellatus&lt;/i&gt; Balogh, 1958). Information on ecology and regional distribution is provided for the most common and abundant species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;monticola,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;resinae,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;schusteri,&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tauricus.&lt;/i&gt; A key to the Slovakian species of &lt;i&gt;Epicrius&lt;/i&gt; is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Mesostigmata; &lt;i&gt;Epicrius&lt;/i&gt;; Epicriidae; fauna; ecology; distribution; Slovakia</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>MaÁn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-68</pages>
+        <date_published>2008-09-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

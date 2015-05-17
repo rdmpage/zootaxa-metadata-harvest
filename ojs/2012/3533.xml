@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3533.1</id>
+    <title locale="en_US">31 Oct. 2012</title>
+    <volume>3533</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the hyperiidean amphipod families Mimonectidae and Proscinidae (Crustacea: Amphipoda: Hyperiidea: Scinoidea)</title>
+        <abstract locale="en_US">A taxonomic review of the hyperiidean amphipod families Mimonectidae and Proscinidae, superfamily Sciniodea, is pre-sented, based predominantly on collections held by the Zoological Museum, University of Copenhagen, Denmark. Priorto this review the family Mimonectidae consisted of two genera, &lt;i&gt;Mimonectes&lt;/i&gt; with five species and &lt;i&gt;Pseudomimonectes&lt;/i&gt;with one species, and the family Proscinidae consisted of three genera, &lt;i&gt;Proscina&lt;/i&gt; with five species, &lt;i&gt;Mimoscina&lt;/i&gt; with twospecies and &lt;i&gt;Cheloscina&lt;/i&gt; with one species. The five nominal species of &lt;i&gt;Mimonectes&lt;/i&gt; are also recognised in this review withthe addition of three new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;alexanderi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;colemani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;neosphaericus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; No morespecimens of &lt;i&gt;Pseudomimonectes&lt;/i&gt; were found, and this genus is still known only from the unique type. A critical review ofthe family Proscinidae is presented arguing that its taxonomic distinction from the family Mimonectidae cannot be main-tained. Amongst the genus &lt;i&gt;Proscina,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;scinoides&lt;/i&gt; (Woltereck, 1906) is considered a species of &lt;i&gt;Mimoscina&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magna&lt;/i&gt;Stephensen and Pirlot, 1931 a junior synonym of &lt;i&gt;Mimonectes&lt;/i&gt; &lt;i&gt;loveni&lt;/i&gt; Bovallius, 1885. The remaining three species are con-sidered valid for the time being and are transferred to the genus &lt;i&gt;Mimonectes.&lt;/i&gt; Thus, eleven species of &lt;i&gt;Mimonectes&lt;/i&gt; are rec-ognised in this review. &lt;i&gt;Cheloscina,&lt;/i&gt; still known only from the unique type, is also similar to &lt;i&gt;Mimonectes,&lt;/i&gt; apart from themorphology of the first antennae, and is here included in the family Mimonectidae. &lt;i&gt;Mimoscina&lt;/i&gt; however possesses severalcharacters distinguishing it from other members of the Mimonectidae and a new family, Mimoscinidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is pro-posed to accommodate it. The two nominal species of &lt;i&gt;Mimoscina&lt;/i&gt; are also recognised in this review with the addition ofone new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;galbraithae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Amongst the extensive &lt;i&gt;Dana&lt;/i&gt; collections is one specimen that clearly belongswith the Scinoidea but possesses several unique characters that preclude it from all other currently recognised families.Thus, a new family, Microscinidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is proposed to accommodate this new genus and species, &lt;i&gt;Microscina&lt;/i&gt; &lt;i&gt;rostrata&lt;/i&gt;&lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Keys are provided for all families, genera and species, together with diagnoses, and all species are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; Hyperiidea; Mimonectidae; Proscinidae; Mimoscinidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Microscinidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wolfgang</firstname>
+          <lastname>Zeidler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-74</pages>
+        <date_published>2012-10-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

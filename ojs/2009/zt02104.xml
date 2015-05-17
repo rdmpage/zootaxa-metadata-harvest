@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2104.1</id>
+    <title locale="en_US">11 May. 2009</title>
+    <volume>2104</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Harmothoe &lt;/i&gt;Kinberg, 1856 (Polychaeta: Polynoidae) in the Northeast Atlantic</title>
+        <abstract locale="en_US">The type material and original descriptions of 126 nominal species from the Northeast Atlantic originally described as belonging to &lt;i&gt;Harmothoe&lt;/i&gt; Kinberg, 1856 or later referred to this genus were examined. Of these species, only 28 are considered to be valid, i.e. less than 25 %, the others being either junior synonyms, indeterminable, invalid, or referred to other genera. The valid species are described and figured, including two new species, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;fernandi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;mariannae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; For &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;extenuata&lt;/i&gt; (Grube, 1840), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;imbricata&lt;/i&gt; (Linnaeus, 1767), and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;impar&lt;/i&gt; (Johnston, 1839), neotypes are designated, since their type material is lost and their original descriptions are insufficient. &lt;i&gt;Harmothoe&lt;/i&gt; &lt;i&gt;aequespina&lt;/i&gt; (Langerhans, 1884) and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;clavigera&lt;/i&gt; (M. Sars, 1863) represent new combinations. An illustrated identification key to all valid &lt;i&gt;Harmothoe&lt;/i&gt; species of the region is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; neotypes; identification key</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ruth</firstname>
+          <lastname>Barnich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Fiege</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-76</pages>
+        <date_published>2009-05-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

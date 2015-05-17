@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2133.1</id>
+    <title locale="en_US">16 Jun. 2009</title>
+    <volume>2133</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A literature review of the sponge-dwelling gobiid fishes of the genus &lt;i&gt;Elacatinus&lt;/i&gt; from the western Atlantic, with description of two new Caribbean species</title>
+        <abstract locale="en_US">Nineteen species of the neotropical gobiid genus &lt;i&gt;Elacatinus&lt;/i&gt; are currently known from the western Atlantic, six of which are closely associated with sponges. &lt;i&gt;Elacatinus&lt;/i&gt; &lt;i&gt;colini&lt;/i&gt; is described as a new species of sponge-dwelling goby from Belize and Islas de la Bahía, Honduras. Formerly regarded as a color variant of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;xanthiprora&lt;/i&gt; (Böhlke &amp; Robins) from Florida, it is differentiated principally by having a white instead of bright yellow stripe on the body, and 17 or 18 vs. 19 or 20 pectoral-fin rays. A second new species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serranilla,&lt;/i&gt; also formerly identified as a color form of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;xanthiprora,&lt;/i&gt; is described from three specimens from the Serranilla Bank in the Caribbean Sea (15°50’N, 79°50’W) and one from Jamaica (formerly a paratype of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;xanthiprora).&lt;/i&gt; It is distinct in having 10 dorsal soft rays (vs. 11 or 12 for &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;xanthiprora),&lt;/i&gt; a bluish white dorsolateral stripe and median rostral band, longer dorsal-fin spines, and longer dorsal and anal soft rays. &lt;i&gt;Elacatinus&lt;/i&gt; &lt;i&gt;xanthiprora&lt;/i&gt; is presently known from Dry Tortugas (type locality) north to Miami in the Atlantic, and north to 28°41’N, 83°45’W on the Gulf coast of Florida, where the largest specimen (ANSP 148926, 43.1 mm SL) was collected at a depth of 26 m. Specimens off the east coast of Nicaragua in 27 m, and from nearby Isla de Providencia in 3–13 m, also previously identified as &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;xanthiprora,&lt;/i&gt; probably represent two different undescribed species. Additional collection of specimens from the latter two localities is recommended for details of life color and DNA analysis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caribbean Sea; gobiid fish; &lt;i&gt;Elacatinus&lt;/i&gt;; sponge-dwelling; new species</subject>
+          <subject_class locale="en_US">Caribbean Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>E.</middlename>
+          <lastname>Randall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Phiillip</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lobel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2009-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic re-examination of the hermit crab species &lt;i&gt;Pagurus forceps &lt;/i&gt;and &lt;i&gt;Pagurus comptus &lt;/i&gt;(Decapoda: Paguridae) by molecular analysis</title>
+        <abstract locale="en_US">The current taxonomy of two poorly known hermit crab species &lt;i&gt;Pagurus&lt;/i&gt; &lt;i&gt;forceps&lt;/i&gt; H. Milne Edwards, 1836 and &lt;i&gt;Pagurus&lt;/i&gt; &lt;i&gt;comptus&lt;/i&gt; White, 1847 from temperate Pacific and Atlantic coastlines of South America is based only on adult morphology. Past studies have questioned the separation of these two very similar species, which occur sympatrically. We included specimens morphologically assignable to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;forceps&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;comptus&lt;/i&gt; in a phylogenetic analysis, along with other selected anomuran decapods, based on 16S ribosomal gene sequences. Differences between samples putatively assigned to either &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;forceps&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;comptus&lt;/i&gt; were moderate, with sequence similarity ranging from 98.2 to 99.4% for the fragments analyzed. Our comparison of mitochondrial DNA sequences (16S rRNA) revealed diagnostic differences between the two putative species, suggesting that &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;forceps&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;comptus&lt;/i&gt; are indeed phylogenetically close but different species, with no genetic justification to support their synonymization. The polyphyly of &lt;i&gt;Pagurus&lt;/i&gt; is not corroborated here among the represented Atlantic species, despite obviously complex relationships among the members of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anomura; molecular systematics; 16S rRNA; South Atlantic</subject>
+          <subject_class locale="en_US">Anomura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Mantelatto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>Pardo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leonardo</firstname>
+          <middlename>Gomes</middlename>
+          <lastname>Pileggi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darryl</firstname>
+          <middlename>L.</middlename>
+          <lastname>Felder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-32</pages>
+        <date_published>2009-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A checklist of oligochaetes (Annelida) from Taiwan and its adjacent islands</title>
+        <abstract locale="en_US">This checklist lists 98 species and subspecies of oligochaetes (Annelida) that have been reported so far as members of the natural fauna of Taiwan and its adjacent Lanyu (Botel Tobago), Gueishan (Turtle) and Penghu (Pescadore) Islands. Terrestrial oligochaetes have been studied for over a century since 1898, particularly intensively in the past ten years. They are represented by 72 species of which 42 (58.3%) species and subspecies are endemic to Taiwan. They belong to the families Moniligastridae, Glossoscolecidae, Lumbricidae, Octochaetidae, Ocnerodrilidae, and Megascolecidae. Megascolecidae is the most dominant family with 63 species, comprising 87.5% of the terrestrial Taiwanese earthworms reported so far. Aquatic oligochaetes have been investigated for about a decade since 1995, and are represented by 26 species. Of them, 25 are in the family Naididae (including Tubificidae) and &lt;i&gt;Eiseniella&lt;/i&gt; &lt;i&gt;tetraedra&lt;/i&gt; in the family Lumbricidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Naididae; Moniligastridae; Glossoscolecidae; Lumbricidae; Octochaetidae; Ocnerodrilidae; Megascolecidae; oligochaetes; Annelida; Taiwan</subject>
+          <subject_class locale="en_US">Naididae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chu-Fa</firstname>
+          <lastname>Tsai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Huei-Ping</firstname>
+          <lastname>Shen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Su-Chen</firstname>
+          <lastname>Tsai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kang-Jieh</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hwey-Lian</firstname>
+          <lastname>Hsieh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shao-Pin</firstname>
+          <lastname>Yo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-48</pages>
+        <date_published>2009-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species and further records of quill mites (Acari: Cheyletoidea: Syringophilidae) parasitic on birds (Aves) in England</title>
+        <abstract locale="en_US">Four additional species of quill mites of the family Syringophilidae Lavoipierre have now been recorded in England. This includes one new species, &lt;i&gt;Bubophilus&lt;/i&gt; &lt;i&gt;aluconis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which parasitizes the tawny owl &lt;i&gt;Strix&lt;/i&gt; &lt;i&gt;aluco&lt;/i&gt; (Strigiformes: Strigidae). It differs from other species of this genus, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;ascalaphus&lt;/i&gt; Philips et Norton, 1978 and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;asiobius&lt;/i&gt; Skoracki et Bochkov, 2002 by the number of chambers in transverse branch of the peritremes (2-3), the length ratio of setae &lt;i&gt;vi&lt;/i&gt; and &lt;i&gt;ve&lt;/i&gt; (1:1.6-2), and the lengths of the stylophore and aggenital setae &lt;i&gt;ag1&lt;/i&gt; (180 and 135-145, respectively).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; ectoparasites; quill mites; &lt;i&gt;Strix&lt;/i&gt; &lt;i&gt;aluco&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Barry</firstname>
+          <lastname>Nattress</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-54</pages>
+        <date_published>2009-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The cosmopolitan spider &lt;i&gt;Cryptachaea blattea &lt;/i&gt;(Urquhart 1886) (Araneae: Theridiidae): Redescription, including COI sequence, and new synonymy</title>
+        <abstract locale="en_US">&lt;i&gt;Cryptachaea&lt;/i&gt; &lt;i&gt;blattea&lt;/i&gt; (Urquhart 1886) &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; a cosmopolitan species of the spider family Theridiidae, is redescribed, including notes on its distribution and DNA sequences from the mitochondrial gene cytochrome c oxidase subunit 1. Based on morphological evidence and mitochondrial DNA sequences, &lt;i&gt;Cryptachaea&lt;/i&gt; &lt;i&gt;acoreensis&lt;/i&gt; Berland 1932 is a junior synonym of &lt;i&gt;Cryptachaea&lt;/i&gt; &lt;i&gt;blattea.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cytochrome c oxidase subunit 1 (COI); DNA; introduced species; new combination</subject>
+          <subject_class locale="en_US">cytochrome c oxidase subunit 1 (COI)</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cor</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vink</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadine</firstname>
+          <lastname>Dupérré</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pierre</firstname>
+          <lastname>Paquin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>M.</middlename>
+          <lastname>Fitzgerald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Phil</firstname>
+          <middlename>J.</middlename>
+          <lastname>Sirvid</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-63</pages>
+        <date_published>2009-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New names for some bryozoan homonyms</title>
+        <abstract locale="en_US">Replacement names are proposed for five bryozoan homonyms, affecting four genera and one species. &lt;i&gt;Harpagozoon&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; replaces &lt;i&gt;Harpago&lt;/i&gt; Gordon, 1989, a junior homonym of &lt;i&gt;Harpago&lt;/i&gt; Adams, 1854 (Mollusca, Gastropoda). &lt;i&gt;Ijimaiellia&lt;/i&gt; nom. nov. replaces &lt;i&gt;Ijimaia&lt;/i&gt; Gordon &amp; d’Hondt, 1997, a junior homonym of &lt;i&gt;Ijimaia&lt;/i&gt; Sauter, 1905 (Chordata, Actinopterygii); and &lt;i&gt;Reteporella&lt;/i&gt; &lt;i&gt;aurantium&lt;/i&gt; nom. nov. replaces &lt;i&gt;Reteporella&lt;/i&gt; &lt;i&gt;aurantiaca&lt;/i&gt; Gordon, 2009, a secondary homonym of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;aurantiaca&lt;/i&gt; (MacGillivray, 1883). &lt;i&gt;Reussinella&lt;/i&gt; nom. nov. replaces &lt;i&gt;Reussina&lt;/i&gt; Kluge, 1962 (with nominal type species &lt;i&gt;Escharina&lt;/i&gt; &lt;i&gt;impressa&lt;/i&gt; Reuss, 1846), which is a junior homonym of &lt;i&gt;Reussina&lt;/i&gt; Neviani, 1896. This taxon also represents a case of a misidentified type species, renamed as &lt;i&gt;Euritina&lt;/i&gt; &lt;i&gt;arctica&lt;/i&gt; by Osburn (1950), but a new genus name is needed as the species does not belong to &lt;i&gt;Euritina.&lt;/i&gt; &lt;i&gt;Leiosellina&lt;/i&gt; nom. nov. replaces &lt;i&gt;Leiosella&lt;/i&gt; Canu &amp; Bassler, 1917, a junior homonym of &lt;i&gt;Leiosella&lt;/i&gt; Lendenfeld 1889 (Porifera). None of the proposed new generic names is listed in the online version of &lt;i&gt;Nomenclator&lt;/i&gt; &lt;i&gt;Zoologicus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bryozoa; Cheilostomata; homonymy; nomina nova; &lt;i&gt;Harpago&lt;/i&gt;; &lt;i&gt;Harpagozoon&lt;/i&gt;; &lt;i&gt;Ijimaia&lt;/i&gt;; &lt;i&gt;Ijimaiellia&lt;/i&gt;; &lt;i&gt;Reteporella&lt;/i&gt; &lt;i&gt;aurantiacum&lt;/i&gt;; &lt;i&gt;Reteporella&lt;/i&gt; &lt;i&gt;aurantium&lt;/i&gt;; &lt;i&gt;Reussinella&lt;/i&gt;; &lt;i&gt;Reussina&lt;/i&gt;; &lt;i&gt;Euritina&lt;/i&gt; &lt;i&gt;arctica&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Bryozoa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dennis</firstname>
+          <middlename>P.</middlename>
+          <lastname>Gordon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-06-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2589.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2589</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of the Adriatic Sea Fishes</title>
+        <abstract locale="en_US">An updated checklist is presented for the marine fish fauna in the Adriatic Sea. According to historical and recent sources in scientific literature 440 fish species were up to date recorded in the Adriatic Sea. Only a minor number of species are considered to be a consequence of recent processes known to have occurred in the Mediterranean sea, such as Lessepsian migration, Atlantic influx, northward spreading and cases of escape from mariculture.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">marine fish fauna; checklist; Adriatic Sea; Mediterranean Sea</subject>
+          <subject_class locale="en_US">marine fish fauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lovrenc</firstname>
+          <lastname>Lipej</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jakov</firstname>
+          <lastname>Dulčić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-92</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

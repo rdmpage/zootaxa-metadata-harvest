@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2941.1</id>
+    <title locale="en_US">6 Jul. 2011</title>
+    <volume>2941</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New flat mite genera (Acari: Trombidiformes: Tenuipalpidae) associated with Australian sedges (Cyperaceae)</title>
+        <abstract locale="en_US">Two new genera, &lt;i&gt;Gahniacarus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Cyperacarus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and four new species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gersonus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tuberculatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;naomae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;foliatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described from native Australian sedge species in the genus &lt;i&gt;Gahnia&lt;/i&gt; (Cyperaceae). Leg chaetotaxy is provided for all stages of each species. The importance of taxonomic characters offered by immature stages and ontogenetic changes in leg chaetotaxy are discussed. A key to the Tenuipalpidae associated with Cyperaceae in Australia is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acaricis&lt;/i&gt;; &lt;i&gt;Afronychus&lt;/i&gt;; &lt;i&gt;Dolichotetranychus&lt;/i&gt;; &lt;i&gt;Gahnia&lt;/i&gt;; leg chaetotaxy; &lt;i&gt;Lisaepalpus&lt;/i&gt;; ontogeny; &lt;i&gt;Prolixus&lt;/i&gt;; &lt;i&gt;Tenuilichus&lt;/i&gt;; &lt;i&gt;Tenuipalpus&lt;/i&gt;; Tetranychoidea</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acaricis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jennifer</firstname>
+          <middlename>J.</middlename>
+          <lastname>Beard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronald</firstname>
+          <lastname>Ochoa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2011-07-06</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new distinctively banded species of &lt;i&gt;Pseudolithoxus &lt;/i&gt;(Siluriformes: Loricariidae) from the upper Orinoco River</title>
+        <abstract locale="en_US">&lt;i&gt;Pseudolithoxus&lt;/i&gt; &lt;i&gt;kelsorum&lt;/i&gt; is described as a new species based on type material from the upper Orinoco in Amazonas State, Venezuela. &lt;i&gt;Pseudolithoxus&lt;/i&gt; &lt;i&gt;kelsorum&lt;/i&gt; is diagnosed from all other &lt;i&gt;Pseudolithoxus&lt;/i&gt; by having dark brown to black base color with eight to 11 (usually nine) light yellow vertical or oblique transversal bands between orbits and caudal fin, bands wide and rarely but sometimes incomplete or contorted as swirls (vs. dark brown to black base color with 18 or more thin, light yellow, frequently contorted transversal bands between orbits and caudal fin in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tigris;&lt;/i&gt; black base color with small white spots in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;anthrax&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nicoi;&lt;/i&gt; and light brown base color with dark brown to black spots in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dumus).&lt;/i&gt; Distributions of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kelsorum&lt;/i&gt; and other Ancistrini taxa support the presence of a zoogeographic filter limiting fish distributions across a reach of the Orinoco River between the Ventuari-Orinoco confluence and the Maipures rapids.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropics; Taxonomy; Ancistrini; Guiana Shield; Biogeography; Zoogeographic Filter</subject>
+          <subject_class locale="en_US">Neotropics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nathan</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lujan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>L. O.</middlename>
+          <lastname>Birindelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

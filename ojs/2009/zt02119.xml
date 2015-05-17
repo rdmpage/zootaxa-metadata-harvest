@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2119.1</id>
+    <title locale="en_US">27 May. 2009</title>
+    <volume>2119</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Studies on water mites (Acari, Hydrachnidia) from the Himalayas, II. New records and descriptions of seven new species from India</title>
+        <abstract locale="en_US">New records of water mites (Acari: Hydrachnidia) from the Indian Himalayas are reported. Seven species new to science: &lt;i&gt;Sperchon&lt;/i&gt; &lt;i&gt;schwoerbeli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bakeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;lahauli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;himachali&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;acetabulensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;davecooki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Aturus&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described from the western Himalayas (Himachal Pradesh State, India).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; new species; running waters; India</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pesic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arne</firstname>
+          <lastname>Panesar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-05-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Aceria &lt;/i&gt;(Acari: Eriophyidae) damaging sowthistles, &lt;i&gt;Sonchus&lt;/i&gt; spp. (Asteraceae), in Australia with notes on &lt;i&gt;Aceria sonchi &lt;/i&gt;(Nalepa, 1902)</title>
+        <abstract locale="en_US">A new species of eriophyoid mite from Australia is described and illustrated. &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;thalgi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; causes severe curling and rolling of leaves of common introduced sowthistle, &lt;i&gt;Sonchus&lt;/i&gt; &lt;i&gt;oleraceus&lt;/i&gt; L. It also affects introduced &lt;i&gt;Sonchus&lt;/i&gt; &lt;i&gt;asper&lt;/i&gt; (L.) Hill and native &lt;i&gt;Sonchus&lt;/i&gt; &lt;i&gt;hydrophilus&lt;/i&gt; Boulos. The native species may be the original host for this mite. &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;thalgi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is shown to be a separate species to &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;sonchi&lt;/i&gt; (Nalepa), which forms distinctive leaf galls on &lt;i&gt;Sonchus&lt;/i&gt; spp. in southern Europe. English translations of past descriptions of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sonchi&lt;/i&gt; are included for comparison. Historical observations and records from New South Wales suggest that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;thalgi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; has been known for at least 80 years prior to its recent rediscovery in Western Australia. This implies that the newly described species may be widespread across the continent. There is also a past record of similar damage symptoms occurring on sowthistles in New Zealand. &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;thalgi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; has the potential to be a useful biological control agent in Australia and Canada, where sowthistles are major weeds of agriculture.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biological control; eriophyid; eriophyoid mites; gall mite; &lt;i&gt;Sonchus&lt;/i&gt; species; taxonomy; weeds</subject>
+          <subject_class locale="en_US">Biological control</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Danuta</firstname>
+          <middlename>K.</middlename>
+          <lastname>Knihinicki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kathryn</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mccarren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>K.</middlename>
+          <lastname>Scott</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-38</pages>
+        <date_published>2009-05-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of reef decapod crustaceans (Crustacea: Decapoda) in the southern Gulf of California, México</title>
+        <abstract locale="en_US">Recent studies of reef fauna near La Paz bay and Loreto bay in the Gulf of California have promoted interest in recognize the assemblages of invertebrates close to the reefs. Crustaceans that inhabit coral heads have received little attention because of their small size. Additionally, the methods used in evaluating the reef community need to be carefully managed to avoid damaging the corals. A list of forty-four decapods species found at La Paz and Loreto areas is presented. Quarterly sampling trips were made from May 2004 to July 2008. At each area, six sites were selected because the coral substrate covered a suitable area. The marked survey sites were traversed by a SCUBA diver and censuses of conspicuous invertebrates were made. Attempts to avoid disturbing any aspect of the habitat was of primary importance. Of the 44 species recorded, just 20 species were common to both areas. Species richness for the two areas showed 70.9% similarity. Range extensions and new records for some species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">La Paz bay; Loreto bay; Benthos; Marine Protected Areas; New records; Visual census</subject>
+          <subject_class locale="en_US">La Paz bay</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <lastname>Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <middlename>F.</middlename>
+          <lastname>Balart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Héctor</firstname>
+          <lastname>Reyes-Bonilla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2009-05-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Chaetiliidae (Crustacea: Isopoda: Valvifera) from the Río de la Plata estuary, Argentina-Uruguay, and reconsideration of &lt;i&gt;Macrochiridothea &lt;/i&gt;and &lt;i&gt;Chiriscus&lt;/i&gt;</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Macrochiridothea&lt;/i&gt; &lt;i&gt;estuariae,&lt;/i&gt; is described from the estuary of the Río de la Plata. It differs from other species of the genus in having weakly defined incisions on the side of the head. The genus &lt;i&gt;Chiriscus&lt;/i&gt; Richardson, 1911, previously synonymised with &lt;i&gt;Macrochiridothea&lt;/i&gt; Ohlin, 1901 is revived on the basis of a lobed article 4 on antenna 2 and a longer pereonite 7 to include the type species, &lt;i&gt;Chiriscus&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; Richardson, 1911, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;giambiagiae&lt;/i&gt; (Torti &amp; Bastida, 1972) transferred from &lt;i&gt;Macrochiridothea.&lt;/i&gt; Nine other species of &lt;i&gt;Macrochiridothea&lt;/i&gt; from southern South America and another from New Zealand are briefly diagnosed. A key is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chaetiliidae; &lt;i&gt;Chaetilia&lt;/i&gt;; &lt;i&gt;Macrochiridothea&lt;/i&gt;; new species; Argentina; Uruguay</subject>
+          <subject_class locale="en_US">Chaetiliidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gary</firstname>
+          <middlename>C. B.</middlename>
+          <lastname>Poore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <lastname>Ramírez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Schiariti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-65</pages>
+        <date_published>2009-05-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the tadpoles of &lt;i&gt;Phyllodytes brevirostris &lt;/i&gt;(Anura: Hylidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Washington</firstname>
+          <middlename>L. S.</middlename>
+          <lastname>Vieira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gindomar</firstname>
+          <middlename>G.</middlename>
+          <lastname>Santana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sônia</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Da Nóbrega Carneiro Dos Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rômulo</firstname>
+          <middlename>R. N.</middlename>
+          <lastname>Alves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gentil</firstname>
+          <middlename>A.</middlename>
+          <lastname>Pereira-Filho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2009-05-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

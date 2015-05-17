@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2061.1</id>
+    <title locale="en_US">3 Apr. 2009</title>
+    <volume>2061</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Toward a unified taxonomy of &lt;i&gt;Niphargus &lt;/i&gt;(Crustacea: Amphipoda): a review of morphological variability</title>
+        <abstract locale="en_US">&lt;i&gt;Niphargus&lt;/i&gt; is the largest genus of freshwater amphipods, burdened with problematic and largely incomplete taxonomy. This paper is an overview of the morphological characters relevant for niphargid taxonomy, and is conceived as an early step toward a unified taxonomy in the emerging era of cyber-taxonomy. The core element is a taxonomic on-line revision system based on a continuously updated, peer-reviewed and freely accessible morpho-databases (see for example http:// niphargus.info/) that would provide a source of data necessary for comparisons of taxa, generation of species descriptions, and testing phylogenetic hypotheses. In &lt;i&gt;Niphargus,&lt;/i&gt; the coding of morphological variability is not straightforward. Several characters are continuous, polymorphic, or subject to allometric growth. We here present a detailed overview of published and new characters together with their variability levels, and describe how the characters are measured and quantified.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">subterranean crustaceans; cyber-taxonomy; morpho-databases</subject>
+          <subject_class locale="en_US">subterranean crustaceans; cyber-taxonomy; morpho-databases</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cene</firstname>
+          <lastname>FiEr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Trontelj</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roman</firstname>
+          <lastname>LuTrik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Boris</firstname>
+          <lastname>Sket</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of New World Opilioacaridae (Acari: Parasitiformes) with the description of a new genus from the Caribbean region</title>
+        <abstract locale="en_US">Four new species and one new subspecies of Opilioacaridae are described from Mexico, Cuba, and Panama. The classification of Opilioacaridae is updated with recognition of the genus &lt;i&gt;Neocarus&lt;/i&gt; as separate from &lt;i&gt;Opilioacarus,&lt;/i&gt; and by recognition of a new genus, &lt;i&gt;Caribeacarus,&lt;/i&gt; with three species from the greater Antilles and Panama. A key to the North/ Central American and Caribbean species of Opilioacaridae is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Opilioacaridae; &lt;i&gt;Neocarus&lt;/i&gt;; &lt;i&gt;Caribeacarus&lt;/i&gt;; identification key; Mexico; Caribbean</subject>
+          <subject_class locale="en_US">Opilioacaridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ma.</firstname>
+          <middlename>Magdalena</middlename>
+          <lastname>Vázquez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hans</firstname>
+          <lastname>Klompen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-44</pages>
+        <date_published>2009-04-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Plant inhabiting mites (Acari) from the &lt;i&gt;Cerrado &lt;/i&gt;biome of Mato Grosso State, Brazil</title>
+        <abstract locale="en_US">This study reports on the mites associated with plants in two &lt;i&gt;Cerrado&lt;/i&gt; formations: &lt;i&gt;Cerradão&lt;/i&gt; and Riparian Forest, located in Itiquira, in the southern region of Mato Grosso State, Brazil. A total of 67 mite species was collected, belonging to 20 families in the suborders Gamasida, Actinedida, Acaridida and Oribatida. Phytoseiidae (13 species) and Tarsonemidae (11 species) were the families with the greatest richness. &lt;i&gt;Iphiseiodes&lt;/i&gt; &lt;i&gt;zuluagai&lt;/i&gt; (Denmark &amp; Muma) (Phytoseiidae), &lt;i&gt;Lamellobates&lt;/i&gt; (Lamellobates) sp. (Oribatida, Austrachipteriidae) and &lt;i&gt;Agistemus&lt;/i&gt; sp. (Prostigmata, Stigmaeidae) were the most frequent species, collected on eleven, ten and nine plant species, respectively. Among the plants found during the fieldwork, the plant species &lt;i&gt;Bauhinia&lt;/i&gt; &lt;i&gt;longifolia&lt;/i&gt; (Bong.) Steud. (Caesalpinaceae), collected in the Riparian Forest formation, contained the highest species richness (28 species). The specific identification of approximately 70% of the taxa collected was not possible. For these reasons, surveys of mites in natural areas that include estimates of the ratio of undescribed species are important, because they provide a panorama of the great diversity of unknown mite fauna in these environments.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; biodiversity; &lt;i&gt;Cerrado&lt;/i&gt;; native fragments; Neotropical Region; Brazil</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peterson</firstname>
+          <middlename>R.</middlename>
+          <lastname>Demite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reinaldo</firstname>
+          <middlename>J. F.</middlename>
+          <lastname>Feres</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>C.</middlename>
+          <lastname>Lofego</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anibal</firstname>
+          <middlename>R.</middlename>
+          <lastname>Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-60</pages>
+        <date_published>2009-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Macrobrachium santanderensis, &lt;/i&gt;new species of freshwater prawn (Crustacea: Decapoda: Palaemonidae) from the northeastern Andes mountains of Colombia</title>
+        <abstract locale="en_US">There is only one species of freshwater prawn documented for the Catatumbo region, which is part of the northeastern Andes mountains of Colombia. Morphology comparison with other Colombian &lt;i&gt;Macrobrachium&lt;/i&gt; species which inhabit the nearby Orinoco river basin such as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;brasiliense,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cortezi,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;heterochirus,&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;reyesi,&lt;/i&gt; and the only species reported for the Catatumbo region (M. &lt;i&gt;praecox)&lt;/i&gt; reveals distinct characters of a new freshwater prawn species. The differences between the new species described herein and the previously reported &lt;i&gt;Macrobrachium&lt;/i&gt; species are in the ornamentation of the rostrum and the second pair of pereiopods, proportion of some segments of the second periopod, as well as size and number of eggs. The new freshwater prawn species (Macrobrachium &lt;i&gt;santanderensis)&lt;/i&gt; is reported, described, and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Macrobrachium&lt;/i&gt;; new species; Santander; Colombia; freshwater; shrimp; Catatumbo</subject>
+          <subject_class locale="en_US">&lt;i&gt;Macrobrachium&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alfredo</firstname>
+          <lastname>Garcia-Perez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Villamizar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-04-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

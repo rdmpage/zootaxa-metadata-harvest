@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2866.1</id>
+    <title locale="en_US">4 May. 2011</title>
+    <volume>2866</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of &lt;i&gt;Epyris &lt;/i&gt;Westwood (Hymenoptera: Bethylidae) from Korea, with the descriptions of ten new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jongok</firstname>
+          <lastname>Lim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jongwook</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sanghyun</firstname>
+          <lastname>Koh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bongwoo</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celso</firstname>
+          <middlename>O.</middlename>
+          <lastname>Azevedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Seunghwan</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2011-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ultrastructural analysis of &lt;i&gt;Coarazuphium formoso &lt;/i&gt;(Coleoptera: Carabidae, Zuphiini), a new Brazilian troglobitic beetle</title>
+        <abstract locale="en_US">It is described &lt;i&gt;Coarazuphium&lt;/i&gt; &lt;i&gt;formoso&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from male and female specimens collected in Barriguda cave and Calor de Cima cave, both in the municipality of Campo Formoso (Bahia, Brazil). The most striking difference between &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;formoso&lt;/i&gt; and other species of the genus is the presence of three pairs of setae on the dorsal surface of the head close to the posterior margin, while the other species have only one or two pairs. Species from this genus showed advanced troglobiomorphic characters in comparison to other Brazilian cave beetles. Characters as increased extra-optic sensory structures, and the presence of particular sensilla, and sensory and gustatory receptors were not detected under routine microscopy but required ultrastructural scrutiny. Similar analyses are needed in other epigean Zuphiini species for better interpreting their functional meaning.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Coarazuphium&lt;/i&gt;; ground beetle; cave dwelling; sensilla; antenna; eyes; mouthparts; legs</subject>
+          <subject_class locale="en_US">&lt;i&gt;Coarazuphium&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thaís</firstname>
+          <middlename>Giovannini</middlename>
+          <lastname>Pellegrini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>Lopes</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-49</pages>
+        <date_published>2011-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record and new species of &lt;i&gt;Tortopsis &lt;/i&gt;Molineri, 2010 (Ephemeroptera, Polymitarcyidae) from Brazil</title>
+        <abstract locale="en_US">A new species of the recently erected genus &lt;i&gt;Tortopsis&lt;/i&gt; is described from males and females imagos collected in Macaé river, Rio de Janeiro State. &lt;i&gt;Tortopsis&lt;/i&gt; &lt;i&gt;canum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be recognized by the color pattern of the head and pronotum, strongly shaded with black in both sexes, male genitalia with parastyli long and straight and female parastyli receptor “C” shaped, with receptors large, occupying nearly all extension of sternum VIII. This new species represents the first record of the genus &lt;i&gt;Tortopsis&lt;/i&gt; in Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic Rainforest; Campsurinae; Mayfly; new species; Rio de Janeiro state</subject>
+          <subject_class locale="en_US">Atlantic Rainforest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Inês</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elidiomar</firstname>
+          <middlename>R.</middlename>
+          <lastname>Da-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <middlename>L.</middlename>
+          <lastname>Nessimian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-54</pages>
+        <date_published>2011-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Callostethus &lt;/i&gt;Ruckes, 1961 (Hemiptera: Heteroptera: Pentatomidae: Discocephalinae) with the description of &lt;i&gt;C. flavolineatus &lt;/i&gt;sp. nov.</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Callostethus&lt;/i&gt; was described for &lt;i&gt;Mecistorhinus&lt;/i&gt; &lt;i&gt;guttatopunctatus&lt;/i&gt; (Fabricius, 1803). Here we describe a second species of the genus, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;flavolineatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; based on a male collected in Amapá, Brazil. Descriptions were made using external morphological characters. &lt;i&gt;Callostethus&lt;/i&gt; is closely allied to &lt;i&gt;Antiteuchus&lt;/i&gt; and can be separated from it by the mesosternum slightly tumid with a low median subcalloused carina, calloused yellow or reddish margin of the metapleuron, and the structure of the pygophore.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Callostethus&lt;/i&gt; &lt;i&gt;flavolineatus&lt;/i&gt;; new species; Discocephalini; Neotropical region; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Callostethus&lt;/i&gt; &lt;i&gt;flavolineatus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Antônio Marin</middlename>
+          <lastname>Fernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jocélia</firstname>
+          <lastname>Grazia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lourival</firstname>
+          <middlename>Dias</middlename>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-60</pages>
+        <date_published>2011-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Neolasioptera &lt;/i&gt;(Diptera: Cecidomyiidae) from &lt;i&gt;Parkinsonia aculeata &lt;/i&gt;(Leguminosae) in Argentina for possible use in biological control in Australia, with a key to Neotropical species of Neolasioptera</title>
+        <abstract locale="en_US">&lt;i&gt;Neolasioptera&lt;/i&gt; &lt;i&gt;aculeatae&lt;/i&gt; Gagné (Diptera: Cecidomyiidae) is described as a new species from stem swellings on &lt;i&gt;Parkinsonia&lt;/i&gt; &lt;i&gt;aculeata&lt;/i&gt; L. (Leguminosae) in NW Argentina. The new species appears to be a good candidate for the biological control of its host in Australia, where the plant was accidentally introduced and is currently a serious pest. The species is shown to be distinct from its 64 Neotropical congeners. A preliminary key to these species is offered that can be adapted as more work is done on &lt;i&gt;Neolasioptera.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">gall midges; biological control; key</subject>
+          <subject_class locale="en_US">gall midges</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Raymond</firstname>
+          <middlename>J.</middlename>
+          <lastname>Gagné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <middlename>Mc</middlename>
+          <lastname>Kay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tim</firstname>
+          <middlename>A.</middlename>
+          <lastname>Heard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2011-05-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

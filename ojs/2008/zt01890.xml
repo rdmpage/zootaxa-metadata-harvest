@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1890.1</id>
+    <title locale="en_US">1 Oct. 2008</title>
+    <volume>1890</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the Neotropical myrmicine ant genus &lt;i&gt;Lachnomyrmex&lt;/i&gt; Wheeler (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">The Neotropical ant genus &lt;i&gt;Lachnomyrmex&lt;/i&gt; Wheeler, 1910 is revised for the first time. A revised generic description is provided for workers and gynes; males remain unknown. Morphological patterns combined with geographical data led to the recognition of 16 species, of which 10 are here described as new: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;amazonicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;fernandezi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;grandis&lt;/i&gt; Fernández &amp; Baena, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;haskinsi&lt;/i&gt; Smith, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;lattkei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;longinodus&lt;/i&gt; Fernández &amp; Baena, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;longinoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mackayi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;nordestinus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pilosus&lt;/i&gt; Weber, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;laticeps&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;platynodus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;plaumanni&lt;/i&gt; Borgmeier, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;regularis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;scrobiculatus&lt;/i&gt; Wheeler, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;victori&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; The gynes of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;grandis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;haskinsi,&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pilosus&lt;/i&gt; are described for the first time. Illustrated identification keys for workers, distribution maps, and high resolution illustrations are supplied for all species. Some &lt;i&gt;Lachnomyrmex&lt;/i&gt; species are relatively common in the leaf-litter of submontane wet forests in Central and South America; others remain known by very few individuals. The relatively small and apparently monogynic &lt;i&gt;Lachnomyrmex&lt;/i&gt; colonies inhabit small nests in the ground, among rotten leaves and inside fallen logs. Workers generally forage alone on the ground or within the leaf litter, but have been recorded also on tree trunks, and apparently do not recruit nestmates.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Lordomyrma&lt;/i&gt; genus-group; Stenammini; Myrmicinae; taxonomy; Neotropics</subject>
+          <subject_class locale="en_US">&lt;i&gt;Lordomyrma&lt;/i&gt; genus-group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodrigo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Feitosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>Roberto F.</middlename>
+          <lastname>Brandão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2008-10-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the Micronoctuidae species occurring in the Russian Far East and neighbouring countries with description of a new species (Lepidoptera, Noctuoidea)</title>
+        <abstract locale="en_US">The family Micronoctuidae and the genus &lt;i&gt;Micronoctua&lt;/i&gt; Fibiger, 1997 are reported from the Russian Far East and neighbouring countries for the first time. The family is represented in the region by two species in the genera &lt;i&gt;Mimachrostia&lt;/i&gt; Sugi, 1982 and &lt;i&gt;Micronoctua&lt;/i&gt; both occurring in Russian Far East, Korea, China and Japan. The northern distribution limit of the family Micronoctuidae is the middle of the Amur River (50°31΄N, 137°035΄E), reached by &lt;i&gt;Mimachrostia&lt;/i&gt; &lt;i&gt;fasciata&lt;/i&gt; Sugi, 1982. The new species, &lt;i&gt;Micronoctua&lt;/i&gt; &lt;i&gt;occi,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Russian Far East, the Korean peninsula, China and the Tsushima Islands of Japan. The male and female genitalia are illustrated and compared with those of &lt;i&gt;Micronoctua&lt;/i&gt; &lt;i&gt;karsholti.&lt;/i&gt; Distribution maps for the two species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Micronoctuidae; &lt;i&gt;Micronoctua&lt;/i&gt;; &lt;i&gt;Mimachrostia&lt;/i&gt;; taxonomy; new species; Russian Far East; Korea; China; Japan; distribution</subject>
+          <subject_class locale="en_US">Micronoctuidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Fibiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-58</pages>
+        <date_published>2008-10-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The "Mihi itch"a brief history</title>
+        <abstract locale="en_US">The origin and history of the phrases &lt;i&gt;mihi&lt;/i&gt; &lt;i&gt;itch&lt;/i&gt; and its predecessor &lt;i&gt;Mihisucht&lt;/i&gt; are reviewed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;mihi&lt;/i&gt; &lt;i&gt;itch&lt;/i&gt;; &lt;i&gt;Mihisucht&lt;/i&gt;; splitters; taxonomy; history</subject>
+          <subject_class locale="en_US">&lt;i&gt;mihi&lt;/i&gt; &lt;i&gt;itch&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2008-10-01</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

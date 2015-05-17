@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2571.1</id>
+    <title locale="en_US">19 Aug. 2010</title>
+    <volume>2571</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new genus and thirteen new species of sea stars (Asteroidea: Echinasteridae) from the Aleutian Island Archipelago</title>
+        <abstract locale="en_US">A new genus and thirteen new species of echinasterid sea stars are described from nearshore waters of the Aleutian Islands. The new genus &lt;i&gt;Aleutihenricia&lt;/i&gt; is distinguished from &lt;i&gt;Henricia&lt;/i&gt; by the morphology and arrangement of the skeletal ossicles. &lt;i&gt;Henricia&lt;/i&gt; &lt;i&gt;beringiana&lt;/i&gt; D'yakonov, 1950 is designated as the type species. The new species described include &lt;i&gt;Aleutihenricia&lt;/i&gt; &lt;i&gt;federi,&lt;/i&gt; &lt;i&gt;Henricia&lt;/i&gt; &lt;i&gt;lineata,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;uluudax,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;iodinea,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;rhytisma,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;gemma,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;echinata,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;vermilion,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;elachys,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;insignis,&lt;/i&gt; &lt;i&gt;Odontohenricia&lt;/i&gt; &lt;i&gt;aurantia,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ahearnae,&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;violacea.&lt;/i&gt; In addition to the descriptions, associations between echinasterids and sponges are briefly discussed. A key to the shallow water (&lt;20 m) Echinasteridae of the Aleutian Islands is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Henricia&lt;/i&gt;; &lt;i&gt;Aleutihenricia&lt;/i&gt;; &lt;i&gt;Odontohenricia&lt;/i&gt;; AKMAP; Alaska</subject>
+          <subject_class locale="en_US">&lt;i&gt;Henricia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <middlename>N.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>C.</middlename>
+          <lastname>Jewett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2010-08-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Microhyla &lt;/i&gt;from Sarawak: Old World’s smallest frogs crawl out of miniature pitcher plants on Borneo (Amphibia: Anura: Microhylidae)</title>
+        <abstract locale="en_US">A new diminutive species of microhylid frog (genus &lt;i&gt;Microhyla)&lt;/i&gt; is described from the Matang Range, Sarawak, Malaysian Borneo. The new species is an obligate of the pitcher plant, &lt;i&gt;Nepenthes&lt;/i&gt; &lt;i&gt;ampullaria,&lt;/i&gt; breeding in senescent or mature pitchers, and is Old World’s smallest frog and one of the world's tiniest: adult males range between SVL 10.6– 12.8 mm (n = 8). The new species is diagnosable from congeners in showing dorsum with low tubercles that are relatively more distinct on flanks; a weak, broken, mid-vertebral ridge, starting from forehead and continuing along body; no dermal fold across forehead; tympanic membrane and tympanic annulus absent; Finger I reduced to a nub proximal to Finger II in males; toe tips weakly dilated; phalanges with longitudinal grooves, forming two scale-like structures; webbing on toe IV basal; toes with narrow dermal fringes; inner and outer metatarsal tubercles present; and dorsum brown with an hour-glass shaped mark on scapular region. Miniaturization and reduced webbing may be the result of navigation on the slippery zone of pitchers, situated below the peristome.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Microhyla&lt;/i&gt; &lt;i&gt;nepenthicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Microhylidae; Kubah National Park; Sarawak; Borneo</subject>
+          <subject_class locale="en_US">&lt;i&gt;Microhyla&lt;/i&gt; &lt;i&gt;nepenthicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Microhylidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Indraneil</firstname>
+          <lastname>Das</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <lastname>Haas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-52</pages>
+        <date_published>2010-08-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new millipede genera from northwest Tasmania, Australia (Diplopoda: Polydesmida: Dalodesmidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Setoisenoton&lt;/i&gt; &lt;i&gt;pallidus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Dysmicodesmus&lt;/i&gt; &lt;i&gt;jeekeli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; occupy small ranges (&lt;5000 km 2 ) in the forests of northwest Tasmania. Both have a head+19 rings, metatergites lacking posterior corner extensions, and long, rigid gonopod telopodites reaching at least to legpair 4 when retracted. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pallidus&lt;/i&gt; resembles &lt;i&gt;Notonesiotes&lt;/i&gt; &lt;i&gt;aucklandensis&lt;/i&gt; Johns, 1970 from the subantarctic Auckland Islands, but differs in gonopod details. &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;jeekeli&lt;/i&gt; is unusual in the Tasmanian dalodesmid fauna in having basally fused telopodites.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diplopoda; Polydesmida; Dalodesmidae; Australia; Tasmania</subject>
+          <subject_class locale="en_US">Diplopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <lastname>Mesibov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2010-08-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new earthworm eel of the genus &lt;i&gt;Chaudhuria &lt;/i&gt;from the Ayeyarwaddy River Drainage, Myanmar (Teleostei: Synbranchiformes: Chaudhuriidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Chaudhuria&lt;/i&gt; &lt;i&gt;ritvae,&lt;/i&gt; new species, from the lower Ayeyarwaddy River Drainage, southern Myanmar, is distinguished from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;caudata&lt;/i&gt; by a greater number of caudal vertebrae, shorter jaws, larger and broader ribs, neural arches of vertebrae without fenestration, absence of spots associated with base of dorsaland anal-fin rays, sparse body pigmentation consisting of only minute widely separated melanophores, and absence of pigmentation along pectoral-fin rays. It differs from its only other congener, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fusipinnis,&lt;/i&gt; by having the dorsal and anal fins separate from the caudal fin, by a smaller number of dorsaland anal-fin rays, by a greater number of caudal-fin rays and by the presence of teeth on hypobranchial 3.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Mastacembeloidei; Irrawaddy delta; small size</subject>
+          <subject_class locale="en_US">Taxonomy; Mastacembeloidei; Irrawaddy delta; small size</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2010-08-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

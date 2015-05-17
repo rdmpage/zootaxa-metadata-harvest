@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2932.1</id>
+    <title locale="en_US">28 Jun. 2011</title>
+    <volume>2932</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Anthaxia &lt;/i&gt;Eschscholtz, 1829 from Iran (Coleoptera: Buprestidae)</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Anthaxia&lt;/i&gt; Eschscholtz, 1829 endemic to Iran, &lt;i&gt;Anthaxia&lt;/i&gt; (Anthaxia) &lt;i&gt;magnanii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Anthaxia&lt;/i&gt; (Hap- &lt;i&gt;lanthaxia)&lt;/i&gt; &lt;i&gt;mannaea&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Anthaxia&lt;/i&gt; (Cratomerus) &lt;i&gt;meda&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; along with the creation of the &lt;i&gt;Anthaxia&lt;/i&gt; &lt;i&gt;parvula&lt;/i&gt; species-group, are proposed and illustrated. The new taxa are compared to their most similar species and data about their distribution, bionomy and taxonomic position are given, together with a short definition of the new species-group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Buprestidae; &lt;i&gt;Anthaxia&lt;/i&gt;; new species; new species-group; distribution; bionomy; taxonomy; Iran</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniele</firstname>
+          <lastname>Baiocchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2011-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kiwigaster &lt;/i&gt;gen. nov&lt;i&gt;. &lt;/i&gt;(Hymenoptera: Braconidae) from New Zealand: the first Microgastrinae with sexual dimorphism in number of antennal segments</title>
+        <abstract locale="en_US">A new and morphologically unusual genus of microgastrine Braconidae, &lt;i&gt;Kiwigaster&lt;/i&gt; Fernandez-Triana, Whitfield and Ward, with one new species, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;variabilis&lt;/i&gt; Fernandez-Triana and Ward, is described from New Zealand, where it is widespread. A number of morphological features mark it as unique among Microgastrinae, the most striking being the males and females having different numbers of antennal flagellomeres (females 17, males 18). Other unusual characters suggest this may be the most early-diverging extant species of the subfamily, although comprehensive phylogenetic analyses have yet to be conducted. Nothing is yet known about its host(s) or other aspects of its biology.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Braconidae; Microgastrinae; New Zealand; sexual dimorphism; antennae</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fernandez-Triana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Ward</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Whitfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-32</pages>
+        <date_published>2011-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description and phylogenetic position of a new &lt;i&gt;Willemia &lt;/i&gt;species(Collembola: Hypogastruridae) from the littoral coast of Brazil</title>
+        <abstract locale="en_US">A new psammobiontic &lt;i&gt;Willemia&lt;/i&gt; species from Brazil is described and illustrated: &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;zeppelini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The phylogeny for all the 43 species of the genus &lt;i&gt;Willemia&lt;/i&gt; is proposed comprising the new species and 8 species not included in D'Haese (2000) work. The new species is well defined with a unique Ant. III organ and one hr chaeta per anal valve among other characters. &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;zeppelini&lt;/i&gt; is sister group to the &lt;i&gt;buddenbrocki-group.&lt;/i&gt; An identification key for all known species of the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Poduromorpha; new species; phylogeny; neotropics; littoral sand; identification key</subject>
+          <subject_class locale="en_US">Poduromorpha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cyrille</firstname>
+          <middlename>A.</middlename>
+          <lastname>D’Haese</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Marc</firstname>
+          <lastname>Thibaud</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-40</pages>
+        <date_published>2011-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new stalk-eyed species of &lt;i&gt;Batrachophthalmum &lt;/i&gt;Hendel (Diptera, Richardiidae) from Colombia</title>
+        <abstract locale="en_US">&lt;i&gt;Batrachophthalmum&lt;/i&gt; &lt;i&gt;quimbaya&lt;/i&gt; Carvalho, Wolff &amp; Wendt, new species, from Santuario de Flora y Fauna Otún-Quimbaya, Colombia, is described. This stalk-eyed species of Richardiidae was collected at Bosque Sub-Andino in the central mountain range of Colombia. An identification key for two species of the genus, and for stalk-eyed species of the related genera &lt;i&gt;Richardia&lt;/i&gt; Robineau-Desvoidy and &lt;i&gt;Megalothoraca&lt;/i&gt; Hendel, are also added.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Batrachophthalmum&lt;/i&gt;; Colombian highlands; new stalk-eyed species; Richardiidae; South America</subject>
+          <subject_class locale="en_US">&lt;i&gt;Batrachophthalmum&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claudio</firstname>
+          <middlename>J. B.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marta</firstname>
+          <lastname>Wolff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lisiane</firstname>
+          <middlename>D.</middlename>
+          <lastname>Wendt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-46</pages>
+        <date_published>2011-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Contribution to the taxonomy of the &lt;i&gt;Hylaeus gibbus &lt;/i&gt;species group in Europe (Hymenoptera, Apoidea and Colletidae)</title>
+        <abstract locale="en_US">We redescribe and present new diagnoses of the &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;gibbus&lt;/i&gt; group in Europe. Species of this group were often confused with each other. Our method of distinguishing between the species is based on dividing three commonly recognised species into four. We present diagnoses and list the characteristics of &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;confusus&lt;/i&gt; Nylander, 1852; &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;gibbus&lt;/i&gt; Saunders, 1850; and &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;pictus&lt;/i&gt; (Smith, 1853). For the newly characterised form, one of Förster's available names has been resurrected—Hylaeus &lt;i&gt;incongruus&lt;/i&gt; Förster, 1871. &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;gibbus&lt;/i&gt; occurs only in southern Europe and northern to southern parts of central Europe, while &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;incongruus&lt;/i&gt; reaches more northern latitudes. Types of the most problematic and poorly described forms were examined. Some names of clearly lost types were fixed by designating neotypes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Apoidea; Colletidae; &lt;i&gt;Hylaeus&lt;/i&gt;; taxonomy; redescription; Europe</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jakub</firstname>
+          <lastname>Straka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petr</firstname>
+          <lastname>Bogusch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-67</pages>
+        <date_published>2011-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: Nemésio, A. &amp; Ferrari, R.R. (2011) Species of &lt;i&gt;Euglossa (Glossura) &lt;/i&gt;and &lt;i&gt;E. (Glossuropoda)&lt;/i&gt; (Hymenoptera: Apidae: Euglossina) occurring in the Amazon, including new records for Brazil. &lt;i&gt;Zootaxa&lt;/i&gt;, 2885, 1–13. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2011-06-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

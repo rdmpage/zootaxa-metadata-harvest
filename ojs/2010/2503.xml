@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2503.1</id>
+    <title locale="en_US">11 Jun. 2010</title>
+    <volume>2503</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Muscidae (Diptera) of New Caledonia</title>
+        <abstract locale="en_US">The Muscidae of New Caledonia are reviewed. A key for the identification of genera and species is given, together with diagnoses, descriptions and illustrations. The revision is based on literature records and on examined material from New Caledonia deposited in various museums and institutions. A total of 18 genera and 40 species are recognised, 7 of which are endemic and 4 of which are newly described: &lt;i&gt;Dichaetomyia&lt;/i&gt; &lt;i&gt;shinonagai,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Helina&lt;/i&gt; &lt;i&gt;flavoextrema,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Limnophora&lt;/i&gt; &lt;i&gt;longiantennata,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Pygophora&lt;/i&gt; &lt;i&gt;spinifera,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Helina&lt;/i&gt; Robineau-Desvoidy, &lt;i&gt;Synthesiomyia&lt;/i&gt; Brauer &amp; Bergenstamm and &lt;i&gt;Neomyia&lt;/i&gt; Walker are newly recorded genera, and &lt;i&gt;Atherigona&lt;/i&gt; &lt;i&gt;bidens&lt;/i&gt; Hennig, &lt;i&gt;Atherigona&lt;/i&gt; &lt;i&gt;poecilopoda&lt;/i&gt; Bezzi, &lt;i&gt;Lispe&lt;/i&gt; &lt;i&gt;fuscipalpis&lt;/i&gt; Malloch, &lt;i&gt;Lispocephala&lt;/i&gt; &lt;i&gt;occulta&lt;/i&gt; (Pont), &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;ventrosa&lt;/i&gt; Wiedemann, &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;vetustissima&lt;/i&gt; Walker, &lt;i&gt;Neomyia&lt;/i&gt; &lt;i&gt;timorensis&lt;/i&gt; (Robineau-Desvoidy), &lt;i&gt;Pygophora&lt;/i&gt; &lt;i&gt;hopkinsi&lt;/i&gt; Malloch and &lt;i&gt;Synthesiomyia&lt;/i&gt; &lt;i&gt;nudiseta&lt;/i&gt; (Wulp) are newly recorded species for New Caledonia. Four species previously recorded in the literature on New Caledonia, &lt;i&gt;Muscina&lt;/i&gt; &lt;i&gt;stabulans&lt;/i&gt; (Fallén), &lt;i&gt;Lispe&lt;/i&gt; &lt;i&gt;assimilis&lt;/i&gt; Wiedemann, &lt;i&gt;Pygophora&lt;/i&gt; &lt;i&gt;maculigera&lt;/i&gt; (Stein) and &lt;i&gt;Pygophora&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; Malloch, were not represented in the material examined. The male terminalia of the &lt;i&gt;Atherigona&lt;/i&gt; species, &lt;i&gt;Pygophora&lt;/i&gt; &lt;i&gt;caledonica&lt;/i&gt; (Bigot) and the new species are illustrated. &lt;i&gt;Coenosia&lt;/i&gt; &lt;i&gt;pumilio&lt;/i&gt; Stein is redescribed. &lt;i&gt;Lispe&lt;/i&gt; &lt;i&gt;binotata&lt;/i&gt; Becker, 1914 is a new junior subjective synonym of &lt;i&gt;Lispe&lt;/i&gt; &lt;i&gt;nicobarensis&lt;/i&gt; Schiner, 1868, syn. nov. A brief discussion on the composition of the fauna is also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New Caledonia; Diptera; Muscidae; biogeography</subject>
+          <subject_class locale="en_US">New Caledonia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcia</firstname>
+          <middlename>S.</middlename>
+          <lastname>Couri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adrian</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pont</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christophe</firstname>
+          <lastname>Daugeron</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2010-06-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

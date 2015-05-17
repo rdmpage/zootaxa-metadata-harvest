@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3443.1</id>
+    <title locale="en_US">29 Aug. 2012</title>
+    <volume>3443</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision and phylogenetic analysis of the spider genus &lt;i&gt;Philisca &lt;/i&gt;Simon (Araneae: Anyphaenidae, Amaurobioidinae)</title>
+        <abstract locale="en_US">We review the spider genus &lt;i&gt;Philisca&lt;/i&gt; Simon, an endemic of the southern forests in Chile and Argentina, and present aphylogenetic analysis including 15 species, of which five are newly described (P. &lt;i&gt;atrata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;robinson,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;viernes,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pizarroi&lt;/i&gt;and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;robusta),&lt;/i&gt; together with other 98 representatives of the family Anyphaenidae. Four species names are considerednomina dubia (Clubiona &lt;i&gt;gayi&lt;/i&gt; Nicolet, &lt;i&gt;Drassus&lt;/i&gt; &lt;i&gt;mirandus&lt;/i&gt; Nicolet, &lt;i&gt;Clubiona&lt;/i&gt; &lt;i&gt;altiformis&lt;/i&gt; Nicolet, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;obscura&lt;/i&gt; Simon). &lt;i&gt;Cluilius&lt;/i&gt;&lt;i&gt;chilensis&lt;/i&gt; Mello-Leitão is newly synonymized with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;accentifera&lt;/i&gt; Simon. The phylogenetic analysis resulted in &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;puconensis&lt;/i&gt; Ramírez branching off basally in the genus, because of its numerous leg spines and unmodified malechelicerae, all plesiomorphic for the group; the remaining species form two clear groups. The first one, formed by &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hahni&lt;/i&gt;Simon, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tripunctata&lt;/i&gt; (Nicolet), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amoena&lt;/i&gt; (Simon), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hyadesi&lt;/i&gt; (Simon) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;doilu&lt;/i&gt; (Ramírez), are grouped by the lossof spines on legs I and II. The second, formed by &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;huapi&lt;/i&gt; Ramírez, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ingens&lt;/i&gt; Berland, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ornata&lt;/i&gt; Berland, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;accentifera&lt;/i&gt;Simon, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;atrata&lt;/i&gt; and four new species endemic to the Robinson Crusoe Island in the Juan Fernández Archipelago, havethe male chelicerae, and in most cases also the endites, modified. In total, six species of &lt;i&gt;Philisca&lt;/i&gt; are endemic to JuanFernández, but our dataset is not conclusive for the distinction of alternative colonization scenarios. We analyze theevolution of leg macrosetae, and show two independent instances of reduction of spination, one on the continent and another on the Juan Fernández islands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">South America; Robinson Crusoe; Juan Fernández; island biogeography; systematics; cladistics.</subject>
+          <subject_class locale="en_US">South America</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Soto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ramírez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-65</pages>
+        <date_published>2012-08-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

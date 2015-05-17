@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2290.1</id>
+    <title locale="en_US">16 Nov. 2009</title>
+    <volume>2290</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">First report of rare pomfrets (Teleostei: Bramidae) from Brazilian waters, with a key to Western Atlantic species</title>
+        <abstract locale="en_US">This is the first in a series of reports describing new records caught with circle hooks, a method only now being employed in exploratory fishing in Brazilian deep waters. Several new records of deep-water fishes were obtained with this equipment. In this paper we record for the first time the occurrence of two genera and species of Bramidae in Brazilian waters: the tropical pomfret &lt;i&gt;Eumegistus&lt;/i&gt; &lt;i&gt;brevorti&lt;/i&gt; and the keeltail pomfret &lt;i&gt;Taractes&lt;/i&gt; &lt;i&gt;rubescens.&lt;/i&gt; We also report on previously unnoticed collection records from preserved specimens of &lt;i&gt;Pterycombus&lt;/i&gt; &lt;i&gt;brama&lt;/i&gt; in museum collections, and the first capture of an adult bigscale pomfret &lt;i&gt;Taractichthys&lt;/i&gt; &lt;i&gt;longipinnis&lt;/i&gt; in Brazil. These new records increase the number of bramid species known from Brazilian waters to ten. The addition of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;brama&lt;/i&gt; to the Brazilian Bramidae makes the Southwestern Atlantic the only known area of the world where two species of &lt;i&gt;Pterycombus&lt;/i&gt; are found together. Meristic, biometric, and new biological data are presented for &lt;i&gt;Eumegistus&lt;/i&gt; &lt;i&gt;brevorti.&lt;/i&gt; Some species of bramids are rather rare and even if well described in the literature there are morphological characters and behavioral aspects yet to be added. Herein we present detailed descriptions of some bramid species to add to their published descriptions. A key to the Western Atlantic Bramidae is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pomfrets; &lt;i&gt;Eumegistus&lt;/i&gt;; &lt;i&gt;Taractes&lt;/i&gt;; &lt;i&gt;Taractichthys&lt;/i&gt;; &lt;i&gt;Pterycombus&lt;/i&gt;; deep-sea fishes; fisheries.</subject>
+          <subject_class locale="en_US">Pomfrets</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alfredo</firstname>
+          <lastname>Carvalho-Filho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guy</firstname>
+          <lastname>Marcovaldi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cláudio</firstname>
+          <middlename>L. S.</middlename>
+          <lastname>Sampaio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Isabel G.</middlename>
+          <lastname>Paiva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luiz</firstname>
+          <middlename>A. G.</middlename>
+          <lastname>Duarte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2009-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Phenacoscorpius longirostris&lt;/i&gt;, a new species of deep water scorpionfish (Scorpaeniformes: Scorpaenidae) from the northern Tasman Sea, southwestern Pacific Ocean</title>
+        <abstract locale="en_US">A new species of deep water scorpionfish, &lt;i&gt;Phenacoscorpius&lt;/i&gt; &lt;i&gt;longirostris,&lt;/i&gt; is described on the basis of two specimens from the Norfolk Island Ridge and Lord Howe Rise, northern Tasman Sea, at depths of 300–322 m. The new species is distinguished from other congeners by the following combination of characters: all pectoral-fin rays unbranched; no palatine teeth; second preopercular spine well-developed, its length longer than third or fourth spines; and several morphometric characters, including orbit diameter, head width, caudal-peduncle length and depth, and snout, predorsal, preanal and prepelvic lengths.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scorpaenidae; scorpionfish; &lt;i&gt;Phenacoscorpius&lt;/i&gt; &lt;i&gt;longirostris&lt;/i&gt;; new species; Tasman Sea; Australia</subject>
+          <subject_class locale="en_US">Scorpaenidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-35</pages>
+        <date_published>2009-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus for three species of tyrant flycatchers (Passeriformes: Tyrannidae), formerly placed in &lt;i&gt;Myiophobus&lt;/i&gt;</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Nephelomyias,&lt;/i&gt; is erected for three species of Andean tyrant flycatchers (Aves: Passeriformes: Tyrannidae) traditionally placed in the genus &lt;i&gt;Myiophobus.&lt;/i&gt; An extensive study based on molecular data has shown that they form a well supported clade that is not closely related to other &lt;i&gt;Myiophobus&lt;/i&gt; species. Instead, they form a small independent lineage in Tyrannidae, together with &lt;i&gt;Pyrrhomyias,&lt;/i&gt; &lt;i&gt;Hirundinea&lt;/i&gt; and &lt;i&gt;Myiotriccus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Nephelomyias&lt;/i&gt; &lt;i&gt;lintoni&lt;/i&gt;; &lt;i&gt;Nephelomyias&lt;/i&gt; &lt;i&gt;ochraceiventris&lt;/i&gt;; &lt;i&gt;Nephelomyias&lt;/i&gt; &lt;i&gt;pulcher&lt;/i&gt;; Tyrannidae; taxonomy; phylogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Nephelomyias&lt;/i&gt; &lt;i&gt;lintoni&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <middlename>I.</middlename>
+          <lastname>Ohlson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jon</firstname>
+          <lastname>Fjeldså</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Per</firstname>
+          <middlename>G. P.</middlename>
+          <lastname>Ericson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-40</pages>
+        <date_published>2009-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Buotidae, a new family for the minute North American milliped &lt;i&gt;Buotus&lt;/i&gt; &lt;i&gt;carolinus &lt;/i&gt;(Chamberlin) 1940 (Diplopoda, Chordeumatida, Striarioidea)</title>
+        <abstract locale="en_US">&lt;i&gt;Buotus&lt;/i&gt; &lt;i&gt;carolinus&lt;/i&gt; (Chamberlin) 1940, a minute, rarely collected but relatively widespread milliped of the mid-Atlantic region of the United States, was originally described as a member of the order Polyzoniida, family Polyzoniidae. Shear (1981) correctly placed the species in the order Chordeumatida and argued for assignment to the suborder Craspedosomatidea, superfamily Brannerioidea, family Tingupidae. New studies of fresh specimens using the scanning electron microscope, however, revealed characters inconsistent with this placement and instead support inclusion of &lt;i&gt;Buotus&lt;/i&gt; in the suborder Striariidea, superfamily Striarioidea. Because the species cannot be accommodated in any of the established families of this superfamily, a new family Buotidae is herein erected to receive it.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">North Carolina; Virginia; taxonomy; morphology; Brannerioidea; Striariidae; Tingupidae; Rhiscosomididae; Apterouridae</subject>
+          <subject_class locale="en_US">North Carolina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>A.</middlename>
+          <lastname>Shear</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-49</pages>
+        <date_published>2009-11-16</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of habronematid nematodes (Nematoda: Spirurida: Habronematidae) in birds of prey from West Java, Indonesia with a key to species of &lt;i&gt;Torquatoides&lt;/i&gt;</title>
+        <abstract locale="en_US">Two new species of habronematid nematodes are described from Gunung Ciremai National Park, West Java, Indonesia. &lt;i&gt;Procyrnea&lt;/i&gt; &lt;i&gt;javaensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; collected from the gizzard of the Collared Scops Owl, &lt;i&gt;Otus&lt;/i&gt; &lt;i&gt;bakkamoena&lt;/i&gt; &lt;i&gt;lempiji,&lt;/i&gt; can be distinguished from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;brevicaudata&lt;/i&gt; as the left side of body lacks two longitudinal ridges, in having a ventral rather than a sinistral vulvar opening, and in the shape of the female tail. The new species differs from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ficheuri&lt;/i&gt; in shape of the left spicule, and in having asymmetrical caudal alae; from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;murrayi&lt;/i&gt; in shape of the left spicule; from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ameerae&lt;/i&gt; by having a longer left spicule, different spicule ratio and one median preanal papilla; from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dollfusi&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;aptera&lt;/i&gt; in the spicule ratio and in having a shorter female tail, and from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;haliasturi&lt;/i&gt; in the spicule ratio and in having a post-equatorial versus pre-equatorial vulva. &lt;i&gt;Torquatoides&lt;/i&gt; &lt;i&gt;noerdjitoi&lt;/i&gt; &lt;b&gt;n.sp.&lt;/b&gt; collected from the gizzard of Sunda Frogmouth, &lt;i&gt;Batrachostomus&lt;/i&gt; &lt;i&gt;javensis&lt;/i&gt; &lt;i&gt;javensis,&lt;/i&gt; can be distinguished from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;torquata,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bengalensis,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;crotophaga&lt;/i&gt; in lacking lateral alae. The new species differs from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;balanocephala&lt;/i&gt; in numbers of cuticular plaques and precloacal papillae; from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;singhi&lt;/i&gt; in having longer bodies, numbers of precloacal papillae, longer spicules, and in the egg size; and from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;trogoni&lt;/i&gt; in the numbers of precloacal papillae, in the shapes of right spicule and gubernaculum.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">nematode; &lt;i&gt;Procyrnea&lt;/i&gt; &lt;i&gt;javaensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Torquatoides&lt;/i&gt; &lt;i&gt;noerdjitoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; bird hosts; Indonesia; owl; frogmouth</subject>
+          <subject_class locale="en_US">nematode</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luping</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kartika</firstname>
+          <lastname>Dewi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Endang</firstname>
+          <lastname>Purwaningsih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-58</pages>
+        <date_published>2009-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A redefinition of &lt;i&gt;Iranothyas &lt;/i&gt;Bader, 1984 with the description of a new species from Oman</title>
+        <abstract locale="en_US">From a reinvestigation of the holotype of &lt;i&gt;Iranothyas&lt;/i&gt; &lt;i&gt;circularis&lt;/i&gt; (Schwoerbel &amp; Sepasgozarian, 1976) results that this species was based on a female, not a male, as stated in the original description. The genus &lt;i&gt;Iranothyas&lt;/i&gt; Bader, 1984, is redefined and &lt;i&gt;Balaneothyas&lt;/i&gt; Gerecke, 1999 (monotypic, type species: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;marismortui&lt;/i&gt; Gerecke, 1999 from Israel) is recognized as its junior synonym. Bader's (1984) proposal to attribute &lt;i&gt;Panisopsis&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; Imamura &amp; Mitchell, 1967 to &lt;i&gt;Iranothyas&lt;/i&gt; is refused. A new, third species of &lt;i&gt;Iranothyas,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;alhajarica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from Oman.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Iranothyas&lt;/i&gt;; &lt;i&gt;Balaneothyas&lt;/i&gt;; new species; Oman</subject>
+          <subject_class locale="en_US">&lt;i&gt;Iranothyas&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pesic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reinhard</firstname>
+          <lastname>Gerecke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2009-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Malagasy blind snake of the genus &lt;i&gt;Typhlops &lt;/i&gt;Oppel (Serpentes: Typhlopidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julien</firstname>
+          <middlename>P.</middlename>
+          <lastname>Renoult</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Achille</firstname>
+          <middlename>P.</middlename>
+          <lastname>Raselimanana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-11-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2882.1</id>
+    <title locale="en_US">18 May. 2011</title>
+    <volume>2882</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the nominotypical subgenus of &lt;i&gt;Arachnospila &lt;/i&gt;Kincaid (Hymenoptera: Pompilidae) of Russia and neighbouring countries with the lectotypification of enigmatic &lt;i&gt;Pompilus sogdianus &lt;/i&gt;Morawitz and description of new species</title>
+        <abstract locale="en_US">Eleven species are reviewed. A lectotype of &lt;i&gt;Pompilus&lt;/i&gt; &lt;i&gt;sogdianus&lt;/i&gt; Morawitz 1893 is designated, illustrated and redescribed. The distribution of &lt;i&gt;Arachnospila&lt;/i&gt; &lt;i&gt;sogdiana&lt;/i&gt; (Morawitz) is limited to Tajikistan only. A new species from Tajikistan, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gussakovskii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described and illustrated. A new synonymy is proposed for &lt;i&gt;Pompilus&lt;/i&gt; &lt;i&gt;clericalis&lt;/i&gt; Morawitz 1893 =Arachnospila &lt;i&gt;mongolorufa&lt;/i&gt; Wolf &amp; Móczár 1972, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Psammochares&lt;/i&gt; &lt;i&gt;subocellatus&lt;/i&gt; Haupt 1933 is synonymized with &lt;i&gt;Psammochares&lt;/i&gt; &lt;i&gt;effodiens&lt;/i&gt; f. &lt;i&gt;quadrimaculata&lt;/i&gt; Haupt 1929, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which is raised to specific status and removed to &lt;i&gt;Arachnospila.&lt;/i&gt; The synonymy of &lt;i&gt;Arachnospila&lt;/i&gt; &lt;i&gt;sogdiana&lt;/i&gt; &lt;i&gt;koenigsmanni&lt;/i&gt; Wolf 1970 with &lt;i&gt;Pompilus&lt;/i&gt; &lt;i&gt;sogdianus&lt;/i&gt; Morawitz 1893 is confirmed. &lt;i&gt;Pompilus&lt;/i&gt; &lt;i&gt;turcorum&lt;/i&gt; de Dalla Torre 1897 (=Pompilus &lt;i&gt;vagans&lt;/i&gt; Radoszkowski 1877, nom. praeocc., nec Costa 1874) is resurrected and moved to &lt;i&gt;Arachnospila.&lt;/i&gt; A key to the species for both sexes is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pompilidae; spider wasps; &lt;i&gt;Arachnospila&lt;/i&gt;; nominotypical subgenus; Russia; lectotypification; new species</subject>
+          <subject_class locale="en_US">Pompilidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arkady</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lelej</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Valery</firstname>
+          <middlename>M.</middlename>
+          <lastname>Loktionov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Nivalios &lt;/i&gt;gen. nov. (Hemiptera: Fulgoromorpha: Flatidae), first record of the tribe Nephesini from China</title>
+        <abstract locale="en_US">This paper describes one new flatid genus, &lt;i&gt;Nivalios&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and one new species, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from southern China. The new genus is assigned to the tribe Nephesini. A key to genera of the tribe Nephesini from the Oriental Region is provided. Scanning electron micrographs of the antennal sensilla, cross-sections through the subapical rostral segment and wax glands on the tegmen of the new species are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Planthoppers; new record tribe; taxonomy; antennal sensilla; wax glands; maxillae and mandibles; Fulgoroidea</subject>
+          <subject_class locale="en_US">Planthoppers</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ya-Lin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ling-Fei</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ying-Lun</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-26</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of bamboo-feeding leafhopper genus &lt;i&gt;Mukaria &lt;/i&gt;Distant (Hemiptera: Cicadellidae: Mukariinae) with description of a new species from China</title>
+        <abstract locale="en_US">The bamboo-feeding leafhopper genus &lt;i&gt;Mukaria&lt;/i&gt; Distant is known to include eight species from China: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;albinotata&lt;/i&gt; Cai &amp; Ge, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bambusana&lt;/i&gt; Li &amp; Chen, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flavida&lt;/i&gt; Cai &amp; Ge, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; (Matsumura), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt; Kuoh &amp; Kuoh, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pallipes&lt;/i&gt; Li &amp; Chen and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;testacea&lt;/i&gt; Chen, Liang &amp; Li. One new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (frp, Guizhou Province, China), is described and illustrated. A checklist of species, host plants and distribution of &lt;i&gt;Mukaria&lt;/i&gt; are given along with a key to Chinese species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; morphology; distribution; identification; China</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lin</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiang-Sheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-34</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Paragolsinda &lt;/i&gt;Breuning, 1956 (Coleoptera, Cerambycidae, Lamiinae, Mesosini), with reconsideration of the endophallic terminology</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Paragolsinda&lt;/i&gt; Breuning, 1956 is reviewed. To date, only the type species of the genus, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fruhstorferi&lt;/i&gt; Breuning, 1956 has been known. Two species of the genus &lt;i&gt;Mesoereis&lt;/i&gt; Matsushita, 1933, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tonkinensis&lt;/i&gt; Breuning, 1938 and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;obscurus&lt;/i&gt; Matsushita, 1933, are transferred to the genus &lt;i&gt;Paragolsinda&lt;/i&gt; by the features of external structure judged from the photographs of the type specimen of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fruhstorferi.&lt;/i&gt; A new species, &lt;i&gt;Paragolsinda&lt;/i&gt; &lt;i&gt;siamensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Northern Thailand, is described. The structures of endophallus except for the type species are described with illustrations. The terminology for the structure of endophallus employed in our previous paper is partly modified in accordance with recent references.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cerambycidae; Mesosini; endophallus; endophallic terminology; new species; new combination; &lt;i&gt;Paragolsinda&lt;/i&gt;; &lt;i&gt;Mesoereis&lt;/i&gt;; key</subject>
+          <subject_class locale="en_US">Cerambycidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Junsuke</firstname>
+          <lastname>Yamasako</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nobuo</firstname>
+          <lastname>Ohbayashi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-50</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Cocos-&lt;/i&gt;eating moth of &lt;i&gt;Acria &lt;/i&gt;Stephens, 1834 (Lepidoptera, Peleopodidae) from China, with descriptions of its adult, larva and pupa</title>
+        <abstract locale="en_US">A species of &lt;i&gt;Acria&lt;/i&gt; Stephens, 1834 is reported as new to science, namely &lt;i&gt;Acria&lt;/i&gt; &lt;i&gt;cocophaga&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Descriptions and illustrations of adults, genital, larval and pupal structures are all provided. The types of the species are deposited at the Institute of Zoology, Chinese Academy of Sciences (IZCAS).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; Lepidoptera; Peleopodidae; &lt;i&gt;Acria&lt;/i&gt;; larva; pupa</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fuqiang</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chunsheng</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-58</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The nymph of &lt;i&gt;Anacroneuria debilis &lt;/i&gt;(Pictet, 1841) (Plecoptera: Perlidae)</title>
+        <abstract locale="en_US">The nymph of &lt;i&gt;Anacroneuria&lt;/i&gt; &lt;i&gt;debilis&lt;/i&gt; (Pictet, 1841) is described, being the first immature of this genus described in Brazil. It can be distinguished from other described &lt;i&gt;Anacroneuria&lt;/i&gt; nymphs by: (1) the presences of a row of fine, long bristles along the tibia; (2) by the absence of long bristles on the frons; (3) due to its distinctive color pattern; and (4) by the presences of rows of bristles on the basal third of the cercus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Description; Immatures; Neotropical Plecoptera; Pedra Branca State Park; Rio de Janeiro</subject>
+          <subject_class locale="en_US">Description</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernanda</firstname>
+          <middlename>Avelino Capistrano</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leandro</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Barbosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gisele</firstname>
+          <middlename>Luziane</middlename>
+          <lastname>De Almeida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-63</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Bembidion &lt;/i&gt;(&lt;i&gt;Plataphodes&lt;/i&gt;) &lt;i&gt;kmecoi &lt;/i&gt;sp. nov. from China, Sichuan (Coleoptera: Carabidae: Bembidiina)</title>
+        <abstract locale="en_US">&lt;i&gt;Bembidion&lt;/i&gt; &lt;i&gt;kmecoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; herewith described, sister species of &lt;i&gt;Bembidion&lt;/i&gt; &lt;i&gt;farkaci&lt;/i&gt; Toledano &amp; Sciaky, 1998, is the third species of the subgenus &lt;i&gt;Plataphodes&lt;/i&gt; Ganglbauer, 1891 known from China. A key for the identification of these species is provided. Another species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;elatum&lt;/i&gt; Andrewes, 1930, formerly known as &lt;i&gt;Plataphodes,&lt;/i&gt; is transferred to &lt;i&gt;Blepharoplataphus&lt;/i&gt; Netolitzky, 1920. Nomenclatorial acts proposed in this paper: Description of &lt;i&gt;Bembidion&lt;/i&gt; (Plataphodes) &lt;i&gt;kmecoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China); Species transferred from &lt;i&gt;Bembidion&lt;/i&gt; subg. &lt;i&gt;Plataphodes&lt;/i&gt; Ganglbauer, 1891 to &lt;i&gt;Bembidion&lt;/i&gt; subg. &lt;i&gt;Blepharoplataphus&lt;/i&gt; Netolitzky, 1920: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;elatum&lt;/i&gt; Andrewes, 1930.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Blepharoplataphus&lt;/i&gt;; taxonomy; new species; key for species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Blepharoplataphus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luca</firstname>
+          <lastname>Toledano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oto</firstname>
+          <lastname>Nakládal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2011-05-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

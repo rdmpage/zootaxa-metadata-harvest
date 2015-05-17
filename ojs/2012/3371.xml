@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3371.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3371</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Decapod Crustacea of the Californian and Oregonian Zoogeographic Provinces</title>
+        <abstract locale="en_US">Approximately 325 species of decapod crustaceans are reported from the Californian and Oregonian zoogeographicprovinces, a figure that includes all freshwater, estuarine, and marine (intertidal zone to 4000 m) decapods from the area.At least six of these species have not been reported from California since 1921, three species cannot be recognized fromtheir descriptions and lack type material and illustrations and another five species may have ben reported from mistakenlocalities or are the result of misidentification.The area is mostly inhabited by cold-temperate species. Genera endemic to the northeastern Pacific include theanomurans &lt;i&gt;Janetogalathea&lt;/i&gt; (Galatheidae), &lt;i&gt;Acantholithodes,&lt;/i&gt; &lt;i&gt;Phyllolithodes,&lt;/i&gt; and &lt;i&gt;Rhinolithodes&lt;/i&gt; (Lithodidae); and thebrachyurans &lt;i&gt;Mimulus&lt;/i&gt; (Epialtidae), &lt;i&gt;Loxorhynchus,&lt;/i&gt; and &lt;i&gt;Scyra&lt;/i&gt; (Pisidae). Families that are particularly diverse in speciesinclude carideans of the families Thoridae, Pandalidae, and Crangonidae; anomurans of the families Hapalogasteridae,Lithodidae, and Paguridae and brachyurans of the families Epialtidae, Cancridae, and Pinnotheridae. Crayfishes of thegenus &lt;i&gt;Pacifastacus&lt;/i&gt; (Astacidae) were endemic to the area prior to human introductions elsewhere. At least three estuarineand two freshwater decapods belonging to the families Palaemonidae, Cambaridae, Panopeidae and Varunidae have beenintroduced into the area and maintain reproducing populations.Keys are provided to all the families, genera, and species treated. A major synonymy, short description, andinformation on habitat, biogeography, type locality, and color in life are provided for each species. References areprovided to the original descriptions of all taxa mentioned. Additional remarks on taxonomy, symbiotic associations,characteristic behavior, and other information that may help in identification also are given.New generic designations for &lt;i&gt;Hippolyte&lt;/i&gt; &lt;i&gt;affinis&lt;/i&gt; Owen, 1839 and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;layi&lt;/i&gt; Owen, 1839 (Thoridae) are supported.Expanded diagnoses are given for &lt;i&gt;Heptacarpus&lt;/i&gt; &lt;i&gt;franciscanus&lt;/i&gt; (Schmitt, 1921) (Thoridae), &lt;i&gt;Isocheles&lt;/i&gt; &lt;i&gt;pilosus&lt;/i&gt; (Holmes, 1900), and &lt;i&gt;Paguristes&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt; Holmes, 1900 (Diogenidae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Dendrobranchiata; Penaeoidea; Sergestoidea; Pleocyemata; Stenopodidea; Caridea; Astacidea,</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mary</firstname>
+          <middlename>K.</middlename>
+          <lastname>Wicksten</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-307</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

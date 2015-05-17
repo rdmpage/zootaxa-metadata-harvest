@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3133.1</id>
+    <title locale="en_US">16 Dec. 2011</title>
+    <volume>3133</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Proceratophrys &lt;/i&gt;Miranda-Ribeiro (Amphibia: Anura: Cycloramphidae) from the Chapada Diamantina, State of Bahia, northeastern Brazil</title>
+        <abstract locale="en_US">We describe a new species of &lt;i&gt;Proceratophrys,&lt;/i&gt; allied to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;schirchi,&lt;/i&gt; from the northern sector of the Espinhaço mountain range, within a semiarid region in central State of Bahia known as Chapada Diamantina. The new species inhabits seasonal semi-deciduous forests (usually known as dry forests) that cover the mountainous relief of the Serra de Jacobina, a regional designation of the Espinhaço mountain range in northeastern Brazil. &lt;i&gt;Proceratophrys&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; most resembles &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;schirchi&lt;/i&gt; by combination of small palpebral appendages, general external morphology, and by its restriction to Atlantic Forest remnants. It is diagnosed from all congeners by the combination of small body size (snout–vent length, males 20.4–25.2 mm, females 28.3–31.9 mm), absence of rostral appendage, short palpebral appendages with the central prominent, dorsum adorned with sinuous longitudinal ridges outlining a spear-shaped ornamentation like a hastate-shaped leaf (with flaring pointed lobes at eyes and spear point at urostile), and other six morphological characteristics. We also describe the tadpole of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and compare its color and external morphology with other tadpoles of &lt;i&gt;Proceratophrys&lt;/i&gt; described in the literature.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alsodinae; &lt;i&gt;Proceratophrys&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Proceratophrys&lt;/i&gt; &lt;i&gt;schirchi&lt;/i&gt;; taxonomy; Serra de Jacobina</subject>
+          <subject_class locale="en_US">Alsodinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>Felgueiras</middlename>
+          <lastname>Napoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>Alberto Gonçalves</middlename>
+          <lastname>Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <middlename>Oliveira</middlename>
+          <lastname>De Abreu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Lucia</middlename>
+          <lastname>Del-Grande</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-49</pages>
+        <date_published>2011-12-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Amphicutis stygobita&lt;/i&gt;, a new genus and new species of brittle star (Echinodermata: Ophiuroidea: Ophiurida: Amphilepididae) found in Bernier Cave, an anchialine cave on San Salvador Island, Bahamas</title>
+        <abstract locale="en_US">&lt;i&gt;Amphicutis&lt;/i&gt; &lt;i&gt;stygobita&lt;/i&gt; is a new genus and new species of ophiuroid found in Bernier Cave, an anchialine cave on San Salvador Island, Bahamas. The species is small (disk diameter 3–4 mm) with short arms (2–2.5X disk diameter). Dorsal disk features include imbricated scales, and oval radial shields separated by a column of scales. Ventral disk features include imbricated scales, genital scales flat and thin, no bursal sacs, second tentacle pore of oral frame outside mouth slit, oral shields small ovals similar in appearance to disk scales, two to three oral papillae per jaw side with the proximal papillae usually in the infradental position, and ventral tooth at the apex of each jaw broadly rounded. The arms are the most distinctive feature. Dorsal arm plates are small diamond-oval shaped and separated from one another by a gap equal to the arm plate length. Ventral arm plates are small figure-8 shaped and separated from one another by a gap equal to the arm plate length. Lateral arm plates meet medially on dorsal and ventral sides and make up most of an arm segment. Each lateral arm plate bears two arm spines. Disk and arms are often formed by soft tissue outlining plates and scales, but lacking significant calcification. A raised skin persists after calcification, from which the genus name derives. The species is named for its aquatic cave-dwelling habit, apparently endemic to a single cave, and may be unique among ophiuroids in being restricted to a cave environment.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">ophiuroid; endemism; troglobite; stygobite; Caribbean</subject>
+          <subject_class locale="en_US">ophiuroid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pomory</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerry</firstname>
+          <middlename>H.</middlename>
+          <lastname>Carpenter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>H.</middlename>
+          <lastname>Winter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-68</pages>
+        <date_published>2011-12-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

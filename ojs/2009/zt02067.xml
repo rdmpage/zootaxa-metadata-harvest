@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2067.1</id>
+    <title locale="en_US">8 Apr. 2009</title>
+    <volume>2067</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Molecular phylogeny, classification, and biogeography of West Indian racer snakes of the Tribe Alsophiini (Squamata, Dipsadidae, Xenodontinae)</title>
+        <abstract locale="en_US">Most West Indian snakes of the family Dipsadidae belong to the Subfamily Xenodontinae and Tribe Alsophiini. As recognized here, alsophiine snakes are exclusively West Indian and comprise 43 species distributed throughout the region. These snakes are slender and typically fast-moving (active foraging), diurnal species often called racers. For the last four decades, their classification into six genera was based on a study utilizing hemipenial and external morphology and which concluded that their biogeographic history involved multiple colonizations from the mainland. Although subsequent studies have mostly disagreed with that phylogeny and taxonomy, no major changes in the classification have been proposed until now. Here we present a DNA sequence analysis of five mitochondrial genes and one nuclear gene in 35 species and subspecies of alsophiines. Our results are more consistent with geography than previous classifications based on morphology, and support a reclassification of the species of alsophiines into seven named and three new genera: &lt;i&gt;Alsophis&lt;/i&gt; Fitzinger (Lesser Antilles), &lt;i&gt;Arrhyton&lt;/i&gt; Günther (Cuba), &lt;i&gt;Borikenophis&lt;/i&gt; Hedges &amp; Vidal gen. nov. (Puerto Rican Bank and nearby islands), &lt;i&gt;Caraiba&lt;/i&gt; Zaher et al. (Cuba), &lt;i&gt;Cubophis&lt;/i&gt; Hedges &amp; Vidal gen. nov. (primarily Cuba but extending throughout the western Caribbean and Bahamas Bank), &lt;i&gt;Haitiophis&lt;/i&gt; Hedges &amp; Vidal gen. nov. (Hispaniola), &lt;i&gt;Hypsirhynchus&lt;/i&gt; Günther (Hispaniola and Jamaica), &lt;i&gt;Ialtris&lt;/i&gt; Cope (Hispaniola), &lt;i&gt;Magliophis&lt;/i&gt; Zaher et al. (Puerto Rican Bank), and &lt;i&gt;Uromacer&lt;/i&gt; Duméril &amp; Bibron (Hispaniola). Several subspecies are recognized as full species. Three subtribes are recognized within the tribe Alsophiini Fitzinger: Alsophiina Fitzinger (for &lt;i&gt;Alsophis,&lt;/i&gt; &lt;i&gt;Borikenophis,&lt;/i&gt; &lt;i&gt;Caraiba,&lt;/i&gt; &lt;i&gt;Cubophis,&lt;/i&gt; &lt;i&gt;Haitiophis,&lt;/i&gt; &lt;i&gt;Hypsirhynchus,&lt;/i&gt; &lt;i&gt;Ialtris,&lt;/i&gt; and &lt;i&gt;Magliophis),&lt;/i&gt; Arrhytonina Hedges &amp; Vidal subtribus nov. (for &lt;i&gt;Arrhyton),&lt;/i&gt; and Uromacerina Hedges &amp; Vidal subtribus nov. (for &lt;i&gt;Uromacer).&lt;/i&gt; Divergence time estimates based on the molecular data indicate a relatively recent (~17–13 million years ago, Ma) origin for alsophiines. A single species apparently dispersed from South America, probably colonizing Hispaniola or Cuba and then later (13–0 Ma) there was dispersal to other islands and subsequent adaptive radiation, mostly in the Pliocene (5.3–1.8 Ma) and Pleistocene (1.8–0.01 Ma). More evidence will be needed to resolve all relationships among the genera and species groups and further details of their biogeographic history.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alethinophidia; &lt;i&gt;Borikenophis&lt;/i&gt;; Caenophidia; Colubroidea; &lt;i&gt;Cubophis&lt;/i&gt;; cytochrome b; ND4; ND2; RAG2; Serpentes; 16S rRNA; 12S rRNA; West Indies</subject>
+          <subject_class locale="en_US">Alethinophidia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>Blair</middlename>
+          <lastname>Hedges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arnaud</firstname>
+          <lastname>Couloux</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicolas</firstname>
+          <lastname>Vidal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2009-04-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">An updated and annotated checklist of recent nonmarine ostracods from China</title>
+        <abstract locale="en_US">The updated and annotated checklist includes all published names of Chinese recent nonmarine ostracods and their provincial records up to 2007. A total of 160 specific names are included. Of these, 154 are taxonomically accepted names. At present, the richest province with more than 53 species of ostracods is Qinghai, followed by Yunnan with 42 species and Tibet with 30 species. There are still fourteen provinces in China without records, and two provinces with only one ostracod reported. These provinces are in need of immediate investigation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">China; recent nonmarine ostracods; checklist</subject>
+          <subject_class locale="en_US">China</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Na</firstname>
+          <lastname>Yu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Quanhong</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Erchao</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shimei</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liqiao</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-50</pages>
+        <date_published>2009-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of sipunculan worms from Taiwan</title>
+        <abstract locale="en_US">Sipunculan worms occurring in Taiwanese waters were studied, and 11 species are recorded for the first time. They are: Sipunculidae ― &lt;i&gt;Sipunculus&lt;/i&gt; (Sipunculus) &lt;i&gt;robustus&lt;/i&gt; Keferstein, &lt;i&gt;Siphonosoma&lt;/i&gt; &lt;i&gt;funafuti&lt;/i&gt; (Shipley), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;vastum&lt;/i&gt; (Selenka and Bülow); Golfingiidae ― &lt;i&gt;Golfingia&lt;/i&gt; (Golfingia) &lt;i&gt;margaritacea&lt;/i&gt; &lt;i&gt;margaritacea&lt;/i&gt; (Sars), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;muricaudata&lt;/i&gt; (Southern), &lt;i&gt;Thysanocardia&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt; (Ikeda); Themistidae ― &lt;i&gt;Themiste&lt;/i&gt; (Lagenopsis) &lt;i&gt;minor&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; (Ikeda); Phascolosomatidae ― &lt;i&gt;Phascolosoma&lt;/i&gt; &lt;i&gt;arcuatum&lt;/i&gt; (Gray), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;glabrum&lt;/i&gt; &lt;i&gt;glabrum&lt;/i&gt; (Sluiter); Aspidosiphonidae ― &lt;i&gt;Aspidosiphon&lt;/i&gt; (Aspidosiphon) &lt;i&gt;muelleri&lt;/i&gt; Diesing, and &lt;i&gt;Aspidosiphon&lt;/i&gt; (Paraspidosiphon) &lt;i&gt;coyi&lt;/i&gt; de Quatrefages. This makes a total number of 29 species now known from this geographic region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sipuncula; Taiwan</subject>
+          <subject_class locale="en_US">Sipuncula</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pan-Wen</firstname>
+          <lastname>Hsueh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chia-Ming</firstname>
+          <lastname>Kuo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2009-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of eriophyid mites (Acari: Eriophyidae) from India</title>
+        <abstract locale="en_US">Two new species of eriophyid mites (Acari: Prostigmata) viz. &lt;i&gt;Cosetacus&lt;/i&gt; &lt;i&gt;sharadi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; collected from leaf erineum on &lt;i&gt;Cordia&lt;/i&gt; &lt;i&gt;dichotoma&lt;/i&gt; (Boraginaceae), and &lt;i&gt;Acalitus&lt;/i&gt; &lt;i&gt;delhiensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; collected from leaf erineum on &lt;i&gt;Salvadora&lt;/i&gt; &lt;i&gt;persica&lt;/i&gt; (Salvadoraceae), are described from India. &lt;i&gt;Cosetacus&lt;/i&gt; &lt;i&gt;sharadi&lt;/i&gt; has divided feather claw, each branch comprising of 4–5 rays, shield with median line present from rear to mid, admedian lines parallel to median line till mid, then bulging out meeting at the anterior end, submedian lines present from anterior to mid, epigynium ribbed in 2 ranks, accessory seta absent, antapical seta present. &lt;i&gt;Acalitus&lt;/i&gt; &lt;i&gt;delhiensis&lt;/i&gt; has 7 rayed simple feather claw, shield with median line present in rear to mid, admedian and submedian lines branched, epigynium coarsely granulated, accessory seta and antapical seta absent.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Cosetacus&lt;/i&gt;; &lt;i&gt;Cordia&lt;/i&gt; &lt;i&gt;dichotoma&lt;/i&gt;; &lt;i&gt;Acalitus&lt;/i&gt;; &lt;i&gt;Salvadora&lt;/i&gt; &lt;i&gt;persica&lt;/i&gt;; India</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pratibha</firstname>
+          <lastname>Menon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sushila</firstname>
+          <lastname>Joshi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Ramamurthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2009-04-08</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

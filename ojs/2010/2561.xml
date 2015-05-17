@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2561.1</id>
+    <title locale="en_US">9 Aug. 2010</title>
+    <volume>2561</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Some new data on tropical western Pacific Ascidians</title>
+        <abstract locale="en_US">Numerous collections of ascidians have been made in the Pacific and Indian Oceans but the inventory is far from complete. Each sampling provides new species. Two new didemnids are described here from Palau and Vanuatu. New records are given for 22 additional species with complementary descriptions and underwater photographs. The tropical ascidian fauna is highly diverse and successive new collections show that many of the species are not only widely distributed from the central to western Pacific but also common to the Indian Ocean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ascidians; Pacific Ocean; Systematics</subject>
+          <subject_class locale="en_US">Ascidians</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Françoise</firstname>
+          <lastname>Monniot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2010-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Notiocoelotes &lt;/i&gt;spiders (Araneae: Agelenidae) from Hainan Island, China</title>
+        <abstract locale="en_US">Six species of the genus &lt;i&gt;Notiocoelotes&lt;/i&gt; Wang, Xu &amp; Li, 2008, including four species newly described here, are known from Hainan Island, China. These are: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lingulatus&lt;/i&gt; Wang, Xu &amp; Li, 2008 (female); &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;membranaceus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male); &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;orbiculatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, male); &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;palinitropus&lt;/i&gt; (Zhu &amp; Wang, 1994) (female, male); &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;pseudolingulatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female); and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;spirellus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, male). All of these species are illustrated and taxonomically distinguished via a dichotomous key.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; endemism; taxonomy; diagnosis; Coelotinae</subject>
+          <subject_class locale="en_US">New species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jie</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-48</pages>
+        <date_published>2010-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identity of &lt;i&gt;Zachaenus roseus &lt;/i&gt;Cope, 1890 (Anura: &lt;i&gt;species inquirenda&lt;/i&gt;) </title>
+        <abstract locale="en_US">&lt;i&gt;Zachaenus&lt;/i&gt; &lt;i&gt;roseus&lt;/i&gt; Cope, 1890, has puzzled systematists working in southern South America. A single individual, the holotype, has ever been collected and this specimen is in extremely poor preservation condition. Herein, the precise location of the type locality of &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;roseus&lt;/i&gt; is determined based on a historical review of the literature. Furthermore, following a careful comparison with all species that inhabit the southern austral forest, and that could potentially correspond to &lt;i&gt;Zachaenus&lt;/i&gt; &lt;i&gt;roseus,&lt;/i&gt; we conclude that this taxon is placed in the synonymy of &lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;calcaratus&lt;/i&gt; (Günther, 1881).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;calcaratus&lt;/i&gt;; &lt;i&gt;Zachaenus&lt;/i&gt; &lt;i&gt;roseus&lt;/i&gt;; synonymy; type locality</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;calcaratus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>E.</firstname>
+          <middlename>O.</middlename>
+          <lastname>Lavilla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>J.</middlename>
+          <lastname>Nuñez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Rabanal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Langone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>O.</middlename>
+          <lastname>De Sá</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2010-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the bathyal fish genus &lt;i&gt;Benthocometes &lt;/i&gt;(Teleostei: Ophidiidae) with a new species from off NW Australia</title>
+        <abstract locale="en_US">The bathyal genus &lt;i&gt;Benthocometes&lt;/i&gt; (Teleostei: Ophidiidae) is revised based on 29 specimens from the Atlantic Ocean and the Mediterranean Sea and one from off NW Australia. Examination of the Atlantic and Mediterranean material confirmed the synonomizing of the three Atlantic species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;robustus,&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;armatum&lt;/i&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;muraenolepis.&lt;/i&gt; The Australian specimen represents a new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;australiensis,&lt;/i&gt; differing from &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; in e.g. the number of long rakers on the anterior gill arch, the form of the palatine dentition and the predorsal and upper jaw lengths.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ophidiidae; &lt;i&gt;Benthocometes&lt;/i&gt;; revision; new species; NW Australia</subject>
+          <subject_class locale="en_US">Ophidiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jørgen</firstname>
+          <middlename>G.</middlename>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2010-08-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

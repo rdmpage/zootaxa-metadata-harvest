@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2549.1</id>
+    <title locale="en_US">26 Jul. 2010</title>
+    <volume>2549</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A critical review and systematic discussion of recent classification proposals for liolaemid lizards</title>
+        <abstract locale="en_US">We provide a critical review of a recent taxonomic revision of Chilean &lt;i&gt;Liolaemus&lt;/i&gt; lizards (Iguania: Liolaemidae) by Pincheira-Donoso and Núñez (2005) and a recent paper (PincheiraDonoso &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2008), which proposed several new taxonomic and phylogenetic arrangements. We document fundamental problems with many of the proposed taxonomic revisions in both publications, which if followed, could lead to serious taxonomic confusion. In Pincheira-Donoso and Núñez (2005) a subgeneric classification is erected, which was produced by outdated methods (phenetic analyses), cannot be replicated (no matrix is presented), and is taxonomically untenable (some of the subgenera are nested within other subgenera). Most of the taxonomic groups that are proposed have been previously proposed, albeit differently constituted, yet often previous research is not given attribution; when findings are different, the research of others is either overlooked or dismissed without comment. The diagnoses of species and subspecies (including several newly proposed taxa) are often written in an authoritative manner (without supporting data or information), making them insufficient for distinguishing the focal taxon from others belonging to the same group, finally leading to uncertainty regarding the validity of several of the newly proposed taxa, combinations, or synonymies. We also describe less egregious errors of omission and commission. In Pincheira-Donoso &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2008), most of the proposals follow the Pincheira-Donoso and Núñez (2005) revisions, some species are allocated to groups without consistent cladistic support and other proposed relationships are based on incomplete evidence from other studies dismissing the limitations of the arrangement. Critical species are not identified in a list of material examined. Finally, Pincheira-Donoso &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2008) present a somewhat outdated and biased discussion of the relative value of using molecules or morphology in systematics. In light of these limitations, and in an effort to stabilize and prevent further taxonomic confusion, we provide an updated phylogenetic classification of the currently recognized lizards of the family Liolaemidae (Ctenoblepharys, &lt;i&gt;Liolaemus,&lt;/i&gt; and &lt;i&gt;Phymaturus),&lt;/i&gt; which is based on a consensus of studies published since the first phylogenetic major revision of the clade in 1995.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Liolaemidae; &lt;i&gt;Ctenoblepharys&lt;/i&gt;; &lt;i&gt;Liolaemus&lt;/i&gt;; &lt;i&gt;Phymaturus&lt;/i&gt;; taxonomy; systematics; phylogeny; description; identification; nomenclature; classification</subject>
+          <subject_class locale="en_US">Liolaemidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <lastname>Lobo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>E.</middlename>
+          <lastname>Espinoza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sebastian</firstname>
+          <lastname>Quinteros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2010-07-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The family Aristiidae (Crustacea: Amphipoda: Lysianassoidea) in Australian waters</title>
+        <abstract locale="en_US">The lysianassoid amphipod family Aristiidae is reported from Australian waters for the first time. Two new genera and seven new species are described: &lt;i&gt;Aristias&lt;/i&gt; &lt;i&gt;eden&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gomoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nowra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;otway&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;poorei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Memana&lt;/i&gt; &lt;i&gt;sarda&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; and &lt;i&gt;Pratinas&lt;/i&gt; &lt;i&gt;ludmilla&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Aristiidae; Australia; new genus; new species; taxonomy; &lt;i&gt;Aristias&lt;/i&gt;; &lt;i&gt;Memana&lt;/i&gt;; &lt;i&gt;Pratinas&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>H.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Stoddart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-53</pages>
+        <date_published>2010-07-26</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Terrestrial isopods of the subgenus &lt;i&gt;Hemilepistus &lt;/i&gt;(&lt;i&gt;Hemilepistus&lt;/i&gt;) Budde-Lund, 1879 (Isopoda: Oniscidea) from Iran </title>
+        <abstract locale="en_US">Five species of the subgenus &lt;i&gt;Hemilepistus&lt;/i&gt; (Hemilepistus) collected in Iran are reported. Three of these (Hemilepistus &lt;i&gt;schirasi,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;cristatus&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;klugii)&lt;/i&gt; have been previously reported from Iran, one (H. &lt;i&gt;aphganicus)&lt;/i&gt; is a new record, and the fifth (H. &lt;i&gt;taftanicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; is a new species. &lt;i&gt;Hemilepistus&lt;/i&gt; &lt;i&gt;taftanicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is distinguished from other species of the subgenus by the presence of two additional large tubercles on the dorso-median part of pereonites 1–4. All species are allopatric; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;aphganicus&lt;/i&gt; have the widest range and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;taftanicus&lt;/i&gt; shows a very restricted one. A key to the Iranian species of the subgenus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oniscidea; &lt;i&gt;Hemilepistus&lt;/i&gt; &lt;i&gt;taftanicus&lt;/i&gt;; new species; Iran</subject>
+          <subject_class locale="en_US">Oniscidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ghasem</firstname>
+          <middlename>M.</middlename>
+          <lastname>Kashani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alireza</firstname>
+          <lastname>Sari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shidokht</firstname>
+          <lastname>Hosseinie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2010-07-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

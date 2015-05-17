@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2450.1</id>
+    <title locale="en_US">10 May. 2010</title>
+    <volume>2450</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An abelisauroid dinosaur with a non-atrophied manus from the Late Cretaceous Pari Aike Formation of southern Patagonia</title>
+        <abstract locale="en_US">We describe the new basal abelisauroid dinosaur &lt;i&gt;Austrocheirus&lt;/i&gt; &lt;i&gt;isasii&lt;/i&gt; gen. et sp. nov. from the Late Cretaceous Pari Aike Formation of southwestern Patagonia, Argentina. The preserved remains include manual bones, a distal tibia, and some pedal and axial elements. &lt;i&gt;Austrocheirus&lt;/i&gt; is differentiated from other basal theropods by the presence of metacarpal III with a dorsoventrally compressed shaft and posteriorly displaced collateral tendon fossae located at the same level of the proximal end of distal condyles, and pedal phalanges with a conspicuous longitudinal crest delimitating the dorsal margin of the distal collateral tendon fossae. A cladistic analysis recovered the new species as more derived than &lt;i&gt;Ceratosaurus&lt;/i&gt; and &lt;i&gt;Berberosaurus,&lt;/i&gt; but within a polytomy at the base of Abelisauroidea, an assignment supported by two abelisauroid synapomorphies: distal end of tibia with a planar vertical scar for the reception of the ascending process of the astragalus that occupies most of its anterior surface and is medially bounded by the longitudinally oriented facet; and scar for the reception of the ascending process with a median vertical ridge, which imbeds into a crescentic vertical groove on the posterior surface of the ascending process of the astragalus forming an interlocking tibiotarsal articulation. Furthermore, &lt;i&gt;Austrocheirus&lt;/i&gt; represents the first known medium-sized Late Cretaceous abelisauroid bearing nonatrophied hands. The evidence provided here suggests that the strong reduction of the forelimb recorded in derived abelisaurids is not directly correlated with their increased body-size, but it seems to be an evolutionary event exclusive to this lineage within Ceratosauria.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dinosauria; Theropoda; Abelisauroidea; Late Cretaceous; Pari Aike Formation; Argentina</subject>
+          <subject_class locale="en_US">Dinosauria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martín</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ezcurra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Federico</firstname>
+          <middlename>L.</middlename>
+          <lastname>Agnolin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <middlename>E.</middlename>
+          <lastname>Novas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2010-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenies without Synapomorphies—A Crisis in Fish Systematics: Time to Show Some Character</title>
+        <abstract locale="en_US">We contend that the move away from providing character evidence with phylogenies has diminished fish systematics and systematics in general, and amounts to a crisis. Present practices focus on solutions to matrices rather than on character homology, and rely on algorithms and statistics rather than biology to determine relationships. Optimization procedures in tree-building programs are phenetic and no longer employ homology, the original foundation of cladistics. Evidence for phylogenies is presented in a manner that obscures character conflict and makes meaningful debate difficult. The role of morphological characters has largely been reduced to their optimization and reinterpretation on the revealed “truth” of molecule-based topologies. All of this has resulted in a schism between molecular and morphological phylogeneticists. We examine several examples, focusing on Percomorpha and Gobioidei, to illustrate the shortcomings of recent approaches. We feel that phylogenetics can only move forward by recognizing that molecules are small-scale morphology; molecular data are not substantively different from larger-scale morphological data and should be treated in much the same manner. Careful investigation of homology and transparent presentation of evidence will keep our work and our science relevant. We suggest four measures that need reintroduction to phylogenetic practice in order to bring systematics back to its fundamental principles: (1) examine data quality, character distribution, and evidence; plot characters to identify and examine character conflict, and weigh evidence for homology, (2) explore the nature of character information—data become characters only after they are understood, (3) question assumptions of methods, common practice is not necessarily indicative of the ideal analysis, (4) in particular, question and investigate optimization as a method and what its impact is on character homology and the meaning of synapomorphies; use biology, not algorithms to make homology decisions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">molecular systematics; morphology; character conflict; optimization; Gobiiformes; Percomorpha</subject>
+          <subject_class locale="en_US">molecular systematics; morphology; character conflict; optimization; Gobiiformes; Percomorpha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Randall</firstname>
+          <middlename>D.</middlename>
+          <lastname>Mooi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-40</pages>
+        <date_published>2010-05-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the rare caridean genus &lt;i&gt;Bresilia &lt;/i&gt;Calman (Crustacea: Decapoda: Bresiliidae) from the Ryukyu Islands, Japan, representing a family new to the North Pacific marine fauna</title>
+        <abstract locale="en_US">A new species of the rare caridean genus &lt;i&gt;Bresilia&lt;/i&gt; Calman, 1896, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;gibbosa,&lt;/i&gt; is described and illustrated on the basis of one ovigerous female and one male specimens collected from a shallow water marine cave in Okinawa Island, Ryukyu Islands, Japan. The new species is morphologically similar to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;antipodarum&lt;/i&gt; Bruce, 1990, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;briankensleyi&lt;/i&gt; Bruce, 2005, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;plumifera&lt;/i&gt; Bruce, 1990 and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;saldanhai&lt;/i&gt; Calado, Chevaldonné &amp; dos Santos, 2004 in the strongly produced third abdominal tergite, the presence of a long epistomal process, and the presence of an exopodal flagellum on the first maxilliped, but is easily distinguished from all these allied species by the possession of movable spines in the dorsal rostral series and the angular, instead of spinose, pterygostomial margin of the carapace. This new species is the first representative of Bresiliidae from the North Pacific Ocean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Caridea; Bresiliidae; &lt;i&gt;Bresilia&lt;/i&gt;; new species; Okinawa; marine cave</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yusuke</firstname>
+          <lastname>Yamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2010-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Medicorophium &lt;/i&gt;Bousfield, &lt;i&gt;M. longisetosum &lt;/i&gt;n. sp. from the western Mediterranean, coast of Spain</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Medicorophium,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longisetosum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from the western Mediterranean in Comunidad Comunid Valenciana coast, Spain. The species is compared with the other known species of &lt;i&gt;Medicorophium.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; taxonomy; &lt;i&gt;Medicorophium&lt;/i&gt;; new species; Mediterranean</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alan</firstname>
+          <middlename>A.</middlename>
+          <lastname>Myers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>De-La-Ossa-Carretero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Claude</firstname>
+          <lastname>Dauvin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2010-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Zilchogyra franzi &lt;/i&gt;Weyrauch, 1965 (Gastropoda: Charopidae), a minute landsnail rediscovered in Sierra de la Ventana (Southern Pampas, Argentina)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valdemar</firstname>
+          <middlename>K.</middlename>
+          <lastname>Delhey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julia</firstname>
+          <lastname>Pizá</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Silvana</firstname>
+          <lastname>Burela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2010-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the nomenclature of the Pale Blue Flycatcher &lt;i&gt;Cyornis unicolor infuscatus &lt;/i&gt;E. Hartert, 1902 (Aves: Muscicapidae) with lectotype designation for &lt;i&gt;Cyornis&lt;/i&gt; &lt;i&gt;cyanopolia &lt;/i&gt;Blyth, 1870</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christiane</firstname>
+          <lastname>Quaisser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-67</pages>
+        <date_published>2010-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Boreathelphusa&lt;/i&gt;, a replacement name for &lt;i&gt;Boreas &lt;/i&gt;Cumberlidge and Sternberg, 2002 (Crustacea: Brachyura: Potamonautidae), preoccupied by &lt;i&gt;Boreas &lt;/i&gt;Morris, 1980 (Bryozoa: Hippothoidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neil</firstname>
+          <lastname>Cumberlidge</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2010-05-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

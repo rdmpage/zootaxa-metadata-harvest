@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1786.1</id>
+    <title locale="en_US">9 Jun. 2008</title>
+    <volume>1786</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of ptyctimous mites (Acari, Oribatida) from Borneo and Sumatra</title>
+        <abstract locale="en_US">Twenty nine species of ptyctimous mites (Acari, Oribatida) were collected from Borneo, Sabah and Sarawak provinces (Malaysia) and Sumatra (Indonesia). Among them one species of Mesoplophoridae and six species of Phthiracaroidea, are described. They are: &lt;i&gt;Mesoplophora&lt;/i&gt; (Parplophora) &lt;i&gt;brevicarinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Plonaphacarus&lt;/i&gt; &lt;i&gt;heterosetosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Plonaphacarus&lt;/i&gt; &lt;i&gt;longicarinatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Hoplophthiracarus&lt;/i&gt; &lt;i&gt;niahensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Hoplophthiracarus&lt;/i&gt; &lt;i&gt;mielcareki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Archiphthiracarus&lt;/i&gt; &lt;i&gt;pachetos&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Notophthiracarus&lt;/i&gt; &lt;i&gt;abacus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Half of the species found are endemics and nearly half of them are widespread.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mesoplophoridae; Phthiracaroidea; new species</subject>
+          <subject_class locale="en_US">Mesoplophoridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wojciech</firstname>
+          <lastname>Niedbala</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2008-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ten new species of the genus &lt;i&gt;Draconarius &lt;/i&gt;(Araneae: Amaurobiidae) from China</title>
+        <abstract locale="en_US">Ten new &lt;i&gt;Draconarius&lt;/i&gt; species are described: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;acutus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;complanatus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;expansus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;magnarcuatus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pseudocoreanus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;subabsentis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sublutulentus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;tensus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ventrifurcatus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;zonalis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Detailed descriptions and illustrations of these new species are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; biodiversity; spiders; Sichuan; Yunnan; Hunan</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiang</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-34</pages>
+        <date_published>2008-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the Chinese species of &lt;i&gt;Bothropolys&lt;/i&gt; Wood, 1862 (Chilopoda: Lithobiomorpha: Lithobiidae)</title>
+        <abstract locale="en_US">The present paper reviews the centipede species of the genus &lt;i&gt;Bothropolys&lt;/i&gt; Wood, 1862 (Lithobiomorpha: Lithobiidae) of the Chinese fauna, including two species recorded from China for the first time. Diagnoses of the genus and the species, detailed account on species distribution and a key to the Chinese &lt;i&gt;Bothropolys&lt;/i&gt; species are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Review; Chilopoda; Lithobiidae; &lt;i&gt;Bothropolys&lt;/i&gt;; China</subject>
+          <subject_class locale="en_US">Review</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hui-Qin</firstname>
+          <lastname>Ma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Da-Xiang</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Sheng</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-47</pages>
+        <date_published>2008-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">When starvation challenges the tradition of niche conservatism: On a new species of the saxicolous genus &lt;i&gt;Phymaturus&lt;/i&gt; from Patagonia Argentina with pseudoarboreal foraging behaviour (Iguania, Liolaemidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Phymaturus&lt;/i&gt; is known on the basis of almost twenty species with clear tendency to conserve saxicolous or terrestrial, and herbivorous niche. In this work, we present the description of a remarkable new &lt;i&gt;Phymaturus&lt;/i&gt; species, &lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;agilis,&lt;/i&gt; with the peculiar ability to climb on large shrubs to feed on fresh flowers and fruits. This new species is a member of the &lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;patagonicus&lt;/i&gt; clade, restricted to Patagonia Argentina. &lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt; occurs at about 1100 m of elevation in a volcanic rocky plateau close to Ingeniero Jacobacci, in the south western area of Rio Negro Province, Argentina. Comparative analyses conducted on morphological and coloration traits revealed substantial differences from &lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;spectabilis,&lt;/i&gt; the only &lt;i&gt;Phymaturus&lt;/i&gt; species living in sympatry with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;agilis.&lt;/i&gt; Individuals of both species had recently been recognized as members of a single taxon with broad phenotypic variation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt;; Liolaemidae; Patagonian Reptiles; Rocky Lizard</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jose</firstname>
+          <middlename>Alejandro</middlename>
+          <lastname>Scolaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nora</firstname>
+          <middlename>Ruth</middlename>
+          <lastname>Ibarguengoytia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>Pincheira-Donoso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-60</pages>
+        <date_published>2008-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new Neotropical spiders of the genera &lt;i&gt;Oecobius&lt;/i&gt; and &lt;i&gt;Platoecobius&lt;/i&gt; (Araneae: Oecobiidae)</title>
+        <abstract locale="en_US">Two new species of Oecobiidae are described from Central and South America, representing the first native members of the family recorded south of Mexico. &lt;i&gt;Oecobius&lt;/i&gt; &lt;i&gt;eberhardi&lt;/i&gt; &lt;b&gt;sp.nov.&lt;/b&gt; is described based on male and female specimens collected from two localities in Costa Rica. &lt;i&gt;Platoecobius&lt;/i&gt; &lt;i&gt;kooch&lt;/i&gt; &lt;b&gt;sp.nov.,&lt;/b&gt; the second species in the genus, is described from female specimens collected in Southern Argentina. A new diagnosis is proposed for the genus &lt;i&gt;Platoecobius&lt;/i&gt; Chamberlin &amp; Ivie, 1935, which now includes one species endemic to the south-eastern USA and another from Argentinean Patagonia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Eresoidea; Oecobiinae</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adalberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>O.</middlename>
+          <lastname>Gonzaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2008-06-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

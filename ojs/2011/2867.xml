@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2867.1</id>
+    <title locale="en_US">5 May. 2011</title>
+    <volume>2867</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of Acoela from the Mediterranean, the Red Sea, and the South Pacific</title>
+        <abstract locale="en_US">Eight new species of Acoela are reported including the first Acoela recorded from New Caledonia and the first acoel described from volcanic carbon dioxide vents. &lt;i&gt;Pharyngia&lt;/i&gt; furva gen. et sp.nov. (Isodiametridae) and &lt;i&gt;Philactinoposthia&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; sp.nov. (Actinoposthiidae) from the Red Sea; &lt;i&gt;Childia&lt;/i&gt; &lt;i&gt;curinii&lt;/i&gt; sp.nov. (Childiidae), &lt;i&gt;Philactinoposthia&lt;/i&gt; &lt;i&gt;ischiae&lt;/i&gt; sp.nov. and &lt;i&gt;Philactinoposthia&lt;/i&gt; &lt;i&gt;multipunctata&lt;/i&gt; sp.nov. from the Mediterranean; &lt;i&gt;Philactinoposthia&lt;/i&gt; &lt;i&gt;novaecaledoniae&lt;/i&gt; sp.nov., &lt;i&gt;Childia&lt;/i&gt; &lt;i&gt;aculifera&lt;/i&gt; sp.nov. and &lt;i&gt;Solenofilomorpha&lt;/i&gt; &lt;i&gt;justinei&lt;/i&gt; sp.nov. (Solenofilomorphidae) from the South Pacific are described. Nucleotide sequences for the nuclear ribosomal 18S rRNA, 28S rRNA and the mitochondrial COI genes were determined for the new species and used in a Bayesian molecular phylogenetic analysis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Carbon dioxide vents; Interstitial; Meiofauna; New Caledonia</subject>
+          <subject_class locale="en_US">Carbon dioxide vents</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karin</firstname>
+          <middlename>Sara</middlename>
+          <lastname>Nilsson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Wallberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulf</firstname>
+          <lastname>Jondelius</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2011-05-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Parapercis lutevittata&lt;/i&gt;, a new cryptic species of &lt;i&gt;Parapercis&lt;/i&gt; (Teleostei: Pinguipedidae), from the western Pacific based on morphological evidence and DNA barcoding</title>
+        <abstract locale="en_US">&lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;lutevittata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a new cryptic species closely related to &lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;sexfasciata&lt;/i&gt; (Temminck &amp; Schlegel, 1843), is described from the western Pacific Ocean off Japan and Taiwan based on morphological and molecular evidences. It differs from congeners by having four to five large V-shaped transverse dark-brown bands over the upper side of the body, dorsal fin between the spinous and soft-rayed portions without a prominent notch, a large dark-brown blotch on the pectoral fin base, a large black spot over the caudal fin base, and a dark vertical band below the eye. The new species differs from its sympatric species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sexfasciata&lt;/i&gt; in having an additional numerous small black dots on the base of the pectoral fin (versus with only a single large dark blotch in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sexfasciata),&lt;/i&gt; small black dots scattered on area between the Vshaped transverse bands, absence of black spots on the base of the dorsal fin ray membrane, and one longitudinal yellow stripe on body sides when in fresh. In addition, the 633 base pairs of the mitochondrial cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit I (CO &lt;i&gt;I&lt;/i&gt; or COX &lt;i&gt;I)&lt;/i&gt; gene in DNA barcoding showed a deep 7.9% genetic divergence between these two similar species. The Neighbor-joining algorithm also revealed that the specimens of these two species are clearly separated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;lutevittata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; CO &lt;i&gt;I&lt;/i&gt;; COX &lt;i&gt;I&lt;/i&gt;; DNA barcoding; Pinguipedidae; cryptic species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;lutevittata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; CO &lt;i&gt;I&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yun-Chih</firstname>
+          <lastname>Liao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tun-Yuan</firstname>
+          <lastname>Cheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kwang-Tsao</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-42</pages>
+        <date_published>2011-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology of larval and first juvenile stages of the kangaroo shrimp &lt;i&gt;Dugastella valentina &lt;/i&gt;(Crustacea, Decapoda, Caridea), a freshwater atyid with abbreviated development and parental care</title>
+        <abstract locale="en_US">The larval development of &lt;i&gt;Dugastella&lt;/i&gt; &lt;i&gt;valentina&lt;/i&gt; consists of two zoeal stages and a decapodid. Larval stages are not free living; the complete larval development takes place in the female’s incubation chamber. The two zoeae, the decapodid and first postlarval stages still have a large amount of yolk, which ensures their nutritional independence (lecithotrophic stages) while staying within the maternal incubation chamber and the first days after release. The first juvenile is the first free living stage. In the present study the morphology of all larval stages as well as the first juvenile are described and illustrated, and comparison with known larval stages of atyids is made.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">lecithotrophic; heterochrony; benthotrophic</subject>
+          <subject_class locale="en_US">lecithotrophic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <lastname>Rodríguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cuesta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-58</pages>
+        <date_published>2011-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the bathyal fish genus &lt;i&gt;Pseudonus &lt;/i&gt;(Teleostei, Bythitidae); &lt;i&gt;P. squamiceps &lt;/i&gt;a senior synonym of &lt;i&gt;P. platycephalus&lt;/i&gt;, new to Australian waters</title>
+        <abstract locale="en_US">The viviparous, bathyal fish genus &lt;i&gt;Pseudonus&lt;/i&gt; (Teleostei, Bythitidae, Bythitinae) is known from the Indo-Pacific Ocean. Three species have been described, all based on 1–2 specimens: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;acutus&lt;/i&gt; Garman, 1899 from the tropical East Pacific, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;platycephalus&lt;/i&gt; (Smith &amp; Radcliffe, 1913) from the Indo-Australian area and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;squamiceps&lt;/i&gt; (Lloyd, 1907) from the Gulf of Aden. An additional 18 specimens have become available to justify this revision. The result has established the conspecificity of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;squamiceps&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;platycephalus&lt;/i&gt; with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;squamiceps&lt;/i&gt; the senior synomym of the two. The major differences between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;acutus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;squamiceps&lt;/i&gt; are that the former has more dorsal (101–119 &lt;i&gt;vs&lt;/i&gt; 95–102) and anal (74–85 &lt;i&gt;vs&lt;/i&gt; 64–71) fin rays, more vertebrae (61–63 &lt;i&gt;vs&lt;/i&gt; 55–58) and lacking pelvic fin rays (vs one of 15 specimens lacks pelvic fin rays). This is the first record of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;squamiceps&lt;/i&gt; from Australian waters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bythitidae; &lt;i&gt;Pseudonus&lt;/i&gt;; revision; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;platycephalus&lt;/i&gt; synonymized</subject>
+          <subject_class locale="en_US">Bythitidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jørgen</firstname>
+          <middlename>G.</middlename>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-66</pages>
+        <date_published>2011-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the use of high-level taxonomic names</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>Blair</middlename>
+          <lastname>Hedges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2011-05-05</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

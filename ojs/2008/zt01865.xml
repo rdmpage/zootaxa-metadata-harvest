@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1865.1</id>
+    <title locale="en_US">3 Sep. 2008</title>
+    <volume>1865</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic catalogue of the Palaearctic bees of the tribe Osmiini (Hymenoptera: Apoidea: Megachilidae)</title>
+        <abstract locale="en_US">This taxonomic catalogue covers all family-, genusand species-group names of the Palaearctic bees of the tribe Osmiini as published by the end of 2006. As the taxonomy of the Palaearctic Osmiini is currently in a poor state, the primary goal of this catalogue is to provide a complete coverage of the widely dispersed and often not easily accessible taxonomic literature, thus laying the basis for further taxonomic work. We therefore refrain from proposing new synonyms, new names, new ranks or new combinations, and the taxa accepted here are based on a literature survey, generally adopting the most recent published opinion. The generic and subgeneric system proposed by Michener (2000) serves as a general backbone for this catalogue. We list six available family-group names, 93 available genus-group names and 935 available species-group names that currently split up into the valid names of two subtribes, 13 genera, 43 non-nominotypical subgenera, 604 species and 76 non-nominotypical subspecies. Starting with Linnaeus (1758), a total of 99 mainly European taxonomists contributed to the available species-group names by the end of 2006. Taxon accounts provide the reference to the original description, the name-bearing type(s), distribution, and literature sources for species identification. Apart from the extant taxa the catalogue also treats the extinct representatives of the osmiine bees following the tribal classification of Engel (2005).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Apiformes; classification; distribution; fossils; mason bees; nomenclature; osmiine bees; pollinators; synonymy; taxonomic history; types</subject>
+          <subject_class locale="en_US">Apiformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefan</firstname>
+          <lastname>Ungricht</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Müller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Silvia</firstname>
+          <lastname>Dorn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-253</pages>
+        <date_published>2008-09-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

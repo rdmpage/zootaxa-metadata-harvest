@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3473.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3473</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;A revision of the species group of &lt;i&gt;Xenochrophis piscator&lt;/i&gt; (Schneider, 1799)&lt;/span&gt; &lt;span LANG="EN"&gt;(Squamata: Natricidae)&lt;/span&gt;</title>
+        <abstract locale="en_US">Morphological variation was investigated across the entire geographic range of the snakes of the &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;piscator&lt;/i&gt;species group. Our results, based on morphological univariate analyses, show the existence of several well-definedclusters identified as species. &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;flavipunctatus&lt;/i&gt; (Hallowell, 1861) is distinct from &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;piscator&lt;/i&gt; (Schneider, 1799)and sympatric with it over a large area. &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;tytleri&lt;/i&gt; (Blyth, 1863) is confirmed as the valid combination for thepopulation living on the Andaman Islands. &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;asperrimus&lt;/i&gt; (Boulenger, 1891) is confirmed, with species status,for populations from Sri Lanka. &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;melanzostus&lt;/i&gt; (Gravenhorst, 1807) is accepted, as a distinct species mostprobably endemic to Java. &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;schnurrenbergeri&lt;/i&gt; Kramer, 1977 is confirmed for populations from Nepal,southeastern Pakistan, and northern and eastern India. &lt;i&gt;Tropidonotus&lt;/i&gt; &lt;i&gt;sanctijohannis&lt;/i&gt; Boulenger, 1891 seems to be amontane colour morph of &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;piscator&lt;/i&gt; and is not regarded here as valid. The second population of “X. &lt;i&gt;piscator“&lt;/i&gt; on SriLanka is regarded as different from that of the mainland, but it is not named here due to the uncertain relationships amongpopulations of southern India and Sri Lanka. The variation of &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;piscator&lt;/i&gt; sensu stricto is discussed. All taxa areredescribed on the basis of new material. The history of all synonyms is discussed and neotypes are designated for &lt;i&gt;Hydrus&lt;/i&gt;&lt;i&gt;palustris&lt;/i&gt; Schneider, 1799, &lt;i&gt;Coluber&lt;/i&gt; &lt;i&gt;melanzostus&lt;/i&gt; Gravenhorst, 1807 and &lt;i&gt;Amphiesma&lt;/i&gt; &lt;i&gt;flavipunctatum&lt;/i&gt; Hallowell, 1861. The holotype of &lt;i&gt;Hydrus&lt;/i&gt; &lt;i&gt;piscator&lt;/i&gt; Schneider 1799 has been rediscovered and is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Asia; India; neotype; Oriental region; Serpentes; taxonomy; &lt;i&gt;Xenochrophis&lt;/i&gt; &lt;i&gt;flavipunctatus&lt;/i&gt;; &lt;i&gt;Xenochrophis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Asia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

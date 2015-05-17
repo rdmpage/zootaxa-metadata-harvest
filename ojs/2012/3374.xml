@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3374.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3374</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Decapod crustaceans of the littoral and shallow sublittoral Iranian coast of the Persian Gulf: Faunistics, Biodiversity and Zoogeography</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Reza</firstname>
+          <lastname>Naderloo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Türkay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-67</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

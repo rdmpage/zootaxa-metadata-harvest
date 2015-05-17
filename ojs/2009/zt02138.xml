@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2138.1</id>
+    <title locale="en_US">22 Jun. 2009</title>
+    <volume>2138</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of the chewing lice (Insecta: Phthiraptera) from wild birds in Bulgaria </title>
+        <abstract locale="en_US">The checklist includes 282 chewing lice species belonging to 63 genera, 4 families and 2 suborders recorded in Bulgaria until 2008. Their hosts represent 194 bird species belonging to 48 families and 18 orders. Synonyms used in the Bulgarian literature are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasites; Phthiraptera; chewing lice; birds; Bulgaria; new host records; Laemobothriidae; Menoponidae; Ricinidae; Philopteridae</subject>
+          <subject_class locale="en_US">parasites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mihaela</firstname>
+          <lastname>Ilieva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-66</pages>
+        <date_published>2009-06-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3117.1</id>
+    <title locale="en_US">2 Dec. 2011</title>
+    <volume>3117</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New and known species of the family Leuconidae(Cumacea, Peracarida) from Antarctic deep-sea basins</title>
+        <abstract locale="en_US">The leuconid cumaceans of the Antarctic deep-sea basins are listed. Ten new leuconid species are described: eight species in the genus &lt;i&gt;Leucon:&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(Crymoleucon)&lt;/i&gt; &lt;i&gt;parantarcticus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(C.)&lt;/i&gt; &lt;i&gt;weddellensis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(C.)&lt;/i&gt; &lt;i&gt;longirhinus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(C.)&lt;/i&gt; &lt;i&gt;grandidentatus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(Leucon)&lt;/i&gt; &lt;i&gt;quattuormulierum,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(L.)&lt;/i&gt; &lt;i&gt;andeep,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(Macrauloleucon)&lt;/i&gt; &lt;i&gt;weigmanni&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;complexus.&lt;/i&gt; One new species is described for the genus &lt;i&gt;Eudorella:&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;flokkeri.&lt;/i&gt; The genus &lt;i&gt;Bytholeucon&lt;/i&gt; was discovered for the first time in Antarctic waters with a new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hartmannorum.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cumacea; Leuconidae; new species; deep-sea; Antarctica</subject>
+          <subject_class locale="en_US">Cumacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ute</firstname>
+          <lastname>Mühlenhardt-Siegel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2011-12-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

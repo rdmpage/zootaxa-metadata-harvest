@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1999.1</id>
+    <title locale="en_US">4 Feb. 2009</title>
+    <volume>1999</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An annotated checklist of the handsome fungus beetles of the world (Coleoptera: Cucujoidea: Endomychidae)</title>
+        <abstract locale="en_US">A worldwide checklist is provided for the family Endomychidae (Coleoptera: Cucujoidea). An updated subfamilial classification is presented, based on recent higher-level phylogenetic analyses and incorporating many recently described taxa. At present, Endomychidae contains 1782 valid species and subspecies in 130 genera organized into 12 subfamilies. Two new synonyms are recognized: &lt;i&gt;Symbiotes&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; Redtenbacher, 1849 &lt;i&gt;=&lt;/i&gt; &lt;i&gt;Symbiotes&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; var. &lt;i&gt;roberti&lt;/i&gt; Falcoz &amp; Roman, 1930 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; and &lt;i&gt;Cholovocerida&lt;/i&gt; Belon, 1884 = &lt;i&gt;Displotera&lt;/i&gt; Reitter, 1887b &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Two new combinations are proposed: &lt;i&gt;Cholovocerida&lt;/i&gt; &lt;i&gt;ecitonis&lt;/i&gt; (Wasmann, 1890) for &lt;i&gt;Coluocera&lt;/i&gt; &lt;i&gt;ecitonis&lt;/i&gt; Wasmann, 1890 &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; and &lt;i&gt;Cholovocerida&lt;/i&gt; &lt;i&gt;maderae&lt;/i&gt; (Wollaston, 1854) for &lt;i&gt;Cholovocera&lt;/i&gt; &lt;i&gt;maderae&lt;/i&gt; Wollaston, 1854 &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Loeblia&lt;/i&gt; &lt;i&gt;ceylanica&lt;/i&gt; Dajoz, 1972a is here designated as the type species for &lt;i&gt;Loeblia&lt;/i&gt; Dajoz, 1972a, and &lt;i&gt;Rhymbus&lt;/i&gt; &lt;i&gt;hemisphaericus&lt;/i&gt; Gerstaecker, 1858 is designated as the type species for &lt;i&gt;Rhymbus&lt;/i&gt; Gerstaecker, 1858. &lt;i&gt;Nomen&lt;/i&gt; &lt;i&gt;nudum&lt;/i&gt; status is proposed for &lt;i&gt;Mycetaea&lt;/i&gt; &lt;i&gt;tafilaletica&lt;/i&gt; Smirnoff, 1957. Thirty-two species originally described under &lt;i&gt;Corynomalus&lt;/i&gt; Chevrolat, 1836 and subsequently transferred to &lt;i&gt;Amphix&lt;/i&gt; Laporte, 1840, have been returned to &lt;i&gt;Corynomalus.&lt;/i&gt; Known fossil taxa are summarized.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Endomychidae; Anamorphinae; Danascelinae; Endomychinae; Epipocinae; Eupsilobiinae; Leiestinae; Lycoperdininae; Merophysiinae; Mycetaeinae; Pleganophorinae; Stenotarsinae; Xenomycetinae; taxonomy; classification</subject>
+          <subject_class locale="en_US">Endomychidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <middlename>W.</middlename>
+          <lastname>Shockley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>W.</middlename>
+          <lastname>Tomaszewska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mchugh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-113</pages>
+        <date_published>2009-02-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

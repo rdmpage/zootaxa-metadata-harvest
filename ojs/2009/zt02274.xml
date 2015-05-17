@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2274.1</id>
+    <title locale="en_US">28 Oct. 2009</title>
+    <volume>2274</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Larval morphology of &lt;i&gt;Paroster &lt;/i&gt;Sharp, 1882 (Coleoptera: Dytiscidae: Hydroporinae): reinforcement of the hypothesis of monophyletic origin and discussion of phenotypic accommodation to a hypogaeic environment</title>
+        <abstract locale="en_US">The larvae of 13 species (six epigaeic and seven hypogaeic) of the Australian endemic genus &lt;i&gt;Paroster&lt;/i&gt; Sharp, 1882 are described with an emphasis on chaetotaxy of the head capsule, head appendages, legs, last abdominal segment and urogomphi. A cladistic analysis of 41 Hydroporinae species and 63 informative characters supports a monophyletic origin of members of &lt;i&gt;Paroster,&lt;/i&gt; which share a labial palpus comprised of three palpomeres and the absence of the primary seta FE7. Contrary to their epigaeic counterparts, larvae of hypogaeic &lt;i&gt;Paroster&lt;/i&gt; species have turned out to be very divergent morphologically. In addition to the common characteristics associated with hypogaeic living (i.e., absence of eye, reduced pigmentation, and thin or soft exoskeleton), larvae of these species have undergone a relative elongation/ enlargement of the head capsule and a more elongate and narrower mandible and have developed a variable number of secondary temporal spines. Compared to the other stygobitic species studied, larvae of &lt;i&gt;Paroster&lt;/i&gt; &lt;i&gt;hinzeae&lt;/i&gt; (Watts &amp; Humphreys, 2001), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;macrosturtensis&lt;/i&gt; (Watts &amp; Humphreys, 2006), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stegastos&lt;/i&gt; (Watts &amp; Humphreys, 2003) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;darlotensis&lt;/i&gt; (Watts &amp; Humphreys, 2003) evolved a disproportionately large head capsule relative to body size. Larvae of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;wedgeensis&lt;/i&gt; (Watts &amp; Humphreys, 2003) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mesosturtensis&lt;/i&gt; (Watts &amp; Humphreys, 2006) are deemed to have deviated the least from the hypothetical epigaeic &lt;i&gt;Paroster&lt;/i&gt; groundplan.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dytiscidae; Hydroporini; &lt;i&gt;Paroster&lt;/i&gt;; stygobitic; larval chaetotaxy</subject>
+          <subject_class locale="en_US">Dytiscidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Alarie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariano</firstname>
+          <middlename>C.</middlename>
+          <lastname>Michat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chris</firstname>
+          <middlename>H. S.</middlename>
+          <lastname>Watts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2009-10-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Arthula &lt;/i&gt;Cameron (Ichneumonidae, Cryptinae) parasitoid of &lt;i&gt;Ropalidia&lt;/i&gt; &lt;i&gt;plebeiana &lt;/i&gt;Richards (Vespidae) and host of &lt;i&gt;Amoturoides breviscapus &lt;/i&gt;Girault (Torymidae) (Hymenoptera)</title>
+        <abstract locale="en_US">&lt;i&gt;Arthula&lt;/i&gt; &lt;i&gt;plebeja&lt;/i&gt; Ubaidillah and Kojima, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a parasitoid of the Australian paper wasp &lt;i&gt;Ropalidia&lt;/i&gt; &lt;i&gt;plebeiana&lt;/i&gt; Richards, and host of the torymid hyperparasitoid &lt;i&gt;Amoturoides&lt;/i&gt; &lt;i&gt;breviscapus&lt;/i&gt; Girault, is described and illustrated. Both &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;plebeja&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;breviscapus&lt;/i&gt; are estimated to have a bivoltine life cycle, the first overwintering in the pupal stage, and the second in the prepupal and/or pupal stage.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cryptinae; &lt;i&gt;Arthula&lt;/i&gt;; &lt;i&gt;Ropalidia&lt;/i&gt; &lt;i&gt;plebeiana&lt;/i&gt;; Torymidae; Vespidae</subject>
+          <subject_class locale="en_US">Cryptinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosichon</firstname>
+          <lastname>Ubaidillah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Goshi</firstname>
+          <lastname>Yamaguchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jun-Ichi</firstname>
+          <lastname>Kojima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-50</pages>
+        <date_published>2009-10-28</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of &lt;i&gt;Paraclius &lt;/i&gt;Loew (Diptera: Dolichopodidae) from the Brazilian Atlantic Forest, and notes on the systematic position of &lt;i&gt;Cheiromyia &lt;/i&gt;Dyte</title>
+        <abstract locale="en_US">Four new species of &lt;i&gt;Paraclius&lt;/i&gt; Loew from the Brazilian Atlantic Forest are described and illustrated: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amphiatheratus,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;parenti,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sagittatus,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dicrophallus,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The condition of their enlarged sperm pump, also seen in the Neotropical genus &lt;i&gt;Cheiromyia&lt;/i&gt; Dyte, is briefly discussed. Comments on the phylogenetic position of &lt;i&gt;Cheiromyia&lt;/i&gt; are presented in light of new data from female terminalia of that genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Paraclius&lt;/i&gt;; &lt;i&gt;Cheiromyia&lt;/i&gt;; Diptera; Dolichopodidae; Dolichopodinae; Atlantic Forest; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Paraclius&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renato</firstname>
+          <middlename>Soares</middlename>
+          <lastname>Capellari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dalton</firstname>
+          <lastname>De Souza Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2009-10-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Paracoccus &lt;/i&gt;species from Palaearctic region (Hemiptera, Sternorrhyncha, Coccoidea, Pseudococcidae)</title>
+        <abstract locale="en_US">A new mealybug species, &lt;i&gt;Paracoccus&lt;/i&gt; &lt;i&gt;leucadendri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from Portugal. This is the first record of a &lt;i&gt;Paracoccus&lt;/i&gt; species from Europe. It is suggested that its presence in Portugal is the result of a fortuitous introduction with its host plant, &lt;i&gt;Leucadendron&lt;/i&gt; sp. (Proteaceae). An identification key is presented to distinguish this new &lt;i&gt;Paracoccus&lt;/i&gt; species from other mealybug species reported on Proteaceae in the world.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Paracoccus&lt;/i&gt; &lt;i&gt;leucadendri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;claudus&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;evae&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;herreni&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;invectus&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;orsomi&lt;/i&gt;; Iberian Peninsula</subject>
+          <subject_class locale="en_US">&lt;i&gt;Paracoccus&lt;/i&gt; &lt;i&gt;leucadendri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;claudus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gaetana</firstname>
+          <lastname>Mazzeo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Carlos</middlename>
+          <lastname>Franco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Agatino</firstname>
+          <lastname>Russo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2009-10-28</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

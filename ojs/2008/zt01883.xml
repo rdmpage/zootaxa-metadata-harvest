@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1883.1</id>
+    <title locale="en_US">24 Sep. 2008</title>
+    <volume>1883</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic partitioning of &lt;i&gt;Cyrtodactylus louisiadensis &lt;/i&gt;(Lacertilia: Gekkonidae) from Papua New Guinea</title>
+        <abstract locale="en_US">As recently understood, the gecko species &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;louisiadensis&lt;/i&gt; (de Vis, 1892) ranges across eastern New Guinea and adjacent islands, the Solomon Islands, and northern Queensland. Within that portion of its range encompassed by Papua New Guinea I show that five species are currently masquerading under this appellation. Two of these occur in sympatry at the type locality for the species, Sudest Island. Because the type specimen is lost, the taxonomy of this complex has been confused, and two species are present at the type locality, I designate a neotype for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;louisiadensis&lt;/i&gt; so as to stabilize taxonomy within this complex. I describe the four additional species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;epiroticus&lt;/i&gt; sp. nov., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;klugei&lt;/i&gt; sp. nov., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; sp. nov., and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tripartitus&lt;/i&gt; sp. nov., which differ from each other in a variety of scalational, mensural, and color-pattern features. Four of these species are confined to single islands off the southeastern peninsula of New Guinea. The fifth occupies the eastern rim of New Guinea.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">lizard; gecko; Milne Bay; Sudest Island; Rossel Island; Misima Island</subject>
+          <subject_class locale="en_US">lizard</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fred</firstname>
+          <lastname>Kraus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2008-09-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of frogs of the genus &lt;i&gt;Cryptobatrachus&lt;/i&gt; (Anura: Hemiphractidae)</title>
+        <abstract locale="en_US">Hemiphractid frogs of the genus &lt;i&gt;Cryptobatrachus&lt;/i&gt; are nearly exclusive to Colombia and are distributed over an altitudinal range between 360 and 2400 meters on the three cordilleras and the massif of the Sierra Nevada de Santa Marta. To the three species currently recognized, three additional species are named (C. &lt;i&gt;conditus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pedroruizi,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ruthveni).&lt;/i&gt; The genus is monophyletic and all but the cis-Andean &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nicefori&lt;/i&gt; form a clade (defined by the presence of adhesive pads on some subarticular tubercles of the hand and foot). All but &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fuhrmanni&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nicefori&lt;/i&gt; form an additional clade in northern Colombia. Two (or three) species are found on the Sierra Nevada de Santa Marta and two other species are found on the Serranía de Perijá. The most widely distributed species (C. &lt;i&gt;fuhrmanni)&lt;/i&gt; occurs on all three Andean cordilleras without apparent geographic variation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biogeography; &lt;i&gt;Cryptobatrachus&lt;/i&gt;; Frogs; Sexual dimorphism; Systematics; Taxonomy</subject>
+          <subject_class locale="en_US">Biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>D.</middlename>
+          <lastname>Lynch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-68</pages>
+        <date_published>2008-09-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

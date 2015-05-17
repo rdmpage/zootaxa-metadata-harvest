@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1676.1</id>
+    <title locale="en_US">9 Jan. 2008</title>
+    <volume>1676</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Tachytrechus alatus&lt;/i&gt; species group (= &lt;i&gt;Syntomoneurum&lt;/i&gt; Becker) revisited: new species and revised species group limits (Diptera: Dolichopodidae)</title>
+        <abstract locale="en_US">The &lt;i&gt;Tachytrechus&lt;/i&gt; &lt;i&gt;alatus&lt;/i&gt; species group is revised. The species group is defined within the genus &lt;i&gt;Tachytrechus&lt;/i&gt; on the basis of possession of a strong basiventral bristle on the fore femur and very reduced pulvilli on the midand hindlegs of both sexes. Males also possess a strongly reduced vertical bristle, and a cluster of 2–3 strong bristles on both the fore femur and mid coxa. The &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;alatus&lt;/i&gt; species group is now known from southern Mexico, Central and South America and comprises eight Neotropical species including three new species: &lt;i&gt;Tachytrechus&lt;/i&gt; &lt;i&gt;alatus&lt;/i&gt; (Becker), &lt;i&gt;Tachytrechus&lt;/i&gt; &lt;i&gt;analis&lt;/i&gt; (Parent), &lt;b&gt;&lt;i&gt;Tachytrechus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;costaricensis&lt;/i&gt;&lt;/b&gt; Brooks &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;&lt;i&gt;Tachytrechus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;dios&lt;/i&gt;&lt;/b&gt; Brooks &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Tachytrechus&lt;/i&gt; &lt;i&gt;giganteus&lt;/i&gt; (Brooks), &lt;i&gt;Tachytrechus&lt;/i&gt; &lt;i&gt;peruicus&lt;/i&gt; Yang &amp; Zhang, &lt;i&gt;Tachytrechus&lt;/i&gt; &lt;i&gt;transversus&lt;/i&gt; (Van Duzee) and &lt;b&gt;&lt;i&gt;Tachytrechus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;zumbadoi&lt;/i&gt;&lt;/b&gt; Brooks &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A revised key to species is provided, as well as remarks on the phylogeny and zoogeography of the group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dolichopodidae; Dolichopodinae; &lt;i&gt;Tachytrechus&lt;/i&gt;; Neotropical; new species; key; phylogeny; zoogeography</subject>
+          <subject_class locale="en_US">Dolichopodidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Scott</firstname>
+          <middlename>E.</middlename>
+          <lastname>Brooks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeffrey</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cumming</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2008-01-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Urytalpa&lt;/i&gt; &lt;i&gt;chandleri&lt;/i&gt; sp. n. (Diptera: Keroplatidae) from Turkey, with a key to the Western Palaearctic species of the genus</title>
+        <abstract locale="en_US">&lt;i&gt;Urytalpa&lt;/i&gt; &lt;i&gt;chandleri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from southwest Asiatic Turkey is described and illustrated. &lt;i&gt;Platyura&lt;/i&gt; &lt;i&gt;maritima&lt;/i&gt; Becker is transferred to &lt;i&gt;Urytalpa&lt;/i&gt; based on examination of the type specimen. A key to the Western Palaearctic species of &lt;i&gt;Urytalpa&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Keroplatidae; &lt;i&gt;Urytalpa&lt;/i&gt;; Western Palaearctic; taxonomy; Turkey</subject>
+          <subject_class locale="en_US">Keroplatidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dimitar</firstname>
+          <lastname>Bechev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hasan</firstname>
+          <lastname>Koc</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-36</pages>
+        <date_published>2008-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Cnodalomyia&lt;/i&gt; Hull, 1962 (Diptera, Asilidae, Asilinae) from Brazil</title>
+        <abstract locale="en_US">The robber fly genus &lt;i&gt;Cnodalomyia&lt;/i&gt; Hull, 1962 is a monotypic member of the Asilinae. The type species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;obtusa&lt;/i&gt; Hull, is endemic to Itatiaia, State of Rio de Janeiro, Brazil. A new species, &lt;i&gt;Cnodalomyia&lt;/i&gt; &lt;i&gt;catarinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from southern states of Brazil (Santa Catarina, Paraná and São Paulo) is herein described and illustrated. Both species are restricted to highland areas of the Atlantic Forest. An identification key to the species is also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cnodalomyia&lt;/i&gt; &lt;i&gt;catarinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Cnodalomyia&lt;/i&gt; &lt;i&gt;obtusa;&lt;/i&gt; Taxonomy; highlands; Atlantic Forest</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cnodalomyia&lt;/i&gt; &lt;i&gt;catarinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Cnodalomyia&lt;/i&gt; &lt;i&gt;obtusa;&lt;/i&gt; Taxonomy; highlands; Atlantic Forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>Jose Einicker</middlename>
+          <lastname>Lamas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriela</firstname>
+          <middlename>Bastos</middlename>
+          <lastname>Mellinger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-43</pages>
+        <date_published>2008-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Plumaroides&lt;/i&gt; Brothers (Hymenoptera: Chrysidoidea, Plumariidae) from Argentina</title>
+        <abstract locale="en_US">New records of the distribution of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;andalgalensis&lt;/i&gt; Brothers and the description and illustration of the new species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;brothersi&lt;/i&gt; from San Juan and La Rioja provinces of Argentina are provided. The relationships of the two species of the genus &lt;i&gt;Plumaroides&lt;/i&gt; Brothers are also discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plumaroides; Argentina; taxonomy; morphology</subject>
+          <subject_class locale="en_US">Plumaroides</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patricia</firstname>
+          <lastname>Diez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arturo</firstname>
+          <lastname>Roig-Alsina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-50</pages>
+        <date_published>2008-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the monotypic genus &lt;i&gt;Volkeliopsis &lt;/i&gt;Poppius (Hemiptera: Heteroptera: Miridae: Bryocorinae)</title>
+        <abstract locale="en_US">The monotypic genus &lt;i&gt;Volkeliopsis&lt;/i&gt; POPPIUS and its type species &lt;i&gt;Volkeliopsis&lt;/i&gt; &lt;i&gt;frontalis&lt;/i&gt; are redescribed. The male genital structures are described for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Heteroptera; Miridae; Bryocorinae; &lt;i&gt;Volkeliopsis&lt;/i&gt;; redescription; male genital structures</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Izabela</firstname>
+          <lastname>Sadowska-Woda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frederic</firstname>
+          <lastname>Cherot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-56</pages>
+        <date_published>2008-01-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Polytene chromosomes of &lt;i&gt;Simulium&lt;/i&gt; (&lt;i&gt;Psaroniocompsa&lt;/i&gt;) &lt;i&gt;daltanhani&lt;/i&gt; (Diptera: Simuliidae) from Central Amazonia, Brazil</title>
+        <abstract locale="en_US">Last-instar larvae of &lt;i&gt;Simulium&lt;/i&gt; (Psaroniocompsa) &lt;i&gt;daltanhani&lt;/i&gt; Hamada and Adler from a stream in Central Amazonia were analyzed cytologically by mapping their polytene chromosomes. &lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;daltanhani&lt;/i&gt; has the nucleolar organizer in the short arm of chromosome I, heterogametic females, and an absence of autosomal polymorphisms. The chromosomes carry multiple rearrangements relative to other analyzed members of the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;quadrifidum&lt;/i&gt; species group in the subgenus &lt;i&gt;Psaroniocompsa.&lt;/i&gt; One-third of the chromosomal complement is rearranged relative to the sequence of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ulyssesi,&lt;/i&gt; the species with the most similar banding pattern among studied members of the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;quadrifidum&lt;/i&gt; group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">aquatic insects; black flies; cytotaxonomy; polytene chromosomes; Simuliidae</subject>
+          <subject_class locale="en_US">aquatic insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neusa</firstname>
+          <lastname>Hamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eleny</firstname>
+          <lastname>Da Silva Pereira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>H.</middlename>
+          <lastname>Adler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2008-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Oriental planthopper genus &lt;i&gt;Eilithyia &lt;/i&gt;Distant (Hemiptera: Fulgoromorpha: Tropiduchidae) with description of one new species</title>
+        <abstract locale="en_US">&lt;i&gt;Eilithyia&lt;/i&gt; &lt;i&gt;singaporensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hemiptera: Fulgoroidea: Tropiduchidae) is described and illustrated from Singapore and Malaya. This represents the second known species of &lt;i&gt;Eilithyia.&lt;/i&gt; The male and female genitalia of the genus are described for the first time and a key to the known species in the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eilithyia&lt;/i&gt;; Tropiduchidae; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eilithyia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rong-Rong</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ai-Ping</firstname>
+          <lastname>Liang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>D.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2008-01-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

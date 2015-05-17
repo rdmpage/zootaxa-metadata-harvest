@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2168.1</id>
+    <title locale="en_US">27 Jul. 2009</title>
+    <volume>2168</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Agrilus muscarius &lt;/i&gt;species-group (Coleoptera: Buprestidae) with description of thirteen new species from Palaearctic and Oriental regions</title>
+        <abstract locale="en_US">The &lt;i&gt;Agrilus&lt;/i&gt; &lt;i&gt;muscarius&lt;/i&gt; species-group (Coleoptera, Buprestidae, Agrilinae) is defined to include twenty-nine species, thirteen of which are described herein: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;apicaureus&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (north Laos); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;carinelytratus&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (mainland Malaysia); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cuneatus&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dilatipenis&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;haucki&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Malaysia: Pahang); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hunanus&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China: Hunan); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;madanensis&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (south Vietnam); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pseudoharlequin&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Indonesia: Java); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rolciki&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (India: Assam); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;semicaducus&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (north Laos); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spiculipenis&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand, Vietnam); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tiomanensis&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Malaysia: Tioman island); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ventrituber&lt;/i&gt; Jendek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Myanmar, north Thailand). &lt;i&gt;Agrilus&lt;/i&gt; &lt;i&gt;aurarius&lt;/i&gt; (Kerremans, 1892) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is transferred from the genus &lt;i&gt;Meliboeus.&lt;/i&gt; Two new synonyms are proposed for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aurarius&lt;/i&gt; (Kerremans, 1892) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (= &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bocae&lt;/i&gt; Descarpentries &amp; Villiers, 1963 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;muscarius&lt;/i&gt; Kerremans, 1895 (= &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;seladon&lt;/i&gt; Obenberger, 1940 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; A lectotype is designated for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;muscarius&lt;/i&gt; Kerremans, 1895. Members of the group are illustrated and an identification key is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; Coleoptera; Buprestidae; &lt;i&gt;Agrilus&lt;/i&gt;; Palaearctic and Oriental regions</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduard</firstname>
+          <lastname>Jendek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vasily</firstname>
+          <middlename>V.</middlename>
+          <lastname>Grebennikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2009-07-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval and pupal descriptions for the genera &lt;i&gt;Podischnus &lt;/i&gt;and &lt;i&gt;Heterogomphus&lt;/i&gt; (Scarabaeidae: Dynastinae: Oryctini)</title>
+        <abstract locale="en_US">The larva and pupa of &lt;i&gt;Heterogomphus&lt;/i&gt; &lt;i&gt;dilaticollis&lt;/i&gt; Burmeister and &lt;i&gt;Podischnus&lt;/i&gt; &lt;i&gt;agenor&lt;/i&gt; (Olivier) (Scarabaeidae: Dynastinae: Oryctini) are described for the first time based on specimens from Colombia. &lt;i&gt;Podischnus&lt;/i&gt; &lt;i&gt;agenor&lt;/i&gt; is the first species in the genus to have its immature stages described. Keys to the third-instar larvae of genera in the tribe Oryctini and species of &lt;i&gt;Heterogomphus&lt;/i&gt; are included. Data on larval natural history for both species are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">scarabs; larvae; pupae; natural history; taxonomy; Colombia</subject>
+          <subject_class locale="en_US">scarabs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jhon</firstname>
+          <middlename>César Neita</middlename>
+          <lastname>Moreno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesús</firstname>
+          <lastname>Orozco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-44</pages>
+        <date_published>2009-07-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic study of the Dryininae (Hymenoptera: Dryinidae) of Japan, with description of a new species of &lt;i&gt;Pseudodryinus&lt;/i&gt;</title>
+        <abstract locale="en_US">The Japanese Dryinidae were studied and 11 species recognized. The following 10 species were recorded for the first time from Japan: &lt;i&gt;Thaumatodryinus&lt;/i&gt; &lt;i&gt;alienus&lt;/i&gt; Olmi, &lt;i&gt;Dryinus&lt;/i&gt; &lt;i&gt;bellicus&lt;/i&gt; Olmi, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;chenae&lt;/i&gt; Xu, Olmi &amp; He, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;browni&lt;/i&gt; Ashmead, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;expolitus&lt;/i&gt; Xu, Olmi &amp; He, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; (Kieffer), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;krombeini&lt;/i&gt; Ponomarenko, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pyrillae&lt;/i&gt; (Kieffer), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pyrillivorus&lt;/i&gt; Olmi, and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sinicus&lt;/i&gt; Olmi. &lt;i&gt;Pseudodryinus&lt;/i&gt; &lt;i&gt;shihoae,&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; is described from Honshu. &lt;i&gt;Thaumatodryinus&lt;/i&gt; &lt;i&gt;alienus&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; were reared for the first time from &lt;i&gt;Geisha&lt;/i&gt; &lt;i&gt;distinctissima&lt;/i&gt; (Walker).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasitoids; host records; new species</subject>
+          <subject_class locale="en_US">parasitoids; host records; new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Toshiharu</firstname>
+          <lastname>Mita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2009-07-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new and one resurrected species of &lt;i&gt;Enoclerus &lt;/i&gt;Gahan (Coleoptera: Cleridae: Clerinae) from the western United States</title>
+        <abstract locale="en_US">&lt;i&gt;Enoclerus&lt;/i&gt; &lt;i&gt;vernalis,&lt;/i&gt; new species, is described from the Mojave Desert of California. &lt;i&gt;Enoclerus&lt;/i&gt; &lt;i&gt;valens,&lt;/i&gt; new species, is described from Arizona. &lt;i&gt;Enoclerus&lt;/i&gt; &lt;i&gt;spinolae&lt;/i&gt; (LeConte 1853), broadly distributed in the U. S. Southwest and also occurring in northern Mexico, is resurrected as a valid species. Distribution and biology of some yucca associated &lt;i&gt;Enoclerus&lt;/i&gt; species are briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Clerid fauna; Arizona; California; Mojave Desert; Joshua tree; Yucca</subject>
+          <subject_class locale="en_US">Clerid fauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>F.</middlename>
+          <lastname>Barr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jacques</firstname>
+          <lastname>Rifkind</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2009-07-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Denisiella &lt;/i&gt;Folsom and Mills, 1938 (Collembola: Sminthurididae) from Colombia</title>
+        <abstract locale="en_US">&lt;i&gt;Denisiella&lt;/i&gt; &lt;i&gt;colombiana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described and illustrated from Colombia. Males and females are studied. Two keys for the species of the world are included, one for males and one for females.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; sexual dimorphism; chaetotaxy</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcela</firstname>
+          <lastname>Ospina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>G.</middlename>
+          <lastname>Palacios-Vargas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-07-27</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

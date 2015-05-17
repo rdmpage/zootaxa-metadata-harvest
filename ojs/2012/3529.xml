@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3529.1</id>
+    <title locale="en_US">29 Oct. 2012</title>
+    <volume>3529</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the goby genus &lt;i&gt;Gnatholepis &lt;/i&gt;Bleeker (Teleostei, Gobiidae, Gobionellinae), with description of a new species</title>
+        <abstract locale="en_US">Species of the tropical gobiid genus &lt;i&gt;Gnatholepis&lt;/i&gt; have been misidentified and confused for many years. A gobionelline,&lt;i&gt;Gnatholepis&lt;/i&gt; is the only strictly marine genus of that subfamily. &lt;i&gt;Gnatholepis&lt;/i&gt; was reviewed from a morphological view-point, as recent publications distinguishing species (morphologically and genetically) have not always been in agreement.The genus is considered to include nine described species, with two distinctive sister-taxa (G. &lt;i&gt;argus&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gymnocara)&lt;/i&gt;and seven less easily distinguished taxa: one species-group formed by &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;anjerensis,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;knighti,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ophthalmotaenia&lt;/i&gt; and&lt;i&gt;G.&lt;/i&gt; &lt;i&gt;yoshinoi&lt;/i&gt; and another species-group of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;cauerensis,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pascuensis&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;thompsoni.&lt;/i&gt; Of these, the &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;cauerensis&lt;/i&gt; spe-cies-group is the most complex, with several subspecies-names available. There is also a distinctive taxon from the Red Sea that represents a new species, described herein.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Gnatholepis&lt;/i&gt;; Indo-Pacific; Atlantic; Gobiidae; Gobionellinae; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Gnatholepis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Helen</firstname>
+          <middlename>K.</middlename>
+          <lastname>Larson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Duncan</firstname>
+          <middlename>J.</middlename>
+          <lastname>Buckle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-69</pages>
+        <date_published>2012-10-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

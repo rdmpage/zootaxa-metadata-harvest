@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2900.1</id>
+    <title locale="en_US">31 May. 2011</title>
+    <volume>2900</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogenetic relationships of Elateridae inferred from adult morphology, with special reference to the position of Cardiophorinae</title>
+        <abstract locale="en_US">A phylogeny is presented for the Elateridae, inferred from parsimony and Bayesian analyses of 175 adult morphological characters. Analyses using non gap-weighted morphological data yielded results compatible with each other and some published classifications, while gap-weighted parsimony analysis did not. Bayesian posterior probabilities for the monophyly of the Elateridae and the elaterid subfamilies Athoinae (sensu Dolin 1975), Cardiophorinae (including &lt;i&gt;Exoeolus&lt;/i&gt; Broun), Denticollinae (sensu Stibick 1979a), Elaterinae (sensu Stibick 1979a), Hypnoidinae (sensu Stibick 1976) and Lissominae (sensu Calder &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 1993) were less than 0.05. The bioluminescent genus &lt;i&gt;Pyrophorus&lt;/i&gt; was found to be an apical member of the mostly non-bioluminescent Agrypninae, supporting the hypothesis of at least one independent origin of bioluminescence in the Elateridae. The closest relatives to the Cardiophorinae minus &lt;i&gt;Exoeolus&lt;/i&gt; were found in the Negastriinae. The subfamilies Cardiophorinae + Negastriinae + &lt;i&gt;Tropihypnus&lt;/i&gt; Reitter together rendered the Hypnoidinae (or the tribe Hypnoidini of Denticollinae) paraphyletic. &lt;i&gt;Lesnelater&lt;/i&gt; &lt;i&gt;madagascariensis&lt;/i&gt; Fleutiaux (the type species of &lt;i&gt;Lesnelater&lt;/i&gt; Fleutiaux) is synonymised under the type species of &lt;i&gt;Pachyelater&lt;/i&gt; Lesne: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;madagascariensis&lt;/i&gt; (Lesne) so that &lt;i&gt;Lesnelater&lt;/i&gt; is a new synonym of &lt;i&gt;Pachyelater.&lt;/i&gt; The genus &lt;i&gt;Exoeolus&lt;/i&gt; Broun is transferred from the Cardiophorinae to the Hemiopinae; the fossil genus &lt;i&gt;Crioraphes&lt;/i&gt; Iablokoff-Khnzorian is transferred to the Elaterinae &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis;&lt;/i&gt; the fossil genera &lt;i&gt;Pseudocardiophorites&lt;/i&gt; Dolin, and &lt;i&gt;Protocardiophorus&lt;/i&gt; Dolin are transferred to Elateroidea &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis.&lt;/i&gt; Dolin’s (1976) hypothesis of a Jurassic origin of the Cardiophorinae was not supported by fossil evidence.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Elateroidea; Bayesian; parsimony; gap-weighting; bioluminescence</subject>
+          <subject_class locale="en_US">Elateroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hume</firstname>
+          <lastname>Douglas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2011-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Yaothrips shii &lt;/i&gt;gen. et sp. n. from western China (Thripidae: Thripinae)</title>
+        <abstract locale="en_US">A new genus and micropterous species of Thripinae (Thysanoptera: Thripidae), &lt;i&gt;Yaothrips&lt;/i&gt; &lt;i&gt;shii&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;&amp;&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; are described and illustrated from Tibet, western China. The relationship of this genus with other genera of Thripinae is discussed, particularly because of a pair of dorso-apical setae on the first antennal segment.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Thripidae; Thripinae; &lt;i&gt;Yaothrips&lt;/i&gt; &lt;i&gt;shii&lt;/i&gt; new genus; new species; China</subject>
+          <subject_class locale="en_US">Thripidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Majid</firstname>
+          <lastname>Mirab-Balou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shu-Jun</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong</firstname>
+          <lastname>Lu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-50</pages>
+        <date_published>2011-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New distributional records for Gyrinidae (Insecta: Coleoptera) on New Guinea and nearby islands, with a checklist of the New Guinea species</title>
+        <abstract locale="en_US">New distribution records are provided for the following 16 taxa of Gyrinidae on New Guinea, some of which have not been documented since their original type series were collected in the late 1800s or early 1900s: &lt;i&gt;Porrorhynchus&lt;/i&gt; &lt;i&gt;(Rhomborhynchus)&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; Régimbart; &lt;i&gt;Porrorhynchus&lt;/i&gt; &lt;i&gt;(Rhomborhynchus)&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; &lt;i&gt;misoolensis&lt;/i&gt; Ochs &lt;b&gt;new&lt;/b&gt; &lt;b&gt;com-&lt;/b&gt; &lt;b&gt;bination;&lt;/b&gt; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;pectoralis&lt;/i&gt; &lt;i&gt;pectoralis&lt;/i&gt; Régimbart; &lt;i&gt;Dineutus&lt;/i&gt; &lt;i&gt;(Rhombodineutus)&lt;/i&gt; &lt;i&gt;pectoralis&lt;/i&gt; &lt;i&gt;biakensis&lt;/i&gt; Brinck; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;pectoralis&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; Ochs; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;heurni&lt;/i&gt; Zimmerman; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;silenus&lt;/i&gt; Brinck; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;sinuaticollis&lt;/i&gt; Zimmerman; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;virescens&lt;/i&gt; Ochs; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;chalybeus&lt;/i&gt; Zimmerman; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;helleri&lt;/i&gt; &lt;i&gt;stueberi&lt;/i&gt; Ochs; &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;tetracanthus&lt;/i&gt; &lt;i&gt;tetracanthus&lt;/i&gt; Régimbart; &lt;i&gt;Dineutus&lt;/i&gt; (Merodineutus) &lt;i&gt;archboldianus&lt;/i&gt; Ochs; &lt;i&gt;Dineutus&lt;/i&gt; (Merodineutus) &lt;i&gt;loriae&lt;/i&gt; Régimbart; &lt;i&gt;Dineutus&lt;/i&gt; (Merodineutus) &lt;i&gt;macrochirus&lt;/i&gt; Régimbart; and &lt;i&gt;Dineutus&lt;/i&gt; (Spinosodineutes) &lt;i&gt;neohollandicus&lt;/i&gt; Ochs. New distribution records are also provided for &lt;i&gt;Dineutus&lt;/i&gt; (Dineutus) &lt;i&gt;regimbarti&lt;/i&gt; &lt;i&gt;regimbarti&lt;/i&gt; Régimbart from East Timor. The type-locality of &lt;i&gt;Dineutus&lt;/i&gt; (Rhombodineutus) &lt;i&gt;chalybeus&lt;/i&gt; is constrained to Yule Island, on the Gulf of Papua. Updated distribution maps are provided for all the New Guinea species above, a table is included summarizing currently documented ranges of elevation and water temperature for all species treated, and a checklist of all species of Gyrinidae currently known from New Guinea and nearby islands is provided, with species assigned to putative areas of freshwater endemism within the island.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Gyrinidae; New Guinea; distribution; checklist</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dan</firstname>
+          <middlename>A.</middlename>
+          <lastname>Polhemus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2011-05-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

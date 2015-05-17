@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2378.1</id>
+    <title locale="en_US">26 Feb. 2010</title>
+    <volume>2378</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the fish fauna of Greenland waters</title>
+        <abstract locale="en_US">Although the Greenland fish fauna has been studied for more than 200 years, new species continue to be discovered. We here take the opportunity of the International Polar Year 2007–08 (IPY) to present an updated check-list of the fishes of Greenland and discuss whether the growing diversity can be explained by global warming. A total of 269 species from 80 families are known from the Greenland Exclusive Economic Zone (EEZ), based on published literature and specimens in museum collections. Since the latest publication covering all known Greenland fishes [Nielsen &amp; Bertelsen 1992], 57 species have been added. Nineteen of these (Harriotta &lt;i&gt;raleighana,&lt;/i&gt; &lt;i&gt;Centroscymnus&lt;/i&gt; &lt;i&gt;coelolepis,&lt;/i&gt; &lt;i&gt;Bathytroctes&lt;/i&gt; &lt;i&gt;microlepis,&lt;/i&gt; &lt;i&gt;Einara&lt;/i&gt; &lt;i&gt;edentula,&lt;/i&gt; &lt;i&gt;Ceratoscopelus&lt;/i&gt; &lt;i&gt;maderensis,&lt;/i&gt; &lt;i&gt;Argyropelecus&lt;/i&gt; &lt;i&gt;gigas,&lt;/i&gt; &lt;i&gt;Maurolicus&lt;/i&gt; &lt;i&gt;muelleri,&lt;/i&gt; &lt;i&gt;Polyipnus&lt;/i&gt; &lt;i&gt;asteroides,&lt;/i&gt; &lt;i&gt;Nansenia&lt;/i&gt; &lt;i&gt;oblita,&lt;/i&gt; &lt;i&gt;Melanostomias&lt;/i&gt; &lt;i&gt;bartonbeani,&lt;/i&gt; &lt;i&gt;Polymetme&lt;/i&gt; &lt;i&gt;corythaeola,&lt;/i&gt; &lt;i&gt;Coryphaenoides&lt;/i&gt; &lt;i&gt;mediterraneus,&lt;/i&gt; &lt;i&gt;Merlangius&lt;/i&gt; &lt;i&gt;merlangus,&lt;/i&gt; &lt;i&gt;Guttigadus&lt;/i&gt; &lt;i&gt;latifrons,&lt;/i&gt; &lt;i&gt;Entelurus&lt;/i&gt; &lt;i&gt;aequoreus,&lt;/i&gt; &lt;i&gt;Helicolenus&lt;/i&gt; &lt;i&gt;dactylopterus,&lt;/i&gt; &lt;i&gt;Epigonus&lt;/i&gt; &lt;i&gt;telescopus,&lt;/i&gt; &lt;i&gt;Lophius&lt;/i&gt; &lt;i&gt;piscatorius,&lt;/i&gt; &lt;i&gt;Linophryne&lt;/i&gt; &lt;i&gt;bicornis)&lt;/i&gt; are reported here for the first time. Twenty-nine of the species were added on the basis of taxonomic revisions and/ or identification of specimens caught before 1992, whereas 28 species have been caught in Greenland waters for the first time since 1992. Ten species were new to science described since 1992. Only five of the added species are Arctic – &lt;i&gt;i.e.&lt;/i&gt; mainly caught north of the Davis and Denmark Straits. Of the 28 species caught after 1992, five species (Maurolicus &lt;i&gt;muelleri,&lt;/i&gt; &lt;i&gt;Merlangius&lt;/i&gt; &lt;i&gt;merlangus,&lt;/i&gt; &lt;i&gt;Helicolenus&lt;/i&gt; &lt;i&gt;dactylopterus,&lt;/i&gt; &lt;i&gt;Lophius&lt;/i&gt; &lt;i&gt;piscatorius,&lt;/i&gt; &lt;i&gt;Entelurus&lt;/i&gt; &lt;i&gt;aequoreus)&lt;/i&gt; from the southern regions (Atlantic) are mainly from shallow waters (&lt; 400 m) and their arrival is likely to be a result of increasing temperatures. The explanation of the many new records of deep-water fishes is most likely increasing fishing efforts down to depths of 1500 m. The deep waters off Greenland (&gt; 1500 m), however, remain almost unstudied.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Annotated check-list; Greenland EEZ; global warming; North Atlantic</subject>
+          <subject_class locale="en_US">Annotated check-list</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Møller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jørgen</firstname>
+          <middlename>G.</middlename>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steen</firstname>
+          <middlename>W.</middlename>
+          <lastname>Knudsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Poulsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kaj</firstname>
+          <lastname>Sünksen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jørgensen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-84</pages>
+        <date_published>2010-02-26</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

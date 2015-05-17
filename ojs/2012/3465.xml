@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3465.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3465</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the systematics, morphology and distribution of Asian Clawed Salamanders, genus &lt;i&gt;Onychodactylus &lt;/i&gt;(Amphibia, Caudata: Hynobiidae), with the description of four new species</title>
+        <abstract locale="en_US">We describe four new species of Asian Clawed salamanders of the genus &lt;i&gt;Onychodactylus&lt;/i&gt; (Caudata: Hynobiidae), basedon fresh material collected during fieldwork in Japan, Korea, the Russian Far East and northeastern China between 2003and 2010, as well as older voucher specimens deposited in several museums. Our analyses comprise all species currentlyrecognized within this genus across its entire distribution range. We follow an integrative taxonomic approach bycombining detailed morphological comparative analyses with molecular phylogenetic analyses. We find significantdifferences among species in this genus, based on morphological and molecular data, which resulted in the recognitionand description of four new species within this genus. The new species have uncorrected molecular divergences of over4.5–7.4% and 1.9–4.1% to their closest relatives in the mitochondrial COI and 16S rRNA genes respectively. In themolecular analyses, we found two very divergent lineages in Korea and Japan that need further investigation, as detailedmorphological data are not available for them. We also discuss our approach to delimit species on salamanders. For thenew species described in this group we evaluate their threat status according to IUCN criteria: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;koreanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Min,Poyarkov &amp; Vieites and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;nipponoborealis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Kuro-o, Poyarkov &amp; Vieites are classified as Least Concern, while&lt;i&gt;O.&lt;/i&gt; &lt;i&gt;zhaoermii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Che, Poyarkov &amp; Yan and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;zhangyapingi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Che, Poyarkov, Li &amp; Yan are classified as Vulnerable (Vu2a).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caudata; Hynobiidae; &lt;i&gt;Onychodactylus&lt;/i&gt;; integrative taxonomy; Asia; salamander; &lt;i&gt;Onychodactylus&lt;/i&gt; &lt;i&gt;koreanus&lt;/i&gt;; &lt;i&gt;Onychodactylus&lt;/i&gt; &lt;i&gt;nipponoborealis&lt;/i&gt;; &lt;i&gt;Onychodactylus&lt;/i&gt; &lt;i&gt;zhaoermii&lt;/i&gt;; &lt;i&gt;Onychodactylus&lt;/i&gt; &lt;i&gt;zhangyapingi&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Caudata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nikolay</firstname>
+          <middlename>A.</middlename>
+          <lastname>Poyarkov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jing</firstname>
+          <lastname>Che</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mi-Sook</firstname>
+          <lastname>Min</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masaki</firstname>
+          <lastname>Kuro-O</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fang</firstname>
+          <lastname>Yan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cheng</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Koji</firstname>
+          <lastname>Iizuka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Vieites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-106</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

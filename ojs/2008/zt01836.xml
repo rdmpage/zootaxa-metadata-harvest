@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1836.1</id>
+    <title locale="en_US">30 Jul. 2008</title>
+    <volume>1836</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Shallow water Tanaidae (Crustacea: Tanaidacea) of Australia</title>
+        <abstract locale="en_US">Investigation of shallow reef habitats around Australia revealed an extremely rich tanaid (Crustacea: Tanaidacea: Tanaidae) fauna. A total of 21 species in the family are now recognised from the Australian continent and Tasmania— about one-third of tanaids known worldwide. In this study, 15 species are diagnosed, including a new genus, &lt;i&gt;Austrotanais&lt;/i&gt; g. sp., and twelve new species, &lt;i&gt;Austrotanais&lt;/i&gt; &lt;i&gt;rileyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Sinelobus&lt;/i&gt; &lt;i&gt;barretti&lt;/i&gt; g. sp., &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;lasti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;lauriebourqueae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;mawbeyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxo&lt;/i&gt; &lt;i&gt;russi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxo&lt;/i&gt; &lt;i&gt;belli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxo&lt;/i&gt; &lt;i&gt;kirkmani&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxo&lt;/i&gt; &lt;i&gt;odohertyae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxo&lt;/i&gt; &lt;i&gt;mooneyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Zeuxo&lt;/i&gt; &lt;i&gt;shepherdi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Pancoloides&lt;/i&gt; &lt;i&gt;moverleyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Keys are provided to local genera and species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tanaidaceans; tanaids; systematics; new genus; new species; &lt;i&gt;Austrotanais&lt;/i&gt;; &lt;i&gt;Hexapleomera&lt;/i&gt;; &lt;i&gt;Pancoloides&lt;/i&gt;; &lt;i&gt;Sinelobus&lt;/i&gt;; &lt;i&gt;Tanais&lt;/i&gt;; &lt;i&gt;Zeuxo&lt;/i&gt;; &lt;i&gt;Zeuxoides&lt;/i&gt;; Tasmania</subject>
+          <subject_class locale="en_US">Tanaidaceans</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Graham</firstname>
+          <middlename>J.</middlename>
+          <lastname>Edgar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-92</pages>
+        <date_published>2008-07-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

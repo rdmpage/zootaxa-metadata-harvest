@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2696.1</id>
+    <title locale="en_US">3 Dec. 2010</title>
+    <volume>2696</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-12-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics of the Onychoteuthidae Gray, 1847 (Cephalopoda: Oegopsida) </title>
+        <abstract locale="en_US">Squids in the family Onychoteuthidae Gray, 1847, have been reported from every ocean but the Arctic, are taken frequently in deep-sea fisheries bycatch, and are ecologically important in the diets of many marine predators including cetaceans, pinnipeds, sharks, and seabirds. However, the diversity and systematics of the family have remained poorly understood. Of the 60+ nominal species, 12–14 have generally been accepted in recent studies. Challenges to clarity include insufficient species descriptions, original descriptions published in eight languages and often based solely on early life stages, non-designation or subsequent loss of type material, and the existence of several unresolved species complexes. In light of the general systematic disarray of the Onychoteuthidae, a global revision of the family follows, based on ~1500 specimens examined from 19 repositories. Type material has been examined wherever possible (although, for some species, photographs of type specimens, original illustrations, and/or the original descriptions have provided the only information available). For all 25 species treated in this revision, descriptions and illustrations are provided to a consistent standard that will enable their reidentification. External and internal morphological characters and states are described for subadult to adult stages of most species, with external characters reported through ontogeny as permitted by available material. Historically important characters are treated (general external morphology, body proportions, tentacle clubs, photophores, gladius, lower beak, radula), augmented by several more recently recognised characters (palatine teeth, detailed morphology of the tentacular hooks in adults, tentacular suckers in paralarvae, chromatophore patterns). The systematic value of both historical and new morphological characters at the generic and species levels is discussed; at all ontogenetic stages, tentacular club and hook morphology are considered the most valuable characters, although body proportions and gladius also prove useful. In the interest of systematic stability, neotypes are also designated for four species in which type specimens were not previously designated [Onykia (Onykia) &lt;i&gt;loennbergii&lt;/i&gt; Ishikawa &amp; Wakiya, 1914; &lt;i&gt;Onychoteuthis&lt;/i&gt; &lt;i&gt;borealijaponica&lt;/i&gt; Okada, 1927] or have been subsequently lost [Onykia (Onykia) &lt;i&gt;carriboea&lt;/i&gt; Lesueur, 1821; &lt;i&gt;Onykia&lt;/i&gt; (Onykia) &lt;i&gt;robsoni&lt;/i&gt; Adam, 1962]. Partial resolution of the &lt;i&gt;Onychoteuthis&lt;/i&gt; &lt;i&gt;banksii&lt;/i&gt; complex has been possible in the Pacific and Atlantic Oceans, resulting in: the resurrection of &lt;i&gt;Onychoteuthis&lt;/i&gt; &lt;i&gt;bergii&lt;/i&gt; Lichtenstein, 1818, and &lt;i&gt;Onychoteuthis&lt;/i&gt; &lt;i&gt;aequimanus&lt;/i&gt; Gabb, 1868; the description of two new species in an earlier publication (Onychoteuthis &lt;i&gt;lacrima&lt;/i&gt; Bolstad &amp; Seki, and &lt;i&gt;Onychoteuthis&lt;/i&gt; &lt;i&gt;prolata&lt;/i&gt; Bolstad, Vecchione &amp; Young, &lt;i&gt;in&lt;/i&gt; Bolstad, 2008) and another herein, &lt;i&gt;Onychoteuthis&lt;/i&gt; &lt;i&gt;horstkottei&lt;/i&gt; sp. nov.; and the expansion of one species’ recognised distribution (Onychoteuthis &lt;i&gt;compacta&lt;/i&gt; Berry, 1913) to include the Atlantic Ocean. The genus &lt;i&gt;Moroteuthis&lt;/i&gt; Verrill, 1881, is considered a junior synonym of &lt;i&gt;Onykia&lt;/i&gt; Lesueur, 1821, in accordance with the findings of several earlier authors. However, morphological differences in the species ‘Moroteuthis’ &lt;i&gt;ingens&lt;/i&gt; Smith, 1881, necessitate the resurrection of the subgenus &lt;i&gt;Moroteuthopsis&lt;/i&gt; Pfeffer, 1908, with all other &lt;i&gt;Onykia&lt;/i&gt; species placed into the nominate subgenus &lt;i&gt;Onykia&lt;/i&gt; (Onykia). Sexual dimorphism is reported in the beaks of &lt;i&gt;Onykia&lt;/i&gt; (Moroteuthopsis) &lt;i&gt;ingens&lt;/i&gt; (new comb.). Morphological and historical genetic data suggest a more distant relationship between &lt;i&gt;Onykia&lt;/i&gt; and the species ‘Moroteuthis’ &lt;i&gt;knipovitchi&lt;/i&gt; Filippova, 1972, than was suggested by earlier classifications. This species is therefore placed into &lt;i&gt;Filippovia&lt;/i&gt; gen. nov., described herein. ‘Onykia’ &lt;i&gt;rancureli&lt;/i&gt; (Okutani, 1981) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;youngorum&lt;/i&gt; sp. nov. are placed into &lt;i&gt;Callimachus&lt;/i&gt; gen. nov., according to morphological and genetic data. Given that the majority of available onychoteuthid material was collected after 1950, resulting in the descriptions of over half of the generally accepted genera and species since 1960, ongoing collection programmes are necessary to further resolve onychoteuthid systematics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mollusca; squids; taxonomy; revision</subject>
+          <subject_class locale="en_US">Mollusca</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kathrin</firstname>
+          <middlename>S. R.</middlename>
+          <lastname>Bolstad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-186</pages>
+        <date_published>2010-12-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

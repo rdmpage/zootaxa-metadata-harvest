@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3292.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3292</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Eriophyoid mite fauna of Shaanxi Province, China, with descriptions of five new species (Acari: Eriophyoidea)</title>
+        <abstract locale="en_US">Prior to this research, 47 genera and 124 eriophyoid mite species have been known to occur in Shaanxi Province, north-western China. We described and illustrated herein five new species collected in Shaanxi Province. They are &lt;i&gt;Proartacris&lt;/i&gt;&lt;i&gt;cathayensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Carya&lt;/i&gt; &lt;i&gt;cathayensis&lt;/i&gt; Sarg. (Juglandaceae), &lt;i&gt;Acaphyllisa&lt;/i&gt; &lt;i&gt;changqingiensa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Salix&lt;/i&gt; sp. L. (Sal-icaceae), &lt;i&gt;Tegonotus&lt;/i&gt; &lt;i&gt;albus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Cornus&lt;/i&gt; &lt;i&gt;alba&lt;/i&gt; L. (Cornaceae), &lt;i&gt;Phyllocoptruta&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Lonicera&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt;Thunb. (Caprifoliaceae), &lt;i&gt;Anthocoptes&lt;/i&gt; &lt;i&gt;albosinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Betula&lt;/i&gt; &lt;i&gt;albosinensis&lt;/i&gt; Burkill (Betulaceae). At the same time,one new eriophyoid mite record from China is provided, &lt;i&gt;Rhinotergum&lt;/i&gt; &lt;i&gt;schestovici&lt;/i&gt; Petanovic, 1988, rec. nov. on &lt;i&gt;Betula&lt;/i&gt;&lt;i&gt;albosinensis&lt;/i&gt; Burkill (Betulaceae). A list of eriophyoid mites from Shaanxi Province is provided. All the new species and new record described herein are vagrants on respective host plants.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; new species; new record; host plant relationships; geographic distribution</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Yue</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-71</pages>
+        <date_published>2012-04-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

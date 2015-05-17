@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2023.1</id>
+    <title locale="en_US">27 Feb. 2009</title>
+    <volume>2023</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Glyptasida &lt;/i&gt;Casey (Coleoptera: Tenebrionidae: Asidini)</title>
+        <abstract locale="en_US">The western American genus &lt;i&gt;Glyptasida&lt;/i&gt; Casey is redescribed and reviewed based on structural features of adult specimens. Of 22 available species or subspecies names, three were retained as valid species based on morphological characteristics and statistical analyses of selected measurements: &lt;i&gt;Glyptasida&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; (LeConte), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;aegra&lt;/i&gt; (LeConte), and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;rugosissima&lt;/i&gt; (Champion). Selected structures of the three species are illustrated and a key separating the species is included. Nineteen names are synonymized as follows: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sycophanta&lt;/i&gt; Casey 1912 [= &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;aegra&lt;/i&gt; (LeConte 1858)] and the following are synonymized under &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; (LeConte 1853): &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;costipennis&lt;/i&gt; (LeConte 1858), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;aegra&lt;/i&gt; &lt;i&gt;irregularis&lt;/i&gt; (LeConte 1858), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;interrupta&lt;/i&gt; (Champion 1884), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;aegra&lt;/i&gt; &lt;i&gt;imperfecta&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;aegra&lt;/i&gt; &lt;i&gt;pigra&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;aegra&lt;/i&gt; &lt;i&gt;plena&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;costipennis&lt;/i&gt; &lt;i&gt;fulvisetis&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;crenicollis&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;heres&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;parvicollis&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;procrustes&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; &lt;i&gt;porcatula&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;stringipennis&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;subpubescens&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;turbulenta&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;turgescens&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;turgescens&lt;/i&gt; &lt;i&gt;furtiva&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;turgescens&lt;/i&gt; &lt;i&gt;obesa&lt;/i&gt; Casey 1912. Lectotypes are designated for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; (LeConte 1853), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;costipennis&lt;/i&gt; (LeConte 1858), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; &lt;i&gt;porcatula&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;subpubescens&lt;/i&gt; Casey 1912, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sycophanta&lt;/i&gt; Casey 1912, and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;turgescens&lt;/i&gt; Casey 1912. Preliminary data on natural history of the genus are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Tenebrionidae; &lt;i&gt;Glyptasida&lt;/i&gt;; Nearctic; taxonomy; synonymy</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephanie</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lockwood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darren</firstname>
+          <middlename>A.</middlename>
+          <lastname>Pollock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2009-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Chironomus blaylocki &lt;/i&gt;sp. n. and &lt;i&gt;C. bifurcatus &lt;/i&gt;sp. n., North American species near the base of the decorus-group (Diptera: Chironomidae)</title>
+        <abstract locale="en_US">Two species of the cytologically defined &lt;i&gt;Chironomus&lt;/i&gt; decorus-group, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bifurcatus&lt;/i&gt; sp. n. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;blaylocki&lt;/i&gt; sp. n., are described on the basis of their salivary gland polytene chromosomes and larval morphology, with the associated male and pupa of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bifurcatus&lt;/i&gt; and the putative male of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;blaylocki&lt;/i&gt; included as paratypes. The banding patterns of the salivary gland chromosomes indicate that these species are near the base of the cytologically defined decorus-group. The cytology and adults of these new species are compared with those of a number of other undescribed North American decorus-group species to demonstrate that they are distinct species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; &lt;i&gt;Chironomus&lt;/i&gt;; new species; karyosystematics</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wolfgang</firstname>
+          <lastname>Wuelker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jon</firstname>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Iya</firstname>
+          <middlename>I.</middlename>
+          <lastname>Kiknadze</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>E.</middlename>
+          <lastname>Sublette</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Susanne</firstname>
+          <lastname>Michiels</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-46</pages>
+        <date_published>2009-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Nearctic species of &lt;i&gt;Atrichopogon &lt;/i&gt;(&lt;i&gt;Meleohelea) &lt;/i&gt;and a redescription of &lt;i&gt;Atrichopogon &lt;/i&gt;(&lt;i&gt;M&lt;/i&gt;.) &lt;i&gt;chilensis &lt;/i&gt;Ingram &amp; Macfie (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US">A new species of Ceratopogonidae from Canada, &lt;i&gt;Atrichopogon&lt;/i&gt; (Meloehelea) &lt;i&gt;ladislavi&lt;/i&gt; Tóthová, is described. The Patagonian species &lt;i&gt;Atrichopogon&lt;/i&gt; (M.) &lt;i&gt;chilensis&lt;/i&gt; Ingram &amp; Macfie is restored from synonymy, its female is redescribed and the male is described for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Ceratopogonidae; &lt;i&gt;Atrichopogon&lt;/i&gt;; &lt;i&gt;Meloehelea&lt;/i&gt;; new species; biting midge; Neotropical; Nearctic; distribution</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrea</firstname>
+          <middlename>Tóthová Gustavo R.</middlename>
+          <lastname>Spinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>I.</middlename>
+          <lastname>Marino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-54</pages>
+        <date_published>2009-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the genus &lt;i&gt;Thrips &lt;/i&gt;(Thysanoptera) from Peninsular Malaysia, with a checklist of recorded Thripidae</title>
+        <abstract locale="en_US">An illustrated key is provided to 23 species of the genus &lt;i&gt;Thrips&lt;/i&gt; from Peninsular Malaysia, including one new species and seven species not previously recorded from this country. Most of the specimens came from a recent survey of crop plants, and this survey produced several interesting species of other genera of Thripidae. The invasive pest species, &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; and &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;intonsa,&lt;/i&gt; were abundant in highland areas, and an African species not previously known from Asia, &lt;i&gt;Ceratothripoides&lt;/i&gt; &lt;i&gt;brunneus,&lt;/i&gt; was found commonly particularly in lowland areas. A checklist is provided of 78 species of Thripidae recorded from Peninsular Malaysia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Thrips&lt;/i&gt;; Thripinae; new species; &lt;i&gt;Ceratothripoides&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Thrips&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mound</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>A</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Azidah</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>A</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2009-02-27</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2590.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2590</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Some anthoathecate hydroids and limnopolyps (Cnidaria, Hydrozoa) from the Hawaiian archipelago</title>
+        <abstract locale="en_US">A systematic account is given of 17 families, 25 genera, and 32 species of anthoathecate hydroids and limnopolyps reported from Hawaii. Applying Reversal of Precedence provisions in zoological nomenclature, the familiar hydrozoan genus names &lt;i&gt;Hydractinia&lt;/i&gt; Van Beneden, 1844a, &lt;i&gt;Bimeria&lt;/i&gt; Wright, 1859a, and &lt;i&gt;Porpita&lt;/i&gt; Lamarck, 1801 are designated as valid and as nomena protecta, while seldom-used older names threatening them (the synonyms &lt;i&gt;Echinochorium&lt;/i&gt; Hassall, 1841 and &lt;i&gt;Manicella&lt;/i&gt; Allman, 1859a, and the homonym &lt;i&gt;Porpita&lt;/i&gt; Soldani, 1789 respectively) are relegated to nomena oblita. Also designated a nomen oblitum is the name &lt;i&gt;Pyxidium&lt;/i&gt; Leuckart, 1856, threatening its junior but widely used synonym &lt;i&gt;Ectopleura&lt;/i&gt; L. Agassiz, 1862. The species name &lt;i&gt;Bimeria&lt;/i&gt; &lt;i&gt;vestita&lt;/i&gt; Wright, 1859a is rendered valid and a nomen protectum, while its virtually unused senior synonym &lt;i&gt;Manicella&lt;/i&gt; &lt;i&gt;fusca&lt;/i&gt; Allman, 1859 becomes a nomen oblitum. &lt;i&gt;Hydrodendrium&lt;/i&gt; Nutting, 1905 is reinstated as a valid genus, distinct from &lt;i&gt;Hydractinia&lt;/i&gt; and replacing its junior objective synonym &lt;i&gt;Nuttingia&lt;/i&gt; Stechow, 1909. The spelling of Hydrodendridae Nutting, 1905 is emended to Hydrodendriidae, but that family name is retained as a synonym of Hydractiniidae. Usage of the familiar generic name &lt;i&gt;Sphaerocoryne&lt;/i&gt; Pictet, 1893 is upheld by recognizing it and its former senior subjective synonym &lt;i&gt;Corynetes&lt;/i&gt; Haeckel, 1879 as valid. The correct spelling of the family name originally founded as Olindiadae Haeckel, 1879 is taken to be Olindiidae, and spelling of the species name &lt;i&gt;Solanderia&lt;/i&gt; &lt;i&gt;misakinensis&lt;/i&gt; (Inaba, 1892), first established as &lt;i&gt;Dendrocryne&lt;/i&gt; (sic) &lt;i&gt;misakii,&lt;/i&gt; is stabilized. One new species, &lt;i&gt;Stylactaria&lt;/i&gt; &lt;i&gt;munita,&lt;/i&gt; is described from shallow waters at Hawaii Kai, Oahu. Lectotypes are designated for &lt;i&gt;Corydendrium&lt;/i&gt; &lt;i&gt;corrugatum&lt;/i&gt; Nutting, 1905 and &lt;i&gt;Corydendrium&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; Nutting, 1905 (=Turritopsis &lt;i&gt;minor),&lt;/i&gt; both originally described from Hawaii. Type material of &lt;i&gt;Balea&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; Nutting, 1905 (=Balella &lt;i&gt;mirabilis),&lt;/i&gt; originally described from waters between the islands of Molokai and Maui, could not be located. Six anthoathecate species [Corydendrium &lt;i&gt;parasiticum&lt;/i&gt; (Linnaeus, 1767), &lt;i&gt;Bimeria&lt;/i&gt; &lt;i&gt;vestita,&lt;/i&gt; &lt;i&gt;Amphinema&lt;/i&gt; sp., &lt;i&gt;Eudendrium&lt;/i&gt; &lt;i&gt;carneum&lt;/i&gt; Clarke, 1882, &lt;i&gt;Ectopleura&lt;/i&gt; &lt;i&gt;viridis&lt;/i&gt; (Pictet, 1893), and &lt;i&gt;Sphaerocoryne&lt;/i&gt; &lt;i&gt;bedoti&lt;/i&gt; Pictet, 1893] are recorded from Hawaii for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Capitata; Filifera; Hydroidolina; marine biology; oceanic islands; Pacific Ocean; taxonomy; Trachylina; zoological nomenclature</subject>
+          <subject_class locale="en_US">Capitata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dale</firstname>
+          <middlename>R.</middlename>
+          <lastname>Calder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-91</pages>
+        <date_published>2010-08-31</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3039.1</id>
+    <title locale="en_US">22 Sep. 2011</title>
+    <volume>3039</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The ant genus Tetramorium Mayr (Hymenoptera: Formicidae) in the Malagasy region—introduction, definition of species groups, and revision of the T. bicarinatum, T. obesum, T. sericeiventre and T. tosii species groups </title>
+        <abstract locale="en_US">The globally distributed ant genus &lt;i&gt;Tetramorium&lt;/i&gt; Mayr is especially diverse in the Afrotropical, Oriental, and Indo-Australian regions, while the Malagasy fauna, by contrast, seemed to be comparatively species-poor. However, recent ant inventories in Madagascar and its surrounding island systems have generated an immense amount of new material. As a result, there is now a great need of an updated taxonomic revision for the genus &lt;i&gt;Tetramorium&lt;/i&gt; in this region. The present study represents an introduction to the genus, and treats the species groups encountered in the Malagasy region. All former species groups were redefined, and several new groups were established, in order to accommodate the substantial amount of new material. We propose 14 species groups of &lt;i&gt;Tetramorium&lt;/i&gt; for this region. Morphological boundaries between these groups and their biogeographic affinities are discussed, and an illustrated identification key to species groups is provided. Diagnoses of all species groups are presented, as well as images of typical group members. Additionally, the species level taxonomy of the &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bicarinatum,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;obesum,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sericeiventre&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tosii&lt;/i&gt; species groups is revised with descriptions and images of all species, and an identification key to the species of the &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bicarinatum&lt;/i&gt; group is provided. No nomenclatorial changes are documented from the &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bicarinatum,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;obesum,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tosii&lt;/i&gt; groups. However, within the &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sericeiventre&lt;/i&gt; species group, one new species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;mahafaly&lt;/i&gt; sp. n., is described and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;quadrispinosum&lt;/i&gt; Emery, 1886 and all its former synonyms are proposed as junior synonyms of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sericeiventre&lt;/i&gt; Emery, 1877. At present, there are still 39 valid species of &lt;i&gt;Tetramorium&lt;/i&gt; for the Malagasy region, but this number is expected to increase significantly with upcoming taxonomic revisions of the species groups not revised in this study.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Malagasy region; taxonomic revision; taxonomy; Tetramoriini; Tetramorium; tramp species</subject>
+          <subject_class locale="en_US">Malagasy region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <middlename>Hita</middlename>
+          <lastname>Garcia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-72</pages>
+        <date_published>2011-09-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

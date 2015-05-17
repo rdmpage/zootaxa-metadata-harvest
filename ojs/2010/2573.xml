@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2573.1</id>
+    <title locale="en_US">23 Aug. 2010</title>
+    <volume>2573</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Neotropical moth genera &lt;i&gt;Mallodeta &lt;/i&gt;Butler and &lt;i&gt;Erruca &lt;/i&gt;Walker, revalidated (Noctuidae, Arctiinae, Arctiini, Euchromiina)</title>
+        <abstract locale="en_US">&lt;i&gt;Mallodeta&lt;/i&gt; Butler and &lt;i&gt;Erruca&lt;/i&gt; Walker, &lt;b&gt;revalidated,&lt;/b&gt; are redescribed and revised. &lt;i&gt;Mallodeta&lt;/i&gt; henceforth includes only its type-species, &lt;i&gt;Glaucopis&lt;/i&gt; (Lycorea) &lt;i&gt;clavata&lt;/i&gt; Walker, and &lt;i&gt;Erruca&lt;/i&gt; is resurrected with seven species: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;deyrolii&lt;/i&gt; Walker (type-species), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;consors&lt;/i&gt; (Walker), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;erythrarchos&lt;/i&gt; (Walker), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;cardinalis&lt;/i&gt; (Hampson), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hanga&lt;/i&gt; (Herrich-Schäffer), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;cruenta&lt;/i&gt; (Perty), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sanguipuncta&lt;/i&gt; (Druce), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination.&lt;/b&gt; Six &lt;b&gt;new&lt;/b&gt; &lt;b&gt;synonyms&lt;/b&gt; are established, four specific and two generic (junior synonyms in parentheses): &lt;i&gt;Zygaena&lt;/i&gt; &lt;i&gt;capistrata&lt;/i&gt; Fabricius (=Mallodeta &lt;i&gt;cubana&lt;/i&gt; Gaede), &lt;i&gt;Glaucopis&lt;/i&gt; (Lycorea) &lt;i&gt;clavata&lt;/i&gt; Walker (=M. &lt;i&gt;simplex&lt;/i&gt; Rothschild), &lt;i&gt;Erruca&lt;/i&gt; &lt;i&gt;deyrolii&lt;/i&gt; Walker (=Laemocharis &lt;i&gt;aecyra&lt;/i&gt; Herrich-Schäffer and &lt;i&gt;Glaucopis&lt;/i&gt; &lt;i&gt;(Hyda)&lt;/i&gt; &lt;i&gt;sortita&lt;/i&gt; Walker), and &lt;i&gt;Erruca&lt;/i&gt; Walker (=Aristodaema Wallengren and &lt;i&gt;Rezia&lt;/i&gt; Kirby). &lt;b&gt;Lectotypes&lt;/b&gt; are designated to the following species: &lt;i&gt;Erruca&lt;/i&gt; &lt;i&gt;deyrolii&lt;/i&gt; Walker, &lt;i&gt;Laemocharis&lt;/i&gt; &lt;i&gt;deyrollei&lt;/i&gt; Herrich-Schäffer, &lt;i&gt;Laemocharis&lt;/i&gt; &lt;i&gt;hanga&lt;/i&gt; Herrich-Schäffer, &lt;i&gt;Laemocharis&lt;/i&gt; &lt;i&gt;aecyra&lt;/i&gt; Herrich-Schäffer, &lt;i&gt;Laemocharis&lt;/i&gt; &lt;i&gt;norma&lt;/i&gt; Herrich-Schäffer, &lt;i&gt;Cosmosoma&lt;/i&gt; &lt;i&gt;cardinalis&lt;/i&gt; Hampson and &lt;i&gt;Mallodeta&lt;/i&gt; &lt;i&gt;sanguipuncta&lt;/i&gt; Druce. Illustrations of adults and male and female genitalia of &lt;i&gt;Mallodeta&lt;/i&gt; and &lt;i&gt;Erruca&lt;/i&gt; are provided, as well as a key to the species of the latter.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; &lt;i&gt;Cosmosoma&lt;/i&gt;; synonyms; lectotypes; &lt;i&gt;Phoenicoprocta&lt;/i&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lívia</firstname>
+          <middlename>R.</middlename>
+          <lastname>Pinheiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <lastname>Duarte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2010-08-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Oxychalepus &lt;/i&gt;Uhmann, 1937 (Coleoptera: Chrysomelidae: Cassidinae)</title>
+        <abstract locale="en_US">The species of &lt;i&gt;Oxychalepus&lt;/i&gt; Uhmann, 1937 are reviewed. Thirteen species are treated as valid. &lt;i&gt;Oxychalepus&lt;/i&gt; &lt;i&gt;alienus&lt;/i&gt; (Baly, 1885) is removed from synonymy; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;angulatus&lt;/i&gt; from Argentina and Bolivia is described as new; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;insignatus&lt;/i&gt; (Chapuis, 1877) is reinstated to full species status; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;trispinosus&lt;/i&gt; (Pic, 1931) is treated as &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis.&lt;/i&gt; All species are illustrated and a key to the species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Oxychalepus&lt;/i&gt;; Chrysomelidae; Cassidinae; key to species; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Oxychalepus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Staines</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-56</pages>
+        <date_published>2010-08-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Itagonia &lt;/i&gt;Reitter, 1887 (Coleoptera, Tenebrionidae: Blaptini) from Sichuan, China</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Itagonia&lt;/i&gt; Reitter, 1887, &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;tuberculata,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;xinlongensis,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;medvedevi,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from Sichuan, China. The formerly unknown female of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; Medvedev, 1998 is described for the first time. A key to the known species of &lt;i&gt;Itagonia&lt;/i&gt; from China is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Itagonia&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Itagonia&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ai-Min</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shi-Bin</firstname>
+          <lastname>Yuan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chun-Lian</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2010-08-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

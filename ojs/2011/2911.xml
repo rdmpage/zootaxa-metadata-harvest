@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2911.1</id>
+    <title locale="en_US">9 Jun. 2011</title>
+    <volume>2911</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Brachyuran crabs of the family Macrophthalmidae Dana, 1851 (Decapoda: Brachyura: Macrophthalmidae) of the Persian Gulf</title>
+        <abstract locale="en_US">The family Macrophthalmidae Dana, 1851, is one of the best represented brachyuran groups in intertidal habitats in the Persian Gulf. Nine species from two subfamilies are reported from the gulf and the adjacent Gulf of Oman, mainly inhabiting intertidal soft substrates. The subfamily Ilyograpsinae Števcic, 2005, is represented by &lt;i&gt;Ilyograpsus&lt;/i&gt; &lt;i&gt;rhizophorae&lt;/i&gt; Barnard, 1950, erroneously recorded as &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;paludicola&lt;/i&gt; (Rathbun, 1909). Eight species of the subfamily Macrophthalminae Dana, 1851, have been recorded from the area, all belonging to &lt;i&gt;Macrophthalmus&lt;/i&gt; Desmarest, 1823. Of these, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sinuspersici&lt;/i&gt; Naderloo &amp; Türkay, 2010, has recently been described and is the only species of the genus occurring on rocky shores. &lt;i&gt;Macrophthalmus&lt;/i&gt; &lt;i&gt;graeffei&lt;/i&gt; A. Milne-Edwards, 1873, occurs in subtidal water and is hereby recorded for the first time from the northern Indian Ocean. The remaining six species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dentipes&lt;/i&gt; Lucas, 1836, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; Rüppell, 1830, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;grandidieri&lt;/i&gt; A. Milne-Edwards, 1867, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;laevis&lt;/i&gt; A. Milne-Edwards, 1867, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;serenei&lt;/i&gt; Takeda &amp; Komai, 1991, and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sulcatus&lt;/i&gt; H. Milne-Edwards, 1852, are important elements of the intertidal soft bottom communities. An identification key for the genus &lt;i&gt;Macrophthalmus&lt;/i&gt; in the area is provided, and the geographical distribution of the family is briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Crustacea; Brachyura; Macrophthalmidae; &lt;i&gt;Macrophthalmus&lt;/i&gt;; &lt;i&gt;Ilyograpsus&lt;/i&gt;; Persian Gulf</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Reza</firstname>
+          <lastname>Naderloo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Türkay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Apel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2011-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Discidae subgenus and two new species (Gastropoda: Pulmonata) from the Canary Islands</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yurena</firstname>
+          <lastname>Yanes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Geraldine</firstname>
+          <middlename>A.</middlename>
+          <lastname>Holyoak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>T.</middlename>
+          <lastname>Holyoak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>R.</middlename>
+          <lastname>Alonso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Ibáñez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-49</pages>
+        <date_published>2011-06-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Tetragonopterus &lt;/i&gt;Cuvier, 1816 (Characiformes, Characidae, Tetragonopterinae) from the upper rio Araguaia, Central Brazil</title>
+        <abstract locale="en_US">A new characid, &lt;i&gt;Tetragonopterus&lt;/i&gt; &lt;i&gt;anostomus,&lt;/i&gt; is described from the upper rio Araguaia, Central Brazil. The new species is distinguished from its congeners (T. &lt;i&gt;argenteus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;carvalhoi,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;chalceus&lt;/i&gt; e &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;rarus)&lt;/i&gt; by traits related to the position of the mouth, number of premaxillary teeth, number of predorsal scales, overall color pattern, and number of gill rakers. A brief discussion on its putative ecomorphological adaptations is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Neotropical region; Freshwater; &lt;i&gt;Tetragonopterus&lt;/i&gt; &lt;i&gt;chalceus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gabriel</firstname>
+          <middlename>S. C.</middlename>
+          <lastname>Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <middlename>C.</middlename>
+          <lastname>Benine</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-56</pages>
+        <date_published>2011-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Johngarthia cocoensis&lt;/i&gt;, a new species of Gecarcinidae MacLeay, 1838 (Crustacea, Decapoda, Brachyura) from Cocos Island, Costa Rica</title>
+        <abstract locale="en_US">A new species of Gecarcinidae MacLeay, 1838, &lt;i&gt;Johngarthia&lt;/i&gt; &lt;i&gt;cocoensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Cocos Island (Costa Rica) is described and illustrated. The new species closely resembles &lt;i&gt;J.&lt;/i&gt; &lt;i&gt;malpilensis&lt;/i&gt; (Faxon, 1893), from which it can be separated by the inner apical lobes of the third maxilliped meri mostly separated from each other in resting position, palp of third maxilliped merus partly exposed and epistomial carapace tooth completely exposed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; biogeography; new species; Central America; Tropical Eastern Pacific region</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <lastname>Perger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rita</firstname>
+          <lastname>Vargas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adam</firstname>
+          <lastname>Wall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2011-06-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

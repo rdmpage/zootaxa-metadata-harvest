@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3136.1</id>
+    <title locale="en_US">19 Dec. 2011</title>
+    <volume>3136</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A morphological review of tribes in Larentiinae (Lepidoptera: Geometridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jaan</firstname>
+          <lastname>Viidalepp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2011-12-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and records of &lt;i&gt;Nandeva &lt;/i&gt;Wiedenbrug, Reiss &lt;i&gt;et &lt;/i&gt;Fittkau (Chironomidae: Chironominae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Trond</firstname>
+          <lastname>Andersen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Atilano</firstname>
+          <lastname>Contreras-Ramos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-60</pages>
+        <date_published>2011-12-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The flat-footed fly genus &lt;i&gt;Seri &lt;/i&gt;Kessel &amp; Kessel (Diptera: Platypezidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jeffrey</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cumming</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heather</firstname>
+          <middlename>J.</middlename>
+          <lastname>Cumming</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2011-12-19</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2111.1</id>
+    <title locale="en_US">18 May. 2009</title>
+    <volume>2111</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New records of crabs (Decapoda: Brachyura) from the New Zealand region, including a new species of &lt;i&gt;Rochinia &lt;/i&gt;A. Milne-Edwards, 1875 (Majidae), and a revision of the genus &lt;i&gt;Dromia &lt;/i&gt;Weber, 1795 (Dromiidae)</title>
+        <abstract locale="en_US">Seven species and two families previously unknown from New Zealand are recorded: &lt;i&gt;Dynomene&lt;/i&gt; &lt;i&gt;pilumnoides&lt;/i&gt; Alcock, 1900, &lt;i&gt;Metadynomene&lt;/i&gt; &lt;i&gt;tanensis&lt;/i&gt; (Yokoya, 1933) (Dynomenidae new to New Zealand); &lt;i&gt;Pseudopalicus&lt;/i&gt; &lt;i&gt;undulatus&lt;/i&gt; Castro, 2000 (Palicidae); &lt;i&gt;Mursia&lt;/i&gt; &lt;i&gt;microspina&lt;/i&gt; Davie &amp; Short, 1989 (Calappidae new to New Zealand); &lt;i&gt;Ovalipes&lt;/i&gt; &lt;i&gt;elongatus&lt;/i&gt; Stephenson &amp; Rees, 1968, &lt;i&gt;Thalamita&lt;/i&gt; &lt;i&gt;danae&lt;/i&gt; Stimpson, 1858, (Portunidae); &lt;i&gt;Percnon&lt;/i&gt; &lt;i&gt;planissimum&lt;/i&gt; (Herbst, 1804) (Plagusiidae); Ontogenetic morphological changes in &lt;i&gt;Nectocarcinus&lt;/i&gt; &lt;i&gt;antarcticus&lt;/i&gt; (Portunidae) are described. The southern limit for &lt;i&gt;Pseudopalicus&lt;/i&gt; &lt;i&gt;undulatus&lt;/i&gt; is extended from Fiji to New Zealand and the depth limit from 410 m to more than 560 m. A checklist of Brachyura recorded from the Kermadec Is is also updated. The genus &lt;i&gt;Dromia&lt;/i&gt; Weber, 1795 (Dromiidae) is revised and restricted to the Atlantic Ocean (6 species) and &lt;i&gt;Metadromia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Tumidodromia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are erected for Indo-West Pacific species previously included in &lt;i&gt;Dromia&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato.&lt;/i&gt; A new species of &lt;i&gt;Rochinia&lt;/i&gt; (Epialtidae) is described from the Rumble V seamount. The stridulatory ridges on the chelipeds of &lt;i&gt;Ocypode&lt;/i&gt; (Ocypodidae), important for identification, are shown to be sexually dimorphic: males have more striae than females. A single specimen of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pallidula&lt;/i&gt; is reported from the Leigh Marine Reserve where it may have been accidentally released.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Brachyura; Atelecyclidae; Calappidae; Dromiidae revision; Dynomenidae; Epialtidae; Grapsidae; Homolodromiidae; Inachidae; Inachoididae; Leucosiidae; Ocypodidae; Palicidae; Plagusiidae; Portunidae; New Zealand; Kermadec Is; Norfolk Is; Lord Howe Is</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Colin</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mclay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-66</pages>
+        <date_published>2009-05-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2312.1</id>
+    <title locale="en_US">16 Dec. 2009</title>
+    <volume>2312</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Camptandriidae of Iraq, with description of a new genus and notes on &lt;i&gt;Leptochryseus &lt;/i&gt;Al-Khayat &amp; Jones, 1996 (Crustacea: Decapoda: Brachyura)</title>
+        <abstract locale="en_US">Three species of camptandriid crabs (Crustacea: Brachyura: Ocypodoidea) are reported from Iraq: &lt;i&gt;Tylodiplax&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; Alcock, 1900, &lt;i&gt;Manningis&lt;/i&gt; &lt;i&gt;arabicum&lt;/i&gt; (Jones &amp; Clayton, 1983) and &lt;i&gt;Nasima&lt;/i&gt; &lt;i&gt;dotilliformis&lt;/i&gt; (Alcock, 1900), all new records for the country. The taxonomy of the three species is treated in detail. &lt;i&gt;Tylodiplax&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; Alcock, 1900, is here referred to &lt;i&gt;Opusia&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; differing from &lt;i&gt;Tylodiplax&lt;/i&gt; De Man, 1895, by numerous carapace and male gonopod characters. &lt;i&gt;Manningis&lt;/i&gt; &lt;i&gt;arabicum&lt;/i&gt; (Jones &amp; Clayton, 1983) and &lt;i&gt;Nasima&lt;/i&gt; &lt;i&gt;dotilliformis&lt;/i&gt; (Alcock, 1900) are redescribed from the types or topotypic material, and more differences with allied genera recorded and discussed. An allied genus from Kuwait, &lt;i&gt;Leptochryseus&lt;/i&gt; Al-Khayat &amp; Jones, 1996, is shown to be a valid taxon. &lt;i&gt;Nasima&lt;/i&gt; is shown to be very close to &lt;i&gt;Leptochryseus,&lt;/i&gt; sharing important thoracic sternal, male abdominal and male first gonopod characters, differing only in carapace features and adults of &lt;i&gt;Leptochryseus&lt;/i&gt; being sexually dimorphic in their chelipeds.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Crustacea; Brachyura; Ocypodoidea; Camptandriidae; taxonomy; new genus; new records; Iraq</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dwi</firstname>
+          <middlename>Listyo</middlename>
+          <lastname>Rahayu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Murtada</firstname>
+          <middlename>D.</middlename>
+          <lastname>Naser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2009-12-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new, diminutive, upland &lt;i&gt;Sphenomorphus &lt;/i&gt;Fitzinger 1843 (Squamata: Scincidae) from the Belum-Temengor Forest Complex, Peninsular Malaysia</title>
+        <abstract locale="en_US">A new species of diminutive, upland, forest floor skink, &lt;i&gt;Sphenomorphus&lt;/i&gt; &lt;i&gt;temengorensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the Belum-Temengor forest complex in northern Peninsular Malaysia. This species is differentiated from all other 36 Sundaland species of &lt;i&gt;Sphenomorphus&lt;/i&gt; on the basis of a unique suite of morphological and color pattern characteristics. This is the first reptile known to be endemic to the Belum-Temengor forest complex and underscores the need for additional field research in this area that is actively being logged.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Belum-Temengor forest complex; Malaysia; new species; Scincidae; &lt;i&gt;Sphenomorphus&lt;/i&gt;; &lt;i&gt;Sphenomorphus&lt;/i&gt; &lt;i&gt;temengorensis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Belum-Temengor forest complex</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norhayati</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chan</firstname>
+          <middlename>Kin</middlename>
+          <lastname>Onn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-38</pages>
+        <date_published>2009-12-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Lerista karlschmidti &lt;/i&gt;(Marx and Hosmer, 1959) (Sauria: Scincidae): re-examination of the type series, reassignment of a paratype and distribution notes</title>
+        <abstract locale="en_US">&lt;i&gt;Lerista&lt;/i&gt; &lt;i&gt;karlschmidti&lt;/i&gt; was described from three specimens collected in the Woodstock area of north-eastern Queensland in the early 1950s but has not been recorded from Queensland since. A widely disjunct population occurs in the Northern Territory. Consequently, there has been some doubt as to whether the type series is actually from Queensland or whether these specimens had originated from the Northern Territory. The type series was re-examined and only two of the three specimens were found to be conspecific; these were morphologically consistent with material from the Northern Territory. The third specimen can be assigned to a narrowly endemic north-east Queensland population of &lt;i&gt;Lerista&lt;/i&gt; cf. &lt;i&gt;storri.&lt;/i&gt; Information provided by the collector’s son supports a Queensland origin for the type material, as does the inclusion of a narrowly endemic north-east Queensland taxon in the type series. Given the narrow endemicity that characterises north Queensland &lt;i&gt;Lerista&lt;/i&gt; spp., it is unlikely that the Queensland and Northern Territory &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;karlschmidti&lt;/i&gt; populations are conspecific. &lt;i&gt;Lerista&lt;/i&gt; &lt;i&gt;karlschmidti&lt;/i&gt; was last collected in Queensland 57 years ago and the Woodstock area has been substantially modified during this time. The conservation status of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;karlschmidti&lt;/i&gt; in Queensland warrants further investigation, particularly in light of conservation concerns for the congeneric &lt;i&gt;Lerista&lt;/i&gt; &lt;i&gt;allanae.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Lerista&lt;/i&gt; &lt;i&gt;karlschmidti&lt;/i&gt;; Queensland; type series; narrow endemicity; conservation status</subject>
+          <subject_class locale="en_US">&lt;i&gt;Lerista&lt;/i&gt; &lt;i&gt;karlschmidti&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <middlename>J.</middlename>
+          <lastname>Couper</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Amey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-48</pages>
+        <date_published>2009-12-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of two new genera and species of ptereleotrine fishes from Australia and Japan (Teleostei: Gobioidei) with discussion of possible relationships</title>
+        <abstract locale="en_US">Two new gobioid genera are described. &lt;i&gt;Navigobius&lt;/i&gt; nov. gen. is described from three specimens of a species from Kagoshima, Japan known from depths of 45–85 m. The genus is similar to &lt;i&gt;Ptereleotris&lt;/i&gt; and &lt;i&gt;Nemateleotris,&lt;/i&gt; but differs in having the interorbital canal separate between the eyes. &lt;i&gt;Pterocerdale&lt;/i&gt; nov. gen. is described from a single specimen from a mangrove creek in Australia. The genus has many features in common with &lt;i&gt;Parioglossus,&lt;/i&gt; but is unique within the Ptereleotrinae in having 12 precaudal vertebrae, the lower lip without a free margin (except posteriorly) and bony projections on the dentary. The genus has a number of features in common with Microdesminae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pisces; Microdesmidae; Ptereleotrinae; Microdesminae</subject>
+          <subject_class locale="en_US">Pisces</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Douglass</firstname>
+          <middlename>F.</middlename>
+          <lastname>Hoese</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2009-12-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">One new genus and four new species of Tegonotini (Acari: Eriophyidae) from Guangxi, South China</title>
+        <abstract locale="en_US">One new genus and four new species of the tribe Tegonotini (Eriophyidae: Phyllocoptinae) from Guangxi Zhuang Autonomous Region, China are described and illustrated: &lt;i&gt;Asetidicrothrix&lt;/i&gt; &lt;i&gt;luculiae&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;Luculia&lt;/i&gt; sp. (Rubiaceae), &lt;i&gt;Phyllocoptacus&lt;/i&gt; &lt;i&gt;aporusae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;Aporusa&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt; (Champ.) Merr. (Euphorbiaceae), &lt;i&gt;Shevtchenkella&lt;/i&gt; &lt;i&gt;acer&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;Acer&lt;/i&gt; &lt;i&gt;davidii&lt;/i&gt; Franch. (Aceraceae) and &lt;i&gt;Tegophyes&lt;/i&gt; &lt;i&gt;embelia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; infesting &lt;i&gt;Embelia&lt;/i&gt; &lt;i&gt;oblongifolia&lt;/i&gt; Hemsl. (Myrsinaceae). All species described here are vagrants on the undersurface of host leaves. A key to the genera of Tegonotini from China is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">eriophyoid mites; new genus; new species; Phyllocoptinae; taxonomy; Asia</subject>
+          <subject_class locale="en_US">eriophyoid mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Suigai</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guoquan</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aizhi</firstname>
+          <lastname>Qin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2009-12-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

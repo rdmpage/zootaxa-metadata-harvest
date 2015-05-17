@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1720.1</id>
+    <title locale="en_US">5 Mar. 2008</title>
+    <volume>1720</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-03-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the New World genus &lt;i&gt;Penniverpa &lt;/i&gt;Irwin and Lyneborg (Diptera: Therevidae: Therevinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Penniverpa&lt;/i&gt; Irwin and Lyneborg is revised and includes 13 species from the New World. Six of these: &lt;i&gt;Penniverpa&lt;/i&gt; &lt;i&gt;bradleyi&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chersonesa&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;epidema&lt;/i&gt; Webb &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;evani&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;insular&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;megaplax&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;multisetosa&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;unispinosa&lt;/i&gt; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are new to science. &lt;i&gt;Penniverpa&lt;/i&gt; &lt;i&gt;longipes&lt;/i&gt; (Loew) is placed in the genus &lt;i&gt;Insulatitan&lt;/i&gt; (n. &lt;b&gt;comb.)&lt;/b&gt; and becomes the senior synonym of &lt;i&gt;Insulatitan&lt;/i&gt; &lt;i&gt;romaynae&lt;/i&gt; Metz &amp; Irwin, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.&lt;/b&gt; and &lt;i&gt;Psilocephala&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; Kröber is placed in the genus &lt;i&gt;Penniverpa&lt;/i&gt; (n. &lt;b&gt;comb.)&lt;/b&gt; and is the senior synonym of &lt;i&gt;Penniverpa&lt;/i&gt; &lt;i&gt;brunnipennis&lt;/i&gt; (Kröber), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.&lt;/b&gt; &lt;i&gt;Penniverpa&lt;/i&gt; &lt;i&gt;alvadusta&lt;/i&gt; Irwin &amp; Webb is found to be a junior synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alvatra&lt;/i&gt; Irwin &amp; Webb, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.&lt;/b&gt; and &lt;i&gt;Penniverpa&lt;/i&gt; &lt;i&gt;lyneborgi&lt;/i&gt; Irwin &amp; Webb and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stigmaticalis&lt;/i&gt; (Schiner) are found to be junior synonyms of &lt;i&gt;Penniverpa&lt;/i&gt; &lt;i&gt;dives&lt;/i&gt; (Schiner), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.&lt;/b&gt; Each species is described or redescribed with illustrations of their genitalia, a key to their identification, and a map of their distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Penniverpa&lt;/i&gt;; &lt;i&gt;Insulatitan&lt;/i&gt;; Diptera; Asiloidea; Therevidae; Therevinae; stiletto fly; morphology; New World</subject>
+          <subject_class locale="en_US">&lt;i&gt;Penniverpa&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Donald</firstname>
+          <middlename>W.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <middlename>A.</middlename>
+          <lastname>Metz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2008-03-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on &lt;i&gt;Ernocornutia&lt;/i&gt; Razowski, 1988 (Lepidoptera: Tortricidae: Euliini) with descriptions of seven new species from Ecuador</title>
+        <abstract locale="en_US">The Neotropical genus &lt;i&gt;Ernocornutia&lt;/i&gt; Razowski is compared with &lt;i&gt;Pseudomeritastis&lt;/i&gt; Obraztsov, 1966, &lt;i&gt;Seticosta&lt;/i&gt; Razowski, 1986, &lt;i&gt;Ernocornutina&lt;/i&gt; Razowski, 1988, and &lt;i&gt;Eristparcula&lt;/i&gt; Razowski &amp; Becker, 2001. Seven new species of &lt;i&gt;Ernocornutia&lt;/i&gt; from Ecuador are described and illustrated: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;firna,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;paracatopta,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;chiribogana,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;termasiana,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sangayan&lt;/i&gt; , &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pilaloana,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pululahuana,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; The new species bring to 12 the number of species currently included in the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Lepidoptera; Tortricidae; &lt;i&gt;Ernocornutia&lt;/i&gt;; new species; Ecuador</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jozef</firstname>
+          <lastname>Razowski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janusz</firstname>
+          <lastname>Wojtusiak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-56</pages>
+        <date_published>2008-03-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of Scatopsidae (Diptera) from southeastern Mexico, and descriptions of new species of &lt;i&gt;Swammerdamella&lt;/i&gt; Enderlein and &lt;i&gt;Colobostema&lt;/i&gt; Enderlein</title>
+        <abstract locale="en_US">The following Scatopsidae species are recorded in Mexico by first time: &lt;i&gt;Parascatopse&lt;/i&gt; &lt;i&gt;flavida&lt;/i&gt; Cook, &lt;i&gt;Thripomorpha&lt;/i&gt; &lt;i&gt;chaboti&lt;/i&gt; Haenni and Rapp and &lt;i&gt;Parascatopse&lt;/i&gt; sp., &lt;i&gt;Colobostema&lt;/i&gt; &lt;i&gt;hoffmannae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Swammerdamella&lt;/i&gt; &lt;i&gt;grogani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and the female of &lt;i&gt;Parascatopse&lt;/i&gt; &lt;i&gt;flavida&lt;/i&gt; Cook are described.&lt;b&gt;Keys&lt;/b&gt; &lt;b&gt;words:&lt;/b&gt; Scatopsidae, &lt;i&gt;Colobostema,&lt;/i&gt; &lt;i&gt;Parascatopse,&lt;/i&gt; &lt;i&gt;Swammerdamella,&lt;/i&gt; &lt;i&gt;Thripomorpha,&lt;/i&gt; Mexico, distribution, new species</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heron</firstname>
+          <lastname>Huerta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <lastname>Ibanez-Bernal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-65</pages>
+        <date_published>2008-03-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First Florida records for &lt;i&gt;Anovia circumclusa&lt;/i&gt; (Gorham) (Coleoptera: Coccinellidae: Noviini): A natural enemy of &lt;i&gt;Icerya genistae&lt;/i&gt; Hempel (Hemiptera: Margarodidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juanita</firstname>
+          <middlename>A.</middlename>
+          <lastname>Forrester</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalia</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vandenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2008-03-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

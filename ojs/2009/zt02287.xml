@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2287.1</id>
+    <title locale="en_US">11 Nov. 2009</title>
+    <volume>2287</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Corynoneura &lt;/i&gt;Winnertz from East Asia, with a systematic review of the genus (Diptera: Chironomidae: Orthocladiinae)</title>
+        <abstract locale="en_US">Nine new species of &lt;i&gt;Corynoneura&lt;/i&gt; Winnertz, C. &lt;i&gt;confidens&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cylindricauda&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;inefligiata&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;korema&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;latusatra&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;macdonaldi&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;medicina&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nankaiensis&lt;/i&gt; sp. n. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;prominens&lt;/i&gt; sp. n. are described and illustrated as males. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;arctica&lt;/i&gt; Kieffer, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;edwardsi&lt;/i&gt; Brundin, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ferelobatus&lt;/i&gt; Sublette &lt;i&gt;et&lt;/i&gt; Sasa, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gratias&lt;/i&gt; Schlee, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lobata&lt;/i&gt; Edwards, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;scutellata&lt;/i&gt; Winnertz and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;yoshimurai&lt;/i&gt; Tokunaga are classified based on Chinese specimen. Ten Japanese species: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fujiundecima&lt;/i&gt; Sasa, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ginzanquinta&lt;/i&gt; Sasa &lt;i&gt;et&lt;/i&gt; Suzuki, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;inawapequea&lt;/i&gt; Sasa, Kitami &lt;i&gt;et&lt;/i&gt; Suzuki, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kibunelata&lt;/i&gt; Sasa, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kibunespinosa&lt;/i&gt; Sasa, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kisogawa&lt;/i&gt; Sasa &lt;i&gt;et&lt;/i&gt; Kondo, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;seiryuresea&lt;/i&gt; Sasa, Suzuki &lt;i&gt;et&lt;/i&gt; Sakai, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sorachibecea&lt;/i&gt; Sasa &lt;i&gt;et&lt;/i&gt; Suzuki, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tokarapequea&lt;/i&gt; Sasa &lt;i&gt;et&lt;/i&gt; Suzuki, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tokaraquerea&lt;/i&gt; Sasa &lt;i&gt;et&lt;/i&gt; Suzuki are reexamined based on the holotypes. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ginzanquinta&lt;/i&gt; Sasa &lt;i&gt;et&lt;/i&gt; Suzuki is transferred to the genus &lt;i&gt;Thienemanniella&lt;/i&gt; Kieffer. A preliminary estimate of the phylogenetic relationships of the sufficiently known males is given. A key to the sufficiently known males of &lt;i&gt;Corynoneura&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; Orthocladiinae; &lt;i&gt;Corynoneura&lt;/i&gt;; key; new species; phylogeny; East Asia</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yue</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xinhua</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2009-11-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery of &lt;i&gt;Pristepyris &lt;/i&gt;Kieffer (Hymenoptera, Bethylidae), a new synonym of &lt;i&gt;Acrepyris &lt;/i&gt;Kieffer</title>
+        <abstract locale="en_US">The Epyrinae genus &lt;i&gt;Pristepyris&lt;/i&gt; Kieffer is revised. The genus has four species. &lt;i&gt;Pristepyris&lt;/i&gt; &lt;i&gt;rugicollis&lt;/i&gt; Kieffer from Malaysia and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;levicollis&lt;/i&gt; Kieffer from Madagascar are rediscovered. Their adult male holotypes are redescribed and illustrated. Specimens of &lt;i&gt;Pristepyris&lt;/i&gt; &lt;i&gt;agraensis&lt;/i&gt; Kurian and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavicornis&lt;/i&gt; Kieffer were unavailable and reassigned based on their original descriptions. All species are considered to be Pristocerinae, because they have the metanotum well developed medially. &lt;i&gt;Pristepyris&lt;/i&gt; &lt;i&gt;rugicollis&lt;/i&gt; is transferred to &lt;i&gt;Acrepyris&lt;/i&gt; Westwood because it has the aedeagus divided in three valvae, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;agraensis&lt;/i&gt; is transferred to &lt;i&gt;Acrepyris,&lt;/i&gt; because it has an undivided hypopygium; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;levicollis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavicornis&lt;/i&gt; are transferred to &lt;i&gt;Pristocera&lt;/i&gt; Klug, because they have a hypopygium that is deeply divided into two lobes. &lt;i&gt;Pristepyris&lt;/i&gt; is considered junior synonym of &lt;i&gt;Acrepyris,&lt;/i&gt; because &lt;i&gt;Pristepyris&lt;/i&gt; &lt;i&gt;rugicollis&lt;/i&gt; is its type-species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Epyrinae; Epyrini; Pristocerinae; &lt;i&gt;Pristocera&lt;/i&gt;; new combination; Afrotropical region; Oriental region</subject>
+          <subject_class locale="en_US">Epyrinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Celso</firstname>
+          <middlename>O.</middlename>
+          <lastname>Azevedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Isabel</firstname>
+          <middlename>D. C. C.</middlename>
+          <lastname>Alencar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-54</pages>
+        <date_published>2009-11-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the genus &lt;i&gt;Metaeuchromius &lt;/i&gt;Bleszynski (Lepidoptera: Crambidae: Crambinae) from China, with description of two new species</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Metaeuchromius&lt;/i&gt; Bleszynski is studied in China, with four species treated in this paper. &lt;i&gt;Metaeuchromius&lt;/i&gt; &lt;i&gt;singulispinalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;anacanthus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described as new; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;inflatus&lt;/i&gt; Schouten, 1997 is newly recorded for China; and the female of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flavofascialis&lt;/i&gt; Park, 1990 is described for the first time. Images of the adults and genitalia are provided, along with keys to all the known species based on male and female genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Crambidae; Crambinae; &lt;i&gt;Metaeuchromius&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weichun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Houhun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthias</firstname>
+          <lastname>Nuss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-63</pages>
+        <date_published>2009-11-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Parallidiostoma tricornum &lt;/i&gt;Ocampo and Colby, a new genus and species of Allidiostomatinae from Peru (Coleoptera: Scarabaeidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Parallidiostoma&lt;/i&gt; &lt;i&gt;tricornum&lt;/i&gt; Ocampo and Colby, &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; are described and illustrated. The new genus is placed in the New World scarab subfamily Allidiostomatinae. The known distribution and natural history of the new species are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropics; Peru; new genus; new species</subject>
+          <subject_class locale="en_US">Neotropics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Federico</firstname>
+          <middlename>C.</middlename>
+          <lastname>Ocampo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julia</firstname>
+          <lastname>Colby</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-11-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

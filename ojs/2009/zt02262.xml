@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2262.1</id>
+    <title locale="en_US">12 Oct. 2009</title>
+    <volume>2262</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Caryophylliidae (Scleractinia) from the Colombian Caribbean </title>
+        <abstract locale="en_US">The family Caryophylliidae comprises the highest diversity of hard corals (Order Scleractinia), represented by more than 300 species around the world. More than 90% are non-symbiotic species (azooxanthellate), whereas less than 30 species are symbiotic (zooxanthellate) or facultative (apozooxanthellate) species. This paper includes 35 species (20 genera) of caryophylliids present in soft and hard bottoms of Colombian seas, which have been mainly collected through INVEMAR expeditions (between 10 and 500 m depth) during the last 10 years. Two new species are described, &lt;i&gt;Stephanocyathus&lt;/i&gt; &lt;i&gt;isabellae&lt;/i&gt; and &lt;i&gt;Heterocyathus&lt;/i&gt; &lt;i&gt;antoniae,&lt;/i&gt; the latter belonging to a genus previously known only from the Indian and Pacific oceans.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caryophylliidae; Colombian Caribbean; azooxanthellate coral; biodiversity; taxonomy</subject>
+          <subject_class locale="en_US">Caryophylliidae; Colombian Caribbean; azooxanthellate coral; biodiversity; taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Javier</firstname>
+          <lastname>Reyes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadiezhda</firstname>
+          <lastname>Santodomingo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <lastname>Cairns</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2009-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Mitochondrial DNA relationships among North Palaearctic &lt;i&gt;Eptesicus&lt;/i&gt; (Vespertilionidae, Chiroptera) and past hybridization between Common Serotine and Northern Bat</title>
+        <abstract locale="en_US">Interspecific hybridization was proposed as one of the explanations for the lack of differentiation between mtDNA of the morphologically divergent bats &lt;i&gt;Eptesicus&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nilssonii.&lt;/i&gt; However, only West European populations of these species were examined so far. The cytochrome &lt;i&gt;b&lt;/i&gt; mitochondrial gene sequences of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt; originating from Russia were compared with those of other North Palaearctic &lt;i&gt;Eptesicus.&lt;/i&gt; Common serotines from the Caucasus, Central and South Russia constitute a separate monophyletic group, distinct from western &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt; populations, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nilssonii,&lt;/i&gt; and also from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;isabellinus.&lt;/i&gt; Only a common serotine from Kaliningrad region proved to be a member of the West European clade. According to these results one may suppose that most of Russian population of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt; escaped the hybridization event that led to fixation of alien mitochondrial genome in the West European populations. Given that (i) preliminary nuclear data support the distinction between &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nilssonii&lt;/i&gt; and (ii) &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt; appears morphologically homogeneous throughout the European part of its range, we consider that this past mtDNA introgression has no direct taxonomic implications. For the first time included in a molecular phylogenetic analysis, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;gobiensis&lt;/i&gt; was shown to be a full species, related to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nilssonii.&lt;/i&gt; From our mtDNA phylogenetic tree, the taxonomic validity of the subgenus &lt;i&gt;Amblyotus&lt;/i&gt; appears doubtful.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eptesicus&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt;; mtDNA introgression; cytochrome &lt;i&gt;b&lt;/i&gt;; molecular taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eptesicus&lt;/i&gt; &lt;i&gt;serotinus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artyushin</firstname>
+          <middlename>I.</middlename>
+          <lastname>V.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bannikova</firstname>
+          <middlename>A.</middlename>
+          <lastname>A.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lebedev</firstname>
+          <middlename>V.</middlename>
+          <lastname>S.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kruskop</firstname>
+          <middlename>S.</middlename>
+          <lastname>V.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-52</pages>
+        <date_published>2009-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Jupiaba &lt;/i&gt;(Characiformes: Characidae) from the rio Tapajós and rio Madeira drainages, Brazil, with an identification key to species of the genus</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Jupiaba&lt;/i&gt; Zanata are described from Brazil. &lt;i&gt;Jupiaba&lt;/i&gt; &lt;i&gt;iasy,&lt;/i&gt; new species, is described from rio Teles Pires and rio Jamanxim, tributaries of rio Tapajós, and from rio Aripuanã, in the rio Madeira drainage. It is distinguished from its congeners by its color pattern consisting of a single posteriorly displaced dark crescent-shaped humeral blotch, situated over the first 5 to 7 lateral line scales, and an inconspicuous dark spot at the end of caudal peduncle. It also differs from all remaining &lt;i&gt;Jupiaba&lt;/i&gt; for the following combination of characters: 34-36 lateral line scales, 19–21 branched anal-fin rays, 8–10 predorsal scales arranged in a regular row, 6 horizontal series of scales above and 4 series below lateral line, body depth 32.3–36.1% of SL, and absence of filamentous rays in the first dorsal and anal-fin rays. &lt;i&gt;Jupiaba&lt;/i&gt; &lt;i&gt;paranatinga,&lt;/i&gt; new species, is described from rio Teles Pires, tributary of rio Tapajós. It is distinguished by having 34–35 lateral line scales, two vertically elongated humeral blotches, a conspicuous caudal spot at the end of the caudal peduncle, extending over 8–10 median caudal-fin rays, eye diameter 43.7–46.9% of HL, and relatively low body depth (31.3–35.5% of SL). Additionally, comments on the putative relationships of the new species with their congeners and an updated key to the species of the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Ostariophysi; Tetragonopterinae; Neotropical; Systematics; Identification key</subject>
+          <subject_class locale="en_US">Taxonomy; Ostariophysi; Tetragonopterinae; Neotropical; Systematics; Identification key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <middlename>L.</middlename>
+          <lastname>Netto-Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angela</firstname>
+          <middlename>M.</middlename>
+          <lastname>Zanata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>L. O.</middlename>
+          <lastname>Birindelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leandro</firstname>
+          <middlename>M.</middlename>
+          <lastname>Sousa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2009-10-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

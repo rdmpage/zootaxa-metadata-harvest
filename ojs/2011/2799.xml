@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2799.1</id>
+    <title locale="en_US">24 Mar. 2011</title>
+    <volume>2799</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On some taxonomic and nomenclatural problems in Indian species of the genus &lt;i&gt;Oligodon &lt;/i&gt;Fitzinger, 1826 (Squamata: Colubridae)</title>
+        <abstract locale="en_US">This paper deals with three nomenclatural and taxonomic problems affecting two species groups of the colubrid snake genus &lt;i&gt;Oligodon&lt;/i&gt; Fitzinger, 1826: (i) A neotype is formally designated for &lt;i&gt;Coronella&lt;/i&gt; &lt;i&gt;cyclura&lt;/i&gt; Cantor, 1839, associating this specific nomen with populations from India, Bangladesh and Myanmar with 19 scale rows at midbody; (ii) &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;kheriensis&lt;/i&gt; Acharji &amp; Ray, 1936 is shown to be a valid species of the &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cyclurus&lt;/i&gt; group occurring in northern India and Nepal; (iii) The type-locality of &lt;i&gt;Simotes&lt;/i&gt; &lt;i&gt;multifasciatus&lt;/i&gt; Jan &amp; Sordelli, 1865 is shown to be Sultanpur, India. This taxon is considered a synonym of &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cinereus&lt;/i&gt; (Günther, 1864). The range of this species in India is extended. The status of specimens of &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cinereus&lt;/i&gt; from India and Myanmar is briefly discussed. Specimens from Thailand identified as &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cinereus&lt;/i&gt; &lt;i&gt;multifasciatus&lt;/i&gt; and &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cinereus&lt;/i&gt; &lt;i&gt;swinhonis&lt;/i&gt; (Günther, 1864) are referred to &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;joynsoni&lt;/i&gt; (Smith, 1917). India is home to at least 21 species of the genus &lt;i&gt;Oligodon,&lt;/i&gt; an updated list of which is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">India; neotype; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cinereus&lt;/i&gt;; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cyclurus&lt;/i&gt;; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;kheriensis&lt;/i&gt;; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;joynsoni&lt;/i&gt;; &lt;i&gt;Simotes&lt;/i&gt; &lt;i&gt;multifasciatus&lt;/i&gt;; taxonomy; Thailand</subject>
+          <subject_class locale="en_US">India</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Indraneil</firstname>
+          <lastname>Das</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-14</pages>
+        <date_published>2011-03-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A checklist of trematodes (Platyhelminthes) transmitted by &lt;i&gt;Melanoides tuberculata &lt;/i&gt;(Mollusca: Thiaridae)</title>
+        <abstract locale="en_US">A list of species of Trematoda (flukes) transmitted by &lt;i&gt;Melanoides&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; (Müller, 1774) is presented based on 136 articles published between 1896 and 2010. This snail species has been reported as an intermediate host for flukes belonging to 17 families, 25 genera and 37 species, including 11 trematodes reported as adults from man. The greatest proportion of the associations between &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; and flukes has been recorded in Asia and Africa; three species are considered to be invasive in the Americas. In addition, another 81 larval trematodes found in &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; have been described under generic collective group &lt;i&gt;Cercaria&lt;/i&gt; Müller, 1773, but have not yet been associated with the respective adult parasites. Studies in which the larvae found in &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; have only been grouped into eight cercarian groups are also listed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">thiarids; Trematoda; cercariae; parasites</subject>
+          <subject_class locale="en_US">thiarids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hudson</firstname>
+          <middlename>Alves</middlename>
+          <lastname>Pinto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alan</firstname>
+          <middlename>Lane</middlename>
+          <lastname>De Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>15-28</pages>
+        <date_published>2011-03-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Peninsular Malaysia’s first limbless lizard: a new species of skink of the genus &lt;i&gt;Larutia &lt;/i&gt;(Böhme) from Pulau Pinang with a phylogeny of the genus</title>
+        <abstract locale="en_US">A new species of the scincid genus &lt;i&gt;Larutia,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;penangensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Pulau Pinang, Peninsular Malaysia is separated from all other congeners by having the unique characteristics of the complete absence of limbs, four supralabials, large body scales, and no banding or striping pattern. Additionally, it has the following unique combination of characters that further separates it from all congeners: a single presubocular; separated nasals; paired frontoparietals; small, widely separated prefrontals; no supranasals or postnasal; two postsupralabials; and large, posterior chinshields that contact the infralabials. A molecular phylogeny based on one mitochondrial and two nuclear genes from all species of &lt;i&gt;Larutia&lt;/i&gt; from Peninsular Malaysia indicates &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;penangensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is most basal and that &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;seribuatensis&lt;/i&gt; is the sister lineage to a clade containing &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;miodactyla&lt;/i&gt; and the sister species &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;trifasciata&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;larutensis.&lt;/i&gt; Consistencies and inconsistencies between this phylogeny and a previously proposed morphological phylogeny are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Larutia&lt;/i&gt;; &lt;i&gt;Larutia&lt;/i&gt; &lt;i&gt;penangensis&lt;/i&gt;; Malaysia; new species; Penang; Pulau Pinang; Scincidae; taxonomy; phylogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Larutia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evan</firstname>
+          <middlename>Quah Seng</middlename>
+          <lastname>Huat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cameron</firstname>
+          <middlename>D.</middlename>
+          <lastname>Siler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chan</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <lastname>O.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Perry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shahrul</firstname>
+          <middlename>Anuar Mohd</middlename>
+          <lastname>Sah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norhayati</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-40</pages>
+        <date_published>2011-03-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Nemuroglanis &lt;/i&gt;(Siluriformes: Heptapteridae) from the rio Guariba, rio Madeira basin, Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Nemuroglanis&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; is described from streams of the rio Guariba, a clear water tributary of the rio Aripuanã, rio Madeira basin in Brazil. &lt;i&gt;Nemuroglanis&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; can be distinguished from its congeners by the possession of a long lateral line, reaching the middle portion of the adipose-fin base; a narrow posterior cranial fontanel (16 to 27% of its length); and the anterior border of pectoral bridge with a pointed contour. The plesiomorphic state of some of the synapomorphies for &lt;i&gt;Nemuroglanis&lt;/i&gt; in &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; suggests that this species might be the sister-group to the remaining species of the genus. A key for all four valid species of &lt;i&gt;Nemuroglanis&lt;/i&gt; species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; South America; small catfish; Amazon fish</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frank</firstname>
+          <middlename>Raynner V.</middlename>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wellington</firstname>
+          <middlename>S.</middlename>
+          <lastname>Pedroza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lúcia</firstname>
+          <middlename>H. Rapp</middlename>
+          <lastname>Py-Daniel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-48</pages>
+        <date_published>2011-03-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Re-description of two atypical species of &lt;i&gt;Pungentus &lt;/i&gt;Thorne &amp; Swanger, 1936, with proposal of &lt;i&gt;Stenodorylaimus &lt;/i&gt;gen. n. (Nematoda, Dorylaimida, Nordiidae)</title>
+        <abstract locale="en_US">Two species of the genus &lt;i&gt;Pungentus&lt;/i&gt; originally described by Thorne and Swanger (1936), namely &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;intertextus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;textilis,&lt;/i&gt; are re-described on studying type material. Both species are very similar morphologically and characterized by having large general size (body 3.7–5.1 mm long), odontostyle comparatively long (about twice the lip region width) and slender, with small aperture, relatively short neck (b-ratio = 7.0–9.0), rounded conoid tail, and slightly irregularly spaced ventromedian supplements which lack hiatus. This morphological pattern significantly differs from that found in other &lt;i&gt;Pungentus&lt;/i&gt; species, and hence a new genus &lt;i&gt;Stenodorylaimus&lt;/i&gt; is proposed to accommodate the two species herein studied. Descriptions, measurements, line illustrations and LM pictures are provided for both species. The new genus is compared in detail with its closest relatives.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dorylaimida; morphology; nematodes; new genus; &lt;i&gt;Pungentus&lt;/i&gt;; re-description; taxonomy; type material</subject>
+          <subject_class locale="en_US">Dorylaimida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <lastname>Álvarez-Ortega</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reyes</firstname>
+          <lastname>Peña-Santiago</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-62</pages>
+        <date_published>2011-03-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Hemus &lt;/i&gt;(Majoidea: Majidae: Mithracinae) from the Pacific coast of Panamá, with a key to the genus</title>
+        <abstract locale="en_US">A new species of spider crab, &lt;i&gt;Hemus&lt;/i&gt; &lt;i&gt;magalae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Majidae), is described from a single male specimen from Islas de las Perlas, Pacific Ocean coast of Panamá. This species differs from its congeners with respect to many features of the carapace including mid-line elevation and lateral dentition. &lt;i&gt;Hemus&lt;/i&gt; A. Milne-Edwards, 1875, now includes four species, three from coastal waters of the eastern Pacific Ocean and one from shallow waters in the tropical western Atlantic Ocean. A key to the Pacific and Atlantic species of &lt;i&gt;Hemus&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">spider crab; Panam&lt;; mitochondrial DNA</subject>
+          <subject_class locale="en_US">spider crab</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amanda</firstname>
+          <middlename>M.</middlename>
+          <lastname>Windsor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darryl</firstname>
+          <middlename>L.</middlename>
+          <lastname>Felder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-03-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

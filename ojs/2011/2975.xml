@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2975.1</id>
+    <title locale="en_US">25 Jul. 2011</title>
+    <volume>2975</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Nine new species from China of the subgenera &lt;i&gt;Chaetohomoneura &lt;/i&gt;and &lt;i&gt;Neohomoneura &lt;/i&gt;in the genus &lt;i&gt;Homoneura &lt;/i&gt;(Diptera, Lauxaniidae)</title>
+        <abstract locale="en_US">The following nine species from China are described as new to science: &lt;i&gt;Homoneura&lt;/i&gt; (Chaetohomoneura) &lt;i&gt;disciformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Homoneura&lt;/i&gt; (Neohomoneura) &lt;i&gt;biconcava&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;denticuligera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;elliptica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;guangdongica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;longicomata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;nigrimarginata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;pufujii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;quadrifera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and the species &lt;i&gt;H.&lt;/i&gt; (N.) &lt;i&gt;nebulosa&lt;/i&gt; Sasakawa, 2001 is recorded from China for the first time. A key to separate species from China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Lauxaniidae; &lt;i&gt;Chaetohomoneura&lt;/i&gt;; &lt;i&gt;Neohomoneura&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Li</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jun</firstname>
+          <middlename>Chao</middlename>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2011-07-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Amphinemura &lt;/i&gt;(Plecoptera: Nemouridae) from China</title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Amphinemura&lt;/i&gt; from Ningxia and Zhejiang, China are described: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ningxiana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tianmushana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Their taxonomic relationships with related species are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Nemouridae; &lt;i&gt;Amphinemura&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-34</pages>
+        <date_published>2011-07-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of &lt;i&gt;Rhagovelia &lt;/i&gt;in the &lt;i&gt;robusta &lt;/i&gt;group from Colombia (Hemiptera: Heteroptera: Veliidae)</title>
+        <abstract locale="en_US">Four new species from Colombia are described: &lt;i&gt;Rhagovelia&lt;/i&gt; &lt;i&gt;cachipai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Rhagovelia&lt;/i&gt; &lt;i&gt;nicolai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Rhagovelia&lt;/i&gt; &lt;i&gt;nariñensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;Rhagovelia&lt;/i&gt; &lt;i&gt;imperatrix&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; all belong to &lt;i&gt;robusta&lt;/i&gt; group. A key to &lt;i&gt;Rhagovelia&lt;/i&gt; species of the &lt;i&gt;robusta&lt;/i&gt; group from Colombia is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; tropical South America; ripple bugs; small water striders</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dora</firstname>
+          <middlename>N.</middlename>
+          <lastname>Padilla-Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2011-07-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Trichoptera — the newest insect order host of temnocephalans (Platyhelminthes, Temnocephalida) and the description of a new species of &lt;i&gt;Temnocephala &lt;/i&gt;from Brazil</title>
+        <abstract locale="en_US">Trichoptera Kirby, 1813, is the second order of Insecta Linnaeus, 1758 (after Hemiptera Linnaeus, 1758) to be found hosting temnocephalans anywhere in the world. Temnocephalans were found on caddisfly larvae from the genus &lt;i&gt;Barypenthus&lt;/i&gt; Burmeister, 1839 while collecting aquatic insects from a small creek in Serra do Cipó, State of Minas Gerais, Brazil. Thirty-six larvae and their cases were examined, of which 20 (55.5%) were positive for specimens of &lt;i&gt;Temnocephala&lt;/i&gt; Blanchard, 1849. Juvenile and adult temnocephalans were always devoid of body pigmentation and were living on the dorsal and ventral body surfaces of the larvae. The eye pigmentation was deep red, disappearing in specimens fixed in ethanol. Eggs were found in larger numbers on the dorsal thoracic segments. The most distinctive characters of the temnocephalans found on caddisfly larvae were found in the cirrus and the vagina. The comparison of the general anatomy and, in particular, the morphology of the cirrus and the vagina with those of &lt;i&gt;Temnocephala&lt;/i&gt; &lt;i&gt;curvicirri&lt;/i&gt; Amato &amp; Amato, 2005, described from aquatic heteropterans (Belostoma spp.), from the State of Rio Grande do Sul, which is revisited, showed that although these characters are of the same type and nature they are not equal, differing primarily in size and morphology of the cirrus and the muscularity of the middle portion of the vagina. The egg deposition sites are different and the cirrus and the vagina are characterized for the first time as being ‘complex’.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">aquatic insects; &lt;i&gt;Barypenthus&lt;/i&gt;; &lt;i&gt;Belostoma&lt;/i&gt;; caddisflies; new host group; new species; taxonomy; &lt;i&gt;Temnocephala&lt;/i&gt; &lt;i&gt;curvicirri&lt;/i&gt; revisited; Temnocephalidae; trichopterans</subject>
+          <subject_class locale="en_US">aquatic insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>F. R.</middlename>
+          <lastname>Amato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Suzana</firstname>
+          <middlename>B.</middlename>
+          <lastname>Amato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samantha</firstname>
+          <middlename>A.</middlename>
+          <lastname>Seixas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Teofânia</firstname>
+          <middlename>H. D. A.</middlename>
+          <lastname>Vidigal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cynthia</firstname>
+          <lastname>De Paula Andrade</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2011-07-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First fossil &lt;i&gt;Phatnoma &lt;/i&gt;(Hemiptera: Heteroptera: Tingidae: Cantacaderinae), in Miocene amber from the Dominican Republic</title>
+        <abstract locale="en_US">A new species of fossil lace bug, &lt;i&gt;Phatnoma&lt;/i&gt; &lt;i&gt;mattijoae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from a single specimen in Miocene amber from the Dominican Republic. It represents the first fossil record of the genus, extending its known range by approximately 16 million years. The new fossil appears to be most closely related to the extant &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ovatum&lt;/i&gt; Champion, 1897, from Guatemala.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fossil lace bug; Hemiptera; Insecta; palaeontology; Tingidae</subject>
+          <subject_class locale="en_US">Fossil lace bug</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>E.</middlename>
+          <lastname>Jepson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Penney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>I.</middlename>
+          <lastname>Green</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-63</pages>
+        <date_published>2011-07-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Hyperstoma &lt;/i&gt;(Coleoptera: Lampyridae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Hyperstoma&lt;/i&gt; Wittmer, 1979 is reviewed and &lt;i&gt;Hyperstoma&lt;/i&gt; &lt;i&gt;wittmeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Sri Lanka is proposed as a new species. A key to &lt;i&gt;Hyperstoma&lt;/i&gt; and illustrations of diagnostic characters are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hyperstoma&lt;/i&gt; &lt;i&gt;wittmeri&lt;/i&gt;; Lampyridae; Ototretinae; new species; Oriental Region</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hyperstoma&lt;/i&gt; &lt;i&gt;wittmeri&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kristyna</firstname>
+          <lastname>Janisova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Milada</firstname>
+          <lastname>Bocakova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2011-07-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2635.1</id>
+    <title locale="en_US">4 Oct. 2010</title>
+    <volume>2635</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the &lt;i&gt;Oocyclus &lt;/i&gt;Sharp of Venezuela with description of twelve new species (Coleoptera: Hydrophilidae: Laccobiini)</title>
+        <abstract locale="en_US">The water scavenger beetle genus &lt;i&gt;Oocyclus&lt;/i&gt; Sharp is reported from Venezuela for the first time. A review of more than 3000 specimens revealed fourteen species, including twelve described as new: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;andinus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;bolivari&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;coromoto&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;floccus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;galbus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;meridensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;petra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pico,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pittieri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;sapphirus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;trujillo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;zulianus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Two species previously known only from Central America, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;maculatus&lt;/i&gt; Sharp and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;substillus&lt;/i&gt; Short &amp; Perkins, are recorded for the first time in South America from localities along the Andean border with Colombia. Nearly all species are associated with hygropetric habitats such as wet rocks, waterfalls, and seepages; one species, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;petra,&lt;/i&gt; was also occasionally found in sandy stream margins that lacked rock substrate. The Neotropical genus &lt;i&gt;Beralitra&lt;/i&gt; d’Orchymont is placed in synonymy with &lt;i&gt;Oocyclus,&lt;/i&gt; yielding two newcombinations: &lt;i&gt;Oocyclus&lt;/i&gt; &lt;i&gt;obscurus&lt;/i&gt; (d’Orchymont) comb. n. and &lt;i&gt;Oocyclus&lt;/i&gt; &lt;i&gt;iguazu&lt;/i&gt; (Oliva) comb. n. A key to the Venezuelan species of &lt;i&gt;Oocyclus&lt;/i&gt; is provided in addition to habitus and diagnostic character illustrations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">aquatic beetles; taxonomy; Neotropical Region; hygropetric habitats; new synonym; &lt;i&gt;Beralitra&lt;/i&gt;</subject>
+          <subject_class locale="en_US">aquatic beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>E. Z.</middlename>
+          <lastname>Short</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauricio</firstname>
+          <lastname>García</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2010-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of two new species of Pseudococcidae (Homoptera: Coccinea) and additions to the scale insect fauna of Bulgaria</title>
+        <abstract locale="en_US">Two new species of mealybug, &lt;i&gt;Balanococus&lt;/i&gt; &lt;i&gt;balkanicus&lt;/i&gt; Gavrilov &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Phenacoccus&lt;/i&gt; &lt;i&gt;alibotush&lt;/i&gt; Gavrilov &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Homoptera: Coccinea: Pseudococcidae) are described and illustrated. In addition 10 species new to the Bulgarian fauna are noted: &lt;i&gt;Atrococcus&lt;/i&gt; &lt;i&gt;paludinus&lt;/i&gt; (Green), &lt;i&gt;Balanococcus&lt;/i&gt; &lt;i&gt;boratynskii&lt;/i&gt; Williams, &lt;i&gt;Trionymus&lt;/i&gt; &lt;i&gt;radicum&lt;/i&gt; (Newstead), &lt;i&gt;Coccura&lt;/i&gt; &lt;i&gt;comari&lt;/i&gt; (Künow), &lt;i&gt;Heliococcus&lt;/i&gt; &lt;i&gt;destructor&lt;/i&gt; Borchsenius, &lt;i&gt;Peliococcus&lt;/i&gt; &lt;i&gt;balteatus&lt;/i&gt; (Green), &lt;i&gt;Phenacoccus&lt;/i&gt; &lt;i&gt;pumilus&lt;/i&gt; Kiritschenko, &lt;i&gt;Rhizoecus&lt;/i&gt; &lt;i&gt;halophilus&lt;/i&gt; (Hardy), &lt;i&gt;Phyllostroma&lt;/i&gt; &lt;i&gt;myrtilli&lt;/i&gt; (Kaltenbach), and &lt;i&gt;Lecanopsis&lt;/i&gt; &lt;i&gt;clodiensis&lt;/i&gt; (Pellizzari). A new detailed figure of &lt;i&gt;Heliococcus&lt;/i&gt; &lt;i&gt;destructor&lt;/i&gt; Borchsenius is given. In addition, &lt;i&gt;A.&lt;/i&gt; (Eriococcus) &lt;i&gt;melnikensis&lt;/i&gt; (Hodgson &amp; Trencheva (2008) is here synonymised with &lt;i&gt;Acanthococcus&lt;/i&gt; &lt;i&gt;aceris&lt;/i&gt; Signoret (1875), &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">scale insects; fauna of Bulgaria; new species</subject>
+          <subject_class locale="en_US">scale insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ilya</firstname>
+          <middlename>A.</middlename>
+          <lastname>Gavrilov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-40</pages>
+        <date_published>2010-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Tettigoniidae (Orthoptera) described by Salvador de Toledo Piza Jr. and deposited in the collection of the University of São Paulo, Escola Superior de Agricultura "Luiz de Queiroz", Brazil</title>
+        <abstract locale="en_US">The type specimens of Tettigoniidae described by S. de Toledo Piza were photographed for Orthoptera Species File Online and examined. As a result of this revision several species are moved to different genera and two species to different subfamilies, 20 genera and 10 species are synonymized, one species is resurrected from synonymy, and two new genera are created, each accommodating a unique species described by Piza: &lt;i&gt;Toledopizia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Conocephalinae: Copiphorini) and &lt;i&gt;Pizatettix&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Pseudophyllinae: Platyphyllini). In total there are 32 new combinations of species names. The paper includes a checklist and explanations for all nomenclatural changes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">checklist; nomenclatural changes; OSF; South America; synonymy; type material; Conocephalinae; Listroscelidinae; Meconematinae; Phaneropterinae; Pseudophyllinae; Tettigoniinae</subject>
+          <subject_class locale="en_US">checklist</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juliana</firstname>
+          <lastname>Chamorro-Rengifo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Holger</firstname>
+          <lastname>Braun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-66</pages>
+        <date_published>2010-10-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

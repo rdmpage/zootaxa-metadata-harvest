@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2486.1</id>
+    <title locale="en_US">27 May. 2010</title>
+    <volume>2486</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Australo-Papuan genus &lt;i&gt;Macrolema &lt;/i&gt;Baly (Coleoptera: Chrysomelidae: Spilopyrinae), with description of a new genus</title>
+        <abstract locale="en_US">The chrysomelid genus &lt;i&gt;Macrolema&lt;/i&gt; Baly 1861 is revised. 13 species are described including five new: &lt;i&gt;Macrolema&lt;/i&gt; &lt;i&gt;aenescens&lt;/i&gt; (Bowditch 1913), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;albascutica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;atripennis&lt;/i&gt; (Bowditch 1913), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dickdaviesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;giya&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;karimui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; Jacoby 1895, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;metallica&lt;/i&gt; (Lea 1922), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pulchra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;quadrivittata&lt;/i&gt; (Jacoby 1898), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;submetallica&lt;/i&gt; (Jacoby 1894), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ventralis&lt;/i&gt; Lea 1921b, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; Baly 1861. &lt;i&gt;Macrolema&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; is a senior synonym of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;marginata&lt;/i&gt; Jacoby 1898 (syn. &lt;b&gt;nov.).&lt;/b&gt; &lt;i&gt;Allsortsia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is erected for a species formerly in &lt;i&gt;Macrolema,&lt;/i&gt; &lt;i&gt;Allsortsia&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; (Lea 1922), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Lectotypes are designated for &lt;i&gt;Macrolema&lt;/i&gt; &lt;i&gt;longicornis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; and &lt;i&gt;Macrogonus&lt;/i&gt; &lt;i&gt;quadrivittatus.&lt;/i&gt; Keys are provided for identification of the genera of Spilopyrinae and for the species of &lt;i&gt;Macrolema.&lt;/i&gt; &lt;i&gt;Macrolema&lt;/i&gt; is confined to the eastern rainforests of Australia (11 species) and highland New Guinea (2 species). Little is known of the biology of the species of &lt;i&gt;Macrolema&lt;/i&gt; and &lt;i&gt;Allsortsia,&lt;/i&gt; all of which are relatively rarely collected. A first-instar larva is tentatively ascribed to &lt;i&gt;Macrolema.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">fiery leaf beetle; morphology; Australia; New Guinea; taxonomy</subject>
+          <subject_class locale="en_US">fiery leaf beetle</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>A. M.</middlename>
+          <lastname>Reid</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Beatson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2010-05-27</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

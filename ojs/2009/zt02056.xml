@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2056.1</id>
+    <title locale="en_US">30 Mar. 2009</title>
+    <volume>2056</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Pseudexechia &lt;/i&gt;Tuomikoski re-characterized, with a review of European species (Diptera: Mycetophilidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Pseudexechia&lt;/i&gt; Tuomikoski is re-characterized and described, including a thorough morphological study of the male and female terminalia, providing homology assessment of the various parts and substructures. The 25 currently known species of &lt;i&gt;Pseudexechia&lt;/i&gt; are tentatively grouped into four species groups that are characterized mainly by structures of the male terminalia: the &lt;i&gt;canalicula&lt;/i&gt; group (Holarctic), the &lt;i&gt;longistylus&lt;/i&gt; group (Afrotropical) the &lt;i&gt;trisignata&lt;/i&gt; group (Holarctic and Oriental), and the &lt;i&gt;trivittata&lt;/i&gt; group (Holarctic and Oriental). The ten European species of &lt;i&gt;Pseudexechia&lt;/i&gt; are then revised, of which one, &lt;i&gt;Pseudexechia&lt;/i&gt; &lt;i&gt;tuomikoskii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described as new to science. All males and nine associated females are keyed, measured, described and illustrated. A principal component analysis of 59 morphometric measurements failed to give a clear separation of the different species and species groups. Except for overall size and some diffuse differences in flagellomere and tarsus lengths the present study also failed to reveal morphometric characters that are clearly taxonomically informative, and species identity must rest primarily on structural differences in the terminalia with aid of coloration patterns. Given as ratios, however, some measurements, like the wing vein R 4+5 bending index and the length to width ratio of clypeus, appear to be informative at species group level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Exechiini; morphometrics; species groups; new species; revision</subject>
+          <subject_class locale="en_US">Exechiini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jostein</firstname>
+          <lastname>Kjærandsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A species radiation among South African flightless spring katydids (Orthoptera: Tettigoniidae: Phaneropterinae: &lt;i&gt;Brinckiella &lt;/i&gt;Chopard)</title>
+        <abstract locale="en_US">A previously unknown radiation among flightless spring katydids (Tettigoniidae: Phaneropterinae: &lt;i&gt;Brinckiella)&lt;/i&gt; in Western and Northern Cape provinces of South Africa is described. Seven species are described as new (B. &lt;i&gt;aptera&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;arboricola&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;karooensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;mauerbergerorum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;serricauda&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;wilsoni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; and one species (B. &lt;i&gt;viridis&lt;/i&gt; Chopard) is redescribed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">South African katydids; Phaneropterinae; &lt;i&gt;Brinckiella&lt;/i&gt;; species radiation; fynbos; succulent karoo</subject>
+          <subject_class locale="en_US">South African katydids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Piotr</firstname>
+          <lastname>Naskrecki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Corinna</firstname>
+          <middlename>S.</middlename>
+          <lastname>Bazelet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-62</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pseudosparna&lt;/i&gt;, a new Neotropical genus of Acanthocinini (Coleoptera: Cerambycidae: Lamiinae), with description of three new species</title>
+        <abstract locale="en_US">&lt;i&gt;Pseudosparna&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; is proposed to include four species: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;luteolineata&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; (type species) from Equador, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amoena&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;aragua&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; from Venezuela, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; (Bates, 1863) &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; transferred from &lt;i&gt;Lepturtrigona&lt;/i&gt; Gilmour, 1957. The four species are illustrated and keyed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acanthocinini; Lamiinae; Neotropical; new taxa; new combination; taxonomy</subject>
+          <subject_class locale="en_US">Acanthocinini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Ricardo M.</middlename>
+          <lastname>Mermudes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

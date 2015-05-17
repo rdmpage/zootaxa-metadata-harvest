@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2552.1</id>
+    <title locale="en_US">29 Jul. 2010</title>
+    <volume>2552</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Syllinae (Syllidae: Polychaeta) from Australia. Part 4. The genus &lt;i&gt;Haplosyllis&lt;/i&gt; Langerhans, 1879</title>
+        <abstract locale="en_US">Large collections of Syllidae (Polychaeta) from around Australia housed at the Australian Museum (Sydney) have been examined and identified. Among them are seven known species of &lt;i&gt;Haplosyllis&lt;/i&gt; Langerhans, 1879, which are here redescribed and figured: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;uncinigera&lt;/i&gt; (Grube, 1878), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;basticola&lt;/i&gt; Sardá, Paul &amp; Ávila, 2002, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;crassicirrata&lt;/i&gt; Aguado, San Martín &amp; Nishi, 2006, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;ingensicola&lt;/i&gt; Lattig, Martin &amp; Aguado, 2010, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;tenhovei&lt;/i&gt; Lattig, Martin &amp; Aguado, 2010, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;djiboutiensis&lt;/i&gt; Gravier, 1900 (the most widely distributed species) and &lt;i&gt;H.&lt;/i&gt; cf. &lt;i&gt;spongicola.&lt;/i&gt; The latter is morphologically very similar to the type series of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;spongicola&lt;/i&gt; (Grube, 1855) from the Mediterranean, so future molecular studies would be necessary to clarify its taxonomic status. In addition, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;imajimai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sanchoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sandii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are newly described. All relevant characters for all species are fully illustrated, most of them using Scanning Electron Microscopy. Finally, a key to the Australian species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Haplosyllis&lt;/i&gt;; Syllinae; Syllidae; Australia; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Haplosyllis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patricia</firstname>
+          <lastname>Lattig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>San Martín</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2010-07-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Metabetaeus &lt;/i&gt;Borradaile, 1899 revisited, with description of a new marine species from French Polynesia (Crustacea: Decapoda: Alpheidae)</title>
+        <abstract locale="en_US">The alpheid shrimp genus &lt;i&gt;Metabetaeus&lt;/i&gt; was previously known from two species associated with anchialine pools and caves, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt; (Whitelegge, 1897) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lohena&lt;/i&gt; Banner &amp; Banner, 1960. In the present study, a somewhat unusual, coral reef inhabiting species of &lt;i&gt;Metabetaeus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mcphersonae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described based on one male and three female specimens collected off Moorea, Society Islands, French Polynesia. A detailed diagnosis of &lt;i&gt;Metabetaeus&lt;/i&gt; is provided for the first time, accommodating characters of all three species. Distribution ranges are updated for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;minutus,&lt;/i&gt; recorded for the first time from Sulawesi and Christmas Island in the Indian Ocean, and for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lohena,&lt;/i&gt; recorded for the first time from Rapa Nui (Easter Island). A key to the species of &lt;i&gt;Metabetaeus&lt;/i&gt; is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caridea; Alpheidae; shrimp; &lt;i&gt;Metabetaeus&lt;/i&gt;; new species; Pacific Ocean; French Polynesia; Indian Ocean; new records</subject>
+          <subject_class locale="en_US">Caridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-54</pages>
+        <date_published>2010-07-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new thylacosmilid (Mammalia, Metatheria, Sparassodonta) from the Miocene of Patagonia, Argentina</title>
+        <abstract locale="en_US">A new genus and species, &lt;i&gt;Patagosmilus&lt;/i&gt; &lt;i&gt;goini,&lt;/i&gt; of the family Thylacosmilidae (Mammalia, Metatheria, Sparassodonta) is described here. The new taxon is based on a single specimen collected from the west margin of the Río Chico, in Río Negro Province, Argentina, from the middle Miocene Colloncuran SALMA. Until now, two formally recognized species were encompassed in the family Thylacosmilidae: &lt;i&gt;Thylacosmilus&lt;/i&gt; &lt;i&gt;atrox,&lt;/i&gt; from the late Miocene-late Pliocene Huayquerian to Chapadmalalan SALMAof Argentina and probably Uruguay; and &lt;i&gt;Anachlysictis&lt;/i&gt; &lt;i&gt;gracilis,&lt;/i&gt; from the middle Miocene Laventan SALMA of Colombia. Recognition of the Patagonian taxon, &lt;i&gt;Patagosmilus,&lt;/i&gt; provides new anatomical data, likely to be included in future phylogenetic analyses. The overall morphology of &lt;i&gt;Patagosmilus&lt;/i&gt; suggests that it has a more generalized anatomy than &lt;i&gt;Thylacosmilus.&lt;/i&gt; The dental morphology suggests the new Patagonian taxon was probably closer to &lt;i&gt;Thylacosmilus&lt;/i&gt; than &lt;i&gt;Anachlysictis.&lt;/i&gt; Saber-tooth thylacosmilids have several autapomorphic features in the skull that differentiate them from other sparassodonts, including the delayed replacement or non-replacement of the deciduous last premolar.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">saber-tooth metatherians; Cenozoic; South America</subject>
+          <subject_class locale="en_US">saber-tooth metatherians</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Analía</firstname>
+          <middlename>M.</middlename>
+          <lastname>Forasiepi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfredo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Carlini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2010-07-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

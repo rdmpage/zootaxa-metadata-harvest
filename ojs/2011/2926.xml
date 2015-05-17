@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2926.1</id>
+    <title locale="en_US">22 Jun. 2011</title>
+    <volume>2926</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the Stictopterinae (Lepidoptera, Noctuoidea, Noctuidae) in China</title>
+        <abstract locale="en_US">The Stictopterinae from China are revised. Seven genera and forty species are reported from China. Five new species (Lo- &lt;i&gt;phoptera&lt;/i&gt; &lt;i&gt;hamata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lophoptera&lt;/i&gt; &lt;i&gt;solealis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lophoptera&lt;/i&gt; &lt;i&gt;acutiprocessa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lophoptera&lt;/i&gt; &lt;i&gt;purpurfera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Lophoptera&lt;/i&gt; &lt;i&gt;trigonoprocessa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; are described. One genus and ten species are recorded from China for the first time. Nine misidentifications in Chen (1982b, 1991, 1999) are revised. The male genitalia of &lt;i&gt;Lophoptera&lt;/i&gt; &lt;i&gt;obliquilinea&lt;/i&gt; Prout, 1928 are described for the frist time. Descriptions for the subfamily, all genera, and new species in China are provided, as are keys to genera and species, diagnoses for all species, and illustrations of adults and genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Noctuoidea; Noctuidae; Stictopterinae; taxonomy; new species</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Qi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ke</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dayong</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2011-06-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Pseudococcus &lt;/i&gt;(Hemiptera: Pseudococcidae) belonging to the “&lt;i&gt;Pseudococcus maritimus&lt;/i&gt;” complex from Chile: molecular and morphological description</title>
+        <abstract locale="en_US">A new species of mealybug from Chile, &lt;i&gt;Pseudococcus&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; Prado &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described and illustrated based on the morphological and molecular characterization of adult females. This species belongs to the “Pseudococcus &lt;i&gt;maritimus”&lt;/i&gt; complex and displays a wide host plant range, including Japanese pear, persimmon, pomegranate, pear and grape.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudococcus&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Chile; mealybugs; phenotypic plasticity; cytochrome oxidase; internal transcribed spacer</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudococcus&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Chile</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Margarita</firstname>
+          <lastname>Correa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Aguirre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-François</firstname>
+          <lastname>Germain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patricio</firstname>
+          <lastname>Hinrichsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tania</firstname>
+          <lastname>Zaviezo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thibaut</firstname>
+          <lastname>Malausa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ernesto</firstname>
+          <lastname>Prado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-54</pages>
+        <date_published>2011-06-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Efflatouniella &lt;/i&gt;Kröber, 1927 (Diptera: Therevidae)</title>
+        <abstract locale="en_US">In this paper, the genus &lt;i&gt;Efflatouniella&lt;/i&gt; Kröber is rediagnosed and redescribed with material from Egypt and Israel. &lt;i&gt;Efflatouniella&lt;/i&gt; &lt;i&gt;aegyptiaca&lt;/i&gt; Kröber, 1927 is redescribed while &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;legaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sinatica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from South Sinai. Keys to the Egyptian phycine genera and to species of the genus &lt;i&gt;Efflatouniella&lt;/i&gt; are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phycinae; stiletto fly; Egypt</subject>
+          <subject_class locale="en_US">Phycinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Salwa</firstname>
+          <middlename>K.</middlename>
+          <lastname>Mohammad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Haitham</firstname>
+          <middlename>B. M.</middlename>
+          <lastname>Badrawy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-60</pages>
+        <date_published>2011-06-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Franklinothrips &lt;/i&gt;Back (Thysanoptera: Aeolothripidae) from Yunnan, China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Majid</firstname>
+          <lastname>Mirab-Balou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Min</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2011-06-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Ctenothrips &lt;/i&gt;from southwestern China (Thysanoptera: Thripidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;world&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Ctenothrips&lt;/i&gt;&lt;/b&gt; (*placed in key from description)</subject>
+          <subject_class locale="en_US">&lt;b&gt;world&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Ctenothrips&lt;/i&gt;&lt;/b&gt; (*placed in key from description)</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yonghui</firstname>
+          <lastname>Xie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongrui</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhengyue</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-06-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

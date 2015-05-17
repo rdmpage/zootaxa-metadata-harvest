@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3154.1</id>
+    <title locale="en_US">9 Jan. 2012</title>
+    <volume>3154</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Redescriptions of three &lt;i&gt;Milnesium &lt;/i&gt;Doyère, 1840 taxa (Tardigrada: Eutardigrada: Milnesiidae), including the nominal species for the genus</title>
+        <abstract locale="en_US">In this paper we redescribe two species (Milnesium &lt;i&gt;eurystomum&lt;/i&gt; Maucci, 1991 and &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;tardigradum&lt;/i&gt; Doyère, 1840)and one subspecies (Milnesium &lt;i&gt;tardigradum&lt;/i&gt; &lt;i&gt;granulatum&lt;/i&gt; Ramazzotti, 1962), which we elevate to the species level. Weestablish a new type series for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tardigradum&lt;/i&gt; sensu stricto along with the sequences of the cytochrome c oxidase subunitI (COI) and the internal transcribed spacer 2 region (ITS2). Moreover, we define two species groups within the genusbased on the appearance of the dorso-lateral cuticle (the &lt;i&gt;tardigradum&lt;/i&gt; and the &lt;i&gt;granulatum&lt;/i&gt; group, with smooth and reticu-lated cuticle, respectively) and propose a system for denotation of the number of points on secondary branches of clawsin the genus. We also provide a diagnostic key to all described &lt;i&gt;Milnesium&lt;/i&gt; species and discuss the world distribution of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">claws; COI; cuticle; diagnostic key; ITS2; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;eurystomum&lt;/i&gt;; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;granulatum&lt;/i&gt;; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tardigradum&lt;/i&gt; sensu stricto; taxonomy</subject>
+          <subject_class locale="en_US">claws</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Łukasz</firstname>
+          <lastname>Michalczyk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weronika</firstname>
+          <lastname>Wełnicz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcus</firstname>
+          <lastname>Frohme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Łukasz</firstname>
+          <lastname>Kaczmarek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2012-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of the family Isididae (Coelenterata: Octocorallia) from a CMAR Biodiversity study, and a discussion on the subfamilial placement of some nominal isidid genera</title>
+        <abstract locale="en_US">We describe a new abyssal genus and species of bamboo coral (family Isididae) with some markedly unusual characteris-tics, collected from a depth of just over 2000 m off southern Tasmania. &lt;i&gt;Jasonisis&lt;/i&gt; &lt;i&gt;thresheri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; possesses a fleshytegument that contains nematocysts, tubular axial internodes that are internally partitioned, scale-shaped sclerites thathave a morphology not recorded before for octocorals, and polyps that lack thorny rods or double stars in the pharynx.Molecular data place &lt;i&gt;Jasonisis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; in the subfamily Keratoisidinae whose definition is altered to incorporate the un-usual characters. We also report some comparative observations on the internal structure of the axial internodes of theisidid genera &lt;i&gt;Keratoisis&lt;/i&gt; Wright, 1869, &lt;i&gt;Lepidisis&lt;/i&gt; Verrill, 1883 and &lt;i&gt;Isidella&lt;/i&gt; Gray, 1857, and we alter the definition of thesubfamily Mopseinae to allow the inclusion of the genera &lt;i&gt;Tenuisis,&lt;/i&gt; &lt;i&gt;Echinisis&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; Bayer &amp; Stefani 1987 and &lt;i&gt;Sclerisis&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; Bayer &amp; Stefani 1987.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Keratoisidinae; &lt;i&gt;Jasonisis&lt;/i&gt; &lt;i&gt;thresheri&lt;/i&gt;; bamboo coral; Cnidaria; Alcyonaria; Australia; Mopseinae; &lt;i&gt;Tenuisis&lt;/i&gt;; &lt;i&gt;Echinisis&lt;/i&gt;; &lt;i&gt;Sclerisis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Keratoisidinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philip</firstname>
+          <lastname>Alderslade</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Catherine</firstname>
+          <middlename>S.</middlename>
+          <lastname>Mcfadden</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-39</pages>
+        <date_published>2012-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Desertoniscus taschkentensis &lt;/i&gt;(Verhoeff, 1930) and description of &lt;i&gt;Desertoniscus schmalfussi &lt;/i&gt;n. sp. (Isopoda: Oniscidea)</title>
+        <abstract locale="en_US">&lt;i&gt;Desertoniscus&lt;/i&gt; &lt;i&gt;schmalfussi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;taschkentensis&lt;/i&gt; (Verhoeff, 1930) formerly considered as &lt;i&gt;Protracheonis-&lt;/i&gt;&lt;i&gt;cus&lt;/i&gt; &lt;i&gt;taschkentensis&lt;/i&gt; is redescribed and a lectotype is designated, and their diagnostic characters are figured. &lt;i&gt;Desertoniscus&lt;/i&gt;&lt;i&gt;schmalfussi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from all other species of the genus in having long setae on the apex of the male pleopod endopodite I and in having male pereiopod VII carpus with a distinct ridge on the dorsal margin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oniscidea; &lt;i&gt;Desertoniscus&lt;/i&gt;; new species; redescription; lectotype</subject>
+          <subject_class locale="en_US">Oniscidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ghasem</firstname>
+          <middlename>M.</middlename>
+          <lastname>Kashani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Allspach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-46</pages>
+        <date_published>2012-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Eriophyoid mites (Acari: Eriophyoidea) on Brassicaceae: a new species of &lt;i&gt;Metaculus &lt;/i&gt;from Turkey and remarks on other species associated with brassicaceous plants</title>
+        <abstract locale="en_US">Populations of eriophyoid mites infesting Brassicaceae were surveyed and two species belonging to the genus &lt;i&gt;Metaculus&lt;/i&gt;Keifer were found in an attempt to find enemies of some brassicaceous weeds in Turkey. A new species, &lt;i&gt;Metaculus&lt;/i&gt; &lt;i&gt;lep-&lt;/i&gt;&lt;i&gt;idifolii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; was collected on &lt;i&gt;Lepidium&lt;/i&gt; &lt;i&gt;latifolium&lt;/i&gt; L., commonly known as broadleaved or perennial pepperweed, man-ifesting leaf curling and deformation. In addition, &lt;i&gt;Metaculus&lt;/i&gt; &lt;i&gt;rapistri&lt;/i&gt; Carmona, was collected and redescribed from &lt;i&gt;Isatis&lt;/i&gt;&lt;i&gt;tinctoria&lt;/i&gt; L., dyer’s woad, as a new host record and report for the Turkish fauna. This species also causes leaf deformation.A key to all known species of &lt;i&gt;Metaculus&lt;/i&gt; found worldwide is provided. Because only a few eriophyoid species have beenrecorded on brassicaceous vegetables and weeds so far and the mite taxonomy appears to be confusing, remarks are given about the current state of knowledge. The new genus combination for &lt;i&gt;Aculops&lt;/i&gt; &lt;i&gt;lepidii&lt;/i&gt; is also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Prostigmata; Eriophyoidea; taxonomy; weeds; candidates for biological control</subject>
+          <subject_class locale="en_US">Prostigmata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosita</firstname>
+          <lastname>Monfreda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enrico</firstname>
+          <lastname>De Lillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-60</pages>
+        <date_published>2012-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Triacanthoneus akumalensis, &lt;/i&gt;a new species of alpheid shrimp (Crustacea: Caridea: Alpheidae) from an anchialine cave in Quintana Roo, Mexico</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Triacanthoneus&lt;/i&gt; Anker, 2010 is described from an anchialine cave near Akumal, Quintana Roo, Mexico.&lt;i&gt;Triacanthoneus&lt;/i&gt; &lt;i&gt;akumalensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is the fourth species in the genus and can be distinguished from the previously de-scribed species by the position of the sharp lateral teeth on the carapace, the length and shape of the rostrum, the eyes beingcompletely concealed by the carapace, the dentition of the major chela fingers, and the shape of the telson. The presenceof a pleural process in the new species represents a new character for the genus. The description of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;akumalensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; increases the number of caridean genera having representatives in the anchialine systems of the Yucatan Peninsula to 11.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caridea; Alpheidae; &lt;i&gt;Triacanthoneus&lt;/i&gt;; new species; Mexico; Yucatan; anchialine cave</subject>
+          <subject_class locale="en_US">Caridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <lastname>Alvarez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>M.</middlename>
+          <lastname>Iliffe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brett</firstname>
+          <lastname>Gonzalez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Villalobos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-01-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

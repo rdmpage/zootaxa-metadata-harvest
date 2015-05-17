@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1878.1</id>
+    <title locale="en_US">17 Sep. 2008</title>
+    <volume>1878</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On a collection of shallow-water hydroids (Cnidaria: Hydrozoa) from Guadeloupe and Les Saintes, French Lesser Antilles</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Horia</firstname>
+          <middlename>R.</middlename>
+          <lastname>Galea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2008-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of three species of &lt;i&gt;Hysterothylacium&lt;/i&gt; (Nematoda: Anisakidae) from marine fishes from the Yellow Sea, China, with the synonymy of &lt;i&gt;Hysterothylacium&lt;/i&gt; &lt;i&gt;muraenesoxin&lt;/i&gt; (Luo, 1999)</title>
+        <abstract locale="en_US">Three species of &lt;i&gt;Hysterothylacium&lt;/i&gt; Ward &amp; Magath, 1917 from the Yellow Sea, China, are redescribed and illustrated by light and scanning electron microscopy. &lt;i&gt;Hysterothylacium&lt;/i&gt; &lt;i&gt;fabri&lt;/i&gt; (Rudolphi, 1819) collected from &lt;i&gt;Chelidonichthys&lt;/i&gt; &lt;i&gt;kumu&lt;/i&gt; (Cuvier), &lt;i&gt;Trachurus&lt;/i&gt; &lt;i&gt;japonicus&lt;/i&gt; (Temminck &amp; Schlegel), &lt;i&gt;Argyrosomus&lt;/i&gt; &lt;i&gt;argentatus&lt;/i&gt; (Houttuyn), &lt;i&gt;Astroconger&lt;/i&gt; &lt;i&gt;myriaster&lt;/i&gt; (Brevoort) and &lt;i&gt;Hysterothylacium&lt;/i&gt; &lt;i&gt;tasmaniense&lt;/i&gt; (Johnston &amp; Mawson, 1945) collected from &lt;i&gt;Lophius&lt;/i&gt; &lt;i&gt;litulon&lt;/i&gt; (Jordan) are reported for the first time in China. &lt;i&gt;Hysterothylacium&lt;/i&gt; &lt;i&gt;amoyense&lt;/i&gt; (Hsü, 1933) (originally registered as &lt;i&gt;Contracaecum&lt;/i&gt; &lt;i&gt;amoyensis&lt;/i&gt; from Amoy, Taiwan Strait, China) is redescribed and compared with &lt;i&gt;Hysterothylacium&lt;/i&gt; &lt;i&gt;muraenesoxin&lt;/i&gt; (Luo, 1999), concluding that the second species represents a junior synonymy of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;amoyense.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematode; Anisakidae; &lt;i&gt;Hysterothylacium;&lt;/i&gt; Fishes; Yellow Sea; China</subject>
+          <subject_class locale="en_US">Nematode; Anisakidae; &lt;i&gt;Hysterothylacium;&lt;/i&gt; Fishes; Yellow Sea; China</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Liang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhen</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luping</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-67</pages>
+        <date_published>2008-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Glyptothorax &lt;/i&gt;(Teleostei: Sisoridae) from central Vietnam (Zootaxa 1873: 11-25)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ng</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <lastname>H.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Freyhof</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2008-09-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

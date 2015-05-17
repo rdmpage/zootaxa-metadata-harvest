@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3197.1</id>
+    <title locale="en_US">17 Feb. 2012</title>
+    <volume>3197</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Some ascidians from the southern coast of Madagascar collected during the "AtimoVatae" survey FRANÇOISE MONNIOT (France)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2012-02-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Krobia xinguensis&lt;/i&gt;, a new species of cichlid fish from the Xingu River drainage in Brazil (Teleostei: Cichlidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Krobia&lt;/i&gt; &lt;i&gt;xinguensis&lt;/i&gt; is described from localities in the headwaters and in the lower part of the rio Xingu. It is distinguishedfrom the other two species in the genus, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;guianensis&lt;/i&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;itanyi,&lt;/i&gt; primarily by deeper caudal peduncle, and details ofthe colour pattern, including contrasting interorbital stripes and a small dark spot anteriorly on each side of the lower jaw.&lt;i&gt;Krobia&lt;/i&gt; &lt;i&gt;xinguensis&lt;/i&gt; represents a considerable range extension of the genus from the Guianas and northern tributaries of the lower Amazon, into a major south bank Amazon tributary.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aequidens&lt;/i&gt;; Amazon basin; endemism; taxonomy; Guiana shield; Brazilian shield</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aequidens&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sven</firstname>
+          <middlename>O.</middlename>
+          <lastname>Kullander</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2012-02-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Eviota atriventris&lt;/i&gt;, a New Goby Previously Misidentified as &lt;i&gt;Eviota pellucida &lt;/i&gt;Larson (Teleostei: Gobiidae) </title>
+        <abstract locale="en_US">A species commonly identified as &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;pellucida&lt;/i&gt; in the literature has been misidentified and is in fact an undescribedspecies, described here as &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;atriventris.&lt;/i&gt; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;pellucida&lt;/i&gt; is known only from the Gilbert and Marshall Islands, Ponape,Mariana Islands, and the Ryukyu Islands, Japan. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;atriventris&lt;/i&gt; is known from the Ryukyu Islands, Philippine Islands,Palau Islands, Indonesia, Papua New Guinea, Solomon Islands, New Caledonia, and the Great Barrier Reef, Australia. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;atriventris&lt;/i&gt; differs from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pellucida&lt;/i&gt; in both preserved and live coloration and in pectoral-fin ray counts.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Teleostei; Gobiidae; &lt;i&gt;Eviota&lt;/i&gt;; new species; S.W. Pacific</subject>
+          <subject_class locale="en_US">Teleostei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>W.</middlename>
+          <lastname>Greenfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Toshiyuki</firstname>
+          <lastname>Suzuki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2012-02-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1741.1</id>
+    <title locale="en_US">4 Apr. 2008</title>
+    <volume>1741</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-04-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Notes on Afrotropical &lt;i&gt;Manota&lt;/i&gt; Williston (Diptera: Mycetophilidae), with the description of seven new species</title>
+        <abstract locale="en_US">The following new species are described: &lt;i&gt;Manota&lt;/i&gt; &lt;i&gt;clinochaeta&lt;/i&gt; (Madagascar), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cultrigera&lt;/i&gt; (Madagascar), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;edentula&lt;/i&gt; (Mauritius), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ephippiata&lt;/i&gt; (Uganda), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;macrodon&lt;/i&gt; (Madagascar), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;phyllochaeta&lt;/i&gt; (Madagascar) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;uncinata&lt;/i&gt; (Madagascar). New records and taxonomic notes are given for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mabokeensis&lt;/i&gt; Matile (Uganda), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; Jaschhof &amp; Mostovski (South Africa) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;whiteleyi&lt;/i&gt; Jaschhof and Mostovski (Ivory Coast). Taxonomic notes on &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; (Enderlein) (Seychelles) are given and its hypopygium is redescribed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Mycetophilidae; &lt;i&gt;Manota&lt;/i&gt;; new species; Afrotropical region</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heikki</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2008-04-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of &lt;i&gt;Saigusaia &lt;/i&gt;Vockeroth,&lt;i&gt; &lt;/i&gt;1980&lt;i&gt; &lt;/i&gt;(Diptera: Mycetophilidae) from China</title>
+        <abstract locale="en_US">Four new species of &lt;i&gt;Saigusaia&lt;/i&gt; Vockeroth 1980 — &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;spinibarbis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;praegnans&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;monacanthus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;aberrans&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; — are described from southeast China’s of Zhejiang Province. Another species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;taiwan&lt;/i&gt; is newly recorded from southwest China’s Sichuan Province. A key to Chinese species of &lt;i&gt;Saigusaia&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Saigusaia&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Vockeroth&lt;/b&gt; &lt;b&gt;1980&lt;/b&gt; &lt;b&gt;known&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Saigusaia&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Vockeroth&lt;/b&gt; &lt;b&gt;1980&lt;/b&gt; &lt;b&gt;known&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoling</firstname>
+          <lastname>Niu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiaoxia</firstname>
+          <lastname>Yu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-30</pages>
+        <date_published>2008-04-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic review of the&lt;i&gt; Palpada ruficeps &lt;/i&gt;species group, with the description of&lt;i&gt; &lt;/i&gt;a new flower fly from Colombia (Diptera: Syrphidae)</title>
+        <abstract locale="en_US">A new species of flower flies, &lt;i&gt;Palpada&lt;/i&gt; &lt;i&gt;prietorum&lt;/i&gt; Mengual spec. nov. (Diptera: Syrphidae: Eristalinae) is described from Cali, Colombia. The new species belongs to the &lt;i&gt;ruficeps&lt;/i&gt; subgroup in the &lt;i&gt;vinetorum&lt;/i&gt; species group. An identification key is provided for the species of the &lt;i&gt;ruficeps&lt;/i&gt; subgroup, as well as a comparison of morphological diagnostic characters to separate these taxa. Fragments of the mitochondrial cytochrome c oxidase subunit I (COI) gene, the D2-3 region of the nuclear 28S rRNA gene and the nuclear internal transcribed spacer (ITS2) are supplied for two species, &lt;i&gt;Palpada&lt;/i&gt; &lt;i&gt;prietorum&lt;/i&gt; spec. nov. and &lt;i&gt;Palpada&lt;/i&gt; &lt;i&gt;ruficeps&lt;/i&gt; (Macquart, 1842).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematic; Diptera</subject>
+          <subject_class locale="en_US">Systematic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ximo</firstname>
+          <lastname>Mengual</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>Christian</middlename>
+          <lastname>Thompson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-36</pages>
+        <date_published>2008-04-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Fine morphology of the myrmecophilous larva of &lt;i&gt;Paussus kannegieteri &lt;/i&gt;(Coleoptera: Carabidae: Paussinae: Paussini)</title>
+        <abstract locale="en_US">After one century, the third instar myrmecophilous larva of &lt;i&gt;Paussus&lt;/i&gt; &lt;i&gt;(Semipaussus)&lt;/i&gt; &lt;i&gt;kannegieteri&lt;/i&gt; Wasmann 1896 (Coleoptera, Carabidae, Paussinae, Paussini), is redescribed and illustrated according to modern scientific standards. A fine morphological study performed with the aid of both light and scanning electron microscopes, reveals the presence of several peculiar types of trichomes, sensilla, glandular pores and other cuticular structures often overlooked by previous authors. These microstructures, especially those connected to myrmecophily, greatly vary among the taxa of Paussini known at larval stage (mainly &lt;i&gt;Arthropterus&lt;/i&gt; vs. &lt;i&gt;Paussus+Platyrhopalopsis),&lt;/i&gt; indicating that different strategies for interacting with ants may have evolved within this tribe. They also seem to be good candidates as diagnostic taxonomic characters within the genus &lt;i&gt;Paussus&lt;/i&gt; Linnaeus 1775. The possible function of these and other derived structures of the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kannegieteri&lt;/i&gt; larva are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">larval taxonomy; functional morphology; sensilla; glands; myrmecophily; S.E.M.</subject>
+          <subject_class locale="en_US">larval taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrea</firstname>
+          <middlename>Di</middlename>
+          <lastname>Giulio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-50</pages>
+        <date_published>2008-04-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new &lt;i&gt;Stenus &lt;/i&gt;species of the &lt;i&gt;indubius&lt;/i&gt; group (Coleoptera, Staphylinidae) from China</title>
+        <abstract locale="en_US">Three new &lt;i&gt;Stenus&lt;/i&gt; species of the &lt;i&gt;indubius&lt;/i&gt; group from Sichuan Province, West-Central China, are described: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;zhuxiaoyui&lt;/i&gt; Tang, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pectorifossatus&lt;/i&gt; Tang. &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;erlangshanus&lt;/i&gt; Tang, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Diagnostic characters are illustrated and a key to Chinese species of this group is provided. The conflict between classifications of &lt;i&gt;Stenus&lt;/i&gt; based on subgenera and species groups is briefly discussed. All three new species have diagnostic characters of the subgenus &lt;i&gt;Hemistenus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Staphylinidae; &lt;i&gt;Stenus&lt;/i&gt; &lt;i&gt;indubius&lt;/i&gt; group; identification key; new species; China</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Liang</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhao</firstname>
+          <lastname>Yun-Long</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-58</pages>
+        <date_published>2008-04-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic status of &lt;i&gt;Euzonitis haroldi&lt;/i&gt; (Heyden, 1870) (Coleoptera: Meloidae) inferred from morphological and molecular data </title>
+        <abstract locale="en_US">The species &lt;i&gt;Euzonitis&lt;/i&gt; &lt;i&gt;haroldi&lt;/i&gt; (Heyden 1870) (Coleoptera: Meloidae; Nemognathinae) is an almost unknown taxon, sometimes treated as a variety of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;quadrimaculata&lt;/i&gt; (Pallas, 1773), originally described from Central Spain and only known from a few localities in Spain and Morocco. We found specimens of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;haroldi&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;quadrimaculata&lt;/i&gt; feeding together on flowers of Apiaceae in Central Spain. These specimens provided an excellent opportunity to properly assess the status of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;haroldi&lt;/i&gt; by analyzing and comparing morphological and molecular data of the two taxa. For the morphological study we reviewed a total of 227 specimens. We concluded that &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;haroldi&lt;/i&gt; is genetically and morphologically identical, except for coloration, to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;quadrimaculata,&lt;/i&gt; and therefore &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;haroldi&lt;/i&gt; should be treated as a junior synonym of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;quadrimaculata&lt;/i&gt; (syn. &lt;b&gt;nov.)&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; mtDNA; Cytochrome oxidase I; Morphology; Spain; Morocco; New synonymy</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marina</firstname>
+          <lastname>Alcobendas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>L.</middlename>
+          <lastname>Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>)Chiara</firstname>
+          <lastname>Settanni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mario</firstname>
+          <lastname>Garcia-Paris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-67</pages>
+        <date_published>2008-04-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The male of &lt;i&gt;Mesoveloidea williamsi&lt;/i&gt; Hungerford, 1929 revisited</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Felipe</firstname>
+          <middlename>Ferraz Figueiredo</middlename>
+          <lastname>Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>Ricardo Inacio</middlename>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <middlename>Luiz</middlename>
+          <lastname>Nessimian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2008-04-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

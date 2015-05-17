@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2466.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2466</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of the immature stages and life history of &lt;i&gt;Euselasia &lt;/i&gt;(Lepidoptera: Riodinidae) on &lt;i&gt;Miconia&lt;/i&gt; (Melastomataceae) in Costa Rica </title>
+        <abstract locale="en_US">The immature stages and life histories of &lt;i&gt;Euselasia&lt;/i&gt; &lt;i&gt;chrysippe&lt;/i&gt; (Bates, 1866) and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bettina&lt;/i&gt; (Hewitson, 1869) are described, providing the first detailed morphological characters for the subfamily Euselasiinae. The larvae of &lt;i&gt;Euselasia&lt;/i&gt; &lt;i&gt;chrysippe&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bettina&lt;/i&gt; specialize on several species of &lt;i&gt;Miconia&lt;/i&gt; (Melastomataceae). The eggs are stalked (the first reported case of such in Lepidoptera) and laid in clusters on the underside of leaves. The larvae are gregarious and feed, rest, molt, and pupate ‘synchronously’. Both species have six larval instars which exhibit processionary behavior throughout their development. SD2 setae on the prothoracic shield are sensitive to airborne vibrations and are related to the head-flicking behavior exhibited by larvae while feeding, perhaps as a defensive strategy to deter attacks by parasitoids. Several morphological characters of first instar larvae are unique among Lepidoptera: extra setae, bifurcated dorsal setae on A1–8, and various organs. Sixth instar larvae possess subcircular plates on the dorsolateral surfaces of all segments of the thorax and abdomen. These smooth plates have a metallic-blue iridescence that is structural in nature. Pupation occurred singly or gregariously under laboratory conditions. The total duration of the life cycle under laboratory conditions lasted up to eight weeks. New records of parasitoids for &lt;i&gt;Euselasia&lt;/i&gt; include &lt;i&gt;Encarsia&lt;/i&gt; and &lt;i&gt;Telenomus&lt;/i&gt; from eggs. A list of host plants recorded for Euselasiinae, a summary of parasitoid records for &lt;i&gt;Euselasia,&lt;/i&gt; and summary tables of unique organs and setae of immature stages are provided. &lt;i&gt;Euselasia&lt;/i&gt; &lt;i&gt;chrysippe&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bettina&lt;/i&gt; are currently considered potential biocontrol agents for &lt;i&gt;Miconia&lt;/i&gt; &lt;i&gt;calvescens&lt;/i&gt; DC in Hawaii.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">auditory mechanoreceptor; biological control of weeds; metalmark butterflies; &lt;i&gt;Calolydella&lt;/i&gt;; &lt;i&gt;Corrachia&lt;/i&gt;; &lt;i&gt;Encarsia&lt;/i&gt;; &lt;i&gt;Euselasia&lt;/i&gt; &lt;i&gt;aurantia&lt;/i&gt;; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bettina&lt;/i&gt;; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;chrysippe&lt;/i&gt;; gregarious; host plants; &lt;i&gt;Miconia&lt;/i&gt; &lt;i&gt;calvescens&lt;/i&gt;; Nemeobiinae; Neotropical; processionary behavior; structural color; &lt;i&gt;Telenomus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">auditory mechanoreceptor</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kenji</firstname>
+          <lastname>Nishida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-74</pages>
+        <date_published>2010-05-14</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

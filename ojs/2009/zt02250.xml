@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2250.1</id>
+    <title locale="en_US">8 Oct. 2009</title>
+    <volume>2250</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Diversity and Distribution of Conidae from the TamilNadu Coast of India (Mollusca: Caenogastropoda: Conidae)</title>
+        <abstract locale="en_US">A survey of the marine gastropod genus &lt;i&gt;Conus&lt;/i&gt; Linnaeus was conducted along the TamilNadu Coast of India to explore the regional geographic distribution and diversity. The 60 species observed increased the number of Indian Conidae from 77 to 81. &lt;i&gt;Conus&lt;/i&gt; &lt;i&gt;imperialis&lt;/i&gt; Linné, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mitratus&lt;/i&gt; Hwass in Bruguière, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;striolatus&lt;/i&gt; Kiener and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;violaceus&lt;/i&gt; Gmelin are newly recorded from the study area. &lt;i&gt;Conus&lt;/i&gt; &lt;i&gt;amadis&lt;/i&gt; Gmelin was the most widely distributed species. The highest diversity (48 species) occurred in the Gulf of Mannar, followed by 22 species from northern, six from southern, and five from the Palk Bay regions. We suggest that the rich diversity recorded in the Gulf of Mannar reflects the physical conditions, microhabitats and required resources such as food and shelter that favour the occurrence of the large number of &lt;i&gt;Conus&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cone snails; Marine biodiversity; Gastropod; &lt;i&gt;Conus&lt;/i&gt;; Vallapoo</subject>
+          <subject_class locale="en_US">Cone snails</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>Benjamin</middlename>
+          <lastname>Franklin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Subramanian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>Antony</middlename>
+          <lastname>Fernando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Krishnan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2009-10-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

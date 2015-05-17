@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3548.1</id>
+    <title locale="en_US">14 Nov. 2012</title>
+    <volume>3548</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">KALLAL, ROBERT J. &amp; LAPOLLA, JOHN S. (2012) Monograph of Nylanderia (Hymenoptera: Formicidae) of the World, Part II: Nylanderia in the Nearctic. &lt;i&gt;Zootaxa&lt;/i&gt;, 3508, 1–64. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>88</pages>
+        <date_published>2012-11-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

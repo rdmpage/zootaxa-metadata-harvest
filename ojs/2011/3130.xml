@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3130.1</id>
+    <title locale="en_US">14 Dec. 2011</title>
+    <volume>3130</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomically significant polymorphism in &lt;i&gt;Leucochrysa &lt;/i&gt;(Neuroptera: Chrysopidae): Nomenclature, larval and adult descriptions, and biological notes</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Catherine</firstname>
+          <middlename>A.</middlename>
+          <lastname>Tauber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Euzileni</firstname>
+          <lastname>Mantoanelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname></firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2011-12-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Morpho &lt;/i&gt;(&lt;i&gt;Morpho&lt;/i&gt;) &lt;i&gt;helenor &lt;/i&gt;(Cramer) (Lepidoptera, Nymphalidae, Morphinae) in Bolivia: Geographical distribution and ecological plasticity, with a description of a new subspecies</title>
+        <abstract locale="en_US">The geographical distribution of &lt;i&gt;Morpho&lt;/i&gt; &lt;i&gt;helenor&lt;/i&gt; (Cramer) in Bolivia is mapped from the study of specimens preserved in Bolivian and foreign collections, and from recent field studies in various ecoregions. One subspecies, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;theodorus&lt;/i&gt; Fruhstorfer, inhabits Amazonian moist forests in the western and northern parts of the country. Another subspecies, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;coelestis&lt;/i&gt; Butler, is common in moist cloud forests (Bolivian Yungas), but also occurs to the North and North-East. We describe a new subspecies, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;prometa&lt;/i&gt; ssp. nov., from Southern Andean Yungas. Transition zones between &lt;i&gt;theodorus&lt;/i&gt; and &lt;i&gt;coelestis&lt;/i&gt; are highlighted, where specimens exhibiting intermediate phenotypes were collected. The pattern of geographic transition from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;coelestis&lt;/i&gt; to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;prometa&lt;/i&gt; needs to be documented. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;prometa&lt;/i&gt; inhabits sub-humid, semideciduous forests, whereas &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;theodorus&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;coelestis&lt;/i&gt; live in rainforests. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;coelestis&lt;/i&gt; populations are found from less than 100 m to more than 1600 m a.s.l.; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;theodorus&lt;/i&gt; has been collected at more than 1000 m a.s.l.; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;h.&lt;/i&gt; &lt;i&gt;prometa&lt;/i&gt; between 500 m and 1400 m a.s.l.. Therefore, Bolivian &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;helenor&lt;/i&gt; populations are distributed throughout a wide range of ecological contexts: we discuss the habitat plasticity of the species in light of available knowledge of its geographical distribution and habitats in the Neotropical Region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Morpho&lt;/i&gt; &lt;i&gt;helenor&lt;/i&gt; &lt;i&gt;theodorus&lt;/i&gt;; &lt;i&gt;Morpho&lt;/i&gt; &lt;i&gt;helenor&lt;/i&gt; &lt;i&gt;coelestis&lt;/i&gt;; &lt;i&gt;Morpho&lt;/i&gt; &lt;i&gt;helenor&lt;/i&gt; &lt;i&gt;prometa&lt;/i&gt; ssp. nov.; rainforests; semideciduous forests; altitudinal range</subject>
+          <subject_class locale="en_US">&lt;i&gt;Morpho&lt;/i&gt; &lt;i&gt;helenor&lt;/i&gt; &lt;i&gt;theodorus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuvinka</firstname>
+          <lastname>Gareca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <lastname>Blandin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-56</pages>
+        <date_published>2011-12-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Mycterothrips &lt;/i&gt;from Western Iran (Thysanoptera: Thripidae)</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Mycterothrips&lt;/i&gt; Trybom (Thripidae: Thripinae), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hamedaniensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;weii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; are described and illustrated from Hamedan province in Western Iran.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Thysanoptera; Thripidae; &lt;i&gt;Mycterothrips&lt;/i&gt;; new species; Iran</subject>
+          <subject_class locale="en_US">Thysanoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Majid</firstname>
+          <lastname>Mirab-Balou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Min</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2011-12-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Heissothignus &lt;/i&gt;from New Guinea (Heteroptera: Lygaeoidea: Heterogastridae)</title>
+        <abstract locale="en_US">Two new species &lt;i&gt;Heissothignus&lt;/i&gt; &lt;i&gt;slateri&lt;/i&gt; and &lt;i&gt;Heissothignus&lt;/i&gt; &lt;i&gt;baitetus&lt;/i&gt; from New Guinea are described, illustrated, and included in the family Heterogastridae (Lygaeoidea). A key to the known species of &lt;i&gt;Heissothignus&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Heterogastridae; &lt;i&gt;Heissothignus&lt;/i&gt;; new species; New Guinea</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Harry</firstname>
+          <lastname>Brailovsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-12-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

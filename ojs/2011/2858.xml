@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2858.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2858</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A preliminary bibliographic survey of the insects found in poultry houses from the Neotropical Region, with remarks on selected taxa shared with native birds' nests</title>
+        <abstract locale="en_US">Species of insects associated to the habitat of &lt;i&gt;Gallus&lt;/i&gt; &lt;i&gt;gallus&lt;/i&gt; (Aves: Phasianidae) in the Neotropical Region belong to 144 identified species (42 Coleoptera; 14 Diptera; 17 Hymenoptera; 9 Siphonaptera; 1 Lepidoptera; 56 Hemiptera (one hybrid); 5 Dermaptera); 33 identified to genus (21 Coleoptera; 3 Diptera; 7 Hymenoptera; 1 Hemiptera; 1 Blattaria); 37 identified to family (23 Coleoptera; 9 Diptera; 2 Hymenoptera; 1 Lepidoptera; 2 Hemiptera); and 6 to order (2 Coleoptera; 1 Hymenoptera; 1 Siphonaptera; 1 Psocoptera; 1 Dermaptera). Most of the insects are haematophagous ectoparasites (Hemiptera; Siphonaptera; Diptera), detritivores (Coleoptera; Lepidoptera; Diptera; Blattaria), predators (Coleoptera; Diptera; Hemiptera; Dermaptera; Hymenoptera), and parasitoids (Hymenoptera). A total of 46 native American species and/or subspecies of Triatominae (Hemiptera: Reduviidae) were found in chicken houses, from which 18 were also found in birds’ nests. It was recently observed that other insects from poultry houses, generally exotic species, had colonized native American birds’ nests. Comments and remarks of selected taxa also found in birds’ nests from Argentina and other countries are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insects; chicken houses; poultry houses; birds’ nests; Neotropical Region.</subject>
+          <subject_class locale="en_US">Insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Osvaldo</firstname>
+          <middlename>Di</middlename>
+          <lastname>Iorio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paola</firstname>
+          <lastname>Turienzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2011-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

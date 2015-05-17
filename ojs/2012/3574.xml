@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3574.1</id>
+    <title locale="en_US">6 Dec. 2012</title>
+    <volume>3574</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Corynoneura &lt;/i&gt;Winnertz (Diptera: Chironomidae) from the Neotropical region</title>
+        <abstract locale="en_US">Currently the genus &lt;i&gt;Corynoneura&lt;/i&gt; Winnertz comprises 10 species already cited or described for the Neotropical region. Inthe present paper 15 new species are described for the Neotropics: 12 new species are described from Brazil, five of themare described as male, female, pupa and larva, &lt;i&gt;Corynoneura&lt;/i&gt; &lt;i&gt;canchim&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;diogo&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;espraiado&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;humbertoi&lt;/i&gt; sp. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;salviniatilis&lt;/i&gt; sp. n.; three as male, pupa and larva, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;franciscoi&lt;/i&gt; sp. n.; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;longiantenna&lt;/i&gt; sp. n. and &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;renata&lt;/i&gt; sp. n.; the species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sisbiota&lt;/i&gt; sp. n. as male, female and pupa; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bodoquena&lt;/i&gt; sp. n. as male and pupa and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;boraceia&lt;/i&gt;sp. n. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vidiapodeme&lt;/i&gt; sp. n. as males. &lt;i&gt;Corynoneura&lt;/i&gt; &lt;i&gt;trondi&lt;/i&gt; sp. n. is described from Chile (male, pupa), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;guanacaste&lt;/i&gt;sp. n. from Costa Rica (male) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;zempoala&lt;/i&gt; sp. n. from Mexico (male). The knowledge of the distribution of&lt;i&gt;Corynoneura&lt;/i&gt; &lt;i&gt;fortispicula,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sertaodaquina,&lt;/i&gt; C. &lt;i&gt;septadentata&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;unicapsulata&lt;/i&gt; all species described by Wiedenbrugand Trivinho-Strixino (2011) as well as &lt;i&gt;Corynoneura&lt;/i&gt; &lt;i&gt;ferelobata&lt;/i&gt; Sublette &lt;i&gt;et&lt;/i&gt; Sasa is extended. A larval morphotype is also included. Keys for males, females, pupae and larvae to known species of the Neotropical &lt;i&gt;Corynoneura&lt;/i&gt; are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chironomidae; Orthocladiinae; &lt;i&gt;Corynoneura&lt;/i&gt;; taxonomy; new species; Neotropics</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sofia</firstname>
+          <lastname>Wiedenbrug</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>E.</middlename>
+          <lastname>Lamas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Susana</firstname>
+          <lastname>Trivinho-Strixino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

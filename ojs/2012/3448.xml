@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3448.1</id>
+    <title locale="en_US">31 Aug. 2012</title>
+    <volume>3448</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Publication and Dating of the &lt;i&gt;Exploration Scientifique de l’Algérie:&lt;/i&gt; &lt;i&gt;Histoire Naturelle des Animaux Articulés &lt;/i&gt;(1846–1849) by Pierre Hippolyte Lucas</title>
+        <abstract locale="en_US">The history of the Exploration Scientifique de l’Algérie and the publication of its results are given. The contents of theplates and text for the livraisons of the 3-volume set of Pierre Hippolyte Lucas’s &lt;i&gt;Histoire&lt;/i&gt; &lt;i&gt;Naturelle&lt;/i&gt; &lt;i&gt;des&lt;/i&gt; &lt;i&gt;Animaux&lt;/i&gt; &lt;i&gt;Articulés&lt;/i&gt;are researched and dates of publication proposed, with annotations given on the composition of text and plates of eachlivraison, including notice of the dating of plates of birds, fish, reptiles, and mammals, the new names therein which pre-date their publication in text in some cases as much as 20 years later. An index to all taxa proposed as new in this work is presented giving the earliest known date of publication for each name.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dates of publication; insects; Mollusca; annelids; Coleoptera; Hymenoptera; Myriapoda; Diptera; Orthoptera,</subject>
+          <subject_class locale="en_US">Dates of publication</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2012-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

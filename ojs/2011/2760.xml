@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2760.1</id>
+    <title locale="en_US">8 Feb. 2011</title>
+    <volume>2760</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Waterfall-inhabiting Naucoridae (Hemiptera: Heteroptera) of southern India and Sri Lanka: &lt;i&gt;Pogonocaudina &lt;/i&gt;Sites and Zettel, n. gen., and a review of &lt;i&gt;Diaphorocoris &lt;/i&gt;with descriptions of two new species</title>
+        <abstract locale="en_US">A new genus of Naucoridae inhabiting a waterfall in Tamil Nadu state in southern India is described. &lt;i&gt;Pogonocaudina&lt;/i&gt; Sites and Zettel NEW GENUS is diagnosed by a dense fringe of long hairs around the perimeter of the posterior abdominal segments, and by both males and females with a single segmented front tarsus with two pretarsal claws. Despite the lack of sexual dimorphism in the forelegs, this new genus is a member of the subfamily Laccocorinae, an assignment based on other characters consistent with this subfamily. Character states of this genus are compared with those of other Asian genera of Laccocorinae. The genus &lt;i&gt;Diaphorocoris&lt;/i&gt; is reviewed and two new species are described here: &lt;i&gt;Diaphorocoris&lt;/i&gt; &lt;i&gt;arunachalami&lt;/i&gt; Sites and Zettel NEW SPECIES and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;kiliyur&lt;/i&gt; Sites and Zettel NEW SPECIES. Three species of &lt;i&gt;Diaphorocoris&lt;/i&gt; are now known from southern India, and with one other species from Sri Lanka, a total of four species are now known in the genus. A taxonomic key is provided to distinguish all known waterfall-inhabiting Naucoridae in southern India and Sri Lanka.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pogonocaudina&lt;/i&gt;; &lt;i&gt;Diaphorocoris&lt;/i&gt;; new genus; new species; waterfall; Heteroptera; Naucoridae; Laccocorinae; India; Sri Lanka</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pogonocaudina&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>W.</middlename>
+          <lastname>Sites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Herbert</firstname>
+          <lastname>Zettel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Arunachalam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2011-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Five new East-Asian species of the genus &lt;i&gt;Ypsolopha &lt;/i&gt;Latreille (Lepidoptera: Ypsolophidae)</title>
+        <abstract locale="en_US">Five new species of the genus &lt;i&gt;Ypsolopha&lt;/i&gt; Latreille are described from East Asia: &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;atrobrunnella&lt;/i&gt; Ponomarenko et Sohn, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Russia and China; &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;acerella&lt;/i&gt; Ponomarenko, Sohn et Zinchenko, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Russia and Korea; &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;yangi&lt;/i&gt; Ponomarenko et Sohn &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Russia and China; &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;tesselatidorsata&lt;/i&gt; Ponomarenko et Zinchenko &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Russia; &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;lutisplendida&lt;/i&gt; Sohn et Wu, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from China. The host plants are indicated for &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;atrobrunnella&lt;/i&gt; (Crataegus &lt;i&gt;maximowiczii&lt;/i&gt; Schneid., &lt;i&gt;Pyrus&lt;/i&gt; sp.), &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;acerella&lt;/i&gt; (Acer &lt;i&gt;ginnala&lt;/i&gt; Maxim.) and &lt;i&gt;Y.&lt;/i&gt; &lt;i&gt;lutisplendida&lt;/i&gt; (Pinus &lt;i&gt;tabulaeformis&lt;/i&gt; Carr.).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Ypsolophidae; &lt;i&gt;Ypsolopha&lt;/i&gt;; new species; East Asia; Russia; Korea; China</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Margarita</firstname>
+          <middlename>G.</middlename>
+          <lastname>Ponomarenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jae-Cheon</firstname>
+          <lastname>Sohn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yuliya</firstname>
+          <middlename>N.</middlename>
+          <lastname>Zinchenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chun-Sheng</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-28</pages>
+        <date_published>2011-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular and morphological analyses confirm two new species of the &lt;i&gt;Hydraena&lt;/i&gt; &lt;i&gt;emarginata–saga &lt;/i&gt;clade (Coleoptera, Hydraenidae) from Spain and France</title>
+        <abstract locale="en_US">Using morphological and molecular analyses, the existence of two undescribed species, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;diazi&lt;/i&gt; from north–eastern Spain and French Pyrenees, and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;fosterorum&lt;/i&gt; from north–central Spain is confirmed. These species are members of a European endemic complex of hydraenid beetles, the &lt;i&gt;Hydraena&lt;/i&gt; &lt;i&gt;emarginata–saga&lt;/i&gt; clade, belonging to the &lt;i&gt;”Haenydra“&lt;/i&gt; lineage. The two new species are described and the geographic range of the widespread &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;saga&lt;/i&gt; is revised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hydraena&lt;/i&gt;; &lt;i&gt;”Haenydra“&lt;/i&gt;; new species; Western Europe; mtDNA</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hydraena&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marco</firstname>
+          <lastname>Trizzino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jäch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paolo</firstname>
+          <lastname>Audisio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ignacio</firstname>
+          <lastname>Ribera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-38</pages>
+        <date_published>2011-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Glyptotendipes &lt;/i&gt;Kieffer and &lt;i&gt;Demeijerea &lt;/i&gt;Kruseman from Lake Winnipeg, Manitoba, Canada, with the description of four new species (Diptera: Chironomidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Glyptotendipes&lt;/i&gt; Kieffer and &lt;i&gt;Demeijerea&lt;/i&gt; Kruseman from Lake Winnipeg, Manitoba, Canada, are recorded, described or redescribed. &lt;i&gt;Demeijerea&lt;/i&gt; &lt;i&gt;spinulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Glyptotendipes&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;paratestaceus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;paulisensus&lt;/i&gt; sp. n., and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;sensilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are described as male imagines and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;paulisensus&lt;/i&gt; also as female imago. Partial redescriptions are given of: &lt;i&gt;Demeijerea&lt;/i&gt; &lt;i&gt;brachialis&lt;/i&gt; (Coquillett), &lt;i&gt;Glyptotendipes&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;barbipes&lt;/i&gt; (Staeger), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;paripes&lt;/i&gt; (Edwards), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(G.)&lt;/i&gt; &lt;i&gt;lobiferus&lt;/i&gt; (Say), and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(Caulochironomus)&lt;/i&gt; &lt;i&gt;dreisbachi&lt;/i&gt; Townes. A male probably belonging to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;(Caulochironomus)&lt;/i&gt; &lt;i&gt;scirpi&lt;/i&gt; (Kieffer) is described. Keys are given to Nearctic males of &lt;i&gt;Glyptotendipes&lt;/i&gt; subgen. &lt;i&gt;Glyptotendipes&lt;/i&gt; and to known females of the subgenus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; &lt;i&gt;Glyptotendipes&lt;/i&gt;; new species; keys to immatures; Lake Winnipeg</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-52</pages>
+        <date_published>2011-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first fossil Dufoureillini (Hemiptera: Heteroptera: Anthocoridae: Lyctocorinae) from the Eocene Baltic amber</title>
+        <abstract locale="en_US">The paper presents description of new anthocorid taxa from the inclusions in the Upper Eocene Baltic amber: &lt;i&gt;Xyloesteles&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; &lt;b&gt;gen.nov&lt;/b&gt; and &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Xyloesteles&lt;/i&gt; &lt;i&gt;kerneggeriorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; They are described and illustrated here. These fossil flower bugs of the family Anthocoridae (s.l.) belong to the tribe Dufouriellini Van Duzee (Lyctocorinae) are reported for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Anthocoridae; Lyctocorinae; Dufoureillini; new genera; new species; Baltic amber; fossil flower bugs</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuri</firstname>
+          <middlename>A.</middlename>
+          <lastname>Popov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aleksander</firstname>
+          <lastname>Herczek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jola</firstname>
+          <lastname>Broòek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2011-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of genus &lt;i&gt;Dryophilocoris &lt;/i&gt;Reuter (Hemiptera: Heteroptera: Miridae: Orthotylinae) from South Korea, with a key to Korean species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;Korean&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Dryophilocoris&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Reuter&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;the&lt;/b&gt; &lt;b&gt;Korean&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Dryophilocoris&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Reuter&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Young</firstname>
+          <middlename>Jae</middlename>
+          <lastname>Cho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yong</firstname>
+          <middlename>Jung</middlename>
+          <lastname>Kwon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2011-02-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Discovery of the male of &lt;i&gt;Temnolopha matura &lt;/i&gt;Diakonoff (Lepidoptera: Tortricidae: Olethreutini) in South Thailand</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nantasak</firstname>
+          <lastname>Pinkaew</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-02-08</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

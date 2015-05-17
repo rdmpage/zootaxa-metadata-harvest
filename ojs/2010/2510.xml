@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2510.1</id>
+    <title locale="en_US">18 Jun. 2010</title>
+    <volume>2510</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Recent developments on the morphology of the brachyuran foregut ossicles and gastric teeth</title>
+        <abstract locale="en_US">The complexity of the brachyuran foregut, in particular the foregut ossicles and gastric teeth, were investigated and documented in 66 brachyuran taxa employing a new staining method. The brachyuran groundpattern is proposed to consist of 41 ossicles. Most of the ossicles show a very conservative pattern with only a few variations. A previous classification scheme proposed by Nauck (1880) with the grouping of the recent brachyuran crabs in Heterodontea and Cyclodontea is not supported by this study. The study also shows that the Heterodontea and Cyclodontea are not monophyletic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; phylogeny; stomach morphology; foregut ossicles; gastric teeth; Heterodontea; Cyclodontea</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andreas</firstname>
+          <lastname>Brösing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2010-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Periclimenes nevillei &lt;/i&gt;sp. nov. (Crustacea: Decapoda: Pontoniinae) from Vanuatu</title>
+        <abstract locale="en_US">A new species of pontoniine shrimp, &lt;i&gt;Periclimenes&lt;/i&gt; &lt;i&gt;nevillei,&lt;/i&gt; from Espiritu Santo, Vanuatu, is described and illustrated. The species is an associate of an antipatharian host, &lt;i&gt;Cirripathes&lt;/i&gt; sp. A member of the &lt;i&gt;Periclimenes&lt;/i&gt; &lt;i&gt;brevicarpalis&lt;/i&gt; species group, to which a key is provided, it most closely resembles &lt;i&gt;Periclimenes&lt;/i&gt; &lt;i&gt;albolineatus&lt;/i&gt; Bruce &amp; Coombes, 1997.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caridea; Palaemonidae; new species; Antipatharia; commensal</subject>
+          <subject_class locale="en_US">Caridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>A.</firstname>
+          <middlename>J.</middlename>
+          <lastname>Bruce</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-54</pages>
+        <date_published>2010-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the taxonomic status of &lt;i&gt;Monstrilla leucopis &lt;/i&gt;Sars (Crustacea: Copepoda: Monstrilloida) from Norway, with comments on the male of &lt;i&gt;M. longiremis&lt;/i&gt; Giesbrecht</title>
+        <abstract locale="en_US">Specimens of monstrilloid copepods collected and described in the early 20 th century by G.O. Sars from the coasts of Norway and deposited in the Sars Collection (University of Oslo) were re-examined. &lt;i&gt;Monstrilla&lt;/i&gt; &lt;i&gt;leucopis&lt;/i&gt; Sars, 1921 was described based on female and male specimens, but the species was later synonymized with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;conjunctiva&lt;/i&gt; Giesbrecht, 1902 by several authors. Females of this species were analyzed and compared with closely related congeners, particularly with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;conjunctiva.&lt;/i&gt; This analysis includes the description of previously unknown morphological details following upgraded descriptive standards in this group. Evidence was found to support the notion that the female type specimens from Kvalø, Norway represent a distinct species; thus, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leucopis&lt;/i&gt; is redescribed and reinstated as a valid taxon. Previous tropical records of female &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;conjunctiva&lt;/i&gt; are questionable, but differences with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leucopis&lt;/i&gt; can be found in body and antennule proportions, the structure of the genital spines and fifth legs, and most probably, their geographical ranges. Furthermore, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leucopis&lt;/i&gt; has a modified thick-walled seta on the endopods of legs 2–4, so far a unique character among monstrilloids. The single male specimen labeled as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leucopis&lt;/i&gt; in the Sars Collection was also examined and it is not the male of this species as depicted by G.O. Sars (1921). It is in fact a male of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longiremis&lt;/i&gt; Giesbrecht, 1893, a species for which a short supplementary description and taxonomic comments are also provided herein. The male of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leucopis&lt;/i&gt; also shares some important characters with that of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;conjunctiva,&lt;/i&gt; but also with another male specimen that was questionably assigned to the latter species; this male probably represents an undescribed species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">marine zooplankton; associated copepods; taxonomy; Copepoda; monstrilloids</subject>
+          <subject_class locale="en_US">marine zooplankton</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <lastname>Suarez-Morales</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-67</pages>
+        <date_published>2010-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: Krogmann, L. &amp; Burks, R.A. (2009) &lt;i&gt;Doddifoenus wallacei&lt;/i&gt;, a new giant parasitoid wasp of the subfamily Leptofoeninae (Chalcidoidea: Pteromalidae), with a description of its mesosomal skeletal anatomy and a molecular characterization. &lt;i&gt;Zootaxa&lt;/i&gt;, 2194, 21–36.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2010-06-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

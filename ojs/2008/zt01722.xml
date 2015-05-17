@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1722.1</id>
+    <title locale="en_US">7 Mar. 2008</title>
+    <volume>1722</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-03-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Serpulids (Annelida: Polychaeta) from the Eastern Pacific, including a brief mention of Hawaiian serpulids</title>
+        <abstract locale="en_US">Serpulids are an important component of benthic hard-bottom communities, including fouling communities developing on natural and artificial substrates. This paper provides an overview of the serpulid fauna in the Eastern Pacific, including a brief mention of Hawaiian species. Fifty-eight serpulid species belonging to 21 genera were recorded in this area. Approximately 2,300 specimens were examined and 41 species were identified from the Eastern Pacific (Alaska to Chile) and Hawaii. Several specimens were recently collected, mainly in localities from the Pacific coast of Mexico and other localities from Panama and Hawaii; type material and additional specimens were revised in museum collections. The most diverse genus was, by far, &lt;i&gt;Hydroides&lt;/i&gt; (21 species, 36.2%), followed by &lt;i&gt;Protula&lt;/i&gt; and &lt;i&gt;Spirobranchus&lt;/i&gt; (four species each one, 6.9%). A new species, &lt;i&gt;Bathyvermilia&lt;/i&gt; &lt;i&gt;kupriyanovae&lt;/i&gt; n. sp., is described from deep waters off California and three species, &lt;i&gt;Pomatoleios&lt;/i&gt; sp., &lt;i&gt;Serpula&lt;/i&gt; &lt;i&gt;cf.&lt;/i&gt; &lt;i&gt;hartmanae&lt;/i&gt; and &lt;i&gt;Spirobranchus&lt;/i&gt; &lt;i&gt;cf.&lt;/i&gt; &lt;i&gt;gaymardi,&lt;/i&gt; need further study for their correct determination. For each species, one or two important references, a material examined section, a brief diagnosis, habitat and updated distributional information are included. Taxonomic remarks of several species and a meristic exploratory analysis of two &lt;i&gt;Spirobranchus&lt;/i&gt; species are included. An identification key, illustrations and a checklist of all the species recorded in this region are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Bathyvermilia&lt;/i&gt;; &lt;i&gt;Ficopomatus&lt;/i&gt;; fouling species; &lt;i&gt;Hydroides&lt;/i&gt;; &lt;i&gt;Protula&lt;/i&gt;; &lt;i&gt;Serpula&lt;/i&gt;; &lt;i&gt;Spirobranchus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Bathyvermilia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>Rolando</middlename>
+          <lastname>Bastida-Zavala</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2008-03-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

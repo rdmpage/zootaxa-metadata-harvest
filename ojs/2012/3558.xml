@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3558.1</id>
+    <title locale="en_US">21 Nov. 2012</title>
+    <volume>3558</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the ants of China </title>
+        <abstract locale="en_US">China is one of the largest countries in the world and offers an incredible diversity of ecosystems and species. Howeverthe distribution of many insect species in China is still poorly known. Here, through a bibliographical review, we synthe-size a species list of native and exotic ants (Hymenoptera: Formicidae) for 23 provinces of the People’s Republic of Chinaand eight surrounding regions. To date, no fewer than 939 valid named species and subspecies within 103 genera are listedfrom China. However, comparisons with other regions suggest that this list is still incomplete at both provincial and na-tional scales based on the diversity of surrounding regions and the number of undescribed species reported in the literature.Although the species list generated here is not and cannot be exhaustive, we hope that it will facilitate future discovery, revision and conservation of Chinese ants.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Formicidae; Asia; species checklist</subject>
+          <subject_class locale="en_US">Formicidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Benoit</firstname>
+          <lastname>Guénard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>R.</middlename>
+          <lastname>Dunn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-77</pages>
+        <date_published>2012-11-21</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2385.1</id>
+    <title locale="en_US">1 Mar. 2010</title>
+    <volume>2385</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The milliped family Trichopetalidae, Part 2: The genera &lt;i&gt;Trichopetalum, Zygonopus &lt;/i&gt;and &lt;i&gt;Scoterpes&lt;/i&gt; (Diplopoda: Chordeumatida, Cleidogonoidea)</title>
+        <abstract locale="en_US">The genera &lt;i&gt;Trichopetalum&lt;/i&gt; Harger, 1872, &lt;i&gt;Zygonopus&lt;/i&gt; Ryder, 1881 and &lt;i&gt;Scoterpes&lt;/i&gt; Cope, 1872 are revised. Illustrations are provided for all but one species, and distributions are mapped. The first known authentic chordeumatidan spermatophores are described for &lt;i&gt;Trichopetalum&lt;/i&gt; &lt;i&gt;dux&lt;/i&gt; (Chamberlin), 1940. The production of a sticky secretion from the bases of the segmental setae, possibly defensive in function, is also described. The &lt;b&gt;new&lt;/b&gt; &lt;b&gt;subfamily&lt;/b&gt; &lt;b&gt;Mexiterpetinae&lt;/b&gt; is established for the genus &lt;i&gt;Mexiterpes&lt;/i&gt; Causey, 1963; the remaining genera of Trichopetalidae are grouped in subfamily Trichopetalinae Verhoeff, 1914 (tribe Scoterpetini Causey, 1969, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.).&lt;/b&gt; &lt;i&gt;Trichopetalum&lt;/i&gt; consists of seven species, all surface-dwelling or troglophilic: &lt;i&gt;lunatum&lt;/i&gt; Harger, 1872, &lt;i&gt;uncum&lt;/i&gt; Cook &amp; Collins, 1895, &lt;i&gt;dux&lt;/i&gt; (Chamberlin), 1940, &lt;i&gt;montis&lt;/i&gt; Chamberlin, 1951, &lt;i&gt;stannardi&lt;/i&gt; (Causey), 1951, &lt;b&gt;&lt;i&gt;dickbrucei&lt;/i&gt;&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;&lt;i&gt;jerryblatti&lt;/i&gt;&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;i&gt;Zygonopus&lt;/i&gt; is resurrected from synonymy with &lt;i&gt;Trichopetalum;&lt;/i&gt; it contains four troglobiotic species: &lt;i&gt;whitei&lt;/i&gt; Ryder, 1881 (for which a &lt;b&gt;neotype&lt;/b&gt; specimen is designated), &lt;i&gt;krekeleri&lt;/i&gt; Causey, 1960, &lt;i&gt;packardi&lt;/i&gt; Causey, 1960 and &lt;i&gt;weyeriensis&lt;/i&gt; Causey, 1960. &lt;i&gt;Scoterpes&lt;/i&gt; likewise is made up entirely of troglobiotic species, including &lt;i&gt;copei&lt;/i&gt; (Packard), 1881, &lt;i&gt;austrinus&lt;/i&gt; Loomis, 1943, &lt;i&gt;nudus&lt;/i&gt; Chamberlin, 1946, &lt;i&gt;ventus&lt;/i&gt; Shear, 1972, &lt;i&gt;syntheticus&lt;/i&gt; (Shear), 1972, &lt;i&gt;sollmani&lt;/i&gt; Lewis, 2000, and the following new species: &lt;b&gt;&lt;i&gt;alabama,&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;hesperus,&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;jackdanieli,&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;musicarustica,&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;stewartpecki,&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;tombarri,&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;tricorner&lt;/i&gt;&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;&lt;i&gt;willreevesi.&lt;/i&gt;&lt;/b&gt; It is likely that at least &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;copei&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ventus&lt;/i&gt; are “superspecies,” consisting of numerous genetically isolated populations, which await study with molecular and/or morphometric methods.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">troglobiosis; caves; karst; troglomorphy</subject>
+          <subject_class locale="en_US">troglobiosis</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>A.</middlename>
+          <lastname>Shear</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2010-03-01</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

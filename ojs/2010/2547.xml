@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2547.1</id>
+    <title locale="en_US">23 Jul. 2010</title>
+    <volume>2547</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Observations on the biology of Afro–tropical Hesperiidae (Lepidoptera) principally from Kenya. Part 1. Introduction and Coeliadinae</title>
+        <abstract locale="en_US">Partial life histories for eight Afro–tropical Coeliadinae are described and illustrated: &lt;i&gt;Pyrrhochalcia&lt;/i&gt; &lt;i&gt;iphis&lt;/i&gt; (Drury) (Côte d’Ivoire), &lt;i&gt;Pyrrhiades&lt;/i&gt; &lt;i&gt;lucagus&lt;/i&gt; (Cramer) (Ghana), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;anchises&lt;/i&gt; &lt;i&gt;anchises&lt;/i&gt; (Gerstaecker) (Kenya), &lt;i&gt;Coeliades&lt;/i&gt; &lt;i&gt;chalybe&lt;/i&gt; &lt;i&gt;chalybe&lt;/i&gt; (Westwood) (Côte d’Ivoire), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;forestan&lt;/i&gt; &lt;i&gt;forestan&lt;/i&gt; (Stoll) (Kenya), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pisistratus&lt;/i&gt; (Fabricius) (Kenya), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sejuncta&lt;/i&gt; (Mabille &amp; Vuillot) (Kenya), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kenya&lt;/i&gt; Evans &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; (Kenya). Descriptions of a further six species or subspecies are provided from the literature: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;anchises&lt;/i&gt; &lt;i&gt;jucunda&lt;/i&gt; (Butler) (Oman), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;aeschylus&lt;/i&gt; (Plötz) (Republic of Guinea), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pansa&lt;/i&gt; (Hewitson) (Réunion), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bixana&lt;/i&gt; Evans (Democratic Republic of the Congo), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;libeon&lt;/i&gt; (Druce) (Democratic Republic of the Congo), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;keithloa&lt;/i&gt; (Wallengren) (South Africa), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lorenzo&lt;/i&gt; Evans &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; (South Africa). Unpublished photographs provided by T.C.E. Congdon illustrate early stages of &lt;i&gt;C.&lt;/i&gt; sp. probably &lt;i&gt;fervida&lt;/i&gt; (Butler) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rama&lt;/i&gt; Evans (Madagascar). Notes based on museum material are presented for C. &lt;i&gt;ramanatek&lt;/i&gt; (Boisduval). Generalisations are made for the subfamily in Africa and the implications for generic groupings in the subfamily are considered. All except &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;libeon&lt;/i&gt; are known4 · &lt;i&gt;Zootaxa&lt;/i&gt; 2547 © 2010 Magnolia Pressto feed on at least one species of Malpighiaceae, while &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;libeon&lt;/i&gt; feeds on at species of at least two other families of Malpigiales. A new type of leaf shelter, the four–cut shelter, is introduced, characteristic of African Coeliadinae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pyrrhochalcia&lt;/i&gt;; &lt;i&gt;Pyrrhiades&lt;/i&gt;; &lt;i&gt;Coeliades&lt;/i&gt;; food plant; life history; leaf shelter; parasitoid</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pyrrhochalcia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>J. W.</middlename>
+          <lastname>Cock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2010-07-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

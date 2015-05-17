@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2735.1</id>
+    <title locale="en_US">10 Jan. 2011</title>
+    <volume>2735</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-01-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of &lt;i&gt;Ophthalmitis &lt;/i&gt;Fletcher, 1979 in China, with descriptions of four new species (Lepidoptera: Geometridae, Ennominae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Ophthalmitis&lt;/i&gt; Oberthür in China is reviewed and four new species are described: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;dissita&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;longiprocessa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;brevispina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tumefacta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Two subspecies of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;albosignaria&lt;/i&gt; -- &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;albosignaria&lt;/i&gt; &lt;i&gt;juglandaria&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;albosignaria&lt;/i&gt; &lt;i&gt;isophnia&lt;/i&gt; -are newly synonymized with the nominate subspecies. A key is provided to the Chinese &lt;i&gt;Ophthalmitis&lt;/i&gt; and diagnoses for Chinese species. Illustrations of external features and genitalia are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ophthalmitis&lt;/i&gt;; taxonomy; new species; Geometridae; Lepidoptera</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ophthalmitis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nan</firstname>
+          <lastname>Jiang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dayong</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongxiang</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2011-01-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Steleops &lt;/i&gt;Enderlein, and a Colombian record of &lt;i&gt;S. pulcher &lt;/i&gt;New (Psocodea: ‘Psocoptera’: Psocidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Steleops&lt;/i&gt; &lt;i&gt;buitrerensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is here described and illustrated; it constitutes the 14 th species known in the genus, the 12 th known in the neotropics, and the first in the genus to be recorded in Colombia. The forewings and antennae are sexually dimorphic, and the head pattern of coloration, as well as the genital structure, separates it from the other described species. The location of the types is indicated in the description, and a key is included to separate it from the other South American species. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pulcher&lt;/i&gt; New, previously known only in Mato Grosso, Brazil, is here recorded in Colombia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Psocidae; Ptyctini; taxonomy; neotropics</subject>
+          <subject_class locale="en_US">Psocidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ranulfo</firstname>
+          <middlename>González</middlename>
+          <lastname>Obando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfonso</firstname>
+          <middlename>Neri García</middlename>
+          <lastname>Aldrete</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <middlename>Soraya</middlename>
+          <lastname>Carrejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-27</pages>
+        <date_published>2011-01-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identity of the frog fly &lt;i&gt;Caiusa coomani &lt;/i&gt;Séguy, 1948 (Diptera, Calliphoridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Knut</firstname>
+          <lastname>Rognes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-30</pages>
+        <date_published>2011-01-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic re-evaluation of &lt;i&gt;Parastagmatoptera abnormis &lt;/i&gt;Beier, 1963 (Dictyoptera, Mantidae: Stagmatopterinae): An unusual case of “parasite-induced” synonymy</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francesco</firstname>
+          <lastname>Lombardo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rita</firstname>
+          <lastname>Umbriaco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-34</pages>
+        <date_published>2011-01-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new cryptic species of the genus &lt;i&gt;Merodon &lt;/i&gt;Meigen (Diptera: Syrphidae) from the island of Lesvos (Greece)</title>
+        <abstract locale="en_US">Descriptions are given of three new cryptic species of &lt;i&gt;Merodon&lt;/i&gt; Meigen (Diptera: Syrphidae) from the island of Lesvos (Greece): &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;latifemoris&lt;/i&gt; Radenković et Vujić &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the &lt;i&gt;nigritarsis&lt;/i&gt; species group, &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;pulveris&lt;/i&gt; Vujić et Radenković &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the &lt;i&gt;natans&lt;/i&gt; species group and &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;puniceus&lt;/i&gt; Vujić, Radenković et Pérez-Bañón &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the &lt;i&gt;aureus&lt;/i&gt; species group. In addition to classical morphological characters, mitochondrial COI barcode sequences were generated for several specimens of each taxon.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">hoverflies; &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;latifemoris&lt;/i&gt;; &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;pulveris&lt;/i&gt;; &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;puniceus&lt;/i&gt;; &lt;i&gt;Merodon&lt;/i&gt; &lt;i&gt;dobrogensis&lt;/i&gt;; mitochondrial COI barcode sequences</subject>
+          <subject_class locale="en_US">hoverflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Snežana</firstname>
+          <lastname>Radenković</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ante</firstname>
+          <lastname>Vujić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gunilla</firstname>
+          <lastname>Ståhls</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celeste</firstname>
+          <lastname>Pérez-Bañón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Santos</firstname>
+          <lastname>Rojo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Theodora</firstname>
+          <lastname>Petanidou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Smiljka</firstname>
+          <lastname>Šimić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-56</pages>
+        <date_published>2011-01-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the genus &lt;i&gt;Neoperla &lt;/i&gt;(Plecoptera: Perlidae) from Henan, China</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Neoperla&lt;/i&gt; is for the first time recorded for Henan Province, China. Herein, we illustrate with color photographs three species, including &lt;i&gt;Neoperla&lt;/i&gt; &lt;i&gt;yaoshana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The relationship of the new species with closely related ones is discussed and notes for two additional species presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Perlidae; &lt;i&gt;Neoperla&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongliang</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wenyan</firstname>
+          <lastname>Lu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-63</pages>
+        <date_published>2011-01-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: PALADINI, ANDRESSA (2010) A new species of &lt;i&gt;Ferorhinella &lt;/i&gt;with an unusual pattern of sexual size dimorphism (Hemiptera, Cercopidae, Tomaspidinae). &lt;i&gt;Zootaxa&lt;/i&gt;, 2728, 57–60.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>64</pages>
+        <date_published>2011-01-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

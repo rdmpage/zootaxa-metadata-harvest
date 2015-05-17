@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1863.1</id>
+    <title locale="en_US">3 Sep. 2008</title>
+    <volume>1863</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A phylogeny of Plesiosauria (Sauropterygia) and its bearing on the systematic status of &lt;i&gt;Leptocleidus&lt;/i&gt; Andrews, 1922</title>
+        <abstract locale="en_US">&lt;i&gt;Leptocleidus&lt;/i&gt; Andrews, 1922 is a poorly known plesiosaur genus from Lower Cretaceous successions of the UK, South Africa, and Australia. Historically, there has been little consensus regarding its phylogenetic position within Plesiosauria, largely because of its seemingly aberrant combination of a relatively small skull and short neck. As a result, a diverse array of potential sister groups have been posited for &lt;i&gt;Leptocleidus,&lt;/i&gt; including long-necked Cretaceous elasmosaurids, Early Jurassic “rhomaleosaurs”, and Middle to Late Jurassic pliosaurids. A cladistic analysis including &lt;i&gt;Leptocleidus,&lt;/i&gt; and a new, apparently morphologically similar specimen from Alberta, TMP 94.122.01, was undertaken to assess their phylogenetic position within Plesiosauria. A character-taxon matrix was assembled afresh, consisting of 33 operational taxonomic units sampled broadly among plesiosaurs. 185 cranial and postcranial characters used in plesiosaur phylogenetics were critically reanalyzed, of which 152 were employed in the parsimony analysis. The results indicate a basal dichotomous split into the traditionally recognized pliosauroid and plesiosauroid clades. Nested within Pliosauroidea, a monophyletic Leptocleididae was recovered, consisting of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;superstes&lt;/i&gt; Andrews, 1922 and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; (Andrews, 1911a). In contrast to earlier suggestions, &lt;i&gt;Leptocleidus&lt;/i&gt; neither clusters with &lt;i&gt;Rhomaleosaurus,&lt;/i&gt; which was found to be paraphyletic, nor with large-skulled pliosaurid taxa, such as &lt;i&gt;Simolestes.&lt;/i&gt; Rather, a sister group relationship between Cretaceous Polycotylidae and Leptocleididae was recovered, which is here named Leptocleidoidea. Although TMP 94.122.01 is superficially similar to &lt;i&gt;Leptocleidus,&lt;/i&gt; several discrete characters of the skull nest this new taxon within Polycotylidae. Compared to other phylogenetic hypotheses of plesiosaurs, these results are more congruent with respect to the stratigraphic distribution of leptocleidoids. A classification for Plesiosauria is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">plesiosaur; cladistics; Pliosauridae; Polycotylidae; Leptocleidoidea</subject>
+          <subject_class locale="en_US">plesiosaur</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <middlename>S.</middlename>
+          <lastname>Druckenmiller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>P.</middlename>
+          <lastname>Russell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-120</pages>
+        <date_published>2008-09-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

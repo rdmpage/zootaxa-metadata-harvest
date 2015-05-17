@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1728.1</id>
+    <title locale="en_US">17 Mar. 2008</title>
+    <volume>1728</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-03-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the endemic Hawaiian Drosophilidae and their host plants </title>
+        <abstract locale="en_US">The Hawaiian Drosophilidae is one of the best examples of rapid speciation in nature. Nearly 1,000 species of endemic drosophilids have evolved &lt;i&gt;in&lt;/i&gt; &lt;i&gt;situ&lt;/i&gt; in Hawaii since a single colonist arrived over 25 million years ago. A number of mechanisms, including ecological adaptation, sexual selection, and geographic isolation, have been proposed to explain the evolution of this hyperdiverse group of species. Here, we examine the known ecological associations of 326 species of endemic Hawaiian Drosophilidae in light of the phylogenetic relationships of these species. Our analysis suggests that the long-accepted belief of strict ecological specialization in this group does not hold for all taxa. While many species have a primary host plant family, females will also oviposit on non-preferred host plant taxa. Host shifting is fairly common in some groups, especially the &lt;i&gt;grimshawi&lt;/i&gt; and &lt;i&gt;modified&lt;/i&gt; &lt;i&gt;mouthparts&lt;/i&gt; species groups of &lt;i&gt;Drosophila,&lt;/i&gt; and the &lt;i&gt;Scaptomyza&lt;/i&gt; subgenus &lt;i&gt;Elmomyza.&lt;/i&gt; Associations with types of substrates (bark, leaves, flowers) are more evolutionarily conserved than associations with host plant families. These data not only give us insight into the role ecology has played in the evolution of this large group, but can help in making decisions about the management of rare and endangered host plants and the insects that rely upon them for survival.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hawaiian; Drosophilidae; taxonomy</subject>
+          <subject_class locale="en_US">Hawaiian</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karl</firstname>
+          <middlename>N.</middlename>
+          <lastname>Magnacca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Foote</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <middlename>M.</middlename>
+          <lastname>O'grady</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-58</pages>
+        <date_published>2008-03-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new &lt;i&gt;Pseudosinella &lt;/i&gt;(Collembola: Entomobryidae) from La Rioja, Spain </title>
+        <abstract locale="en_US">Four new species of &lt;i&gt;Pseudosinella&lt;/i&gt; from La Rioja, Spain are described and illustrated. They are &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;logrognensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;leivaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gutierrezae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;torcuatoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which were found in soils of different field crops. Identification keys are given for some of them, based on the chaetotaxy or the number of eyes, in order to compare the new species with those having 5 + 5 eyes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Collembola; Entomobryidae; &lt;i&gt;Pseudosinella&lt;/i&gt;; Spain; La Rioja; new species</subject>
+          <subject_class locale="en_US">Collembola</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jose</firstname>
+          <middlename>C. Simon</middlename>
+          <lastname>Benito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>G.</middlename>
+          <lastname>Palacios-Vargas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2008-03-17</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

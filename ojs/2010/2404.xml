@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2404.1</id>
+    <title locale="en_US">22 Mar. 2010</title>
+    <volume>2404</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Definition of families, subfamilies, genera and subgenera of the Eutardigrada, and keys to their identification</title>
+        <abstract locale="en_US">The systematic arrangement of the Eutardigrada has radically changed since 1969 due to the new evaluation of characteristics of the claws and of the bucco-pharyngeal apparatus and the use of some characters overlooked before. After that date, as a consequence, four new families and 40 genera have been instituted. Given the changes and number of novelties, the authors have updated the definitions of all familial and generic taxa and have provided keys to aid identification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eutardigrada; definitions; families; genera; dichotomous keys</subject>
+          <subject_class locale="en_US">Eutardigrada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giovanni</firstname>
+          <lastname>Pilato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Grazia</middlename>
+          <lastname>Binda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2010-03-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Kamaka &lt;/i&gt;(Crustacea: Amphipoda: Kamakidae) from Songkhla Lagoon, southern Thailand</title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Kamaka&lt;/i&gt; Dershavin, 1923 (Crustacea: Amphipoda: Kamakidae) are described from Songkhla Lagoon in southern Thailand. &lt;i&gt;Kamaka&lt;/i&gt; &lt;i&gt;appendiculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has unique lamellate appendix on peduncle of antenna 2 in adult male. &lt;i&gt;Kamaka&lt;/i&gt; &lt;i&gt;songkhlaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has swelled peduncular article 4 of antenna 2 and wide propodus of gnathopod 2 in adult male. Morphological characters of &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;songkhlaensis&lt;/i&gt; closely resemble those of &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;poppi&lt;/i&gt; Bamber, 2003 from Hong Kong and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;taditadi&lt;/i&gt; Thomas &amp; Barnard, 1991 from Papua New Guinea, Indonesia and Malaysia; however, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;songkhlaensis&lt;/i&gt; can be distinguished from &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;poppi&lt;/i&gt; by the peduncular article 4 of male antenna 2 without distal spine and the convex distal margin of propodus of male gnathopod 2, and from &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;taditadi&lt;/i&gt; in the right-angled posteroventral corner of male coxa 1 and the propodus of male gnathopod 2 without blunt triangular process on anterior margin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; &lt;i&gt;Kamaka&lt;/i&gt;; Songkhla Lagoon; Thailand; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Ariyama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Saowapa</firstname>
+          <lastname>Angsupanich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eknarin</firstname>
+          <lastname>Rodcharoen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2010-03-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

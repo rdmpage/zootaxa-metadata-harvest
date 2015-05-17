@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2012.1</id>
+    <title locale="en_US">16 Feb. 2009</title>
+    <volume>2012</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Water mites of the family Torrenticolidae (Acari: Hydrachnidia) from Thailand, Part II. The genus &lt;i&gt;Monatractides &lt;/i&gt;K.Viets</title>
+        <abstract locale="en_US">New records of water mites of the genus &lt;i&gt;Monatractides&lt;/i&gt; K.Viets (Acari: Hydrachnidia, Torrenticolidae) from streams in Thailand are presented. One species, &lt;i&gt;Monatractides&lt;/i&gt; &lt;i&gt;gledhilli,&lt;/i&gt; new to science is described; a first description of the male is given for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;circuloides&lt;/i&gt; (Halík); first records from Thailand are given for &lt;i&gt;Monatractides&lt;/i&gt; &lt;i&gt;neoapratima&lt;/i&gt; (Wiles), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;circuloides&lt;/i&gt; (Halík), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;kyphophorus&lt;/i&gt; (K. Viets), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;parviventris&lt;/i&gt; (K. Viets), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longiventris&lt;/i&gt; (K. Viets), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;oxystomus&lt;/i&gt; (K. Viets), &lt;i&gt;M.&lt;/i&gt; cf. &lt;i&gt;garhwaliensis&lt;/i&gt; Pesic &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; cf. &lt;i&gt;tuzovskyi&lt;/i&gt; Pesic &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;macroporus&lt;/i&gt; K. Viets-complex and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;plumosa&lt;/i&gt; (Wiles). The zoogeographical characteristics of the Thailands torrenticolids are outlined. Additional work is highly desirable to clarify the taxonomy of SE Asian &lt;i&gt;Monatractides&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; new species; running waters; Thailand</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pesic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2009-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new montane species of &lt;i&gt;Acanthosaura &lt;/i&gt;Gray, 1831 (Squamata: Agamidae) from Peninsular Malaysia</title>
+        <abstract locale="en_US">Two new montane species of the agamid genus &lt;i&gt;Acanthosaura&lt;/i&gt; (Gray, 1831) from Peninsular Malaysia are described based on having unique color pattern and scale characteristics. &lt;i&gt;Acanthosaura&lt;/i&gt; &lt;i&gt;bintangensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Bukit Larut, Perak most closely resembles &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;titiwangsaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Fraser’s Hill and Cameron Highlands, Pahang but differs from it by having more subdigital lamellae on the fourth finger; the presence of a row of enlarged keeled suborbital scales beginning and terminating with an elliptical keeled scale; by having more scales surrounding the occipital spines; having more spots in the dorsal pattern; and by having a black gular region with a yellow medial stripe. Both species closely resemble &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;crucigera&lt;/i&gt; but, can be separated from it by having higher numbers of subdigital lamellae on the fourth finger and toe; higher numbers of trasverse scales in the canthus rostralis-supraorbital ridge; higher numbers of scales bordering the rostral scale, and lower numbers of scales between the fifth canthals. The discovery of a two new agamid lizards from montane forests in well-known areas of Peninsular Malaysia underscores the importance of continued field work in these regions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acanthosaura&lt;/i&gt;; &lt;i&gt;crucigera&lt;/i&gt;; &lt;i&gt;bintangensis&lt;/i&gt;; &lt;i&gt;titiwangsaensis&lt;/i&gt;; Banjaran Bintang; Banjaran Titiwangsa; Montane; Peninsular Malaysia; description</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acanthosaura&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Perry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norhayati</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chan</firstname>
+          <middlename>Kin</middlename>
+          <lastname>Onn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aaron</firstname>
+          <middlename>M.</middlename>
+          <lastname>Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-46</pages>
+        <date_published>2009-02-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three rare and enigmatic South American skinks </title>
+        <abstract locale="en_US">Three enigmatic skinks, &lt;i&gt;Mabuya&lt;/i&gt; &lt;i&gt;nigropalmata&lt;/i&gt; Andersson, 1918, &lt;i&gt;Tiliqua&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; Gray, 1839, and &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;(Xystrolepis)&lt;/i&gt; &lt;i&gt;punctata,&lt;/i&gt; Tschudi, 1845, have been reported from widely separated localities on the South American mainland. They remain the three rarest and most poorly known South American skinks and were known only from type material until recently. In this paper, we comment on recent rediscoveries of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;nigropalmata&lt;/i&gt; in the western Amazon of Peru and Bolivia. Using cytochrome b and 12S DNA sequences, we resolve this species’s phylogenetic position within &lt;i&gt;Mabuya&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto&lt;/i&gt; and demonstrate its specific distinctiveness, especially from the superficially similar species &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;frenata.&lt;/i&gt; In addition, we show that neither &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;(Xystrolepis)&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; nor &lt;i&gt;Tiliqua&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; can be placed within &lt;i&gt;Mabuya.&lt;/i&gt; A suite of morphological characteristics requires the transfer of these two species to the mostly Afro-Malagasy genus &lt;i&gt;Trachylepis.&lt;/i&gt; To correct the secondary homonymy of Tschudi’s name, we propose a replacement name for &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;punctata.&lt;/i&gt; We designate NRM 23258A as the lectotype of &lt;i&gt;Mabuya&lt;/i&gt; &lt;i&gt;nigropalmata&lt;/i&gt; Andersson and MNHN 2932 as the lectotype of &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; (Gray) &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination.&lt;/b&gt; Finally, we propose an identification key to &lt;i&gt;Mabuya&lt;/i&gt; of the Amazon basin and adjacent regions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scincidae; &lt;i&gt;Mabuya&lt;/i&gt; &lt;i&gt;nigropalmata&lt;/i&gt;; &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;atlantica&lt;/i&gt;; &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination,&lt;/b&gt; &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;(Xystrolepis)&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt;; &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;tschudii&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;name,&lt;/b&gt; Peru</subject>
+          <subject_class locale="en_US">Scincidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aurélien</firstname>
+          <lastname>Miralles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>Carlos</middlename>
+          <lastname>Chaparro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>B.</middlename>
+          <lastname>Harvey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2009-02-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

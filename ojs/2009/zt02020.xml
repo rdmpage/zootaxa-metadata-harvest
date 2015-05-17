@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2020.1</id>
+    <title locale="en_US">25 Feb. 2009</title>
+    <volume>2020</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">First record of the family Caliscelidae (Hemiptera: Fulgoroidea) from Madagascar, with description of new taxa from the Afrotropical Region and biogeographical notes</title>
+        <abstract locale="en_US">The family Caliscelidae is revised and listed in the Afrotropical Region and is recorded from Madagascar for the first time. &lt;i&gt;Signoreta&lt;/i&gt; &lt;i&gt;victorina&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Calampocus&lt;/i&gt; &lt;i&gt;sphaeroides&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Patamadaga&lt;/i&gt; &lt;i&gt;pauliani&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Sphenax&lt;/i&gt; &lt;i&gt;cuneus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Afronaso&lt;/i&gt; &lt;i&gt;gryphus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;malagasicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are described from Madagascar. &lt;i&gt;Rhinoploeus&lt;/i&gt; &lt;i&gt;iwa&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Zambia and &lt;i&gt;Caliscelis&lt;/i&gt; &lt;i&gt;swazi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Republic of South Africa and Swaziland. &lt;i&gt;Nubianus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is erected for &lt;i&gt;Issopulex&lt;/i&gt; &lt;i&gt;nasutus&lt;/i&gt; Linnavuori, 1973. &lt;i&gt;Issopulex&lt;/i&gt; &lt;i&gt;chloe&lt;/i&gt; Linnavuori, 1973 is transfered to the genus &lt;i&gt;Savanopulex&lt;/i&gt; Dlabola and &lt;i&gt;Caliscelis&lt;/i&gt; &lt;i&gt;eximia&lt;/i&gt; Stål, 1859 to the genus &lt;i&gt;Chirodisca&lt;/i&gt; Emeljanov. &lt;i&gt;Afronaso&lt;/i&gt; &lt;i&gt;rhinarius&lt;/i&gt; &lt;i&gt;cuneiceps&lt;/i&gt; Fennah, 1957 is upgraded to species level. &lt;i&gt;Populonia&lt;/i&gt; &lt;i&gt;curculioforma&lt;/i&gt; Dlabola, 1987 is placed in synonymy under &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rhinarius&lt;/i&gt; &lt;i&gt;cuneiceps,&lt;/i&gt; &lt;i&gt;Populonia&lt;/i&gt; &lt;i&gt;hammersteini&lt;/i&gt; Schmidt, 1932 under &lt;i&gt;Homaloplasis&lt;/i&gt; &lt;i&gt;curvata&lt;/i&gt; Melichar, 1908, &lt;i&gt;Ugandana&lt;/i&gt; &lt;i&gt;fennahi&lt;/i&gt; Dlabola, 1987 under &lt;i&gt;Afronaso&lt;/i&gt; &lt;i&gt;bayoni&lt;/i&gt; Schmidt, 1911, and &lt;i&gt;Caliscelis&lt;/i&gt; &lt;i&gt;dreyfus&lt;/i&gt; Fernando, 1957 under &lt;i&gt;Caliscelis&lt;/i&gt; &lt;i&gt;eximia&lt;/i&gt; Stål, 1859. New faunistic records are proposed. The possible Gondwanan origin and monophyly of the Caliscelidae are briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Augilini; Caliscelini; Gondwanaland; taxonomy; new genus; new species; new combination; biogeography</subject>
+          <subject_class locale="en_US">Augilini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>M.</middlename>
+          <lastname>Gnezdilov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thierry</firstname>
+          <lastname>Bourgoin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2009-02-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the east Asian genus &lt;i&gt;Achelipoda &lt;/i&gt;Yang, Zhang &amp; Zhang, 2007 (Diptera: Empididae: Hemerodromiinae) including designation of a neotype for &lt;i&gt;Achelipoda pictipennis &lt;/i&gt;(Bezzi, 1912) and descriptions of six new species</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Achelipoda&lt;/i&gt; Yang, Zhang &amp; Zhang, 2007 (Diptera: Empididae: Hemerodromiinae) is revised. The original type of &lt;i&gt;Achelipoda&lt;/i&gt; &lt;i&gt;pictipennis&lt;/i&gt; (Bezzi, 1912) from Taiwan has been lost and a neotype is designated to clarify the concept of the species. Full descriptions and keys are provided and six new species are described: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kanaklua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kharkhema&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ngamlailai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Thailand; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;vietnamensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Vietnam; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tumida&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Singapore and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;subobscura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Indonesia. The relationships of &lt;i&gt;Achelipoda&lt;/i&gt; with other &lt;i&gt;Chelipoda-like&lt;/i&gt; Hemerodromiinae are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Empidoidea; Empididae; Hemerodromiinae; &lt;i&gt;Achelipoda&lt;/i&gt;; Asia; new species; key; distribution; &lt;i&gt;Chelipoda&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrian</firstname>
+          <middlename>R.</middlename>
+          <lastname>Plant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-50</pages>
+        <date_published>2009-02-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Manota &lt;/i&gt;Williston (Diptera: Mycetophilidae) in Mexico</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Manota&lt;/i&gt; Williston is represented in Mexico by the following species: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hidalgoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ibanezi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mexicapan&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;nubicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; The first three species were found in cloud forests near Tlanchinol in the state of Hidalgo, and the fourth one in a rainforest at Dos Amates in the state of Veracruz.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Mycetophilidae; Mexico; &lt;i&gt;Manota&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heikki</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heron</firstname>
+          <lastname>Huerta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2009-02-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Homidia &lt;/i&gt;Börner, 1906 (Collembola: Entomobryidae) from East China</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Homidia&lt;/i&gt; &lt;i&gt;linhaiensis,&lt;/i&gt; from East China is described. It is separated from the other members of the genus &lt;i&gt;Homidia&lt;/i&gt; by the following combination of characters, body colour pattern, presence of 5+5 lateral macrochaetae on Abd. III, a pair of extra dorsal macrochaetae (A2) on anterior part of Abd. IV and 9 smooth setae on lateral flap of ventral tube. A table of characters of closely related &lt;i&gt;Homidia&lt;/i&gt; species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Homidia&lt;/i&gt; &lt;i&gt;linhaiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; chaetotaxy; China; &lt;i&gt;Homidia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Homidia&lt;/i&gt; &lt;i&gt;linhaiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; chaetotaxy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shi-Di</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhi-Xiang</firstname>
+          <lastname>Pan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xin</firstname>
+          <lastname>Qi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-02-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

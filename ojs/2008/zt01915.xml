@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1915.1</id>
+    <title locale="en_US">27 Oct. 2008</title>
+    <volume>1915</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A preliminary revision of the &lt;i&gt;Synalpheus paraneptunus&lt;/i&gt; Coutière, 1909 species complex (Crustacea: Decapoda: Alpheidae)</title>
+        <abstract locale="en_US">The western Atlantic &lt;i&gt;Synalpheus&lt;/i&gt; &lt;i&gt;paraneptunus&lt;/i&gt; Coutière, 1909 species complex is revised based on the type material kept in the National Museum of Natural History, Smithsonian Institution, Washington DC (USNM), specimens from Dominica, Puerto Rico and some other Caribbean localities (USNM), and fresh material recently collected in Belize and Panama. The type material of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;paraneptunus,&lt;/i&gt; composed of three specimens, appears to include more than one species. Therefore, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;paraneptunus&lt;/i&gt; is restricted to the holotype from Morrosquillo, Colombia, dredged from 77 m. The identity of the two paratypes, one of them an abnormal female, could not be satisfyingly determined. Five species are described as new. &lt;i&gt;Synalpheus&lt;/i&gt; &lt;i&gt;duffyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described based on the recently collected material from Isla Grande, Panama. The colony structure of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;duffyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; including the large number of sexually undeveloped individuals and one larger breeding female, suggests eusocial life style. A further presumably eusocial species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;riosi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; significantly larger than &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;duffyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described based on 139 specimens from Dominica, all apparently forming a single colony. Furthermore, three pair-living species are recognized: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;brevidactylus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Isla Grande and Bocas del Toro, Panama; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bocas&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Bocas del Toro, Panama, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;belizensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Carrie Bow Cay, Belize. All reported species are contrasted to each other morphologically; occurrence (in large groups vs. pairwise) and colour patterns are also considered where data is available. A provisionary key to six known species of the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;paraneptunus&lt;/i&gt; complex is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caridea; Alpheidae; &lt;i&gt;Synalpheus&lt;/i&gt;; snapping shrimp; cryptic taxa; new species; sponge-dwelling; eusociality; intersex; western Atlantic; Caribbean</subject>
+          <subject_class locale="en_US">Caridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eva</firstname>
+          <lastname>Tóth</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2008-10-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Helminth parasites of freshwater fish from Central America</title>
+        <abstract locale="en_US">This study is a compilation of current knowledge of the taxonomic composition and distribution of the helminth parasites of freshwater fish in Central America. A list of 111 adult helminth species up to day reported from 17 freshwater fish families from Central America was compiled. The data show a helminth parasite fauna in freshwater fish that is typical to the region. One hundred and two of the known helminth species are endemic to the area, 32 of which can be derived from South American genera. Nematodes were the most abundant group, followed by monogeneans and trematodes. None of the 29 helminth families recorded to date is exclusive to Central America, while 16 of the 65 recorded genera have been only recorded from this area. Twenty three of these genera are South American lineages. The data suggest that helminth parasites of freshwater fish from Central America constitute a recent fauna derived mainly from South America but not found there.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasites; helminths; checklist; freshwater fishes; Central America; zoogeography; Platyhelminthes; Trematoda; Monogenea; Cestoda; Nematoda; Acanthocephala; Cichlidae; Poeciliidae; Characidae; Heptapteridae; cichlids; poeciliids endemism.</subject>
+          <subject_class locale="en_US">parasites; helminths; checklist; freshwater fishes; Central America; zoogeography; Platyhelminthes; Trematoda; Monogenea; Cestoda; Nematoda; Acanthocephala; Cichlidae; Poeciliidae; Characidae; Heptapteridae; cichlids; poeciliids endemism.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guillermo</firstname>
+          <lastname>Salgado-Maldonado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-53</pages>
+        <date_published>2008-10-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ami, &lt;/i&gt;a new Theraphosid genus from Central and South America, with the description of six new species (Araneae: Mygalomorphae)</title>
+        <abstract locale="en_US">A new genus &lt;i&gt;Ami&lt;/i&gt; Pérez-Miles is proposed for six new species: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;caxiuana&lt;/i&gt; Pérez-Miles, Miglio &amp; Bonaldo, from Caxiuanã National Forest, Pará, Brasil, the type species; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;yupanquii&lt;/i&gt; Pérez-Miles, Gabriel &amp; Gallon, from the area of Puyo, Equador; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bladesi&lt;/i&gt; Pérez-Miles, Gabriel &amp; Gallon, from Isla Colón, Panamá; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pijaos&lt;/i&gt; Jimenez &amp; Bertani, from Ibagué, Tolima, Colombia; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;amazonica&lt;/i&gt; Jimenez &amp; Bertani, from Leticia, Amazonas, Colombia; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;weinmanni&lt;/i&gt; PérezMiles, from La Azulita, Apure, Venezuela. &lt;i&gt;Avicularia&lt;/i&gt; &lt;i&gt;obscura&lt;/i&gt; (Ausserer 1875) is transferred to &lt;i&gt;Ami&lt;/i&gt; and re-diagnosed. Diagnostic characters of &lt;i&gt;Ami&lt;/i&gt; are the modification of Type I urticating hairs, with unusually longer area b, and one or two subconical processes on retrolateral face of male palpal tibiae. Females of &lt;i&gt;Ami&lt;/i&gt; differ further from those of other theraphosid genera by their highly characteristic spermathecae: paired ventral receptacles attached to an almost discrete, semicircular, sclerotized back-plate.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tarantula; spider; Neotropics; systematics; urticating hairs</subject>
+          <subject_class locale="en_US">Tarantula</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <lastname>Pérez-Miles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ray</firstname>
+          <lastname>Gabriel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laura</firstname>
+          <lastname>Miglio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <lastname>Bonaldo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <lastname>Gallon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>Jacobo</middlename>
+          <lastname>Jimenez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rogerio</firstname>
+          <lastname>Bertani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2008-10-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

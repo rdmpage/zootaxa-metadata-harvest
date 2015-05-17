@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1698.1</id>
+    <title locale="en_US">5 Feb. 2008</title>
+    <volume>1698</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogeny and revision of Diplectanidae Monticelli, 1903 (Platyhelminthes: Monogenoidea)</title>
+        <abstract locale="en_US">A hypothesis on the phylogenetic relationships of diplectanid genera is proposed based on 36 morphological characters using cladistic methods. The analysis supports two subfamilies, Diplectaninae Monticelli, 1903 and Lamellodiscinae Oliver, 1969, and the proposal of two new subfamilies: Nasobranchitrematinae &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;subfam.,&lt;/b&gt; monotypic, composed by &lt;i&gt;Nasobranchitrema&lt;/i&gt; Yamaguti, 1965; and Pseudomurraytrematoidinae &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;subfam.&lt;/b&gt; comprising &lt;i&gt;Pseudomurraytrematoides&lt;/i&gt; &lt;b&gt;n.gen.&lt;/b&gt; &lt;i&gt;Murraytrematoides&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; (Caballero, Bravo-Hollis &amp; Grocott, 1955) is transferred to &lt;i&gt;Pseudomurraytrematoides&lt;/i&gt; as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; comb. n. Lamellodiscinae is supported by two synapomorphies and comprises &lt;i&gt;Calydiscoides,&lt;/i&gt; &lt;i&gt;Protolamellodiscus,&lt;/i&gt; &lt;i&gt;Lamellodiscus,&lt;/i&gt; &lt;i&gt;Telegamatrix&lt;/i&gt; and &lt;i&gt;Furnestinia.&lt;/i&gt; The analysis indicates that &lt;i&gt;Lamellodiscus&lt;/i&gt; is polyphyletic. Diplectaninae comprises &lt;i&gt;Paradiplectanum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;i&gt;Rhabdosynochus,&lt;/i&gt; &lt;i&gt;Pseudodiplectanum,&lt;/i&gt; &lt;i&gt;Monoplectanum,&lt;/i&gt; &lt;i&gt;Latericaecum,&lt;/i&gt; &lt;i&gt;Pseudolamellodiscus,&lt;/i&gt; &lt;i&gt;Acleotrema,&lt;/i&gt; &lt;i&gt;Diplectanum,&lt;/i&gt; &lt;i&gt;Lobotrema,&lt;/i&gt; &lt;i&gt;Murraytrema,&lt;/i&gt; &lt;i&gt;Lepidotrema,&lt;/i&gt; &lt;i&gt;Spinomatrix,&lt;/i&gt; &lt;i&gt;Rhamnocercus,&lt;/i&gt; &lt;i&gt;Rhamnocercoides,&lt;/i&gt; &lt;i&gt;Oliveriplectanum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;i&gt;Murraytrematoides,&lt;/i&gt; &lt;i&gt;Anoplectanum,&lt;/i&gt; &lt;i&gt;Laticola,&lt;/i&gt; &lt;i&gt;Pseudorhabdosynochus&lt;/i&gt; and &lt;i&gt;Echinoplectanum.&lt;/i&gt; Rhabdosynochinae Oliver, 1987; Rhamnocercinae Monaco, Wood &amp; Mizelle, 1954; and Murraytrematoidinae Oliver, 1982 are considered junior synonyms of Diplectaninae. &lt;i&gt;Diplectanum&lt;/i&gt; is restricted to species that present (1) male copulatory organ with nested tubes; (2) accessory copulatory organ; (3) prostatic reservoir separated into three zones; (4) ventral and dorsal squamodiscs. Based on the analysis, &lt;i&gt;Cornutohaptor&lt;/i&gt; Mendonza-Franco, Violante-González &amp; Vidal-Martinez, 2006 is a junior synonym of &lt;i&gt;Rhabdosynochus&lt;/i&gt; Mizelle &amp; Blatz, 1941. &lt;i&gt;Diplectanum&lt;/i&gt; &lt;i&gt;cazauxi&lt;/i&gt; Oliver &amp; Paperna, 1984 is transferred to &lt;i&gt;Latericaecum&lt;/i&gt; as &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;cazauxi&lt;/i&gt; (Oliver &amp; Paperna, 1984) comb. n. &lt;i&gt;Diplectanocotyla,&lt;/i&gt; Lamellodiscinae and Diplectaninae are considered &lt;i&gt;sedis&lt;/i&gt; &lt;i&gt;mutabilis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Monogenoidea; Diplectanidae; taxonomy; phylogeny</subject>
+          <subject_class locale="en_US">Monogenoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcus</firstname>
+          <middlename>V.</middlename>
+          <lastname>Domingues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Walter</firstname>
+          <middlename>A.</middlename>
+          <lastname>Boeger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of eriophyoid mites (Acari: Eriophyoidea) associated with Elaeagnaceae in Turkey</title>
+        <abstract locale="en_US">Turkish populations of eriophyid mites infesting Elaeagnaceae were examined. Two new species are described and illustrated: &lt;i&gt;Anthocoptes&lt;/i&gt; &lt;i&gt;cellatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; was collected on &lt;i&gt;Hippophae&lt;/i&gt; &lt;i&gt;rhamnoides&lt;/i&gt; L. (seaberry), and &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;angustifoliae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; was found on &lt;i&gt;Elaeagnus&lt;/i&gt; &lt;i&gt;angustifolia&lt;/i&gt; L. (Russian olive). A remark on mite mounting was made.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eriophyidae; genus re-assignment; Prostigmata; slide mounting; taxonomy; vagrants; weeds</subject>
+          <subject_class locale="en_US">Eriophyidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Evsel</firstname>
+          <lastname>Denizhan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rosita</firstname>
+          <lastname>Monfreda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enrico</firstname>
+          <lastname>De Lillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sultan</firstname>
+          <lastname>Cobanoglu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-48</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Until dirt do us apart: On the unremarkable palp morphology of the spider &lt;i&gt;Sternospina concretipalpis&lt;/i&gt; Schmidt &amp; Krause, 1993, with comments on the genus &lt;i&gt;Prionolaema&lt;/i&gt; Simon, 1894 (Araneae, Tetragnathidae)</title>
+        <abstract locale="en_US">Examination of the holotype of the tetragnathid spider &lt;i&gt;Sternospina&lt;/i&gt; &lt;i&gt;concretipalpis&lt;/i&gt; Schmidt &amp; Krause, 1993 demonstrates that the extraordinary claim by the authors of the original description of this species that the male palps are fused is unfounded. The monotypic genus &lt;i&gt;Sternospina&lt;/i&gt; Schmidt &amp; Krause, 1993 is a junior synonym of &lt;i&gt;Tylorida&lt;/i&gt; Simon, 1894 and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;concretipalpis&lt;/i&gt; is a junior synonym of the common species &lt;i&gt;Tylorida&lt;/i&gt; &lt;i&gt;striata&lt;/i&gt; (Thorell, 1877). The genus &lt;i&gt;Prionolaema&lt;/i&gt; Simon, 1894 is a junior synonym of &lt;i&gt;Tetragnatha&lt;/i&gt; Latreille, 1804, resulting in two new combinations, &lt;i&gt;Tetragnatha&lt;/i&gt; &lt;i&gt;aetherea&lt;/i&gt; (Simon, 1894) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (Bryant, 1923). &lt;i&gt;Tetragnatha&lt;/i&gt; &lt;i&gt;earmra&lt;/i&gt; Levi, 1981 is a junior synonym of &lt;i&gt;Tetragnatha&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (Bryant, 1923).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">spiders; Tetragnathidae; systematics; Antigua; Comoros Islands</subject>
+          <subject_class locale="en_US">spiders</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dimitar</firstname>
+          <lastname>Dimitrov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Alvarez-Padilla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <lastname>Hormiga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-56</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new ricinuleid of the genus &lt;i&gt;Ricinoides &lt;/i&gt;Ewing (Arachnida, Ricinulei) from Ghana</title>
+        <abstract locale="en_US">A new species of ricinuleid, &lt;i&gt;Ricinoides&lt;/i&gt; &lt;i&gt;atewa&lt;/i&gt; n. sp., is described from the Eastern Region of Ghana. This species is the largest known extant ricinuleid. It is associated with undisturbed, closed canopy, mid-elevation evergreen forests. Comparative illustrations are provided for the related species &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;afzelii&lt;/i&gt; (Thorell, 1892).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ricinulei; &lt;i&gt;Ricinoides&lt;/i&gt;; Upland Evergreen Forest; Ghana</subject>
+          <subject_class locale="en_US">Ricinulei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Piotr</firstname>
+          <lastname>Naskrecki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-64</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of &lt;i&gt;Harpactea sadistica&lt;/i&gt; n. sp. (Araneae: Dysderidae) - a haplogyne spider with reduced female genitalia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Milan</firstname>
+          <lastname>Rezac</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

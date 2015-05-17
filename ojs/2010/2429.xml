@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2429.1</id>
+    <title locale="en_US">19 Apr. 2010</title>
+    <volume>2429</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-04-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogenetic systematics of day geckos, genus &lt;i&gt;Phelsuma, &lt;/i&gt;based on molecular and morphological data (Squamata: Gekkonidae)</title>
+        <abstract locale="en_US">We review the intrageneric systematics of day geckos, genus &lt;i&gt;Phelsuma&lt;/i&gt; (Squamata: Sauria: Gekkonidae) in the light of a recently published multigene phylogeny, and provide an overview of 19 selected chromatic, morphological and behavioural characters for all currently recognized species and subspecies in the genus. To replace previous attempts of dividing the genus into phenetic species assemblages, we propose the following monophyletic species groups and summarize the morphological characters that partly support this grouping: &lt;i&gt;Phelsuma&lt;/i&gt; &lt;i&gt;barbouri&lt;/i&gt; group (P. &lt;i&gt;barbouri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pronki);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dubia&lt;/i&gt; group (P. &lt;i&gt;berghofi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dubia,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavigularis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hielscheri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;malamakibo,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;modesta,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigristriata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ravenala);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mutabilis&lt;/i&gt; group (P. &lt;i&gt;borai,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;breviceps,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mutabilis);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cepediana&lt;/i&gt; group (P. &lt;i&gt;borbonica,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cepediana,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guentheri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guimbeaui,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;inexpectata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ornata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rosagularis&lt;/i&gt; as well as the extinct species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;edwardnewtonii&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gigas);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;astriata&lt;/i&gt; group (P. &lt;i&gt;astriata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sundbergi);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;madagascariensis&lt;/i&gt; group (P. &lt;i&gt;abbotti,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;grandis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guttata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kochi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;madagascariensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;parkeri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;seippi&lt;/i&gt; and probably &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;masohoala);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lineata&lt;/i&gt; group (P. &lt;i&gt;antanosy,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;comorensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kely,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lineata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pusilla,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;quadriocellata&lt;/i&gt; and probably &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hoeschi);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;laticauda&lt;/i&gt; group (P. &lt;i&gt;laticauda,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pasteuri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;robertmertensi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;v-nigra);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;klemmeri&lt;/i&gt; group (P. &lt;i&gt;klemmeri);&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;andamanense&lt;/i&gt; group (P. &lt;i&gt;andamanense)&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;standingi&lt;/i&gt; group (P. &lt;i&gt;standingi).&lt;/i&gt; Due to their equivocal placements based on different molecular markers, we refrain from assigning &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;serraticauda&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vanheygeni&lt;/i&gt; to any of these species groups at this time. We complement the molecular data with new trees based on partial sequences of the 16S rRNA gene for the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;madagascariensis-&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lineata&lt;/i&gt; groups and propose to elevate &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lineata&lt;/i&gt; &lt;i&gt;dorsivittata&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;quadriocellata&lt;/i&gt; &lt;i&gt;parva&lt;/i&gt; to full species rank as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dorsivittata&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;parva.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata: Gekkonidae: &lt;i&gt;Phelsuma&lt;/i&gt;; &lt;i&gt;Phelsuma&lt;/i&gt; &lt;i&gt;parva&lt;/i&gt;; &lt;i&gt;Phelsuma&lt;/i&gt; &lt;i&gt;dorsivittata;&lt;/i&gt; Andamans; Comoros; Madagascar; Mascarenes; Seychelles; species groups</subject>
+          <subject_class locale="en_US">Squamata: Gekkonidae: &lt;i&gt;Phelsuma&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sara</firstname>
+          <lastname>Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Herbert</firstname>
+          <lastname>Rösler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philip-Sebastian</firstname>
+          <lastname>Gehring</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Posada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>James</middlename>
+          <lastname>Harris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2010-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of cichlid fish genus &lt;i&gt;Geophagus &lt;/i&gt;Heckel from the Rio Tocantins drainage (Perciformes: Cichlidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Geophagus&lt;/i&gt; &lt;i&gt;sveni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;neambi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are described from the Rio Tocantins drainage of Brazil. &lt;i&gt;Geophagus&lt;/i&gt; &lt;i&gt;sveni&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;neambi&lt;/i&gt; differ from some of its congeners by the lack of head markings. &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sveni&lt;/i&gt; is distinguished from the species lacking head markings by the presence of five faint undivided vertical bars, proeminent mid-lateral blotch, and by the caudal fin vertically clear and black barred; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;neambi&lt;/i&gt; differs from the species lacking head markings by the possession of eight or nine vertical, parallel bars along the flank, the bar containing mid-lateral spot bifurcate above and below midlateral blotch and by the caudal fin bearing rounded white spots. &lt;i&gt;Geophagus&lt;/i&gt; &lt;i&gt;sveni&lt;/i&gt; differs from the sympatric and syntopic &lt;i&gt;Geophagus&lt;/i&gt; &lt;i&gt;neambi&lt;/i&gt; by the presence of five faint vertically bars (vs. eight or nine conspicuous dorso-ventral bifurcated vertically bars).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cichlids; Taxonomy; South America; Neotropical Region</subject>
+          <subject_class locale="en_US">Cichlids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <middlename>H. F.</middlename>
+          <lastname>Lucinda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>A. S.</middlename>
+          <lastname>Lucena</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Newton</firstname>
+          <middlename>C.</middlename>
+          <lastname>Assis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-42</pages>
+        <date_published>2010-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Dinonemertes shinkaii &lt;/i&gt;sp. nov., (Nemertea: Hoplonemertea: Polystilifera: Pelagica) a new species of bathypelagic nemertean</title>
+        <abstract locale="en_US">A new species of bathypelagic polystiliferous nemertean &lt;i&gt;Dinonemertes&lt;/i&gt; &lt;i&gt;shinkaii&lt;/i&gt; is described based on the holotype obtained by the manned submersible &lt;i&gt;Shinkai&lt;/i&gt; &lt;i&gt;6500&lt;/i&gt; from a depth of 2343 m in Japan Trench, Northwest Pacific. &lt;i&gt;Dinonemertes&lt;/i&gt; &lt;i&gt;shinkaii&lt;/i&gt; can be distinguished from its congeners in having a translucent body, 24 proboscis nerves, two pairs of intestinal caecal diverticula, and about 25 pairs of intestinal lateral diverticula. This species represents the first dinonemertid to have pseudostriated muscle fibres in the rhynchocoel circular muscle layers.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pacific; Japan Trench; plankton; manned submersible &lt;i&gt;Shinkai&lt;/i&gt; &lt;i&gt;6500&lt;/i&gt;; taxonomy; striated muscle</subject>
+          <subject_class locale="en_US">Pacific</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroshi</firstname>
+          <lastname>Kajihara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dhugal</firstname>
+          <middlename>J.</middlename>
+          <lastname>Lindsay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-51</pages>
+        <date_published>2010-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new water mites species (Acariformes: Hydrachnidia) from interstitial waters of the Russian Far East</title>
+        <abstract locale="en_US">Illustrated descriptions of two water mite species, &lt;i&gt;Amerothyasella&lt;/i&gt; &lt;i&gt;tiunovae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Uchidastygacarus&lt;/i&gt; &lt;i&gt;primoryensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from interstitial waters of the Russian Far East are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; Thyadidae; &lt;i&gt;Amerothyasella&lt;/i&gt;; Chappuisididae; &lt;i&gt;Uchidastygacarus&lt;/i&gt;; new species; interstitial waters; Far East of Russia</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ksenia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Semenchenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-60</pages>
+        <date_published>2010-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of mud shrimp of the genus &lt;i&gt;Espeleonaushonia &lt;/i&gt;Juarrero &amp; Martínez-Iglesias, 1997 (Decapoda: Gebiidea: Laomediidae) from Palau</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Espeleonaushonia&lt;/i&gt; is described from a single specimen collected in an underwater cave in Babeldaob Island, Republic of Palau. The new species is placed in &lt;i&gt;Espeleonaushonia&lt;/i&gt; based on the following characters: exopod of third maxilliped well developed, propodus of first pereopod with spines on dorsal surface and along mesial and lateral margins; second pereopod not chelate with dactylus densely setose, fifth pereopod with simple dactylus, fourth to sixth abdominal pleura with serrate ventrodistal angle, and both rami of uropods completely divided. The description of this new species represents the first report of the genus from the tropical southwest Pacific.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Espeleonaushonia&lt;/i&gt;; &lt;i&gt;Naushonia&lt;/i&gt;; new species; Laomediidae; Palau</subject>
+          <subject_class locale="en_US">&lt;i&gt;Espeleonaushonia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <lastname>Alvarez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Villalobos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>M.</middlename>
+          <lastname>Iliffe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-04-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

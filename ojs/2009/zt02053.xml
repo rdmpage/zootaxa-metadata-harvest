@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2053.1</id>
+    <title locale="en_US">25 Mar. 2009</title>
+    <volume>2053</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of Chinese &lt;i&gt;Pupinidius &lt;/i&gt;Moellendorff (Gastropoda, Stylommatophora: Enidae), with the description of a new species</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Pupinidius&lt;/i&gt; Moellendorff, 1901 is reviewed based on the examination of the majority of Chinese species. Fourteen out of sixteen known species and subspecies are re-described, most conchologically and some with details of the internal anatomy. &lt;i&gt;Pupinidius&lt;/i&gt; &lt;i&gt;latilabrum&lt;/i&gt; (Annandale, 1923), once regarded as a synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gregorii,&lt;/i&gt; is reestablished. An additional species, &lt;i&gt;Pupinidius&lt;/i&gt; &lt;i&gt;wenxian&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from South Gansu, West China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Enidae; &lt;i&gt;Pupinidius&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Enidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Min</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wei</firstname>
+          <lastname>Zheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2009-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Myuchelys &lt;/i&gt;gen. nov. a new genus for &lt;i&gt;Elseya latisternum &lt;/i&gt;and related forms of Australian freshwater turtle (Testudines: Pleurodira: Chelidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Myuchelys,&lt;/i&gt; a new genus, is erected for a well supported clade of Australasian freshwater turtles; its establishment resolves an unacceptable paraphyly in relationships among species of the genus &lt;i&gt;Elseya.&lt;/i&gt; Molecular and morphological evidence indicates that the closest relationship of the new genus is with &lt;i&gt;Emydura,&lt;/i&gt; not the redefined &lt;i&gt;Elseya.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phylogeny; paraphyly; side-necked turtle; sawshelled turtle</subject>
+          <subject_class locale="en_US">Phylogeny; paraphyly; side-necked turtle; sawshelled turtle</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Scott</firstname>
+          <lastname>Thomson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arthur</firstname>
+          <lastname>Georges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-42</pages>
+        <date_published>2009-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Manunema &lt;/i&gt;(Plectida: Peresianidae) from the Arabian Gulf, with notes on the phylogeny of the genus</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Manunema&lt;/i&gt; are described from the coast of Kuwait, one from the intertidal in Kuwait Bay and one found at shallow subtidal sites in the Arabian Gulf. Like other species of &lt;i&gt;Manunema,&lt;/i&gt; the two species described here are characterised by coarse striation of the cuticle; a tapered, trunk-like cervical region; a large, elongate oesophageal bulb and corresponding swelling of the body; absence of cervical setae; pedunculate somatic setae; paired outstretched ovaries in females, tubular precloacal supplements in males and a pair of simple, curved spicules in males. &lt;i&gt;Manunema&lt;/i&gt; &lt;i&gt;kithara&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from other species in the genus by its characteristic, elongate, double oesophageal bulb which resembles a guitar in shape, being broader in the posterior half, and by the shape and form of the two precloacal supplements in the males. &lt;i&gt;Manunema&lt;/i&gt; &lt;i&gt;kuwaitiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is similar to both &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;proboscidis&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;annulata&lt;/i&gt; in having a weakly double oesophageal bulb, but differs in the morphology and position of the single precloacal supplement in males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematoda; Peresianidae; &lt;i&gt;Manunema&lt;/i&gt;; Kuwait; intertidal; subtidal; sand; mud; benthic; Persian Gulf</subject>
+          <subject_class locale="en_US">Nematoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Natalie</firstname>
+          <lastname>Barnes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Timothy</firstname>
+          <middlename>John</middlename>
+          <lastname>Ferrero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-58</pages>
+        <date_published>2009-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and new species of symbiotic crab (Crustacea: Brachyura: Pinnotheroidea) from Okinawa, Japan</title>
+        <abstract locale="en_US">A new genus and new species of symbiotic pinnotheroid crab is described from Oura Bay, Okinawa, Japan. The new genus is superficially similar to the pinnotherine &lt;i&gt;Sakaina&lt;/i&gt; and several pinnothereliine genera (Pinnotheridae), but shares key diagnostic characters (third maxillipeds, orbits, ambulatory legs, male abdomen, telson and male first gonopod) with &lt;i&gt;Aphanodactlyus&lt;/i&gt; and &lt;i&gt;Gandoa.&lt;/i&gt; Together with &lt;i&gt;Aphanodactlyus&lt;/i&gt; and &lt;i&gt;Gandoa,&lt;/i&gt; the new genus is tentatively placed in the Pinnotheridae &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; Pinnotheridae; Pinnotheroidea; new genus; new species; taxonomy; Okinawa Island; Japan</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshihisa</firstname>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-03-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

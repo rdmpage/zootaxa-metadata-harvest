@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2670.1</id>
+    <title locale="en_US">8 Nov. 2010</title>
+    <volume>2670</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Pachyprotasis indica &lt;/i&gt;group (Hymenoptera: Tenthredinidae) in China with descriptions of eight new species</title>
+        <abstract locale="en_US">The &lt;i&gt;Pachyprotasis&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; group is revised from China and a key is provided for all species associated with this group. Eight new species are described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rufigaster&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Yunnan), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fulvicornis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hunan), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;jiangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hubei), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;paraspinilabria&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sichuan), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rufotegulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sichuan), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spinilabria&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hubei), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;youi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Guizhou), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;zhouhui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Yunnan).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Tenthredinidae; &lt;i&gt;Pachyprotasis&lt;/i&gt;; &lt;i&gt;indica&lt;/i&gt; group; new species; China</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yihai</firstname>
+          <lastname>Zhong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Meicai</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the Australian metallic-green tomato fly, &lt;i&gt;Lamprolonchaea brouniana &lt;/i&gt;(Bezzi) (Diptera: Lonchaeidae), with notes on the Australian &lt;i&gt;Lamprolonchaea &lt;/i&gt;fauna</title>
+        <abstract locale="en_US">The twenty-four species of Lonchaeidae (lance flies) known from Australia commonly breed in a wide variety of organic matter, including fruit and vegetables. The metallic-green tomato fly (Lamprolonchaea &lt;i&gt;brouniana)&lt;/i&gt; is the best known species, being an agricultural pest. However its common name is also applied to other similar bright metallic goldengreen lance flies. Australian lance flies are generally relatively poorly understood taxonomically, with few species descriptions including (1) both male and female adults, (2) detailed descriptions of larval diagnostic morphological characters, and (3) molecular characterisation of the barcoding COI mitochondrial DNA region (no lance flies having been sequenced to date). The latter two could provide valuable tools to assist in identifying this species from larvae found in food produce, the most common life stage encountered, which are currently sometimes confused with economically important tephritid fruit fly larvae. In the current study we redescribe the morphological characteristics of adults, larvae and pupae as well as characterise the COI gene from the most common Australian lonchaeid fruit pest, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;brouniana,&lt;/i&gt; to enable an accurate species diagnosis. We provide a key to known Australian &lt;i&gt;Lamprolonchaea&lt;/i&gt; species, and clarify the taxonomy of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;brouniana,&lt;/i&gt; including designating type material. This species appears to be restricted to Australia, and has been most commonly collected from the temperate south. Life history characteristics, including the timing of occurrence and host plant use, were also examined. Over the last decade south-eastern Australian larval samples were found over the warmer summer and autumn months from various fruit, most often (&gt;70%) from tomato fruit, and not normally in association with other serious primary pests, such as Queensland Fruit Fly (Bactrocera &lt;i&gt;tryoni).&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera: Lonchaeidae; Australia; pest of fruit; larval morphology; DNA barcoding; metallic-green tomato fly</subject>
+          <subject_class locale="en_US">Diptera: Lonchaeidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mark</firstname>
+          <middlename>J.</middlename>
+          <lastname>Blacket</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mallik</firstname>
+          <middlename>B.</middlename>
+          <lastname>Malipatil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-51</pages>
+        <date_published>2010-11-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new termite (Isoptera: Termitidae: Termitinae: &lt;i&gt;Proboscitermes&lt;/i&gt;) from Tanzania</title>
+        <abstract locale="en_US">A new species of termite, &lt;i&gt;Proboscitermes&lt;/i&gt; &lt;i&gt;mcgrewi&lt;/i&gt; Scheffrahn, is described from soldiers, workers, and a physogastric queen collected along the northeastern shore of Lake Tanganyika. The new species differs from all other mandibulate termite soldiers in having a relatively large proportion of head capsule volume anterior to the mandibular articulations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isoptera; Termitidae; Termitinae; &lt;i&gt;Proboscitermes&lt;/i&gt; &lt;i&gt;mcgrewi&lt;/i&gt;; Ethiopian Region; Tanzania; Lake Tanganyika; new species; taxonomy</subject>
+          <subject_class locale="en_US">Isoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rudolf</firstname>
+          <middlename>H.</middlename>
+          <lastname>Scheffrahn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>C.</middlename>
+          <lastname>O’Malley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-58</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the &lt;i&gt;Oulimnius tuberculatus &lt;/i&gt;species group (Coleoptera: Elmidae) based on molecular and morphological data</title>
+        <abstract locale="en_US">Two mitochondrial (cytochrome oxidase subunit I, 16S RNA) and one nuclear (18S RNA) gene fragments were used to analyse relationships within the &lt;i&gt;Oulimnius&lt;/i&gt; &lt;i&gt;tuberculatus&lt;/i&gt; species group. The results of molecular data analysis are compared with morphological characters, and the distributional patterns and taxonomic status of recognized taxa are addressed. Based on molecular data, &lt;i&gt;Oulimnius&lt;/i&gt; &lt;i&gt;perezi&lt;/i&gt; is re-validated as a distinct species, and the discovery of a possible new species from northwest Italy is reported. The possible origins and times of speciation within the species group are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">phylogeny; DNA; Elmidae; &lt;i&gt;Oulimnius&lt;/i&gt;; distribution; Palaearctic</subject>
+          <subject_class locale="en_US">phylogeny</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fedor</firstname>
+          <lastname>Čiampor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ján</firstname>
+          <lastname>Kodada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

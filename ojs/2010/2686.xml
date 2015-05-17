@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2686.1</id>
+    <title locale="en_US">24 Nov. 2010</title>
+    <volume>2686</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Renda &lt;/i&gt;Blackwelder, 1952 (Coleoptera: Staphylinidae: Xantholinini)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Renda&lt;/i&gt; Blackwelder, 1952 is revised and redescribed. Thirteen previously described species of &lt;i&gt;Renda&lt;/i&gt; are redescribed and twenty-one species are described as new. &lt;i&gt;Renda&lt;/i&gt; &lt;i&gt;funebris&lt;/i&gt; (Sharp, 1876) is proposed as a junior synonym of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;flagellicornis&lt;/i&gt; (Nordmann, 1837), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;pubescens&lt;/i&gt; (Nordmann, 1837) as a junior synonym of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;formicaria&lt;/i&gt; (Laporte, 1835), and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;dalmasi&lt;/i&gt; (Fauvel, 1901) as a junior synonym of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; Sharp, 1876. A key to the species of &lt;i&gt;Renda&lt;/i&gt; is provided and diagnostic characters are illustrated. A generic key for a group of genera consisting of &lt;i&gt;Renda,&lt;/i&gt; &lt;i&gt;Agrodes&lt;/i&gt; and &lt;i&gt;Plochionocerus&lt;/i&gt; is also included. A phylogenetic analysis was performed to analyze the relationships among &lt;i&gt;Renda&lt;/i&gt; species, based on the study of 416 specimens belonging to 31 species. The strict consensus tree supports the monophyly of the genus, but species relationships within &lt;i&gt;Renda&lt;/i&gt; are poorly resolved, with only two species groups recovered as monophyletic clades.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Staphylinidae; cladistic analysis; taxonomy; Neotropics</subject>
+          <subject_class locale="en_US">Staphylinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <lastname>Márquez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2010-11-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

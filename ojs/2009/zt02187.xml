@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2187.1</id>
+    <title locale="en_US">6 Aug. 2009</title>
+    <volume>2187</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Insects found in birds nests from the Neotropical Region (except Argentina) and immigrant species of Neotropical origin in the Nearctic Region</title>
+        <abstract locale="en_US">Neotropical birds’ nests have received a great deal of attention because sylvatic species of Triatominae (Hemiptera: Reduviidae) and parasitic flies of the genus &lt;i&gt;Philornis&lt;/i&gt; (Diptera: Muscidae) were discovered inside them. Those insects known in birds’ nests from Argentina, the chacoan region of Bolivia, and the southern portion of Brazil and Uruguay were extensively but not completely summarized by Turienzo &amp; Di Iorio (2007). The present contribution summarizes all insects known to occur in birds’ nests from the Neotropical Region (except for Argentina and the Antarctic Region of adjacent countries), updating Hicks’ catalogues for this part of the world. Regarding birds, the list comprises 172 taxa identified to species (in 38 families), 8 to genus (in 6 families), 6 to family (in 4 families), and 27 birds´nests not identified. Regarding insects of the Neotropical region, 123 were identified to species (13 Blattaria; 5 Coleoptera; 26 Diptera; 34 Hemiptera; 15 Hymenoptera; 23 Psocoptera; 6 Siphonaptera; 1 Thysanura), 96 to genus (5 Blattaria; 8 Coleoptera; 48 Diptera; 4 Hemiptera; 6 Hymenoptera; 25 Psocoptera), 63 to superfamily, family or subfamily (1 Blattaria; 21 Coleoptera; 10 Diptera; 7 Hemiptera; 14 Hymenoptera; 1 Isoptera; 3 Orthoptera; 5 Psocoptera; 1 Thysanoptera), and 34 to order (6 Blattaria [including 1 Mantodea]; 6 Coleoptera; 3 Diptera; 3 Embioptera; 2 Hemiptera; 3 Hymenoptera; 1 Thysanoptera; 2 Isoptera; 4 Lepidoptera; 1 Orthoptera; 1 Phthiraptera; 2 Psocoptera). Associations of Neotropical insects with birds´nests were extracted from 392 references including original and posterior citations. Some North American species of insects that are neotropical immigrants are discussed, while a few other had been accidentally introduced in both directions. Synonymies, old combinations, misidentifications, original localities, amounts of insects, and repositories when they were stated, are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insects; birds´nests; Neotropical Region; immigrants; Nearctic Region</subject>
+          <subject_class locale="en_US">Insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Osvaldo</firstname>
+          <middlename>Di</middlename>
+          <lastname>Iorio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paola</firstname>
+          <lastname>Turienzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-144</pages>
+        <date_published>2009-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

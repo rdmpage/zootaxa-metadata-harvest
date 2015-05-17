@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2285.1</id>
+    <title locale="en_US">9 Nov. 2009</title>
+    <volume>2285</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of species names combined with the genus name &lt;i&gt;Coccus &lt;/i&gt;Linnaeus (Hemiptera: Sternorrhyncha: Coccoidea) </title>
+        <abstract locale="en_US">Scale insect names combined with the genus name &lt;i&gt;Coccus&lt;/i&gt; Linnaeus, number almost 550. These names are listed and annotated after searching the relevant taxonomic and economic literature published since 1758. Where possible, we give the current status for each name and discuss names of species that we regard as unrecognisable. We transfer &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;stipulaeformis&lt;/i&gt; Haworth to the genus &lt;i&gt;Ceroplastes&lt;/i&gt; as &lt;i&gt;Ceroplastes&lt;/i&gt; &lt;i&gt;stipulaeformis&lt;/i&gt; (Haworth) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and we also synonymise &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;alchemillae&lt;/i&gt; Walker with &lt;i&gt;Porphyrophora&lt;/i&gt; &lt;i&gt;polonica&lt;/i&gt; (Linnaeus) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;conchiformis&lt;/i&gt; Gmelin with &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;conchiformis&lt;/i&gt; Goeze &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;clematitis&lt;/i&gt; Goeze with &lt;i&gt;Parthenolecanium&lt;/i&gt; &lt;i&gt;persicae&lt;/i&gt; &lt;i&gt;persicae&lt;/i&gt; (Fabricius) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;mespili&lt;/i&gt; Goeze with &lt;i&gt;Pulvinaria&lt;/i&gt; &lt;i&gt;vitis&lt;/i&gt; (Linnaeus) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;arbuti&lt;/i&gt; Turton with &lt;i&gt;Eriococcus&lt;/i&gt; &lt;i&gt;uvaeursi&lt;/i&gt; (Linnaeus) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;Coccus&lt;/i&gt; &lt;i&gt;cacti&lt;/i&gt; v. &lt;i&gt;silvestris&lt;/i&gt; Meunier with &lt;i&gt;Dactylopius&lt;/i&gt; &lt;i&gt;tomentosus&lt;/i&gt; (Lamarck) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n..&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; scale insects; Coccoidea; names; &lt;i&gt;Coccus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Douglas</firstname>
+          <middlename>J.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yair</firstname>
+          <lastname>Ben-Dov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2009-11-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

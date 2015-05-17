@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1763.1</id>
+    <title locale="en_US">5 May. 2008</title>
+    <volume>1763</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Heliothinae of Iran (Lepidoptera: Noctuidae)</title>
+        <abstract locale="en_US">The data on specific diversity, taxonomy, phenology and distribution of the noctuid moths of the subfamily Heliothinae in Iran are reviewed. The fauna of Heliothinae in Iran consists of 19 species belonging to 8 genera. A systematic list of Iranian Heliothinae is presented. The following information is provided for each species: scientific name, citation of the original description, type locality, references for Iran, bionomics, general distribution, distribution in Iran and list of material examined. Each species is illustrated with colour photographs of imago and male and female genitalia. Some observations from a numerical analysis of biogeographic patterns are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Noctuidae; Heliothinae; systematic list; distribution; biogeography; Iran</subject>
+          <subject_class locale="en_US">Noctuidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexej</firstname>
+          <lastname>Matov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reza</firstname>
+          <lastname>Zahiri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeremy</firstname>
+          <middlename>D.</middlename>
+          <lastname>Holloway</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2008-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Orthocladius paratatricus&lt;/i&gt; Chernovskii, 1949 a synonym of &lt;i&gt;Heterotrissocladius subpilosus&lt;/i&gt; (Kieffer, 1911)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Przhiboro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-40</pages>
+        <date_published>2008-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Ochrotrichia&lt;/i&gt; Mosely (Trichoptera: Hydroptilidae) in Costa Rica, with the description of four new species</title>
+        <abstract locale="en_US">Four new species of the genus &lt;i&gt;Ochrotrichia&lt;/i&gt; Mosely, are described from Costa Rica and the male genitalia figured (Ochrotrichia &lt;i&gt;avicula&lt;/i&gt; new species, &lt;i&gt;Ochrotrichia&lt;/i&gt; &lt;i&gt;conformalis&lt;/i&gt; new species, &lt;i&gt;Ochrotrichia&lt;/i&gt; &lt;i&gt;jolandae&lt;/i&gt; new species, and &lt;i&gt;Ochrotrichia&lt;/i&gt; &lt;i&gt;quasi&lt;/i&gt; new species). Twenty-five species are recorded from Costa Rica, 8 for the first time [O. &lt;i&gt;aldama&lt;/i&gt; (Mosely), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;arranca&lt;/i&gt; (Mosely), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;assita&lt;/i&gt; Bueno-Soria &amp; Holzenthal, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;caimita&lt;/i&gt; Flint, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;glabra&lt;/i&gt; Bueno-Soria &amp; Santiago-Fragoso, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;hondurenia&lt;/i&gt; Bueno-Soria &amp; Santiago-Fragoso, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;panamensis&lt;/i&gt; Flint, and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tagala&lt;/i&gt; Flint] and new distributional records are listed. &lt;i&gt;Ochrotrichia&lt;/i&gt; &lt;i&gt;arranca&lt;/i&gt; (Mosely) is refigured and compared with &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;conformalis,&lt;/i&gt; new species and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;quasi,&lt;/i&gt; new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trichoptera; Hydroptilidae; &lt;i&gt;Ochrotrichia&lt;/i&gt;; Costa Rica; new species; new records</subject>
+          <subject_class locale="en_US">Trichoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joaquin</firstname>
+          <lastname>Bueno-Soria</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ralph</firstname>
+          <middlename>W.</middlename>
+          <lastname>Holzenthal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-54</pages>
+        <date_published>2008-05-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of Peruvian Reduviidae (Heteroptera), with the description of a new species of &lt;i&gt;Tagalis&lt;/i&gt; Stal 1860 (Saicinae) </title>
+        <abstract locale="en_US">New records of Peruvian Reduviidae are given: &lt;i&gt;Graptocleptes&lt;/i&gt; &lt;i&gt;gastricus&lt;/i&gt; (Stål) (Harpactorinae); &lt;i&gt;Nitornus&lt;/i&gt; &lt;i&gt;lobulatus&lt;/i&gt; Stål (Stenopodinae); &lt;i&gt;Nalata&lt;/i&gt; &lt;i&gt;armiventris&lt;/i&gt; Breddin, &lt;i&gt;Nalata&lt;/i&gt; &lt;i&gt;setulosa&lt;/i&gt; Stål, &lt;i&gt;Microlestria&lt;/i&gt; &lt;i&gt;laevis&lt;/i&gt; Champion, and &lt;i&gt;Zelurus&lt;/i&gt; &lt;i&gt;umbrifer&lt;/i&gt; (Reduviinae); &lt;i&gt;Tagalis&lt;/i&gt; &lt;i&gt;inornata&lt;/i&gt; &lt;i&gt;inornata&lt;/i&gt; Stål, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;seminigra&lt;/i&gt; Champion, and the new species &lt;i&gt;Tagalis&lt;/i&gt; &lt;i&gt;femorata&lt;/i&gt; (Saicinae). General habitus and male genitalia are illustrated, and a key to the species of &lt;i&gt;Tagalis&lt;/i&gt; Stål 1860 is presented. The subfamily Saicinae is recorded from Peru for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Peru; Reduviidae; new records; &lt;i&gt;Tagalis&lt;/i&gt; n.sp; key</subject>
+          <subject_class locale="en_US">Peru</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <middlename>Cecilia</middlename>
+          <lastname>Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2008-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new &lt;i&gt;Andrena&lt;/i&gt; species from Turkey, &lt;i&gt;Andrena (Notandrena) selcuki &lt;/i&gt;n. sp. (Hymenoptera: Apoidea, Andrenidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Erwin</firstname>
+          <lastname>Scheuchl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Canan</firstname>
+          <lastname>Hazir</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-66</pages>
+        <date_published>2008-05-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural changes for some Orthoptera (Ensifera and Caelifera)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Huseyin</firstname>
+          <lastname>Ozdikmen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2008-05-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

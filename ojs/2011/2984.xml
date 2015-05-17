@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2984.1</id>
+    <title locale="en_US">3 Aug. 2011</title>
+    <volume>2984</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy and distribution of caecilian amphibians (Gymnophiona) of Brazilian Amazonia, with a key to their identification </title>
+        <abstract locale="en_US">Based on examination of 622 specimens of Gymnophiona, 15 species are recognized for Brazilian Amazonia. Geographical variation in characters is low and is mainly restricted to the number of annuli. One new species is described, &lt;i&gt;Microcaecilia&lt;/i&gt; &lt;i&gt;rochai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; New distribution data and maps for most species are provided. A key to the identification of caecilians of Brazilian Amazonia is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazonia; Brazil; caecilians; distribution; taxonomy</subject>
+          <subject_class locale="en_US">Amazonia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adriano</firstname>
+          <middlename>O.</middlename>
+          <lastname>Maciel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marinus</firstname>
+          <middlename>S.</middlename>
+          <lastname>Hoogmoed</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-53</pages>
+        <date_published>2011-08-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Uropodina mites with unusual chelicerae from Thailand (Acari: Mesostigmata) </title>
+        <abstract locale="en_US">A new monotypic genus &lt;i&gt;Editella&lt;/i&gt; &lt;i&gt;thailandica&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described on the basis of one female and two males collected in Thailand. The new genus is unusual among Uropodina by the presence of an internal sclerotised node associated with the levator tendon in large, strongly dentate chelicerae. Taxonomic notes on the genus &lt;i&gt;Hutufeideria&lt;/i&gt; are presented and three new species are described (Hutufeideria &lt;i&gt;thailandica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Hutufeideria&lt;/i&gt; &lt;i&gt;phuketensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Hutufeideria&lt;/i&gt; &lt;i&gt;alata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; The name of the Australian species &lt;i&gt;Hutufeideria&lt;/i&gt; &lt;i&gt;hirschmanni&lt;/i&gt; (Hiramatsu, 1978) is a homonym of &lt;i&gt;Hutufeideria&lt;/i&gt; &lt;i&gt;hirschmanni&lt;/i&gt; Hiramatsu, 1978, from New Guinean, hence &lt;i&gt;Hutufeideria&lt;/i&gt; &lt;i&gt;hirschmannoides&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;is&lt;/b&gt; proposed as a replacement name for the Australian species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Uropodina; new genus; new species; taxonomy; Thailand</subject>
+          <subject_class locale="en_US">Uropodina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jenő</firstname>
+          <lastname>Kontschán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-66</pages>
+        <date_published>2011-08-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Homoplasy: from detecting pattern to determining process in evolution, but with a secondary role for morphology? </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Leandro</firstname>
+          <middlename>C. S.</middlename>
+          <lastname>Assis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>R.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Quentin</firstname>
+          <middlename>D.</middlename>
+          <lastname>Wheeler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2011-08-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

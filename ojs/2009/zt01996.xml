@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1996.1</id>
+    <title locale="en_US">4 Feb. 2009</title>
+    <volume>1996</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the family Syringogastridae (Diptera: Diopsoidea) </title>
+        <abstract locale="en_US">The New World family Syringogastridae (Diptera, Acalyptratae) with the single genus &lt;i&gt;Syringogaster&lt;/i&gt; is revised. Eleven new extant species are described in four newly recognized species groups to give a total of 20 extant species (S. &lt;i&gt;brachypecta,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;apiculata&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tenuipes&lt;/i&gt; in the &lt;i&gt;rufa-group;&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;atricalyx,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;figurata,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;plesioterga,&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;dactylopleura&lt;/i&gt; in the &lt;i&gt;figurata-group;&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;nigrithorax,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;brunneina,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sharkeyi&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;palenque&lt;/i&gt; in the &lt;i&gt;brunnea-group;&lt;/i&gt; Marshall &amp; Buck are the authors of all extant new species). The &lt;i&gt;craigi-group&lt;/i&gt; includes two new fossil species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;miocenecus&lt;/i&gt; Grimaldi and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;craigi&lt;/i&gt; Grimaldi, each described on the basis of a unique Miocene (ca. 17 myo) amber specimen from the Dominican Republic. Morphological and molecular characters are used to estimate phylogenetic relationships among species of Syringogastridae, and between Syringogastridae and related diopsids. The fossil species appear to form the sister group to the Central and South American &lt;i&gt;figurata&lt;/i&gt; group, and reveal Antillean extinction of the family from earlier in the Tertiary.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Syringogastridae; &lt;i&gt;Syringogaster&lt;/i&gt;; Diopsidae; revision; phylogeny; key</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Buck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Skevington</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Grimaldi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-80</pages>
+        <date_published>2009-02-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

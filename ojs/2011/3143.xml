@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3143.1</id>
+    <title locale="en_US">23 Dec. 2011</title>
+    <volume>3143</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Parasites of animals in Papua New Guinea recorded at the National Veterinary Laboratory: a catalogue, historical review and zoogeographical affiliations</title>
+        <abstract locale="en_US">The catalogue includes more than 700 parasites of domestic and wild animals recorded at the National Veterinary Laboratory, Papua New Guinea, since data began to be gathered at the end of World War 2. It incorporates some information already published and data on parasites, particularly of indigenous fauna, not recorded previously in the country. Wildlife host species include wild pig, deer, bats, murine rodents, marsupials, monotremes, birds, reptiles, amphibians, fishes and invertebrates. The range of parasites in domestic and many wild animals shows great affinity with that found in Australia. Some notable exceptions amongst domestic animal parasites are the endoparasites &lt;i&gt;Trichinella&lt;/i&gt; &lt;i&gt;papuae,&lt;/i&gt; &lt;i&gt;Capillaria&lt;/i&gt; &lt;i&gt;papuensis&lt;/i&gt; and &lt;i&gt;Mammomonogamus&lt;/i&gt; &lt;i&gt;laryngeus&lt;/i&gt; and the economically significant ectoparasites &lt;i&gt;Chrysomya&lt;/i&gt; &lt;i&gt;bezziana,&lt;/i&gt; &lt;i&gt;Tropilaelaps&lt;/i&gt; &lt;i&gt;mercedesae&lt;/i&gt; and &lt;i&gt;Varroa&lt;/i&gt; &lt;i&gt;jacobsoni&lt;/i&gt; that are not recorded in Australia. Unusual host-parasite associations include the larvae of the insects &lt;i&gt;Chrysomya&lt;/i&gt; spp. and &lt;i&gt;Lucilia&lt;/i&gt; sp., parasites of warm-blooded animals, infesting, respectively, cold-blooded crocodiles and cane toads, and the mammalian mite, &lt;i&gt;Sarcoptes&lt;/i&gt; &lt;i&gt;scabiei,&lt;/i&gt; on an avian host, cassowaries. No host switching of helminths was seen between domestic and wild animals, or between populations of deer, wild pigs and wallabies when grazing together. The economic importance of certain parasites for domestic animals, the potential threats from introduced or newly-discovered parasites, and the relationship between some parasites and their wildlife hosts, are discussed. Information is presented in two tables: a parasite–host list that includes the location of a parasite in or on a host as well as a list of references of relevance to the country, and a host–parasite list that contains the distribution of the parasites according to province or locality.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">ectoparasites; endoparasites; bacteria; protozoans; helminths; acanthocephalans; annelids; insects; acarines; pentastomids; crustaceans; domestic animals; wildlife</subject>
+          <subject_class locale="en_US">ectoparasites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ifor</firstname>
+          <middlename>L.</middlename>
+          <lastname>Owen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-163</pages>
+        <date_published>2011-12-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

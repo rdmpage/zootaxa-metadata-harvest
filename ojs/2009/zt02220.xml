@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2220.1</id>
+    <title locale="en_US">4 Sep. 2009</title>
+    <volume>2220</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Haplosyllis &lt;/i&gt;Langerhans, 1887 (Polychaeta: Syllidae: Syllinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Haplosyllis&lt;/i&gt; Langerhans, 1887 is revised based on available types and newly collected specimens. 19 species are considered as valid, five as incertae sedis and four are referred to nomina dubia. &lt;i&gt;Trypanoseta&lt;/i&gt; (Imajima, 1966) is synonymised with &lt;i&gt;Haplosyllis,&lt;/i&gt; as the presence of trepan is considered a non-robust taxonomic feature, affecting &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;ohma&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; (Imajima &amp; Hartman, 1964) and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;granulosa&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; (Lattig, San Martín &amp; Martín, 2007). &lt;i&gt;Haplosyllis&lt;/i&gt; &lt;i&gt;streptocephala&lt;/i&gt; (Grube, 1857) is a new combination and two species are considered to belong to &lt;i&gt;Alcyonosyllis&lt;/i&gt; Glasby &amp; Watson, 2001: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bisetosa&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; (Hartmann-Schröder, 1960) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gorgoniacola&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; (Sun &amp; Yang, 2004). All valid species are described and figured except those described during the last decade, which only includes diagnoses and chaetae illustrations. A dichotomous key to all valid species of &lt;i&gt;Haplosyllis&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Haplosyllis&lt;/i&gt;; Syllidae; taxonomy; revision; identification key</subject>
+          <subject_class locale="en_US">&lt;i&gt;Haplosyllis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patricia</firstname>
+          <lastname>Lattig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2009-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The amphibian community at Yanayacu Biological Station, Ecuador, with a comparison of vertical microhabitat use among &lt;i&gt;Pristimantis &lt;/i&gt;species and the description of a new species of the &lt;i&gt;Pristimantis myersi &lt;/i&gt;group</title>
+        <abstract locale="en_US">We provide information regarding the composition of the amphibian community at Yanayacu Biological Station, on the Amazonian slopes of the Andes of Ecuador, and describe a new species of &lt;i&gt;Pristimantis&lt;/i&gt; that is referred to the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;myersi&lt;/i&gt; group. The new species is distinguished from other species of the group mainly by its color pattern, and by lacking ulnar and tarsal tubercles. The advertisement call of the new species has two distinct call types, a short call with 1–3 pulses and a long call with a mean of 15.5–18.9 more rapid pulses, which are often produced together in long call series. Finally, we analyze the microhabitat use of &lt;i&gt;Pristimantis&lt;/i&gt; species found at Yanayacu and find that there is significant variation in vertical habitat use among &lt;i&gt;Pristimantis,&lt;/i&gt; highlighting the ecological diversity of sympatric species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; Ecuador; microhabitat; new species; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;bicantus&lt;/i&gt;; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;myersi&lt;/i&gt;; Strabomantidae; Yanayacu Biological Station</subject>
+          <subject_class locale="en_US">Anura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Guayasamin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>Chris</middlename>
+          <lastname>Funk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-66</pages>
+        <date_published>2009-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Paulella&lt;/i&gt;, new name for a Bryozoan Homonym (Cyclostomata)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valentina</firstname>
+          <middlename>I.</middlename>
+          <lastname>Gontar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67</pages>
+        <date_published>2009-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">ErratumAguilera, G., Mirande, J.M. &amp; Azpelicueta, M.M. (2009) A new species of &lt;i&gt;Cnesterodon&lt;/i&gt; (Cyprinodontiformes: Poeciliidae) from a small tributary of arroyo Cuñá-Pirú, río Paraná basin, Misiones, Argentina. &lt;i&gt;Zootaxa&lt;/i&gt;, 2195, 3442.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2009-09-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

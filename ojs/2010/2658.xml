@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2658.1</id>
+    <title locale="en_US">27 Oct. 2010</title>
+    <volume>2658</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Contributions to the systematics of the genera &lt;i&gt;Dipseudopsis&lt;/i&gt;, &lt;i&gt;Hyalopsyche &lt;/i&gt;and &lt;i&gt;Pseudoneureclipsis &lt;/i&gt;(Trichoptera: Dipseudopsidae), with descriptions of 19 new species from the Oriental Region</title>
+        <abstract locale="en_US">Nineteen new species of Dipseudopsidae from the Oriental Region are described and illustrated, including 6 new species of the genus &lt;i&gt;Dipseudopsis:&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cocon,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;oliveri,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;gunung,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rathnotoia,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;vienha,&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;viklundi;&lt;/i&gt; 2 new species of the genus &lt;i&gt;Hyalopsyche:&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;trunga&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;orissa;&lt;/i&gt; and 11 new species of the genus &lt;i&gt;Pseudoneureclipsis:&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bonkybin,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;boquan,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cauky,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;congkem,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dongian,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hailan,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;halongensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;loang,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;puyah,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;quancong,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vetcat.&lt;/i&gt; The genus &lt;i&gt;Hyalopsychella&lt;/i&gt; Ulmer, 1930, is recognized as a new synonym of &lt;i&gt;Hyalopsyche&lt;/i&gt; Ulmer, 1904. &lt;i&gt;Hyalopsyche&lt;/i&gt; &lt;i&gt;parvispinosa&lt;/i&gt; Schmid, 1959, and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;parvula&lt;/i&gt; Martynov, 1935, are recognized as new synonyms of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sachalinica&lt;/i&gt; Martynov, 1910; &lt;i&gt;Hyalopsyche&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; Martynov, 1935, is recognized as a new synonym of &lt;i&gt;Hyalopsychodes&lt;/i&gt; &lt;i&gt;rivalis&lt;/i&gt; Betten, 1909; and &lt;i&gt;Hyalopsychella&lt;/i&gt; &lt;i&gt;haplotes&lt;/i&gt; Neboiss, 1989, is recognized as a new synonym of &lt;i&gt;Hyalopsyche&lt;/i&gt; &lt;i&gt;winkleri&lt;/i&gt; (Ulmer, 1930). New records of 14 other species are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dipseudopsidae; &lt;i&gt;Dipseudopsis&lt;/i&gt;; &lt;i&gt;Hyalopsyche&lt;/i&gt;; &lt;i&gt;Pseudoneureclipsis&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Dipseudopsidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>János</firstname>
+          <lastname>Oláh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kjell</firstname>
+          <middlename>Arne</middlename>
+          <lastname>Johanson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2010-10-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of the first-instar larva of the hypogaeic species &lt;i&gt;Neobidessodes&lt;/i&gt; &lt;i&gt;limestoneensis &lt;/i&gt;(Watts &amp; Humphreys) and of the third-instar larva of &lt;i&gt;Hydroglyphus balkei &lt;/i&gt;Hendrich (Coleoptera: Dytiscidae: Bidessini) with phylogenetic considerations</title>
+        <abstract locale="en_US">The first-instar larva of &lt;i&gt;Neobidessodes&lt;/i&gt; Hendrich &amp; Balke (through the hypogaeic species &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;limestoneensis&lt;/i&gt; (Watts &amp; Humphreys)) and the third-instar larva of &lt;i&gt;Hydroglyphus&lt;/i&gt; Motschulsky (through &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;balkei&lt;/i&gt; Hendrich) (Dytiscidae: Bidessini) are described and illustrated in detail for the first time, including detailed morphometric and chaetotaxic analyses of the cephalic capsule, head appendages, legs, last abdominal segment and urogomphi. A cladistic analysis including 51 characters and 32 hydroporine taxa is performed, which supports the inclusion of both genera in the tribe Bidessini based on the absence of the primary pore ABc on the last abdominal segment. The third instar of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;balkei&lt;/i&gt; is characterized by the absence of secondary setae on the urogomphi and anterior secondary setae on the coxa, and the presence of 8–9 secondary setae on the mesofemur. On the other hand, the first instar of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;limestoneensis&lt;/i&gt; bears 14 lamellae clypeales on the anteroventral margin of the nasale. This species has evolved several morphological characters that are probably associated with its hypogaeic existence, including a lightly sclerotized body, relatively longer cephalic capsule and mandibles, a strongly reduced occipital foramen, absence of stemmata, and short claws. However, primary chaetotaxy apparently has remained as a very conservative expression of the phenotype.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diving beetles; larva; epigaeic; hypogaeic; morphometry; chaetotaxy; phylogenetic relationships</subject>
+          <subject_class locale="en_US">Diving beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mariano</firstname>
+          <middlename>C.</middlename>
+          <lastname>Michat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yves</firstname>
+          <lastname>Alarie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chris</firstname>
+          <middlename>H. S.</middlename>
+          <lastname>Watts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-50</pages>
+        <date_published>2010-10-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A contribution to &lt;i&gt;Sticholotis &lt;/i&gt;Crotch from Myanmar (Coleoptera: Coccinellidae: Sticholotidini)</title>
+        <abstract locale="en_US">Known species of &lt;i&gt;Sticholotis&lt;/i&gt; Crotch from Myanmar are redescribed, diagnosed and illustrated, and a key for their identification is presented. Notes on the genus and nomenclatural history for each species are provided. Lectotypes are designated for &lt;i&gt;Orcus&lt;/i&gt; &lt;i&gt;bipunctatus&lt;/i&gt; Gorham, &lt;i&gt;Orcus&lt;/i&gt; &lt;i&gt;quadriguttatus&lt;/i&gt; Gorham and &lt;i&gt;Orcus&lt;/i&gt; &lt;i&gt;discoideus&lt;/i&gt; Gorham. A neotype is designated for &lt;i&gt;Sticholotis&lt;/i&gt; &lt;i&gt;dohrni&lt;/i&gt; Weise.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Coleoptera; Cucujoidea; Chilocorini; Sticholotidini; &lt;i&gt;Orcus&lt;/i&gt;; &lt;i&gt;Sticholotis&lt;/i&gt;; Myanmar</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wioletta</firstname>
+          <lastname>Tomaszewska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Piotr</firstname>
+          <lastname>Łączyński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2010-10-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

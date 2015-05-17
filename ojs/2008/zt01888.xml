@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1888.1</id>
+    <title locale="en_US">29 Sep. 2008</title>
+    <volume>1888</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the comatulid genus &lt;i&gt;Stephanometra &lt;/i&gt;AH Clark with a rediagnosis of the genus &lt;i&gt;Lamprometra &lt;/i&gt;AH Clark (Echinodermata: Crinoidea)</title>
+        <abstract locale="en_US">Several genera in the comatulid crinoid family Mariametridae are currently ambiguously distinguished on the basis of variations in length and robustness of oral pinnules. Previous descriptions have suggested that at least the genera &lt;i&gt;Stephanometra&lt;/i&gt; and &lt;i&gt;Lamprometra,&lt;/i&gt; both common and widespread on Indo-western Pacific reefs, are imperfectly distinguishable. A detailed morphological re-examination supports distinct &lt;i&gt;Stephanometra&lt;/i&gt; and &lt;i&gt;Lamprometra.&lt;/i&gt; The five currently recognized species of &lt;i&gt;Stephanometra&lt;/i&gt; are reduced to two: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;echinus&lt;/i&gt; under &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tenuipinna,&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;spicata&lt;/i&gt; (including &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;oxyacantha)&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;spinipinna&lt;/i&gt; under &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;indica.&lt;/i&gt; Of specimens examined in the &lt;i&gt;indica-spicata-oxyacantha&lt;/i&gt; series, 20% are intermediates that cannot be satisfactorily assigned to species based on current diagnoses. In &lt;i&gt;Lamprometra,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;klunzingeri&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;palmata&lt;/i&gt; &lt;i&gt;gyges&lt;/i&gt; are formally reduced to infrasubspecific variants of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;palmata.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crinoidea; comatulid; &lt;i&gt;Stephanometra&lt;/i&gt;; &lt;i&gt;Lamprometra&lt;/i&gt;; taxonomy; Mariametridae</subject>
+          <subject_class locale="en_US">Crinoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dana</firstname>
+          <middlename>L.</middlename>
+          <lastname>Rankin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>G.</middlename>
+          <lastname>Messing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2008-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Variability in trunk segmentation in the centipede order Scolopendromorpha: a remarkable new species of &lt;i&gt;Scolopendropsis&lt;/i&gt; Brandt (Chilopoda: Scolopendridae) from Brazil</title>
+        <abstract locale="en_US">Of the two centipede orders that complete segmentation during embryogenesis, most species belonging to Geophilomorpha have an intraspecifically variable number of trunk segments, whereas those of the Scolopendromorpha have been assumed to have a fixed segment number, with minor variation (21 or 23 segments) across the group as a whole. Trunk segment numbers are used as a taxonomic character as high as the familial or subordinal level in Scolopendromorpha. The first known instance of variability in trunk segment numbers within a scolopendromorph species has recently been proposed for the Brazilian &lt;i&gt;Scolopendropsis&lt;/i&gt; &lt;i&gt;bahiensis&lt;/i&gt; (Brandt, 1841), which has either 21 or 23 segments in different parts of its geographic range. Here we document a closely related scolopendrid from Tocantins State, central Brazil, &lt;i&gt;Scolopendropsis&lt;/i&gt; &lt;i&gt;duplicata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; which differs from &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bahiensis&lt;/i&gt; in having either 39 or 43 segments. This unique segment count is incorporated into a revised diagnosis of the order Scolopendromorpha. The deeply nested position of &lt;i&gt;Scolopendropsis&lt;/i&gt; within the Scolopendridae implies that the geophilomorph-like trunk segment number in &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;duplicata&lt;/i&gt; is convergent with similar segmentation in Geophilomorpha.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chilopoda; trunk segmentation; Scolopendrinae; taxonomy; Tocantins</subject>
+          <subject_class locale="en_US">Chilopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amazonas</firstname>
+          <lastname>Chagas-Junior</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gregory</firstname>
+          <middlename>D.</middlename>
+          <lastname>Edgecombe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <lastname>Minelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-46</pages>
+        <date_published>2008-09-29</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new frogs of the genus &lt;i&gt;Platymantis&lt;/i&gt; (Anura: Ceratobatrachidae) from the Isabel Island group, Solomon Islands</title>
+        <abstract locale="en_US">We describe two new species of forest frogs in the genus &lt;i&gt;Platymantis&lt;/i&gt; from the Isabel Island group, Solomon Islands. One new species is a medium-sized, terrestrial form that is morphologically most similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;weberi&lt;/i&gt; (a widespread Solomon Islands species). The other new species is an arboreal frog that is morphologically similar to &lt;i&gt;Platymantis&lt;/i&gt; &lt;i&gt;neckeri&lt;/i&gt; (known from Bougainville, Choiseul, and Isabel islands). Both new species possess unique advertisement calls that distinguish them from all sympatric congeners. Because acoustic characteristics function as the primary mate-recognition signals for anuran species, and are therefore an excellent indicator of the status of unique evolutionary lineages, we recognize each as new species. We diagnose both new species on the basis of their distinctive advertisement calls and in the case of the terrestrial form, by differences in body size, body proportions and skin texture. The diversity of ceratobatrachid frogs of the Solomon islands and Bougainville is underestimated and in need of a comprehensive taxonomic review coupled with a standardized survey of acoustic characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">forest frogs; &lt;i&gt;Platymantis&lt;/i&gt;; Solomon Islands; SW Pacific; advertisement calls; cryptic species diversity</subject>
+          <subject_class locale="en_US">forest frogs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rafe</firstname>
+          <middlename>M.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>J.</middlename>
+          <lastname>Richards</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2008-09-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

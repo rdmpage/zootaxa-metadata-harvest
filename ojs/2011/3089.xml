@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3089.1</id>
+    <title locale="en_US">3 Nov. 2011</title>
+    <volume>3089</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-11-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New records and new species of Ophiuroidea (Echinodermata) from Lifou, Loyalty Islands, New Caledonia</title>
+        <abstract locale="en_US">New Caledonia is a species-rich region that has been the focus of biodiversity research for over 40 years. The expedition “Atelier Lifou 2000” collected benthic fauna at the island of Lifou, Loyalty Islands, New Caledonia, in November of 2000. This is a taxonomic account of the brittle stars found. 94 species were identified, 51 of them new for the region, and seven new to science, increasing the total number of species known from the New Caledonia region to 204. New species are described in the genera &lt;i&gt;Squamophis,&lt;/i&gt; &lt;i&gt;Astroceras,&lt;/i&gt; &lt;i&gt;Astrogymnotes,&lt;/i&gt; &lt;i&gt;Ophiochondrus,&lt;/i&gt; &lt;i&gt;Ophiomoeris,&lt;/i&gt; &lt;i&gt;Ophiozonella&lt;/i&gt; and &lt;i&gt;Amphipholis.&lt;/i&gt; Three species and a subspecies are revised, one of them placed in a new genus. The taxonomic status of &lt;i&gt;Euryale&lt;/i&gt; Lamarck, 1816, a junior homonym of &lt;i&gt;Euryale&lt;/i&gt; Péron &amp; Lesueur, 1810 (a medusa), is stabilized by formally establishing precedence over the senior name.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">brittle stars; taxonomy; nomenclature; scanning electron microscopy; morphology</subject>
+          <subject_class locale="en_US">brittle stars</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sabine</firstname>
+          <lastname>Stöhr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2011-11-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Plesionika &lt;/i&gt;Bate, 1888 (Crustacea, Decapoda, Pandalidae) from Southwestern Atlantic</title>
+        <abstract locale="en_US">The pandalid genus &lt;i&gt;Plesionika&lt;/i&gt; Bate, 1888 includes 92 species and has a widespread distribution. The new &lt;i&gt;Plesionika&lt;/i&gt; species described herein was sampled by the oceanographic program REVIZEE Central (Fishery) at the Central Brazilian coast (from 11 o S to 22 o S) in depths ranging from 200 to 2000 m using ARROW and GOV nets. Additional material of the new species from the collection of Universidade Federal do Rio Grande (FURG), sampled at South Brazilian coast was also examined. &lt;i&gt;Plesionika&lt;/i&gt; &lt;i&gt;revizeei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is closely related to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;willisi&lt;/i&gt; (Pequegnat 1970), and the main feature that distinguishes these two species is the presence of epipods on pereopods 1–4 in the new species. This study provides a full description of the new species and an identification key to the Southwestern Atlantic species of &lt;i&gt;Plesionika.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Plesionika&lt;/i&gt;; new species; Southwestern Atlantic; Brazil; deep sea; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Plesionika&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Irene</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cardoso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2011-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new stigmaeid mite species from Iran (Acari: Stigmaeidae) and re-description of &lt;i&gt;Stigmaeus longipilis &lt;/i&gt;(Canestrini)</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Stigmaeus,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ueckermanni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described and illustrated, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;longipilis&lt;/i&gt; (Canestrini) is recorded for the first time from Iran and re-described. Both species were collected from soil under hazelnut trees, &lt;i&gt;Corylus&lt;/i&gt; &lt;i&gt;avellana&lt;/i&gt; L. (Betulaceae) in Ardabil province, Iran. A key to the Iranian species of &lt;i&gt;Stigmaeus&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Stigmaeidae; &lt;i&gt;Stigmaeus&lt;/i&gt;; predatory mites; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maryam</firstname>
+          <middlename>Pahlavan</middlename>
+          <lastname>Yali</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jabraeil</firstname>
+          <lastname>Razmjou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-11-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

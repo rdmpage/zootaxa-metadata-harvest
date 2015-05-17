@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3076.1</id>
+    <title locale="en_US">28 Oct. 2011</title>
+    <volume>3076</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy and biostratigraphy of Ordovician brachiopods from northeastern Ny Friesland, Spitsbergen</title>
+        <abstract locale="en_US">We describe Early and Middle Ordovician brachiopod faunas from northeastern Spitsbergen and discuss their biostratigraphical and palaeoecological implications. We recognise 60 species and 41 genera representing both linguliform and rhynchonelliform brachiopods. These include one new genus, the obolid &lt;i&gt;Lenticulella&lt;/i&gt; with the type species &lt;i&gt;Lenticulella&lt;/i&gt; &lt;i&gt;amphora&lt;/i&gt; (Krause &amp; Rowell, 1975), and 23 new species: &lt;i&gt;Ectenoglossa?&lt;/i&gt; &lt;i&gt;oviforma,&lt;/i&gt; &lt;i&gt;Elliptoglossa&lt;/i&gt; &lt;i&gt;vulgaris,&lt;/i&gt; &lt;i&gt;Rosobolus?&lt;/i&gt; &lt;i&gt;elongatus,&lt;/i&gt; &lt;i&gt;Broeggeria&lt;/i&gt; &lt;i&gt;obscura,&lt;/i&gt; &lt;i&gt;Mirilingula?&lt;/i&gt; &lt;i&gt;svalbardensis,&lt;/i&gt; &lt;i&gt;Schizotreta&lt;/i&gt; &lt;i&gt;marginalis,&lt;/i&gt; &lt;i&gt;Conotreta&lt;/i&gt; &lt;i&gt;convexa,&lt;/i&gt; &lt;i&gt;Cyrtonotreta&lt;/i&gt; &lt;i&gt;profilbekkiensis,&lt;/i&gt; &lt;i&gt;Cyrtonotreta&lt;/i&gt; &lt;i&gt;spinosa,&lt;/i&gt; &lt;i&gt;Eurytreta&lt;/i&gt; &lt;i&gt;subtriangularis,&lt;/i&gt; &lt;i&gt;Hisingerella&lt;/i&gt; &lt;i&gt;maniformis,&lt;/i&gt; &lt;i&gt;Semitreta&lt;/i&gt; &lt;i&gt;basisslettaensis,&lt;/i&gt; &lt;i&gt;Semitreta&lt;/i&gt; &lt;i&gt;pustulosa,&lt;/i&gt; &lt;i&gt;Semitreta&lt;/i&gt; &lt;i&gt;spitsbergensis,&lt;/i&gt; &lt;i&gt;Numericoma?&lt;/i&gt; &lt;i&gt;proclina,&lt;/i&gt; &lt;i&gt;Eoconulus&lt;/i&gt; &lt;i&gt;subquadratus,&lt;/i&gt; &lt;i&gt;Dictyonites&lt;/i&gt; &lt;i&gt;mugilis,&lt;/i&gt; &lt;i&gt;Pelonomia&lt;/i&gt; &lt;i&gt;sulcata,&lt;/i&gt; &lt;i&gt;Leptella&lt;/i&gt; (Leptella) &lt;i&gt;inequicostellata,&lt;/i&gt; &lt;i&gt;Protoskenidioides&lt;/i&gt; &lt;i&gt;promontorium,&lt;/i&gt; &lt;i&gt;Anomalorthis&lt;/i&gt; &lt;i&gt;rossi,&lt;/i&gt; &lt;i&gt;Nothorthis&lt;/i&gt; &lt;i&gt;subpyramidalis&lt;/i&gt; and &lt;i&gt;Phragmorthis&lt;/i&gt; &lt;i&gt;noda.&lt;/i&gt; The Ordovician succession contains both intertidal and deep-sea deposits with brachiopod faunas from nearly the whole range of environments. The Tremadocian is represented by a succession of low-diversity, rhynchonelli-6 · &lt;i&gt;Zootaxa&lt;/i&gt; 3076 © 2011 Magnolia Pressform-dominated assemblages occupying shallow-marine environments. With the abrupt and large-scale drowning during the Floian, these faunas were replaced by a sparse slope fauna of micromorphic linguliforms. The outer shelf environments established in the latest Floian were occupied by a highly diverse brachiopod fauna dominated by micromorphic linguliform taxa. As the environment shifted toward the mid-shelf during the Darriwilian, however, the composition of the fauna changed to an &lt;i&gt;Orthidiella-dominated&lt;/i&gt; assemblage of mostly rhynchonelliform taxa. The very late occurrence of the &lt;i&gt;Orthidiella&lt;/i&gt; assemblage suggests that the Dapingian &lt;i&gt;Orthidiella&lt;/i&gt; Zone found in America is probably diachronic. Although it includes many endemic species, the Middle Ordovician fauna shows a strong resemblance to the brachiopod fauna of Nevada. This study is based on approximately 16 500 brachiopod specimens obtained from both crack-out samples and acetic-acid-treated bulk samples.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachiopoda; Laurentia; Linguliformea; &lt;i&gt;Orthidiella&lt;/i&gt; zone; palaeoecology; Rhynchonelliformea; Svalbard</subject>
+          <subject_class locale="en_US">Brachiopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jesper</firstname>
+          <lastname>Hansen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lars</firstname>
+          <middlename>E.</middlename>
+          <lastname>Holmer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-122</pages>
+        <date_published>2011-10-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

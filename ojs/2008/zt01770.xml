@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1770.1</id>
+    <title locale="en_US">16 May. 2008</title>
+    <volume>1770</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Naticidae (Mollusca: Gastropoda) of Giglio Island (Tuscany, Italy): Shell characters, live animals, and a molecular analysis of egg masses</title>
+        <abstract locale="en_US">We investigated the occurence of members of the predatory caenogastropod family Naticidae in the littoral of the island of Giglio, Tuscany, Italy. We recorded a total of 8 species, all but one represented by both empty shells and living specimens. As most studies of Mediterranean naticids are based solely on empty shells, we here provide images of living animals for 7 out of the 8 species encountered; for several of these species this is the first photographic documentation of the animal. Our survey included a systematic collection of egg masses (”sand collars”) which were hatched in the laboratory. The larvae obtained as well as the sand collars themselves were used for molecular analysis of the species based on gene fragments of mitochondrial cytochrome oxidase subunit I (COI), histone 3 (H3), the mitochondrial 16S rRNA (16S), and 18S rRNA (18S). We show that such molecular analysis allows the confirmation of the identity of naticid species without having access to adult specimens or shells. This approach identified one additional naticid species for which no adult specimens or shells were found. Additionally, our molecular analysis allows consideration of naticid phylogeny.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Naticidae; Naticinae; Naticarius; Notocochlis; Tectonatica; Polinicinae; Euspira; Neverita; gastropod biodiversity; phylogenetic relationship; taxonomy; molecular identification; sand collars; egg masses; Mediterranean Sea</subject>
+          <subject_class locale="en_US">Naticidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thomas</firstname>
+          <lastname>Huelsken</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carina</firstname>
+          <lastname>Marek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefan</firstname>
+          <lastname>Schreiber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Iris</firstname>
+          <lastname>Schmidt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Hollmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2008-05-16</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Deep-sea ophidiiform fishes collected on the Brazilian continental slope, between 11&lt;sup&gt;o&lt;/sup&gt; and 23&lt;sup&gt;o &lt;/sup&gt;S</title>
+        <abstract locale="en_US">Collections made by two deep-sea expeditions off eastern Brazil between 11° and 23°S, revealed the occurrence of a rich fish fauna. A total of 94 trawl stations were performed by the RV &lt;i&gt;Thalassa&lt;/i&gt; and RV &lt;i&gt;Astro&lt;/i&gt; &lt;i&gt;Garoupa,&lt;/i&gt; at depths from 200 to 2300 m. The fishes of the order Ophidiiformes are reported upon here, including 23 species from three families: Carapidae (2), Ophidiidae (19) and Bythitidae (2). Of these, 15 species represent new records for Brazilian waters: &lt;i&gt;Acanthonus&lt;/i&gt; &lt;i&gt;armatus,&lt;/i&gt; &lt;i&gt;Barathrites&lt;/i&gt; &lt;i&gt;parri,&lt;/i&gt; &lt;i&gt;Barathrodemus&lt;/i&gt; &lt;i&gt;manatinus,&lt;/i&gt; &lt;i&gt;Dicrolene&lt;/i&gt; &lt;i&gt;kanazawai,&lt;/i&gt; &lt;i&gt;Eretmichthys&lt;/i&gt; &lt;i&gt;pinnatus,&lt;/i&gt; &lt;i&gt;Holcomycteronus&lt;/i&gt; &lt;i&gt;squamosus,&lt;/i&gt; &lt;i&gt;Lamprogrammus&lt;/i&gt; &lt;i&gt;brunswigi,&lt;/i&gt; &lt;i&gt;Luciobrotula&lt;/i&gt; sp., &lt;i&gt;Monomitopus&lt;/i&gt; &lt;i&gt;agassizii,&lt;/i&gt; &lt;i&gt;Neobythites&lt;/i&gt; &lt;i&gt;monocellatus,&lt;/i&gt; &lt;i&gt;Neobythites&lt;/i&gt; sp., &lt;i&gt;Porogadus&lt;/i&gt; &lt;i&gt;catena,&lt;/i&gt; &lt;i&gt;Porogadus&lt;/i&gt; &lt;i&gt;miles,&lt;/i&gt; &lt;i&gt;Xyelacyba&lt;/i&gt; &lt;i&gt;myersi,&lt;/i&gt; and &lt;i&gt;Cataetyx&lt;/i&gt; &lt;i&gt;messieri.&lt;/i&gt; &lt;i&gt;Luciobrotula&lt;/i&gt; sp. represents an undescribed species. This paper also provides a checklist to and an identification key for all ophidiiform fishes from Brazil, totaling 45 species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ophidiiformes; Carapidae; Ophidiidae; Bythitidae; Aphyonidae; Brazil</subject>
+          <subject_class locale="en_US">Ophidiiformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <middlename>M.</middlename>
+          <lastname>Mincarone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorgen</firstname>
+          <middlename>G.</middlename>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>A. S.</middlename>
+          <lastname>Costa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-64</pages>
+        <date_published>2008-05-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Paraseiulus&lt;/i&gt; Muma from Iran with a key to the known species (Acari: Mesostigmata: Phytoseiidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Farid</firstname>
+          <lastname>Faraji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mahdi</firstname>
+          <lastname>Jalaeian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mcmurtry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2008-05-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

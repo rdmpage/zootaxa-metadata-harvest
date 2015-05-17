@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1855.1</id>
+    <title locale="en_US">22 Aug. 2008</title>
+    <volume>1855</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-08-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A monograph of the genus &lt;i&gt;Westwoodia&lt;/i&gt; (Hymenoptera: Ichneumonidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Westwoodia&lt;/i&gt; (Ichneumonidae: Ctenopelmatinae) is an Australian endemic heretofore known from only two described species. Three additional species are described here: &lt;i&gt;Westwoodia&lt;/i&gt; &lt;i&gt;gauldi&lt;/i&gt; Wharton and Roeder, n. sp. and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;romani&lt;/i&gt; Wharton and Roeder, n. sp., both from southeastern Australia, and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;rodmani&lt;/i&gt; Wharton and Roeder, n. sp. from western Australia. A neotype is designated for &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;ruficeps,&lt;/i&gt; following a detailed morphological comparison of topotypic material from Tasmania with populations from mainland Australia. New host records are provided; known hosts all belong to the Perginae (Hymenoptera: Pergidae). A phylogenetic analysis of relationships among species is presented along with a key to species. Species richness is greatest in southeastern Australia, which may simply represent a collecting bias.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomic revision; new species; neotype; key</subject>
+          <subject_class locale="en_US">Taxonomic revision</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>A.</middlename>
+          <lastname>Wharton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karl</firstname>
+          <lastname>Roeder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>J.</middlename>
+          <lastname>Yoder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2008-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the Afrotropical genus &lt;i&gt;Tritonus&lt;/i&gt; Mulsant (Coleoptera: Hydrophilidae)</title>
+        <abstract locale="en_US">The previously monotypic genus &lt;i&gt;Tritonus&lt;/i&gt; Mulsant is revised. Six new species are described from Madagascar, from which the genus is also recorded for the first time: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;complanatus&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;madagascarensis&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;riambavy&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;riana,&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;steineri&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; New records for the previously described and Mauritian-endemic species &lt;i&gt;Tritonus&lt;/i&gt; &lt;i&gt;cribratus&lt;/i&gt; (Mulsant) are given. All known species occur in hygropetric habitats, consistent with the biology of other members of the &lt;i&gt;Oocyclus-genus&lt;/i&gt; group of the tribe Laccobiini to which &lt;i&gt;Tritonus&lt;/i&gt; belongs. A key to species, aedeagal illustrations, and scanning electron micrographs of diagnostic characters are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Hydrophilidae; Laccobiini; Afrotropical; Madagascar; Hygropetric habitats; new species</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>Edward Z.</middlename>
+          <lastname>Short</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-55</pages>
+        <date_published>2008-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of genera &lt;i&gt;Quadraticossus&lt;/i&gt;,&lt;i&gt; Martynovocossus&lt;/i&gt; and &lt;i&gt;Fletcheriana&lt;/i&gt; (Insecta, Hemiptera) from the Middle Jurassic of China with description of a new species</title>
+        <abstract locale="en_US">Four species, belonging to three known genera of Palaeontinidae (Hemiptera), are described from the Middle Jurassic of Daohugou Village, Inner Mongolia, China. They are &lt;i&gt;Quadraticossus&lt;/i&gt; &lt;i&gt;eumorphus&lt;/i&gt; sp. nov., &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;fangi&lt;/i&gt; Wang &amp; Ren, 2007, &lt;i&gt;Martynovocossus&lt;/i&gt; &lt;i&gt;punctulosus&lt;/i&gt; (Wang &amp; Ren, 2006) Wang &amp; Zhang, 2008 and &lt;i&gt;Fletcheriana&lt;/i&gt; &lt;i&gt;colorata&lt;/i&gt; Wang &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al,&lt;/i&gt; 2006. Based on these materials, a new species is erected; line drawing of hind wing of &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;fangi&lt;/i&gt; is reconstructed and the diagnoses of the genera &lt;i&gt;Quadraticossus&lt;/i&gt; Wang &amp; Ren, 2007, &lt;i&gt;Martynovocossus&lt;/i&gt; (Martynov, 1931) Wang &amp; Zhang, 2008 and &lt;i&gt;Fletcheriana&lt;/i&gt; Evans, 1956 are revised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">morphology; taxonomy; palaeontology; Cicadomorpha; Jurassic</subject>
+          <subject_class locale="en_US">morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ying</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lin</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-64</pages>
+        <date_published>2008-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new apterous species of the genus &lt;i&gt;Orphnus&lt;/i&gt; MacLeay (Coleoptera: Scarabaeidae: Orphninae) from South Africa</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Frolov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2008-08-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

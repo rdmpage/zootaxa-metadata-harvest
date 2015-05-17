@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3072.1</id>
+    <title locale="en_US">28 Oct. 2011</title>
+    <volume>3072</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the biological diversity and distribution of small mammal taxa in the terrestrial ecoregions and protected areas of Nepal</title>
+        <abstract locale="en_US">A review has been undertaken of the biological diversity and distribution of small mammal taxa throughout the ten terrestrial ecoregions and the sixteen principal protected areas of Nepal. One hundred and eighteen species of small mammal representing the Orders Chiroptera, Scandentia, Lagomorpha, Soricomorpha, and Rodentia are acknowledged to occur in Nepal and the distribution of each is analysed with reference to specimens listed in museum and university collections databases or detailed in published papers and reports. A further twenty-two species that are of uncertain provenance or status in Nepal are considered. One hundred and nineteen ecoregion maps document the distribution of species, while the generic richness of small mammal Orders and the distribution of Threatened and endemic taxa are mapped and discussed. All localities are listed in a gazetteer, which indicates the coordinates and elevations of 595 collection sites in Nepal. Nineteen individual recommendations are made with a view to resolving systematic irregularities and conflicts in taxonomic identifications (accession numbers of particular specimens are given where possible), to eliminating inaccuracies in type localities and species' citations, and to determining protected and other areas that would benefit from biodiversity assessments. In addition, four 25 km 2 zones are identified as important sites in which to conduct field surveys to determine the presence of Threatened, Near Threatened, and Data Deficient taxa. &lt;i&gt;Mus&lt;/i&gt; &lt;i&gt;pahari&lt;/i&gt; Thomas, 1916 is recorded from Nepal for the first time based on material in the collections of The Field Museum of Natural History, Chicago. The record extends the known range of the species 214 km to the west. It is considered that the classification of the Nepalese Field mouse, &lt;i&gt;Apodemus&lt;/i&gt; &lt;i&gt;gurkha,&lt;/i&gt; as Endangered (I.U.C.N., 2008) does not reflect the true status of the species in Nepal and an argument is propounded for the downgrading of the taxon to a lower category. The historical and political background to the study of natural history in Nepal is explained and the principal scientific investigations into the country's small mammal fauna since 1824 are summarised. It is concluded that 41% of Nepal's volant and terrestrial small mammal species are represented only by a modest number of specimens and that the small mammal fauna of 65% of the country remains unaudited.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nepal; Chiroptera; Scandentia; Lagomorpha; Erinaceomorpha; Soricomorpha; Rodentia; &lt;i&gt;Apodemus&lt;/i&gt; &lt;i&gt;gurkha&lt;/i&gt;; &lt;i&gt;Mus&lt;/i&gt; &lt;i&gt;pahari&lt;/i&gt;; taxonomy; distribution; terrestrial ecoregions; Global 200; protected areas</subject>
+          <subject_class locale="en_US">Nepal</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Malcolm</firstname>
+          <middlename>J.</middlename>
+          <lastname>Pearch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-286</pages>
+        <date_published>2011-10-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

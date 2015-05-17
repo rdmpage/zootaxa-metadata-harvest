@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1989.1</id>
+    <title locale="en_US">27 Jan. 2009</title>
+    <volume>1989</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-01-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Lophomilia&lt;/i&gt; Warren, 1913 with description of four new species from East Asia (Lepidoptera: Noctuidae: Hypeninae)</title>
+        <abstract locale="en_US">The East Asian noctuid genus &lt;i&gt;Lophomilia&lt;/i&gt; Warren, 1913 (=Atuntsea Berio, 1977, &lt;i&gt;Bryograpta&lt;/i&gt; Sugi, 1977) is revised. Four new species (L. &lt;i&gt;nekrasovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;rustica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;diehli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kobesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.)&lt;/b&gt; are described from Russian Far East, Korea, China and Indonesia, Sumatra. &lt;i&gt;Lophomilia&lt;/i&gt; &lt;i&gt;takao&lt;/i&gt; Sugi, 1962 and &lt;i&gt;Lophomilia&lt;/i&gt; &lt;i&gt;albicosta&lt;/i&gt; Yoshimoto 1995 are reported for the first time from China; &lt;i&gt;Lophomilia&lt;/i&gt; &lt;i&gt;polybapta&lt;/i&gt; (Butler, 1879) is first reported from Russia. The male and female genitalia of most species are described, adults of 12 species from East Asia are illustrated, and distribution maps for all species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Noctuidae; Hypeninae; &lt;i&gt;Lophomilia&lt;/i&gt;; new species; East Asia; China; Korea; Russian Far East; Indonesia</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gottfried</firstname>
+          <lastname>Behounek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-01-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An unexpected hotspot of moth biodiversity in Chilean northern Patagonia (Lepidoptera, Geometridae)</title>
+        <abstract locale="en_US">In a small area around Huinay station, northern Patagonia (Chile), 75 geometrid moth species were collected at light in three subsequent nights, 87 in a short 11-day period under suboptimal weather conditions. This surprisingly high diversity is due to lack of habitat destruction and complete overlap of Valdivian and Patagonian fauna elements. An annotated neighbour joining tree of COI data (5’ barcoding fragment) is presented and the taxonomy of all species is discussed. Three new combinations are proposed: &lt;i&gt;Danielaparra&lt;/i&gt; &lt;i&gt;fragmentata&lt;/i&gt; (Dognin, 1906), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; transferred from &lt;i&gt;Hoplosauris;&lt;/i&gt; &lt;i&gt;Hoplosauris&lt;/i&gt; &lt;i&gt;multivirgulata&lt;/i&gt; (Mabille, 1885), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; transferred from &lt;i&gt;Physoloba;&lt;/i&gt; &lt;i&gt;Calta&lt;/i&gt; &lt;i&gt;debilis&lt;/i&gt; (Butler, 1882), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; transferred from &lt;i&gt;Odontothera.&lt;/i&gt; &lt;i&gt;Daniela&lt;/i&gt; &lt;i&gt;viridis&lt;/i&gt; (Parra, 1996) is a new synonym of &lt;i&gt;Danielaparra&lt;/i&gt; &lt;i&gt;fragmentata.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; barcoding; COI5’; nDNA; neighbor joining tree; &lt;i&gt;Danielaparra&lt;/i&gt; &lt;i&gt;fragmentata&lt;/i&gt; (Dognin; 1906) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Hoplosauris&lt;/i&gt; &lt;i&gt;multivirgulata&lt;/i&gt; (Mabille; 1885) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Calta&lt;/i&gt; &lt;i&gt;debilis&lt;/i&gt; (Butler; 1882) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Andina Region</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Axel</firstname>
+          <lastname>Hausmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>E.</middlename>
+          <lastname>Parra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-38</pages>
+        <date_published>2009-01-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Hoplosauris&lt;/i&gt; Butler 1882 (Lepidoptera: Geometridae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Hoplosauris&lt;/i&gt; Butler 1882 is reviewed and redefined. Species belonging to the genera &lt;i&gt;Notholoba&lt;/i&gt; syn. nov. and &lt;i&gt;Physoloba&lt;/i&gt; Warren (1908) are incorporated into &lt;i&gt;Hoplosauris,&lt;/i&gt; and the species &lt;i&gt;Physoloba&lt;/i&gt; &lt;i&gt;griseofasciata&lt;/i&gt; is maintained &lt;i&gt;Physoloba&lt;/i&gt; as its type species. The following eight species are recognized in &lt;i&gt;Hoplosauris:&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;heliconoides&lt;/i&gt; Butler, 1882; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;schausi&lt;/i&gt; (Warren 1908) comb. nov.; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;valeria&lt;/i&gt; Butler 1893; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;indistincta&lt;/i&gt; (Butler, 1882) comb. nov.; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;macarenae&lt;/i&gt; Parra &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;granitata&lt;/i&gt; (Fletcher 1953) comb. nov.; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pachrophylloides&lt;/i&gt; Parra &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;mabillei&lt;/i&gt; Parra &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Synapomorphic characters supporting monophyly of &lt;i&gt;Hoplosauris&lt;/i&gt; include vesicle of anal margin of the male hindwings small, corpus bursae striated, internal surface of corpus bursae with microspines, and valvae with androconia subapically. Adult wing patterns and genitalia are illustrated, and geographic distributions discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Larentiinae; Trichopterygini; new combinations; &lt;i&gt;Notholoba&lt;/i&gt;; &lt;i&gt;Physoloba&lt;/i&gt;; &lt;i&gt;Hoplosauris&lt;/i&gt; &lt;i&gt;mabillei&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pachrophylloides&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;macarenae&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;granitata&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;heliconoides&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;valeria&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;schausi&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;indistincta&lt;/i&gt;; Chile; Argentina</subject>
+          <subject_class locale="en_US">Larentiinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>E.</middlename>
+          <lastname>Parra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <middlename>C.</middlename>
+          <lastname>Jiménez-Urrutia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Zamora-Manzur</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-54</pages>
+        <date_published>2009-01-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Pyrochlora&lt;/i&gt; Warren, 1895 (Lepidoptera: Geometridae: Geometrinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Pyrochlora&lt;/i&gt; Warren is revised and three new species are described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;motilonia,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Costa Rica and Nicaragua, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kuklase,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from mountainous Ecuador, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vogli,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Northern Venezuela. Wings pattern and genitalic structures of all five species are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Geometridae; &lt;i&gt;Pyrochlora&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;motilonia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kuklase&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vogli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; male genitalia; keys; geographical distribution.</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jaan</firstname>
+          <lastname>Viidalepp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-65</pages>
+        <date_published>2009-01-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Resurrection of the name &lt;i&gt;Pachycheta&lt;/i&gt; Portschinsky for a genus of Tachinidae (Diptera)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>E.</middlename>
+          <lastname>OHara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2009-01-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2177.1</id>
+    <title locale="en_US">6 Aug. 2009</title>
+    <volume>2177</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Gomphidae of Guangdong &amp; Hong Kong, China (Odonata: Anisoptera)</title>
+        <abstract locale="en_US">Guangdong is located in south China, which is recognized as a global centre of biodiversity for Gomphidae. Taxonomic and faunistic information is provided for 24 poorly known species of Gomphidae from Guangdong and Hong Kong. A total of 50 gomphid species belonging to 25 genera are enumerated, including 12 newly recorded from Guangdong and one newly recorded from Hong Kong. Four species are synonymised, one subspecies is promoted to species status and new generic combinations are provided for two species. The synonyms comprise: &lt;i&gt;Lamelligomphus&lt;/i&gt; &lt;i&gt;jiuquensis&lt;/i&gt; Liu 1993 = &lt;i&gt;Lamelligomphus&lt;/i&gt; &lt;i&gt;formosanus&lt;/i&gt; (Oguma 1926), &lt;i&gt;Lamelligomphus&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; Zhou and Li 2000 = &lt;i&gt;Lamelligomphus&lt;/i&gt; &lt;i&gt;laetus&lt;/i&gt; Yang and Davies 1993, &lt;i&gt;Melligomphus&lt;/i&gt; &lt;i&gt;moluami&lt;/i&gt; Wilson 1995 = &lt;i&gt;Ophiogomphus&lt;/i&gt; &lt;i&gt;guandongensis&lt;/i&gt; Chao 1994 and &lt;i&gt;Phaeandrogomphus&lt;/i&gt; &lt;i&gt;chaoi&lt;/i&gt; Zhu &amp; Liang 1994 = &lt;i&gt;Phaenandrogomphus&lt;/i&gt; &lt;i&gt;tonkinicus&lt;/i&gt; (Fraser 1926). The subspecies &lt;i&gt;Leptogomphus&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; &lt;i&gt;hongkongensis&lt;/i&gt; Asahina 1988 is elevated to species status, viz &lt;i&gt;Leptogomphus&lt;/i&gt; &lt;i&gt;hongkongensis.&lt;/i&gt; &lt;i&gt;Ophiogomphus&lt;/i&gt; &lt;i&gt;guandongensis&lt;/i&gt; is transferred to &lt;i&gt;Melligomphus&lt;/i&gt; Chao 1990 and &lt;i&gt;Nihonogomphus&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; Lahiri 1987 is transferred to &lt;i&gt;Orientogomphus&lt;/i&gt; Chao 1990. Keys are provided for the identification of Chinese &lt;i&gt;Lamelligomphus&lt;/i&gt; Fraser and all known species of &lt;i&gt;Nihonogomphus&lt;/i&gt; Oguma.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dragonflies; biodiversity; checklist; keys; new status; new combinations; new synonyms</subject>
+          <subject_class locale="en_US">Dragonflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Keith</firstname>
+          <middlename>Duncan Peter</middlename>
+          <lastname>Wilson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zaifu</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2009-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

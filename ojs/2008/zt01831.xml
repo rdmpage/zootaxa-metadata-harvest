@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1831.1</id>
+    <title locale="en_US">30 Jul. 2008</title>
+    <volume>1831</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Arthropods of Hispaniola (Dominican Republic and Haiti): A checklist and bibliography</title>
+        <abstract locale="en_US">This work is a first attempt to integrate into one list and quantify all the known species of Hispaniolan arthropods. It includes all the terrestrial and surrounding marine arthropod species (plus those of Tardigrada and Onychophora) known to me to be reported for the island of Hispaniola until the end of 2007, as well as 158 species that are reported here as new records for the Dominican Republic and the island. A total of 8,237 valid species (6,833 extant and 1,404 fossils) are listed, of which the largest component are the insects (5,676 extant and 824 fossil species). Preliminarily, 2,521 arthropod species (36.9%) are considered to be endemic or unique to Hispaniola. Also 84 species are recognized as introduced. The bibliography complements the taxonomic information and includes over 4,000 titles. Brief annotations are also given on the history of entomology in Hispaniola.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arthropoda; Checklist; Species; endemics; introduced species; Bibliography; Hispaniola; Haiti; Dominican Republic; Greater Antilles; West Indies</subject>
+          <subject_class locale="en_US">Arthropoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>E.</middlename>
+          <lastname>Perez-Gelabert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-530</pages>
+        <date_published>2008-07-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

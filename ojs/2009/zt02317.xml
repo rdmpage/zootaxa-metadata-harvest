@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2317.1</id>
+    <title locale="en_US">22 Dec. 2009</title>
+    <volume>2317</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Larval morphology of &lt;i&gt;Rhantus &lt;/i&gt;Dejean, 1833 (Coleoptera: Dytiscidae: Colymbetinae): descriptions of 22 species and phylogenetic considerations</title>
+        <abstract locale="en_US">Descriptions of larval instars of 22 species of &lt;i&gt;Rhantus&lt;/i&gt; Dejean, 1833 are presented including a detailed chaetotaxic analysis of the cephalic capsule, head appendages, legs, last abdominal segment and urogomphi. A parsimony analysis including 25 &lt;i&gt;Rhantus&lt;/i&gt; species (the 22 species described in this paper + 3 additional ones) from all major zoogeographic regions and representatives of other Colymbetini genera was conducted using the program TNT based on 43 informative larval characteristics. Jackknife values indicate strong support for the monophyly of members of the tribe Colymbetini (Colymbetinae), which is supported by eight synapomorphies. It is postulated that &lt;i&gt;Rhantus&lt;/i&gt; is polyphyletic as &lt;i&gt;Rhantus&lt;/i&gt; &lt;i&gt;(Nartus)&lt;/i&gt; &lt;i&gt;grapii&lt;/i&gt; (Gyllenhal, 1908) and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;monteithi&lt;/i&gt; Balke, Wewalka, Alarie &amp; Ribera, 2007 occur as more closely related phylogenetically to other genera of the tribe Colymbetini than to the &lt;i&gt;Rhantus&lt;/i&gt; species studied. We suggest that the Neotropical species &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;orbignyi&lt;/i&gt; Balke, 1992, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;antarcticus&lt;/i&gt; &lt;i&gt;nahueli&lt;/i&gt; Trémouilles, 1984, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;calidus&lt;/i&gt; (Fabricius, 1792) and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;validus&lt;/i&gt; Sharp, 1882 represent a distinct lineage within the Colymbetini. All these species diverge at the basis of the strict consensus trees prior to all other Colymbetini studied and are characterized by several unique larval character states. Larvae of Palearctic and Nearctic species of &lt;i&gt;Rhantus&lt;/i&gt; were found to share similar character states, which is suggestive of a common phylogenetic origin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"> Dytiscidae; Colymbetini; &lt;i&gt;Rhantus&lt;/i&gt;; larval morphology; chaetotaxy; phylogeny</subject>
+          <subject_class locale="en_US"> Dytiscidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Alarie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariano</firstname>
+          <middlename>C.</middlename>
+          <lastname>Michat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anders</firstname>
+          <middlename>N.</middlename>
+          <lastname>Nilsson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Archangelsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lars</firstname>
+          <lastname>Hendrich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-102</pages>
+        <date_published>2009-12-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

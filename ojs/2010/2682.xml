@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2682.1</id>
+    <title locale="en_US">18 Nov. 2010</title>
+    <volume>2682</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Nephtyidae (Annelida, Polychaeta) from southern Europe</title>
+        <abstract locale="en_US">Eighteen nephtyid species belonging to four different genera are known from southern Europe. In this study we revise the nephtyids from this area and provide descriptions of all the known species. Geographical and bathymetrical distributions are given, together with ecological notes. &lt;i&gt;Inermonephtys&lt;/i&gt; &lt;i&gt;foretmontardoi,&lt;/i&gt; new species, is described, &lt;i&gt;Micronephthys&lt;/i&gt; &lt;i&gt;maryae&lt;/i&gt; is newly synonymized with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stammeri&lt;/i&gt; and &lt;i&gt;Aglaophamus&lt;/i&gt; &lt;i&gt;rubellus&lt;/i&gt; with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;agilis.&lt;/i&gt; New diagnoses are provided for southern European genera and a key to all species from the region is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Polychaeta; &lt;i&gt;Aglaophamus&lt;/i&gt;; &lt;i&gt;Inermonephtys&lt;/i&gt;; &lt;i&gt;Micronephthys&lt;/i&gt;; &lt;i&gt;Nephtys&lt;/i&gt;; taxonomy; South Europe; new species</subject>
+          <subject_class locale="en_US">Polychaeta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ascensão</firstname>
+          <lastname>Ravara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marina</firstname>
+          <middlename>R.</middlename>
+          <lastname>Cunha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fredrik</firstname>
+          <lastname>Pleijel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2010-11-18</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1697.1</id>
+    <title locale="en_US">5 Feb. 2008</title>
+    <volume>1697</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Additions to the holothuroid fauna of the southern African temperate faunistic provinces, with descriptions of new species</title>
+        <abstract locale="en_US">This paper is the third and the final one in the series reporting on the numerous lots of unidentified holothuroids received from the South African and Natal Museums. While the first two papers were limited to the fauna of the subtropical east coast, this paper is limited to the fauna of the temperate region of southern Africa, west of the Port St. Johns-East London area, encompassing the warm and cold temperate faunistic provinces, stretching into Namibia. It records and/or describes 23 nominal and four indeterminate species of mostly dendrochirotid holothuroids. Altogether seven new species and three new records for the region under consideration are included and some new data presented for previously described but poorly known species, where this was lacking. The new species are &lt;i&gt;Sclerothyone&lt;/i&gt; &lt;i&gt;unicolumnus,&lt;/i&gt; &lt;i&gt;Ocnus&lt;/i&gt; &lt;i&gt;rowei,&lt;/i&gt; &lt;i&gt;Cladodactyla&lt;/i&gt; &lt;i&gt;brunspicula,&lt;/i&gt; &lt;i&gt;Panningia&lt;/i&gt; &lt;i&gt;trispicula,&lt;/i&gt; &lt;i&gt;Psolidium&lt;/i&gt; &lt;i&gt;pulcherrimum,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pseudopulcherrimum&lt;/i&gt; and &lt;i&gt;Synallactes&lt;/i&gt; &lt;i&gt;samyni&lt;/i&gt; whereas the new records for South Africa are &lt;i&gt;Pannychia&lt;/i&gt; &lt;i&gt;moseleyi&lt;/i&gt; Théel; for the temperate region, &lt;i&gt;Pawsonellus&lt;/i&gt; &lt;i&gt;africanus&lt;/i&gt; Thandar; and for Namibia, &lt;i&gt;Pseudoaslia&lt;/i&gt; &lt;i&gt;tetracentriophora&lt;/i&gt; Heding.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Holothuroidea; Dendrochirotida; Apodida; Aspidochirotida; Elasipodida; South Africa; new species; new records</subject>
+          <subject_class locale="en_US">Holothuroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ahmed</firstname>
+          <middlename>S.</middlename>
+          <lastname>Thandar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-57</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new giant species of &lt;i&gt;Arthroleptis&lt;/i&gt; (Amphibia: Anura: Arthroleptidae) from the Krokosua Hills Forest Reserve, south-western Ghana</title>
+        <abstract locale="en_US">We describe a new giant species of &lt;i&gt;Arthroleptis&lt;/i&gt; from the eastern part of the Upper Guinean rain forest, West Africa. This species from the Krokosua Hills Forest Reserve, south-western Ghana is the largest member of the genus from West Africa. It differs from all known West African &lt;i&gt;Arthroleptis&lt;/i&gt; by its large size, its peculiar coloration and a number of morphological characters, such as e.g. an extremely broad head. &lt;i&gt;Arthroleptis&lt;/i&gt; &lt;i&gt;krokosua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is most similar to large members of the genus from East and Central Africa, particularly &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;variabilis&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;adolfifriederici&lt;/i&gt; from which it differs in lateral and ventral colouration patterns, larger size (&gt; 43 mm), as well as head shape (heads width / snout-vent length: 0.45; 0.40 in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;variabilis&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;adolfifriederici).&lt;/i&gt; Genetic divergence in 550 bp of 16S rRNA was 4.97–5.14 % between the new species and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;variabilis.&lt;/i&gt; The new species seems to have no apparent affiliations to any other West African member of the genus. All other West African &lt;i&gt;Arthroleptis&lt;/i&gt; are much smaller in size and differ in body shape.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Arthroleptis&lt;/i&gt; &lt;i&gt;krokosua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; forest; Globally Significant Biodiversity Areas ; taxonomy; Upper Guinea</subject>
+          <subject_class locale="en_US">&lt;i&gt;Arthroleptis&lt;/i&gt; &lt;i&gt;krokosua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Raffael</firstname>
+          <lastname>Ernst</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alex</firstname>
+          <middlename>C.</middlename>
+          <lastname>Agyei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark-Oliver</firstname>
+          <lastname>Rodel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2008-02-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

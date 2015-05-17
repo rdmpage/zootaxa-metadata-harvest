@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2382.1</id>
+    <title locale="en_US">26 Feb. 2010</title>
+    <volume>2382</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Trucidocynodon riograndensis &lt;/i&gt;gen. nov. &lt;i&gt;et &lt;/i&gt;sp. nov. (Eucynodontia), a new cynodont from the Brazilian Upper Triassic (Santa Maria Formation)</title>
+        <abstract locale="en_US">An almost complete skeleton of a new carnivorous cynodont from the Upper Triassic of Southern Brazil, &lt;i&gt;Trucidocynodon&lt;/i&gt; &lt;i&gt;riograndensis&lt;/i&gt; gen. nov. &lt;i&gt;et&lt;/i&gt; sp. nov., is described. The new taxon is very similar to &lt;i&gt;Ecteninion&lt;/i&gt; &lt;i&gt;lunensis&lt;/i&gt; Martinez &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 1996 from Upper Triassic of Argentina (Ischigualasto Formation). Both have an elongated skull, large pterygoid flanges, a well developed orbitosphenoid, a relatively short osseous secondary palate, greatly developed canines and sectorial postcanines with posteriorly directed cusps. However, the new taxon shows some differences relative to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lunensis&lt;/i&gt; such as an open pterygoparoccipital foramen, the posterior opening of the post-temporal foramen enclosed by tabular and squamosal, and upper incisors with serrated cutting edges. The more remarkable features of the postcranium of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;riograndensis&lt;/i&gt; are the presence of 32 presacral vertebrae, a greater number than in most of non-mammaliaform cynodonts, the accentuated lumbarisation of the posterior trunk vertebrae and a remarkable morphological gradient in the caudal vertebrae; the femur and humerus show some interesting adaptations suggesting a more upright limb posture. The overall morphology of the astragalocalcaneal complex is similar to that of &lt;i&gt;Diademodon&lt;/i&gt; and of the therocephalian &lt;i&gt;Bauria.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Therapsida; Cynodontia; phylogeny; Carnian</subject>
+          <subject_class locale="en_US">Therapsida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Téo</firstname>
+          <middlename>Veiga</middlename>
+          <lastname>De Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marina</firstname>
+          <middlename>Bento</middlename>
+          <lastname>Soares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cesar</firstname>
+          <middlename>Leandro</middlename>
+          <lastname>Schultz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-71</pages>
+        <date_published>2010-02-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

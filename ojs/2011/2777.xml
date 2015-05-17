@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2777.1</id>
+    <title locale="en_US">25 Feb. 2011</title>
+    <volume>2777</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic treatment of the endemic Malagasy praying mantis genus &lt;i&gt;Hyalomantis &lt;/i&gt;GIGLIO-TOS, 1915, with a new synonymy and the description of three new species (Mantodea, Iridopterygidae, Tropidomantinae)</title>
+        <abstract locale="en_US">The praying mantis genus &lt;i&gt;Hyalomantis&lt;/i&gt; Giglio-Tos, 1915 (Mantodea, Iridopterygidae, Tropidomantinae) historically included two species, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;madagascariensis&lt;/i&gt; Saussure, 1870 and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; Giglio-Tos, 1915. However, we found that &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; is a junior synonym through investigation of the original descriptions and specimen comparisons. We have redescribed &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;madagascariensis&lt;/i&gt; to encompass variability of color patterns that may have led to the description of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;punctata.&lt;/i&gt; The taxonomic history for the genus and species is outlined partly to resolve under Article 33.3.1 of the Code (ICZN, 4 th edition) an incorrect subsequent spelling of &lt;i&gt;Miopteryx&lt;/i&gt; &lt;i&gt;madagascarensis&lt;/i&gt; Saussure, 1870 that is in prevailing use. In addition, we add three new species to the genus described from Madagascar: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;antsingica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;murzini&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;whitingi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; A key to the four species in English and French is provided for increase accessibility to the people of Madagascar. Illustrations of major features used to diagnose species are provided including the head, pronotum, and male genitalia. Species distribution is presented and locality coordinates are provided in print as well as being available for download as a KML file viewable in Google Earth.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mantodea; Tropidomantinae; &lt;i&gt;Hyalomantis&lt;/i&gt;; revision; classification; taxonomy; Madagascar</subject>
+          <subject_class locale="en_US">Mantodea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gavin</firstname>
+          <middlename>J.</middlename>
+          <lastname>Svenson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <lastname>Roy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2011-02-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The immature stages of &lt;i&gt;Tropisternus &lt;/i&gt;(&lt;i&gt;Pleurhomus&lt;/i&gt;) &lt;i&gt;sahlbergi &lt;/i&gt;(Sharp) (Coleoptera: Hydrophilidae), with considerations on the primary chaetotaxy of &lt;i&gt;Tropisternus &lt;/i&gt;Solier</title>
+        <abstract locale="en_US">The preimaginal stages of &lt;i&gt;Tropisternus&lt;/i&gt; (Pleurhomus) &lt;i&gt;sahlbergi&lt;/i&gt; (Sharp, 1883) are described for the first time, including illustrations and photographs of the egg case, all larval instars and pupa. The descriptions emphasize on the morphometry and chaetotaxy, following current standards in larval descriptions within Hydrophilidae. Preliminary evidence is presented for a placement of &lt;i&gt;Pleurhomus&lt;/i&gt; Sharp, 1833 within &lt;i&gt;Tropisternus&lt;/i&gt; Solier, 1834, in agreement with a recent phylogenetic analysis based on adult characters. &lt;i&gt;Tropisternus&lt;/i&gt; (P.) &lt;i&gt;sahlbergi&lt;/i&gt; is characterized by a brown to dark brown head capsule without color pattern, mandibles with strongly serrated inner margins, a short seta PA11 in comparison to PA14, the absence of seta AN8, the absence of a distal secondary seta on the outer margin of the first maxillary palpomere and the dorsal surface of the mentum almost entirely covered by spinulae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hydrophilinae; Hydrophilina; larva; pupa; egg case; morphology; setae and pores</subject>
+          <subject_class locale="en_US">Hydrophilinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patricia</firstname>
+          <middlename>L. M.</middlename>
+          <lastname>Torres</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariano</firstname>
+          <middlename>C.</middlename>
+          <lastname>Michat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Archangelsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-40</pages>
+        <date_published>2011-02-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Five new species and one new subspecies of Micronoctuidae from China, with a checklist of Chinese species, including Taiwan (Lepidoptera: Noctuoidea, Micronoctuidae)</title>
+        <abstract locale="en_US">Five new species and one subspecies of the family Micronoctuidae (Lepidoptera, Noctuoidea) (Bellulia &lt;i&gt;bibella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Parachrostia&lt;/i&gt; &lt;i&gt;pura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Tactusa&lt;/i&gt; &lt;i&gt;virga&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;flexus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;discrepans&lt;/i&gt; &lt;i&gt;yunnanensis&lt;/i&gt; &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;n.)&lt;/b&gt; are described from South China (provinces Yunnan and Guizhou). Three species, &lt;i&gt;Mimachrostia&lt;/i&gt; &lt;i&gt;fasciata&lt;/i&gt; Sugi, 1982, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;discrepans&lt;/i&gt; Fibiger, 2010 and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;pars&lt;/i&gt; Fibiger, 2010 are reported from China for the first time. An updated checklist of the Micronoctuidae from China, including Taiwan is presented consisting of 28 species and 2 two subspecies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Noctuoidea; Micronoctuidae; new species; checklist; China; Taiwan</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Fibiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hui-Lin</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-53</pages>
+        <date_published>2011-02-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of the subfamily Philinae (Coleoptera: Vesperidae)</title>
+        <abstract locale="en_US">A new philine species belonging to a new genus, &lt;i&gt;Spiniphilus&lt;/i&gt; &lt;i&gt;spinicornis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from Yunnan, China. The genus differs from other genera of the Philinae in the male antennae, segments 3–10 of which bear a long flattened lateroapical spine. Female of &lt;i&gt;Heterophilus&lt;/i&gt; is briefly described for the first time. Photographs of the habitus and some morphological details are provided and the genera of the Philinae are keyed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Spiniphilus&lt;/i&gt; &lt;i&gt;spinicornis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Heterophilus&lt;/i&gt;; Vesperidae; Philinae; Cerambycidae; China; Yunnan; key to genera</subject>
+          <subject_class locale="en_US">&lt;i&gt;Spiniphilus&lt;/i&gt; &lt;i&gt;spinicornis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Heterophilus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Meiying</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wenxuan</firstname>
+          <lastname>Bi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-60</pages>
+        <date_published>2011-02-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new Patagonian species of &lt;i&gt;Atrichopogon &lt;/i&gt;(&lt;i&gt;Meloehelea&lt;/i&gt;) (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US">Two new species of the subgenus &lt;i&gt;Atrichopogon&lt;/i&gt; (Meloehelea) from Patagonia, &lt;i&gt;Atrichopogon&lt;/i&gt; (M.) &lt;i&gt;macrodentatum&lt;/i&gt; from the &lt;i&gt;Nothofagus&lt;/i&gt; forests, and &lt;i&gt;A.&lt;/i&gt; (M.) &lt;i&gt;monomorphicus&lt;/i&gt; from steppe areas in the ecotone with forests, are described and a key of the Patagonian species of the subgenus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Atrichopogon&lt;/i&gt;; &lt;i&gt;Meloehelea&lt;/i&gt;; new species; biting midge; Patagonia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Atrichopogon&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <middlename>I.</middlename>
+          <lastname>Marino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrea</firstname>
+          <lastname>Tóthová</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>R</middlename>
+          <lastname>Spinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2011-02-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

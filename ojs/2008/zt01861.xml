@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1861.1</id>
+    <title locale="en_US">1 Sep. 2008</title>
+    <volume>1861</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">"Dalyellioida" (Platyhelminthes, Rhabdocoela) from the Río de la Plata estuary in Argentina, with the description of two new species of &lt;i&gt;Gieysztoria&lt;/i&gt; </title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Gieysztoria&lt;/i&gt; are described, along with the first record of two species of this genus in Argentina. &lt;i&gt;Gieysztoria&lt;/i&gt; &lt;i&gt;atalaya&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; has a sclerotic stylet with a window on one of its sides and a belt bearing three types of spines. One hollow spine, originated under the window, is basally broad and tapers towards its blunt distal end. This spine separates the other two groups of spines, one of approximately ten thick spines situated on the edge of the belt, and the other arranged in several rows. The proximal row bears approximately 10 triangular spines, broad at the base and rapidly tapering. &lt;i&gt;Gieysztoria&lt;/i&gt; &lt;i&gt;matilde&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; has a sclerotic stylet with a belt formed by a fibrous framework and a circular window. A central projection arising under this window bears a large blade-shaped hollow spine. This spine separates two major groups of thin spines, one formed by several parallel rows of hollow, acicular, very thin spines, the other comprising hollow and slightly thicker spines with broader base, arranged in several irregular rows. &lt;i&gt;Gieysztoria&lt;/i&gt; &lt;i&gt;evelinae&lt;/i&gt; (Marcus 1946) Luther 1955, &lt;i&gt;Gieysztoria&lt;/i&gt; &lt;i&gt;hymanae&lt;/i&gt; (Marcus 1946) Luther 1955 and &lt;i&gt;Gieysztoria&lt;/i&gt; &lt;i&gt;falx&lt;/i&gt; Brusa, Damborenea and Noreña 2003 are reported for the second time after their original description. &lt;i&gt;Nygulus&lt;/i&gt; &lt;i&gt;evelinae&lt;/i&gt; Marcus 1954 is cited for the first time for Argentina; until now, this species was known only for the estuary of Itanhaen River in Bahia de Santos, Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dalyelliidae; &lt;i&gt;Gieysztoria&lt;/i&gt;; Graffillidae; &lt;i&gt;Nygulgus&lt;/i&gt;; turbellarian; benthos</subject>
+          <subject_class locale="en_US">Dalyelliidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <lastname>Brusa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristina</firstname>
+          <lastname>Damborenea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carolina</firstname>
+          <lastname>Noreña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of deep-sea spider crabs of the genus &lt;i&gt;Cyrtomaia&lt;/i&gt; Miers, 1886, from the Pacific Ocean, with description of a new species (Crustacea: Decapoda: Brachyura: Majidae) </title>
+        <abstract locale="en_US">Recent collections of deep-sea majid crabs from the South Pacific Ocean and Taiwan provide new records of five species of &lt;i&gt;Cyrtomaia&lt;/i&gt; Miers, 1886, and a new species from French Polynesia, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;polynesica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The news species is most similar to the recently described &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;micronesica&lt;/i&gt; Richer de Forges &amp; Ng, 2007, but differs from this species in the morphology of its carapace and pereopods.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Majidae; &lt;i&gt;Cyrtomaia&lt;/i&gt;; taxonomy; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bertrand</firstname>
+          <middlename>Richer</middlename>
+          <lastname>De Forges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-28</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new spider species of the genera &lt;i&gt;Aysenia &lt;/i&gt;and &lt;i&gt;Aysenoides&lt;/i&gt; from southern Chile and Argentina: description and phylogenetic relationships (Araneae: Anyphaenidae, Amaurobioidinae)</title>
+        <abstract locale="en_US">Two new spider species of the genera &lt;i&gt;Aysenia&lt;/i&gt; Tullgren and &lt;i&gt;Aysenoides&lt;/i&gt; Ramírez (Anyphaenidae) from Malleco province, southern Chile, are described and their phylogenetic relationships discussed. The phylogenetic analysis confirmed the monophyly of &lt;i&gt;Aysenia&lt;/i&gt; and &lt;i&gt;Aysenoides.&lt;/i&gt; Support values for both genera are relatively high, compared with other members of the tribe Amaurobioidini, but support values for some internal branches are low. The genus &lt;i&gt;Aysenia&lt;/i&gt; is supported by two synapomorphies corresponding to the shape of the dorsal shield of prosoma and absence of a group of spines on the tibia III, while &lt;i&gt;Aysenoides&lt;/i&gt; is supported by four synapomorphies from gentialia and posterior eye proportions. The length of the male embolus and of the female copulatory duct seem to be functionally correlated in &lt;i&gt;Aysenia.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spiders; Anyphaenidae; Neotropical Region; systematics; cladistics</subject>
+          <subject_class locale="en_US">Spiders</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matías</firstname>
+          <middlename>A.</middlename>
+          <lastname>Izquierdo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ramírez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-43</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Leptodactylus&lt;/i&gt; Fitzinger (Anura, Leptodactylidae) from Serra do Brigadeiro, State of Minas Gerais, Southeastern Brazil </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Leptodactylus&lt;/i&gt; belonging to the &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;fuscus&lt;/i&gt; species group, and related to the &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mystaceus&lt;/i&gt; complex, is described from the Lagoa das Bromélias (20 o 53’S, 42 o 31’W; 1,227 m above sea level), Parque Estadual da Serra do Brigadeiro, Municipality of Ervália, State of Minas Gerais, Southeastern Brazil. &lt;i&gt;Leptodactylus&lt;/i&gt; &lt;i&gt;cupreus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized by the large size for the group (SVL 50.1–55.1 mm in males) and color pattern. The new species has a non-pulsed advertisement call, with call rate about 12 calls/s and a dominant frequency between 2,800 and 3,058 Hz.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; &lt;i&gt;Leptodactylus&lt;/i&gt; &lt;i&gt;cupreus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; advertisement call; taxonomy</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulisses</firstname>
+          <lastname>Caramaschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renato</firstname>
+          <middlename>N.</middlename>
+          <lastname>Feio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vinícius</firstname>
+          <middlename>A.</middlename>
+          <lastname>São-Pedro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-54</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the validity of &lt;i&gt;Stegoloxodon&lt;/i&gt; Kretzoi, 1950 (Mammalia: Proboscidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Georgi</firstname>
+          <middlename>N.</middlename>
+          <lastname>Markov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Haruo</firstname>
+          <lastname>Saegusa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-56</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Alabama Bass, &lt;i&gt;Micropterus henshalli&lt;/i&gt; (Teleostei: Centrarchidae), from the Mobile River basin</title>
+        <abstract locale="en_US">The Alabama Bass, &lt;i&gt;Micropterus&lt;/i&gt; &lt;i&gt;henshalli,&lt;/i&gt; was diagnosed as a subspecies of &lt;i&gt;Micropterus&lt;/i&gt; &lt;i&gt;punctulatus&lt;/i&gt; from the Mobile River basin, Alabama, Georgia, and Mississippi, USA, by Hubbs and Bailey (1940). The species has been introduced in the Chattahoochee River, as has the Spotted Bass, &lt;i&gt;Micropterus&lt;/i&gt; &lt;i&gt;punctulatus.&lt;/i&gt; &lt;i&gt;Micropterus&lt;/i&gt; &lt;i&gt;henshalli&lt;/i&gt; differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;punctulatus,&lt;/i&gt; with which it has been aligned, by having higher scales counts, a narrower head, smaller scale width, higher gill raker count, and a smaller tooth patch. It also has a narrower and more elongate body shape than does &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;punctulatus.&lt;/i&gt; The Alabama Bass is relatively common in streams and rivers throughout the Mobile River basin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alabama; Spotted Bass; black bass; Alabama River</subject>
+          <subject_class locale="en_US">Alabama</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Winston</firstname>
+          <middlename>H.</middlename>
+          <lastname>Baker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carol</firstname>
+          <middlename>E.</middlename>
+          <lastname>Johnston</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <middlename>W.</middlename>
+          <lastname>Folkerts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-67</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum ( JAYASANKAR, P. &lt;i&gt;et al. &lt;/i&gt;(2008) Molecular Identification of Delphinids and Finless Porpoise (Cetacea) from the Arabian Sea and Bay of Bengal. &lt;i&gt;Zootaxa&lt;/i&gt;, 1853, 57-67.)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2008-09-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

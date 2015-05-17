@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2992.1</id>
+    <title locale="en_US">11 Aug. 2011</title>
+    <volume>2992</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On the need to follow rigorously the Rules of the &lt;i&gt;Code &lt;/i&gt;for the subsequent designation of a nucleospecies (type species) for a nominal genus which lacked one: the case of the nominal genus &lt;i&gt;Trimeresurus &lt;/i&gt;Lacépède, 1804 (Reptilia: Squamata: Viperidae) </title>
+        <abstract locale="en_US">This paper analyzes the consequences of the non-respect of the Rules of the &lt;i&gt;Code&lt;/i&gt; to ascertain the valid subsequent designation of the nucleospecies (type species) of the nominal genus &lt;i&gt;Trimeresurus&lt;/i&gt; Lacépède, 1804. The long accepted designation was invalid because it was based on a nominal species which was not among the prenucleospecies (originally included species) of the nominal genus. In contrast with the commonly accepted viewpoint which makes the Indian taxon &lt;i&gt;Coluber&lt;/i&gt; &lt;i&gt;gramineus&lt;/i&gt; Shaw, 1802 the nucleospecies of the genus, we show that this role is played by &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;viridis&lt;/i&gt; Lacépède, 1804, a species inhabiting the Lesser Sunda Islands and Timor and, as a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;oblitum,&lt;/i&gt; a senior synonym of &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;albolabris&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; Kramer, 1977, a taxon now considered a distinct species. The important nomenclatural implications of this finding are discussed here, especially with regard to the recent splitting of the genus &lt;i&gt;Trimeresurus.&lt;/i&gt; The generic nomen &lt;i&gt;Trimeresurus&lt;/i&gt; should be associated with the &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;albolabris&lt;/i&gt; group of species currently placed in the genus or subgenus &lt;i&gt;Cryptelytrops&lt;/i&gt; Cope, 1860. A lectophoront (lectotype) is selected and described for &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;viridis&lt;/i&gt; Lacépède, 1804. &lt;i&gt;Coluber&lt;/i&gt; &lt;i&gt;viridis&lt;/i&gt; Bechstein, 1802 is an invalid objective junior synonym of &lt;i&gt;Coluber&lt;/i&gt; &lt;i&gt;gramineus&lt;/i&gt; Shaw, 1802. The current content of the genus &lt;i&gt;Trimeresurus&lt;/i&gt; and of its eight subgenera is provided. Some clarifications or improvements to the &lt;i&gt;Code&lt;/i&gt; are suggested.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nomenclature; Onomatophore; Nucleospecies; Nominal species; Spelling; Type species; Prenucleospecies; &lt;i&gt;Trimeresurus&lt;/i&gt;; &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;viridis&lt;/i&gt;; &lt;i&gt;Cryptelytrops&lt;/i&gt;; &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt;; New synonym</subject>
+          <subject_class locale="en_US">Nomenclature</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-51</pages>
+        <date_published>2011-08-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Spinipterus&lt;/i&gt;, a new genus of small, spiny catfish (Siluriformes: Auchenipteridae) from the Peruvian Amazon </title>
+        <abstract locale="en_US">A new species of small auchenipterid catfish is described based on a single specimen from the Amazon basin and is placed into a new genus. &lt;i&gt;Spinipterus,&lt;/i&gt; new genus, is diagnosed by the following striking autapomorphic features: pectoral and dorsal-fin spines with four prominent rows of serrations; lateral margin of the skull roofing bones ornamented with a single row of spines; size reduction of hipurals; elongation and angle of posterior cleithral process; and adducted dorsal fin rests into a mid-dorsal groove. The new genus also differs from most other auchenipterid genera by having lower counts for some fin rays. Current diagnoses of auchenipterid genera do not allow us to place the new species into any genus, which requires us to propose the new genus &lt;i&gt;Spinipterus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical region; driftwood catfish; miniaturization; sexual dimorphism</subject>
+          <subject_class locale="en_US">Neotropical region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alberto</firstname>
+          <lastname>Akama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carl</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ferraris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-60</pages>
+        <date_published>2011-08-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Diplocentrus bicolor &lt;/i&gt;sp. n. (Scorpiones: Diplocentridae) from Jalisco, Mexico </title>
+        <abstract locale="en_US">&lt;i&gt;Diplocentrus&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Huejuquilla el Alto, in northern Jalisco and two nearby localities in Zacatecas is described. It is compared to its geographically closer species from Zacatecas, Aguascalientes and Nayarit. A map with its known distribution is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">scorpion; Diplocentridae; &lt;i&gt;Diplocentrus&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt;; new species; Mexico; Jalisco</subject>
+          <subject_class locale="en_US">scorpion</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gerardo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Contreras-Félix</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>E.</middlename>
+          <lastname>Santibáñez-López</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2011-08-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

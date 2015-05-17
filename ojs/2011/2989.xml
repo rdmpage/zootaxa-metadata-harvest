@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2989.1</id>
+    <title locale="en_US">9 Aug. 2011</title>
+    <volume>2989</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogeny, taxonomy, and zoogeography of the genus &lt;i&gt;Gekko &lt;/i&gt;Laurenti, 1768 with the revalidation of &lt;i&gt;G&lt;/i&gt;. &lt;i&gt;reevesii &lt;/i&gt;Gray, 1831 (Sauria: Gekkonidae)</title>
+        <abstract locale="en_US">A review of the taxonomy, phylogeny, and zoogeography of all currently recognized &lt;i&gt;Gekko&lt;/i&gt; species is provided based on morphology (including size, scalation, color, and pattern) and mitochondrial and nuclear DNA sequence data. We distinguish six morphological (phenotypic) species groups within the gekkonid genus &lt;i&gt;Gekko:&lt;/i&gt; the &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gecko,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;japonicus,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;monarchus,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;petricolus,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;porosus,&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;vittatus&lt;/i&gt; groups, all of which receive support from molecular phylogenetics. The taxon &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;reevesii,&lt;/i&gt; formerly evaluated as a synonym of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gekko,&lt;/i&gt; is revalidated herein at specific rank. Furthermore, a preliminary identification key of all currently recognized &lt;i&gt;Gekko&lt;/i&gt; taxa is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">gecko; morphology; phylogeny; taxonomy; molecular phylogenetics; species groups; revalidation; &lt;i&gt;Gekko&lt;/i&gt; &lt;i&gt;reevesii&lt;/i&gt;; biogeography</subject>
+          <subject_class locale="en_US">gecko</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Herbert</firstname>
+          <lastname>Rösler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aaron</firstname>
+          <middlename>M.</middlename>
+          <lastname>Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Heinicke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eli</firstname>
+          <lastname>Greenbaum</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Todd</firstname>
+          <lastname>Jackman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Truong</firstname>
+          <middlename>Quang</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Ziegler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2011-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Eleven new species of the genus &lt;i&gt;Belisana &lt;/i&gt;Thorell (Araneae: Pholcidae) from South China</title>
+        <abstract locale="en_US">Eleven new species of the spider genus &lt;i&gt;Belisana&lt;/i&gt; are reported from South China: &lt;i&gt;Belisana&lt;/i&gt; &lt;i&gt;galeiformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bawangensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;chaoanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;diaoluoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;longinqua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;parallelica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;erromena&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;lata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;colubrina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;tianlinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;yangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Somatic and genitalic features are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; pholcine; &lt;i&gt;Belisana&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Qiu</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2011-08-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

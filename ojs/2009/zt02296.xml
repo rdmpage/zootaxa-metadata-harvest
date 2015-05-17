@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2296.1</id>
+    <title locale="en_US">24 Nov. 2009</title>
+    <volume>2296</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the endemic South African spider genus &lt;i&gt;Austrachelas&lt;/i&gt;, with its transfer to the Gallieniellidae (Arachnida: Araneae)</title>
+        <abstract locale="en_US">The endemic South African spider genus &lt;i&gt;Austrachelas&lt;/i&gt; Lawrence, 1938 is revised. The type species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;incertus&lt;/i&gt; Lawrence, 1938, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; Lawrence, 1942, are redescribed, and their males described for the first time. Seven new species are described: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bergi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (female only), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kalaharinus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (male only), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;merwei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (both sexes), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pondoensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (both sexes), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;reavelli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (both sexes), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sexoculata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (male only), and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;wassenaari&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (both sexes). A cladistic analysis performed including &lt;i&gt;Austrachelas&lt;/i&gt; and various species of the corinnid subfamilies Trachelinae, Castianeirinae, Corinninae and Phrurolithinae, and species from the Liocranidae, Gallieniellidae, Gnaphosidae and Lamponidae, suggests that &lt;i&gt;Austrachelas&lt;/i&gt; is currently misplaced. Its transfer to the Gallieniellidae is proposed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Charles</firstname>
+          <middlename>R.</middlename>
+          <lastname>Haddad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robin</firstname>
+          <lastname>Lyle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Bosselaers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martin</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ramirez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2009-11-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Periclimenes brockii &lt;/i&gt;(De Man, 1888) (Decapoda: Caridea: Pontoniinae) and other De Mans type specimens deposited in the collection of the Senckenberg Natural History Museum (SMF), Frankfurt-at-Maine, Germany</title>
+        <abstract locale="en_US">The type specimens of 3 species described by Dr. Johannes Govertus De Man, &lt;i&gt;Cuapetes&lt;/i&gt; &lt;i&gt;amymone&lt;/i&gt; (De Man, 1902), &lt;i&gt;Periclimenella&lt;/i&gt; &lt;i&gt;spinifera&lt;/i&gt; (De Man, 1902), &lt;i&gt;Periclimenes&lt;/i&gt; &lt;i&gt;brockii&lt;/i&gt; (De Man, 1888), were re-examined in the collection of the Senckenberg Natural History Museum (SMF), Frankfurt-at-Maine, Germany. &lt;i&gt;Periclimenes&lt;/i&gt; &lt;i&gt;brockii&lt;/i&gt; De Man, 1888 is found to be a senior synonym of &lt;i&gt;Allopontonia&lt;/i&gt; &lt;i&gt;iaini&lt;/i&gt; Bruce, 1972 and &lt;i&gt;Periclimenes&lt;/i&gt; &lt;i&gt;priodactylus&lt;/i&gt; Bruce, 1992.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Caridea; &lt;i&gt;Allopontonia&lt;/i&gt;; De Man; type specimen; redescription</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ivan</firstname>
+          <lastname>Marin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Türkay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-46</pages>
+        <date_published>2009-11-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Extraordinary cranial specialization in a new genus of extinct duck (Aves: Anseriformes) from Kauai, Hawaiian Islands</title>
+        <abstract locale="en_US">&lt;i&gt;Talpanas&lt;/i&gt; &lt;i&gt;lippa&lt;/i&gt; is described as a new genus and species of waterfowl from Kauai, Hawaiian Islands, that is unlike any other known member of the order. It is characterized by a short, stout tarsometatarsus and a braincase that is shallow and wide relative to its length with very small orbits. In comparison with extant species, the optic foramen of &lt;i&gt;Talpanas&lt;/i&gt; is remarkably small whereas the maxillo-mandibular foramen, which is the exit point of the trigeminal nerve, is grossly enlarged. Relative to skull length and foramen magnum area, the maxillo-mandibular foramen is one order of magnitude larger in cross-sectional area than that of extant Anseriformes. We conclude that &lt;i&gt;Talpanas&lt;/i&gt; had reduced visual abilities, as reflected externally by its small orbits and optic foramen, and a grossly hypertrophied trigeminal foramen. Taken together, this suggests that &lt;i&gt;Talpanas&lt;/i&gt; may have been more heavily reliant upon somatosensory (tactile) cues for foraging than any living species of bird. Pectoral elements are unknown, but the evident lack of keen eyesight suggests that the species was flightless, as were many other insular waterfowl.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anatidae; somatosensory; trigeminal nerve; optic nerve; vision; Hawaiian Islands</subject>
+          <subject_class locale="en_US">Anatidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>N.</middlename>
+          <lastname>Iwaniuk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Storrs</firstname>
+          <middlename>L.</middlename>
+          <lastname>Olson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Helen</firstname>
+          <middlename>F.</middlename>
+          <lastname>James</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-67</pages>
+        <date_published>2009-11-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">ErratumSCHORIES, S., MEYER, M.K. &amp; SCHARTL, M. (2009) Description of &lt;i&gt;Poecilia&lt;/i&gt; (&lt;i&gt;Acanthophacelus&lt;/i&gt;) &lt;i&gt;obscura &lt;/i&gt;n. sp&lt;i&gt;.&lt;/i&gt;, (Teleostei: Poeciliidae), a new guppy species from western Trinidad, with remarks on &lt;i&gt;P. wingei &lt;/i&gt;and the status of the Endlers guppy. &lt;i&gt;Zootaxa&lt;/i&gt;, 2266, 3550.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2009-11-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

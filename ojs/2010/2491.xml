@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2491.1</id>
+    <title locale="en_US">2 Jun. 2010</title>
+    <volume>2491</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic review of &lt;i&gt;Physalaemus olfersii &lt;/i&gt;(Lichtenstein &amp; Martens, 1856) with revalidation of &lt;i&gt;Physalaemus lateristriga &lt;/i&gt;(Steindachner, 1864) and description of two new related species (Anura: Leiuperidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;olfersii&lt;/i&gt; was described by M.H.K. Lichtenstein and E.K. Martens in 1856 based on two syntypes collected by I.M. Olfers between the years 1818 and 1819. Due to the brevity of it’s original description and high interpopulational variation, a taxonomic review of material assigned to the species is proposed. Morphological comparisons allowed us to associate the syntype of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;olfersii&lt;/i&gt; to populations distributed between the state of Espírito Santo and of São Paulo to which the southern limit is the to the municipality of São Paulo. Historical documents allowed us to define an area within Serra do Mar mountain range as the type locality of the species. Morphological and acoutics comparisons of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;olfersii&lt;/i&gt; from different localities in southern and southeastern Brazil revealed considerable variation among populations. Differences in call parameters and morphology, led us to conclude that three more species where under the name &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;olfersii:&lt;/i&gt; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;lateristriga&lt;/i&gt; (Steindachner, 1864) comb. nov. and two new species, &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;feioi&lt;/i&gt; sp. nov. and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;orophilus&lt;/i&gt; sp. nov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;lateristriga&lt;/i&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;feioi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;orophilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Atlantic Rain Forest Domain; Geographic distribution; Advertisement call</subject>
+          <subject_class locale="en_US">Amphibia; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;lateristriga&lt;/i&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;feioi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Physalaemus&lt;/i&gt; &lt;i&gt;orophilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Atlantic Rain Forest Domain; Geographic distribution; Advertisement call</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carla</firstname>
+          <middlename>Santana</middlename>
+          <lastname>Cassini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>Alberto Gonçalves</middlename>
+          <lastname>Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulisses</firstname>
+          <lastname>Caramaschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2010-06-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the rare orb weaving spider genus &lt;i&gt;Deione &lt;/i&gt;(Araneae: Araneidae) from China</title>
+        <abstract locale="en_US">The orb-weaving spider genus &lt;i&gt;Deione&lt;/i&gt; is diagnosed by having two pairs of vertically arranged humps posteriorly on the abdomen and by the enlarged tibia II of males. Two new species of this genus from Yunnan Province in China, &lt;i&gt;Deione&lt;/i&gt; &lt;i&gt;ovata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Deione&lt;/i&gt; &lt;i&gt;renaria&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are described here.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; orb-weaver spider; new species; &lt;i&gt;Deione&lt;/i&gt;; China</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Qi</firstname>
+          <lastname>Mi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xian-Jin</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chang-Min</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-40</pages>
+        <date_published>2010-06-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Arcanobisium&lt;/i&gt;, a remarkable new genus, representing a new subfamily with a relictual distribution from eastern Spain (Arachnida: Pseudoscorpiones: Syarinidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Arcanobisium&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described for &lt;i&gt;Arcanobisium&lt;/i&gt; &lt;i&gt;comasi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from a limestone cave in the Valencian Community, Castellón province, Spain. By its unique features, compared to other syarinids, it warrants the creation of a new subfamily, Arcanobisiinae, for its accommodation. Some characters of the Syarinidae are evaluated and the genera &lt;i&gt;Chitrellina&lt;/i&gt; Muchmore, 1996, &lt;i&gt;Hadoblothrus&lt;/i&gt; Beier, 1952, &lt;i&gt;Microcreagrella&lt;/i&gt; Beier, 1961 and &lt;i&gt;Microcreagrina&lt;/i&gt; Beier, 1961 are transferred to the subfamily Ideobisiinae from the Chitrellinae. A key to the subfamilies of Syarinidae is given. The relictual status of the new subfamily is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pseudoscorpiones; Syarinidae; cave; Valencian Community; Spain</subject>
+          <subject_class locale="en_US">Pseudoscorpiones</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>A.</middlename>
+          <lastname>Zaragoza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-60</pages>
+        <date_published>2010-06-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Godzilliognomus schrami&lt;/i&gt;, a new species of Remipedia (Crustacea) from Eleuthera, Bahamas</title>
+        <abstract locale="en_US">&lt;i&gt;Godzilliognomus&lt;/i&gt; &lt;i&gt;schrami,&lt;/i&gt; a new species of the crustacean class Remipedia, Yager, 1981 is the second species assigned to the genus. The new species, with an average body length of 6.8 mm, was collected from an anchialine cave on the Bahamian island of Eleuthera. &lt;i&gt;Godzilliognomus&lt;/i&gt; &lt;i&gt;schrami&lt;/i&gt; can be distinguished from the other species in the genus, &lt;i&gt;Godzilliognomus&lt;/i&gt; &lt;i&gt;frondosus&lt;/i&gt; Yager, 1989 by narrower and less trapezoidal tergites, frontal filaments that differ regarding the shape and insertion of the medial process, and dorsal antennular rami composed of only ten segments.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Godzilliidae; anchialine caves; blue holes</subject>
+          <subject_class locale="en_US">Godzilliidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thomas</firstname>
+          <middlename>M.</middlename>
+          <lastname>Iliffe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tina</firstname>
+          <lastname>Otten</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefan</firstname>
+          <lastname>Koenemann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-06-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

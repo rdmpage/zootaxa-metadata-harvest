@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2007.1</id>
+    <title locale="en_US">11 Feb. 2009</title>
+    <volume>2007</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Redescription of the type species of &lt;i&gt;Strandesia &lt;/i&gt;Stuhlmann, 1888 and &lt;i&gt;Cypricercus&lt;/i&gt; Sars, 1895 (Crustacea, Ostracoda, Cypricercinae), with a description of a new species of &lt;i&gt;Cypricercus &lt;/i&gt;from South Africa</title>
+        <abstract locale="en_US">We redescribe &lt;i&gt;Cypricercus&lt;/i&gt; &lt;i&gt;cuneatus&lt;/i&gt; Sars, 1895 and &lt;i&gt;Strandesia&lt;/i&gt; &lt;i&gt;mercatorum&lt;/i&gt; (Vavra, 1895), type species of their genera, in order to reassess the taxonomic position of species in &lt;i&gt;Cypricercus&lt;/i&gt; s.l. and &lt;i&gt;Strandesia&lt;/i&gt; s.l., as well as to clarify the distinction between &lt;i&gt;Cypricercus&lt;/i&gt; s.s. and &lt;i&gt;Strandesia&lt;/i&gt; s.s. The morphology, taxonomy and zoogeography of these two genera are discussed. &lt;i&gt;Strandesia&lt;/i&gt; &lt;i&gt;amati&lt;/i&gt; (Martens, 1984) is synonymised with &lt;i&gt;Strandesia&lt;/i&gt; &lt;i&gt;lineata&lt;/i&gt; Victor &amp; Fernando, 1981. &lt;i&gt;Strandesia&lt;/i&gt; &lt;i&gt;trispinosa&lt;/i&gt; &lt;i&gt;galantis&lt;/i&gt; Broodbakker, 1983 becomes a synonym of the nominotypical form. &lt;i&gt;Cypricercus&lt;/i&gt; &lt;i&gt;inermis&lt;/i&gt; (Brady, 1904) is herewith redescribed and reinstated as a valid species, not synonymous to the type species of the genus as was previously thought. One &lt;i&gt;Cypricercus&lt;/i&gt; (C. &lt;i&gt;salinus&lt;/i&gt; De Deckker, 1981) and eleven &lt;i&gt;Strandesia&lt;/i&gt; (S. &lt;i&gt;crassa&lt;/i&gt; Klie, 1939, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;dani&lt;/i&gt; George &amp; Martens, 1993, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;decorata&lt;/i&gt; (Sars, 1903), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lineata&lt;/i&gt; Victor &amp; Fernando, 1981, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;parva&lt;/i&gt; Hartmann, 1964, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tolimensis&lt;/i&gt; Roessler, 1990, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;trichurensis&lt;/i&gt; Victor &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 1980, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;trispinosa&lt;/i&gt; (Pinto &amp; Purper, 1965), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; Hartmann, 1964, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;umbonata&lt;/i&gt; Victor &amp; Fernando, 1981, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;weberi&lt;/i&gt; (Moniez, 1892)) are allocated to &lt;i&gt;Bradleystrandesia.&lt;/i&gt; &lt;i&gt;Cypricercus&lt;/i&gt; &lt;i&gt;mongolicus&lt;/i&gt; Daday, 1909 is transferred to &lt;i&gt;Eucypris.&lt;/i&gt; &lt;i&gt;Cypricercus&lt;/i&gt; &lt;i&gt;xhosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is here described from South Africa. We also propose a conservative list of species belonging to &lt;i&gt;Cypricercus&lt;/i&gt; s.s. and &lt;i&gt;Strandesia&lt;/i&gt; s.s.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Zoogeography; &lt;i&gt;Strandesia&lt;/i&gt;; &lt;i&gt;Cypricercus&lt;/i&gt;; &lt;i&gt;Cypricercus&lt;/i&gt; &lt;i&gt;xhosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sukonthip</firstname>
+          <lastname>Savatenalinton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Koen</firstname>
+          <lastname>Martens</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2009-02-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The giant purple pedinida new species of &lt;i&gt;Caenopedina &lt;/i&gt;(Echinodermata: Echinoidea: Pedinidae) from New Zealand and Australia</title>
+        <abstract locale="en_US">Echinoids of the genus &lt;i&gt;Caenopedina&lt;/i&gt; are widely distributed in continental shelf and slope waters of tropical to subAntarctic regions. A new species, &lt;i&gt;Caenopedina&lt;/i&gt; &lt;i&gt;porphyrogigas&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from temperate and sub-Antarctic areas of New Zealand and southeastern Australia in depths of 350–1200 m. This species is distinctive for the rich brown colour of its spines, purple apical and oral regions, large size, wide interambulacral plates, lack of obvious sexual dimorphism, and few forms of pedicellariae. The first confirmed records outside of the Hawaiian Islands and neighbouring atolls of another species in the genus, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pulchella,&lt;/i&gt; reveal its existence also in northern New Zealand, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;otagoensis,&lt;/i&gt; previously considered endemic to New Zealand is recorded from additional locations in the region as well as from a seamount west of Tasmania. An updated key to the species of &lt;i&gt;Caenopedina&lt;/i&gt; is provided to include the four Australasian species most recently described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Echinoid; Pedinoida; &lt;i&gt;Caenopedina&lt;/i&gt; &lt;i&gt;porphyrogigas&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pulchella&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Echinoid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Owen</firstname>
+          <middlename>F.</middlename>
+          <lastname>Anderson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-57</pages>
+        <date_published>2009-02-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Ophionyssus &lt;/i&gt;Mégnin (Acari: Mesostigmata: Macronyssidae) parasitic on &lt;i&gt;Lacerta schreiberi &lt;/i&gt;Bedriaga (Reptilia: Lacertidae) from the Iberian Peninsula, and a world key to species</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Ophionyssus&lt;/i&gt; &lt;i&gt;schreibericolus&lt;/i&gt; Moraza &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described, based on adult females, males and protonymphal instars. &lt;i&gt;Ophionyssus&lt;/i&gt; &lt;i&gt;schreibericolus&lt;/i&gt; parasitizes &lt;i&gt;Lacerta&lt;/i&gt; &lt;i&gt;schreiberi,&lt;/i&gt; a lizard endemic to the Iberian Peninsula, and known to have persisted in refugial populations throughout the Pleistocene. A key to adult females, males and protonymphs of the genus &lt;i&gt;Ophionyssus&lt;/i&gt; is presented. &lt;i&gt;Ophionyssus&lt;/i&gt; &lt;i&gt;viperae&lt;/i&gt; Miron &amp; Ivan 2003 is synonymised with &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;natricis&lt;/i&gt; (new synonymy).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Macronyssidae; &lt;i&gt;Ophionyssus&lt;/i&gt; &lt;i&gt;schreibericolus&lt;/i&gt;; parasitic mites; Reptilia; Lacertidae; &lt;i&gt;Lacerta&lt;/i&gt; &lt;i&gt;schreiberi&lt;/i&gt;; Iberian Peninsula</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>María</firstname>
+          <middlename>L.</middlename>
+          <lastname>Moraza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <middlename>R.</middlename>
+          <lastname>Irwin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Raquel</firstname>
+          <lastname>Godinho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stuart</firstname>
+          <middlename>J. E.</middlename>
+          <lastname>Baird</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joëlle</firstname>
+          <middlename>Goüy</middlename>
+          <lastname>De Bellocq</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2009-02-11</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

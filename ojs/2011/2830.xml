@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2830.1</id>
+    <title locale="en_US">22 Apr. 2011</title>
+    <volume>2830</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On some Encyrtidae (Hymenoptera: Chalcidoidea) from Namdapha Tiger Reserve in Arunachal Pradesh, India</title>
+        <abstract locale="en_US">One new genus and six new species of Encyrtidae are described from the material collected from the Namdapha Tiger Reserve (Arunachal Pradesh). These are: &lt;i&gt;Sharqencyrtus&lt;/i&gt; &lt;i&gt;hulbi&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ixodiphagus&lt;/i&gt; &lt;i&gt;sureshani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Parencyrtomyia&lt;/i&gt; &lt;i&gt;zedesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Rhytidothorax&lt;/i&gt; &lt;i&gt;horticola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;namdapha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ramakrishnai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to world species of &lt;i&gt;Rhytidothorax&lt;/i&gt; is also given. &lt;i&gt;Parencyrtomyia&lt;/i&gt; Girault is newly recorded from India, and &lt;i&gt;Rhytidothorax&lt;/i&gt; &lt;i&gt;nigrum&lt;/i&gt; Singh &amp; Agarwal, &lt;i&gt;Parablatticida&lt;/i&gt; &lt;i&gt;brevicornis&lt;/i&gt; (Dalman) and &lt;i&gt;Agarwalencyrtus&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; Hayat are new species records from Arunachal Pradesh.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Agarwalencyrtus&lt;/i&gt;; &lt;i&gt;Ixodiphagus&lt;/i&gt;; &lt;i&gt;Parablatticida&lt;/i&gt;; &lt;i&gt;Parencyrtomyia&lt;/i&gt;; &lt;i&gt;Rhytidothorax&lt;/i&gt;; &lt;i&gt;Sharqencyrtus&lt;/i&gt;; Encyrtidae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Agarwalencyrtus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <lastname>Hayat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarfrazul</firstname>
+          <middlename>Islam</middlename>
+          <lastname>Kazmi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of &lt;i&gt;Matrona oreades &lt;/i&gt;spec. nov. and &lt;i&gt;Matrona corephaea &lt;/i&gt;spec. nov. from China (Odonata: Calopterygidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Matrona&lt;/i&gt; &lt;i&gt;oreades&lt;/i&gt; Hämäläinen, Yu &amp; Zhang, spec. nov. (holotype ♂ , China, Gansu, Wenxian, Bikou, alt. 950m, 9/13 vii 2005) and &lt;i&gt;Matrona&lt;/i&gt; &lt;i&gt;corephaea&lt;/i&gt; Hämäläinen, Yu &amp; Zhang, spec. nov. (holotype ♂ , China, Zhejiang, West Tianmushan, alt. 700m, 8 viii 2007) are described and illustrated for both sexes. These two species differ markedly from the members of the &lt;i&gt;Matrona&lt;/i&gt; &lt;i&gt;basilaris&lt;/i&gt; species group by their sparser venation and absence of bluish-white reticulation at the wing base.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Odonata; Calopterygidae; &lt;i&gt;Matrona&lt;/i&gt;; new species; China; &lt;i&gt;corephaea&lt;/i&gt;; &lt;i&gt;oreades&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Odonata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matti</firstname>
+          <lastname>Hämäläinen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xin</firstname>
+          <lastname>Yu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Haomiao</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-28</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Faunal survey, endemism and possible species loss of Scarabaeinae (Coleoptera: Scarabaeidae) in the western slopes of the moist South Western Ghats, South India</title>
+        <abstract locale="en_US">Species composition, distribution patterns and endemism are outlined for the dung beetles in the ecoregions of the western slopes of the moist South Western Ghats, South India. Among the 142 dung beetle species known, 35 are endemic to the Western Ghats; 29 are endemic to the moist South Western Ghats; 25 are regionally endemic to the South Western Ghats montane rain forests ecoregion; and one each to the Malabar Coast moist deciduous forest ecoregion and the South Western Ghats moist deciduous forests ecoregion. Five species, including the 3 flightless species, are local endemics to the upper montane tropical montane cloud forests. The montane rain forests ecoregion has the highest number of endemics in the moist south Western Ghats and the moist deciduous forests ecoregion and Malabar Coast moist deciduous forest ecoregion have the lowest levels of endemism. Of the 137 dung beetle species known prior to the deforestation and habitat modification of the region, only 87 have been collected recently.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dung beetles; check list; the Western Ghats; local endemism</subject>
+          <subject_class locale="en_US">Dung beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thomas</firstname>
+          <middlename>K.</middlename>
+          <lastname>Sabu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <lastname>Nithya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Vinod</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-38</pages>
+        <date_published>2011-04-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and new records of the leafhopper genus &lt;i&gt;Aguriahana &lt;/i&gt;Distant (Hemiptera: Cicadellidae: Typhlocybinae) from China</title>
+        <abstract locale="en_US">Nine new species of &lt;i&gt;Aguriahana&lt;/i&gt; Distant are described and illustrated: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;digitata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;singularis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;simplex,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;longicorna,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tripoda,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;recticornis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;furcata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dilatata&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;recurva&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Three previously described species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;uncinata&lt;/i&gt; (Vilbaste), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;paivana&lt;/i&gt; (Distant) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;distanti&lt;/i&gt; Dworakowska are newly recorded from China. A checklist and key to the 34 species known from China are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Typhlocybini; morphology; taxonomy; distribution</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Min</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-54</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Notionotus attenuatus &lt;/i&gt;sp. n. from southern China with a key to the Old World species of the genus (Coleoptera: Hydrophilidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fenglong</firstname>
+          <lastname>Jia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>Edward Z.</middlename>
+          <lastname>Short</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-58</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Zaeucoilini (Hymenoptera, Cynipoidea, Figitidae, Eucoilinae) from Neotropical Region</title>
+        <abstract locale="en_US">&lt;i&gt;Paradettmeria&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described to accommodate &lt;i&gt;Tropideucoila&lt;/i&gt; &lt;i&gt;clavicornis.&lt;/i&gt; The type specimens studied of &lt;i&gt;Tropideucoila&lt;/i&gt; &lt;i&gt;clavicornis&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;weldi&lt;/i&gt; show no morphological differences between them, thus, we establish their synonymy, with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;clavicornis&lt;/i&gt; the senior name.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new genus; Figitidae; Eucoilinae; Zaeucoilini; Neotropical; Diptera; Lonchaeidae</subject>
+          <subject_class locale="en_US">new genus</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabiana</firstname>
+          <middlename>E.</middlename>
+          <lastname>Gallardo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norma</firstname>
+          <middlename>B.</middlename>
+          <lastname>Díaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-63</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Colpoclypeus &lt;/i&gt;Lucchese (Hymenoptera: Eulophidae) from Mexico</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Colpoclypeus&lt;/i&gt; Lucchese (Hymenoptera: Eulophidae) is described and illustrated. &lt;i&gt;Colpoclypeus&lt;/i&gt; &lt;i&gt;michoacanensis&lt;/i&gt; Sánchez &amp; Figueroa attacks &lt;i&gt;Argyrotaenia&lt;/i&gt; &lt;i&gt;montezumae&lt;/i&gt; Walsingham (Lepidoptera: Tortricidae) on blackberry plants. A key is included to separate &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;michoacanensis&lt;/i&gt; from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;florus&lt;/i&gt; (Walker), the only other species in this genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">wasp; parasitoid; blackberry plants; Michoacán</subject>
+          <subject_class locale="en_US">wasp</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Sánchez-García</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samuel</firstname>
+          <lastname>Pineda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Mabel</middlename>
+          <lastname>Martínez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angel</firstname>
+          <lastname>Rebollar-Alviter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Celestina</middlename>
+          <lastname>Juárez-Gutiérrez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ignacio</firstname>
+          <middlename>López</middlename>
+          <lastname>Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <lastname>La Salle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Isaac</middlename>
+          <lastname>Figueroa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

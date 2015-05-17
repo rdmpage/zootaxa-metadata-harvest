@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1813.1</id>
+    <title locale="en_US">30 Jun. 2008</title>
+    <volume>1813</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A primitive istiodactylid pterosaur (Pterodactyloidea) from the Jiufotang Formation (Early Cretaceous), northeast China</title>
+        <abstract locale="en_US">A new pterosaur, &lt;i&gt;Hongshanopterus&lt;/i&gt; &lt;i&gt;lacustris&lt;/i&gt; gen. et sp. nov., from the Early Cretaceous Jiufotang Formation, western Liaoning, China is described. The specimen (IVPP V14582) consists of a skull preserved in palatal view and some isolated cervical vertebrae. Based on the labiolingually compressed teeth with a triangular crown &lt;i&gt;Hongshanopterus&lt;/i&gt; &lt;i&gt;lacustris&lt;/i&gt; is referred to the Istiodactylidae. It presents several plesiomorphic features such as the teeth not confined to the anterior third of the skull but extended more posteriorly, and is thus considered the most primitive member of this group. This new species also differs from other istiodactylids by having more teeth, some showing the crown distinctively directed posteriorly. Three other members of the Istiodactylidae are currently represented in the Jiufotang deposits: &lt;i&gt;Nurhachius&lt;/i&gt; &lt;i&gt;ignaciobritoi,&lt;/i&gt; &lt;i&gt;Istiodactylus&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; and &lt;i&gt;Longchengpterus&lt;/i&gt; &lt;i&gt;zhaoi.&lt;/i&gt; To those we add &lt;i&gt;Liaoxipterus&lt;/i&gt; &lt;i&gt;brachyognathus,&lt;/i&gt; previously classified in the Ctenochasmatidae but that also has triangular labiolingually compressed teeth, and is a potential senior synonym of &lt;i&gt;Lonchengpterus&lt;/i&gt; &lt;i&gt;zhaoi.&lt;/i&gt; The palatal anatomy of &lt;i&gt;Hongshanopterus&lt;/i&gt; &lt;i&gt;lacustris&lt;/i&gt; also agrees with previous hypothesis that considers Istiodactylidae more closely related to the Anhangueridae than to &lt;i&gt;Pteranodon&lt;/i&gt; (or Pteranodontidae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pterosauria; Pterodactyloidea; Istiodactylidae; Liaoning; Early Cretaceous; China</subject>
+          <subject_class locale="en_US">Pterosauria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaolin</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diogenes</firstname>
+          <lastname>De Almeida Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhonghe</firstname>
+          <lastname>Zhou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>W. A.</middlename>
+          <lastname>Kellner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2008-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Galeus priapus&lt;/i&gt; sp. nov., a new species of sawtail catsharks (Carcharhiniformes: Scyliorhinidae) from New Caledonia</title>
+        <abstract locale="en_US">&lt;i&gt;Galeus&lt;/i&gt; &lt;i&gt;priapus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from specimens collected on the slopes of the seamounts and ridges of southern New Caledonia and Vanuatu. It is the first &lt;i&gt;Galeus&lt;/i&gt; species recorded in these areas. &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;priapus&lt;/i&gt; is characterised by the presence of a conspicuous crest of enlarged denticles on the dorsal caudal margin, the absence of similar crest on ventral caudal margin, and extremely long and slender claspers in adult males that extend posteriorly to the anal-fin origin. The body coloration, which is plain greyish brown with large dark blotches on dorsal and caudal fins and their bases, closely resembles its sibling &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gracilis,&lt;/i&gt; a northern Australian and Indonesian species. An identification key to Indo-Pacific &lt;i&gt;Galeus&lt;/i&gt; species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scyliorhinidae; &lt;i&gt;Galeus&lt;/i&gt; &lt;i&gt;priapus&lt;/i&gt;; New Caledonia; Vanuatu; new species</subject>
+          <subject_class locale="en_US">Scyliorhinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bernard</firstname>
+          <lastname>Seret</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-28</pages>
+        <date_published>2008-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Stylodactylidae and Bathypalaemonellidae (Crustacea: Decapoda: Caridea) from the PANGLAO 2004 and 2005 expeditions to the Philippines, with description of a new species of &lt;i&gt;Stylodactylus&lt;/i&gt; A. Milne-Edwards, 1881</title>
+        <abstract locale="en_US">Five species of the family Stylodactylidae Bate, 1888 and two species of Bathypalaemonellidae de Saint Laurent, 1985, were collected by the PANGLAO 2004 and 2005 expeditions to the Philippines. A member of the Stylodactylidae, &lt;i&gt;Stylodactylus&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; new species, collected at 2149–2217 m, is described and illustrated. The new species is distinguished from the 15 described species of &lt;i&gt;Stylodactylus&lt;/i&gt; by a very thin and glabrous integument; a very long (0.8 times of carapace length) antennular peduncle, by the lengthening of the second segment (1.8 times longer than first); thin and very long third to fifth pereopods, as a result of the lengthening of the meri and propodi . The two species of Bathypalaemonellidae, &lt;i&gt;Bathypalaemonella&lt;/i&gt; aff. &lt;i&gt;hayashii&lt;/i&gt; Komai, 1995, and &lt;i&gt;Bathypalaemonetes&lt;/i&gt; &lt;i&gt;brevirostris&lt;/i&gt; (Bruce, 1986), represent new records for the Philippines.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Caridea; Panglao; Philippines; Stylodactylidae; Bathypalaemonellidae; deep water; new species; new records</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Regis</firstname>
+          <lastname>Cleva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-41</pages>
+        <date_published>2008-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hyphessobrycon oritoensis&lt;/i&gt; (Characiformes: Characidae), a new species from the Putumayo River drainage, Colombian Amazon</title>
+        <abstract locale="en_US">&lt;i&gt;Hyphessobrycon&lt;/i&gt; &lt;i&gt;oritoensis&lt;/i&gt; (Characiformes: Characidae) is described from the Putumayo River drainage of the Colombian Amazon. The new species belongs to the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;heterorhabdus&lt;/i&gt; group and is distinguished from all other known species by the following combination of characters: iii,8 dorsal–fin rays, iv, 26–27 anal–fin rays, 19 teeth on dentary, 35 scales in longitudinal series, 10–11 perforated scales in lateral line, 7 scales between lateral line and dorsal–fin origin, 14 predorsal scales and a dark lateral band that extends from the posterior border of the humeral spot to the tips of the middle caudal fin rays.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Characid fish; Colombia; South America</subject>
+          <subject_class locale="en_US">Characid fish</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>A.</middlename>
+          <lastname>Garcia-Alzate</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cesar</firstname>
+          <lastname>Roman-Valencia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donald</firstname>
+          <middlename>C.</middlename>
+          <lastname>Taphorn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-50</pages>
+        <date_published>2008-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the status of the species of&lt;i&gt; Acanthistius&lt;/i&gt; (Gill, 1862) (Percoidei) in the South-West Atlantic Ocean</title>
+        <abstract locale="en_US">We review the species of &lt;i&gt;Acanthistius&lt;/i&gt; Gill (1862) (Osteichthyes, Percoidei) from the South-Western Atlantic, solving a discrepancy concerning the taxonomic status of &lt;i&gt;Acanthistius&lt;/i&gt; &lt;i&gt;brasilianus&lt;/i&gt; (Cuvier &amp; Valenciennes 1828) and &lt;i&gt;Acanthistius&lt;/i&gt; &lt;i&gt;patachonicus&lt;/i&gt; (Jenyns 1842), and providing an objective diagnostic key for the two species. While Argentinean fishery biologists consider &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;patachonicus&lt;/i&gt; to be a synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brasilianus,&lt;/i&gt; ichthyologists elsewhere regard them as separate species with different distributional ranges. Based on a literature review, examination of museum specimens and observation of live individuals in the field, we identified the sources of the dissent and concluded that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brasilianus&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;patachonicus&lt;/i&gt; are separate species, differing in diagnostic morphological characters and distinctive color patterns and having slightly overlapping distributional ranges. Distinction between these two species has significant implications for management and conservation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fish taxonomy; South Atlantic; Conservation</subject>
+          <subject_class locale="en_US">Fish taxonomy; South Atlantic; Conservation</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alejo</firstname>
+          <middlename>J.</middlename>
+          <lastname>Irigoyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leopoldo</firstname>
+          <middlename>Cavaleri</middlename>
+          <lastname>Gerhardinger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfredo</firstname>
+          <lastname>Carvalho-Filho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2008-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The South American genus &lt;i&gt;Quemedice&lt;/i&gt; Mello-Leitao (Araneae: Sparassidae): familial placement and taxonomic revision </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Quemedice&lt;/i&gt; Mello-Leitão, 1942 is revised. The female of the type species, &lt;i&gt;Quemedice&lt;/i&gt; &lt;i&gt;enigmaticus&lt;/i&gt; MelloLeitão, 1942 is redescribed and the male described and illustrated for the first time based on specimens from Argentina (Santiago del Estero province, near the type locality), central-western and southeastern Brazil (states of Minas Gerais, Mato Grosso and São Paulo). &lt;i&gt;Quemedice&lt;/i&gt; &lt;i&gt;piracuruca&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described based on male and female specimens from Colombia (Dept. Meta) and northern, northeastern and central-western Brazil (states of Piauí, Bahia and Minas Gerais). All specimens share the undisputed synapomorphy for Sparassidae, a soft dorsal trilobate membrane at the distal end of leg metatarsi, hence the genus is transferred to the family Sparassidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; morphology; new species; transfer; South America; Colombia; Brazil; Argentina</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cristina</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rheims</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Facundo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Labarque</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martin</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ramirez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2008-06-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

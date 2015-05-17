@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2197.1</id>
+    <title locale="en_US">13 Aug. 2009</title>
+    <volume>2197</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Variation of &lt;i&gt;Stinga &lt;/i&gt;Evans, 1955, with description of a new species from Mexico (Lepidoptera: Hesperiidae: Hesperiinae: Hesperiini)</title>
+        <abstract locale="en_US">&lt;i&gt;Stinga&lt;/i&gt; Evans, 1955, has been considered monotypic since its description despite geographical variation that has not been elucidated. The variation of &lt;i&gt;Stinga&lt;/i&gt; &lt;i&gt;morrisoni&lt;/i&gt; (W. H. Edwards, 1878) described and figured here includes a range of superficial phenotypes segregated by a combination of geography and elevation, but united by a common genital morphology of both sexes. In addition, a second species of the genus occurring in southern Mexico (Tlaxcala, Puebla and Oaxaca), with different genitalia and superficial traits outside the range of variation seen in &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;morrisoni,&lt;/i&gt; is described and named as a new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">butterfly; genitalia; Nearctic; Poaceae; skipper</subject>
+          <subject_class locale="en_US">butterfly</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Warren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <middlename>T.</middlename>
+          <lastname>Austin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2009-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Paratagalis &lt;/i&gt;Monte from Brazil with taxonomical notes and a key to New World genera of Saicinae (Hemiptera: Heteroptera: Reduviidae: Saicinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Paratagalis&lt;/i&gt; &lt;i&gt;zikani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Brazil is described. A revised diagnosis of &lt;i&gt;Paratagalis&lt;/i&gt; Monte, 1943, is provided. Morphological variation and sexual dimorphism of &lt;i&gt;Paratagalis&lt;/i&gt; &lt;i&gt;spinosus&lt;/i&gt; Monte, 1943, are described for the first time. A key to the Saicinae genera of the New World is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Paratagalis&lt;/i&gt; &lt;i&gt;zikani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; sexual dimorphism; variation</subject>
+          <subject_class locale="en_US">&lt;i&gt;Paratagalis&lt;/i&gt; &lt;i&gt;zikani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; sexual dimorphism</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hélcio</firstname>
+          <middlename>R.</middlename>
+          <lastname>Gil-Santana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luiz</firstname>
+          <middlename>A. A.</middlename>
+          <lastname>Costa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-30</pages>
+        <date_published>2009-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Evaluation of diagnostic characters of the &lt;i&gt;Tanytarsus chinyensis &lt;/i&gt;group (Diptera: Chironomidae), with description of a new species from Lapland</title>
+        <abstract locale="en_US">&lt;i&gt;Tanytarsus&lt;/i&gt; &lt;i&gt;salmelai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; collected from the northernmost sites of the Finnish Lapland is described. The new species and two sibling &lt;i&gt;Tanytarsus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;brundini&lt;/i&gt; Lindeberg, 1963 and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;curticornis&lt;/i&gt; Kieffer, 1911, are compared, diagnosed and illustrated in detail. Morphological variability and diagnostic characters of the three related species are discussed. An emended diagnosis for adult males of the &lt;i&gt;Tanytarsus&lt;/i&gt; &lt;i&gt;chinyensis&lt;/i&gt; species group and a key to determination of European species of the group are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chironomidae; &lt;i&gt;Tanytarsus&lt;/i&gt;; systematics; new species; Lapland</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wojciech</firstname>
+          <lastname>Giłka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lauri</firstname>
+          <lastname>Paasivirta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-42</pages>
+        <date_published>2009-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Catonidia &lt;/i&gt;Uhler (Hemiptera: Fulgoromorpha: Achilidae) from southwestern China, with the first description of the male of &lt;i&gt;Catonidia&lt;/i&gt; &lt;i&gt;wuyishanana &lt;/i&gt;Wang &amp; Huang</title>
+        <abstract locale="en_US">The following two species of the genus &lt;i&gt;Catonidia&lt;/i&gt; Uhler, 1896 (Hemiptera: Fulgoromorpha: Achilidae: Achilini) from China are described as new to science: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (southwestern China: Guizhou) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;daozhenensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (southwestern China: Guizhou). The male of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;wuyishanana&lt;/i&gt; Wang &amp; Huang, 1990 (southern China: Fujian) is reported and described for the first time. The generic characteristics are redefined. A key to the species of the world is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fulgoroidea; Oriental region; planthopper</subject>
+          <subject_class locale="en_US">Fulgoroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiang-Sheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ting-Ting</firstname>
+          <lastname>He</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-52</pages>
+        <date_published>2009-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new hidden species of the &lt;i&gt;Cymothoe caenis&lt;/i&gt;-complex (Lepidoptera: Nymphalidae) from western Africa</title>
+        <abstract locale="en_US">Butterflies of the Afrotropical genus &lt;i&gt;Cymothoe&lt;/i&gt; are characterised by sexual dimorphism. Females of the most common species of the genus, &lt;i&gt;Cymothoe&lt;/i&gt; &lt;i&gt;caenis&lt;/i&gt; Drury, occur in many different forms in the equatorial zone, while only a single form is present west of the Niger Delta in Nigeria, raising the question as to whether the two populations need taxonomic recognition. We present molecular and genitalic evidence that the western populations of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;caenis&lt;/i&gt; s.l. comprise a distinct species: &lt;i&gt;Cymothoe&lt;/i&gt; &lt;i&gt;druryi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biogeography; butterflies; classification; cryptic species; &lt;i&gt;Cymothoe&lt;/i&gt; &lt;i&gt;druryi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Dahomey Gap; DNA barcoding; Limenitidinae; morphology; mtDNA; Niger Delta; Nigeria; sexual dimorphism; taxonomy; west Africa</subject>
+          <subject_class locale="en_US">Biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robin</firstname>
+          <lastname>Van Velzen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Torben</firstname>
+          <middlename>B.</middlename>
+          <lastname>Larsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Freek</firstname>
+          <middlename>T.</middlename>
+          <lastname>Bakker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-63</pages>
+        <date_published>2009-08-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Catalogue of Madagascan and adjacent islands Buprestidae (Bellamy 2006): Addenda &amp; Corrigenda</title>
+        <abstract locale="en_US">Additions and corrections for the Catalogue of Madagascan and adjacent islands Buprestidae (Bellamy 2006) are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Buprestidae; catalogue; Madagascar; Mascarine islands; addenda; corrections</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <lastname>Viette</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bellamy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.-P.</firstname>
+          <lastname>Aberlenc</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-08-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

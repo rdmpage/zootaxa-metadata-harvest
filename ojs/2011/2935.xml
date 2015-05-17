@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2935.1</id>
+    <title locale="en_US">1 Jul. 2011</title>
+    <volume>2935</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New taxa of Elimaeini (Orthoptera: Tettigoniidae: Phaneropterinae) from South East Asia</title>
+        <abstract locale="en_US">Based on specimens in various museum collections one new subgenus and six new species of Elimaeini are described: &lt;i&gt;Poaefoliana&lt;/i&gt; subgen. n. (type species &lt;i&gt;Locusta&lt;/i&gt; &lt;i&gt;poaefolia&lt;/i&gt; De Haan, 1842) of &lt;i&gt;Elimaea&lt;/i&gt; Stål, 1874; &lt;i&gt;Elimaea&lt;/i&gt; &lt;i&gt;(Poaefoliana)&lt;/i&gt; &lt;i&gt;albimaculata&lt;/i&gt; sp. n., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;(P.)&lt;/i&gt; &lt;i&gt;jitra&lt;/i&gt; sp. n., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;(P.)&lt;/i&gt; &lt;i&gt;kutu&lt;/i&gt; sp. n., &lt;i&gt;Elimaea&lt;/i&gt; &lt;i&gt;(Schizelimaea)&lt;/i&gt; &lt;i&gt;singgalang&lt;/i&gt; sp. n., &lt;i&gt;Orthelimaea&lt;/i&gt; &lt;i&gt;kanburi&lt;/i&gt; sp. n., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;volsella&lt;/i&gt; sp. n. Three classical species were also combined with the new subgenus: &lt;i&gt;Elimaea&lt;/i&gt; &lt;i&gt;(Poaefoliana)&lt;/i&gt; &lt;i&gt;poaefolia&lt;/i&gt; (De Haan, 1842) comb. n., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;(P.)&lt;/i&gt; &lt;i&gt;rosea&lt;/i&gt; Brunner v. Wattenwyl, 1878 comb. n., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;(P.)&lt;/i&gt; &lt;i&gt;jacobsoni&lt;/i&gt; Karny, 1926 comb. n. A lectotype for &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;rosea&lt;/i&gt; is fixed as the type series is not homogenous.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthoptera; Phaneropterinae; Elimaeini; new subgenus; new species; new combinations; Peninsular Malaysia; Sabah; Sumatra; Thailand</subject>
+          <subject_class locale="en_US">Orthoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sigfrid</firstname>
+          <lastname>Ingrisch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of Malagasy &lt;i&gt;Odontepyris &lt;/i&gt;Kieffer (Hymenoptera, Bethylidae)</title>
+        <abstract locale="en_US">Four new species of &lt;i&gt;Odontepyris&lt;/i&gt; from Madagascar are described and illustrated: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;acrius&lt;/i&gt; Alencar et Azevedo, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;cynpus&lt;/i&gt; Alencar et Azevedo, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;escus&lt;/i&gt; Alencar et Azevedo, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; based on females and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;bedus&lt;/i&gt; Alencar et Azevedo, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; based on both males and females. Placoid sensillae in medial surface of flagellomere is firstly recorded to Bethylidae. A key to Malagasy species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chrysidoidea; Bethylinae; new species; placoid sensillae; Madagascar; Afrotropical region</subject>
+          <subject_class locale="en_US">Chrysidoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Isabel</firstname>
+          <middlename>D. C. C.</middlename>
+          <lastname>Alencar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celso</firstname>
+          <middlename>O.</middlename>
+          <lastname>Azevedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-40</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Walkeromya plumipes &lt;/i&gt;(Philippi) (Diptera: Bombyliidae), a parasitoid associated with carpenter bees (Hymenoptera: Apidae: Xylocopini) in Argentina</title>
+        <abstract locale="en_US">This is the first record of the association between &lt;i&gt;Walkeromya&lt;/i&gt; &lt;i&gt;plumipes&lt;/i&gt; (Philippi) (Diptera: Bombyliidae) and &lt;i&gt;Xylocopa&lt;/i&gt; Latreille (Hymenoptera: Apidae) in Argentina. The pupal development and morphology of &lt;i&gt;Walkeromya&lt;/i&gt; &lt;i&gt;plumipes,&lt;/i&gt; a parasitoid of &lt;i&gt;Xylocopa&lt;/i&gt; &lt;i&gt;splendidula&lt;/i&gt; Lepeletier, are described. A parasitized nest was collected from Santiago del Estero province, Argentina. The development of the bombyliid fly and large carpenter bees in the nest were observed in the laboratory for a period of 28 days. A detailed description of the fly adult and pupal stages were carried out. This is the first record of &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;plumipes&lt;/i&gt; parasitizing &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;splendidula.&lt;/i&gt; This is also the first complete description of this fly species, including male genitalia. With the data presented here the geographical distribution of the parasite is expanded. The results suggest a close relation between the parasitoid and its host, as the genus &lt;i&gt;Walkeromya&lt;/i&gt; Paranov has been found parasitizing only carpenter bees of genus &lt;i&gt;Xylocopa.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">pupal development; genitalia description; host-parasitoid association</subject>
+          <subject_class locale="en_US">pupal development</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Omar</firstname>
+          <lastname>Ávalos-Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariano</firstname>
+          <lastname>Lucia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leopoldo</firstname>
+          <middlename>J.</middlename>
+          <lastname>Álvarez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alberto</firstname>
+          <middlename>H.</middlename>
+          <lastname>Abrahamovich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-46</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic study of the Oriental leafhopper genus &lt;i&gt;Raabeina &lt;/i&gt;Dworakowska (Hemiptera: Cicadellidae: Typhlocybinae: Erythroneurini), with descriptions of five new species and one new record from China</title>
+        <abstract locale="en_US">Eight species of the genus &lt;i&gt;Raabeina&lt;/i&gt; are illustrated, including three previously described species and five new species are described: &lt;i&gt;Raabeina&lt;/i&gt; &lt;i&gt;acutata,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;biangulara,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;bubengensis,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;curtihamata&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;gracila&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; One species, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;fuscofasciata&lt;/i&gt; Dworakowska &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;rec,&lt;/b&gt; is newly recorded from China. A key to males of &lt;i&gt;Raabeina&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Auchenorrhyncha; morphology; taxonomy; distribution</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yanghui</firstname>
+          <lastname>Cao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Rhodostrophia leni&lt;/i&gt;s Wiltshire 1966 and &lt;i&gt;R. vartianae &lt;/i&gt;Wiltshire, 1966, with new distributional data (Lepidoptera, Geometridae, Sterrhinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hossein</firstname>
+          <middlename>Rajaei</middlename>
+          <lastname>Sh.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Trusch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-63</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Scaphytopiini (Hemiptera: Cicadellidae: Deltocephalinae), with a key to genera and species checklist for the tribe from China</title>
+        <abstract locale="en_US">An annotated checklist and generic key to the leafhopper tribe Scaphytopiini from China is provided. A new species &lt;i&gt;Xenovarta&lt;/i&gt; &lt;i&gt;subulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described and illustrated from China. The type specimens of the new species are deposited in the Institute of Entomology, Guizhou University, Guiyang, China (GUGC).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; morphology; taxonomy; distribution</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ji-Chun</firstname>
+          <lastname>Xing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ren-Huai</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Zhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2011-07-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

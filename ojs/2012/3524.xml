@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3524.1</id>
+    <title locale="en_US">24 Oct. 2012</title>
+    <volume>3524</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New Zealand Ceratocumatidae and Nannastacidae (Crustacea: Cumacea)</title>
+        <abstract locale="en_US">The cumacean fauna of New Zealand has been little studied, and recent collecting on the Chatham Rise and ChallengerPlateau has yielded many new species and new genera. The first record of the family Ceratocumatidae is reported fromNew Zealand waters, &lt;i&gt;Cimmerius&lt;/i&gt; sp. Within the Nannastacidae, there are only two previously described nannastacidspecies from New Zealand, &lt;i&gt;Campylaspis&lt;/i&gt; &lt;i&gt;rex&lt;/i&gt; Gerken &amp; Ryder 2002 and &lt;i&gt;Scherocumella&lt;/i&gt; &lt;i&gt;pilgrimi&lt;/i&gt; (Jones 1963). The recentcollections yielded one new nannastacid genus, &lt;i&gt;Aotearocumella&lt;/i&gt; n. gen., and 22 new nannastacid species, &lt;i&gt;Aotearocumella&lt;/i&gt;&lt;i&gt;acantha&lt;/i&gt; n. sp. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;echinoseta&lt;/i&gt; n. sp., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;watlingi&lt;/i&gt; n. sp., &lt;i&gt;Atlantocuma&lt;/i&gt; &lt;i&gt;confunda&lt;/i&gt; n. sp., &lt;i&gt;Campylaspenis&lt;/i&gt; &lt;i&gt;tangaroae&lt;/i&gt; n. sp.,&lt;i&gt;Campylaspis&lt;/i&gt; &lt;i&gt;apheles&lt;/i&gt; n. sp., &lt;i&gt;C.bituberculata&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hatchae&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;macrosulcata&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;microsulcata&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;millsae&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;normani&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rufus&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;schnabelae&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sculptaspinosa&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;zealandiaensis&lt;/i&gt; n. sp., &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;zimmeri&lt;/i&gt; n. sp., &lt;i&gt;Procampylaspis&lt;/i&gt; &lt;i&gt;chathamensis&lt;/i&gt; n. sp., &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rhypakoceros&lt;/i&gt; n. sp., &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rhypakos&lt;/i&gt; n. sp., &lt;i&gt;Schizocuma&lt;/i&gt; &lt;i&gt;delicata&lt;/i&gt; n. sp., and &lt;i&gt;Styloptocuma&lt;/i&gt; &lt;i&gt;gordoni&lt;/i&gt; n. sp. In addition, a neotype for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rex&lt;/i&gt; is designated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cumacea; Nannastacidae; Ceratocumatidae; New Zealand; &lt;i&gt;Aotearocumella;&lt;/i&gt; &lt;i&gt;Atlantocuma;&lt;/i&gt; &lt;i&gt;Campylaspis;&lt;/i&gt; &lt;i&gt;Campylaspenis;&lt;/i&gt; &lt;i&gt;Procampylaspis;&lt;/i&gt; &lt;i&gt;Scherocumella;&lt;/i&gt; &lt;i&gt;Schizocuma;&lt;/i&gt; &lt;i&gt;Styloptocuma&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Cumacea; Nannastacidae; Ceratocumatidae; New Zealand; &lt;i&gt;Aotearocumella;&lt;/i&gt; &lt;i&gt;Atlantocuma;&lt;/i&gt; &lt;i&gt;Campylaspis;&lt;/i&gt; &lt;i&gt;Campylaspenis;&lt;/i&gt; &lt;i&gt;Procampylaspis;&lt;/i&gt; &lt;i&gt;Scherocumella;&lt;/i&gt; &lt;i&gt;Schizocuma;&lt;/i&gt; &lt;i&gt;Styloptocuma&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sarah</firstname>
+          <lastname>Gerken</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-124</pages>
+        <date_published>2012-10-24</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2596.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2596</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Australian Eviphididae (Acari: Mesostigmata)</title>
+        <abstract locale="en_US">The Australian fauna of the mite family Eviphididae (Acari: Mesostigmata) is revised. A total of 14 species is recorded, 10 of which are described as new: &lt;i&gt;Alliphis&lt;/i&gt; &lt;i&gt;halleri&lt;/i&gt; (G. &amp; R. Canestrini), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;transversus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Evimirus&lt;/i&gt; &lt;i&gt;pentagonius&lt;/i&gt; Karg, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;scutellatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;uropodinus&lt;/i&gt; (Berlese), &lt;i&gt;Scarabaspis&lt;/i&gt; &lt;i&gt;masani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; (Berlese), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sternalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;victoriensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Thinoseius&lt;/i&gt; &lt;i&gt;helenae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;jarretti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;papillatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;peltatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;variabilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; These species occur in soil, leaf litter, dung, compost, and seaweed, where they appear to prey on nematodes. A key for identification of these genera and species is provided. Several of the new species have character states that are unusual for their genera. In &lt;i&gt;Alliphis&lt;/i&gt; &lt;i&gt;transversus,&lt;/i&gt; the first pair of sternal lyrifissures are large, and oriented transversely to the long axis of the body, instead of obliquely, as is normal for the genus. &lt;i&gt;Scarabaspis&lt;/i&gt; &lt;i&gt;sternalis&lt;/i&gt; is unusual in having the third pair of sternal pores on the sternal shield. It also shows extensive geographic variation in the amount of ornamentation of the dorsal shield. &lt;i&gt;Scarabaspis&lt;/i&gt; &lt;i&gt;victoriensis&lt;/i&gt; has only one of the setae on coxa I modified into a flat oval-shaped disc instead of both, as is usual for the genus. &lt;i&gt;Scarabaspis&lt;/i&gt; &lt;i&gt;masani&lt;/i&gt; has normal setiform setae on both coxae I and II, but otherwise appears to be a typical member of the genus. The five species of &lt;i&gt;Thinoseius&lt;/i&gt; described here show strong sexual dimorphism, which makes it impossible to associate the males and females of some species. Deutonymphs of an unidentified species of &lt;i&gt;Thinoseius&lt;/i&gt; sp. are recorded as phoretic on flies of the genus &lt;i&gt;Thoracochaeta&lt;/i&gt; (Sphaeroceridae). The eviphidid fauna of Australia is much smaller than that of Europe. This appears to be the result of the absence of small or monotypic genera, and the fact that Australian native mammals do not produce large quantities of wet dung suitable for the development of a rich fauna of coprophilous mites and dung beetles.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eviphididae; &lt;i&gt;Alliphis&lt;/i&gt;; &lt;i&gt;Evimirus&lt;/i&gt;; &lt;i&gt;Scarabaspis&lt;/i&gt;; &lt;i&gt;Thinoseius&lt;/i&gt;; Australia; sexual dimorphism; phoresy; seaweed</subject>
+          <subject_class locale="en_US">Eviphididae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Halliday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

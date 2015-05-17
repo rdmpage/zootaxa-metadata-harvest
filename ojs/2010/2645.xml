@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2645.1</id>
+    <title locale="en_US">14 Oct. 2010</title>
+    <volume>2645</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics of Cyphacolus Priesner (Hymenoptera: Platygastridae s.l.), an Old World genus of spider egg parasitoid</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Cyphacolus&lt;/i&gt; Priesner is unusual among members of the Baeini in having fore wings contoured to the convex surface of metasoma and lacking fore wing venation. It is closely allied to &lt;i&gt;Odontacolus&lt;/i&gt; Kieffer based on the laterally compressed metasomal horn and pedunculate metasoma. Here we redescribe two of the three previously known species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bhowaliensis&lt;/i&gt; (Mani &amp; Mukerjee) (India) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;veniprivus&lt;/i&gt; Priesner (Egypt), and describe as new 13 additional species: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;asheri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Sri Lanka), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;axfordi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Australia), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;copelandi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Kenya, Nigeria, Zimbabwe, Thailand), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;diazae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Kenya), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;harteni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Yemen, Ivory Coast, Paskistan), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jenningsi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Australia), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;leblanci&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Guinea), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lucianae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Ivory Coast, Madagascar, South Africa, Swaziland, Zimbabwe), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;normani&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (India, United Arab Emirates), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sallyae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Australia), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tessae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Australia), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tullyae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Australia), and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;watshami&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Cameroon, Ivory Coast, Kenya, Madagascar, South Africa, Zimbabwe). In addition, we present a key to separate the species (including &lt;i&gt;Cyphacolus&lt;/i&gt; &lt;i&gt;bouceki&lt;/i&gt; Iqbal &amp; Austin), a preliminary cladistic analysis to examine relationships among species and species groups, and a discussion of the biology, distribution and likely affinities of the genus. An electronic version of the identification key is available at WaspWeb 1 . As part of our phylogenetic study, one of the outgroup species, &lt;i&gt;Idris&lt;/i&gt; &lt;i&gt;floris&lt;/i&gt; (Kononova &amp; Fursov) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; is here transferred from &lt;i&gt;Ceratobaeus&lt;/i&gt; Ashmead. The electronic version of this document has been formatted with embedded links to additional resources available online via the internet, both to enhance the content and as a demonstration of the utility of international standards for biodiversity informatics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; egg-parasitoid; phylogeny; spider host; ovipositor</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alejandro</firstname>
+          <middlename>A.</middlename>
+          <lastname>Valerio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lubomir</firstname>
+          <lastname>Masner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Austin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2010-10-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Mesozoic-aged rhagionemestriid fly (Diptera: Nemestrinoidea) from China</title>
+        <abstract locale="en_US">&lt;i&gt;Sinomusca&lt;/i&gt; &lt;i&gt;mostovskii&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;&lt;i&gt;et&lt;/i&gt;&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Diptera: Rhagionemestriidae) is described from the Yixian Formation, Liaoning Province, China. It is the second representative of this Mesozoic family with well preserved body structures. The rounded head with holoptic eyes and antennal structures of this fossil are similar to those of the Eremochaetidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">China; Lower Cretaceous; Yixian Formation; Rhagionemestriidae</subject>
+          <subject_class locale="en_US">China</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-54</pages>
+        <date_published>2010-10-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Heinrich Uzel, the father of Thysanoptera studies</title>
+        <abstract locale="en_US">Jindřich (Heinrich) Uzel, a Czech phytopathologist and entomologist, published in 1895 a monograph on the Order Thysanoptera that provided the basis for almost all subsequent work on this group of insects. Here we review all the papers and books on thrips that were published by Uzel, including relevant phytosanitary reports. A list is provided of 91 species-group taxa described in the 1895 monograph, together with their current status.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Uzel; Thysanoptera; thrips</subject>
+          <subject_class locale="en_US">Uzel</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>J.</middlename>
+          <lastname>Fedor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martina</firstname>
+          <lastname>Doričová</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pavol</firstname>
+          <lastname>Prokop</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-63</pages>
+        <date_published>2010-10-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Chersodromia &lt;/i&gt;Walker (Diptera: Hybotidae) from shore of the Sea of Azov (Russia)</title>
+        <abstract locale="en_US">&lt;i&gt;Chersodromia&lt;/i&gt; &lt;i&gt;isabellae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from a sandy beach on the Taman' Peninsula (Krasnodar Territory, Russia). It is closely related to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nigrosetosa&lt;/i&gt; Chvála, 1970 but differs from the latter in having a dorsoapical stylus on a rounded postpedicel and the fore tarsus with tarsomeres 2–5 widened and black. It also resembles &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bureschi&lt;/i&gt; Beschovski, 1973 in which only tarsomeres 4 and 5 on the foreleg are black and the male genitalia are slightly different. A key is given for the eight species known from Black Sea and Sea of Azov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Hybotidae; &lt;i&gt;Chersodromia&lt;/i&gt;; new species; Sea of Azov</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>Grootaert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Igor</firstname>
+          <lastname>Shamshev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2010-10-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

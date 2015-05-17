@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2919.1</id>
+    <title locale="en_US">15 Jun. 2011</title>
+    <volume>2919</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Apseudomorph tanaidaceans (Crustacea: Peracarida) from mud-volcanoes in the Gulf of Cadiz (North-east Atlantic)</title>
+        <abstract locale="en_US">Faunal collections from mud-volcano sites in the Gulf of Cadiz, at depths between 355 and 3061 m, have revealed a high diversity (and in some cases high density) of tanaidaceans. A previous paper has described some of the tanaidomorph species found. Records of apseudomorph species from deep-sea chemosynthetic habitats are almost non-existent. The present study reports on seven apseudomorph species from five different genera from this material; two of the species, one in each of the genera &lt;i&gt;Sphyrapus&lt;/i&gt; and &lt;i&gt;Pseudosphyrapus&lt;/i&gt; are new to science, although there was insufficient material available to describe fully the &lt;i&gt;Pseudosphyrapus&lt;/i&gt; species. Two of the other species are reported herein for only the second time. A neotype is erected for &lt;i&gt;Apseudes&lt;/i&gt; &lt;i&gt;setiferus&lt;/i&gt; Băcescu, and a lectotype for &lt;i&gt;Sphyrapus&lt;/i&gt; &lt;i&gt;malleolus&lt;/i&gt; Norman &amp; Stebbing; these two, plus &lt;i&gt;Atlantapseudes&lt;/i&gt; &lt;i&gt;nigrifrons&lt;/i&gt; Băcescu and &lt;i&gt;Fageapseudes&lt;/i&gt; &lt;i&gt;retusifrons&lt;/i&gt; Richardson are redescribed. The habitus of &lt;i&gt;Apseudes&lt;/i&gt; &lt;i&gt;grossimanus&lt;/i&gt; is figured. None of the taxa appear to show any morphological features specifically adapted to the peculiar habitat around mud-volcanoes. The genus &lt;i&gt;Collossella&lt;/i&gt; is relegated to the synonymy of &lt;i&gt;Fageapseudes.&lt;/i&gt; The nonchemosynthetic-habitat-associated species &lt;i&gt;Apseudes&lt;/i&gt; &lt;i&gt;coriolis&lt;/i&gt; is moved to &lt;i&gt;Taraxapseudes.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mud volcanoes; Gulf of Cadiz; deep-sea; &lt;i&gt;Apseudes&lt;/i&gt;; &lt;i&gt;Atlantapseudes&lt;/i&gt;; &lt;i&gt;Fageapseudes&lt;/i&gt;; &lt;i&gt;Pseudosphyrapus&lt;/i&gt;; &lt;i&gt;Sphyrapus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">mud volcanoes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Magdalena</firstname>
+          <lastname>Błażewicz-Paszkowycz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <middlename>N.</middlename>
+          <lastname>Bamber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marina</firstname>
+          <middlename>R.</middlename>
+          <lastname>Cunha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2011-06-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of an enigmatic salamander, &lt;i&gt;Pseudohynobius puxiongensis&lt;/i&gt; (Fei et Ye, 2000) (Urodela: Hynobiidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Protohynobius&lt;/i&gt; &lt;i&gt;puxiongensis&lt;/i&gt; Fei et Ye, 2000, a poorly known hynobiid, was described from a single specimen. The new genus was erected because of its peculiar internasal bone. Recent molecular investigations transferred the species to genus &lt;i&gt;Pseudohynobius&lt;/i&gt; and presence of the internasal bone was shown to be a variable character. Taxonomically this species is relatively poorly known with no descriptions of egg, larvae, habitat, and other biological data. Furthermore, the extent of adult variation is unknown. We describe features of the adult, larvae, egg sacs, karyotype, breeding habitat and habits. The species is characterized by the following features: dorsal color gray-yellow with yellowish spots; dorsal tail with distinct yellowish line; total length shortest in the genus; tail length shorter than snout-vent length; head length to head width ratio smaller than 1.53; and a moderate number of vomerine teeth (11–15). The karyotype and the breeding season of &lt;i&gt;Ps.&lt;/i&gt; &lt;i&gt;puxiongensis&lt;/i&gt; are similar to that of other species of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">internasal bone; supplemental data; morphology; karyotype; biology</subject>
+          <subject_class locale="en_US">internasal bone</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jian-Li</firstname>
+          <lastname>Xiong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hai-Jun</firstname>
+          <lastname>Gu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tian-Jian</firstname>
+          <lastname>Gong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Mao</firstname>
+          <lastname>Zeng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2011-06-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Seven new species of &lt;i&gt;Enna &lt;/i&gt;(Araneae: Trechaleidae) from Central and South America</title>
+        <abstract locale="en_US">Seven new species of the spider genus &lt;i&gt;Enna&lt;/i&gt; O. Pickard-Cambridge, 1897 from Central and South America are described and illustrated for the first time: &lt;i&gt;Enna&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, Panama), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;triste&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, Venezuela), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;caricoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, Colombia), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;venezuelana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, Venezuela), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;silvae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, Peru), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;frijoles&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, Panama) and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;zurqui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, Costa Rica). A new record of &lt;i&gt;Enna&lt;/i&gt; &lt;i&gt;estebanensis&lt;/i&gt; (Simon, 1898) is reported from Ecuador.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; morphology; Neotropical region</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Estevam</firstname>
+          <middlename>L. Cruz</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arno</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lise</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-06-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

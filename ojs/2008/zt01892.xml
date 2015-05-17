@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1892.1</id>
+    <title locale="en_US">6 Oct. 2008</title>
+    <volume>1892</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Tragidion&lt;/i&gt; Audinet-Serville, 1834 (Coleoptera: Cerambycidae: Cerambycinae: Trachyderini)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Tragidion&lt;/i&gt; Audinet-Serville is reviewed, two new species are described: &lt;i&gt;Tragidion&lt;/i&gt; &lt;i&gt;agave,&lt;/i&gt; sp. nov., and &lt;i&gt;Tragidion&lt;/i&gt; &lt;i&gt;deceptum,&lt;/i&gt; sp. nov; four new synonymies are proposed: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;peninsulare&lt;/i&gt; Schaeffer and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;p.&lt;/i&gt; &lt;i&gt;californicum&lt;/i&gt; Linsley = &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;annulatum&lt;/i&gt; LeConte, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cyanovestis&lt;/i&gt; Chemsak and Linsley = &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; Bates, and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;armatum&lt;/i&gt; &lt;i&gt;brevipenne&lt;/i&gt; Linsley = &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;armatum&lt;/i&gt; LeConte; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;densiventre&lt;/i&gt; Casey is revalidated from synonymy; the lectotypes of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;annulatum&lt;/i&gt; LeConte and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;auripenne&lt;/i&gt; Casey are designated; separate keys to both sexes of the adults are provided, and information on the ecology of the genus is summarized.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; &lt;i&gt;Yucca&lt;/i&gt;; &lt;i&gt;Hesperoyucca&lt;/i&gt;; &lt;i&gt;Agave&lt;/i&gt;; mimicry; southwest USA; Mexico; taxonomy</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ian</firstname>
+          <lastname>Swift</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ann</firstname>
+          <middlename>M.</middlename>
+          <lastname>Ray</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2008-10-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Tetralidia &lt;/i&gt;gen. nov., a new neotropical genus of Neocoelidiinae (Hemiptera, Cicadellidae)</title>
+        <abstract locale="en_US">A new genus of Neocoelidiinae, &lt;i&gt;Tetralidia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described to include one new species, &lt;i&gt;Tetralidia&lt;/i&gt; &lt;i&gt;admirabilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Tetralidia&lt;/i&gt; &lt;i&gt;prolata&lt;/i&gt; (Chiamolera &amp; Cavichioli) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Cocoelidia&lt;/i&gt; DeLong. The new genus is closely related to &lt;i&gt;Tozzita&lt;/i&gt; Kramer based on the tapered lateral margins of the clypeus and the absence of processes on the ventral margin of the male pygofer, but differs from other Neocoelidiinae genera mainly by the color pattern of the crown, with four orange maculae; the bifurcation of the connective’s stem at its articulation point with the aedeagus; and the very long aedeagus with pair(s) of apical or preapical processes or lamellae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">leafhoppers; morphology; new combination; new genus; new species</subject>
+          <subject_class locale="en_US">leafhoppers</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Paula</middlename>
+          <lastname>Marques-Costa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodney</firstname>
+          <middlename>Ramiro</middlename>
+          <lastname>Cavichioli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-34</pages>
+        <date_published>2008-10-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Afrotropical ponerine ant genus &lt;i&gt;Phrynoponera&lt;/i&gt; Wheeler (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">The Afrotropical ponerine ant genus &lt;i&gt;Phrynoponera&lt;/i&gt; is revised and a worker-based key to species presented. Five species are recognised of which two (pulchella and &lt;i&gt;transversa)&lt;/i&gt; are described as new. Two new junior synonyms of the type-species &lt;i&gt;gabonensis&lt;/i&gt; are established (armata, &lt;i&gt;heterodus)&lt;/i&gt; and earlier synonymy of some infraspecific taxa is confirmed. The genus is redefined, with diagnoses of all castes and sexes. New and important characters of the genus are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phrynoponera&lt;/i&gt;; Ponerinae; Ponerini; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phrynoponera&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Barry</firstname>
+          <lastname>Bolton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-52</pages>
+        <date_published>2008-10-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the Cryptobiina of the Arabian peninsula (Coleoptera: Staphylinidae: Paederinae)</title>
+        <abstract locale="en_US">The species of the paederine subtribe Cryptobiina from Oman and Yemen are examined. The following taxa are (re-) described and illustrated: &lt;i&gt;Cryptomanum&lt;/i&gt; gen. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;omanicum&lt;/i&gt; (Coiffait, 1981), comb. n., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spinosissimum&lt;/i&gt; sp. n. (Oman), and &lt;i&gt;Afrobium&lt;/i&gt; &lt;i&gt;arabicum&lt;/i&gt; sp. n. (Yemen, Iran). Keys to the genera of Cryptobiina present in the Western Palaearctic region and to the Cryptobiina species recorded from the south of the Arabian peninsula are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Staphylinidae; Paederinae; Cryptobiina; Palaearctic region; Oman; Yemen; Arabian peninsula; taxonomy; new genus; new species; new combination; key to genera; key to species</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Volker</firstname>
+          <lastname>Assing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-64</pages>
+        <date_published>2008-10-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Amphinemura&lt;/i&gt; (Plecoptera: Nemouridae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2008-10-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Table of contents</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3368.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3368</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Editorial: Biodiversity of invertebrates in Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tomislav</firstname>
+          <lastname>Karanovic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>5-6</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of candonid ostracods (Crustacea: Ostracoda: Podocopida) from East sia, with descriptions of five new species from South Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ivana</firstname>
+          <lastname>Karanovic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>7-49</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cladocera (Crustacea: Branchiopoda) of the south-east of the Korean Peninsula, with twenty new records for Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kotov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hyun</firstname>
+          <middlename>Gi</middlename>
+          <lastname>Jeong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-90</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new ameirid harpacticoids from Korea and first record of &lt;i&gt;Proameira &lt;/i&gt;simplex (Crustacea: Copepoda: Ameiridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomislav</firstname>
+          <lastname>Karanovic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joo-Lae</firstname>
+          <lastname>Cho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>91-127</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Apodopsyllus &lt;/i&gt;(Copepoda, Harpacticoida) from Jeju Island, Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jinwook</firstname>
+          <lastname>Back</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>128-145</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval stages of &lt;i&gt;Areopaguristes japonicus &lt;/i&gt;(Miyake, 1961) (Decapoda: Anomura: Diogenidae) described from laboratory reared material</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Seok</firstname>
+          <middlename>Hyun</middlename>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hyun</firstname>
+          <middlename>Sook</middlename>
+          <lastname>Ko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>146-160</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An exploration of &lt;i&gt;Echinoderes &lt;/i&gt;(Kinorhyncha: Cyclorhagida) in Korean and neighboring waters, with the description of four new species and a redescription of &lt;i&gt;E. tchefouensis &lt;/i&gt;Lou, 1934</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <middlename>V.</middlename>
+          <lastname>Sørensen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hyun</firstname>
+          <middlename>Soo</middlename>
+          <lastname>Rho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Won-Gi</firstname>
+          <lastname>Min</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dongsung</firstname>
+          <lastname>Kim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cheon</firstname>
+          <middlename>Young</middlename>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>161-196</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Halicyclops &lt;/i&gt;(Copepoda, Cyclopoida) from the estuarine interstitial waters in South Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cheon</firstname>
+          <middlename>Young</middlename>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jimin</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>197-210</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two newly recorded invasive alien ascidians (Chordata, Tunicata, Ascidiacea) based on morphological and molecular phylogenetic analysis in Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jooyeon</firstname>
+          <lastname>Pyo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Taekjun</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sook</firstname>
+          <lastname>Shin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>211-228</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Pseudodiaptomus &lt;/i&gt;(Copepoda, Calanoida) from Korea supported by molecular data</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ho</firstname>
+          <middlename>Young</middlename>
+          <lastname>Soh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sun</firstname>
+          <middlename>Woo</middlename>
+          <lastname>Kwon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Woncheol</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yang</firstname>
+          <middlename>Ho</middlename>
+          <lastname>Yoon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>229-244</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new gastrotrich species of the genus &lt;i&gt;Tetranchyroderma &lt;/i&gt;(Macrodasyida: Thaumastodermatidae) from Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jimin</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cheon</firstname>
+          <middlename>Young</middlename>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>245-255</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Korean earthworm (Oligochaeta: Megadrilacea: Megascolecidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>J.</middlename>
+          <lastname>Blakemore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tae</firstname>
+          <middlename>Seo</middlename>
+          <lastname>Park</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong-Yul</firstname>
+          <lastname>Seo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>256-262</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">around South Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Natalie</firstname>
+          <lastname>Barnes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hyeong</firstname>
+          <middlename>Geun</middlename>
+          <lastname>Kim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3368.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3368</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species and a new genus of Parabathynellidae (Crustacea, Syncarida) from South Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jong-Geun</firstname>
+          <lastname>Park</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ye</firstname>
+          <lastname>Eun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>291-299</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Six exotic terrestrial earthworms (Oligochaeta: Megadrilacea: Moniligastridae, Lumbricidae, Ocnerodrilidae &amp; Megascolecidae) newly added to Korean species biodiversity list</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>J.</middlename>
+          <lastname>Blakemore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joo-Lae</firstname>
+          <lastname>Cho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tae</firstname>
+          <middlename>Seo</middlename>
+          <lastname>Park</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>300-304</pages>
+        <date_published>2012-07-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

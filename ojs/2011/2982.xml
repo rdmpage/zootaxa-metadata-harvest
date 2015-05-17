@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2982.1</id>
+    <title locale="en_US">2 Aug. 2011</title>
+    <volume>2982</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Australoheros &lt;/i&gt;(Teleostei: Cichlidae), with notes on diversity of the genus and biogeography of the Río de la Plata basin </title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Australoheros&lt;/i&gt; Ř íčan and Kullander are described. &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;ykeregua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the tributaries of the río Uruguay in Misiones province, Argentina. &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;angiru&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the tributaries of the upper rio Uruguai and middle rio Iguaçu in Brazil. The two new species are not closely related, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ykeregua&lt;/i&gt; is the sister species of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;forquilha&lt;/i&gt; Ř íčan and Kullander, while &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;angiru&lt;/i&gt; is the sister species of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minuano&lt;/i&gt; Ř íčan and Kullander. The diversity of the genus &lt;i&gt;Australoheros&lt;/i&gt; is reviewed using morphological and molecular phylogenetic analyses. These analyses suggest that the described species diversity of the genus in the coastal drainages of SE Brazil is overestimated and that many described species are best undestood as representing cases of intraspecific variation. The distribution patterns of &lt;i&gt;Australoheros&lt;/i&gt; species in the Uruguay and Iguazú river drainages point to historical connections between today isolated river drainages (the lower río Iguazú with the arroyo Urugua–í, and the middle rio Iguaçu with the upper rio Uruguai). Molecular clocks are used to date these and other biogeographic patterns.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Australoheros&lt;/i&gt;; new species; Cichlidae; phylogeny; South America; biogeography; Brazilian shield</subject>
+          <subject_class locale="en_US">&lt;i&gt;Australoheros&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Oldřich</firstname>
+          <lastname>Říčan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lubomír</firstname>
+          <lastname>Piálek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Almirón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Casciotta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2011-08-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Notonyx &lt;/i&gt;A. Milne-Edwards, 1873 (Crustacea: Decapoda: Brachyura: Goneplacidae) from the Philippines </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Notonyx&lt;/i&gt; A. Milne-Edwards, 1873 (Crustacea: Brachyura: Goneplacidae) is described from the Sulu Archipelago, southern Philippines. It is closest to the type species, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;nitidus&lt;/i&gt; A. Milne-Edwards, 1873, but differs in the form of the abdomen and third maxillipeds, and most significantly, in the structures of the male first and second gonopods.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Goneplacidae; &lt;i&gt;Notonyx&lt;/i&gt;; new species; Sulu Islands; Philippines</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-32</pages>
+        <date_published>2011-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Notonyx &lt;/i&gt;A. Milne-Edwards 1873 (Crustacea: Decapoda: Brachyura: Goneplacidae) from Maluku, Indonesia </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Notonyx&lt;/i&gt; A. Milne-Edwards, 1873 (Crustacea: Decapoda: Brachyura: Goneplacidae) is described from Maluku, Indonesia and differs from closely related species, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; Ng &amp; Clark, 2008 and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;sagittifer&lt;/i&gt; Ng &amp; Clark 2010, in that the male abdomen is relatively narrower and the tip of the male second gonopod is sickled-shaped.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Goneplacidae; &lt;i&gt;Notonyx&lt;/i&gt;; new species; Indonesia</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dwi</firstname>
+          <middlename>Listyo</middlename>
+          <lastname>Rahayu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-39</pages>
+        <date_published>2011-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Deciphering the cryptic species diversity of dull-coloured day geckos &lt;i&gt;Phelsuma &lt;/i&gt;(Squamata: Gekkonidae) from Madagascar, with description of a new species </title>
+        <abstract locale="en_US">We describe a new &lt;i&gt;Phelsuma&lt;/i&gt; species from the relictual forest of Anja Reserve (13 km south from Ambalavao, on the central high plateau of southern Madagascar). &lt;i&gt;Phelsuma&lt;/i&gt; &lt;i&gt;gouldi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; seems to be an arboreal and possibly rockdwelling species that has been observed in the private Anja Reserve (949 m a.s.l.), and possibly near Betroka almost 160 km further south-west. The species belongs to the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mutabilis&lt;/i&gt; species group and differs from the other three species of the group, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mutabilis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;breviceps,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;borai&lt;/i&gt; by a high genetic divergence of more than 10% in the mitochondrial 16S rRNA gene, and by a combination of 7–9 subdigital lamellae under the fourth toe, 6–7 supralabials, one internasal, and numerous details of throat scalation. &lt;i&gt;Phelsuma&lt;/i&gt; &lt;i&gt;mutabilis&lt;/i&gt; comprises three mitochondrial clades with divergences of more than 4% in the 16S rRNA gene, but the lack of distinct morphological differences and absence of a geographical structure among these clades indicate that this pattern is currently best considered as reflecting intraspecific variability.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata; Gekkonidae; &lt;i&gt;Phelsuma&lt;/i&gt;; new species; Madagascar; Ambalavao</subject>
+          <subject_class locale="en_US">Squamata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Angelica</firstname>
+          <lastname>Crottini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philip-Sebastian</firstname>
+          <lastname>Gehring</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>James</middlename>
+          <lastname>Harris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandra</firstname>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-48</pages>
+        <date_published>2011-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On some rhopalodinid sea cucumbers in the collections of the Natural History Museum, U.K. (Echinodermata: Holothuroidea: Dactylochirotida) </title>
+        <abstract locale="en_US">Several specimens of holothuroids in the collections of the Natural History Museum, U.K., identified as &lt;i&gt;Rhopalodina&lt;/i&gt; &lt;i&gt;lageniformis&lt;/i&gt; or simply &lt;i&gt;Rhopalodina&lt;/i&gt; sp., were re-examined. Amongst these only the holotype of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;lageniformis&lt;/i&gt; is referable to this species. Of the four specimens misidentified as &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;lageniformis,&lt;/i&gt; two are re-identified as &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;parvalamina&lt;/i&gt; Cherbonnier and two described as a new species, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cabrinovici.&lt;/i&gt; Another specimen, originating from Ghana, which is incorrectly identified as &lt;i&gt;Rhopalodina&lt;/i&gt; sp., turned out to be a juvenile of &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;congoana&lt;/i&gt; Heding and is subject of another paper describing additions to the holothuroid fauna of Ghana.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rhopalodinidae; &lt;i&gt;Rhopalodina&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Rhopalodinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ahmed</firstname>
+          <middlename>S.</middlename>
+          <lastname>Thandar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Preyan</firstname>
+          <lastname>Arumugam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2011-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Lycodon &lt;/i&gt;(Squamata, Colubridae) from Sichuan Province, China </title>
+        <abstract locale="en_US">A new species of genus &lt;i&gt;Lycodon&lt;/i&gt; Boie, 1826 (Squamata: Colubridae) is described from Sichuan Province, China on the basis of three specimens. The new species, &lt;i&gt;Lycodon&lt;/i&gt; &lt;i&gt;liuchengchaoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is superficially similar to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;fasciatus&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ruhstrati&lt;/i&gt; but can be distinguished from them by its divided anal plate and the large number and yellow colour of the rings around the body. A new key to the &lt;i&gt;Lycodon&lt;/i&gt; of China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">herpetology; &lt;i&gt;Lycodon&lt;/i&gt; &lt;i&gt;liuchengchaoi&lt;/i&gt;; new species; Reptilia; Serpentes; taxonomy</subject>
+          <subject_class locale="en_US">herpetology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jun</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ke</firstname>
+          <lastname>Jiang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dingqi</firstname>
+          <lastname>Rao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2011-08-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

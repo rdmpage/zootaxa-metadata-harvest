@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2647.1</id>
+    <title locale="en_US">15 Oct. 2010</title>
+    <volume>2647</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Identification and molecular phylogeny of agriculturally important spider mites (Acari: Tetranychidae) based on mitochondrial and nuclear ribosomal DNA sequences, with an emphasis on &lt;i&gt;Tetranychus&lt;/i&gt;</title>
+        <abstract locale="en_US">Tetranychid mites are serious agricultural pests. Identification of species in the Tetranychidae is hampered by their close morphological similarities, especially for species within the genus &lt;i&gt;Tetranychus.&lt;/i&gt; In this study, we examined the relationships of nine agriculturally important species in the Tetranychidae from China based on mitochondrial (cytochrome &lt;i&gt;c&lt;/i&gt; &lt;i&gt;oxidase&lt;/i&gt; &lt;i&gt;subunit&lt;/i&gt; &lt;i&gt;1)&lt;/i&gt; and nuclear (internal &lt;i&gt;transcribed&lt;/i&gt; &lt;i&gt;spacer&lt;/i&gt; &lt;i&gt;1&lt;/i&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;2&lt;/i&gt; of ribosomal RNA gene) sequences. The results confirm the monophyly of the morphologically defined &lt;i&gt;Tetranychus,&lt;/i&gt; &lt;i&gt;Panonychus,&lt;/i&gt; &lt;i&gt;Amphitetranychus&lt;/i&gt; and &lt;i&gt;Petrobia.&lt;/i&gt; However the position of &lt;i&gt;Amphitetranychus&lt;/i&gt; &lt;i&gt;viennensis&lt;/i&gt; within the Tetranychidae needs to be confirmed. The genetic distances between &lt;i&gt;Tetranychus&lt;/i&gt; &lt;i&gt;truncatus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;turkestani&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;urticae&lt;/i&gt; that their taxonomy needs revision. In particular, both &lt;i&gt;cytochrome&lt;/i&gt; &lt;i&gt;oxidase&lt;/i&gt; &lt;i&gt;1&lt;/i&gt; and the &lt;i&gt;internal&lt;/i&gt; &lt;i&gt;transcribed&lt;/i&gt; &lt;i&gt;spacers&lt;/i&gt; &lt;i&gt;1&lt;/i&gt; and &lt;i&gt;2&lt;/i&gt; of rDNA sequences showed large geographical differences within &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cinnabarinus,&lt;/i&gt; suggesting the existence of cryptic species within this species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;COI&lt;/i&gt; ; DNA barcoding; &lt;i&gt;ITS&lt;/i&gt;; phylogeny; species identification; Tetranychidae</subject>
+          <subject_class locale="en_US">&lt;i&gt;COI&lt;/i&gt; </subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guo-Qing</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kai-Jun</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Yue</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-15</pages>
+        <date_published>2010-10-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Valgothrombium &lt;/i&gt;Willmann, 1940, with additional taxonomic data for Valgothrombiinae genera known as larvae (Acari: Prostigmata: Microtrombidiidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Valgothrombium&lt;/i&gt; &lt;i&gt;mariae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described based on larvae collected in Norway. The generic diagnosis for larvae of &lt;i&gt;Valgothrombium&lt;/i&gt; is modified and the taxonomy of Valgothrombiinae genera known as larvae discussed. &lt;i&gt;Boletitrombium&lt;/i&gt; Saboori, Ueckermann &amp; van Harten, 2007 is considered a junior synonym of &lt;i&gt;Valgothrombium.&lt;/i&gt; Genera currently assigned to Valgothrombiinae and species belonging to genera known as larvae are listed. A key to world species of Valgothrombiinae known from larvae is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acarology; Parasitengona; taxonomy; &lt;i&gt;Valgothrombium&lt;/i&gt; &lt;i&gt;mariae&lt;/i&gt;; new species; larvae; key</subject>
+          <subject_class locale="en_US">Acarology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joanna</firstname>
+          <lastname>Mąkol</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joanna</firstname>
+          <lastname>Łaydanowicz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>16-34</pages>
+        <date_published>2010-10-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revised systematics of &lt;i&gt;Fabricia oregonica &lt;/i&gt;Banse, 1956 (Polychaeta: Sabellidae: Fabriciinae): an example of the need for a uninomial nomenclatural system</title>
+        <abstract locale="en_US">Previous descriptions of members of &lt;i&gt;Fabricia&lt;/i&gt; &lt;i&gt;oregonica&lt;/i&gt; Banse, 1956, have distinguished it by the presence of only narrowly hooded inferior thoracic notochaetae, in contrast to the presence of pseudospatulate chaetae in median chaetigers of the type species, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;stellaris&lt;/i&gt; (Müller, 1774). In other respects, past descriptions of specimens to which &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;oregonica&lt;/i&gt; refers have lacked the necessary detail to clearly determine generic placement, and the type material is in poor condition. Recently collected specimens matching earlier descriptions are used to redescribe members of the species. An exclusive sister-group relationship does not exist between &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;stellaris&lt;/i&gt; and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;oregonica,&lt;/i&gt; precluding the latter species being assigned to &lt;i&gt;Fabricia.&lt;/i&gt; &lt;i&gt;Fabricia&lt;/i&gt; &lt;i&gt;oregonica&lt;/i&gt; is therefore placed in a new genus, &lt;i&gt;Bansella.&lt;/i&gt; Under the view that all taxa, whether phylogenetic or specific, are explanatory hypotheses, it is pointed out that the monotypic &lt;i&gt;Bansella&lt;/i&gt; cannot be defined as such a hypothesis. While the &lt;i&gt;International&lt;/i&gt; &lt;i&gt;Code&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;Zoological&lt;/i&gt; &lt;i&gt;Nomenclature&lt;/i&gt; requires that names be defined by way of ‘differentiating characters,’ this approach is at odds with the scientific endeavor of biological systematics to infer explanatory hypotheses, colloquially known as taxa. In addition to only having narrowly hooded inferior notochaetae, members of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;oregonica&lt;/i&gt; differ from &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;stellaris&lt;/i&gt; specimens in having abdominal uncini with a much shorter manubrium. The ventral, lobe-like collar in &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;oregonica&lt;/i&gt; specimens is also distinctly rectangular as opposed to triangular. Members of the two species are similar in that females have pigmented spermathecae in the bases of branchial lobes and spermiogenesis occurs in males in chaetigers 3–8.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">explanatory hypotheses; ICZN; new genus; phylogenetics; taxa</subject>
+          <subject_class locale="en_US">explanatory hypotheses</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kirk</firstname>
+          <lastname>Fitzhugh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-50</pages>
+        <date_published>2010-10-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A phylogenetic analysis of &lt;i&gt;Neotoma varia &lt;/i&gt;(Rodentia: Cricetidae), a rediscovered, endemic, and threatened rodent from Datil Island, Sonora, Mexico</title>
+        <abstract locale="en_US">The systematics of the rediscovered and threatened rodent, &lt;i&gt;Neotoma&lt;/i&gt; &lt;i&gt;varia,&lt;/i&gt; from Datil Island in the Gulf of California, was assessed using sequences from the mitochondrial cytochrome &lt;i&gt;b&lt;/i&gt; gene (Cyt &lt;i&gt;b)&lt;/i&gt; regarding specimens of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;albigula&lt;/i&gt; from Tiburon Island and populations on the mainland off Datil Island. &lt;i&gt;Neotoma&lt;/i&gt; &lt;i&gt;varia&lt;/i&gt; was originally described as a species and subsequently considered a subspecies, relegated to subspecific status based on morphologic characters and few specimens; no genetic analyses have been published. Bayesian inference, maximum-parsimony, maximumlikelihood, and distance optimality criteria based on 828-bp of the Cyt &lt;i&gt;b&lt;/i&gt; gene from individuals representing 11 populations, converged on essentially identical tree topologies, consistent with the inclusion of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;varia&lt;/i&gt; within &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;albigula.&lt;/i&gt; The population of Datil Island is related to specimens from Tiburon Island and the adjacent mainland populations showing low levels of genetic differentiation with other subspecies of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;albigula&lt;/i&gt; (0.2–1.4%). Previous morphologic analyses indicated inconstancy in characters regarding the holotype; however, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;varia&lt;/i&gt; is morphologically different in the oclusal view of the upper molars. Under these conditions, we consider &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;varia&lt;/i&gt; as a subspecies of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;albigula.&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt; &lt;i&gt;varia&lt;/i&gt; has a very specific habitat and is present only on a very small part of the island; in spite of low divergence regarding other &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;albigula&lt;/i&gt; subspecies, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt; &lt;i&gt;varia&lt;/i&gt; possesses a genetic identity and needs to be considered as a critically endangered population.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;albigula&lt;/i&gt;; cytochrome &lt;i&gt;b&lt;/i&gt;; islands; subspecies; &lt;i&gt;varia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;albigula&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <middlename>Ticul</middlename>
+          <lastname>Álvarez-Castañeda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evelyn</firstname>
+          <lastname>Rios</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-60</pages>
+        <date_published>2010-10-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Silurus burmanensis &lt;/i&gt;Thant 1967: a &lt;i&gt;Silurus &lt;/i&gt;not a &lt;i&gt;Pterocryptis&lt;/i&gt; (Teleostei: Siluriformes: Siluridae)</title>
+        <abstract locale="en_US">The silurid species &lt;i&gt;Silurus&lt;/i&gt; &lt;i&gt;burmanensis&lt;/i&gt; is redescribed based on a recently collected specimen from the type locality. Based on its characters we conclude that &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;burmanensis&lt;/i&gt; is not a member of the genus &lt;i&gt;Pterocryptis,&lt;/i&gt; as suggested previously, but a valid species of &lt;i&gt;Silurus.&lt;/i&gt; It seems closely related to, but sufficiently distinct from, the two Yunnanese species of &lt;i&gt;Silurus&lt;/i&gt; described by Regan (1904, 1907). &lt;i&gt;Silurus&lt;/i&gt; &lt;i&gt;burmanensis&lt;/i&gt; thus represents the southwestern most occurrence of a species of the genus &lt;i&gt;Silurus&lt;/i&gt; in Asia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Yunnan; Shan plateau; endemism; Lake Inle; Burma; Myanmar</subject>
+          <subject_class locale="en_US">Yunnan</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tin</firstname>
+          <lastname>Win</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-10-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

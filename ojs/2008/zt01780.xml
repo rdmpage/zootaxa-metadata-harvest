@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1780.1</id>
+    <title locale="en_US">30 May. 2008</title>
+    <volume>1780</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Anatomy and phylogenetic relationships of a new catfish species from northeastern Argentina with comments on the phylogenetic relationships of the genus &lt;i&gt;Rhamdella&lt;/i&gt; Eigenmann and Eigenmann 1888 (Siluriformes, Heptapteridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Rhamdella&lt;/i&gt; &lt;i&gt;cainguae,&lt;/i&gt; a new species of the family Heptapteridae is described from the Arroyo Cuña-Pirú, a tributary of the Río Paraná, in the subtropical forest of Misiones, northeastern Argentina. The presence of a large differentiated ovoid area on the supraorbital laterosensory canal along the frontal-sphenotic boundary, delimited by the slender dorsal walls of the bones, and with no foramen for a laterosensory branch, is an autapomorphy for &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cainguae.&lt;/i&gt; A detailed description of the skeleton and laterosensory system of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cainguae&lt;/i&gt; is provided. The genus &lt;i&gt;Rhamdella&lt;/i&gt; is rediagnosed on the basis of three autapomorphies: a very large opening in the frontal for the exit of the s6 (epiphyseal) branch of the supraorbital laterosensory canal (reversed in &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rusbyi),&lt;/i&gt; a large optic foramen, and a dark stripe along the lateral surface of the body (reversed in &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rusbyi).&lt;/i&gt; &lt;i&gt;Rhamdella&lt;/i&gt; is considered to be the sister group of a large heptapterid clade composed of the &lt;i&gt;Nemuroglanis&lt;/i&gt; sub-clade plus the genera &lt;i&gt;Brachyglanis,&lt;/i&gt; &lt;i&gt;Gladioglanis,&lt;/i&gt; &lt;i&gt;Leptorhamdia,&lt;/i&gt; and &lt;i&gt;Myoglanis.&lt;/i&gt; &lt;i&gt;Rhamdella&lt;/i&gt; is herein restricted to five valid species: &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;aymarae,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cainguae,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;eriarcha,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;longiuscula,&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rusbyi.&lt;/i&gt; A sister group relationship between &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;aymarae&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rusbyi&lt;/i&gt; is supported by three synapomorphies. &lt;i&gt;Rhamdella&lt;/i&gt; &lt;i&gt;cainguae&lt;/i&gt; shares 12 apomorphic features with &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;eriarcha&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;longiuscula.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeography; South America; taxonomy; Teleostei</subject>
+          <subject_class locale="en_US">biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Flavio</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bockmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amalia</firstname>
+          <middlename>M.</middlename>
+          <lastname>Miquelarena</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2008-05-30</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of clawed frog (genus &lt;i&gt;Xenopus&lt;/i&gt;) from the Itombwe Massif, Democratic Republic of the Congo: implications for DNA barcodes and biodiversity conservation</title>
+        <abstract locale="en_US">Here we describe a new octoploid species of clawed frog from the Itombwe Massif of South Kivu Province, Democratic Republic of the Congo. This new species is the sister taxon of &lt;i&gt;Xenopus&lt;/i&gt; &lt;i&gt;wittei,&lt;/i&gt; but is substantially diverged in morphology, male vocalization, and mitochondrial and autosomal DNA. Analysis of mitochondrial “DNA barcodes” in polyploid clawed frogs demonstrates that they are variable between most species, but also reveals limitations of this type of information for distinguishing closely related species of differing ploidy level. The discovery of this new species highlights the importance of the Itombwe Massif for conservation of African biodiversity south of the Sahara.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">allopolyploid evolution; Albertine Rift; whole genome duplication; advertisement calls; DNA barcode; 16S; RAG1; RAG2</subject>
+          <subject_class locale="en_US">allopolyploid evolution</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ben</firstname>
+          <middlename>J.</middlename>
+          <lastname>Evans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Timothy</firstname>
+          <middlename>F.</middlename>
+          <lastname>Carter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martha</firstname>
+          <middlename>L.</middlename>
+          <lastname>Tobias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darcy</firstname>
+          <middlename>B.</middlename>
+          <lastname>Kelley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Hanner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>C.</middlename>
+          <lastname>Tinsley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2008-05-30</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

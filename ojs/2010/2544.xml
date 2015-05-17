@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2544.1</id>
+    <title locale="en_US">21 Jul. 2010</title>
+    <volume>2544</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Helminths of the American bullfrog, &lt;i&gt;Lithobates catesbeianus &lt;/i&gt;(Shaw, 1802), from Pawnee Lake, Lancaster, Nebraska, USA with a checklist of its helminth parasites</title>
+        <abstract locale="en_US">The American bullfrog, &lt;i&gt;Lithobates&lt;/i&gt; &lt;i&gt;catesbeianus,&lt;/i&gt; is one of the most intensively studied host species. However, most of the records related to the parasites of this anuran are scattered through the literature. The purpose of our study is twofold: 1) to list the helmiths of this host from Pawnee Lake, Lancaster Co., Nebraska, USA, and 2) To compile all published records and those contained by several scientific collections to construct a checklist of helminth parasites associated with the American bullfrog through its range in both native and introduced geographical areas. Twenty-seven specimens of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;catesbeianus&lt;/i&gt; were collected and examined for helminth parasites; 20 frogs were infected. Nine species of helminths were collected: 4 digeneans: &lt;i&gt;Haematoloechus&lt;/i&gt; &lt;i&gt;coloradensis,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;parviplexus,&lt;/i&gt; &lt;i&gt;Gorgoderina&lt;/i&gt; &lt;i&gt;attenuata,&lt;/i&gt; and &lt;i&gt;Glypthelmins&lt;/i&gt; &lt;i&gt;quieta,&lt;/i&gt; and 5 nematodes: &lt;i&gt;Rhabdias&lt;/i&gt; &lt;i&gt;ranae,&lt;/i&gt; &lt;i&gt;Spinitectus&lt;/i&gt; &lt;i&gt;gracilis,&lt;/i&gt; &lt;i&gt;Cosmocercoides&lt;/i&gt; &lt;i&gt;variabilis,&lt;/i&gt; &lt;i&gt;Spiroxys&lt;/i&gt; sp., and an unidentified ascarid nematode. Pawnee Lake represents a new locality record for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;gracilis.&lt;/i&gt; The digenean &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;parviplexus&lt;/i&gt; had the highest prevalence and mean abundance (33.3% and 3, respectively). As a result of our study, the number of helminth taxa known for this host is 159 (75 digeneans, 4 monogeneans, 10 cestodes, 7 acanthocephalans, and 63 nematodes); these records come from 6 countries (Canada, Cuba, Japan, Korea, United Kingdom, and USA). Although well documented, the helminthological record of this host species could increase after further inventory work in poorly sampled regions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Lithobates&lt;/i&gt; &lt;i&gt;catesbeianus&lt;/i&gt;; American bullfrog; Pawnee Lake; helminths; Nematoda; Digenea; checklist</subject>
+          <subject_class locale="en_US">&lt;i&gt;Lithobates&lt;/i&gt; &lt;i&gt;catesbeianus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosario</firstname>
+          <lastname>Mata-López</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <lastname>García-Prieto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Virginia</firstname>
+          <lastname>León-Règagnon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-53</pages>
+        <date_published>2010-07-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular and bioacoustic differentiation of &lt;i&gt;Boophis occidentalis &lt;/i&gt;with description of a new treefrog from north-western Madagascar</title>
+        <abstract locale="en_US">We describe a new species of the &lt;i&gt;Boophis&lt;/i&gt; &lt;i&gt;albilabris&lt;/i&gt; group (Anura: Mantellidae) from north-western Madagascar. &lt;i&gt;Boophis&lt;/i&gt; &lt;i&gt;tsilomaro&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is most similar to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; from the Isalo Massif, but differs by substantial genetic differentiation, larger size, absence of a turquoise iris colour, presence of a more distinct white stripe along upper lip in life, and longer note duration and lower pulse repetition rate in advertisement calls. Due to its small known range and continuing decline in the extent and quality of its habitat we propose to classify this new species as "Critically Endangered" according to the IUCN criteria. We also describe the advertisement calls of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Mantellidae; &lt;i&gt;Boophis&lt;/i&gt; &lt;i&gt;tsilomaro&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Boophis&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt;; Madagascar; Isalo; Tsingy de Bemaraha; Sahamalaza Peninsula</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Franco</firstname>
+          <lastname>Andreone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julian</firstname>
+          <lastname>Glos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2010-07-21</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

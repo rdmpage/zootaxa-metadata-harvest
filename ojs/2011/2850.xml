@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2850.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2850</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Liriomyza&lt;/i&gt; (Agromyzidae: Schizophora: Diptera) of California </title>
+        <abstract locale="en_US">The Californian species of &lt;i&gt;Liriomyza&lt;/i&gt; Mik are revised, including descriptions, illustrations, photographs and a key to species. Sixty-three species are now known to occur in the state, 12 of which are described here as new: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;bispinula,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;conclavis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;cunicularia,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;merga,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;miserabilis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;nebulosa,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;parabella,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;phyllodes,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;projecta,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;salpingion,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;tricornis&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;trixivora.&lt;/i&gt; &lt;i&gt;Liriomyza&lt;/i&gt; &lt;i&gt;virginica&lt;/i&gt; Spencer is included as a junior synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;helianthi&lt;/i&gt; Spencer, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; Spencer is included as a synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;artemisiae&lt;/i&gt; Spencer. Two species are newly recorded in the United States: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;equiseti&lt;/i&gt; Meijere, previously known from Canada and Europe, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;montana&lt;/i&gt; Sehgal, previously known from Canada. A number of specimens of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;brassicae&lt;/i&gt; (Riley) have been identified as potential new host “races” or species. Morphological characters are provided to diagnose the sister species &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;huidobrensis&lt;/i&gt; (Blanchard) and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;langei&lt;/i&gt; Frick, previously recognizable only on the basis of molecular data. Numerous new state, county and host records are also presented, and hosts are compared for five of the most common North American agricultural pests: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;brassicae,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;huidobrensis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;langei,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;sativae&lt;/i&gt; Blanchard and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;trifolii&lt;/i&gt; (Burgess). California contains the highest diversity of &lt;i&gt;Liriomyza&lt;/i&gt; known to occur in North America, containing approximately 70% of all described species known from the lower 48 states.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Agromyzidae; &lt;i&gt;Liriomyza&lt;/i&gt;; Diptera; California; agriculture; plant miners; plant hosts</subject>
+          <subject_class locale="en_US">Agromyzidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Owen</firstname>
+          <lastname>Lonsdale</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-123</pages>
+        <date_published>2011-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2277.1</id>
+    <title locale="en_US">30 Oct. 2009</title>
+    <volume>2277</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Litoria &lt;/i&gt;(Amphibia: Anura: Hylidae) from the foothills of the Foja Mountains, Papua Province, Indonesia</title>
+        <abstract locale="en_US">&lt;i&gt;Litoria&lt;/i&gt; &lt;i&gt;gasconi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from low, forest-covered ridges on the southern edge of the Foja Mountains, Papua Province, Indonesia. It is most similar to &lt;i&gt;Litoria&lt;/i&gt; &lt;i&gt;multiplica&lt;/i&gt; (Tyler, 1964) but can be differentiated from that species and all other described &lt;i&gt;Litoria&lt;/i&gt; by a unique combination of characters including moderate size (males 39.3–41.6 SVL), green dorsum with yellow spots in life, relatively large eyes (EYE/SVL 0.12–0.15), dermal ridges below the vent and on the posterior edge of both fore and hindlimbs, complete absence of blue thigh and lateral colouration, and its unique advertisement call consisting of a single soft, distinctly pulsed chirp. New data on the morphology and ecology of the superficially similar and poorly known species &lt;i&gt;Litoria&lt;/i&gt; &lt;i&gt;multiplica&lt;/i&gt; are also presented. Recent surveys in the Foja Mountains have revealed a diverse frog fauna with numerous unrecognised or poorly known taxa; these ranges are likely to be a previously unrecognised and largely unexplored centre of tropical vertebrate endemism.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Litoria&lt;/i&gt;; Indonesia; New Guinea; new species; Papua</subject>
+          <subject_class locale="en_US">&lt;i&gt;Litoria&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephen</firstname>
+          <middlename>J.</middlename>
+          <lastname>Richards</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>M. Oliver Keliopas</middlename>
+          <lastname>Krey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Burhan</firstname>
+          <lastname>Tjaturadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-13</pages>
+        <date_published>2009-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular phylogeny of Australian &lt;i&gt;Gehyra &lt;/i&gt;(Squamata: Gekkonidae) and taxonomic revision of &lt;i&gt;Gehyra variegata &lt;/i&gt;in south-eastern Australia</title>
+        <abstract locale="en_US">We provide the first phylogenetic hypothesis for the Australian species of the gekkonid genus &lt;i&gt;Gehyra,&lt;/i&gt; based on 1044bp of the mitochondrial &lt;i&gt;ND2&lt;/i&gt; gene. Species representing the Asian, Melanesian and Australian radiations are resolved as separate clades, indicating relative isolation and independence of each of these evolutionary lines. Within the Australian radiation, the arid zone species form a monophyletic subgroup distinct from the remaining species found in tropical and warm mesic habitats. Extensive chromosome variation and highly variable external morphology have made species recognition difficult within &lt;i&gt;Gehyra,&lt;/i&gt; exacerbated by the likely presence of numerous undescribed cryptic species. Three species of &lt;i&gt;Gehyra&lt;/i&gt; are currently recognized in the southeastern inland of Australia, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;variegata,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;montium&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;purpurascens.&lt;/i&gt; We re-describe a fourth species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;lazelli,&lt;/i&gt; to include those populations long referred to informally as the 2n=44 chromosome ‘race’ of &lt;i&gt;Gehyra&lt;/i&gt; &lt;i&gt;variegata.&lt;/i&gt; &lt;i&gt;Gehyra&lt;/i&gt; &lt;i&gt;lazelli&lt;/i&gt; widely overlaps the distribution of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; in South Australia and the southern inland of New South Wales, with no suggestion of intergradation in morphology, mitochondrial DNA, allozyme variation or karyotype.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lizards; speciation; Australia; phylogeny; taxonomy; mitochondrial DNA</subject>
+          <subject_class locale="en_US">Lizards</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mark</firstname>
+          <middlename>J.</middlename>
+          <lastname>Sistrom</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <middlename>N.</middlename>
+          <lastname>Hutchinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rhonda</firstname>
+          <middlename>G.</middlename>
+          <lastname>Hutchinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>C.</middlename>
+          <lastname>Donnellan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>14-32</pages>
+        <date_published>2009-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of three new species of the deep-sea munnopsid genus &lt;i&gt;Belonectes&lt;/i&gt; (Crustacea, Isopoda, Asellota) from the Weddell Sea, Southern Ocean</title>
+        <abstract locale="en_US">Three new species of the genus &lt;i&gt;Belonectes&lt;/i&gt; Wilson &amp; Hessler, 1981, from the munnopsid subfamily Eurycopinae Hansen are described from the deep Weddell Sea, Atlantic sector of the Southern Ocean. &lt;i&gt;Belonectes&lt;/i&gt; &lt;i&gt;grasslei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;stoddarti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;daytoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are the first species of the genus described from the region: previously only two species of &lt;i&gt;Belonectes&lt;/i&gt; were known from the northeastern Atlantic and the Peru-Chile Trench, the southeastern Pacific. The modified diagnosis of the genus &lt;i&gt;Belonectes&lt;/i&gt; and a key to the species of the genus are presented. The pattern of the total ventral sculpture of the natasome, a medial lobe of article 4 of the maxillipedal palp which is larger than article 5 and the navicular male pleopod 1 with its deep keel are suggested to be additional important generic characters of &lt;i&gt;Belonectes.&lt;/i&gt; The most useful characters to distinguish species of &lt;i&gt;Belonectes&lt;/i&gt; are the size of article 1 of the antennula, the shape and size of the articles 3–5 of the maxillipedal palp, the shape of the distal margin of the male pleopod 1, the shape of distolateral part of the protopod of the male pleopod 2, the size and shape of the preanal ridge, and the size of the exopod of the uropod.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Weddell Sea; Southern Ocean; deep sea; taxonomy; Munnopsidae; new species; &lt;i&gt;Belonectes&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Weddell Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marina</firstname>
+          <middlename>V.</middlename>
+          <lastname>Malyutina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angelika</firstname>
+          <lastname>Brandt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-52</pages>
+        <date_published>2009-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Danionella priapus&lt;/i&gt;, a new species of miniature cyprinid fish from West Bengal, India (Teleostei: Cypriniformes: Cyprinidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Danionella&lt;/i&gt; &lt;i&gt;priapus,&lt;/i&gt; a new species of sexually dimorphic miniature cyprinid from the Brahmaputra drainage in India, is distinguished from the other three species in the genus by the presence in adult males of a conical projection of the genital papilla situated between funnel-shaped pelvic fins, the number of analand pectoral-fin rays, and the position of insertion of the last anal-fin pterygiophore. It differs further from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;translucida&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;mirifica&lt;/i&gt; in details of the colour pattern, from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dracula&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;mirifica&lt;/i&gt; in number of procurrent caudal-fin rays, from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;translucida&lt;/i&gt; in number of vertebrae and from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dracula&lt;/i&gt; in several skeletal characters. Like the other species in the genus, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;priapus&lt;/i&gt; shows a developmentally truncated skeleton that is associated with several evolutionary morphological novelties. The present distribution of the &lt;i&gt;Danionella&lt;/i&gt; species may be the result of a vicariance event in the early Miocene, when the tectonic uplift of eastern Tibet and the Indo-Burman ranges lead to the interruption of the palaeo-connection between the Tsangpo (Brahmaputra) and the upper Irrawaddy Rivers.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">miniature fishes; developmental truncation; evolutionary novelty; vicariance</subject>
+          <subject_class locale="en_US">miniature fishes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2009-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new scorpionfish (Scorpaenoidei, Sebastolobinae) from the tropical eastern Pacific</title>
+        <abstract locale="en_US">A new spiny scorpionfish, &lt;i&gt;Trachyscorpia&lt;/i&gt; &lt;i&gt;verai,&lt;/i&gt; is described from a single specimen caught by deepwater longline off Puerto López (Ecuador, Tropical Eastern Pacific). This scorpionfish is distinguished from all other species of &lt;i&gt;Trachyscorpia&lt;/i&gt; by a unique combination of characters: dorsal-fin spines 12, vertebrae 26, and gas bladder absent. Other diagnostic characters are: maxilla unscaled, third dorsal spine long, and pelvic spine short. This is the second species of &lt;i&gt;Trachyscorpia&lt;/i&gt; known from the TEP and the sixth worldwide.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Trachyscorpia&lt;/i&gt; &lt;i&gt;verai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Sebastidae; Sebastolobinae; TEP; Ecuador</subject>
+          <subject_class locale="en_US">&lt;i&gt;Trachyscorpia&lt;/i&gt; &lt;i&gt;verai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Sebastidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philippe</firstname>
+          <lastname>Béarez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-10-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3471.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3471</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;Catalogue of the mite family Rhodacaridae Oudemans, with notes on the classification of the Rhodacaroidea (Acari: Mesostigmata)&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US">The Rhodacaridae Oudemans are free-living, cosmopolitan, edaphic mites, generally reported in the literature aspredators. The taxonomic concept of the family has changed considerably over time, making it very difficult for non-taxonomists and even sometimes for taxonomists to decide on the correct placement of many species. A historic reviewof the literature on the classification of the Rhodacaridae is presented. Brief differential diagnoses are given for thefamilies of Rhodacaroidea, followed by a checklist of genera and sub-genera for each family. The families included areDigamasellidae, Halolaelapidae, Laelaptonyssidae, Ologamasidae, Rhodacaridae and Teranyssidae. Revised diagnosesare given for the genera of Rhodacaridae, and a key for their identification, derived from a standardised database ofcharacter states. Finally, a list of species within each genus of this family was compiled, giving relevant taxonomicinformation about the respective types, and providing references to nomenclatural changes, synonymy, and redescriptionsof each species. In total, 151 rhodacarid species and one subspecies are listed in this work, arranged in 15 genera. Themost diverse genera are &lt;i&gt;Afrodacarellus&lt;/i&gt; Hurlbutt and &lt;i&gt;Rhodacarus&lt;/i&gt; Oudemans, each with about 20% of the valid species.Five of the genera are monotypic. Taxonomic confusion surrounds some groups of species, especially in the genus&lt;i&gt;Rhodacarus.&lt;/i&gt; It appears that &lt;i&gt;Rhodacarus&lt;/i&gt; &lt;i&gt;calcarulatus&lt;/i&gt; Berlese, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;coronatus&lt;/i&gt; Berlese, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;pallidus&lt;/i&gt; Hull, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;reconditus&lt;/i&gt;Athias-Henriot and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;roseus&lt;/i&gt; Oudemans have often been misidentified, and these species are in need of detailed revision.A detailed taxonomic or phylogenetic revision of the family was not an objective of this paper. Future efforts to determinesynapomorphies within the group may facilitate a thorough examination of the present status of the family in relation tothe generic placement of species. Regardless, twelve new combinations are proposed in this paper: &lt;i&gt;Afrogamasellus&lt;/i&gt;(Foliogamasellus) Karg, 1977 and &lt;i&gt;Afrogamasellus&lt;/i&gt; (Latogamasellus) Karg, 1977 are newly synonymised under&lt;i&gt;Afrodacarellus&lt;/i&gt; Hurlbutt, 1974 and &lt;i&gt;Laelaptonyssus&lt;/i&gt; Womerlsey, 1956 (Laelaptonyssidae) is newly synonymised under &lt;i&gt;Starkovia&lt;/i&gt; Lombardini, 1947.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Soil mites; catalogue; taxonomy; key; Rhodacaroidea</subject>
+          <subject_class locale="en_US">Soil mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Raphael</firstname>
+          <middlename>C.</middlename>
+          <lastname>Castilho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bruce</firstname>
+          <lastname>Halliday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-69</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

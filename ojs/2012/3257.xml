@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3257.1</id>
+    <title locale="en_US">4 Apr. 2012</title>
+    <volume>3257</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A preliminary assessment of the &lt;i&gt;Nactus pelagicus &lt;/i&gt;species group (Squamata: Gekkonidae) in New Guinea and a new species from the Admiralty Islands </title>
+        <abstract locale="en_US">The Slender-toed Geckos (Nactus) currently have four recognized species in New Guinea, and these species divide intotwo sister clades: a &lt;i&gt;pelagicus&lt;/i&gt; clade and a &lt;i&gt;vankampeni&lt;/i&gt; clade (Heinicke &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2010). The latter contains three dwarf species.The former consists of five bisexual populations, of which numerous New Guinea populations are uncharacterized no-menclaturally and lumped under the epithet ‘pelagicus.’ This report and description of a new species of the &lt;i&gt;pelagicus&lt;/i&gt;group from Manus Island in the Admiralty Islands encourages us to offer a preliminary assessment of morphology and diversity in New Guinea ‘pelagicus’ populations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Nactus&lt;/i&gt; &lt;i&gt;pelagicus&lt;/i&gt; group; New Guinea; Admiralty Islands; morphology; geographic variation; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Nactus&lt;/i&gt; &lt;i&gt;pelagicus&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>George</firstname>
+          <middlename>R.</middlename>
+          <lastname>Zug</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>N.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-37</pages>
+        <date_published>2012-04-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">On some shallow-water Tanaidomorpha (Crustacea: Peracarida: Tanaidacea) of Chilean fjords, with description of a new species of &lt;i&gt;Zeuxoides &lt;/i&gt;Sieg, 1980 </title>
+        <abstract locale="en_US">Magellanic tanaidacean faunas have been mainly studied in the Magellan Strait and Beagle Channel, the latter restricted to bot-toms deeper than 40m. As a result, the shallow rocky bottoms of the Magellanic fjords remain largely under-studied, and theirtanaidacean diversity is poorly known. In this study, tanaidacean species sampled from shallow rocky bottoms of Chilean fjordsare investigated, and morphological and taxonomic considerations included. A new species of the Tanaidae, &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;tronco-&lt;/i&gt;&lt;i&gt;soi&lt;/i&gt; sp. nov. is described. The genus &lt;i&gt;Leptochelia&lt;/i&gt; is recorded for the first time in Chile, and the distribution of &lt;i&gt;Pancoloides&lt;/i&gt; &lt;i&gt;lito-&lt;/i&gt;&lt;i&gt;ralis&lt;/i&gt; is extended northwards. Specimens collected of &lt;i&gt;Pancoloides&lt;/i&gt; &lt;i&gt;litoralis&lt;/i&gt; and &lt;i&gt;Nototanais&lt;/i&gt; &lt;i&gt;dimorphus&lt;/i&gt; present morphologicaldifferences with previous descriptions, which are at present attributed to intraspecific variation derived from geographical iso-lation among populations, until sufficient material can be examined to determine what constitutes interspecific and intraspecific variation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Subantarctic; Magellanic; Chile; taxonomy; &lt;i&gt;Zeuxoides&lt;/i&gt;; &lt;i&gt;Nototanais&lt;/i&gt;; &lt;i&gt;Pancoloides&lt;/i&gt;; &lt;i&gt;Leptochelia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Subantarctic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patricia</firstname>
+          <lastname>Esquete</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <lastname>Bamber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristian</firstname>
+          <lastname>Aldea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-55</pages>
+        <date_published>2012-04-04</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

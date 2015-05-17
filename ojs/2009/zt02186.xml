@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2186.1</id>
+    <title locale="en_US">6 Aug. 2009</title>
+    <volume>2186</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogeny and systematics of the leafhopper subfamily Ledrinae (Hemiptera: Cicadellidae)</title>
+        <abstract locale="en_US">Ledrinae represent a relatively small subfamily within the very large and diverse leafhopper family Cicadellidae. Prior to this study, the subfamily contained approximately 450 species in 5 tribes and 73 genera distributed worldwide, but primarily in Australia, Africa, and the Indomalayan region. Several authors have suggested Ledrinae are not monophyletic, and recent studies based on molecular and morphological data have called the existing classification into question. The goals of this study were to collect and analyze morphological data under rigorous phylogenetic criteria in order to test the monophyly of Ledrinae, provide robust definitions for the subfamily and its tribes, and provide a phylogenetic framework for understanding relationships among these leafhoppers. New phylogenetic hypotheses are presented here regarding the monophyly of Ledrinae and its included tribes. A total of 235 morphological characters were coded for 60 species from 31 genera in the tribes Ledrini and Petalocephalini, 5 species from the tribes Stenocotini, Thymbrini, and Xerophloeini, and 10 species selected as outgroups from various other cicadellid subfamilies. Data were analyzed in PAUP*, resulting in a single completely resolved topology with many well-supported nodes. Ledrinae, as previously defined, were found to be polyphyletic with respect to Stenocotini, Thymbrini, and various ledrine genera, which were placed with the outgroup taxa. Stenocotini and Thymbrini were placed with Tartessinae, agreeing with results of other recent studies. &lt;i&gt;Rubria,&lt;/i&gt; &lt;i&gt;Hespenedra,&lt;/i&gt; and the &lt;i&gt;Afrorubria&lt;/i&gt; genus group formed independent lineages within Ledrinae. The tribe Xerophloeini was placed as a basal lineage within Ledrinae closely associated with the &lt;i&gt;Afrorubria&lt;/i&gt; group. Ledrini and Petalocephalini, as previously defined, did not form monophyletic lineages, but were randomly interspersed (paraphyletic) with respect to one another. Stenocotini and Thymbrini are here removed to the subfamily Tartessinae, and Petalocephalini is made a synonym of Ledrini. The new tribes Afrorubrini, Hespenedrini, and Rubrini are described within Ledrinae by the first author, and several new informal genus groups are named. Within Ledrini, &lt;i&gt;Epiclinata&lt;/i&gt; Metcalf is made a synonym of &lt;i&gt;Tituria&lt;/i&gt; Stål, &lt;i&gt;Epiclinata&lt;/i&gt; &lt;i&gt;planata&lt;/i&gt; (Fabricius) and &lt;i&gt;Epiclinata&lt;/i&gt; &lt;i&gt;flavomarginata&lt;/i&gt; Kuoh &amp; Cai are moved to &lt;i&gt;Tituria,&lt;/i&gt; &lt;i&gt;Tituria&lt;/i&gt; &lt;i&gt;obtusa&lt;/i&gt; Walker is moved to &lt;i&gt;Thlasia&lt;/i&gt; Germar, and two additional species are included in &lt;i&gt;Latycephala&lt;/i&gt; McKamey as new combinations. Taxa placed outside of Ledrinae in this analysis are removed to other subfamilies or considered unplaced within Cicadellidae. This newly revised classification strengthens hypotheses that the Ledrinae are a very old group within Cicadellidae. As here defined, the subfamily includes five tribes with a total of 38 genera and approximately 300 species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Afrorubrini; Auchenorrhyncha; distribution; Hespenedrini; Homoptera; identification; key; Ledrini; morphology; new tribe; phylogeny; Rubrini; Stenocotini; Thymbrini; Xerophloeini; revision</subject>
+          <subject_class locale="en_US">Afrorubrini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joshua</firstname>
+          <middlename>R.</middlename>
+          <lastname>Jones</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lewis</firstname>
+          <middlename>L.</middlename>
+          <lastname>Deitz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-120</pages>
+        <date_published>2009-08-06</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

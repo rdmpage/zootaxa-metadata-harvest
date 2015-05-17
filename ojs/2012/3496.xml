@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3496.1</id>
+    <title locale="en_US">25 Sep. 2012</title>
+    <volume>3496</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Neither a buccinid nor a turrid: A new family of deep-sea snails for &lt;i&gt;Belomitra &lt;/i&gt;P. Fischer, 1883 (Mollusca, Neogastropoda), with a review of Recent Indo-Pacific species</title>
+        <abstract locale="en_US">The new family Belomitridae is established for the deep-water buccinoid genus &lt;i&gt;Belomitra&lt;/i&gt; P. Fischer, 1883, based onmorphological (shell and radulae) and molecular evidence. The rachiglossate radula is uniquely characterized by amulticuspid rachidian and lateral teeth with very long narrow bases and two small cusps closer to tip. Molecular anal-ysis of a reduced set of Buccinoidea did not resolve the group as a clade, but shows that Belomitridae forms a wellsupported clade within Buccinoidea. Species of &lt;i&gt;Belomitra&lt;/i&gt; have adult sizes in the 7–53 mm range; they live in deepwater, mostly in the 500–2,000 meters range, at low and mid latitudes. Eleven valid species described from the Indo-Pacific were originally named in the families Buccinidae, Columbellidae, Cancellariidae, Volutidae, and Turridae.Fourteen new species are described: &lt;i&gt;Belomitra&lt;/i&gt; &lt;i&gt;nesiotica&lt;/i&gt; n. sp. (Society Islands to Tonga and Fiji in 580–830 m), &lt;i&gt;B.&lt;/i&gt;&lt;i&gt;bouteti&lt;/i&gt; n. sp. (Society and Tuamotu Islands in 430–830 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;subula&lt;/i&gt; n. sp. (Solomon Islands to Vanuatu in 760–1110m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;caudata&lt;/i&gt; n. sp. (Sulu Sea in 2300 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;gymnobela&lt;/i&gt; n. sp. (South Pacific, eastern Indonesia and Philippines in780–2040 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hypsomitra&lt;/i&gt; n. sp. (Fiji in 392–407 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;brachymitra&lt;/i&gt; n. sp. (Fiji in 395–540 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;comitas&lt;/i&gt; n. sp.(Madagascar and Philippines in 1075–1110 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;minutula&lt;/i&gt; (Coral Sea in 490 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;granulata&lt;/i&gt; n. sp. (New Caledoniain 105–860 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;reticulata&lt;/i&gt; n. sp. (Tonga and Fiji to New Caledonia in 395–656 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;decapitata&lt;/i&gt; n. sp. (IndianOcean and New Caledonia in 3680–4400 m), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;admete&lt;/i&gt; n. sp. (off Sri Lanka in 2540 m), and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;radula&lt;/i&gt; n. sp. (Madagascar in 367–488 m).&lt;b&gt;Key-words:&lt;/b&gt; Buccinoidea, molecular phylogeny, morphology, anatomy, radula, deep-water fauna</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuri</firstname>
+          <middlename>I.</middlename>
+          <lastname>Kantor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicolas</firstname>
+          <lastname>Puillandre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Audrey</firstname>
+          <lastname>Rivasseau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philippe</firstname>
+          <lastname>Bouchet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2012-09-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

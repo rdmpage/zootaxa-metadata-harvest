@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2334.1</id>
+    <title locale="en_US">13 Jan. 2010</title>
+    <volume>2334</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-01-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The osteology of &lt;i&gt;Shaochilong maortuensis&lt;/i&gt;, a carcharodontosaurid (Dinosauria: Theropoda) from the Late Cretaceous of Asia</title>
+        <abstract locale="en_US">Large-bodied theropod dinosaurs from the Early-mid Cretaceous of the northern continents (Laurasia) are poorly known. One of the most complete and intriguing theropods from this interval is &lt;i&gt;Shaochilong&lt;/i&gt; &lt;i&gt;maortuensis&lt;/i&gt; Hu, 1964 from the Turonian (&lt; 92 Ma) Ulansuhai Formation of Inner Mongolia, China. The phylogenetic placement of &lt;i&gt;Shaochilong&lt;/i&gt; has long been a subject of debate, as it has been referred to several disparate theropod groups (e.g., Megalosauridae, Allosauridae, Tyrannosauroidea, Maniraptora). In a recent taxonomic reassessment, &lt;i&gt;Shaochilong&lt;/i&gt; was identified as the first Asian member of Carcharodontosauridae, a clade of allosauroid theropods that was once thought to be restricted to Gondwana and includes some of the largest terrestrial predators to ever live. However, the characters supporting such a placement were only briefly discussed, and a full anatomical description of &lt;i&gt;Shaochilong&lt;/i&gt; has yet to be presented. We provide a detailed osteological description of the lectotype and paralectotype series, show that &lt;i&gt;Shaochilong&lt;/i&gt; is a smallbodied and short-snouted carcharodontosaurid, and highlight numerous cranial features shared with other carcharodontosaurids. We argue that the vicariant hypothesis of allosauroid biogeography, in which lineages split in concert with the fragmentation of Pangaea, is poorly supported. Finally, large-scale patterns of theropod evolution and faunal replacement are discussed, and it is argued that allosauroids persisted as large-bodied predators later in the Cretaceous than previously thought.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Allosauroidea; Carcharodontosauridae; cladistics; China; paleobiogeography; Theropoda</subject>
+          <subject_class locale="en_US">Allosauroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephen</firstname>
+          <middlename>L.</middlename>
+          <lastname>Brusatte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>J.</middlename>
+          <lastname>Chure</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <middlename>B. J.</middlename>
+          <lastname>Benson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xing</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-46</pages>
+        <date_published>2010-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of spiders of the genus &lt;i&gt;Selenops &lt;/i&gt;Latreille, 1819 (Araneae: Selenopidae) and redescription of &lt;i&gt;Selenops scitus &lt;/i&gt;Muma, 1953 from Mexico</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Selenops&lt;/i&gt; Latreille, 1819 from Mexico are described: &lt;i&gt;Selenops&lt;/i&gt; &lt;i&gt;aztecus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the state of Veracruz, known only from a single male, and &lt;i&gt;Selenops&lt;/i&gt; &lt;i&gt;santibanezi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the state of Oaxaca, known from both sexes. &lt;i&gt;Selenops&lt;/i&gt; &lt;i&gt;scitus&lt;/i&gt; Muma, 1953, originally described only from the female holotype from Guerrero, México is redescribed and the male of this species is described for the first time; new records of its distribution are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Selenops&lt;/i&gt;; Taxonomy; Veracruz; Oaxaca; Guerrero</subject>
+          <subject_class locale="en_US">&lt;i&gt;Selenops&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alejandro</firstname>
+          <lastname>Valdez-Mondragón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2010-01-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The original descriptions of reptiles</title>
+        <abstract locale="en_US">By September 2009 an estimated 9084 species of extant reptiles have been described by a total of 4579 papers and books which are listed in a supplementary file. In this review I summarize the history of these species beginning with Linnaeus in 1758. While it took 80 years to reach the first 1000 species in 1838, species descriptions since then have been added roughly at the rate of 1000 new species every 20 years, with a significant acceleration only during the past two decades. The top 40 most productive herpetologists (in terms of “species output”) have described 4780 species, amounting to over half of all species. George Albert Boulenger leads this elite list with 573 species that are still recognized today. Historically, 18 classic works of the 18 th and 19 th century can be singled out, describing almost 1000 species still recognized, including the &lt;i&gt;Erpétologie&lt;/i&gt; &lt;i&gt;Générale,&lt;/i&gt; published between 1834 and 1854 in nine volumes. The top 25 journals have published more than 3600 species descriptions in the past 250 years (including 169 in &lt;i&gt;Zootaxa,&lt;/i&gt; ranked sixth), corresponding to about 40% of all species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">journals; bibliography; species number; species concepts; snakes; lizards; turtles; crocodiles</subject>
+          <subject_class locale="en_US">journals</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Uetz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2010-01-13</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

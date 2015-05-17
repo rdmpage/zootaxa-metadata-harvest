@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1905.1</id>
+    <title locale="en_US">15 Oct. 2008</title>
+    <volume>1905</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalogue of squat lobsters of the world (Crustacea: Decapoda: Anomurafamilies Chirostylidae, Galatheidae and Kiwaidae)</title>
+        <abstract locale="en_US">Taxonomic and ecological interest in squat lobsters has grown considerably over the last two decades. A checklist of the 870 current valid species of squat lobsters of the world (families Chirostylidae, Galatheidae and Kiwaidae) is presented. The compilation includes the complete taxonomic synonymy and geographical distribution of each species plus type information (type locality, repository and registration number). The numbers of described species in the world’s major ocean basins are summarised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Anomura; Chirostylidae; Galatheidae; Kiwaidae; checklist; taxonomy</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Keiji</firstname>
+          <lastname>Baba</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enrique</firstname>
+          <lastname>Macpherson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gary</firstname>
+          <middlename>C. B.</middlename>
+          <lastname>Poore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shane</firstname>
+          <middlename>T.</middlename>
+          <lastname>Ahyong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Bermudez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patricia</firstname>
+          <lastname>Cabezas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chia-Wei</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martha</firstname>
+          <lastname>Nizinski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celso</firstname>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kareen</firstname>
+          <middlename>E.</middlename>
+          <lastname>Schnabel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-220</pages>
+        <date_published>2008-10-15</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

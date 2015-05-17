@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2533.1</id>
+    <title locale="en_US">12 Jul. 2010</title>
+    <volume>2533</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Considerations on the genus &lt;i&gt;Gordius &lt;/i&gt;(Nematomorpha, horsehair worms), with the description of seven new species</title>
+        <abstract locale="en_US">Specimens belonging to the genus &lt;i&gt;Gordius&lt;/i&gt; (horsehair worms, Nematomorpha) are comparatively poor in diagnostic characters and determination of species is difficult. The characters important for determination (coloration, size, shape of anterior and posterior end, structures in the male posterior end, cuticular structure) are discussed. From the 119 species of the genus, 40 are regarded as invalid. The remaining 79 species and their characters are summarized in a table. The species &lt;i&gt;Gordius&lt;/i&gt; &lt;i&gt;aquaticus&lt;/i&gt; is the best known name among nematomorphs, but its diagnostic characters are critically reviewed. Recent methods such as SEM reveal characters such as the presence of fine bristles in the posterior end or different fine structures of the cuticular surface. Such characters were not included in older descriptions and their value for taxonomy will become apparent as more data is available. Despite such problems some specimens show unique and new characters or character combinations and the following seven species are described as new: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;balcanicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Serbia, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;digitatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Croatia, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;helveticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Swizerland, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;karwendeli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Germany, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pesici&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Montenegro, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;serratus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Papua New Guinea and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;zwicki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Russia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematomorpha; horsehair worms; &lt;i&gt;Gordius&lt;/i&gt;; taxonomy; determination; SEM</subject>
+          <subject_class locale="en_US">Nematomorpha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andreas</firstname>
+          <lastname>Schmidt-Rhaesa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2010-07-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cryptofavognathus&lt;/i&gt;, a new genus of the family Cryptognathidae Oudemans (Acari: Raphignathoidea), with the description of a new species from Turkey</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Cryptofavognathus&lt;/i&gt; is proposed for two species, &lt;i&gt;Cryptofavognathus&lt;/i&gt; &lt;i&gt;afyonensis&lt;/i&gt; (Koç &amp; Akyol, 2004) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anatolicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The adult female and male of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anatolicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; collected from moss and a bird’s nest are herein described and figured.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Cryptognathidae; &lt;i&gt;Cryptofavognathus&lt;/i&gt;; new genus; new species; Turkey</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Salih</firstname>
+          <lastname>Doğan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Güldem</firstname>
+          <lastname>Dönel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-42</pages>
+        <date_published>2010-07-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New seamount- and ridge-associated cyclostome Bryozoa from New Zealand</title>
+        <abstract locale="en_US">Recent sampling of seamount and ridge habitats in the New Zealand Exclusive Economic Zone has yielded new cyclostome bryozoan taxa. We describe here one new genus, a new name, &lt;i&gt;Dartevellopora&lt;/i&gt; (to replace the generic homonym &lt;i&gt;Dartevellia&lt;/i&gt; Borg, 1944) and ten new species, comprising &lt;i&gt;Filicisparsa&lt;/i&gt; &lt;i&gt;albobrunnea&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Oncousoeciidae), &lt;i&gt;Discantenna&lt;/i&gt; &lt;i&gt;tumba&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Diastoporidae), &lt;i&gt;Supercytis&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (family incertae sedis), &lt;i&gt;Filifascigera&lt;/i&gt; &lt;i&gt;brevicaudex&lt;/i&gt; (Frondiporidae); &lt;i&gt;Plagioecia&lt;/i&gt; &lt;i&gt;parva&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Plagioeciidae), &lt;i&gt;Favosipora&lt;/i&gt; &lt;i&gt;bathyalis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Densiporidae), and &lt;i&gt;Dartevellopora&lt;/i&gt; &lt;i&gt;neozelanica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rugosa&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Disporella&lt;/i&gt; &lt;i&gt;minicamera&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;minutissima&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Lichenoporidae). Seven of the new species occurred in the “Graveyard Seamount Complex” on the north-central Chatham Rise to the east of the South Island. Of these, three species and one new genus are known only from the type locality on “Graveyard” Seamount ― the most intensively fished of the seamounts in the complex by heavy bottom-trawl gear, which has implications for species conservation. Evidence based on discrimination between benthic invertebrate assemblages of hard bottoms on fished and unfished seamounts in the area suggests that small, short-lived taxa like cyclostome bryozoans might not be disadvantaged by bottom-trawling.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bryozoa; Cyclostomata; new genus; new species; &lt;i&gt;Filicisparsa&lt;/i&gt;; &lt;i&gt;Discantenna&lt;/i&gt;; &lt;i&gt;Supercytis&lt;/i&gt;; &lt;i&gt;Plagioecia&lt;/i&gt;; &lt;i&gt;Favosipora&lt;/i&gt;; &lt;i&gt;Dartevellopora&lt;/i&gt;; &lt;i&gt;Dartevellia&lt;/i&gt;; &lt;i&gt;Disporella&lt;/i&gt;; New Zealand; endemism; bottom trawling</subject>
+          <subject_class locale="en_US">Bryozoa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dennis</firstname>
+          <middlename>P.</middlename>
+          <lastname>Gordon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>D.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-68</pages>
+        <date_published>2010-07-12</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

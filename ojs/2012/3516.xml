@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">MAURICIO BARRETO, MARÍA E. BURBANO, HEATHER C. PROCTOR,</title>
+        <abstract locale="en_US">A preliminary checklist of feather mites from Colombia is presented. The list was compiled from a survey of publishedliterature, and from new records obtained by removing mites from live wild birds and dried museum skins. A total of 107taxa of feather mites identified to the species level were recorded, 86 species from the literature and another 21 speciesreported here for the first time from Colombian birds. At the generic level, 52 taxa were identified, including 39 new re-cords for the country. These feather mites are from 22 families, among which 13 are from the Analgoidea and 9 from thePterolichoidea. The families with the most feather mite species known from Colombia are the Proctophyllodidae and Pter-olichidae with 22 and 23 species, respectively. Associations of feather mites with 192 bird species of 43 families in 20orders were found. These birds represent only 10.2% of all bird species recorded in Colombia. The White-collared Swift,&lt;i&gt;Streptoprocne&lt;/i&gt; &lt;i&gt;zonaris&lt;/i&gt; (Shaw) was the bird with the most species of feather mites recorded (5 spp.). The number of Co-lombian birds with identified taxa of feather mites is very low given the rich avifauna of this country. Special attention should be given to the 73 endemic Colombian bird species of which only four have feather mite records.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Astigmata; Analgoidea; Pterolichoidea; biodiversity; taxonomy; host-symbiont relationships</subject>
+          <subject_class locale="en_US">Astigmata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Serge</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Georges</firstname>
+          <lastname>Wauthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

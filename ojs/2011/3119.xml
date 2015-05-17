@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3119.1</id>
+    <title locale="en_US">5 Dec. 2011</title>
+    <volume>3119</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">NAnnotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae)</title>
+        <abstract locale="en_US">The weevil tribe Listroderini (Curculionidae: Cyclominae) was originally recognized for a group of New World taxa. During the last decades its concept was expanded, and additional new taxa were described from the Americas, Australia, New Zealand, and the Tristan da Cunha-Gough islands. This checklist evaluates the nomenclatural status of all the generic and specific names applied to listroderines. A total of 407 species classified into 36 genera are recognized. The following synonymies are established: &lt;i&gt;Gromilus&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Brookes, 1951 and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; &lt;i&gt;antipodarum&lt;/i&gt; Kuschel, 1964 = &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; Blanchard, 1853; &lt;i&gt;Gromilus&lt;/i&gt; &lt;i&gt;veneris&lt;/i&gt; &lt;i&gt;setarius&lt;/i&gt; Broun, 1909 = &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;veneris&lt;/i&gt; (Kirsch, 1877); and &lt;i&gt;Listronotus&lt;/i&gt; &lt;i&gt;oregonensis&lt;/i&gt; &lt;i&gt;tessellatus&lt;/i&gt; Casey, 1895 = &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;oregonensis&lt;/i&gt; (LeConte, 1876). Two secondary homonyms were detected and replacement names are proposed: &lt;i&gt;Gromilus&lt;/i&gt; &lt;i&gt;brounii&lt;/i&gt; for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;setosus&lt;/i&gt; (Broun, 1917 &lt;i&gt;non&lt;/i&gt; Broun, 1893), and &lt;i&gt;Gromilus&lt;/i&gt; &lt;i&gt;kuschelii&lt;/i&gt; for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;striatus&lt;/i&gt; (Broun, 1921 &lt;i&gt;non&lt;/i&gt; Broun, 1915).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cyclominae; weevils; Americas; Australia; New Zealand</subject>
+          <subject_class locale="en_US">Cyclominae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>J.</middlename>
+          <lastname>Morrone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2011-12-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

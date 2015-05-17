@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2648.1</id>
+    <title locale="en_US">18 Oct. 2010</title>
+    <volume>2648</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic redefinition and natural history of the endemic silphid beetle &lt;i&gt;Silpha longicornis &lt;/i&gt;(Coleoptera: Silphidae) of Japan, with an analysis of its geographic variation</title>
+        <abstract locale="en_US">A taxonomic redefinition of &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; Portevin, 1926 is presented and the lectotype of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; is designated. &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;yamatona&lt;/i&gt; Kôno, 1929 and &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;imitator&lt;/i&gt; Shibata, 1969 are synonymized with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; based on examination of their type specimens and the geographic pattern of mtDNA CO1 region collected from representative localities in Japan, including their type localities. A key for the northeast Asian members of the &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; group is presented, and the geographic distribution, life cycle, microhabitat, and feeding biology of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; are summarized. Body size and elytral colors and sculptures are influenced by climatic conditions, and this morphological variation conformed to Gloger’s rule and the converse of Bergmann’s rule.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; group; synonymy; CO1; geographic distribution; converse of Bergmann’s rule; Gloger’s rule</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masaaki</firstname>
+          <lastname>Nishikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroshi</firstname>
+          <lastname>Ikeda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kohei</firstname>
+          <lastname>Kubota</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Teiji</firstname>
+          <lastname>Sota</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2010-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the subgenus &lt;i&gt;Acutipula &lt;/i&gt;Alexander from Henan, east-central China (Diptera, Tipulidae)</title>
+        <abstract locale="en_US">The subgenus &lt;i&gt;Tipula&lt;/i&gt; &lt;i&gt;(Acutipula)&lt;/i&gt; Alexander, 1924 is recorded from Henan, east-central China, for the first time. One species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;henanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described as new to science. The following four species are redescribed: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;pseudacanthophora&lt;/i&gt; Yang and Yang, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;pseudocockerelliana&lt;/i&gt; Yang and Yang, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;gansuensis&lt;/i&gt; Yang and Yang and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;buboda&lt;/i&gt; Yang and Yang. A key to the species of the subgenus &lt;i&gt;Acutipula&lt;/i&gt; from Henan is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Tipulidae; &lt;i&gt;Tipula&lt;/i&gt;; &lt;i&gt;Acutipula&lt;/i&gt;; new species; Henan; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yan</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-44</pages>
+        <date_published>2010-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic status of Andersen’s fruit-eating bat (&lt;i&gt;Artibeus jamaicensis&lt;/i&gt; &lt;i&gt;aequatorialis&lt;/i&gt;) and revised classification of &lt;i&gt;Artibeus &lt;/i&gt;(Chiroptera: Phyllostomidae) </title>
+        <abstract locale="en_US">Fruit-eating bats of the genus &lt;i&gt;Artibeus&lt;/i&gt; are widely distributed across the Neotropics and are one of the most recently evolved assemblages of the family Phyllostomidae. Although the taxonomy and systematics of species of &lt;i&gt;Artibeus&lt;/i&gt; has been the subject of an intense historical debate, the most current taxonomic arrangements recognize approximately eleven species within the genus. However, recent phylogenetic studies indicate that species diversity within South and Middle American populations of &lt;i&gt;Artibeus&lt;/i&gt; is underestimated. South American populations referable to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;jamaicensis&lt;/i&gt; &lt;i&gt;aequatorialis&lt;/i&gt; are of considerable interest because previous studies of mitochondrial DNA variation identified potential species level variation west of the Andes Mountains. In this study we use morphometric and genetic data (nuclear AFLPs) to investigate the taxonomic status of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;j.&lt;/i&gt; &lt;i&gt;aequatorialis.&lt;/i&gt; Our results indicate that elevating &lt;i&gt;aequatorialis&lt;/i&gt; to species level is appropriate based on statistically supported reciprocal monophyly in mitochondrial and nuclear datasets and diagnostic morphological characters. In light of our results, and of those presented elsewhere, we provide a revised classification of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">AFLPs; allopatric speciation; Neotropical bats; Ecuador; systematics</subject>
+          <subject_class locale="en_US">AFLPs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>A.</middlename>
+          <lastname>Larsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <middlename>R.</middlename>
+          <lastname>Marchán-Rivadeneira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>J.</middlename>
+          <lastname>Baker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-60</pages>
+        <date_published>2010-10-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Endasys &lt;/i&gt;Förster (Hymenoptera, Ichneumonidae, Cryptinae) from Mexico</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Endasys&lt;/i&gt; Förster (Ichneumonidae, Cryptinae), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;gibbosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described. Material was collected with Malaise traps functioning along one year in a dry forest in southeastern Mexico. The new species is similar to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;julianus&lt;/i&gt; Luhman, 1990 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;subclavatus&lt;/i&gt; Say, 1835, but differs by having a strongly raised median lobe of mesonotum, with rugulose sculpturing and coarse dense punctures, metapleuron aerolate-rugose, area superomedia with strongly elevated longitudinal wrinkles, and malar space very reduced. A complement is provided to Luhman’s key to the Nearctic species of &lt;i&gt;Endasys.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cryptinae&lt;/i&gt;; Yucatan; Reserve; taxonomy; key</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cryptinae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alejandra</firstname>
+          <lastname>González-Moreno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Santiago</firstname>
+          <lastname>Bordera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hugo</firstname>
+          <lastname>Delfin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-10-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

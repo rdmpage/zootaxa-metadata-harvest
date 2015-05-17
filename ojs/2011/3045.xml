@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3045.1</id>
+    <title locale="en_US">29 Sep. 2011</title>
+    <volume>3045</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Trischistoma &lt;/i&gt;Cobb, 1913 (Nematoda: Enoplida), with descriptions of four new species from New Zealand </title>
+        <abstract locale="en_US">&lt;i&gt;Trischistoma&lt;/i&gt; contains four accepted species. In this paper four more new species are added to the genus. Morphologically, these four new species can be briefly characterized as follows: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;triregius&lt;/i&gt; sp. nov. by having a pair of lateral cervical setae; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;otaika&lt;/i&gt; sp. nov. by having a post-vulval uterine sac and a prominent dorsal tooth; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;waiotama&lt;/i&gt; sp. nov. by having a single ventromedian cervical seta; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tukorehe&lt;/i&gt; sp. nov. by having two prominent dorsal teeth and long body length. Molecularly, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;triregius&lt;/i&gt; sp. nov., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;otaika&lt;/i&gt; sp. nov., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;waiotama&lt;/i&gt; sp. nov. and one published species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;monohystera&lt;/i&gt; can be differentiated by SSU &amp; LSU analysis. Among the four previously described species, the main distinguishing feature for &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;pellucidum&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;gracile&lt;/i&gt; is the absence of a postvulval uterine sac, which differentiates them from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;monohystera,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;equatoriale.&lt;/i&gt; All previously described species also can be differentiated by: body length and values of De Man’s Indices &lt;i&gt;a,&lt;/i&gt; &lt;i&gt;b,&lt;/i&gt; &lt;i&gt;c,&lt;/i&gt; &lt;i&gt;c’&lt;/i&gt; and &lt;i&gt;V.&lt;/i&gt; A key is provided for all eight species of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New Zealand; new species; morphology; molecular; Nematoda; Enoplida; Tripylidae; &lt;i&gt;Trischistoma&lt;/i&gt;; key; classification</subject>
+          <subject_class locale="en_US">New Zealand</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zeng</firstname>
+          <middlename>Qi</middlename>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2011-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Phytoptus atherodes &lt;/i&gt;sp. n. (Acari: Eriophyoidea: Phytoptidae) and a supplementary description of &lt;i&gt;Phytoptus hirtae &lt;/i&gt;Roivainen 1950 from sedges (Cyperaceae) </title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Phytoptus&lt;/i&gt; &lt;i&gt;atherodes,&lt;/i&gt; an eriophyoid mite found on &lt;i&gt;Carex&lt;/i&gt; &lt;i&gt;atherodes&lt;/i&gt; Spreng. in North-West Russia, is described and a supplementary description of the poorly known species, &lt;i&gt;Phytoptus&lt;/i&gt; &lt;i&gt;hirtae&lt;/i&gt; Roivainen 1950, from &lt;i&gt;Carex&lt;/i&gt; &lt;i&gt;hirta&lt;/i&gt; L. is given. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;atherodes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; has deutogyne and protogyne females which differ in the length of the body, prodorsal shield, setae &lt;i&gt;v,&lt;/i&gt; φ and с &lt;i&gt;1;&lt;/i&gt; the number of dorsal annuli and length and number of empodial rays. Variability of empodial ray numbers among summer (protogyne) and winter (deutogyne) females of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;atherodes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hirtae&lt;/i&gt; was studied for the first time and may reflect different stages of evolution within the genus &lt;i&gt;Phytoptus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Prostigmata; Phytoptidae; deuterogeny; eriophyoid mites; sedge; empodium; monocots</subject>
+          <subject_class locale="en_US">Prostigmata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philipp</firstname>
+          <middlename>E.</middlename>
+          <lastname>Chetverikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-44</pages>
+        <date_published>2011-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Acamerobia inflatus &lt;/i&gt;gen. n. &amp; sp. n. from Australia (Acari: Prostigmata: Raphignathoidea: Camerobiidae) with notes on the idiosomal chaetotaxy </title>
+        <abstract locale="en_US">Currently, six genera are known in the family Camerobiidae (Acari: Prostigmata). Herein we propose a new genus, &lt;i&gt;Acamerobia,&lt;/i&gt; based on a new species, &lt;i&gt;Acamerobia&lt;/i&gt; &lt;i&gt;inflatus,&lt;/i&gt; from bark of &lt;i&gt;Jacaranda&lt;/i&gt; &lt;i&gt;mimosifolia&lt;/i&gt; in Brisbane, Australia, and redefine the family and provide a key to genera. We also give comments on the idiosomal chaetotaxy for the family.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Australia; new genus</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qing-Hai</firstname>
+          <lastname>Fan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>E.</middlename>
+          <lastname>Walter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2011-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of harlequin frog (Bufonidae: &lt;i&gt;Atelopus&lt;/i&gt;) with an unusual behavior from Andes of Colombia </title>
+        <abstract locale="en_US">A new species of harlequin frog, genus &lt;i&gt;Atelopus,&lt;/i&gt; is described from the highlands in the northern part of the Cordillera Central, Colombia. The new species, is distinguished from all other species in the genus by the presence of a postorbital crest widely raised, well defined &lt;i&gt;coni&lt;/i&gt; in postocular region and arms, small warts and spiculae scattered on the dorsal surfaces of the body and thighs and, vertebral neural processes conspicuous. Females are uniform dark reddish brown on dorsum, and bright orange ventrally; males are dark brown dorsally, and ventrally white or yellowish with dark brown irregular stripes and blotches. The conservation population status of the new species is discussed, additionally the natural history and aspects about an unusual behavior in the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Atelopus&lt;/i&gt; &lt;i&gt;nocturnus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Cordillera Central; Colombia; natural history; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Atelopus&lt;/i&gt; &lt;i&gt;nocturnus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Cordillera Central</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laura</firstname>
+          <lastname>Bravo-Valencia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauricio</firstname>
+          <lastname>Rivera-Correa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-67</pages>
+        <date_published>2011-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: BOYER, S., BLAKEMORE, R.J. &amp; WRATTEN, S.D (2011) An integrative taxonomic approach to the identification of three new New Zealand endemic earthworm species (Acanthodrilidae, Octochaetidae: Oligochaeta). &lt;i&gt;Zootaxa&lt;/i&gt;, 2994, 21–32. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2011-09-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

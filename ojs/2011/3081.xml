@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3081.1</id>
+    <title locale="en_US">28 Oct. 2011</title>
+    <volume>3081</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalogue of the type specimens of Ichneumonidae (Hymenoptera) in the Jacques F. Aubert collection at the Musée de Zoologie, Lausanne, Switzerland </title>
+        <abstract locale="en_US">Jacques F. Aubert described more than 600 ichneumonid taxa, mainly from the Alps and the Mediterranean region. His large collection was furthermore used by other ichneumonid taxonomists, who described additional new taxa. The namebearing types of 501 of these taxa are deposited at the Musée de Zoologie in Lausanne. In order to make information about these types accessible to future ichneumonid researchers, we here list all taxa and report the original label contents of the name-bearing types. Additionally, we clarify the status of the type specimens and discuss the availability of names in cases where Aubert’s descriptions do not conform to the International Code of Zoological Nomenclature.&lt;b&gt;key&lt;/b&gt; &lt;b&gt;words:&lt;/b&gt; Ichneumonoidea, holotype, lectotype, neotype, nomenclature, syntype, type catalogue</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Seraina</firstname>
+          <lastname>Klopfstein</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hannes</firstname>
+          <lastname>Baur</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-90</pages>
+        <date_published>2011-10-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

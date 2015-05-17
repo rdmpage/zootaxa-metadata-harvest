@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1957.1</id>
+    <title locale="en_US">5 Dec. 2008</title>
+    <volume>1957</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-12-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of Oriental Teloganodidae (Insecta, Ephemeroptera, Ephemerelloidea)</title>
+        <abstract locale="en_US">Based on the examination of the type series of &lt;i&gt;Cloe&lt;/i&gt; &lt;i&gt;tristis&lt;/i&gt; Hagen, 1858 (type species of the genus &lt;i&gt;Teloganodes&lt;/i&gt; Eaton, 1882) and material housed in several institutions, a revision of Oriental Teloganodidae is proposed. A lectotype is designated for &lt;i&gt;Teloganodes&lt;/i&gt; &lt;i&gt;tristis&lt;/i&gt; (Hagen, 1858) and the genus is redefined. The species &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;major&lt;/i&gt; Eaton, 1884, is a subjective junior synonym of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tristis&lt;/i&gt; Hagen, 1858 &lt;b&gt;(syn.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; The genus &lt;i&gt;Macafertiella&lt;/i&gt; Wang, 1996 is a subjective junior synonym of &lt;i&gt;Teloganodes&lt;/i&gt; Eaton, 1882 (syn. &lt;b&gt;nov.).&lt;/b&gt; A phylogenetic analysis is performed on all available nymphs. &lt;i&gt;Teloganodes&lt;/i&gt; is restricted to Sri Lanka and the Western Ghats of India and encompasses the type species and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;dentatus&lt;/i&gt; Navás, 1931, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;insignis&lt;/i&gt; (Wang &amp; McCafferty, 1996) &lt;b&gt;(comb.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; and the following new species: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tuberculatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sri Lanka), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;kodai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (India), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;jacobusi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sri Lanka) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;hubbardi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sri Lanka). The type material of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;dentata&lt;/i&gt; &lt;i&gt;is&lt;/i&gt; redescribed. Species from Southeast Asia are assigned to two new genera. &lt;i&gt;Dudgeodes&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; includes the type species &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pescadori&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Philippines) and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;lugens&lt;/i&gt; (Navás, 1933) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hutanis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Borneo), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;stephani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Borneo), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ulmeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Java, Sumatra), and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;celebensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sulawesi). The genus &lt;i&gt;Derlethina&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;eloisae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Borneo). The egg morphology is presented for the first time for the family Teloganodidae. Affinities within the family and between related families are discussed and a key to distinguish all species known at the larval stage is proposed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematics; new species; new genus; Sri Lanka; India; China; Indonesia; Malaysia; Philippines</subject>
+          <subject_class locale="en_US">Systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michel</firstname>
+          <lastname>Sartori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janice</firstname>
+          <middlename>G.</middlename>
+          <lastname>Peters</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>D.</middlename>
+          <lastname>Hubbard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-51</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of Madeiran mayflies (Insecta, Ephemeroptera)</title>
+        <abstract locale="en_US">A comprehensive revision of the mayflies (Ephemeroptera) inhabiting the island of Madeira (Portugal) is presented, based on newly collected specimens and DNA sequence analysis. Disregarding a report of a single &lt;i&gt;Centroptilum&lt;/i&gt; female subimago that is very likely a misidentification, the Madeira mayfly fauna encompasses three species, all belonging to the Baetidae. Previous reports of the continental species &lt;i&gt;Cloeon&lt;/i&gt; &lt;i&gt;dipterum&lt;/i&gt; Linnaeus, 1758 are erroneous, as all examined specimens belong to the new species &lt;i&gt;Cloeon&lt;/i&gt; &lt;i&gt;peregrinator&lt;/i&gt; n.sp. Gattolliat and Sartori. &lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;atlanticus&lt;/i&gt; Soldán &amp; Godunko, 2006 is by far the most common and abundant species on the island. A second new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;enigmaticus&lt;/i&gt; n.sp. Gattolliat and Sartori is established for larvae presenting rheophilous adaptations similar to those of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pseudorhodani&lt;/i&gt; Müller-Liebenau, 1971 from the Canary Islands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Madeira; &lt;i&gt;Cloeon&lt;/i&gt; &lt;i&gt;dipterum&lt;/i&gt;; &lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;rhodani&lt;/i&gt;; revision; new species</subject>
+          <subject_class locale="en_US">Madeira</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jean-Luc</firstname>
+          <lastname>Gattolliat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samantha</firstname>
+          <middlename>J.</middlename>
+          <lastname>Hughes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>T.</middlename>
+          <lastname>Monaghan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <lastname>Sartori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-68</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">What is &lt;i&gt;Baetis rhodani &lt;/i&gt;(Pictet, 1843) (Insecta, Ephemeroptera, Baetidae)? Designation of a neotype and redescription of the species from its original area</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;rhodani&lt;/i&gt;; Switzerland; neotype; redescription; sibling species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;rhodani&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jean-Luc</firstname>
+          <lastname>Gattolliat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <lastname>Sartori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-80</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2409.1</id>
+    <title locale="en_US">24 Mar. 2010</title>
+    <volume>2409</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Akodon boliviensis &lt;/i&gt;species group (Rodentia: Cricetidae: Sigmodontinae) in Argentina: species limits and distribution, with the description of a new entity</title>
+        <abstract locale="en_US">&lt;i&gt;Akodon,&lt;/i&gt; with about 42 living species, is the most diverse genus of the subfamily Sigmodontinae. The &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; species group includes small-bodied, morphologically similar forms inhabiting Altiplano grasslands and grassland/forest ecotones of the eastern slope of the Andes, from central Peru to central Argentina. Northwestern Argentina contains the largest diversity of species of the group; the taxonomic treatment of these species has been based largely on unsupported and some weakly based opinions as underscored by recurrent changes. Based on morphologic and molecular data we assessed species limits among Argentinean populations of the &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; species group. We conclude that four species of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; species group inhabit northwestern Argentina. These are: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;boliviensis;&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;caenosus&lt;/i&gt; (under which we synonymyze &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aliquantulus);&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spegazzinii&lt;/i&gt; (of which the nominal forms &lt;i&gt;alterus,&lt;/i&gt; &lt;i&gt;leucolimnaeus,&lt;/i&gt; and &lt;i&gt;tucumanensis&lt;/i&gt; are junior synonyms); and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sylvanus.&lt;/i&gt; Additionally, we described here a new species of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; species group, &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;polopi,&lt;/i&gt; which inhabits central Argentina. This is the only species of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; species group inhabiting the Sierras Grandes range (ca. 2000 m), mountain system of medium height, isolated (ca., 600 km) from the main Andean chain by low elevation arid and semiarid environments. Additionally, our phylogenetic analyses suggests that the &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;varius&lt;/i&gt; species group is polyphyletic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt;; &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;caenosus&lt;/i&gt;; &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;polopi&lt;/i&gt; n. sp.; &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;spegazzinii&lt;/i&gt;; &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;sylvanus&lt;/i&gt;; &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;varius&lt;/i&gt;; Akodontini; new species; Argentina; Pampa de Achala; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>Pablo</middlename>
+          <lastname>Jayat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>E.</middlename>
+          <lastname>Ortiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Salazar-Bravo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulyses</firstname>
+          <middlename>F. J.</middlename>
+          <lastname>Pardiñas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>D’Elía</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2010-03-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

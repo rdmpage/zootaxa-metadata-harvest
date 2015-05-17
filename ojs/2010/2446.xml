@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2446.1</id>
+    <title locale="en_US">6 May. 2010</title>
+    <volume>2446</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Unravelling the underestimated diversity of Philippine water monitor lizards (Squamata: &lt;i&gt;Varanus salvator &lt;/i&gt;complex), with the description of two new species and a new subspecies</title>
+        <abstract locale="en_US">Recently, the first part of the morphological revision of the Southeast Asian water monitor lizards of the &lt;i&gt;Varanus&lt;/i&gt; &lt;i&gt;salvator&lt;/i&gt; (Laurenti, 1768) species group provided a taxonomic overview over the members of this successful and widespread species complex (Koch &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2007). There, the Philippine taxa &lt;i&gt;marmoratus,&lt;/i&gt; &lt;i&gt;nuchalis&lt;/i&gt; and &lt;i&gt;cumingi&lt;/i&gt; were reelevated to species status due to diagnostic morphological characteristics, e.g. significantly enlarged scales on the neck region. In this second part of the ongoing revision, these three species are re-investigated using additional voucher specimens and advanced statistical techniques including canonical variates analysis and principal component analysis. Our new investigations indicate that &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;marmoratus&lt;/i&gt; represents a composite species, comprising at least three distinct taxa. Hence, the populations of the Sulu Archipelago (Tawi–Tawi Island) and those of the Palawan region are described as new species, viz. &lt;i&gt;Varanus&lt;/i&gt; &lt;i&gt;rasmusseni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;palawanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; respectively. The allopatric island populations of &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;cumingi&lt;/i&gt; inhabiting Samar, Leyte, and Bohol (the East Visayan subregion) show characteristic and geographically correlated colour patterns distinct from the type locality Mindanao (the second subregion of Greater Mindanao), warranting subspecific partition of this species. The new subspecies is named &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;cumingi&lt;/i&gt; &lt;i&gt;samarensis&lt;/i&gt; &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; In contrast, the taxonomic status of &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;nuchalis&lt;/i&gt; remained unchanged, although this species shows some considerable variation in colour pattern. The systematic chapters are supplemented with notes about biology and conservation status. The hitherto underestimated diversity and zoogeography of Philippine water monitors is discussed in the light of Pleistocene sea level fluctuations. Finally, we introduce a scenario for the evolution and spread of Southeast Asian water monitor lizards and provide an identification key for the Philippine members of the &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;salvator&lt;/i&gt; complex.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Koch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maren</firstname>
+          <lastname>Gaulke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Böhme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2010-05-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Octoglena claraqua&lt;/i&gt;, n. sp. (Polyzoniida: Hirudisomatidae), a new milliped from Idaho, USA; first record of the order from the western interior of North America</title>
+        <abstract locale="en_US">The milliped family Hirudisomatidae (Polyzoniida) comprises two genera in the Western Hemisphere and North America – &lt;i&gt;Octoglena&lt;/i&gt; Wood, 1864, and &lt;i&gt;Mexiconium&lt;/i&gt; Shelley, 1996 – and seven species, one being a new species from Idaho, the first hirudisomatid from the western interior, represented solely by an adult male. It is unique in its banded color pattern, recumbent gonopodal orientation &lt;i&gt;in&lt;/i&gt; &lt;i&gt;situ,&lt;/i&gt; upright anterior gonopod podomeres relative to the sternum, and the calyx configuration of the ultimate article. Despite these features, provisional assignment to &lt;i&gt;Octoglena&lt;/i&gt; is warranted pending more material and review of all familial components under high magnification, preferably SEM. A full description is provided for &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;claraqua,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; along with a key to familial components in the Western Hemisphere, new locality records, and a distribution map.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">British Columbia; California; Pacific Coast; anterior gonopods; ultimate podomere</subject>
+          <subject_class locale="en_US">British Columbia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rowland</firstname>
+          <middlename>M.</middlename>
+          <lastname>Shelley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Casey</firstname>
+          <middlename>H.</middlename>
+          <lastname>Richart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arthur</firstname>
+          <middlename>E.</middlename>
+          <lastname>Bogan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2010-05-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Chama &lt;/i&gt;(Bivalvia, Chamidae) from Mexico</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <lastname>Valentich-Scott</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eugene</firstname>
+          <middlename>V.</middlename>
+          <lastname>Coan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2010-05-06</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

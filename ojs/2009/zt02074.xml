@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2074.1</id>
+    <title locale="en_US">16 Apr. 2009</title>
+    <volume>2074</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the North American species of &lt;i&gt;Hemipenthes &lt;/i&gt;Loew, 1869 (Diptera: Bombyliidae)</title>
+        <abstract locale="en_US">Twenty-three North American species of the genus &lt;i&gt;Hemipenthes&lt;/i&gt; Loew are reviewed. Two new species are described (type locality in parentheses): &lt;i&gt;Hemipenthes&lt;/i&gt; &lt;i&gt;albus&lt;/i&gt; (Mexico, Zacatecas: 25 mi NW Zacatecas), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;translucens&lt;/i&gt; (Mexico, Morelos: Quilamula), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The following synonymies were founded: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;eumenes&lt;/i&gt; (Osten Sacken, 1886) is a synonym of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;seminigra&lt;/i&gt; Loew, 1869, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.;&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;floridiana&lt;/i&gt; (Macquart, 1850), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pima&lt;/i&gt; (Painter, 1962), and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sagata&lt;/i&gt; (Loew, 1869 are synonyms of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;celeris&lt;/i&gt; (Wiedemann, 1828), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syns.&lt;/b&gt; Evidence presented here shows that &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;morio&lt;/i&gt; (Linnaeus, 1758) has a Palearctic distribution, not Holarctic as had been considered. &lt;i&gt;Chrysanthrax&lt;/i&gt; &lt;i&gt;yaqui&lt;/i&gt; (Painter, 1962) is transferred from &lt;i&gt;Villa,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; systematics; geographical distribution</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Omar</firstname>
+          <lastname>Ávalos-Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2009-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Thienemannimyia &lt;/i&gt;Fittkau (Diptera: Chironomidae) from China</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Thienemannimyia&lt;/i&gt; Fittkau, 1957 is recorded from the Oriental region for the first time. &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;barberi&lt;/i&gt; (Coquillett, 1902), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;fusciceps&lt;/i&gt; (Edwards, 1929) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;laeta&lt;/i&gt; (Meigen, 1818) are reported in the region, and two new species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;dimorpha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;galbina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are described and illustrated as males. &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;fusciceps&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;geijskesi&lt;/i&gt; (Goetghebuer, 1934) are also recorded from Palaearctic China. The generic diagnosis is emended and a key to the males of &lt;i&gt;Thienemannimyia&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; Tanypodinae; &lt;i&gt;Thienemannimyia&lt;/i&gt;; new species; key; China</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ming</firstname>
+          <lastname>Cheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xinhua</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-60</pages>
+        <date_published>2009-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">What is &lt;i&gt;Amphipteryx agrioides &lt;/i&gt;Selys 1853 (Odonata: Amphipterygidae)?</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Enrique</firstname>
+          <lastname>González-Soriano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <lastname>Von Ellenrieder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2009-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Friesea &lt;/i&gt;of the &lt;i&gt;mirabilis-&lt;/i&gt;group from Algeria (Collembola: Neanuridae: Frieseinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Salah</firstname>
+          <middlename>Hamra</middlename>
+          <lastname>Kroua</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <lastname>Jordana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Louis</firstname>
+          <lastname>Deharveng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-04-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

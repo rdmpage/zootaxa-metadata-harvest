@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1837.1</id>
+    <title locale="en_US">30 Jul. 2008</title>
+    <volume>1837</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A species level revision of Bridgerian and Uintan brontotheres (Mammalia, Perissodactyla) exclusive of &lt;i&gt;Palaeosyops&lt;/i&gt;</title>
+        <abstract locale="en_US">A systematic revision based on a morphological and statistical analysis recognizes the following Bridgerian and Uintan brontothere species as valid: &lt;i&gt;Mesatirhinus&lt;/i&gt; &lt;i&gt;megarhinus,&lt;/i&gt; &lt;i&gt;Metarhinus&lt;/i&gt; &lt;i&gt;fluviatilis,&lt;/i&gt; &lt;i&gt;Metarhinus&lt;/i&gt; &lt;i&gt;diploconus,&lt;/i&gt; &lt;i&gt;Sphenocoelus&lt;/i&gt; &lt;i&gt;uintensis,&lt;/i&gt; &lt;i&gt;Sphenocoelus&lt;/i&gt; &lt;i&gt;intermedius,&lt;/i&gt; &lt;i&gt;Sphenocoelus&lt;/i&gt; &lt;i&gt;hyognathus,&lt;/i&gt; &lt;i&gt;Telmatherium&lt;/i&gt; &lt;i&gt;validus,&lt;/i&gt; &lt;i&gt;Protitanotherium&lt;/i&gt; &lt;i&gt;emarginatum,&lt;/i&gt; &lt;i&gt;Pseudodiplacodon&lt;/i&gt; &lt;i&gt;progressum,&lt;/i&gt; &lt;i&gt;Eotitanotherium&lt;/i&gt; &lt;i&gt;osborni,&lt;/i&gt; &lt;i&gt;Sthenodectes&lt;/i&gt; &lt;i&gt;incisivum,&lt;/i&gt; and &lt;i&gt;Metatelmatherium&lt;/i&gt; &lt;i&gt;ultimum.&lt;/i&gt; The valid Bridgerian genus &lt;i&gt;Palaeosyops&lt;/i&gt; is not discussed in the present paper. &lt;i&gt;Mesatirhinus,&lt;/i&gt; &lt;i&gt;Metarhinus,&lt;/i&gt; and &lt;i&gt;Sphenocoelus&lt;/i&gt; are grouped within the subfamily Dolichorhininae; &lt;i&gt;Telmatherium,&lt;/i&gt; &lt;i&gt;Protitanotherium,&lt;/i&gt; &lt;i&gt;Pseudodiplacodon,&lt;/i&gt; and &lt;i&gt;Eotitanotherium&lt;/i&gt; are grouped within the subfamily Brontotheriinae; and &lt;i&gt;Sthenodectes&lt;/i&gt; and &lt;i&gt;Metatelmatherium&lt;/i&gt; are listed as Brontotheriidae incertae sedis. It is possible that &lt;i&gt;Metatelmatherium&lt;/i&gt; may be a member of the subfamily Brontotheriinae or that it may be closely related to &lt;i&gt;Sthenodectes,&lt;/i&gt; justifying the recognition of another North American brontothere subfamily, the Metatelmatheriinae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">titanothere; Brontotheriidae; Eocene; &lt;i&gt;Mesatirhinus&lt;/i&gt;; &lt;i&gt;Metarhinus&lt;/i&gt;; &lt;i&gt;Sphenocoelus&lt;/i&gt;; &lt;i&gt;Dolichorhinus&lt;/i&gt;; &lt;i&gt;Telmatherium&lt;/i&gt;; &lt;i&gt;Protitanotherium&lt;/i&gt;; &lt;i&gt;Pseudodiplacodon&lt;/i&gt;; &lt;i&gt;Diplacodon&lt;/i&gt;; &lt;i&gt;Eotitanotherium&lt;/i&gt;; &lt;i&gt;Metatelmatherium&lt;/i&gt;; &lt;i&gt;Sthenodectes&lt;/i&gt;</subject>
+          <subject_class locale="en_US">titanothere</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bryn</firstname>
+          <middlename>J.</middlename>
+          <lastname>Mader</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-85</pages>
+        <date_published>2008-07-30</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

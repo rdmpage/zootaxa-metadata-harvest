@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1927.1</id>
+    <title locale="en_US">7 Nov. 2008</title>
+    <volume>1927</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-11-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Comparative larval morphology of eight species of &lt;i&gt;Hypsiboas&lt;/i&gt; Wagler (Amphibia, Anura, Hylidae) from Argentina and Uruguay, with a review of the larvae of this genus</title>
+        <abstract locale="en_US">We studied the external and oral cavity morphology of the tadpoles of eight species of &lt;i&gt;Hypsiboas&lt;/i&gt; in the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;albopunctatus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;faber,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pulchellus&lt;/i&gt; species groups. After a review of the available information about larval external and oral cavity morphology, no character state seems to be synapomorphic for &lt;i&gt;Hypsiboas.&lt;/i&gt; The presence of a fleshy projection in the inner margin of the nostrils and rounded vacuities of the anteromedial surface of the choanae (pending the confirmation of the latter in &lt;i&gt;Hyloscirtus&lt;/i&gt; and &lt;i&gt;Myersiohyla)&lt;/i&gt; seems to be synapomorphic for the tribe Cophomantini, as previously noticed by other authors. Some putative synapomorphies are suggested for some species groups of &lt;i&gt;Hypsiboas,&lt;/i&gt; but a denser sampling is needed to study the taxonomic distribution of these character states, in order to determine which clades they may support. The presence of lateral flaps with labial teeth in the oral disc is a variable feature of many species in the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;faber&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pulchellus&lt;/i&gt; groups. A spiracular tube free from the body wall is present in some species, mostly in the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;albopunctatus&lt;/i&gt; group, but also in the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;rufitelus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;faber&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pulchellus&lt;/i&gt; groups. Unique ventrolateral cumules of neuromasts are present in &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;faber,&lt;/i&gt; and also in some species of other groups of &lt;i&gt;Hypsiboas&lt;/i&gt; and of the sister genus &lt;i&gt;Aplastodiscus.&lt;/i&gt; Our results highlight the importance of studying the taxonomic distribution of many character states that were sometimes overlooked in tadpole descriptions but seem relevant to test phylogenetic hypothesis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cophomantini; Hylinae; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;andinus&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;caingua&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;cordobae&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;faber&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;pulchellus&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; &lt;i&gt;rubrolineatus&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;raniceps&lt;/i&gt;; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;riojanus&lt;/i&gt;; larval external morphology; oral papillation; neuromasts</subject>
+          <subject_class locale="en_US">Cophomantini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <lastname>Kolenc</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <lastname>Borteiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leandro</firstname>
+          <lastname>Alcalde</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <lastname>Baldo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dario</firstname>
+          <lastname>Cardozo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julián</firstname>
+          <lastname>Faivovich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-66</pages>
+        <date_published>2008-11-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

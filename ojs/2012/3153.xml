@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3153.1</id>
+    <title locale="en_US">6 Jan. 2012</title>
+    <volume>3153</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Aventiinae, Boletobiinae, Eublemminae, Pangraptinae, Phytometrinae, and Scolecocampinae (Lepidoptera: Noctuoidea: Erebidae) of Great Smoky Mountains National Park, U.S.A.</title>
+        <abstract locale="en_US">Twenty-five species of Erebidae are documented from Great Smoky Mountains National Park (GSMNP) from the follow-ing subfamilies: Aventiinae (1 species), Boletobiinae (7 species), Eublemminae (1 species), Pangraptinae (2 species), Phy-tometrinae (6 species), and Scolecocampinae (8 species). Each species is documented with an adult image, description/diagnosis, flight period, park distribution, abundance, elevational range, general distribution, and larval hosts. The mostcommon (155 specimens) and widespread (40 localities) species was &lt;i&gt;Pangrapta&lt;/i&gt; &lt;i&gt;decoralis&lt;/i&gt; Hübner. &lt;i&gt;Scolecocampa&lt;/i&gt; &lt;i&gt;liburna&lt;/i&gt;(Geyer) is the next most common (87 specimens) and widespread (30 localities). The most species rich locality was the combination of the 11 localities along the Foothills Parkway, Cocke Co., Tennessee.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">systematics; all taxa biodiversity inventory; North Carolina; Tennessee; host plants</subject>
+          <subject_class locale="en_US">systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <middlename>G.</middlename>
+          <lastname>Pogue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the cicada genus &lt;i&gt;Karenia &lt;/i&gt;Distant, 1888 (Hemiptera: Cicadidae) from Vietnam, with description of a new species</title>
+        <abstract locale="en_US">The first record of the genus &lt;i&gt;Karenia&lt;/i&gt; Distant, 1888 from Vietnam is presented. &lt;i&gt;Karenia&lt;/i&gt; &lt;i&gt;hoanglienensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;(Hemiptera: Cicadidae) is described from Lao Cai Province, northern Vietnam. Photographs of an adult male, illustrations of the male genitalia, a distribution map and biological data for &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;hoanglienensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new record; &lt;i&gt;Karenia&lt;/i&gt; &lt;i&gt;hoanglienensis&lt;/i&gt;; Cicadettinae; Sinosenini; distribution</subject>
+          <subject_class locale="en_US">new record</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pham</firstname>
+          <middlename>Hong</middlename>
+          <lastname>Thai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeng-Tze</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-38</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Stenomastigus &lt;/i&gt;Leleup (Staphylinidae, Scydmaeninae): status of subgenus &lt;i&gt;Acanthostigus &lt;/i&gt;Leleup and revision of species with elongated male protrochanters</title>
+        <abstract locale="en_US">Based on examination of type species, the subgenera of South African genus &lt;i&gt;Stenomastigus&lt;/i&gt; Leleup are merged and thename &lt;i&gt;Acanthostigus&lt;/i&gt; Leleup is placed as a junior synonym of &lt;i&gt;Stenomastigus.&lt;/i&gt; A group of species characterized by a prom-inent distal projection of the male protrochanters is revised and two new species are described: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;berlinafricanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt;and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;kosianus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; New diagnoses of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;allaeri&lt;/i&gt; Leleup, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;basilewskyi&lt;/i&gt; Leleup and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;kochi&lt;/i&gt; Leleup are given. Habitus, aedeagi, modified fore legs and other diagnostic characters of all treated species are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Mastigini; new species; Afrotropical; South Africa</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paweł</firstname>
+          <lastname>Jałoszyński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-56</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Biodiversity research of darkling beetles on Socotra Island. Part I. The genus &lt;i&gt;Deretus &lt;/i&gt;Gahan, 1900 (Coleoptera: Tenebrionidae)</title>
+        <abstract locale="en_US">As a result of biodiversity research on Socotra Island, four new species of the genus &lt;i&gt;Deretus&lt;/i&gt; Gahan, 1900 are described—&lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bezdeki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hulai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;necopinatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;maderai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Deretus&lt;/i&gt; &lt;i&gt;wraniki&lt;/i&gt; Schawaller, 2004is synonymised with &lt;i&gt;Deretus&lt;/i&gt; &lt;i&gt;denticollis&lt;/i&gt; Gahan, 1900. All known species are figured, keyed, and information about their biology and distribution is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Tenebrionidae; Helopini; &lt;i&gt;Deretus&lt;/i&gt;; Socotra Island; Yemen; taxonomy; new species; new synonym; description; biodiversity research</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luboš</firstname>
+          <lastname>Purchart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

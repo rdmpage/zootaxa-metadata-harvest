@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2755.1</id>
+    <title locale="en_US">2 Feb. 2011</title>
+    <volume>2755</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Sturnira &lt;/i&gt;(Chiroptera: Phyllostomidae) from the Choco forest of Ecuador</title>
+        <abstract locale="en_US">&lt;i&gt;Sturnira&lt;/i&gt; &lt;i&gt;perla,&lt;/i&gt; the new species described herein, is diagnosed as an independent phylogenetic lineage in hypotheses derived from mitochondrial sequences, and shows acceptable distances in terms of genetic divergence. This description also relies on the statistical interpretation of morphological dissimilarity and overlap, and avoids qualitative judgments of character variation. Overall, this new species is characterized by a spherical skull, noticeable round and robust, with pronouncedly curved zygomatic arches. Statistical evidence that supports the discrimination of other species in &lt;i&gt;Sturnira,&lt;/i&gt; based on external characters such as pelage coloration or number of hairs, is absent in the literature. In this sense, the geometry of the skull for this newly described species shows the sharpest morphological boundaries, relative to other closely related and sympatric taxa. This new species is likely endemic to the Choco forest, specially at its southern limits. This is an area known for its high levels of endemism. The magnitude of environmental disruption in the Choco and the potential rarity of this new species may be negatively affecting its probability of survival.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Choco; endemism; geometric morphometrics; new species; species boundaries; &lt;i&gt;Sturnira&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Choco</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <lastname>Jarrín–V</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>H.</middlename>
+          <lastname>Kunz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2011-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology and life cycle of &lt;i&gt;Carybdea morandinii, &lt;/i&gt;sp. nov. (Cnidaria), a cubozoan with zooxanthellae and peculiar polyp anatomy</title>
+        <abstract locale="en_US">A new species of Cubozoa found in an aquarium at Hagenbecks Tierpark (Zoo), Hamburg, Germany, is described herein as &lt;i&gt;Carybdea&lt;/i&gt; &lt;i&gt;morandinii.&lt;/i&gt; The species is distinguished from all known cnidarians in the anatomy of its polyp stage. The gastric cavity of the cubopolyp is divided horizontally into two chambers by a shutter-lens-like diaphragm. Metamorphosis was total and resulted in a single, four-tentacled medusa as in other known cubozoans. Both polyp and medusa stages bear zooxanthellae, which seemed important in the metamorphic process.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cubozoa; &lt;i&gt;Carybdea&lt;/i&gt; &lt;i&gt;marsupialis&lt;/i&gt;; &lt;i&gt;Alatina&lt;/i&gt; &lt;i&gt;mordens&lt;/i&gt;; &lt;i&gt;Tripedalia&lt;/i&gt; &lt;i&gt;cystophora&lt;/i&gt;; two-chambered gastric cavity; cyst; development</subject>
+          <subject_class locale="en_US">Cubozoa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ilka</firstname>
+          <lastname>Straehler-Pohl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerhard</firstname>
+          <lastname>Jarms</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-56</pages>
+        <date_published>2011-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic relationships among the &lt;i&gt;Epiperipatus &lt;/i&gt;lineages (Onychophora: Peripatidae) from the Minas Gerais State, Brazil</title>
+        <abstract locale="en_US">The taxonomy and phylogeny of Onychophora (velvet worms), in particular of the neotropical Peripatidae, are understudied, due to a low number of useful morphological characters. In this paper, we use mitochondrial DNA markers to investigate the evolutionary relationships among the &lt;i&gt;Epiperipatus&lt;/i&gt; lineages from the Minas Gerais State of Brazil. Our phylogenetic analyses of two fragments of the &lt;i&gt;cytochrome&lt;/i&gt; &lt;i&gt;oxidase&lt;/i&gt; &lt;i&gt;subunit&lt;/i&gt; &lt;i&gt;I&lt;/i&gt; (COI) and &lt;i&gt;small&lt;/i&gt; &lt;i&gt;ribosomal&lt;/i&gt; &lt;i&gt;subunit&lt;/i&gt; &lt;i&gt;RNA&lt;/i&gt; genes (12S &lt;i&gt;rRNA)&lt;/i&gt; provide evidence of three major monophyletic clades and indicate cryptic speciation among specimens from different geographic localities. Our findings highlight the utility of molecular methods for studies of cryptic speciation, phylogeography, and evolutionary history of Onychophora.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phylogeny; phylogeography; mtDNA; velvet worms; cryptic speciation</subject>
+          <subject_class locale="en_US">Phylogeny</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gustavo</firstname>
+          <middlename>Augusto</middlename>
+          <lastname>Lacorte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivo</firstname>
+          <lastname>De Sena Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cleusa</firstname>
+          <middlename>Graça</middlename>
+          <lastname>Da Fonseca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-65</pages>
+        <date_published>2011-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The species diversity of the genus &lt;i&gt;Gallotia &lt;/i&gt;(Sauria: Lacertidae) during the Holocene on La Gomera (Canary Islands) and the Latin names of Gomeran giant lizards</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mateo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pierre-André</firstname>
+          <lastname>Crochet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <middlename>M.</middlename>
+          <lastname>Afonso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2011-02-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

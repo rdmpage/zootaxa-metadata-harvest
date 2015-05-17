@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2191.1</id>
+    <title locale="en_US">7 Aug. 2009</title>
+    <volume>2191</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Four new species of Ampharetidae (Annelida: Polychaeta) from Pacific hot vents and cold seeps, with a key and synoptic table of characters for all genera</title>
+        <abstract locale="en_US">Four new species of the polychaete family Ampharetidae are described from hot vents and cold seeps in the Pacific. &lt;i&gt;Amage&lt;/i&gt; &lt;i&gt;benhami&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Amphisamytha&lt;/i&gt; &lt;i&gt;vanuatuensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Anobothrus&lt;/i&gt; &lt;i&gt;apaleatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Glyphanostomum&lt;/i&gt; &lt;i&gt;holthei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; For &lt;i&gt;Amphisamytha&lt;/i&gt; &lt;i&gt;vanuatuensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; different stages in the development of branchiae are described. While this species was found in the Western Pacific, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;galapagensis&lt;/i&gt; is presumed to be restricted to the Eastern Pacific with &lt;i&gt;Amphisamytha&lt;/i&gt; &lt;i&gt;fauchaldi&lt;/i&gt; being a junior synonym. A key to members of the genera &lt;i&gt;Amphisamytha&lt;/i&gt; and &lt;i&gt;Glyphanostomum,&lt;/i&gt; and synoptic tables of characters for all members of the genera &lt;i&gt;Amphisamytha&lt;/i&gt; and &lt;i&gt;Anobothrus&lt;/i&gt; are provided. A key and synoptic table of characters comprising all genera of the Ampharetidae is also given together with a discussion of taxonomic problems within the subfamily Ampharetinae in order to clarify the taxonomy of the group. An additional table contains special information on all genera within the Ampharetinae, which show dorsal modifications on some segments.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Amage&lt;/i&gt;; &lt;i&gt;Amphisamytha&lt;/i&gt;; &lt;i&gt;Anobothrus&lt;/i&gt;; &lt;i&gt;Glyphanostomum&lt;/i&gt;; deep-sea</subject>
+          <subject_class locale="en_US">&lt;i&gt;Amage&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Reuscher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Fiege</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Wehe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2009-08-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological comparisons of the Indo-West Pacific scorpionfish, &lt;i&gt;Parascorpaena aurita&lt;/i&gt;, with a closely related species, &lt;i&gt;P. picta&lt;/i&gt;, with first records of &lt;i&gt;P. aurita &lt;/i&gt;from East Asia (Scorpaeniformes: Scorpaenidae)</title>
+        <abstract locale="en_US">The poorly known scorpionfish &lt;i&gt;Parascorpaena&lt;/i&gt; &lt;i&gt;aurita&lt;/i&gt; is redescribed on the basis of 96 specimens from the Indo-Pacific and compared in detail with a closely related species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;picta.&lt;/i&gt; The two species can be distinguished from other congeners by lacking a suborbital spine below the eye and having usually 17 or 18 pectoral-fin rays. Examination of a large number of specimens of each species revealed that &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;aurita&lt;/i&gt; differs from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; in a number of scale counts and morphometrics, and morphology of the suborbital and interorbital ridges, and occiput. Previously published photographs and/or specimen lists identified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; included both species. &lt;i&gt;Parascorpaena&lt;/i&gt; &lt;i&gt;aurita&lt;/i&gt; is widely distributed in the IndoPacific, including East Asia (first records), whereas &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; is restricted to Southeast Asia and Australia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scorpionfish; Scorpaenidae; &lt;i&gt;Parascorpaena&lt;/i&gt; &lt;i&gt;aurita&lt;/i&gt;; &lt;i&gt;Parascorpaena&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt;; morphology</subject>
+          <subject_class locale="en_US">Scorpionfish</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>You</firstname>
+          <lastname>Sakurai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroshi</firstname>
+          <lastname>Senou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hsuanching</firstname>
+          <lastname>Ho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-57</pages>
+        <date_published>2009-08-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Theloderma &lt;/i&gt;Tschudi, 1838 (Anura: Rhacophoridae) from Northwestern Vietnam</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Theloderma&lt;/i&gt; is described from the Hoang Lien Mountains of northwestern Vietnam from between 1300–1400 m elevation. &lt;i&gt;Theloderma&lt;/i&gt; &lt;i&gt;lateriticum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was found at night inside a water-filled chamber of bamboo, which was within disturbed, submontane, semi-evergreen forest. The new species of &lt;i&gt;Theloderma&lt;/i&gt; can be immediately differentiated from all other congeners by its solid, brick-red dorsal wash and minimal foot webbing (proximal to proximal subarticular tubercle on Toe I; to level of proximal subarticular tubercle on postaxial side of II; proximal to proximal subarticular tubercle on preaxial side of III; just beyond proximal subarticular tubercle on postaxial side of III; to level of proximal subarticular tubercle on preaxial side of IV; just beyond proximal subarticular tubercle on postaxial side of IV; and just beyond proximal subarticular tubercle on preaxial side of V). The female and tadpole remain unknown.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Southeast Asia; Indochina; Amphibia; &lt;i&gt;Theloderma&lt;/i&gt; &lt;i&gt;lateriticum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; taxonomy; systematics</subject>
+          <subject_class locale="en_US">Southeast Asia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Raoul</firstname>
+          <middlename>H.</middlename>
+          <lastname>Bain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Truong</firstname>
+          <middlename>Q.</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kien</firstname>
+          <middlename>V.</middlename>
+          <lastname>Doan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2009-08-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3440.1</id>
+    <title locale="en_US">27 Aug. 2012</title>
+    <volume>3440</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Anker, A. (2012) “Revision of the western Atlantic members of the &lt;i&gt;Alpheus armillatus &lt;/i&gt;H. Milne Edwards, 1837 species complex (Decapoda, Alpheidae), with description of seven new species”. &lt;i&gt;Zootaxa&lt;/i&gt;, 3386, 1–109. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2012-08-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

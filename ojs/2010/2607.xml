@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2607.1</id>
+    <title locale="en_US">9 Sep. 2010</title>
+    <volume>2607</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-09-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New taxonomic status of &lt;i&gt;Foenomorpha &lt;/i&gt;Szépligeti as a subgenus of &lt;i&gt;Capitonius&lt;/i&gt; Brullé (Hymenoptera: Braconidae: Cenocoeliinae) including a revision of species</title>
+        <abstract locale="en_US">Herein I describe 16 new species of &lt;i&gt;Capitonius&lt;/i&gt; and formally transfer and redescribe the species &lt;i&gt;Foenomorpha&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; Szépligeti, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;senlura&lt;/i&gt; Braet and Achterberg, and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;rufa&lt;/i&gt; Braet and Achterberg to &lt;i&gt;Capitonius&lt;/i&gt; as &lt;i&gt;Capitonius&lt;/i&gt; &lt;i&gt;bicolor,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;senlura,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rufa,&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combinations.&lt;/b&gt; The following new species are described: &lt;i&gt;Capitonius&lt;/i&gt; &lt;i&gt;bellaptera&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Brazil, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;boringi&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from South America, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;catemacoensis&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Mexico, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;flavusassumentum&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Argentina, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lateventris&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Brazil, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;negrolabiatus&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Central and South America, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nigrum&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from South America, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;robertsonae&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Brazil, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rondoniaensis&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Brazil, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sarmientoi&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Colombia, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;seltmannae&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Colombia, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sharkeyi&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Colombia, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;stramentopetiolus&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from French Guyana, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;stramentosura&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Central and South America, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;venezuelaensis&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Venezuela, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;venustus&lt;/i&gt; Pitz &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from South America. A key to species of subgenus &lt;i&gt;Foenomorpha&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasitoid; wasp; revision; Nearctic; Neotropical</subject>
+          <subject_class locale="en_US">parasitoid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kevin</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pitz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2010-09-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Old World Opsiini (Hemiptera: Cicadellidae: Deltocephalinae), with a key to genera and species checklist for the tribe</title>
+        <abstract locale="en_US">&lt;i&gt;Introrsa,&lt;/i&gt; a new genus and species of the tribe Opsiini from southern China (Yunnan) is described. Diagnosis of the new genus together with information on the karyotype is given. &lt;i&gt;Introrsa&lt;/i&gt; most closely resembles &lt;i&gt;Opsius&lt;/i&gt; Fieber, but it is the first genus of the Opsiini with the body longer than 8 mm and can be distinguished from the latter by body not wedgeshaped, head as broad as pronotum and aedeagus with socle not bulbous. The sex determination system is XO/XX and the karyotype of the species is 2n=12(10+XO). The detailed morphology of the new genus is described; external habitus and line drawings of male and female gentalia of the new taxon are given. An annotated check-list and generic key to Old World members of the leafhopper tribe Opsiini are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Auchenorrhyncha; leafhoppers; taxonomy; chromosome; &lt;i&gt;Introrsa&lt;/i&gt;; new genus</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wu</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wei</firstname>
+          <lastname>Cui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bin</firstname>
+          <lastname>Xiao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2010-09-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

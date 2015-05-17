@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2854.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2854</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A multilingual key to the genera and subgenera of the subfamily Scarabaeinae of the New World (Coleoptera: Scarabaeidae)</title>
+        <abstract locale="en_US">Presented is a multilingual (English, Portuguese, Spanish, Dutch and French) key to the 119 currently recognized genera and subgenera of scarabaeine dung beetles (Coleoptera: Scarabaeidae: Scarabaeinae) occurring in the New World. Also included are illustrations of representative species of all taxa included in the key as well as supplementary references to studies at the species level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scarabaeinae; Americas; dung beetles; keys</subject>
+          <subject_class locale="en_US">Scarabaeinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>Z.</middlename>
+          <lastname>Vaz-De-Mello</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Edmonds</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Federico</firstname>
+          <middlename>C.</middlename>
+          <lastname>Ocampo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>Schoolmeesters</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-73</pages>
+        <date_published>2011-04-29</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

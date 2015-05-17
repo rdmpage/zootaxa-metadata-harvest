@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3144.1</id>
+    <title locale="en_US">23 Dec. 2011</title>
+    <volume>3144</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Lower Ordovician (lower Floian; Tulean) pliomerid trilobite &lt;i&gt;Protopliomerella&lt;/i&gt;, with new species from the Great Basin, western USA</title>
+        <abstract locale="en_US">New field sampling of classic Ibexian sections in the Great Basin has resulted in the discovery of several new species assignable to the pliomerid trilobite genus &lt;i&gt;Protopliomerella&lt;/i&gt; Harrington, 1957. The genus was originally monotypic and based on &lt;i&gt;Protopliomerops&lt;/i&gt; &lt;i&gt;contracta&lt;/i&gt; Ross, 1951. &lt;i&gt;Protopliomerella&lt;/i&gt; &lt;i&gt;pauca&lt;/i&gt; Demeter, 1973, was later added, but it is shown herein to be a junior subjective synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;contracta.&lt;/i&gt; The material originally assigned to &lt;i&gt;Protopliomerella&lt;/i&gt; &lt;i&gt;contracta&lt;/i&gt; by Ross belongs to as many as three distinct, stratigraphically separate species. New species include &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stegneri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bowlesi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kerouaci,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;seegeri,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;okeeffeae.&lt;/i&gt; Two additional new species are not well enough known to name and are reported in open nomenclature. The phylogenetic status of &lt;i&gt;Protopliomerella,&lt;/i&gt; as thus conceived, is ambiguous and the taxon may be rendered paraphyletic by the genera &lt;i&gt;Pseudocybele&lt;/i&gt; Ross, 1951, and &lt;i&gt;Lemureops&lt;/i&gt; McAdams and Adrain, 2009.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Silicified; biostratigraphy; taxonomy; Utah; Idaho; Nevada</subject>
+          <subject_class locale="en_US">Silicified</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neo</firstname>
+          <middlename>E. B.</middlename>
+          <lastname>Mcadams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jonathan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Adrain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-113</pages>
+        <date_published>2011-12-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

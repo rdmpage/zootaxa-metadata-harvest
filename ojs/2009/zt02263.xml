@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2263.1</id>
+    <title locale="en_US">13 Oct. 2009</title>
+    <volume>2263</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Eastern Palaearctic Scythrididae (Lepidoptera: Gelechioidea): description of a new genus and some new species</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Bactrianoscythris&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and five new species are described from the eastern Palaearctic Region: &lt;i&gt;Bactrianoscythris&lt;/i&gt; &lt;i&gt;afghana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;annae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;drepanella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;khinjani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;ginevrae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Scythris&lt;/i&gt; &lt;i&gt;satyrella&lt;/i&gt; Staudinger, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pamirica&lt;/i&gt; Passerin d’Entrèves &amp; Roggero are transferred to the new genus, and genitalic features of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;satyrella&lt;/i&gt; are re-described. A key to species of the new genus is provided. &lt;i&gt;Scythris&lt;/i&gt; &lt;i&gt;farsi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; of unknown affinities, is described from Iran. New records extending the known geographical distribution of another 9 species of &lt;i&gt;Scythris&lt;/i&gt; and one species of &lt;i&gt;Catascythris&lt;/i&gt; are also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Scythrididae; new genus; new species; new record; Irano-turanian Region</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pietro</firstname>
+          <middlename>Passerin</middlename>
+          <lastname>DEntrèves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angela</firstname>
+          <lastname>Roggero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-10-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological redescription of the immature and adult stages of &lt;i&gt;Culex &lt;/i&gt;(&lt;i&gt;Culex&lt;/i&gt;) &lt;i&gt;acharistus &lt;/i&gt;Root (Diptera: Culicidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Culex&lt;/i&gt; (Culex) &lt;i&gt;acharistus&lt;/i&gt; Root is redescribed in the adult, pupal and larval stages. The male genitalia, pupa, and fourthinstar larvae are illustrated. The paper includes available information on the distribution, bionomics and taxonomy of the species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Culex&lt;/i&gt; (Culex) &lt;i&gt;acharistus&lt;/i&gt;; redescription; distribution; bionomics; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Culex&lt;/i&gt; (Culex) &lt;i&gt;acharistus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Magdalena</firstname>
+          <lastname>Laurito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Walter</firstname>
+          <middlename>Ricardo</middlename>
+          <lastname>Almirón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>Carlos</middlename>
+          <lastname>Rossi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-30</pages>
+        <date_published>2009-10-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic study of &lt;i&gt;Epipristis &lt;/i&gt;Meyrick, 1888 from China, with descriptions of two new species (Lepidoptera: Geometridae, Geometrinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Epipristis&lt;/i&gt; Meyrick, 1888 from China is reviewed, and two new species are described: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;roseus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from North China and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pullusa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Central China. The three previously known species from China are redescribed. A key to all species from China is provided. Illustrations of adults and genitalia are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Epipristis&lt;/i&gt;; taxonomy; new species; China; Geometridae; Lepidoptera</subject>
+          <subject_class locale="en_US">&lt;i&gt;Epipristis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hongxiang</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Han</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrés</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Expósito</firstname>
+          <lastname>Hermosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dayong</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-41</pages>
+        <date_published>2009-10-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and records of the genus &lt;i&gt;Lispinus &lt;/i&gt;with a key to the species from Peru (Coleoptera: Staphylinidae: Osoriinae)</title>
+        <abstract locale="en_US">Four new species of &lt;i&gt;Lispinus&lt;/i&gt; from the premontane forest of the eastern slope of the Peruvian Andes are described and records of all other &lt;i&gt;Lispinus&lt;/i&gt; species from Peru are given. The new species are: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;blandus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;minimus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;speciosus,&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;peruanus.&lt;/i&gt; A key to the known 21 Peruvian species is provided, habitat information is summarized and geographical distribution of species is discussed. The following six types of zoogeographic distribution can be differentiated for the Peruvian &lt;i&gt;Lispinus&lt;/i&gt; species: endemic, eastern Andean, lowland Amazonian, Circum-Amazonian, northern Southand Central-American, and Pan-Neotropical.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Staphylinidae; &lt;i&gt;Lispinus&lt;/i&gt;; systematics; new species; identification key; Neotropical Region; premontane rainforest; lowland Amazonian rainforest; biogeography</subject>
+          <subject_class locale="en_US">Staphylinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulrich</firstname>
+          <lastname>Irmler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-58</pages>
+        <date_published>2009-10-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery of &lt;i&gt;Pseudopyrochroa uniformis &lt;/i&gt;Pic (Coleoptera: Pyrochroidae: Pyrochroinae)</title>
+        <abstract locale="en_US">A single, authoritatively determined female of &lt;i&gt;Pseudopyrochroa&lt;/i&gt; &lt;i&gt;uniformis&lt;/i&gt; Pic, previously listed as &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis&lt;/i&gt; and unknown since its description more than 60 years ago, has been discovered. It is redescribed, compared with related southeast Asian members of &lt;i&gt;Pseudopyrochroa,&lt;/i&gt; and pertinent structures illustrated. Antennal configuration, general form of the cranium, surface sculpturing of the pronotum, and possibly color, are diagnostic for the species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudopyrochroa&lt;/i&gt; &lt;i&gt;basalis&lt;/i&gt; (Pic); &lt;i&gt;Pseudopyrochroa&lt;/i&gt; &lt;i&gt;nigricolor&lt;/i&gt; (Pic); &lt;i&gt;Pseudopyrochroa&lt;/i&gt; &lt;i&gt;obscuricollis&lt;/i&gt; (Pic); &lt;i&gt;Pseudopyrochroa&lt;/i&gt; &lt;i&gt;uniformis&lt;/i&gt; Pic; Pyrochroidae; Cameron Highlands; Malaysia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudopyrochroa&lt;/i&gt; &lt;i&gt;basalis&lt;/i&gt; (Pic)</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>K.</middlename>
+          <lastname>Young</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-65</pages>
+        <date_published>2009-10-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Transfer of &lt;i&gt;Pyrochroa daglariensis &lt;/i&gt;to &lt;i&gt;Hemidendroides &lt;/i&gt;Ferrari (Coleoptera: Pyrochroidae: Pyrochroinae), with a dichotomous key to the four species of the genus</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>K.</middlename>
+          <lastname>Young</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2009-10-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

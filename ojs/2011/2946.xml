@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Full article (PDF; 20KB) &lt;span style="BACKGROUND-COLOR: #1694c9"&gt; open access &lt;/span&gt; </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname></firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Full article (PDF; 40KB) &lt;span style="BACKGROUND-COLOR: #1694c9"&gt; open access &lt;/span&gt; </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname></firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2946.1</id>
+    <title locale="en_US">8 Jul. 2011</title>
+    <volume>2946</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Overview</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>R.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>T.</middlename>
+          <lastname>Craig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>5-6</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Will the real phylogeneticists please stand up?</title>
+        <abstract locale="en_US">In a recently published commentary, Mooi &amp; Gill asserted that there is a crisis brewing in systematic ichthyology caused by a failure of investigators to apply the basic tenets of outgroup comparison to recover clades based solely on shared apomorphic characters. The result, they claim, is that many recent analyses disregard real synapomorphies and discover clades by phenetic rather than phylogenetic principles. We take the opportunity to refute this claim and assert that matrix-based analyses, whether parametric or nonparametric, satisfy the basic tenets of Hennig’s methods, resulting in monophyletic groups confirmed by synapomorphies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edward</firstname>
+          <middlename>O.</middlename>
+          <lastname>Wiley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Prosanta</firstname>
+          <lastname>Chakrabarty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>T.</middlename>
+          <lastname>Craig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <middlename>I.</middlename>
+          <lastname>Holcroft</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mayden</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wm.</firstname>
+          <middlename>Leo</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>7-16</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Numerical cladistics, an unintentional refuge for phenetics—a reply to Wiley &lt;i&gt;et al&lt;/i&gt;.</title>
+        <abstract locale="en_US">The assertion that phylogenetic inference algorithms are not authoritarian because results are repeatable, predictable and freely available misses the point that the authority resides in underlying algorithm models that are not cladistic. We show that optimization procedures can group using symplesiomorphy and that optimization is not always equivalent to cladistic argumentation. Because parsimony and Bayesian algorithms can obtain the same answer from the same data set is not evidence that they are Hennigian; examples exist where these methods do not provide the same result from the same data. Using ‘reversals’ as evidence in systematics is problematic because the question, “Reversal to what?” has no straightforward answer. This confusion can be eliminated by recognizing that homologues are the parts of organisms and homologies are the relationships between the parts, and that the latter is a hierarchical concept rather than transformational. We clarify that Hennig’s auxiliary principle pertains to &lt;i&gt;potential&lt;/i&gt; synapomorphy, meaning for molecular work that it is the presence of a particular &lt;i&gt;derived&lt;/i&gt; nucleotide that is shared in a given position of aligned sequences of two or more taxa that should be considered homologous until proven otherwise, not simply the alignments themselves. We reiterate that not all data are evidence and we specifically reject homoplasy as a source of ‘evidence’ for systematics. We further reject the view that conflict among data should be resolved through methodology. It is the data that should be our primary focus, as it is our attempts to identify and clarify homologues worthy of suggesting relationships (homology) that are primary in systematics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Randall</firstname>
+          <middlename>D.</middlename>
+          <lastname>Mooi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>M.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-28</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A Show of Character—a further response to Wiley &lt;i&gt;et al.&lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Randall</firstname>
+          <middlename>D.</middlename>
+          <lastname>Mooi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-32</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A Response to Mooi, Williams and Gill</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edward</firstname>
+          <middlename>O.</middlename>
+          <lastname>Wiley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Prosanta</firstname>
+          <lastname>Chakrabarty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>T.</middlename>
+          <lastname>Craig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <middlename>I.</middlename>
+          <lastname>Holcroft</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mayden</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wm.</firstname>
+          <middlename>Leo</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-37</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Ghost of Crises Past: A Reply to Mooi and Gill</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>T.</middlename>
+          <lastname>Craig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-40</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Why we shouldn't let sleeping dogmas lie: a partial reply to Craig</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Randall</firstname>
+          <middlename>D.</middlename>
+          <lastname>Mooi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-44</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Exploring character conflict in molecular data</title>
+        <abstract locale="en_US">Mooi &amp; Gill (2010) have made a number of criticisms of statistical approaches to the phylogenetic analysis of molecular data as it is currently practiced. There are many different uses for molecular phylogenies, and for most of them statistical methods are entirely appropriate, but for taxonomic purposes the way that these methods have been used is questionable. In these cases it is necessary to introduce an extra step into the analysis – exploration of character conflict. Existing methods for exploring character conflict in molecular data such as spectral analysis, phylogenetic networks, likelihood mapping and sliding window analyses are briefly reviewed, but there is also a need for development of new tools to facilitate the analysis of large data sets. Incorporation of previous phylogenies as priors in Bayesian analyses could help to provide taxonomic stability, while still leaving room for new data to alter these conclusions if they contain sufficiently strong phylogenetic signal. Molecular phylogeneticists should make a clearer distinction between the different uses to which their phylogenies are put; methods suitable in one context may not be appropriate in others.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">molecular systematics; character conflict; spectral analysis; phylogenetic networks; likelihood mapping; sliding window analyses; Bayesian priors; taxonomic stability</subject>
+          <subject_class locale="en_US">molecular systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cruickshank</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-51</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenies with Corroboration Assessment</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>P</middlename>
+          <lastname>Faith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Louise</firstname>
+          <lastname>Puslednik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>W. O.</middlename>
+          <lastname>Ballard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-56</pages>
+        <date_published>2011-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Complementary Approaches to Systematic Ichthyology</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philip</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hastings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-59</pages>
+        <date_published>2011-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Opening Pandora’s Molecular Box</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Malte</firstname>
+          <middlename>C.</middlename>
+          <lastname>Ebach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>R.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>M.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-64</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Comments on the establishment of the one to one relationship between characters as a prerequisite for homology assessment in phylogenetic studies</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <middlename>David</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-72</pages>
+        <date_published>2011-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Cypriniformes Tree of Confusion</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>W.</middlename>
+          <lastname>Conway</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>73-78</pages>
+        <date_published>2011-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Cause and Effect of Polarization: Thoughts on the “Morphological vs. Molecular Debate” in Systematics, with Examples from the Study of Sturgeons (Actinopterygii: Acipenseridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Casey</firstname>
+          <middlename>B.</middlename>
+          <lastname>Dillman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eric</firstname>
+          <middlename>J.</middlename>
+          <lastname>Hilton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-117</pages>
+        <date_published>2011-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Adventures in the fish trade</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Colin</firstname>
+          <middlename>Patterson [Edited And With An Introduction By David M.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>C. Gill</middlename>
+          <lastname>]</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>118-136</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Resemblance as Evidence of Ancestry</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Nelson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>137-141</pages>
+        <date_published>2011-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additions to “The Cypriniformes Tree of Confusion”</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>W.</middlename>
+          <lastname>Conway</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>142-142</pages>
+        <date_published>2011-07-08</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

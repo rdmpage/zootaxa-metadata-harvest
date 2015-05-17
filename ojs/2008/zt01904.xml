@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1904.1</id>
+    <title locale="en_US">15 Oct. 2008</title>
+    <volume>1904</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Metazoan parasites of Mexican amphibians and reptiles</title>
+        <abstract locale="en_US">Based on published records and original data, we present a checklist of metazoan parasites of Mexican amphibians and reptiles. This checklist includes information for 430 nominal taxa of metazoan parasites, 371 helminths (137 trematodes, 10 monogeneans, 29 cestodes, 14 acanthocephalans, 173 nematodes, and 8 hirudineans), 51 acari and 8 crustaceans. We add 184 new locality records to Acari. These data represent the current knowledge on metazoan parasites of 68 amphibians and 219 reptile species of Mexico.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mexico; amphibians; reptiles; parasites; helminths; Acari</subject>
+          <subject_class locale="en_US">Mexico</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Paredes-León</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <lastname>García-Prieto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carmen</firstname>
+          <lastname>Guzmán-Cornejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Virginia</firstname>
+          <lastname>León-Règagnon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tila</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-166</pages>
+        <date_published>2008-10-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

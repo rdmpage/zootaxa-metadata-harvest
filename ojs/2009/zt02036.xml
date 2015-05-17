@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2036.1</id>
+    <title locale="en_US">16 Mar. 2009</title>
+    <volume>2036</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of Serpulidae (Annelida, Polychaeta): The state of affairs </title>
+        <abstract locale="en_US">The Serpulidae are a large group of sedentary polychaetes inhabiting calcareous tubes. The relationships within the group are poorly understood and taxonomy of the group is very confused which is a major obstacle to accessing their phylogeny. This review provides up-to-date information on the current state of taxonomy of Serpulidae &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato&lt;/i&gt; (not including Spirorbinae). The morphology of the group is reviewed with special reference to the features that can provide characters for future phylogenetic analyses. Scanning electron micrographs illustrate the structure of the chaetae and uncini. The list of 46—in our opinion valid—genera is accompanied by detailed generic diagnoses, species composition and distribution (checklist), and remarks on major taxonomic literature. A taxonomic key to the genera and a list of invalid genera with synonymy is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Annelida; Polychaeta; Serpulidae; taxonomy; morphology; SEM ultrastructure of chaetae and uncini</subject>
+          <subject_class locale="en_US">Annelida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Harry</firstname>
+          <middlename>A. Ten</middlename>
+          <lastname>Hove</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elena</firstname>
+          <middlename>K.</middlename>
+          <lastname>Kupriyanova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-126</pages>
+        <date_published>2009-03-16</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

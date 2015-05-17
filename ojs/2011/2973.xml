@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2973: 1–56 26</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>67</firstname>
+          <middlename>References Accepted: 20 Jun.</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2973.1</id>
+    <title locale="en_US">22 Jul. 2011</title>
+    <volume>2973</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Antillorena &lt;/i&gt;Jocqué 1991 from northeastern Brazil (Araneae, Zodariidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Antillorena&lt;/i&gt; Jocqué, 1991 proposed to include a single species from Lesser Antilles, is recorded for the first time from Brazil. Two new species are described from the state of Bahia, Brazil, namely &lt;i&gt;Antillorena&lt;/i&gt; &lt;i&gt;patapata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Antillorena&lt;/i&gt; &lt;i&gt;gaia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical Region; spiders; systematics; taxonomy</subject>
+          <subject_class locale="en_US">Neotropical Region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <middlename>Domingos</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>Rodrigo Sanches</middlename>
+          <lastname>Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-65</pages>
+        <date_published>2011-07-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Pontaralia beklemichevi &lt;/i&gt;Mack-Fira, 1968 (Platyhelminthes: Rhabdocoela: Kalyptorhynchia) from the Russian Federation</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rimma</firstname>
+          <middlename>P.</middlename>
+          <lastname>Tokinova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Berdnik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anna</firstname>
+          <middlename>A.</middlename>
+          <lastname>Ratushnyak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2011-07-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

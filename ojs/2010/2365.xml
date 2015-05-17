@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2365.1</id>
+    <title locale="en_US">22 Feb. 2010</title>
+    <volume>2365</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Deltocephalinae leafhoppers of Pakistan (Hemiptera, Cicadellidae)</title>
+        <abstract locale="en_US">The deltocephaline leafhoppers (Hemiptera: Cicadellidae) of Pakistan are reviewed and a key to tribes and a checklist is provided. Two new species are described: &lt;i&gt;Bampurius&lt;/i&gt; &lt;i&gt;pakistanicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Neolimnus&lt;/i&gt; &lt;i&gt;quadricornis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; 16 new synonymies and four new combinations are proposed and a total of 31 genera and 57 species are recorded.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; morphology; taxonomy; new species; new records</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Imran</firstname>
+          <lastname>Khatri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>D.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-47</pages>
+        <date_published>2010-02-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Protonemura gevi &lt;/i&gt;sp. n., a cavernicolous new species of stonefly (Insecta: Plecoptera)</title>
+        <abstract locale="en_US">A new species of Plecoptera, &lt;i&gt;Protonemura&lt;/i&gt; &lt;i&gt;gevi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described from both adults and nymphs from the Southern Iberian Peninsula. It is quite probable that this species finishes its entire life cycle within a 60 m deep cave. Morphologically, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gevi&lt;/i&gt; is brachypterous, has extremely long antennae, and has small eyes, all features that may have been accentuated in a cave environment.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Protonemura&lt;/i&gt; &lt;i&gt;gevi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Nemouridae; adult; nymph; cave; Iberian Peninsula</subject>
+          <subject_class locale="en_US">&lt;i&gt;Protonemura&lt;/i&gt; &lt;i&gt;gevi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Nemouridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Manuel Tierno</middlename>
+          <lastname>De Figueroa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manuel</firstname>
+          <middlename>Jesús</middlename>
+          <lastname>López-Rodríguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-54</pages>
+        <date_published>2010-02-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Anacroneuria &lt;/i&gt;(Plecoptera, Perlidae) from the Mantiqueira Mountains, São Paulo State, Brazil</title>
+        <abstract locale="en_US">Seven species of &lt;i&gt;Anacroneuria&lt;/i&gt; Klapálek are considered; of these 4 were known, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;debilis&lt;/i&gt; (Pictet, 1841), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;flintorum&lt;/i&gt; Froehlich, 2002, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;toriba&lt;/i&gt; Froehlich, 2002 (the female is described herein), and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;vanini&lt;/i&gt; Froehlich, 2004. Three are new: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mantiqueirae,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;simulans,&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tabatae.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Stoneflies; Campos do Jordão; Anacroneuria; Brazil; São Paulo</subject>
+          <subject_class locale="en_US">Stoneflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claudio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Froehlich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2010-02-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

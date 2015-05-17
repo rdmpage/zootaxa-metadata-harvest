@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2873.1</id>
+    <title locale="en_US">10 May. 2011</title>
+    <volume>2873</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cornugon &lt;/i&gt;(Hymenoptera: Eulophidae: Entedoninae) a new genus from tropical America including ten new species</title>
+        <abstract locale="en_US">&lt;i&gt;Cornugon&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hymenoptera: Eulophidae: Entedoninae) is described from the Neotropical region, including ten new species from Costa Rica, Ecuador, Honduras and Mexico: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;albicoxa,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;anais,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bicornis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;diabolos,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;diceros,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gibberum,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;leios,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;petiolatum,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;reticulatum,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;unicornis&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The monophyly of the genus is demonstrated through two putative morphological autapomorphies. One of the autapomorphies is in a recently discovered character system, wing interference colour patterns (WIPs). WIPs are used here for the first time at the generic level for the classification of insects. &lt;i&gt;Cornugon&lt;/i&gt; is compared to &lt;i&gt;Pediobius&lt;/i&gt; Walker with which it shares the most apomorphies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical; Pediobius; taxonomy; wing interference patterns; WIP</subject>
+          <subject_class locale="en_US">Neotropical</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christer</firstname>
+          <lastname>Hansson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2011-05-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Parasitoids of the Australian citrus whitefly, &lt;i&gt;Orchamoplatus citri &lt;/i&gt;(Takahashi) (Hemiptera, Aleyrodidae), with description of a new &lt;i&gt;Eretmocerus &lt;/i&gt;species (Hymenoptera, Aphelinidae)</title>
+        <abstract locale="en_US">A field survey for potential biological control agents of the Australian citrus whitefly, &lt;i&gt;Orchamoplatus&lt;/i&gt; &lt;i&gt;citri&lt;/i&gt; (Takahashi), resulted in the discovery of three species of chalcid parasitoids (Hymenoptera, Chalcidoidea), &lt;i&gt;viz.:&lt;/i&gt; &lt;i&gt;Cales&lt;/i&gt; &lt;i&gt;orchamoplati&lt;/i&gt; Viggiani &amp; Carver, a species belonging to a genus that is currently unplaced to family within Chalcidoidea, and two species of Aphelinidae, &lt;i&gt;Encarsia&lt;/i&gt; &lt;i&gt;iris&lt;/i&gt; (Girault) and &lt;i&gt;Eretmocerus&lt;/i&gt; &lt;i&gt;orchamoplati&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Orchamoplatus&lt;/i&gt; &lt;i&gt;citri&lt;/i&gt; is the first host record for &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;iris.&lt;/i&gt; Morphological diagnoses are given, and DNA sequence data of the 28S rDNA and the cytochrome oxidase I genes are provided to define species at the molecular level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Australia; parasitoid; biological control; taxonomy; survey</subject>
+          <subject_class locale="en_US">Australia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefan</firstname>
+          <lastname>Schmidt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>De Barro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lisa</firstname>
+          <lastname>Jamieson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-34</pages>
+        <date_published>2011-05-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological and molecular delineation of a new species in the &lt;i&gt;Ceratina dupla&lt;/i&gt; species-group (Hymenoptera: Apidae: Xylocopinae) of eastern North America</title>
+        <abstract locale="en_US">DNA barcoding is used to verify characters to morphologically differentiate genetically distinct species of eastern North American small carpenter bees, &lt;i&gt;Ceratina.&lt;/i&gt; Here we reveal that the common eastern North American species, &lt;i&gt;Ceratina&lt;/i&gt; &lt;i&gt;dupla&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;l.,&lt;/i&gt; is actually three separate species based on fixed differences in DNA barcode sequences and morphological characters. This study adds a new species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mikmaqi&lt;/i&gt; Rehan &amp; Sheffield, to the &lt;i&gt;Ceratina&lt;/i&gt; &lt;i&gt;dupla&lt;/i&gt; species-group of eastern North America, and raises another form, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;floridana&lt;/i&gt; formerly &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dupla&lt;/i&gt; &lt;i&gt;floridana,&lt;/i&gt; to full species. Temporal niche partitioning between &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dupla&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mikmaqi&lt;/i&gt; and geographic isolation of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;floridana&lt;/i&gt; further support the division of the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dupla&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;l.&lt;/i&gt; group into three species. A diagnosis and description of the new species are provided, as is a key for eastern North American species of &lt;i&gt;Ceratina.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">small carpenter bee; DNA barcodes; cryptic species; &lt;i&gt;Ceratina&lt;/i&gt; &lt;i&gt;(Zadontomerus)&lt;/i&gt;; &lt;i&gt;Ceratina&lt;/i&gt; &lt;i&gt;floridana&lt;/i&gt;; &lt;i&gt;Ceratina&lt;/i&gt; &lt;i&gt;mikmaqi&lt;/i&gt;</subject>
+          <subject_class locale="en_US">small carpenter bee</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sandra</firstname>
+          <middlename>M.</middlename>
+          <lastname>Rehan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cory</firstname>
+          <middlename>S.</middlename>
+          <lastname>Sheffield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-50</pages>
+        <date_published>2011-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the South African katydid genus &lt;i&gt;Austrodontura &lt;/i&gt;Fontana &amp; Buzzetti (Orthoptera: Tettigoniidae: Phaneropterinae)</title>
+        <abstract locale="en_US">The South African genus &lt;i&gt;Austrodontura&lt;/i&gt; Fontana &amp; Buzzetti of brachypterous katydids is revised. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; (Walker, 1869) is redescribed and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;castletoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from the Eastern Cape Province is described, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;raggei&lt;/i&gt; Fontanta &amp; Buzzetti is considered a junior synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;capensis.&lt;/i&gt; Acoustic behavior of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;castletoni&lt;/i&gt; is described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">South African katydids; Phaneropterinae; &lt;i&gt;Austrodontura&lt;/i&gt;</subject>
+          <subject_class locale="en_US">South African katydids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Piotr</firstname>
+          <lastname>Naskrecki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Corinna</firstname>
+          <middlename>S.</middlename>
+          <lastname>Bazelet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2011-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two interesting new genera of Kalligrammatidae (Neuroptera) from the Middle Jurassic of Daohugou, China</title>
+        <abstract locale="en_US">Two new genera and species of Kalligrammatidae (Neuroptera) &lt;i&gt;Apochrysogramma&lt;/i&gt; &lt;i&gt;rotundum&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Protokalligramma&lt;/i&gt; &lt;i&gt;bifasciatum&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from the Middle Jurassic of Daohugou, Inner Mongolia, China. The forewing of &lt;i&gt;Protokalligramma&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized by the generalised structure of MP, CuA, CuP and 1A, relatively scarce crossveins, absence of an eye-spot, and dense, long spinules (‘microtrichia’) occurring on its wing membrane. &lt;i&gt;Apochrysogramma&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is the second genus in the subfamily Kallihemerobiinae, whose forewing easily differs from that of the type genus by the more rounded shape, much more numerous and closely spaced subcostal veinlets, branches of Rs and MP, less dense crossveins, and differently constructed eye-spot.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Kallihemerobiinae; Jurassic; fossil; lacewing</subject>
+          <subject_class locale="en_US">Kallihemerobiinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qiang</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <middlename>N.</middlename>
+          <lastname>Makarkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-05-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

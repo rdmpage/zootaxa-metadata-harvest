@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2950.1</id>
+    <title locale="en_US">8 Jun. 2011</title>
+    <volume>2950</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Insects found in birds’ nests from the Neotropical Region: addenda, corrections, and the Subantarctic Region of Argentina and adjacent countries </title>
+        <abstract locale="en_US">An addendum to the bibliographical review of the insects found in birds´nests is presented: first, to the Neotropical immigrants in the Nearctic Region; second, to the Neotropical Region, including Argentina; and third, a summarization of the data from the Subantarctic Region (Antarctic Dominion) of Argentina and adjacent countries. Localities, numbers of specimens, collections, and other details are provided, when they were stated, in original and later citations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insects; birds’ nests; Neotropical Region; addenda; Subantartic Region</subject>
+          <subject_class locale="en_US">Insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Osvaldo</firstname>
+          <middlename>Di</middlename>
+          <lastname>Iorio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paola</firstname>
+          <lastname>Turienzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-108</pages>
+        <date_published>2011-06-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

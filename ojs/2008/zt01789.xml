@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1789.1</id>
+    <title locale="en_US">11 Jun. 2008</title>
+    <volume>1789</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of the Geometridae of European Turkey, with new records (Lepidoptera)</title>
+        <abstract locale="en_US">A checklist with synonyms, distributions, larval foodplants, and parasitoid data for the European Turkish geometrid moths is presented. The checklist includes both published and previously unpublished faunistic information. In total, 200 species are reported for the region. Seventeen new species are tabulated for the fauna of European Turkey: &lt;i&gt;Charissa&lt;/i&gt; &lt;i&gt;ambiguata&lt;/i&gt; (Duponchel, 1830); &lt;i&gt;Eumannia&lt;/i&gt; &lt;i&gt;oppositaria&lt;/i&gt; Mann, 1864; &lt;i&gt;Neognopharmia&lt;/i&gt; &lt;i&gt;stevenaria&lt;/i&gt; Boisduval, 1849; &lt;i&gt;Alsophila&lt;/i&gt; &lt;i&gt;aceraria&lt;/i&gt; (Denis &amp; Schiffermüller, 1775); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aescularia&lt;/i&gt; (Denis &amp; Schiffermüller, 1775); &lt;i&gt;Thetidia&lt;/i&gt; &lt;i&gt;smaragdaria&lt;/i&gt; (Fabricius, 1787); &lt;i&gt;Cleta&lt;/i&gt; &lt;i&gt;filacearia&lt;/i&gt; (Herrich-Schäffer, 1847); &lt;i&gt;Idaea&lt;/i&gt; &lt;i&gt;circuitaria&lt;/i&gt; (Hübner, 1819); &lt;i&gt;Costaconvexa&lt;/i&gt; &lt;i&gt;polygrammata&lt;/i&gt; (Borkhausen, 1794); &lt;i&gt;Eupithecia&lt;/i&gt; &lt;i&gt;extremata&lt;/i&gt; (Fabricius, 1787); &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;insigniata&lt;/i&gt; (Hübner, 1790); &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;silenicolata&lt;/i&gt; Mabille, 1867; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;subfuscata&lt;/i&gt; (Haworth, 1809); &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;venosata&lt;/i&gt; (Fabricius, 1787); &lt;i&gt;Orthonama&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; (Borkhausen, 1794); &lt;i&gt;Rheumaptera&lt;/i&gt; &lt;i&gt;cervinalis&lt;/i&gt; Scopoli, 1763; and &lt;i&gt;Scotopteryx&lt;/i&gt; &lt;i&gt;luridata&lt;/i&gt; (Hufnagel, 1767). Three species are new for the geometrid fauna of Turkey: &lt;i&gt;Idaea&lt;/i&gt; &lt;i&gt;muricata&lt;/i&gt; (Hufnagel, 1767); &lt;i&gt;Scopula&lt;/i&gt; &lt;i&gt;floslactata&lt;/i&gt; (Haworth, 1809) and &lt;i&gt;Pasiphila&lt;/i&gt; &lt;i&gt;chloerata&lt;/i&gt; (Mabille, 1870). Erroneous data for &lt;i&gt;Rhodostrophia&lt;/i&gt; &lt;i&gt;calabra&lt;/i&gt; (Petagna, 1786); &lt;i&gt;Timandra&lt;/i&gt; &lt;i&gt;griseata&lt;/i&gt; (W. Petersen, 1902), &lt;i&gt;Pasiphila&lt;/i&gt; &lt;i&gt;debiliata&lt;/i&gt; (Hübner, 1817), and &lt;i&gt;Nychiodes&lt;/i&gt; &lt;i&gt;dalmatina&lt;/i&gt; Wagner, 1909, given by Okyar &amp; Aktaç (1999) are corrected respectively under the entries for &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;discopunctata&lt;/i&gt; (Amsel, 1935), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;comae&lt;/i&gt; (Schmidt, 1931), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chloreata&lt;/i&gt; (Mabille, 1870), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;waltheri&lt;/i&gt; Wagner, 1919.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Geometridae; European Turkey; new records; synonyms; foodplants; parasitoids</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zuhal</firstname>
+          <lastname>Okyar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-56</pages>
+        <date_published>2008-06-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Azana atlantica&lt;/i&gt;, n.sp., with reduced mouthparts and two ocelli: first record of &lt;i&gt;Azana&lt;/i&gt; for the Neotropical region (Diptera: Mycetophilidae: Sciophilinae)</title>
+        <abstract locale="en_US">A new Sciophilinae—Azana &lt;i&gt;atlantica,&lt;/i&gt; &lt;b&gt;sp.n.—is&lt;/b&gt; described from the Atlantic Forest in southeastern Brazil. The species has a number of distinctive apomorphic features, including loss of the mid ocellus, reduced mouthparts, Sc short and incomplete, first section of Rs missing, r-m elongated, longitudinal in position, aligned with the second section of Rs (R 5 ), unforked medial and cubital veins, R 4 missing, M 4 entirely absent, gonostyle triangular, with an inner row of elongated spines and a basal, digitiform inner projection. Some of these features are shared with other genera of the &lt;i&gt;Azana-&lt;/i&gt; group of Sciophilinae. The shape of the scutum and the strong spines on the gonostyle make it clear that the species belongs in &lt;i&gt;Azana,&lt;/i&gt; despite the features that are distinctive from the remaining species in the genus. There are ten species described in &lt;i&gt;Azana&lt;/i&gt; to date, from United States, Europe, Sri Lanka, Canary Islands, tropical Africa and Baltic amber. This is the first Neotropical species belonging to the genus. The complete loss of M 4 and the separated gonocoxites suggest that &lt;i&gt;Azana&lt;/i&gt; &lt;i&gt;atlantica,&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; forms a monophyletic group with the Afrotropical species of the genus. &lt;i&gt;Azana,&lt;/i&gt; &lt;i&gt;Morganiella,&lt;/i&gt; &lt;i&gt;Neoaphelomera,&lt;/i&gt; &lt;i&gt;Neotrizygia,&lt;/i&gt; and &lt;i&gt;Trizygia&lt;/i&gt; are shown to compose a small clade within the &lt;i&gt;Azana-group&lt;/i&gt; of genera. The division of the genus into two subgenera—A. (Azana) and &lt;i&gt;A.&lt;/i&gt; (Jugazana)—most probably renders &lt;i&gt;A.&lt;/i&gt; (Azana) paraphyletic and it is suggested that this should be for the time being abandoned.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Mycetophilidae; Sciophilinae; &lt;i&gt;Azana&lt;/i&gt;; biodiversity; taxonomy; Neotropical region; Atlantic forest</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dalton</firstname>
+          <lastname>De Souza Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>Siqueira</middlename>
+          <lastname>Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Isabel P. A.</middlename>
+          <lastname>Balbi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-65</pages>
+        <date_published>2008-06-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Clarification of the taxonomy of extant crickets of the subfamily Eneopterinae (Orthoptera: Grylloidea; Gryllidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tony</firstname>
+          <lastname>Robillard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laure</firstname>
+          <lastname>Desutter-Grandcolas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2008-06-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

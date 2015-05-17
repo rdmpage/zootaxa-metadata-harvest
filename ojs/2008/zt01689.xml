@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1689.1</id>
+    <title locale="en_US">25 Jan. 2008</title>
+    <volume>1689</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Phellopsis&lt;/i&gt; LeConte (Coleoptera: Zopheridae)</title>
+        <abstract locale="en_US">The world species of &lt;i&gt;Phellopsis&lt;/i&gt; LeConte are revised based on the examination of all available material. &lt;i&gt;Phellopsis&lt;/i&gt; &lt;i&gt;obcordata&lt;/i&gt; (Kirby) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;porcata&lt;/i&gt; (LeConte) are found to be valid vicariant species isolated in old growth boreal forest habitats of eastern and western North America, respectively. &lt;i&gt;Phellopsis&lt;/i&gt; &lt;i&gt;robustula&lt;/i&gt; Casey and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;montana&lt;/i&gt; Casey are placed as junior synonyms of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;porcata&lt;/i&gt; NEW SYNONYMIES. On the Asian continent, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;imurai&lt;/i&gt; Masumoto is placed in synonymy with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amurensis&lt;/i&gt; (Heyden) NEW SYNONYMY. &lt;i&gt;Phellopsis&lt;/i&gt; &lt;i&gt;amurensis&lt;/i&gt; (Heyden) now has a documented range that extends from the coastal mountains of Russia’s Primorskii Krai into the Korean peninsula. The other two described species found to be valid are &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;suberea&lt;/i&gt; Lewis, known only from Japan, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chinense&lt;/i&gt; (Semenow) from west central China. &lt;i&gt;Phellopsis&lt;/i&gt; &lt;i&gt;yulongensis&lt;/i&gt; NEW SPECIES is described from the Yunnan Province of western China. Redescriptions of all valid species are provided, with comments on the history of the genus, biology and biogeography of the group. A key and illustrations are provided for the identification of all known &lt;i&gt;Phellopsis&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Zopheridae; new species; taxonomy</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ian</firstname>
+          <middlename>A.</middlename>
+          <lastname>Foley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>A.</middlename>
+          <lastname>Ivie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2008-01-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the new world fauna of &lt;i&gt;Mesembrina&lt;/i&gt; Meigen (Diptera: Muscidae) with the description of a new neotropical species</title>
+        <abstract locale="en_US">The large striking flies of the genus &lt;i&gt;Mesembrina&lt;/i&gt; are typically found in boreal forest and at high elevations throughout the Northern Hemisphere. While it is known that most species are decomposers of ungulate dung, biological and taxonomic information on the New World fauna of &lt;i&gt;Mesembrina&lt;/i&gt; is mostly out of date or unreliable. Consequently, the Nearctic taxa have been revised, resulting in the new synonymy of &lt;i&gt;Mesembrina&lt;/i&gt; &lt;i&gt;solitaria&lt;/i&gt; (Knab) with &lt;i&gt;Mesembrina&lt;/i&gt; &lt;i&gt;decipiens&lt;/i&gt; Loew, making &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;decipiens&lt;/i&gt; the only species of the genus with a confirmed Holarctic distribution. &lt;i&gt;Mesembrina&lt;/i&gt; &lt;i&gt;latreillii&lt;/i&gt; Robineau-Desvoidy, contrary to previous indications, may be restricted to the Nearctic Region. The first Neotropical member of the genus, &lt;i&gt;Mesembrina&lt;/i&gt; &lt;i&gt;nigribasis&lt;/i&gt; sp. nov. is described. To place the New World fauna in context, a key to the world species of &lt;i&gt;Mesembrina&lt;/i&gt; is provided. This key includes a species designated by Hennig as “resplendens subspecies” from the Palaearctic, which is a distinct but undescribed species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Muscini; Systematics; world key; Nearctic; Neotropical</subject>
+          <subject_class locale="en_US">Muscini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kuchta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jade</firstname>
+          <lastname>Savage</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-50</pages>
+        <date_published>2008-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nematode-induced demasculinisation of &lt;i&gt;Dolichopus&lt;/i&gt; males (Diptera: Dolichopodidae)</title>
+        <abstract locale="en_US">Species-level identification of male dolichopodid flies (Diptera: Dolichopodidae) is based on the structure of genitalia and secondary sexual characters. The effect of parasitic nematodes on the diagnostic features was studied in a sample of over 6000 &lt;i&gt;Dolichopus&lt;/i&gt; adults collected mostly from Finland. Large nematodes were found in the abdominal cavity of 45 &lt;i&gt;Dolichopus&lt;/i&gt; males. Parasitised males of the small to mid-sized species &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;fraterculus&lt;/i&gt; Zetterstedt, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;lepidus&lt;/i&gt; Staeger, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;longitarsis&lt;/i&gt; Stannius and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;picipes&lt;/i&gt; Meigen were clearly demasculinised. Secondary sexual characters like a narrowed face, long ciliae on hind femora and modified tarsal segments were weakly developed or absent. Changes in the size, shape and position of male genitalia were also found. Larger species like &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;discifer&lt;/i&gt; Stannius and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;popularis&lt;/i&gt; Wiedemann were less affected by the parasites. Some of the nematode-infected males have been described as new species and they are here synonymised as follows: &lt;i&gt;Dolichopus&lt;/i&gt; &lt;i&gt;brachyurus&lt;/i&gt; Zetterstedt 1859=D. &lt;i&gt;fraterculus&lt;/i&gt; Zetterstedt, 1843; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;consimilis&lt;/i&gt; Wahlberg, 1850=D. &lt;i&gt;picipes&lt;/i&gt; Meigen, 1824; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cruralis&lt;/i&gt; Wahlberg, 1850=D. &lt;i&gt;lepidus&lt;/i&gt; Staeger, 1842; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;kowarzianus&lt;/i&gt; Stackelberg, 1928=D. &lt;i&gt;longitarsis&lt;/i&gt; Stannius, 1831; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;lapponicus&lt;/i&gt; Becker, 1917=D. &lt;i&gt;lepidus&lt;/i&gt; Staeger, 1842; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;micropygus&lt;/i&gt; Wahlberg, 1850=D. &lt;i&gt;fraterculus&lt;/i&gt; Zetterstedt, 1843; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;parvicaudatus&lt;/i&gt; Zetterstedt, 1843=D. &lt;i&gt;plumipes&lt;/i&gt; (Scopoli, 1763); &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pectinitarsis&lt;/i&gt; Stenhammar, 1851=D. &lt;i&gt;plumipes&lt;/i&gt; (Scopoli, 1763) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dolichopodidae; &lt;i&gt;Dolichopus&lt;/i&gt;; Nematoda; taxonomy; parasite/host interaction; new synonyms</subject>
+          <subject_class locale="en_US">Dolichopodidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jere</firstname>
+          <lastname>Kahanpaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2008-01-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Hemipenthes &lt;/i&gt;Loew from Oriental China (Diptera: Bombyliidae)</title>
+        <abstract locale="en_US">Two species of the genus &lt;i&gt;Hemipenthes&lt;/i&gt; Loew from Oriental China, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;yunnanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sichuanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described as new to science. A key to the species of the genus from Oriental China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Hemipenthes&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Oriental&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Hemipenthes&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Oriental&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gang</firstname>
+          <lastname>Yao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2008-01-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

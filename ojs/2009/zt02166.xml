@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2166.1</id>
+    <title locale="en_US">23 Jul. 2009</title>
+    <volume>2166</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Pseudachorutes &lt;/i&gt;Tullberg, 1871 (Collembola, Neanuridae) in the Ukraine with descriptions of new species</title>
+        <abstract locale="en_US">Four new species of &lt;i&gt;Pseudachorutes&lt;/i&gt; from Ukraine are described and illustrated: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vitalii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;scythicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vasylii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;janstachi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; These new species differ in the body size, in the details of body chaetotaxy, in the number of vesicles of PAO, in the shape of mandibles, in the chaetotaxy of labrum and labium. The following species are redescribed on the basis of Ukrainian material: &lt;i&gt;Pseudachorutes&lt;/i&gt; &lt;i&gt;pratensis&lt;/i&gt; Rusek, 1973, &lt;i&gt;Pseudachorutes&lt;/i&gt; &lt;i&gt;palmiensis&lt;/i&gt; Börner, 1903, &lt;i&gt;Pseudachorutes&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; Börner, 1901, &lt;i&gt;Pseudachorutes&lt;/i&gt; &lt;i&gt;subcrassus&lt;/i&gt; Tullberg, 1871, &lt;i&gt;Pseudachorutes&lt;/i&gt; &lt;i&gt;dubius&lt;/i&gt; Krausbauer, 1898 and &lt;i&gt;Pseudachorutes&lt;/i&gt; &lt;i&gt;corticicolus&lt;/i&gt; (Schäffer, 1896). A key to the Ukrainian &lt;i&gt;Pseudachorutes&lt;/i&gt; species are given, too.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vitalii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;scythicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vasylii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;janstachi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; identification key; chaetotaxy</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ighor</firstname>
+          <middlename>J.</middlename>
+          <lastname>Kaprus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanda</firstname>
+          <middlename>M.</middlename>
+          <lastname>Weiner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2009-07-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the subfamily Centrocneminae (Hemiptera: Heteroptera: Reduviidae) from Sumatra</title>
+        <abstract locale="en_US">Two genera and two species, &lt;i&gt;Neocentrocnemis&lt;/i&gt; &lt;i&gt;signoreti&lt;/i&gt; (Stål, 1863) and &lt;i&gt;Centrocnemoides&lt;/i&gt; &lt;i&gt;sumatrana&lt;/i&gt; Miller, 1956, in the subfamily Centrocneminae from Sumatra, are recognized and redescribed. The male genitalia of the two species are described and illustrated for the first time, except for the paramere of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;signoreti.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Centrocneminae; Sumatra; taxonomy; male genitalia</subject>
+          <subject_class locale="en_US">Centrocneminae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Keyu</firstname>
+          <lastname>Yan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerome</firstname>
+          <lastname>Constant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanzhi</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-32</pages>
+        <date_published>2009-07-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Notacanthurus &lt;/i&gt;Tshernova, 1974 and a new &lt;i&gt;Rhithrogena &lt;/i&gt;Eaton, 1881 (subgenus &lt;i&gt;Tumungula &lt;/i&gt;Zhou &amp; Peters, 2004) from Thailand (Heptageniidae, Ephemeroptera)</title>
+        <abstract locale="en_US">&lt;i&gt;Notacanthurus&lt;/i&gt; &lt;i&gt;baei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (larva) and &lt;i&gt;Rhithrogena&lt;/i&gt; (Tumungula) &lt;i&gt;siamensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (male, female and assumed larva) are described from northern Thailand. Diagnoses and line drawings of key characters are provided. Larvae of Southeast Asian &lt;i&gt;Notacanthurus&lt;/i&gt; n.sp. resemble those of Palearctic &lt;i&gt;Notacanthurus&lt;/i&gt; spp. in having a median ridge of spines directed posteriorly on terga, a similar patterning of terga with oblique stripes sloping inward, femoral cross bands and caudal filaments with whorls of small spines. Contrastingly, larvae of the new species bear claws with denticles, while the mature male larva exhibits prospective penis with distally paired portions of rounded lobes like those in most &lt;i&gt;Electrogena&lt;/i&gt; Zurwerra and Tomka, 1984. Imagines of &lt;i&gt;R.&lt;/i&gt; (T.) &lt;i&gt;siamensis&lt;/i&gt; represent a second species of subgen. &lt;i&gt;Tumungula&lt;/i&gt; Zhou and Peters, 2004. Males have balloon-shaped hypertrophied foreclaws, with first tarsal segment about 1.4x the length of the second, and divergent penis lobes without titillators. In contrast to &lt;i&gt;R.&lt;/i&gt; (T.) &lt;i&gt;unica&lt;/i&gt; the male styliger plate shows two sharp, inside directed projections, submedian lobes of the penis have circular gonopores lacking subapical spines.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Notacanthurus&lt;/i&gt;; &lt;i&gt;Rhithrogena&lt;/i&gt;; Heptageniidae; taxonomy; biology; distribution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Notacanthurus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dietrich</firstname>
+          <lastname>Braasch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Boonsatien</firstname>
+          <lastname>Boonsoong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-44</pages>
+        <date_published>2009-07-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the genus &lt;i&gt;Heteralonia &lt;/i&gt;Bezzi, 1921 from China (Diptera: Bombyliidae)</title>
+        <abstract locale="en_US">The following four new species of the genus &lt;i&gt;Heteralonia&lt;/i&gt; from China are described and illustrated: &lt;i&gt;Heteralonia&lt;/i&gt; &lt;i&gt;anemosyris&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Heteralonia&lt;/i&gt; &lt;i&gt;cnecos&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Heteralonia&lt;/i&gt; &lt;i&gt;nigripilosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Heteralonia&lt;/i&gt; &lt;i&gt;ochros&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the species of the genus &lt;i&gt;Heteralonia&lt;/i&gt; from China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Bombyliidae; &lt;i&gt;Heteralonia&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gang</firstname>
+          <lastname>Yao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2009-07-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Bilyjomyia&lt;/i&gt;, a new genus of the tribe Macropelopiini from the Holarctic (Diptera: Chironomidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Bilyjomyia&lt;/i&gt; is erected for &lt;i&gt;Apsectrotanypus&lt;/i&gt; &lt;i&gt;algens&lt;/i&gt; (Coquillett, 1902) from western North America and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;fontana&lt;/i&gt; n. sp. from Japan. A generic diagnosis and a description are given for all life stages. &lt;i&gt;Bilyjomyia&lt;/i&gt; &lt;i&gt;algens&lt;/i&gt; is redescribed. All life stages of &lt;i&gt;Bilyjomyia&lt;/i&gt; &lt;i&gt;fontana&lt;/i&gt; are described and figured. The new genus shows affinities to &lt;i&gt;Macropelopia&lt;/i&gt; Thienemann and &lt;i&gt;Bethbilbeckia&lt;/i&gt; Fittkau &lt;i&gt;et&lt;/i&gt; Murray in the immature stages. &lt;i&gt;Bilyjomyia&lt;/i&gt; can be distinguished from all other known Macropelopiini by the following features: the reduced setation of T.IX and the restriction of these setae to the tergal posterior edge in the adult male; the aeropyles of the thoracic horn in the pupa; the labral sclerite and the position and form of the ventral cephalic setae in the larva. The distribution of &lt;i&gt;Bilyjomyia&lt;/i&gt; indicates dispersal across the Bering Land Bridge, a pattern known in some other genera of Chironomidae and other orders of insects.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chironomidae; Tanypodinae; Macropelopiini; &lt;i&gt;Bilyjomyia&lt;/i&gt;; new genus; new species</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiromi</firstname>
+          <lastname>Niitsuma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>N.</middlename>
+          <lastname>Watson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2009-07-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

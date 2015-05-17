@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1886.1</id>
+    <title locale="en_US">26 Sep. 2008</title>
+    <volume>1886</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the horse fly genera &lt;i&gt;Lissimas &lt;/i&gt;and &lt;i&gt;Cydistomyia&lt;/i&gt; (Diptera: Tabanidae: Diachlorini) of Australia</title>
+        <abstract locale="en_US">Two genera of horse flies of the Tribe Diachlorini (Tabanidae), &lt;i&gt;Lissimas&lt;/i&gt; Enderlein and &lt;i&gt;Cydistomyia&lt;/i&gt; Taylor in Australia, are reviewed and diagnosed. &lt;i&gt;Lissimas&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; (Ricardo), the sole species in the genus in Australia, is redescribed. A key is given to 39 &lt;i&gt;Cydistomyia&lt;/i&gt; species, among them 22 established species are redescribed and 17 species are described as new. The new species are: &lt;i&gt;Cydistomyia&lt;/i&gt; &lt;i&gt;danielsorum,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fergusoni,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tasmaniensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hardyi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;exemplum,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;obscurus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sabulosus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;monteithi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;curvabilis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pilosus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;triangularis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;improcerus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fenestra,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pruina,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;infirmus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;innubilus,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pseudobrevior.&lt;/i&gt; Six possible new species are described briefly but not named.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tabanidae; Diachlorini; &lt;i&gt;Lissimas&lt;/i&gt;; &lt;i&gt;Cydistomyia&lt;/i&gt;; Australia</subject>
+          <subject_class locale="en_US">Tabanidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>I.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Mackerras</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Spratt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Yeates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-80</pages>
+        <date_published>2008-09-26</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

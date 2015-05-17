@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2526.1</id>
+    <title locale="en_US">5 Jul. 2010</title>
+    <volume>2526</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision of the feather mite genus &lt;i&gt;Protolichus &lt;/i&gt;Trouessart, 1884 (Astigmata, Pterolichidae)</title>
+        <abstract locale="en_US">Based on the type materials deposited in the Trouessart collection (Muséum national d’Histoire naturelle, Paris, France), the six formerly known species of the feather mite genus &lt;i&gt;Protolichus&lt;/i&gt; Mégnin et Trouessart, 1884 (Pterolichidae: Pterolichinae) are redescribed: &lt;i&gt;Protolichus&lt;/i&gt; &lt;i&gt;brachiatus&lt;/i&gt; Trouessart, 1884, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magnificus&lt;/i&gt; Favette et Trouessart, 1904, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;strangulatus&lt;/i&gt; Favette et Trouessart, 1904 (brachiatus group), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;casuarius&lt;/i&gt; Trouessart, 1884, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;crassior&lt;/i&gt; Trouessart, 1884, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gratus&lt;/i&gt; Favette et Trouessart, 1904 (crassior group). One new species of the &lt;i&gt;brachiatus&lt;/i&gt; group found in the examined materials is described: &lt;i&gt;Protolichus&lt;/i&gt; &lt;i&gt;sigillator&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Chalcopsitta&lt;/i&gt; &lt;i&gt;scintillata&lt;/i&gt; &lt;i&gt;chloroptera&lt;/i&gt; (Salvadori, 1876) (Psittacidae: Loriinae). A new expanded diagnosis for the genus &lt;i&gt;Protolichus&lt;/i&gt; is provided and a key to all known species is constructed for the first time. Known host associations of &lt;i&gt;Protolichus&lt;/i&gt; species with parrots of the Old World are critically revised. Mites of this genus are apparently restricted to lories and lorikeets (Loriinae) distributed in the Australian and Indo Malayan regions, particularly to representatives of the genera &lt;i&gt;Chalcopsitta,&lt;/i&gt; &lt;i&gt;Charmosyna,&lt;/i&gt; &lt;i&gt;Lorius,&lt;/i&gt; &lt;i&gt;Pseudeos,&lt;/i&gt; and &lt;i&gt;Trichoglossus,&lt;/i&gt; while other formerly recorded hosts, including those from other subfamilies of parrots, seem to be results of accidental contaminations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pterolichoidea; Psittaciformes; host-mite relationships; key</subject>
+          <subject_class locale="en_US">Pterolichoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jacek</firstname>
+          <lastname>Dabert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2010-07-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and five new species of Astieae (Araneae: Salticidae) from Australia, with remarks on distribution</title>
+        <abstract locale="en_US">&lt;i&gt;Parahelpis,&lt;/i&gt; a new genus of Astieae, is described for &lt;i&gt;Helpis&lt;/i&gt; &lt;i&gt;abnormis&lt;/i&gt; (Żabka, 2002) and &lt;i&gt;Parahelpis&lt;/i&gt; &lt;i&gt;smithae&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; the former being designated the type species. &lt;i&gt;Adoxotoma&lt;/i&gt; &lt;i&gt;embolica&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nitida&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sexmaculata&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Helpis&lt;/i&gt; &lt;i&gt;longipalpis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described. &lt;i&gt;Astia&lt;/i&gt; &lt;i&gt;nodosa&lt;/i&gt; L. Koch, 1879 is transferred to &lt;i&gt;Adoxotoma.&lt;/i&gt; Diagnoses and lists of species for &lt;i&gt;Adoxotoma&lt;/i&gt; and &lt;i&gt;Helpis&lt;/i&gt; are provided and remarks on their distribution are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Australia; New Guinea; New Zealand; phylogeny; biogeography</subject>
+          <subject_class locale="en_US">Australia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joanna</firstname>
+          <lastname>Gardzińska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marek</firstname>
+          <lastname>Żabka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-53</pages>
+        <date_published>2010-07-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New raphitomine gastropods (Gastropoda: Conidae: Raphitominae) from the South-West Pacific</title>
+        <abstract locale="en_US">Based on material stored in Muséum National d’Histoire Naturelle (MNHN) eight new species collected from bathyal depths in South West Pacific archipelagos (Solomon Islands and Fiji) are described. The new species belong to the rather poorly known genera &lt;i&gt;Acanthodaphne&lt;/i&gt; Bonfitto et Morassi, 2006, &lt;i&gt;Acamptodaphne&lt;/i&gt; Shuto, 1971, &lt;i&gt;Buccinaria&lt;/i&gt; Kittl, 1887, &lt;i&gt;Cryptodaphne&lt;/i&gt; Powell, 1942 and &lt;i&gt;Mioawateria&lt;/i&gt; Vella, 1954 all belonging to subfamily Raphitominae Bellardi, 1875 in the family Conidae Fleming, 1822. &lt;i&gt;Acamptodaphne&lt;/i&gt; &lt;i&gt;eridmata&lt;/i&gt; sp. nov. has a broad distribution being reported from the Solomon Islands and Taiwan. Finding of the new species here discussed in South West Pacific archipelagos provides a significant extension to the previously known geographical range of these raphitomine genera.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematics; Conoidea; turriform gastropods; &lt;i&gt;Cryptodaphne&lt;/i&gt;; &lt;i&gt;Acamptodaphne&lt;/i&gt;; &lt;i&gt;Mioawateria&lt;/i&gt;; &lt;i&gt;Acanthodaphne&lt;/i&gt;; &lt;i&gt;Buccinaria&lt;/i&gt;; new species; deep sea biodiversity</subject>
+          <subject_class locale="en_US">Systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <lastname>Morassi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Bonfitto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2010-07-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

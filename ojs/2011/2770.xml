@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2770.1</id>
+    <title locale="en_US">21 Feb. 2011</title>
+    <volume>2770</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of the oribatid mite genus &lt;i&gt;Phyllhermannia &lt;/i&gt;Berlese, 1916 (Acari, Oribatida, Hermanniidae) from wet forests in south-eastern Australia show a high diversity of morphologically-similar, short-range endemics</title>
+        <abstract locale="en_US">This paper contains descriptions of sixteen new species of &lt;i&gt;Phyllhermannia&lt;/i&gt; from temperate rainforest and wet sclerophyll forest in the Australian Capital Territory (P. &lt;i&gt;namadjiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; New South Wales (P. &lt;i&gt;bandabanda&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;colini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tanjili&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; Tasmania (Phyllhermannia &lt;i&gt;acalepha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;craticula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lemannae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;luxtoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;strigosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and Victoria (P. &lt;i&gt;croajingolongensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;errinundrae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gigas&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hunti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;leei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;leonilae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sauli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; A partial supplementary description and new distribution record is given for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;eusetosa&lt;/i&gt; Lee, 1985 from South Australia. &lt;i&gt;Phyllhermannia&lt;/i&gt; &lt;i&gt;dentata&lt;/i&gt; &lt;i&gt;glabra&lt;/i&gt; Hammer, 1962 is elevated to specific status. &lt;i&gt;Hermannia&lt;/i&gt; &lt;i&gt;macronychus&lt;/i&gt; Trägårdh, 1907 and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;fungifer&lt;/i&gt; Mahunka 1988 are recombined to &lt;i&gt;Phyllhermannia.&lt;/i&gt; A new diagnosis of &lt;i&gt;Phyllhermannia&lt;/i&gt; is given and immature stages are described for the first time. Three species-groups are tentatively recognised: Acalepha, confined to Tasmania, Colini, found in the Australian Capital Territory, Victoria and New South Wales and Eusetosa, found in Victoria and South Australia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; morphology; systematics; species-groups; biogeography; distribution; setal ontogeny</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>J.</middlename>
+          <lastname>Colloff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2011-02-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

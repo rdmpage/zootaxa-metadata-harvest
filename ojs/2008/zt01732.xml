@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1732.1</id>
+    <title locale="en_US">25 Mar. 2008</title>
+    <volume>1732</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-03-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of arboreal predatory katydids from West Africa (Orthoptera: Tettigoniidae: Meconematinae)</title>
+        <abstract locale="en_US">A new genus (Brachyamytta &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.)&lt;/b&gt; and ten new species (Proamytta &lt;i&gt;spinifera&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Amyttosa&lt;/i&gt; &lt;i&gt;insectivora&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Anepitacta&lt;/i&gt; &lt;i&gt;wrightae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Amyttopsis&lt;/i&gt; &lt;i&gt;bakowskii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;palmulicerca&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Xiphidiola&lt;/i&gt; &lt;i&gt;hokei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;lobaticerca&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Brachyamytta&lt;/i&gt; &lt;i&gt;rapidoaestima&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;mculloughae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculipes&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; of West African Meconematinae (Orthoptera: Tettigoniidae) are described. New distribution records for several species are presented, and unusual egg morphology of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;insectivora&lt;/i&gt; is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">West African katydids; Meconematinae; new species; egg morphology</subject>
+          <subject_class locale="en_US">West African katydids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Piotr</firstname>
+          <lastname>Naskrecki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2008-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the Oriental planthopper genus &lt;i&gt;Sogana&lt;/i&gt; Matsumura 1914 (Hemiptera: Fulgoromorpha: Tropiduchidae) with descriptions of three new species</title>
+        <abstract locale="en_US">The Oriental planthopper genus &lt;i&gt;Sogana&lt;/i&gt; Matsumura, 1914 (Hemiptera: Fulgoromorpha: Tropiduchidae) is reviewed and seven species including three new species are recognized in the genus: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;clara&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos: Vientiane), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;extrema&lt;/i&gt; Melichar, 1914 (Burma, China), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;hopponis&lt;/i&gt; Matsumura, 1914 (type species, China, Japan), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;longiceps&lt;/i&gt; Fennah, 1978 (China, Vietnam), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pseudohopponis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos: Nam Kading), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;robustocarina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Malaysia: Borneo) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;stimulata&lt;/i&gt; Melichar, 1914 (Indonesia: Mentawei Islands). The genus and its included species are described and illustrated. A key to the known species in the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">planthopper; Oriental Region</subject>
+          <subject_class locale="en_US">planthopper</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ai-Ping</firstname>
+          <lastname>Liang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rong-Rong</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-44</pages>
+        <date_published>2008-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A featherwing beetle without wings: re-discovery and second species of &lt;i&gt;Rioneta&lt;/i&gt; (Coleoptera: Ptiliidae) from the Uluguru Mountains, Tanzania</title>
+        <abstract locale="en_US">The type species of the monotypic beetle genus &lt;i&gt;Rioneta&lt;/i&gt; Johnson, 1975, previously known from three specimens, is rediscovered in the Uluguru Mountains, Tanzania. A second sympatric species, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;inexpectata&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; is described. The relatively rare event of apparently obligate aptery in Ptiliidae is reported. The genus &lt;i&gt;Rioneta,&lt;/i&gt; as well as &lt;i&gt;Leptinla&lt;/i&gt; Johnson, 1985, are removed from the non-monophyletic Ptiliini and transferred to the tribe Ptinellini.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; beetle</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vasily</firstname>
+          <middlename>V.</middlename>
+          <lastname>Grebennikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-53</pages>
+        <date_published>2008-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the last-instar larva and pupa and the bionomics of &lt;i&gt;Smicridea&lt;/i&gt; (&lt;i&gt;Smicridea&lt;/i&gt;) &lt;i&gt;truncata&lt;/i&gt; Flint (Trichoptera: Hydropsychidae) in Central Amazonia, Brazil</title>
+        <abstract locale="en_US">The larva and pupa of &lt;i&gt;Smicridea&lt;/i&gt; (Smicridea) &lt;i&gt;truncata&lt;/i&gt; Flint 1974 (Trichoptera: Hydropsychidae) are described and illustrated. Larvae of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;truncata&lt;/i&gt; can be distinguished by the concave line on the median region of the frontoclypeus and presence of the tubular structures, located in the dorsolateral region of abdominal segment VIII, which were not observed in any of the described larvae of &lt;i&gt;S.&lt;/i&gt; (Smicridea). This species was collected in a small wooden water trough at the Aruanã Farm, Itacoatiara municipality, and in four streams in Presidente Figueiredo municipality in the state of Amazonas, Brazil. The larval diet was determined by stomach-content analysis; this caddisfly species feeds mainly on algae and diatoms.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aquatic insects; caddisfly; Central Amazon; Neotropical streams; stomach contents</subject>
+          <subject_class locale="en_US">Aquatic insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Maria Oliveira</middlename>
+          <lastname>Pes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neusa</firstname>
+          <lastname>Hamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Climiia</firstname>
+          <middlename>Correa</middlename>
+          <lastname>Soares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-60</pages>
+        <date_published>2008-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New synonyms in neotropical Myrmicine ants (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Barry</firstname>
+          <lastname>Bolton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeffrey</firstname>
+          <lastname>Sosa-Calvo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Fernandez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>E.</middlename>
+          <lastname>Lattke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2008-03-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the larva of &lt;i&gt;Simulium lobatoi&lt;/i&gt; Luna Dias, Hernandez, Maia-Herzog &amp; Shelley (Diptera: Simuliidae) from Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>Hernandez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neusa</firstname>
+          <lastname>Hamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mateus</firstname>
+          <lastname>Pepinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Regina</firstname>
+          <middlename>Mayumi</middlename>
+          <lastname>Kikuchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2008-03-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

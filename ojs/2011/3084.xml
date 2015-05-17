@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3084.1</id>
+    <title locale="en_US">28 Oct. 2011</title>
+    <volume>3084</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Western Palearctic Meteorini (Hymenoptera, Braconidae), with a molecular characterization of hidden Fennoscandian species diversity</title>
+        <abstract locale="en_US">The tribe Meteorini includes two genera, &lt;i&gt;Meteorus&lt;/i&gt; and &lt;i&gt;Zele,&lt;/i&gt; which are koinobiont endoparasitoids of larval Lepidoptera and Coleoptera. More than 300 species are known, about one fifth of which occur in the Western Palearctic. Here, we revise the Western Palearctic species, based partly on traditional approaches and partly on molecular analysis of recent Swedish and Finnish material. For the analyses of phylogenetic relationships and cryptic species diversity, we coded 17 morphological characters and sequenced two markers, 28S D2 (649 bp) and CO1 (665 bp). More than 1 970 specimens representing 54 species of &lt;i&gt;Meteorus&lt;/i&gt; Haliday and 5 species of &lt;i&gt;Zele&lt;/i&gt; Curtis were studied; of these, 177 specimens representing 41 species were sequenced. Seven new species are described, all from the Fennoscandian material: &lt;i&gt;Meteorus&lt;/i&gt; &lt;i&gt;artocercus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;densipilosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;eklundi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longipilosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sibyllae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stenomastax&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;subtilisulcus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Four new synonyms are introduced: &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;chlorophthalmus&lt;/i&gt; (Spinola 1808), &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pallidus&lt;/i&gt; (Nees 1812), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;punctifrons&lt;/i&gt; Thomson 1895, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;varinervis&lt;/i&gt; (Tobias 1986), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;melanostictus&lt;/i&gt; Capron 1887, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov&lt;/b&gt; for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;monachae&lt;/i&gt; (Tobias 1986), and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tenellus&lt;/i&gt; Marshall 1887, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;boreus&lt;/i&gt; (Tobias 1986). &lt;i&gt;Meteorus&lt;/i&gt; &lt;i&gt;tenellus&lt;/i&gt; is removed from synonymy with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cinctellus.&lt;/i&gt; Sequence analysis indicated the presence of at least 12 additional cryptic species but these cannot be separated morphologically at this point and, therefore, we do not describe them here. The phylogenetic results suggest that &lt;i&gt;Zele&lt;/i&gt; should be included within &lt;i&gt;Meteorus&lt;/i&gt; but we refrain from formal changes of the generic classification until more comprehensive phylogenetic analyses of the tribe can be completed. A key to the known Western Palearctic species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasitic wasps; molecular taxonomy; cryptic species; general mixed Yule coalescent; evolution; host preferences; identification keys</subject>
+          <subject_class locale="en_US">parasitic wasps</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julia</firstname>
+          <lastname>Stigenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fredrik</firstname>
+          <lastname>Ronquist</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-95</pages>
+        <date_published>2011-10-28</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

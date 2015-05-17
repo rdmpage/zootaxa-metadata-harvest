@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3394.1</id>
+    <title locale="en_US">20 Jul. 2012</title>
+    <volume>3394</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Parisopalpus defoei &lt;/i&gt;sp. nov. from Robinson Crusoe Island, Chile, the first known species of the genus from the Neotropical Region (Coleoptera: Oedemeridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimír</firstname>
+          <lastname>Švihla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <middlename>Ramírez</middlename>
+          <lastname>Fischer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-34</pages>
+        <date_published>2012-07-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species and new records of &lt;i&gt;Downeshelea &lt;/i&gt;Wirth &amp; Grogan in Neotropical Mexico (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Herón</firstname>
+          <lastname>Huerta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Luiza</middlename>
+          <lastname>Felippe-Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>R.</middlename>
+          <lastname>Spinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-07-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

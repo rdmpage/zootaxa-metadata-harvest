@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2152.1</id>
+    <title locale="en_US">8 Jul. 2009</title>
+    <volume>2152</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the goldenrod-galling &lt;i&gt;Rhopalomyia &lt;/i&gt;species (Diptera: Cecidomyiidae) in North America</title>
+        <abstract locale="en_US">Goldenrods (Solidago and &lt;i&gt;Euthamia&lt;/i&gt; species) are common herbs in the eastern United States that support a large and diverse community of highly specific gall-inducing insects. The majority of these insects are gall midges, of which 16 described species are bud, leaf, stem, rhizome, or flower-head gallers belonging to the large genus &lt;i&gt;Rhopalomyia&lt;/i&gt; Rübsaamen. The present work is a taxonomic revision of the goldenrod-associated &lt;i&gt;Rhopalomyia&lt;/i&gt; species, which includes a key to the identification of species based on their galls and host plants and descriptions of diagnostic characters for all species. &lt;i&gt;Rhopalomyia&lt;/i&gt; &lt;i&gt;lanceolata&lt;/i&gt; Felt is designated as a new synonym for &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;lobata&lt;/i&gt; Felt, and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;albipennis&lt;/i&gt; Felt and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;carolina&lt;/i&gt; Felt are designated as new synonyms for &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;solidaginis&lt;/i&gt; Loew. Neotypes are designated for &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;hirtipes&lt;/i&gt; Osten Sacken and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;solidaginis,&lt;/i&gt; and two new species are described—R. &lt;i&gt;gina&lt;/i&gt; Dorchin n.sp. and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;guttata&lt;/i&gt; Dorchin n.sp. Descriptions include illustrations of galls, male and female morphological characters, and the first description of pupae, where available. New or additional detailed information is also provided on gall structure, phenology, and life history of the gall midges.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gall midges; &lt;i&gt;Euthamia&lt;/i&gt;; &lt;i&gt;Solidago&lt;/i&gt;; Neotype; Taxonomy</subject>
+          <subject_class locale="en_US">Gall midges</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Netta</firstname>
+          <lastname>Dorchin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miles</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mcevoy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Todd</firstname>
+          <middlename>A.</middlename>
+          <lastname>Dowling</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Warren</firstname>
+          <middlename>G.</middlename>
+          <lastname>Abrahamson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseph</firstname>
+          <middlename>G.</middlename>
+          <lastname>Moore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2009-07-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Lipotactes &lt;/i&gt;Brunner v. W., 1898 (Orthoptera, Tettigoniidae, Lipotactinae) from China</title>
+        <abstract locale="en_US">In the current paper, a key to the species of &lt;i&gt;Lipotactes&lt;/i&gt; Brunner v. W. occuring in China is given. Two species are described as new, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;laminus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;truncatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The material, on which the study is based including the type specimens is deposited in the Museum of Hebei University.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Lipotactes&lt;/i&gt;; review; Tettigoniidae; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Lipotactes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rui-Lian</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-42</pages>
+        <date_published>2009-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identity of shield bugs described by Francis Walker from Taiwan (Hemiptera: Heteroptera: Pentatomidae)</title>
+        <abstract locale="en_US">Francis Walker (1809–1874), an English entomologist, described five species of shield bugs (Hemiptera: Heteroptera: Pentatomidae) from „Formosa” (= Taiwan) in 1868. Four of them have never been recorded again since the original description and their identity has remained unknown so far. Based on the type material deposited at the Museum of Victoria, Abbotsford, Australia, Walker’s species are documented and their identities are clarified. The following new synonymies are proposed: Eysarcorini: &lt;i&gt;Eysarcoris&lt;/i&gt; &lt;i&gt;guttigerus&lt;/i&gt; (Thunberg, 1783) = &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; Walker, 1868, syn. n. = &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pustulatus&lt;/i&gt; Walker, 1868, syn. n.; Menidini: &lt;i&gt;Menida&lt;/i&gt; &lt;i&gt;(Menida)&lt;/i&gt; &lt;i&gt;versicolor&lt;/i&gt; (Gmelin, 1790) = &lt;i&gt;Rhaphigaster&lt;/i&gt; &lt;i&gt;quinquemaculatus&lt;/i&gt; Walker, 1868, syn. n.; Myrocheini: &lt;i&gt;Laprius&lt;/i&gt; &lt;i&gt;gastricus&lt;/i&gt; (Thunberg, 1822) = &lt;i&gt;Sciocoris&lt;/i&gt; &lt;i&gt;lugubris&lt;/i&gt; Walker, 1868, syn. n. Lectotypes are designated for &lt;i&gt;Eysarcoris&lt;/i&gt; &lt;i&gt;latus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pustulatus,&lt;/i&gt; and &lt;i&gt;Sciocoris&lt;/i&gt; &lt;i&gt;lugubris.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Heteroptera; Pentatomidae; Francis Walker; Taiwan; new synonymy</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jing-Fu</firstname>
+          <lastname>Tsai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dávid</firstname>
+          <lastname>Rédei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2009-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the genus &lt;i&gt;Hyadina &lt;/i&gt;from China (Diptera: Ephydridae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Hyadina&lt;/i&gt; Haliday is recorded from continental China for the first time. Four species, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;jinpingensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;longicaudata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;quinquepunctata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sauteri&lt;/i&gt; Cresson, are described. All the species are distributed in Oriental China. A key to the Chinese species of &lt;i&gt;Hyadina&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Ephydridae; &lt;i&gt;Hyadina&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Junhua</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2009-07-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first psychodid (Diptera: Psychodidae: Phlebotominae) species from the Lower Eocene amber of Vastan, Gujarat, India</title>
+        <abstract locale="en_US">The new genus and species, &lt;i&gt;Phlebotoiella&lt;/i&gt; &lt;i&gt;eoindianensis,&lt;/i&gt; from the Eocene Vastan amber deposits in western India is described and illustrated. This marks the first Psychodidae to be described from Vastan amber. The relationship of this new genus is discussed as well as its biogeographic implications.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lower Eocene; systematics; India; Vastan amber; Phlebotominae; new genus</subject>
+          <subject_class locale="en_US">Lower Eocene</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mónica</firstname>
+          <middlename>M. Solórzano</middlename>
+          <lastname>Kraemer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rüdiger</firstname>
+          <lastname>Wagner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-07-08</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

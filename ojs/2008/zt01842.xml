@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1842.1</id>
+    <title locale="en_US">4 Aug. 2008</title>
+    <volume>1842</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-08-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Drepanoneura&lt;/i&gt; gen. nov. for &lt;i&gt;Epipleoneura letitia &lt;/i&gt;and&lt;i&gt; Protoneura peruviensis&lt;/i&gt;, with descriptions of eight new Protoneuridae from South America (Odonata: Protoneuridae)</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Drepanoneura&lt;/i&gt; (type species &lt;i&gt;Drepanoneura&lt;/i&gt; &lt;i&gt;loutoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; is described to include &lt;i&gt;Epipleoneura&lt;/i&gt; &lt;i&gt;letitia&lt;/i&gt; Donnelly, &lt;i&gt;Protoneura&lt;/i&gt; &lt;i&gt;peruviensis&lt;/i&gt; Fraser, and six new congeneric species from South America: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;donnellyi,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;flinti,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;janirae,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;loutoni,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;muzoni,&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;tennesseni.&lt;/i&gt; &lt;i&gt;Drepanoneura&lt;/i&gt; is similar to &lt;i&gt;Epipleoneura&lt;/i&gt; and &lt;i&gt;Epipotoneura&lt;/i&gt; in venational characters, but differs from them in morphology of male cercus, genital ligula, female pronotum, and epiproct. A new species of &lt;i&gt;Epipleoneura&lt;/i&gt; from Venezuela, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;demarmelsi,&lt;/i&gt; and a new species of &lt;i&gt;Epipotoneura&lt;/i&gt; from Brazil, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;machadoi,&lt;/i&gt; are described, and diagnostic illustrations for the poorly known &lt;i&gt;Epipotoneura&lt;/i&gt; &lt;i&gt;nehalennia&lt;/i&gt; Williamson are also presented. A generic characterization, diagnoses, and keys for species of &lt;i&gt;Drepanoneura&lt;/i&gt; are provided, as well as diagnostic illustrations and distribution maps for all involved species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Odonata; Zygoptera; Protoneuridae; &lt;i&gt;Epipleoneura&lt;/i&gt;; &lt;i&gt;Epipotoneura&lt;/i&gt;; &lt;i&gt;Protoneura&lt;/i&gt;; new genus; new species; South America</subject>
+          <subject_class locale="en_US">Odonata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Natalia</firstname>
+          <lastname>Von Ellenrieder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rosser</firstname>
+          <middlename>W.</middlename>
+          <lastname>Garrison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2008-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Typhlocharis&lt;/i&gt; Dieck, 1869 (Coleoptera: Carabidae, Anillini): a new species from the Iberian Peninsula, with notes about its relationships and the evolution of the &lt;i&gt;diecki&lt;/i&gt; species group</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Typhlocharis&lt;/i&gt; Dieck (Coleoptera: Carabidae, Anillini), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;martini,&lt;/i&gt; described from the upper Segura River (province of Albacete, southeast Spain), is included in the &lt;i&gt;diecki&lt;/i&gt; group characterised by a series of 4 +3 setae in the lateral umbilical series and a reduced number of preapical and apical dentiform projections of the elytron. A key to the eight species of the &lt;i&gt;diecki&lt;/i&gt; species group is included. The relationships of the new taxon and the hypotheses about the evolutionary history of &lt;i&gt;Typhlocharis&lt;/i&gt; and the &lt;i&gt;diecki&lt;/i&gt; species group are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; &lt;i&gt;Typhlocharis&lt;/i&gt;; Iberian Peninsula; key &lt;i&gt;diecki&lt;/i&gt; species group; evolutionary history</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carmelo</firstname>
+          <lastname>Andujar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Lencina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <lastname>Serrano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-44</pages>
+        <date_published>2008-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the Eurybrachidae (XII). The Oriental genus &lt;i&gt;Nicidus&lt;/i&gt; Stal, 1858 (Hemiptera: Fulgoromorpha)</title>
+        <abstract locale="en_US">The Oriental genus &lt;i&gt;Nicidus&lt;/i&gt; Stål, 1858 (Hemiptera, Fulgoromorpha, Eurybrachidae) is redescribed and reviewed. Male and female genitalia are illustrated and photos of habitus, distribution maps and biological data are provided with the description of the species. Two species are placed in the genus: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;fusconebulosus&lt;/i&gt; Stål, 1858 and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;stali&lt;/i&gt; Schmidt, 1911. An identification key to the species is proposed. Lectotypes are designated for &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;stali&lt;/i&gt; and &lt;i&gt;Kandiana&lt;/i&gt; &lt;i&gt;lewisi&lt;/i&gt; Distant, 1892.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eurybrachini; Sri Lanka; Malaysia; Borneo</subject>
+          <subject_class locale="en_US">Eurybrachini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerome</firstname>
+          <lastname>Constant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-55</pages>
+        <date_published>2008-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new fossil &lt;i&gt;Anthoxyela&lt;/i&gt; species (Hymenoptera, Xyelidae) from Yixian Formation of Northeast China</title>
+        <abstract locale="en_US">This paper reports a new species &lt;i&gt;Anthoxyela&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; referred to the genus &lt;i&gt;Anthoxyela&lt;/i&gt; Rasnitsyn, 1977 of the subfamily Macroxyelinae (Symphyta, Xyelidae). This fossil was collected from the Yixian Formation of western Liaoning, China. Based on characters of this specimen, the diagnosis of the genus &lt;i&gt;Anthoxyela&lt;/i&gt; is revised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insect fossil; &lt;i&gt;Anthoxyela&lt;/i&gt;; Macroxyelinae; Yixian Formation</subject>
+          <subject_class locale="en_US">Insect fossil</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Taiping</firstname>
+          <lastname>Gao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-62</pages>
+        <date_published>2008-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Platychasma&lt;/i&gt; (Lepidoptera: Notodontidae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Liusheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yasunori</firstname>
+          <lastname>Kishida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Min</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-65</pages>
+        <date_published>2008-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of&lt;i&gt; Erythmelus&lt;/i&gt; (Hymenoptera: Mymaridae) from the Neotropical region, with description of a new species from Argentina</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Serguei</firstname>
+          <middlename>V.</middlename>
+          <lastname>Triapitsyn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2008-08-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2959.1</id>
+    <title locale="en_US">8 Jun. 2011</title>
+    <volume>2959</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision and phylogeny of the endemic southeastern Asian &lt;i&gt;Pristaulacus comptipennis &lt;/i&gt;species group (Hymenoptera: Aulacidae)</title>
+        <abstract locale="en_US">The endemic southeastern Asiatic &lt;i&gt;Pristaulacus&lt;/i&gt; &lt;i&gt;comptipennis&lt;/i&gt; species group is revised and illustrated. Twenty species are recognized: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;asiaticus&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;boninensis&lt;/i&gt; Konishi (Japan), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;comptipennis&lt;/i&gt; Enderlein (Japan, China, Taiwan, Laos), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;corellianus&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dilleri&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;emarginaticeps&lt;/i&gt; Turner (Vietnam), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;excisus&lt;/i&gt; Turner (Vietnam), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gusenleitneri&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; Konishi (Japan, South Korea), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;jenningsi&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;konishii&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lagrecai&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Vietnam), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nobilei&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;porcatus&lt;/i&gt; Sun &amp; Sheng (China), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sharkeyi&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;thailandensis&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vietnamensis&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Vietnam, Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vilhelmseni&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vivaldianus&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;watanabei&lt;/i&gt; Turrisi &amp; Smith, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand). Phylogenetic analyses are based on a previous set of 79 morphological characters. Of this data set, 28 informative including five newly added characters were analysed using TNT under different schemes (equal and implied weighting). All analyses support two large clades, the first with five species, and a more derived and diverse one containing 15 species. Other minor clades are identified and discussed. A key for identification of the species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Evanioidea; new species; southeastern Asia; systematic revision; phylogeny; biogeography</subject>
+          <subject_class locale="en_US">Evanioidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giuseppe</firstname>
+          <middlename>Fabrizio</middlename>
+          <lastname>Turrisi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-72</pages>
+        <date_published>2011-06-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

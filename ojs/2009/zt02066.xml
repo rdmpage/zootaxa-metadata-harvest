@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2066.1</id>
+    <title locale="en_US">8 Apr. 2009</title>
+    <volume>2066</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New ground-spider genera and species with annexed checklist of the Gnaphosidae (Araneae) of Israel</title>
+        <abstract locale="en_US">The new spiders addressed in this paper complement a series of revisions of the family Gnaphosidae from Israel. New records are reported and two new genera: &lt;i&gt;Leptopilos&lt;/i&gt; and &lt;i&gt;Talanitoides&lt;/i&gt; are defined.The following new species are described: &lt;i&gt;Berlandina&lt;/i&gt; &lt;i&gt;avishur,&lt;/i&gt; &lt;i&gt;Drassyllus&lt;/i&gt; &lt;i&gt;adullam,&lt;/i&gt; &lt;i&gt;Leptopilos&lt;/i&gt; &lt;i&gt;levantinus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;lakhish,&lt;/i&gt; &lt;i&gt;Megamyrmaekion&lt;/i&gt; &lt;i&gt;magshimim,&lt;/i&gt; &lt;i&gt;Micaria&lt;/i&gt; &lt;i&gt;galilaea,&lt;/i&gt; &lt;i&gt;Phaeocedus&lt;/i&gt; &lt;i&gt;mikha,&lt;/i&gt; &lt;i&gt;Setaphis&lt;/i&gt; &lt;i&gt;mediterranea,&lt;/i&gt; &lt;i&gt;Talanitoides&lt;/i&gt; &lt;i&gt;habesor,&lt;/i&gt; &lt;i&gt;Trachyzelotes&lt;/i&gt; &lt;i&gt;miniglossus,&lt;/i&gt; &lt;i&gt;Zelotes&lt;/i&gt; &lt;i&gt;baram,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;harmeron,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;geshur,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;lehavim,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;golanensis,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;adderet,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;paradderet,&lt;/i&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;naphthalii&lt;/i&gt; and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;zekharya.&lt;/i&gt; The unknown mates of &lt;i&gt;Haplodrassus&lt;/i&gt; &lt;i&gt;atarot&lt;/i&gt; Levy, 2004, &lt;i&gt;Leptopilos&lt;/i&gt; &lt;i&gt;tenerrimus&lt;/i&gt; (O.P.-Cambridge, 1872) n. comb., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;manolisi&lt;/i&gt; (Chatzaki, 2002) n. comb., &lt;i&gt;Megamyrmaekion&lt;/i&gt; &lt;i&gt;caudatum&lt;/i&gt; Reuss, 1834 (former mis-matched male transferred to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hula&lt;/i&gt; n. nov.), &lt;i&gt;Trachyzelotes&lt;/i&gt; &lt;i&gt;stubbsi&lt;/i&gt; Platnick &amp; Murphy, 1984, &lt;i&gt;Poecilochroa&lt;/i&gt; &lt;i&gt;taborensis&lt;/i&gt; Levy, 1998, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;meronensis&lt;/i&gt; Levy, 1998, (former mis-matched female transferred to &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;haifaensis&lt;/i&gt; n. nov.), &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;hierosolymitanus&lt;/i&gt; Levy, 1998, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;shaked&lt;/i&gt; Levy, 1998, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;zin&lt;/i&gt; Levy, 1998 and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;sumchi&lt;/i&gt; Levy, 1998, are described. Two new synonymies are defined: &lt;i&gt;Leptodrassus&lt;/i&gt; &lt;i&gt;leclerci&lt;/i&gt; Denis, 1966 = &lt;i&gt;Leptopilos&lt;/i&gt; &lt;i&gt;tenerrimus&lt;/i&gt; (O.P.-Cambridge, 1872) n. comb., and &lt;i&gt;Zelotes&lt;/i&gt; &lt;i&gt;incisupalpis&lt;/i&gt; Levy, 1998 = &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;hierosolymitanus&lt;/i&gt; Levy, 1998. A checklist of all the Gnaphosidae of Israel is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Araneae; Gnaphosidae; new species; checklist Israel; Mediterranean</subject>
+          <subject_class locale="en_US">Araneae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gershom</firstname>
+          <lastname>Levy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2009-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ascidians of the genus &lt;i&gt;Aplidium &lt;/i&gt;collected on shallow hard-bottom reefs of coastal Georgia (Atlantic coast of N America, U.S.A.)</title>
+        <abstract locale="en_US">Four shallow-water species of colonial ascidians of the genus &lt;i&gt;Aplidium&lt;/i&gt; are identified in the collections made by divers off the coast of Georgia, U.S.A. One of the specimens, &lt;i&gt;Aplidium&lt;/i&gt; &lt;i&gt;ruzickai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is characterized by a combination of high numbers of rows of stigmata and stomach folds and is described as a new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ascidiacea; &lt;i&gt;Aplidium&lt;/i&gt;; Atlantic; Georgia</subject>
+          <subject_class locale="en_US">Ascidiacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karen</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>F.</middlename>
+          <lastname>Gleason</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-58</pages>
+        <date_published>2009-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Biflustra perambulata &lt;/i&gt;n. sp. (Cheilostomata: Bryozoa), a new alien species from Cochin Harbour, Kerala, India</title>
+        <abstract locale="en_US">During a study of the Bryozoa of Cochin Harbour, &lt;i&gt;Biflustra&lt;/i&gt; &lt;i&gt;perambulata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Membraniporidae) was discovered at an oil-tanker berth. Two erect foliaceous and brittle colonies of the species were found attached to a wooden rack deployed to suspend test coupons to collect fouling bryozoans. The present record documents the recruitment to this harbour of a genus most naturally occurring in geographically distant localities. Insofar as a number of &lt;i&gt;Biflustra&lt;/i&gt; species are known to be distributed via shipping to contiguous waters, the new species is interpreted to be an alien introduction, with a probable provenance from South-East Asia via a merchant vessel.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bryozoa; Cheilostomata; Membraniporidae; &lt;i&gt;Biflustra&lt;/i&gt; &lt;i&gt;perambulata&lt;/i&gt;; &lt;i&gt;Biflustra&lt;/i&gt; &lt;i&gt;grandicella&lt;/i&gt;; new species; alien species; fouling; Cochin harbour; India</subject>
+          <subject_class locale="en_US">Bryozoa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Soja</firstname>
+          <lastname>Louis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Menon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-04-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

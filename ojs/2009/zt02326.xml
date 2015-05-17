@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2326.1</id>
+    <title locale="en_US">24 Dec. 2009</title>
+    <volume>2326</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Alona &lt;/i&gt;from South-East Russia and Mongolia related to &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;salina &lt;/i&gt;Alonso, 1996 (Cladocera: Anomopoda: Chydoridae)</title>
+        <abstract locale="en_US">Two new species of genus &lt;i&gt;Alona&lt;/i&gt; Baird, 1843 were found in regions along the south-east border of Asian Russia. &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;irinae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was found in a lake in the plain of the Zeya River, a north tributary of the Amur River, and in a lake in the steppe region along the West coast of Baikal. &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;floessneri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; inhabits saline lake Uvs-Nuur on the border of Russia and West Mongolia, and several other saline lakes of Mongolia. Both species share numerous affinities with each other and with the Iberian species &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;salina&lt;/i&gt; Alonso, 1996, but differ in the shape and armament of postabdomen, sculpture of carapace, and size. Detailed morphology of &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;salina,&lt;/i&gt; including that of juveniles, was studied for the first time. Studied species belong to the &lt;i&gt;elegans-group&lt;/i&gt; of species, likely of generic rank, which include also &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; Kurz, 1875 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;orellanai&lt;/i&gt; Alonso, 1996.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cladocera; &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; group; morphology; systematics; north-central Asia</subject>
+          <subject_class locale="en_US">Cladocera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artem</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Sinev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Alonso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalia</firstname>
+          <middlename>G.</middlename>
+          <lastname>Sheveleva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2009-12-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy and distribution of the Pygmy Eagle &lt;i&gt;Aquila &lt;/i&gt;(&lt;i&gt;Hieraaetus&lt;/i&gt;) &lt;i&gt;weiskei&lt;/i&gt; (Accipitriformes: Accipitridae)</title>
+        <abstract locale="en_US">We re-evaluated the taxonomic status of the New Guinean subspecies &lt;i&gt;weiskei&lt;/i&gt; of the Little Eagle &lt;i&gt;Aquila&lt;/i&gt; &lt;i&gt;morphnoides&lt;/i&gt; and confirmed that it differs considerably from the Australian &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;morphnoides&lt;/i&gt; in multiple morphological and plumage characters. Genetic differentiation in published mitochondrial cyt-b and ND2 sequences between the nominate subspecies and &lt;i&gt;weiskei&lt;/i&gt; is equivalent to that found between other accipitrid taxa at the species level, as are pairwise divergences between each Little Eagle taxon and their sister species, the Booted Eagle &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pennata.&lt;/i&gt; The available morphological and genetic evidence thus strongly and unambiguously supports the specific distinctness of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;weiskei.&lt;/i&gt; We propose the English name Pygmy Eagle, as this is the world’s smallest known eagle. We show that the distribution of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;weiskei&lt;/i&gt; includes the western part of New Guinea (Vogelkop) and the Moluccas (Halmahera, Ternate and Seram), based on our new observations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">morphology; genetics; &lt;i&gt;pennata&lt;/i&gt;; &lt;i&gt;morphnoides&lt;/i&gt;; Little Eagle; New Guinea; Moluccas</subject>
+          <subject_class locale="en_US">morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <middlename>O.</middlename>
+          <lastname>Gjershaug</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heather</firstname>
+          <middlename>R. L.</middlename>
+          <lastname>Lerner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ola</firstname>
+          <middlename>H.</middlename>
+          <lastname>Diserud</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-38</pages>
+        <date_published>2009-12-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new &lt;i&gt;Coelorinchus &lt;/i&gt;(Macrouridae, Gadiformes, Teleostei) from Taiwan, with notable new records of grenadiers from the South China Sea</title>
+        <abstract locale="en_US">Among recent collections of grenadiers procured from fishery ports in northeastern Taiwan were ten specimens of an undescribed species of &lt;i&gt;Coelorinchus,&lt;/i&gt; which we here describe as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fuscigulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; One of the specimens was recorded previously as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cylindricus&lt;/i&gt; Iwamoto and Merrett, 1997, but that species differs from the new species most notably in having a complete bony support of the anterolateral snout margin, compared with margin incompletely supported. Other differences include proportional measurements (preoral length, orbit diameter, distance orbit to preopercle, postorbital length of head, length of upper jaw, and body depth), scale row counts, and body markings. Three other species (Coryphaenoides &lt;i&gt;asper,&lt;/i&gt; &lt;i&gt;Coelorinchus&lt;/i&gt; &lt;i&gt;spinifer,&lt;/i&gt; &lt;i&gt;Kumba&lt;/i&gt; &lt;i&gt;gymnorhynchus)&lt;/i&gt; recently collected by deepwater trawls in the South China Sea are the second records for the species; specimen data are provided for these species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Coelorinchus&lt;/i&gt; &lt;i&gt;fuscigulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Coryphaenoides&lt;/i&gt; &lt;i&gt;asper&lt;/i&gt;; &lt;i&gt;Coelorinchus&lt;/i&gt; &lt;i&gt;spinifer&lt;/i&gt;; &lt;i&gt;Kumba&lt;/i&gt; &lt;i&gt;gymnorhynchus&lt;/i&gt;; Macrouridae; Taiwan</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomio</firstname>
+          <lastname>Iwamoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hsuan-Ching</firstname>
+          <lastname>Ho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kwang-Tsao</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2009-12-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Atelophyllodes &lt;/i&gt;gen. n., a new feather mite genus of the family Proctophyllodidae (Astigmata: Analgoidea) from lyrebirds (Passeriformes: Menuridae)</title>
+        <abstract locale="en_US">We describe a new feather mite genus &lt;i&gt;Atelophyllodes&lt;/i&gt; gen. n. (Proctophyllodidae: Proctophyllodinae) with two new species from lyrebirds (Passeriformes: Menuridae) in Australia: &lt;i&gt;Atelophyllodes&lt;/i&gt; &lt;i&gt;menurae&lt;/i&gt; sp. n. (type species) from &lt;i&gt;Menura&lt;/i&gt; &lt;i&gt;novaehollandiae&lt;/i&gt; Latham, 1802, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;atyeoi&lt;/i&gt; sp. n. from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;alberti&lt;/i&gt; Bonaparte, 1850. The unique features of &lt;i&gt;Atelophyllodes&lt;/i&gt; that differentiate it from all other described genera of the subfamily Proctophyllodinae involve the structure of opisthosomal lobes in males: lobes are short and wide, with three pairs of extensions bearing bases of setae &lt;i&gt;h2,&lt;/i&gt; &lt;i&gt;h3&lt;/i&gt; and &lt;i&gt;f2,&lt;/i&gt; and lack terminal lamellae on their posterior margins.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Proctophyllodinae; Australian endemics; basal oscines</subject>
+          <subject_class locale="en_US">Proctophyllodinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heather</firstname>
+          <middlename>C.</middlename>
+          <lastname>Proctor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2009-12-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Lophiodes infrabrunneus &lt;/i&gt;Smith and Radcliffe, 1912, a senior synonym of &lt;i&gt;L. abdituspinus &lt;/i&gt;Ni, Wu and Li, 1990 (Lophiiformes: Lophiidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Lophiodes&lt;/i&gt; &lt;i&gt;infrabrunneus&lt;/i&gt; Smith and Radcliffe, 1912 is redescribed on the basis of all known specimens. The species is redefined as: a species of &lt;i&gt;Lophiodes&lt;/i&gt; with three dorsal spines, postcephalic spines absent; illicium relatively short, 13.3– 24.2% of SL; second and third dorsal spine relatively short, 12.2–21.2% and 9.1–20.6% of SL respectively, a narrow leaf–like flap, and tendrils present on second and third dorsal spine. &lt;i&gt;Lophiodes&lt;/i&gt; &lt;i&gt;abdituspinus&lt;/i&gt; is a junior synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;infrabrunneus&lt;/i&gt; based on examination of type series of both species. &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;infrabrunneus&lt;/i&gt; is distributed from Japan, to the Timor Sea, Salomon Is. and northwestern Australia, in eastern Indian Ocean where it occurs in depths between 208–1412 m.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lophiidae; anglerfish; monkfish; taxonomy; synonymy</subject>
+          <subject_class locale="en_US">Lophiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hsuan-Ching</firstname>
+          <lastname>Ho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernard</firstname>
+          <lastname>Séret</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kwang-Tsao</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2009-12-24</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>
