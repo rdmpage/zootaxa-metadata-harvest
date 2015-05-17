@@ -140,6 +140,9 @@ function find_blocks($page)
 	$X = array();
 	$n = count($page->lines);
 
+	//echo "n=$n\n";
+	//print_r($page->lines);
+
 	// Create adjacency matrix and fill with 0's
 	$X = array();
 	for ($i = 0; $i < $n; $i++)
@@ -864,7 +867,7 @@ function process($filename, &$reference)
 	
 	foreach ($final_blocks as $block)
 	{
-		print_r($block);
+		//print_r($block);
 	
 		switch ($reference->state)
 		{
@@ -883,13 +886,13 @@ function process($filename, &$reference)
 			
 			
 				// Next block has the abstract
-				if (preg_match('/<b>Abstract<\/b>/i', $block->tokens[0]))
+				if (preg_match('/<b>Abstract[:]?<\/b>/i', $block->tokens[0]))
 				{
 					$reference->state = 1;
 				}
 				
 				// Key words
-				if (preg_match('/<b>Key(words:)?<\/b>/', $block->tokens[0]))
+				if (preg_match('/<b>Key<\/b>/', $block->tokens[0]))
 				{
 					// pop off the first two tokens ("Key words")
 					$tokens = array_slice($block->tokens, 2);
@@ -901,18 +904,69 @@ function process($filename, &$reference)
 					$reference->keywords = preg_split('/\|/', $keywords);
 					$reference->state = 0;
 				}
+
+				if (preg_match('/<b>Keywords:<\/b>/', $block->tokens[0]))
+				{
+					// pop off the first token ("Keywords")
+					$tokens = array_slice($block->tokens, 1);
+					$keywords = join(' ', $tokens);
+					$keywords = preg_replace('/,(<\/i>)\s+/', '</i>|', $keywords);
+					$keywords = preg_replace('/,\s+/', '|', $keywords);
+					$keywords = preg_replace('/-\s+/', '', $keywords);
+					$keywords = preg_replace('/-<\/i>\s+<i>/', '', $keywords);
+					$reference->keywords = preg_split('/\|/', $keywords);
+					$reference->state = 0;
+				}
+				
 				
 				
 				if (in_array($block->class, array("block-not-indented", "block-other")))
 				{
 					if (isset($reference->abstract) && !isset($reference->keywords) && !$reference->has_introduction)
 					{
-						$line = join(' ', $block->tokens);
-						$line = preg_replace('/-\s+(\w)/', '$1', $line);
-						$line = preg_replace('/-<\/i>\s+<i>/', '', $line);
-						$reference->abstract .= $line;
+						// could be extending the abstract, or abstract in a different language					
+						$handled = false;
+						
+						if (!$handled)
+						{
+							
+							if (preg_match('/<b>Resumo[:]?<\/b>/i', $block->tokens[0]))
+							{
+								$line = join(' ', $block->tokens);
+								$line = preg_replace('/<b>Resumo[:]?<\/b>/', '', $line);
+								$line = preg_replace('/-\s+(\w)/', '$1', $line);
+								$line = preg_replace('/-<\/i>\s+<i>/', '', $line);
+								$line = preg_replace('/^\s+/', '', $line);
+								$reference->resumo = $line;	
+								
+								$handled = true;					
+							}
+							
+							if (preg_match('/<b>Resumen[:]?<\/b>/i', $block->tokens[0]))
+							{
+								$line = join(' ', $block->tokens);
+								$line = preg_replace('/<b>Resumen[:]?<\/b>/', '', $line);
+								$line = preg_replace('/-\s+(\w)/', '$1', $line);
+								$line = preg_replace('/-<\/i>\s+<i>/', '', $line);
+								$line = preg_replace('/^\s+/', '', $line);
+								$reference->resumen = $line;	
+								
+								$handled = true;					
+							}
+							
+						}
+						
+						
+						if (!$handled)
+						{
+							$line = join(' ', $block->tokens);
+							$line = preg_replace('/-\s+(\w)/', '$1', $line);
+							$line = preg_replace('/-<\/i>\s+<i>/', '', $line);
+							$reference->abstract .= $line;
+						}
 					}
 				}
+				
 				
 				
 				// introduction
@@ -1042,7 +1096,7 @@ function extract_metadata(&$reference, $basedir)
 
 	$html .= '<pre>' . print_r($reference, true) . '</pre>';	
 	//$html .= print_r($reference, true);
-
+	
 	$html .= '<h1>' . $reference->title . '</h1>';	
 	$html .= '<p>' . $reference->abstract . '</p>';	
 	
@@ -1066,10 +1120,14 @@ if (0)
 	
 	//extract_metadata($reference, 'pdf/2003/z00338f.xml_data');
 
-	extract_metadata($reference, 'pdf/2003/z00315f.xml_data');
+	//extract_metadata($reference, 'pdf/2003/z00315f.xml_data');
 	
 	
 	//extract_metadata($reference, 'pdf/2002/z00021f.xml_data');
+	
+	//extract_metadata($reference, 'pdf/2008/z01709p109f.xml_data');
+	
+	extract_metadata($reference, 'pdf/2004/z00498f.xml_data');
 	print_r($reference);
 }
 
