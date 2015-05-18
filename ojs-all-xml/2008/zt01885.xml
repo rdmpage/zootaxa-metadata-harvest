@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1885.1</id>
+    <title locale="en_US">26 Sep. 2008</title>
+    <volume>1885</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Western Atlantic Prochaetodermatidae from 35°N south to the Argentine Basin including the Gulf of Mexico (Mollusca: Aplacophora)</title>
+        <abstract locale="en_US">Nine new species of Prochaetodermatidae from the western Atlantic Ocean south of 35°N (off North Carolina, off eastern Florida, Gulf of Mexico, Guiana Basin, Argentine Basin) are described: &lt;i&gt;Chevroderma&lt;/i&gt; &lt;i&gt;cuspidatum,&lt;/i&gt; &lt;i&gt;Claviderma&lt;/i&gt; &lt;i&gt;amplum,&lt;/i&gt; &lt;i&gt;Cl.&lt;/i&gt; &lt;i&gt;compactum,&lt;/i&gt; &lt;i&gt;Cl.&lt;/i&gt; &lt;i&gt;crassum,&lt;/i&gt; &lt;i&gt;Cl.&lt;/i&gt; &lt;i&gt;mexicanum,&lt;/i&gt; &lt;i&gt;Prochaetoderma&lt;/i&gt; &lt;i&gt;gilrowei,&lt;/i&gt; &lt;i&gt;Niteomica&lt;/i&gt; &lt;i&gt;captainkiddae,&lt;/i&gt; &lt;i&gt;Spathoderma&lt;/i&gt; &lt;i&gt;bulbosum,&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;quadratum.&lt;/i&gt; Four species are endemics, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cuspidatum&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;quadratum,&lt;/i&gt; Gulf of Mexico; &lt;i&gt;Cl.&lt;/i&gt; &lt;i&gt;crassum,&lt;/i&gt; Guiana Basin, and &lt;i&gt;Cl.&lt;/i&gt; &lt;i&gt;compactum,&lt;/i&gt; Argentine Basin. Added to those described earlier for the northwestern, northern, and eastern Atlantic Ocean and Mediterranean Sea (Scheltema 1985; Scheltema &amp; Ivanov 2000), they complete the descriptions of all Atlantic prochaetodermatid species known to us. Two previously described species are amphi-Atlantic: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;grossum&lt;/i&gt; Scheltema &amp; Ivanov, described from the eastern Atlantic, was found in the collections made in the Guiana and Argentine Basins, and &lt;i&gt;Ch.&lt;/i&gt; &lt;i&gt;turnerae&lt;/i&gt; Scheltema, which had already been described from the northwestern and eastern Atlantic and the Argentine Basin, was not found in the Guiana Basin material.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Guiana Basin; North Carolina; southeastern Florida; Recife; radula; sclerites; zoogeography</subject>
+          <subject_class locale="en_US">Guiana Basin</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dmitry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Ivanov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amélie</firstname>
+          <middlename>H.</middlename>
+          <lastname>Scheltema</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2008-09-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

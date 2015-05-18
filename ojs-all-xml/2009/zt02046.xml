@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2046.1</id>
+    <title locale="en_US">20 Mar. 2009</title>
+    <volume>2046</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic Revision of the Southeast Asian Ant Genus &lt;i&gt;Euprenolepis&lt;/i&gt;</title>
+        <abstract locale="en_US">The taxonomy of &lt;i&gt;Euprenolepis&lt;/i&gt; has been in a muddled state since it was recognized as a separate formicine ant genus. This study represents the first species-level taxonomic revision of the genus. Eight species are recognized of which six are described as new. The new species are &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;echinata,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;maschwitzi,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;thrix,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;variegata,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;wittei,&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;zeta.&lt;/i&gt; &lt;i&gt;Euprenolepis&lt;/i&gt; &lt;i&gt;antespectans&lt;/i&gt; is synonymized with &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;procera.&lt;/i&gt; Three species are excluded from the genus and transferred to &lt;i&gt;Paratrechina&lt;/i&gt; as new combinations: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;helleri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;steeli,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stigmatica.&lt;/i&gt; A morphologically based definition and diagnosis for the genus and an identification key to the worker caste are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">fungivory; Lasiini; &lt;i&gt;Paratrechina&lt;/i&gt;; &lt;i&gt;Prenolepis&lt;/i&gt;; &lt;i&gt;Pseudolasius&lt;/i&gt;</subject>
+          <subject_class locale="en_US">fungivory</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lapolla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2009-03-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new genera of Ptilomerinae (Hemiptera: Heteroptera: Gerridae) from Southeast Asia</title>
+        <abstract locale="en_US">&lt;i&gt;Celerobates&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is erected and described to hold &lt;i&gt;Rhyacobates&lt;/i&gt; &lt;i&gt;imadatei&lt;/i&gt; Miyamoto, 1967 (type species). &lt;i&gt;Celerobates&lt;/i&gt; &lt;i&gt;imadatei&lt;/i&gt; (Miyamoto, 1967) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is probably endemic to Borneo, where it inhabits the torrents of large streams. Two further new genera are closely related with &lt;i&gt;Ptilomera&lt;/i&gt; Amyot &amp; Serville, 1843: &lt;i&gt;Ptilomerella&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from the southeast Asian mainland: &lt;i&gt;Ptilomerella&lt;/i&gt; &lt;i&gt;akekawati&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (type species) is from southern Thailand (Surat Thani, PhangNga, Phuket); and &lt;i&gt;Ptilomerella&lt;/i&gt; &lt;i&gt;anderseni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is from Myanmar (Kayin State). &lt;i&gt;Archaeoptilomera&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Borneo; &lt;i&gt;Archaeoptilomera&lt;/i&gt; &lt;i&gt;derlethi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (type species) is from East Kalimantan, Indonesia; and &lt;i&gt;Archaeoptilomera&lt;/i&gt; &lt;i&gt;kodadai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is from Sarawak, Malaysia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Gerridae; Ptilomerinae; &lt;i&gt;Celerobates&lt;/i&gt;; &lt;i&gt;Ptilomerella&lt;/i&gt;; &lt;i&gt;Archaeoptilomera&lt;/i&gt;; new genus; new species; new combination; Borneo; Myanmar; Thailand; Indonesia; Malaysia</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>H.</firstname>
+          <lastname>Zettel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-42</pages>
+        <date_published>2009-03-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the Neotropical leafhopper genus &lt;i&gt;Exogonia &lt;/i&gt;with description of seven new Brazilian species (Hemiptera: Cicadellidae: Cicadellini)</title>
+        <abstract locale="en_US">Seven new Brazilian species of &lt;i&gt;Exogonia&lt;/i&gt; Melichar are described from Mato Grosso, Bahia, Espírito Santo, Rio de Janeiro, São Paulo, Paraná, and Santa Catarina states. The other four known species of the genus, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;assimilis&lt;/i&gt; (Signoret), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hyalinosparsa&lt;/i&gt; (Melichar), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;leucampix&lt;/i&gt; (Signoret), and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;semivitta&lt;/i&gt; (Walker), are redescribed. An identification key with male and female characters and maps with the geographical distribution of the species are given. Taxonomic notes comparing the species are also provided. This genus is apparently closely related to &lt;i&gt;Hanshumba&lt;/i&gt; Young, specially due to similarities in the male genital apparatus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Membracoidea; Auchenorrhyncha; Cicadellinae; sharpshooter; morphology; taxonomy</subject>
+          <subject_class locale="en_US">Membracoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>T.</firstname>
+          <middlename>T.</middlename>
+          <lastname>Mauro-Barr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Felix</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <lastname>Mejdalani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-68</pages>
+        <date_published>2009-03-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

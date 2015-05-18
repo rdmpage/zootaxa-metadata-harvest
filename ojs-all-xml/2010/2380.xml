@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2380.1</id>
+    <title locale="en_US">26 Feb. 2010</title>
+    <volume>2380</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Hadeninae (Lepidoptera: Noctuidae) of Great Smoky Mountains National Park, USA</title>
+        <abstract locale="en_US">Fifty-two species of Hadeninae are recorded from Great Smoky Mountains National Park, Tennessee and North Carolina, USA. Of the six hadenine tribes, five are present in the Park. They include 13 species of Orthosiini, one species of Tholerini, ten species of Hadenini, nine species of Leucaniini, and 19 species of Eriopygini. A total of 160 localities were collected across the Park. The three most diverse localities in the Park were Purchase Knob with 44 species, Big Cove Road with 32 species, and Foothills Parkway with 24 species. The most widespread species in the Park was &lt;i&gt;Pseudorthodes&lt;/i&gt; &lt;i&gt;vecors&lt;/i&gt; from 59 localities. The most abundant species was &lt;i&gt;Polia&lt;/i&gt; &lt;i&gt;detracta&lt;/i&gt; with 210 specimens. Images of adults, description/diagnosis, flight period, collected localities, abundance, elevational range, general distribution, and larval hosts are presented for each species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">faunistics; All Taxa Biodiversity Inventory; North Carolina; Tennessee; moths</subject>
+          <subject_class locale="en_US">faunistics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <middlename>G.</middlename>
+          <lastname>Pogue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-75</pages>
+        <date_published>2010-02-26</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

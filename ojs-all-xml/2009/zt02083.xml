@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2083.1</id>
+    <title locale="en_US">27 Apr. 2009</title>
+    <volume>2083</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New genera and species of leaf beetles (Coleoptera: Chrysomelidae) from China and South Korea</title>
+        <abstract locale="en_US">Two new genera from China (Taumaceroides Lopatin and &lt;i&gt;Yunnaniata&lt;/i&gt; Lopatin) and 11 new species (Smaragdina &lt;i&gt;quadrimaculata&lt;/i&gt; Lopatin, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;oblongum&lt;/i&gt; Lopatin, &lt;i&gt;Hyphaenia&lt;/i&gt; &lt;i&gt;volkovitshi&lt;/i&gt; Lopatin, &lt;i&gt;Arthrotus&lt;/i&gt; &lt;i&gt;daliensis&lt;/i&gt; Lopatin, &lt;i&gt;Taumaceroides&lt;/i&gt; &lt;i&gt;sinicus&lt;/i&gt; Lopatin, &lt;i&gt;Yunnaniata&lt;/i&gt; &lt;i&gt;konstantinovi&lt;/i&gt; Lopatin, &lt;i&gt;Calomicrus&lt;/i&gt; &lt;i&gt;yunnanus&lt;/i&gt; Lopatin, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;minutissimus&lt;/i&gt; Lopatin, &lt;i&gt;Hermaeophaga&lt;/i&gt; &lt;i&gt;belkadavi&lt;/i&gt; Konstantinov, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;dali&lt;/i&gt; Konstantinov from China, and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;korotyaevi&lt;/i&gt; Konstantinov from South Korea) are described and illustrated. A key to &lt;i&gt;Hermaeophaga&lt;/i&gt; species of Eurasia is presented. Since &lt;i&gt;Hermaeophaga&lt;/i&gt; &lt;i&gt;dali&lt;/i&gt; was collected feeding on &lt;i&gt;Paederia&lt;/i&gt; &lt;i&gt;foetida&lt;/i&gt; L. (Rubiaceae), which is an invasive noxious weed in the United States, this species has potential as a biological control agent of this weed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Leaf beetles; Chrysomelidae; new species; new genera; skunk vine; China; South Korea</subject>
+          <subject_class locale="en_US">Leaf beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>I.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lopatin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Konstantinov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2009-04-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new parasitoid of the Erythrina Gall Wasp, &lt;i&gt;Quadrastichus erythrinae &lt;/i&gt;Kim (Hymenoptera: Eulophidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Aprostocetus&lt;/i&gt; &lt;i&gt;exertus&lt;/i&gt; La Salle (Hymenoptera: Eulophidae: Tetrastichinae) is described as a parasitoid of the invasive Erythrina Gall Wasp, &lt;i&gt;Quadrastichus&lt;/i&gt; &lt;i&gt;erythrinae&lt;/i&gt; Kim (Hymenoptera: Eulophidae: Tetrastichinae). The description is based on material originally collected in Tanzania and South Africa. This species is described because of its potential as a biological control agent against the Erythrina Gall Wasp.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Eulophidae; invasive species; &lt;i&gt;Quadrastichus&lt;/i&gt;; parasitoid; &lt;i&gt;Aprostocetus&lt;/i&gt;; &lt;i&gt;Erythrina&lt;/i&gt;; Fabaceae</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <lastname>La Salle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohsen</firstname>
+          <lastname>Ramadan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernarr</firstname>
+          <middlename>R.</middlename>
+          <lastname>Kumashiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-26</pages>
+        <date_published>2009-04-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tetrastichine wasps (Hymenoptera: Chalcidoidea: Eulophidae) associated with galls on &lt;i&gt;Erythrina &lt;/i&gt;species (Fabaceae) in South Africa, with the description of five new species</title>
+        <abstract locale="en_US">Five new tetrastichine eulophid species are described from both sexes from South Africa: &lt;i&gt;Quadrastichus&lt;/i&gt; &lt;i&gt;ingens,&lt;/i&gt; &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;gallicola&lt;/i&gt; and &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;bardus&lt;/i&gt; induce leaf, petiole and shoot galls on indigenous &lt;i&gt;Erythrina&lt;/i&gt; species (Fabaceae); &lt;i&gt;Aprostocetus&lt;/i&gt; &lt;i&gt;nitens&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tritus&lt;/i&gt; are parasitoids of the &lt;i&gt;Quadrastichus&lt;/i&gt; species; &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;bardus&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nitens&lt;/i&gt; are also recorded from Tanzania and comments are provided on &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;exertus&lt;/i&gt; La Salle, known from Tanzania and South Africa as a parasitoid of &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;erythrinae&lt;/i&gt; Kim and &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;ingens.&lt;/i&gt; A key is provided for the separation of the six eulophid species now known from South Africa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Eulophidae; &lt;i&gt;Quadrastichus&lt;/i&gt;; &lt;i&gt;Aprostocetus&lt;/i&gt;; description; galls; &lt;i&gt;Erythrina&lt;/i&gt;; Fabaceae</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gerhard.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Prinsloo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janine.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kelly</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-45</pages>
+        <date_published>2009-04-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of Chinese species of the subgenus &lt;i&gt;Paederus s. str. &lt;/i&gt;(Coleoptera: Staphylinidae: Paederinae) with description of a new species</title>
+        <abstract locale="en_US">Chinese species of the subgenus &lt;i&gt;Paederus&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.&lt;/i&gt; (genus &lt;i&gt;Paederus&lt;/i&gt; Fabricius, 1775) are reviewed. &lt;i&gt;Paederus&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;xinjiangensis&lt;/i&gt; Li &amp; Zhou, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from Xinjiang, Northwest China. Male genitalia and other critical characters are illustrated for five other Chinese species of the subgenus &lt;i&gt;Paederus&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.,&lt;/i&gt; namely &lt;i&gt;P.&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;socius&lt;/i&gt; Bernhauer, 1916, &lt;i&gt;P.&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;coxalis&lt;/i&gt; Fauvel, 1895, &lt;i&gt;P.&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;parallelus&lt;/i&gt; Weise, 1877, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pilifer&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; Motschulsky, 1860 and &lt;i&gt;P.&lt;/i&gt; (s. &lt;i&gt;str.)&lt;/i&gt; &lt;i&gt;sondaicus&lt;/i&gt; Fauvel, 1895. A key to the six Chinese species of &lt;i&gt;Paederus&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str..&lt;/i&gt; is presented and their geographical distribution in China is mapped.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Staphylinidae; taxonomy; &lt;i&gt;Paederus&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.&lt;/i&gt;; new species; distribution</subject>
+          <subject_class locale="en_US">Staphylinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Yan</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong-Zhang</firstname>
+          <lastname>Zhou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-64</pages>
+        <date_published>2009-04-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Buobellenden jingyuanensis &lt;/i&gt;gen. et sp. nov. of the subfamily Pselaphinae (Coleoptera, Staphylinidae) from Northwestern China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shûhei</firstname>
+          <middlename>Nomura And Mei-Jun</middlename>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-04-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

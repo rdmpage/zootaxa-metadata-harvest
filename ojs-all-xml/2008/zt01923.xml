@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1923.1</id>
+    <title locale="en_US">5 Nov. 2008</title>
+    <volume>1923</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-11-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Dolichopoda &lt;/i&gt;in Greece. A description of new species from the Ionian Regions and Peloponnisos (Orthoptera, Rhaphidophoridae)</title>
+        <abstract locale="en_US">Description of five new &lt;i&gt;Dolichopoda&lt;/i&gt; species from the Ionian area of Western Greece together with a description of the female for &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pavesii&lt;/i&gt; from Kefalonia island and the male of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dalensi&lt;/i&gt; from North-eastern Peloponnisos are reported. Considering the other 6 species already documented in the area (including the North of the Peloponnisos), there is now a total of 11 recorded species of &lt;i&gt;Dolichopoda&lt;/i&gt; which currently inhabit the underground areas of this zone. These new data, therefore, help better define the already high diversity of the genus in the Hellenic region (25 species in all) reinforcing the hypothesis that there was a central area of dispersion of the &lt;i&gt;Dolichopoda&lt;/i&gt; in the ancient Aegean plate.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cave cricket; &lt;i&gt;Dolichopoda&lt;/i&gt;; new species; Greece</subject>
+          <subject_class locale="en_US">cave cricket</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mauro</firstname>
+          <lastname>Rampini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <middlename>Di</middlename>
+          <lastname>Russo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francesca</firstname>
+          <lastname>Pavesi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marina</firstname>
+          <lastname>Cobolli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2008-11-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology and DNA barcoding reveal three cryptic species within the &lt;i&gt;Xylophanes neoptolemus&lt;/i&gt; and &lt;i&gt;loelia&lt;/i&gt; species-groups (Lepidoptera: Sphingidae)</title>
+        <abstract locale="en_US">Two species complexes within the genus &lt;i&gt;Xylophanes&lt;/i&gt; are addressed using a combination of morphological study and analysis of DNA barcode sequences. The existence of two and three cryptic species respectively within the &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;loelia&lt;/i&gt; and &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;neoptolemus&lt;/i&gt; complexes is revealed following consideration of both adult habitus and genital morphology, and the results of a phylogenetic analysis of partial COI sequences—DNA barcodes—for 38 specimens. The taxonomic status of the available names is discussed and to clarify and stabilize the confused nomenclature of this group, a neotype for &lt;i&gt;Sphinx&lt;/i&gt; &lt;i&gt;neoptolemus&lt;/i&gt; Cramer, 1780, and lectotypes for &lt;i&gt;Choerocampa&lt;/i&gt; &lt;i&gt;loelia&lt;/i&gt; Druce, 1878 and &lt;i&gt;Chaerocampa&lt;/i&gt; &lt;i&gt;trilineata&lt;/i&gt; Walker, [1865], are designated. We describe three new species: &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;lolita&lt;/i&gt; n. sp. Vaglia and Haxaire; &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;balcazari&lt;/i&gt; n. sp. Haxaire and Vaglia; and &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;cthulhu&lt;/i&gt; n. sp. Haxaire and Vaglia. The first is endemic to southeastern Brazil and closely allied to &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;loelia;&lt;/i&gt; the second two are relatives of &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;neoptolemus,&lt;/i&gt; of which the first is known only from Guerrero and Michoacán states in Mexico while the second is widely distributed in lowland forests of Central America.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">COI; DNA barcodes; new species; South America; Central America</subject>
+          <subject_class locale="en_US">COI</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thierry</firstname>
+          <lastname>Vaglia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean</firstname>
+          <lastname>Haxaire</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ian</firstname>
+          <middlename>J.</middlename>
+          <lastname>Kitching</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Isabelle</firstname>
+          <lastname>Meusnier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodolphe</firstname>
+          <lastname>Rougerie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-36</pages>
+        <date_published>2008-11-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology of the eggs and larvae of &lt;i&gt;Cyphomyrmex transversus&lt;/i&gt; Emery (Formicidae: Myrmicinae: Attini) and a note on the relationship with its symbiotic fungus</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lucimeire</firstname>
+          <lastname>De S. Ramos Lacau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claire</firstname>
+          <lastname>Villemant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Odair</firstname>
+          <middlename>C.</middlename>
+          <lastname>Bueno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname></firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-54</pages>
+        <date_published>2008-11-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Aphelocheirus (Aphelocheirus) narmadaensis &lt;/i&gt;sp. nov. (Hemiptera: Nepomorpha: Aphelocheiridae) from Madhya Pradesh, India</title>
+        <abstract locale="en_US">&lt;i&gt;Aphelocheirus&lt;/i&gt; &lt;i&gt;(Aphelocheirus)&lt;/i&gt; &lt;i&gt;narmadaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hemiptera: Aphelocheiridae) is described and illustrated from Central India (Madhya Pradesh). A list of congeners so far known from India and their distributional records are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aphelocheiridae; &lt;i&gt;Aphelocheirus&lt;/i&gt; &lt;i&gt;narmadaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Madhya Pradesh; Indian distributional records</subject>
+          <subject_class locale="en_US">Aphelocheiridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Thirumalai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-61</pages>
+        <date_published>2008-11-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New data on the genus &lt;i&gt;Ascaphium&lt;/i&gt; Lewis (Coleoptera, Staphylinidae, Scaphidiinae) of China</title>
+        <abstract locale="en_US">Three species of genus &lt;i&gt;Ascaphium&lt;/i&gt; are recorded from China, including &lt;i&gt;Ascaphium&lt;/i&gt; &lt;i&gt;longlingense&lt;/i&gt; He, Tang &amp; Li, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ingentis&lt;/i&gt; He, Tang &amp; Li, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Yunnan Province. The male of &lt;i&gt;Ascaphium&lt;/i&gt; &lt;i&gt;alticola&lt;/i&gt; Löbl is discovered and described for the first time. A key to &lt;i&gt;Ascaphium&lt;/i&gt; species of China is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera Staphylinidae; &lt;i&gt;Ascaphium&lt;/i&gt;; new species; new records; identification key; China</subject>
+          <subject_class locale="en_US">Coleoptera Staphylinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wen-Jia</firstname>
+          <lastname>He</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liang</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li-Zhen</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2008-11-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

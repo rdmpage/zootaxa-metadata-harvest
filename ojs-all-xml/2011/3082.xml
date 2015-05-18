@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3082.1</id>
+    <title locale="en_US">28 Oct. 2011</title>
+    <volume>3082</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of Nematoda associated with the fishes of Brazil</title>
+        <abstract locale="en_US">Seventy-four genera comprising approximately 140 named and 75 undetermined species of adult and larval nematodes are associated with about 330 named and 50 undetermined species of marine, brackish and freshwater fishes from Brazilian waters. These are listed with information on their hosts, habitat, distribution and records. A key to these parasites at the generic level is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biodiversity; Nematoda; fish parasites; checklist; key; Neotropics; Brazil</subject>
+          <subject_class locale="en_US">Biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>L.</middlename>
+          <lastname>Luque</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julio</firstname>
+          <middlename>C.</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabiano</firstname>
+          <middlename>M.</middlename>
+          <lastname>Vieira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>I.</middlename>
+          <lastname>Gibson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cláudia</firstname>
+          <middlename>Portes</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-88</pages>
+        <date_published>2011-10-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

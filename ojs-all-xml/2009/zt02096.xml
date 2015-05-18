@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Full article (PDF; 20KB) &lt;span style="background-color: #1694C9"&gt; open access &lt;/span&gt; </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname></firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2096.1</id>
+    <title locale="en_US">11 May. 2009</title>
+    <volume>2096</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Editorial: Deep-sea taxonomy  a contribution to our knowledge of biodiversity</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wiebke</firstname>
+          <lastname>Brökeland</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kai</firstname>
+          <middlename>Horst</middlename>
+          <lastname>George</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>6-8</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and two new species of saccamminid foraminiferans (Protista, Rhizaria) from the deep Southern Ocean</title>
+        <abstract locale="en_US">We describe two new species of spherical single-chambered ('saccamminid') foraminifera from the bathyal and abyssal Weddell Sea (Southern Ocean), collected in epibenthic sledge and Agassiz trawl samples obtained during the 2005 ANDEEP III campaign. Both are assigned to &lt;i&gt;Leptammina&lt;/i&gt; gen. nov. The new genus is similar in overall test morphology to &lt;i&gt;Saccammina&lt;/i&gt; Carpenter, 1869; it is distinguished mainly by its test wall, which is delicate, flexible and composed of fine mineral grains, rather than being rigid and coarsely agglutinated. In &lt;i&gt;Leptammina&lt;/i&gt; &lt;i&gt;grisea&lt;/i&gt; gen. et sp. nov., the test wall is relatively thick, grayish with a violet tinge and a dull surface; the cytoplasm is dark greenish. In &lt;i&gt;Leptammina&lt;/i&gt; &lt;i&gt;flavofusca&lt;/i&gt; gen. et sp. nov., the test is yellowish brown, with a very finely, almost transluscent agglutinated wall; the cytoplasm is pale yellowish. Both species have prominent circular apertures. Maximum likelihood phylogenetic analysis of SSU rRNA gene data showed that both species group together with an undescribed shallow-water Antarctic species (“silver saccamminid”) in a very strongly supported clade (100 %). &lt;i&gt;Leptammina&lt;/i&gt; &lt;i&gt;grisea&lt;/i&gt; gen. et sp. nov. is a relatively uncommon species (29 specimens from 3 stations), found at 1580–4822 m depth in the central and north–western Weddell Sea; &lt;i&gt;Leptammina&lt;/i&gt; &lt;i&gt;flavofusca&lt;/i&gt; gen. et sp. nov. is common (398 specimens from 4 stations) at depths of 3138–4795 m in the central Weddell Sea and off Kapp Norvegia. Both species are presently known only from ANDEEP III samples.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Foraminifera; Weddell Sea; Antarctica; &lt;i&gt;Leptammina&lt;/i&gt;; Taxonomy; Deep Sea; ANDEEP</subject>
+          <subject_class locale="en_US">Foraminifera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomas</firstname>
+          <lastname>Cedhagen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>J.</middlename>
+          <lastname>Gooday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Pawlowski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>9-22</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Global genetic homogeneity in the deep-sea foraminiferan &lt;i&gt;Epistominella exigua &lt;/i&gt;(Rotaliida: Pseudoparrellidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Epistominella&lt;/i&gt; &lt;i&gt;exigua&lt;/i&gt; is one of the most common deep-sea foraminiferal morphospecies and has a world-wide distribution. A recent molecular study revealed high genetic similarity between Arctic, Atlantic and Antarctic populations of this species. Here, we show that the small-subunit (SSU) and internal transcribed spacer (ITS) rDNA sequences of an &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;exigua&lt;/i&gt; population from Pacific are almost identical to those reported previously from the other three oceans. This result confirms the genetic homogeneity of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;exigua,&lt;/i&gt; which contrasts with the prevalence of highly differentiated populations in planktonic and shallow-water benthic foraminiferans. We discuss special features of diversifications mechanisms in the deep sea that may be responsible for the lack of genetic differentiation and global distribution of some meiofauna species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">deep-sea diversity; meiofauna; Foraminifera; SSU rDNA; ITS rDNA; geographic distribution</subject>
+          <subject_class locale="en_US">deep-sea diversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Beatrice</firstname>
+          <lastname>Lecroq</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>John</middlename>
+          <lastname>Gooday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Pawlowski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-32</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Culexiregiloricus&lt;/i&gt;, a new genus of Nanaloricidae (Loricifera) from the deep sea of the Guinea Basin (Southeast Atlantic)</title>
+        <abstract locale="en_US">A postlarva of Nanaloricidae (Loricifera) was found in the deep sea of the Guinea Basin. This postlarva belongs to a new species, &lt;i&gt;Culexiregiloricus&lt;/i&gt; &lt;i&gt;trichiscalida,&lt;/i&gt; which also represents a new genus. It inhabits clayish sediments with a high amount of calcitic multi-chambered shells of recent planktonic foraminiferans of 0.25 to 1.5 mm in size. This is the third report of a species of Nanaloricidae from a deep-sea habitat. The postlarva is characterized by a mouth cone divided in a short basal section and being drawn out terminally in to a long and slim mouth tube as second section. It also has distinct filiform and delicate clavoand spinoscalis of the second and third rows all covered with minute trichoids, a lorica divided into eight plates (four broad and four narrow ones, some of which have two to eight transversal undulations) and eight wide intercalary plicae (six broad and two narrow ones, with distinct longitudinal folds), 14 lorica spikes of medium size along anterior rim of lorica. Other characters include eight dorsal papillated flosculi, of which six form clusters of three each on dorsolateral plates, and a caudal end with a broad ventral plate flanked longitudinally by massive elevated cuticular ridges. Together with the three species of the genus &lt;i&gt;Armorloricus&lt;/i&gt; and one species of the genus &lt;i&gt;Phoeniciloricus,&lt;/i&gt; the new species may form a specific species-group within Nanaloricidae, which is characterized by a long and slim mouth tube as the most obvious character.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">deep-sea meiofauna; southeast Atlantic deep-sea basins; Meteor Cruise M63/2; DIVA 2</subject>
+          <subject_class locale="en_US">deep-sea meiofauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gunnar</firstname>
+          <lastname>Gad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-49</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A clearly identifiable postlarva in the life cycle of a new species of &lt;i&gt;Pliciloricus &lt;/i&gt;(Loricifera) from the deep sea of the Angola Basin</title>
+        <abstract locale="en_US">A newly discovered species of &lt;i&gt;Pliciloricus&lt;/i&gt; from the deep sea of the Angola Basin (Namibia, Atlantic) seems to have two types of postlarvae in its life cycle. Type I is a simplified but clearly identifiable postlarval stage, the other type II consists only of a thin layer of cuticle as the remnant of a postlarva. Both types contain adults that have moulted from them. The simplified type I postlarva has a fully developed lorica with an ornamentation identical to that of the adult, but other body regions are reduced with only a few structures left. The discovery of this clearly identifiable postlarva is important, because it supports the conclusion that &lt;i&gt;Pliciloricus-species&lt;/i&gt; originally moults from postlarval stages as well as other taxa of Loricifera. Furthermore, it could be concluded that the simple cuticle layer surrounding most adults found during their metamorphosis is the remnant of a postlarval stage. The life cycle of the new species seems to include two phases. After to the bisexual is a unisexual phase, represented by a simplified parthenogenetic adult stage which lacks most parts of the adult morphology. The adults of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;diva&lt;/i&gt; sp. n. differ from other species in having among others (1) a mouth cone with four strong cuticular bars plus eight primary oral ridges; (2) leaf-like clavoscalids which are very broad basally and narrow distally, and have more than 22 transverse cross walls; (3) a strongly sclerotized double-organ consisting of four rami; (4) large spinoscalids of second row shorter than clavoscalids, (5) short type B spinoscalids of fourth row with claw-tips and with a double row of five teeth as well as distally with a double row of minute denticles; (6) an anterior margin of the lorica with bicuspid protrusions and specific crescent-shaped ornamentations; (7) a midventral plica with five bar-like transversal strengthened ridges. Distinguishing features of the Higgins-larva are (1) short clavoscalids with broad second segments; (3) a collar with seven flosculi located in small pits; posterolateral setae being short but strong and pod-like. The study also revealed new information about the double-organ of the adult and the buccal structures of the Higgins-larva.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">deep-sea meiofauna; Angola Basin; DIVA 1</subject>
+          <subject_class locale="en_US">deep-sea meiofauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gunnar</firstname>
+          <lastname>Gad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-81</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Sabatieria &lt;/i&gt;Rouville (Nematoda: Comesomatidae) with conical-cylindrical tails, from Campos Basin, Rio de Janeiro, Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Sabatieria&lt;/i&gt; is the most abundant nematode genus on the Campos Basin continental slope. Two new species are described here. &lt;i&gt;Sabatieria&lt;/i&gt; &lt;i&gt;exilis&lt;/i&gt; sp. n. has a small rounded head and a narrow pharynx with a cuticularized anterior end. &lt;i&gt;Sabatieria&lt;/i&gt; &lt;i&gt;fidelis&lt;/i&gt; sp. n. has a short outstretched testis, spicules directed ventrally and shaped like the tip of a dropper, the gubernaculum with a v-shaped cuticularized area in the distal part, short cephalic and somatic setae, and a longer tail.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Meiofauna; Deep Sea; Benthos; Atlantic Ocean; Taxonomy</subject>
+          <subject_class locale="en_US">Meiofauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alessandra</firstname>
+          <middlename>Prates</middlename>
+          <lastname>Botelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luciana</firstname>
+          <middlename>Davina Tosta</middlename>
+          <lastname>Sobral</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Verônica</firstname>
+          <middlename>Gomes</middlename>
+          <lastname>Fonsêca-Genevois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>82-98</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Epacanthion &lt;/i&gt;(Thoracostomopsidae, Nematoda) from Brazil and a modified key for species identification</title>
+        <abstract locale="en_US">&lt;i&gt;Epacanthion&lt;/i&gt; &lt;i&gt;agubernaculus&lt;/i&gt; sp. nov. (Thoracostomopsidae, Nematoda) is described from sediments of Campos Basin, Atlantic Southeast, Brazil. The main features are: the long spicules, the absence of gubernaculum, and the presence of three pairs of setae in the tail region. Only one male was found for description, but the main features are strong enough to consider it clearly as a new species. An updated and modified key for species identification is proposed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">free-living marine nematodes; deep sea; Campos Basin</subject>
+          <subject_class locale="en_US">free-living marine nematodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Betânia</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Guilherme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <middlename>Morgado</middlename>
+          <lastname>Esteves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>99-108</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Spirodesma magdae &lt;/i&gt;nov. gen. nov. sp. (Nematoda: Desmodoridae) from the Brazilian deep sea (Campos Basin, Rio de Janeiro, Brazil)</title>
+        <abstract locale="en_US">A new genus and species of Desmodoridae was found in deep-sea sediments of the Campos Basin. Although the cuticle annulation of the new species is similar to members of Desmodorinae, many morphological features are strong enough to classify it within the Spiriniinae. &lt;i&gt;Spirodesma&lt;/i&gt; &lt;i&gt;magdae&lt;/i&gt; nov. gen. nov. sp. is characterized mainly by the presence of a unique form of unispired amphids, with circular amphideal fovea, and a buccal cavity with three equal teeth, one dorsal and two ventrosublateral.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spiriniinae; new genus; new species; marine taxonomy</subject>
+          <subject_class locale="en_US">Spiriniinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mariana</firstname>
+          <lastname>Da Fonseca Cavalcanti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Verônica</firstname>
+          <lastname>Da Fonsêcagenevois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>109-118</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of &lt;i&gt;Syringolaimus &lt;/i&gt;De Man, 1888 (Nematoda: Ironidae) from the Southeast Atlantic (Brazil), with redefinition of valid species and the proposal of a new key</title>
+        <abstract locale="en_US">&lt;i&gt;Syringolaimus&lt;/i&gt; is the most abundant and diverse genus of the family Ironidae (Nematoda) found in the Campos Basin, off Rio de Janeiro, Brazil. In this article, four new species of this genus are described. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;annae&lt;/i&gt; sp. n. is characterized by a conical-cylindrical tail without a spinneret. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;magdae&lt;/i&gt; sp. n. possesses a pair of ejaculatory glands located in the precloacal region, and a spinneret, which comprises 21.2% of the total tail length. In &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;smolae&lt;/i&gt; sp. n. the spicule is setiform. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;taniae&lt;/i&gt; sp. n. has the anterior region of the tail rounded, with its terminal portion cylindrical-filiform.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">marine nematodes; deep sea</subject>
+          <subject_class locale="en_US">marine nematodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rita</firstname>
+          <lastname>De Cássia Coelho Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lidia</firstname>
+          <lastname>Lins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <middlename>Morgado</middlename>
+          <lastname>Esteves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>119-136</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Deep-sea nematodes of the family Microlaimidae from the Clarion-Clipperton Fracture Zone (North-Eastern Tropic Pacific), with the descriptions of three new species</title>
+        <abstract locale="en_US">The description of six species of family Microlaimidae (Nematoda), from 5,000 m depth at the Clarion-Clipperton Fracture Zone (North-Eastern Tropic Pacific), is given. Three previously described species (Microlaimus &lt;i&gt;discolensis&lt;/i&gt; Bussau et Vopel, 1999; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;porosus&lt;/i&gt; Bussau et Vopel, 1999; and &lt;i&gt;Caligocanna&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; Bussau et Vopel, 1999) were found about 5200 km far from the area where the type specimens were originally discovered (the Peru Basin, South-East Pacific). Of the new species, &lt;i&gt;Aponema&lt;/i&gt; &lt;i&gt;martinezi&lt;/i&gt; sp. n. is closest to two other &lt;i&gt;Aponema&lt;/i&gt; species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minutissima&lt;/i&gt; Kovalyov and Miljutina, 2008 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nanum&lt;/i&gt; (Blome, 1982). However, it differs from them in having a non-set-off head, amphids located quite far from the non-annulated cephalic capsule, and by possessing the gubernaculum with the apophysis. &lt;i&gt;Microlaimus&lt;/i&gt; &lt;i&gt;abyssalis&lt;/i&gt; sp. n. belongs to a group of &lt;i&gt;Microlaimus&lt;/i&gt; species with dorsocaudal apophyses of gubernaculum. It differs from other four &lt;i&gt;Microlaimus&lt;/i&gt; species which have apophyses of similar shape (M. &lt;i&gt;crassiceps&lt;/i&gt; Gerlach, 1953; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;decraemerae&lt;/i&gt; (Muthumbi &amp; Vincx, 1999); &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mnazi&lt;/i&gt; (Muthumbi &amp; Vincx, 1999); and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;undulates&lt;/i&gt; Gerlach, 1953) by lacking of supplementary precloacal organs in males and some other body parameters. &lt;i&gt;Microlaimus&lt;/i&gt; &lt;i&gt;parviporosus&lt;/i&gt; sp. n. possesses four submedian rows of pores along its entire body length. In this feature it resembles three other &lt;i&gt;Microlaimus&lt;/i&gt; species (M. &lt;i&gt;cyatholaimoides&lt;/i&gt; de Man, 1922; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;discolensis&lt;/i&gt; Bussau and Vopel, 1999; and M. &lt;i&gt;porosus&lt;/i&gt; Bussau and Vopel, 1999). The new species differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cyatholaimoides&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;porosus&lt;/i&gt; by the ratio of the length of the outer labial setae and of the cephalic setae (approximately of equal length in the new species vs. the much longer cephalic setae in two latter species) as well as some other parameters. The new species differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;discolensis&lt;/i&gt; by its shorter head setae of two rings (1.2 μm vs. 6–9 μm) and some other parameters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aponema&lt;/i&gt;; biodiversity; &lt;i&gt;Caligocanna&lt;/i&gt;; deep sea; &lt;i&gt;Microlaimus&lt;/i&gt;; manganese nodules; oozy sediments; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aponema&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dimitry</firstname>
+          <middlename>M.</middlename>
+          <lastname>Miljutin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>A.</middlename>
+          <lastname>Miljutina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>137-172</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of &lt;i&gt;Bathynema nodinauti &lt;/i&gt;gen. n., sp. n. and four new &lt;i&gt;Trophomera &lt;/i&gt;species (Nematoda: Benthimermithidae) from the Clarion-Clipperton Fracture Zone (Eastern Tropic Pacific), supplemented with the keys to genera and species</title>
+        <abstract locale="en_US">Seven specimens of the family Benthimermithidae from the Clarion-Clipperton Fracture Zone (Eastern Tropic Pacific), from the depths 4,800–5,040 m, were examined. &lt;i&gt;Bathynema&lt;/i&gt; &lt;i&gt;nodinauti&lt;/i&gt; gen. et sp. n. is described. The new genus differs from other genera of Benthimermithidae by the presence of an inner pharyngeal lumen. Four new species of &lt;i&gt;Trophomera&lt;/i&gt; are also described. Body length of female of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;elegantis&lt;/i&gt; sp. n. approximately 1.5 mm; body cylindrical, anterior and posterior ends in shape of rounded cone; cephalic setae 2.0–2.5 μm long; trophosome consisting of 1 row of cells; female reproductive system didelphic, amphidelphic, occupying approximately 1/6 of total body length; ovaries reflected; diameter of mature eggs 17 μm; males not found. Body length of female of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;minutissima&lt;/i&gt; sp. n. 0.9 mm; body cylindrical, with thickest body part at anterior half of body; anterior and posterior ends rounded; cephalic setae 1.5 μm long; trophosome consisting of 1 row of cells; female reproductive system didelphic, amphidelphic, occupying approximately 1/3 of total body length; ovaries reflected; size of mature eggs 24x23 μm; males not found. Body length of female of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;pacifica&lt;/i&gt; sp. n. 5.4 mm; body cylindrical, anterior end rounded; posterior end conical, with thick conical terminal spine 81 μm long, showing granular core; cephalic setae 2.5 μm long inserted in tiny pits; trophosome consisting of 1 row of cells; female reproductive system didelphic, amphidelphic, occupying approximately 2/3 of total body length; ovaries outstretched; size of mature eggs 34x20 μm; males not found. Body length of female of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;senckenbergi&lt;/i&gt; sp. n. 1.6 mm; body fusiform; anterior and posterior ends in shape of a cone with rounded tip; cephalic setae 2 μm long; trophosome consisting of 1 row of cells; female reproductive system didelphic, amphidelphic, occupying approximately 1/6 of total body length; ovaries non-reflected; males not found. The new finding of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;marionensis&lt;/i&gt; is recorded. One rest specimen (in bad condition) of a new species is described as a morphotype. A dichotomous key to the genera of the Benthimermithidae and tabular keys to &lt;i&gt;Trophomera&lt;/i&gt; species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Benthimermis&lt;/i&gt;; biodiversity; deep sea; taxonomy; manganese nodule; oozy sediments; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Benthimermis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dimitry</firstname>
+          <middlename>M.</middlename>
+          <lastname>Miljutin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>A.</middlename>
+          <lastname>Miljutina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>173-196</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Free-living nematodes from the deep-sea Håkon Mosby Mud Volcano, including the description of two new and three known species</title>
+        <abstract locale="en_US">Two new and three known species of the genera &lt;i&gt;Aponema&lt;/i&gt; Jensen, 1978, &lt;i&gt;Molgolaimus&lt;/i&gt; Ditlevsen, 1921, &lt;i&gt;Sabatieria&lt;/i&gt; Rouville, 1903, and &lt;i&gt;Terschellingia&lt;/i&gt; De Mann, 1888 were found at the deep-sea Håkon Mosby Mud Volcano, at a depth of 1250m, in the Norwegian Sea. &lt;i&gt;Aponema&lt;/i&gt; &lt;i&gt;ninae&lt;/i&gt; sp. n. is characterized by short body length, short spicules, gubernaculum with wide apophyses, which are bevelled on the top, and long narrowed tail with drop-shape thickened tip and caudal setae. The new species most resembles &lt;i&gt;Aponema&lt;/i&gt; &lt;i&gt;torosa&lt;/i&gt; (Lorenzen, 1973). &lt;i&gt;Molgolaimus&lt;/i&gt; &lt;i&gt;haakonmosbiensis&lt;/i&gt; sp. n. differs from all other species of &lt;i&gt;Molgolaimus&lt;/i&gt; by shape and length of spicules; relations of spicule length to the anal body diameter; presence of two supplements. Spicules of the new species are short (30.5 µm), slender, twisted with amplate and excurved proximal parts. The appearance of our specimen of &lt;i&gt;Sabatieria&lt;/i&gt; &lt;i&gt;ornata&lt;/i&gt; fits well with the original description of Ditlevsen, 1918. Specimens of &lt;i&gt;Terschellingia&lt;/i&gt; &lt;i&gt;distlamphida&lt;/i&gt; Juario, 1974 also fit the original description based on nematodes sampled from the sub littoral of the German Bight. However, the Norwegian specimens have a shorter (1010 µ m vs. 1343 µ m) and thicker body (a=64.6 µ m vs. a=32.0 µm). The Håkon Mosby specimens of &lt;i&gt;Terschellingia&lt;/i&gt; &lt;i&gt;longicaudata&lt;/i&gt; De Mann, 1907 differ from the original description in body length and thickness: 1094 µm vs. 1429 µm, and a=22.3 µm vs. 49.0 µm correspondingly, but agree with descriptions by other authors, especially with the one by Chitwood (1951).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aponema&lt;/i&gt;; marine nematodes; &lt;i&gt;Molgolaimus&lt;/i&gt;; mud volcano; &lt;i&gt;Sabatieria&lt;/i&gt;; taxonomy; &lt;i&gt;Terschellingia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aponema&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daria</firstname>
+          <lastname>Portnova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>197-213</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of four new species of &lt;i&gt;Mesocletodes &lt;/i&gt;Sars, 1909 (Copepoda, Harpacticoida, Argestidae) and redescription of &lt;i&gt;Mesocletodes robustus &lt;/i&gt;Por, 1965 from the South Atlantic, including remarks on the &lt;i&gt;Mesocletodes abyssicola&lt;/i&gt;-group</title>
+        <abstract locale="en_US">The present paper focuses on taxonomic and phylogenetic investigations of the family Argestidae Por, 1986. Samples, collected during the cruise DIVA 1 (M48/1) to the Angola Basin on board of RV “Meteor” (2000), contain amongst others several specimens belonging to the &lt;i&gt;Mesocletodes&lt;/i&gt; &lt;i&gt;abyssicola-group&lt;/i&gt; (Harpacticoida, Argestidae) which includes ten species so far. This paper deals with the description of &lt;i&gt;Mesocletodes&lt;/i&gt; &lt;i&gt;angolaensis&lt;/i&gt; sp. nov., &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bicornis&lt;/i&gt; sp. nov., &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dorsiprocessus&lt;/i&gt; sp. nov. and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;meteorensis&lt;/i&gt; sp. nov. as well as the redescription of &lt;i&gt;Mesocletodes&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Por, 1965. The four new species bear cuticular processes on the cephalothorax and/or telson, as is characteristic for the &lt;i&gt;Mesocletodes&lt;/i&gt; &lt;i&gt;abyssicola-group.&lt;/i&gt; These processes are supposed to be of high phylogenetic value, since they do not occur in any other taxon within the Argestidae, and are always inserted at the same position. Therefore, the &lt;i&gt;Mesocletodes&lt;/i&gt; &lt;i&gt;abyssicola-group&lt;/i&gt; is herein considered monophyletic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">deep sea; Angola Basin; DIVA; taxonomy</subject>
+          <subject_class locale="en_US">deep sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lena</firstname>
+          <lastname>Menzel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kai</firstname>
+          <middlename>Horst</middlename>
+          <lastname>George</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>214-256</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of two new species of &lt;i&gt;Dorsiceratus &lt;/i&gt;Drzycimski, 1967 (Copepoda: Harpacticoida: Ancorabolidae) from Sedlo and Seine Seamounts (Northeastern Atlantic) and remarks on the phylogenetic status of the genus</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Dorsiceratus&lt;/i&gt; Drzycimski, 1967 (Copepoda, Harpacticoida, Ancorabolidae), &lt;i&gt;Dorsiceratus&lt;/i&gt; &lt;i&gt;wilhelminae&lt;/i&gt; sp. nov. and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dinah&lt;/i&gt; sp. nov. are described from Sedlo and Seine Seamounts, respectively (both northeast Atlantic). These are the first records of &lt;i&gt;Dorsiceratus&lt;/i&gt; species from seamount summits. Both new species resemble the described species &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;octocornis&lt;/i&gt; Drzycimski, 1967, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;triarticulatus&lt;/i&gt; Coull, 1973, and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ursulae&lt;/i&gt; George, 2006, with respect to most morphological features. On the other hand, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;wilhelminae&lt;/i&gt; sp. nov. has long spinules at the inner margin of the A2 enp, while &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dinah&lt;/i&gt; sp. nov. bears two, rather than one, tubepores dorsally on third abdominal somite, and a geniculate first outer seta on P1 exp2. These characters are considered as apomorphic relative to the described &lt;i&gt;Dorsiceratus&lt;/i&gt; species. As discussed in the present paper, the maintenance of a genus &lt;i&gt;Dorsiceratus&lt;/i&gt; appears to be problematic. Although specimens may be assigned without difficulty to a group “Dorsiceratus”, such assignments are based on diagnostic features only; no clear-cut apomorphies have been detected so far to characterize the monophyly of &lt;i&gt;Dorsiceratus.&lt;/i&gt; Just two apomorphic characters appear to be synapomorphies for all of the described &lt;i&gt;Dorsiceratus&lt;/i&gt; species: 1) P2 enp2 with one rather than two setae and 2) P4 exp sexually dimorphic. Unfortunately, these features are relatively widespread within the &lt;i&gt;Ceratonotus-group&lt;/i&gt; sensu Conroy-Dalton (2001) and therefore of rather low value. The authors decided, however, to retain the genus &lt;i&gt;Dorsiceratus&lt;/i&gt; until new insights provide more information to support or disprove that hypothesis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematics; deep sea; seamounts; OASIS; Ancorabolinae; &lt;i&gt;Ceratonotus-group&lt;/i&gt;; &lt;i&gt;Dorsiceratus&lt;/i&gt; &lt;i&gt;wilhelminae&lt;/i&gt; sp. nov.; &lt;i&gt;Dorsiceratus&lt;/i&gt; &lt;i&gt;dinah&lt;/i&gt; sp.nov.</subject>
+          <subject_class locale="en_US">Systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kai</firstname>
+          <middlename>Horst</middlename>
+          <lastname>George</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christoph</firstname>
+          <lastname>Plum</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>257-286</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Pseudomesochrinae Willen, 1996 (Copepoda, Harpacticoida, Pseudotachidiidae) from the Guinea Basin</title>
+        <abstract locale="en_US">A new species of the new genus &lt;i&gt;Keraia&lt;/i&gt; gen. nov. from the Guinea Basin is described in the present paper. The new taxon belongs to the Pseudomesochrinae Willen, 1996, which until now has contained only the genus &lt;i&gt;Pseudomesochra&lt;/i&gt; T. Scott, 1902. Both genera are prevalent in the deep sea. Whereas &lt;i&gt;Pseudomesochra&lt;/i&gt; reaches quite high individual and species numbers in the investigated samples of the DIVA 1, DIVA 2 and ANDEEP deep-sea expeditions, &lt;i&gt;Keraia&lt;/i&gt; is found only occasionally and as single specimens. &lt;i&gt;Keraia&lt;/i&gt; is characterised among others by a modified antenna exopodite and the shape of P1. &lt;i&gt;Pseudomesochra&lt;/i&gt; on the other hand can still be identified as a monophylum by specialised setation on the P1 endopodite and the lack of the inner setae of the first segment of swimming leg exopodites. Other species of &lt;i&gt;Keraia&lt;/i&gt; gen. nov. are &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;longiseta&lt;/i&gt; (Vasconcelos, George &amp; Santos 2008) and the type species &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;tamara&lt;/i&gt; (Smirnov, 1946). The available records implicate a widespread occurrence of &lt;i&gt;Keraia&lt;/i&gt; gen. nov. from the northern to the southern Atlantic, and even reaching both northern and southern polar regions. Up to now all individuals that have been found occur exclusively at deep-sea sites and in very low abundances.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Keraia&lt;/i&gt;; new species; systematics; deep sea; meiofauna</subject>
+          <subject_class locale="en_US">&lt;i&gt;Keraia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elke</firstname>
+          <lastname>Willen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janine</firstname>
+          <lastname>Dittmar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>287-298</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Nyxis rostrocularis, &lt;/i&gt;a new genus and species of Paranannopinae Por, 1986 (Copepoda, Harpacticoida) from the Southern Atlantic deep sea</title>
+        <abstract locale="en_US">The species diversity of Copepoda Harpacticoida at several sampling locations in the Southern Atlantic has been investigated. From the obtained multicorer samples, a new taxon of Paranannopinae Por, 1986, &lt;i&gt;Nyxis&lt;/i&gt; &lt;i&gt;rostrocularis&lt;/i&gt; gen. nov., sp. nov., has been collected, which is described in the present paper. Specimens of the taxon have been encountered in the Angola Basin (DIVA 1 stations 325 and 346), in the Weddell Sea (ANDEEP station 138) and the Cape Basin (DIVA 1I station 36). &lt;i&gt;Nyxis&lt;/i&gt; gen. nov. belongs to the group of paranannopid taxa bearing mouthpart aesthetascs. It can be characterised by several autapomorphies discussed in this paper, but takes up a quite isolated position within the Paranannopinae bearing mouthpart aethetascs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematics; mouthpart aesthetascs; deep sea; Southern Atlantic; meiofauna</subject>
+          <subject_class locale="en_US">Systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elke</firstname>
+          <lastname>Willen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>299-312</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kliopsyllus schminkei &lt;/i&gt;sp. n. (Copepoda, Harpacticoida, Paramesochridae)  a new copepod from the southeast Atlantic deep sea (Angola Basin)</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Kliopsyllus&lt;/i&gt; (Paramesochridae) has been collected with a multicorer from the abyssal Angola Basin in 2000 (on the DIVA-1 cruise, RV Meteor 48/1). &lt;i&gt;Kliopsyllus&lt;/i&gt; &lt;i&gt;schminkei&lt;/i&gt; sp. n. is the second most abundant &lt;i&gt;Kliopsyllus-&lt;/i&gt; species in the Angola Basin and raises the number of valid members of the genus to 33. The new species is placed in the genus &lt;i&gt;Kliopsyllus&lt;/i&gt; because of its typical segmentation and the setation of the swimming legs. &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;schminkei&lt;/i&gt; sp. n. is unique within the genus and can be distinguished from the other species by a large apical pore on the P5 baseoendopodal lobes of the male, a length:width ratio of the furcal rami of 9 to 10:1 in both sexes, and an exceptional ratio of the length of the furcal rami to the whole body size of one fourth in the female and one fifth in the male. The new species is one of the four deep-sea &lt;i&gt;Kliopsyllus-species&lt;/i&gt; described until now.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Kliopsyllus&lt;/i&gt;; species description; abyssal plains; diversity; taxonomy; biogeography</subject>
+          <subject_class locale="en_US">&lt;i&gt;Kliopsyllus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gritta</firstname>
+          <lastname>Veit-Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Drewes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>313-326</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Kliopsyllus &lt;/i&gt;Kunz, 1962 (Copepoda Harpacticoida, Paramesochridae) from Northeastern Brazil with description of the deep-sea species &lt;i&gt;Kliopsyllus minor &lt;/i&gt;sp. nov.</title>
+        <abstract locale="en_US">Sediment samples were collected from the deep sea adjacent to the State of Sergipe (Northeastern Brazil) within the framework of the Sergipe Continental Slope Environmental Characterization Project (coordinated by PETROBRAS, the Brazilian Petroleum Company S/A). These revealed a new species of the family Paramesochridae (Copepoda, Harpacticoida). &lt;i&gt;Kliopsyllus&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; sp. nov. is the smallest species discovered in this genus, with a body length of 0.19 mm in the adult male. Furthermore, it is one of the three &lt;i&gt;Kliopsyllus&lt;/i&gt; species registered from the deep sea so far. In almost all &lt;i&gt;Kliopsyllus&lt;/i&gt; species, the endopod of P4 is one-segmented. Only three species, i.e. &lt;i&gt;Kliopsyllus&lt;/i&gt; &lt;i&gt;andeep&lt;/i&gt; Veit-Köhler, 2004 from the abyssal Weddell Sea, a new species by Veit-Köhler and Thistle from the San Diego Trough (deep Pacific Ocean) and the new species presented here, show a two-segmented endopod in the P4. &lt;i&gt;Kliopsyllus&lt;/i&gt; &lt;i&gt;andeep&lt;/i&gt; is distinguished by the presence of strong, chitinous processes at the telson, and additional setae at the endopods of P3 and P4. The new Pacific species and the new species from Brazil can be distinguished by the shape of the segments of the swimming legs and detailed characteristics of their setae and spines.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Deep sea; Diversity; Harpacticoida; Paramesochridae; &lt;i&gt;Kliopsyllus;&lt;/i&gt; Sergipe; Atlantic Ocean</subject>
+          <subject_class locale="en_US">Deep sea; Diversity; Harpacticoida; Paramesochridae; &lt;i&gt;Kliopsyllus;&lt;/i&gt; Sergipe; Atlantic Ocean</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Danielle</firstname>
+          <middlename>Menor</middlename>
+          <lastname>Vasconcelos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gritta</firstname>
+          <lastname>Veit-Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Drewes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>Jorge Parreira Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>327-337</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Discovery of &lt;i&gt;Smacigastes &lt;/i&gt;Ivanenko &amp; Defaye, 2004 (Copepoda: Harpacticoida: Tegastidae) in a deep-sea cold seep, with the description of a new species from the Gulf of Mexico</title>
+        <abstract locale="en_US">The new tegastid species &lt;i&gt;Smacigastes&lt;/i&gt; &lt;i&gt;methanophilus&lt;/i&gt; sp. nov. is described from cold-seep samples collected from the Gulf of Mexico in 2006. Besides &lt;i&gt;Smacigastes&lt;/i&gt; &lt;i&gt;micheli&lt;/i&gt; Ivanenko &amp; Defaye, 2004 and &lt;i&gt;Smacigastes&lt;/i&gt; &lt;i&gt;barti&lt;/i&gt; Gollner, Ivanenko &amp; Martínez Arbizu, 2008, this is the third species of the genus &lt;i&gt;Smacigastes&lt;/i&gt; Ivanenko &amp; Defaye, 2004. To date, this genus contains the only species within the family Tegastidae known from deep-sea habitats. Furthermore, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;methanophilus&lt;/i&gt; sp. nov. is the first species of Tegastidae found at cold seeps and associated with tubeworm aggregations. It has the same primitive features as &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;micheli&lt;/i&gt; but can be distinguished from the latter by the setation of second and third segments of female antennule and second segment of male antennule, the setation of the mandibular palp, the ornamentation of P5 exopod in both sexes, setation of male P5 exopod, form of the female P5 baseoendopod, and the different shape and length of the P5 setae in female. Moreover, both sexes of &lt;i&gt;Smacigastes&lt;/i&gt; &lt;i&gt;methanophilus&lt;/i&gt; sp. nov. are much smaller than those of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;micheli.&lt;/i&gt; Compared to &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;barti,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;methanophilus&lt;/i&gt; sp. nov. differs in the segmentation and setation of female antennule, the setation of male antennule, setation of mandibular palp, setation of the maxillule, number of endites of the maxilla, number of setae in P1, the ornamentation of female P5 and setation in male P5.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chemosynthetic habitat; deep sea; taxonomy; Harpacticoida</subject>
+          <subject_class locale="en_US">Chemosynthetic habitat</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christoph</firstname>
+          <lastname>Plum</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <middlename>Martinez</middlename>
+          <lastname>Arbizu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>338-355</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Macrostylis cerritus &lt;/i&gt;sp. nov., a new species of Macrostylidae (Isopoda: Asellota) from the Weddell Sea, Southern Ocean</title>
+        <abstract locale="en_US">&lt;i&gt;Macrostylis&lt;/i&gt; &lt;i&gt;cerritus&lt;/i&gt; sp. nov. (Macrostylidae) is described from the Weddell Sea, Antarctica, at a depth of 2149 m. The new species differs from other species of &lt;i&gt;Macrostylis&lt;/i&gt; due to the incisor with 4 cusps; the strongly hook-shaped ischium of pereopod 3; pereopod 4 being greatly reduced and juvenile in appearance; the operculum bearing a ventral spine-like seta; and the absence of pleopod 5. This species is the fourth deep-sea macrostylid identified from the Southern Ocean, and is one more species described from the specimens of ANDEEP I–III expeditions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Macrostylis&lt;/i&gt;; Antarctica; deep sea; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Macrostylis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aidan</firstname>
+          <lastname>Vey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Saskia</firstname>
+          <lastname>Brix</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>356-370</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Nymphodora &lt;/i&gt;gen. nov., a new genus of Nannoniscidae Hansen, 1916 (Isopoda, Asellota, Janiroidea) from the high Arctic</title>
+        <abstract locale="en_US">A new isopod genus is described from the Canada Basin, &lt;i&gt;Nymphodora&lt;/i&gt; gen. nov. The type species of the genus, &lt;i&gt;Nymphodora&lt;/i&gt; &lt;i&gt;fletcheri&lt;/i&gt; (Paul &amp; George, 1975) comb. nov., was first described as Desmosomatidae in the genus &lt;i&gt;Mirabilicoxa&lt;/i&gt; and then later assigned to &lt;i&gt;Chelibranchus&lt;/i&gt; by Kussakin (1999). However, the species bears characters with a greater affinity to Nannoniscidae, such as a bulbous terminal article of antenna 1 and fusions of the pereonites 6, 7 and pleotelson. Here, the species is redescribed and transferred to a new genus in Nannoniscidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Malacostraca; &lt;i&gt;Nymphodora&lt;/i&gt; &lt;i&gt;fletcheri&lt;/i&gt; (Paul &amp; George; 1975) comb. nov.; &lt;i&gt;Nannoniscus&lt;/i&gt;; &lt;i&gt;Panetela&lt;/i&gt;; Canada Basin; deep sea</subject>
+          <subject_class locale="en_US">Malacostraca</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefanie</firstname>
+          <lastname>Kaiser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>371-380</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Thylakogaster namibiensis &lt;/i&gt;sp. nov. (Isopoda: Asellota: Janiroidea), a new species of Haplomunnidae from the southeast Atlantic deep sea</title>
+        <abstract locale="en_US">&lt;i&gt;Thylakogaster&lt;/i&gt; &lt;i&gt;namibiensis&lt;/i&gt; sp. nov., a new deep-sea species belonging to the family Haplomunnidae Wilson, 1976 is described from the southeast Atlantic Ocean. The differences of the new species to the other species of the genus &lt;i&gt;Thylakogaster&lt;/i&gt; Wilson and Hessler, 1974 are discussed. Main characters distinguishing &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;namibiensis&lt;/i&gt; sp. nov. from its congeners are the presence of cuticular spines on the lateral margins of the pereonites 1–7, the low number of spines on the pleotelson, and the number of five terminal flagellar articles bearing aesthetascs on the antenna 1 of the copulatory male. The new species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;namibiensis,&lt;/i&gt; is the first member of this genus found in the southeast Atlantic Ocean and at a depth of 5415 m, it is also the deepest which a member of the genus has ever been found.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Peracarida; &lt;i&gt;Thylakogaster&lt;/i&gt;; taxonomy; Angola Basin; Me 48-1 / Diva 1; Me 63-2 / Diva 2</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nils</firstname>
+          <lastname>Brenke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anika</firstname>
+          <lastname>Buschmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>381-394</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Holodentata &lt;/i&gt;gen. nov. (Isopoda: Asellota: Paramunnidae) with a description of two new species: &lt;i&gt;H. caeca &lt;/i&gt;and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;triangulata &lt;/i&gt;from the Southern Ocean</title>
+        <abstract locale="en_US">A new genus of Paramunnidae, &lt;i&gt;Holodentata&lt;/i&gt; (type species: &lt;i&gt;Paramunna&lt;/i&gt; &lt;i&gt;gaussi&lt;/i&gt; Vanhöffen, 1914) is erected. The new genus comprises two new species: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;caeca,&lt;/i&gt; from the deep Weddell Sea and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;triangulata,&lt;/i&gt; from the Ross Sea. The new genus is distinguished by the following characters: article 3 of the antenna short and with strong denticles, mandible palp absent, article 2 of maxilliped palp longest, coxal plates visible in dorsal view in all pereonites, pleotelson broad and laterally denticulated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; &lt;i&gt;Holodentata&lt;/i&gt;; Ross Sea; Powell Basin; Southern Ocean; taxonomy; new genus; new species</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brenda</firstname>
+          <middlename>Lía</middlename>
+          <lastname>Doti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Madhumita</firstname>
+          <lastname>Choudhury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angelika</firstname>
+          <lastname>Brandt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>395-412</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cumacea (Crustacea, Peracarida) in the deep Mediterranean, with the description of one new species</title>
+        <abstract locale="en_US">Cumacean specimens were analysed from the expeditions of RV &lt;i&gt;Meteor&lt;/i&gt; to the eastern Mediterranean in 1993 (Me 25/1) and 1998 (Me 40). Sampling depth ranged from 45 to 4391 m for the Me 25/1 expedition and from 1129 to 1876 m for the Me 40 expedition. In total, 29 species were identified of which one, &lt;i&gt;Campylaspis&lt;/i&gt; &lt;i&gt;aegypta&lt;/i&gt; sp. nov., is new to science. The horizontal and vertical distribution, the faunal overlap with the Atlantic and endemism of Cumacea in the Mediterranean are discussed. The age of the fauna is considered to be relatively young because of the faunal overlap with the eastern Atlantic and the paucity of endemic higher taxa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Campylaspis&lt;/i&gt; &lt;i&gt;aegypta&lt;/i&gt; sp. nov.; deep sea; distribution; faunal overlap</subject>
+          <subject_class locale="en_US">&lt;i&gt;Campylaspis&lt;/i&gt; &lt;i&gt;aegypta&lt;/i&gt; sp. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ute</firstname>
+          <lastname>Mühlenhardt-Siegel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>413-432</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hirondellea sindhusagar &lt;/i&gt;(Crustacea: Amphipoda: Lysianassoidea), a new deep-water scavenger species from the Indian Ocean, with a key to the genus &lt;i&gt;Hirondellea&lt;/i&gt;</title>
+        <abstract locale="en_US">The amphipod genus &lt;i&gt;Hirondellea&lt;/i&gt; Chevreux, 1889 is a cosmopolitan largely bathyal genus. This paper adds a new species from the bathyal Arabian Sea, Indian Ocean, based on material collected by baited traps at 1182, 1184 and 1864 m off the coast of Pakistan. The species can be distinguished from the most closely allied species, &lt;i&gt;Hirondellea&lt;/i&gt; &lt;i&gt;brevicaudata&lt;/i&gt; (Chevreux, 1910) by the subacute lateral head lobes, the very weakly cleft telson, and characters of the mouthparts. A key to the ten species in the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Lysianassoidea; hirondelleid; new species; deep-sea</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tammy</firstname>
+          <lastname>Horton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Thurston</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>433-441</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular phylogenetic analysis of a known and a new hydrothermal vent octopod: their relationships with the genus &lt;i&gt;Benthoctopus &lt;/i&gt;(Cephalopoda: Octopodidae)</title>
+        <abstract locale="en_US">The resolution of evolutionary relationships among deep-sea incirrate octopuses has been hindered by the paucity of individuals available for morphological studies and by the lack of tissue samples preserved using fixatives compatible with simple DNA extraction techniques. Evolutionary relationships from 11 species of deep-sea incirrate octopuses were investigated using 2392 base pairs (bp) of DNA from four mitochondrial genes (12S rDNA, 16S rDNA, cytochrome c oxidase subunit III, and cytochrome b) and the nuclear gene, &lt;i&gt;rhodopsin.&lt;/i&gt; Morphological examination of these species was also undertaken. Molecular analyses distinguish a species of octopus from hydrothermal vents at Manus Basin from the vent octopodid &lt;i&gt;Vulcanoctopus&lt;/i&gt; &lt;i&gt;hydrothermalis&lt;/i&gt; known from vents on the East Pacific Rise. Both are herein considered members of the clade currently assigned the name &lt;i&gt;Benthoctopus,&lt;/i&gt; although taxonomic implications preclude formally naming &lt;i&gt;Vulcanoctopus&lt;/i&gt; as a junior synonym. Morphological investigations led to the conclusion that &lt;i&gt;Benthoctopus&lt;/i&gt; &lt;i&gt;macrophallus&lt;/i&gt; is a junior synonym of &lt;i&gt;Benthoctopus&lt;/i&gt; &lt;i&gt;yaquinae.&lt;/i&gt; An amended diagnosis of &lt;i&gt;Benthoctopus&lt;/i&gt; is provided with additional information on male reproductive characteristics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Octopodiformes; &lt;i&gt;Vulcanoctopus&lt;/i&gt;; &lt;i&gt;Enteroctopus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Octopodiformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Strugnell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janet</firstname>
+          <middlename>R.</middlename>
+          <lastname>Voight</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <middlename>C.</middlename>
+          <lastname>Collins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>Louise</middlename>
+          <lastname>Allcock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>442-459</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Psychropotid holothurians (Echinodermata: Holothuroidea: Elasipodida) collected at abyssal depths from around the Crozet Plateau in the Southern Indian Ocean</title>
+        <abstract locale="en_US">Seven species of holothurians of the family Psychropotidae were collected during the cruise D300 of RRS &lt;i&gt;Discovery&lt;/i&gt; to Crozet plateau. Three of them, &lt;i&gt;Benthodytes&lt;/i&gt; &lt;i&gt;wolffi,&lt;/i&gt; &lt;i&gt;Psycheotrephes&lt;/i&gt; &lt;i&gt;discoveryi&lt;/i&gt; and &lt;i&gt;Psychropotes&lt;/i&gt; &lt;i&gt;xenochromata&lt;/i&gt; are described as new to science. One species, &lt;i&gt;Benthodytes&lt;/i&gt; &lt;i&gt;abyssicola&lt;/i&gt; Théel, regarded recently as &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis,&lt;/i&gt; is redescribed with designation of a lectotype. Additional notes are provided to descriptions of &lt;i&gt;Psychropotes&lt;/i&gt; &lt;i&gt;scotiae&lt;/i&gt; (Vaney) known from two specimens and &lt;i&gt;Psychropotes&lt;/i&gt; &lt;i&gt;longicauda&lt;/i&gt; Théel, the cosmopolitan highly variable species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Benthodytes&lt;/i&gt;; &lt;i&gt;Psycheotrephes&lt;/i&gt;; &lt;i&gt;Psychropotes&lt;/i&gt;; Psychropotidae; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Benthodytes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonina</firstname>
+          <lastname>Rogacheva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ian</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cross</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>S. M.</middlename>
+          <lastname>Billett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>460-478</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Gebrukothuria profundus&lt;/i&gt;, a new genus and species of laetmogonid holothurian (Elasipodida, Laetmogonidae) from around the Crozet Plateau in the Southern Indian Ocea</title>
+        <abstract locale="en_US">A new genus and species of laetmogonid holothurian (Elasipodida, Laetmogonidae), collected from around the Crozet Plateau in the Southern Indian Ocean, is described. It differs from other members of the family in that the body wall lacks the wheel-shaped calcareous deposits completely. Instead only rods are present. The genus is also distinguished by the combination of other morphological characters lacking in other known genera: absence of circum-oral and ventrolateral papillae together with development of midventral tube feet. All other members of the family Laetmogonidae are known to have wheel-shaped deposits, therefore diagnosis of the family is refined.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Laetmogonidae; Holothuroidea; deep sea</subject>
+          <subject_class locale="en_US">Laetmogonidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonina</firstname>
+          <lastname>Rogacheva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ian</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cross</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>S. M.</middlename>
+          <lastname>Billett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>479-483</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Peniagone crozeti &lt;/i&gt;a new species of elasipodid holothurian from abyssal depths off the Crozet Islands in the Southern Indian Ocean</title>
+        <abstract locale="en_US">Material collected from the RRS &lt;i&gt;Discovery&lt;/i&gt; Cruise 300 to the Crozet Islands contained a new species of elasipodid holothurian &lt;i&gt;Peniagone&lt;/i&gt; &lt;i&gt;crozeti&lt;/i&gt; sp. nov. This new species dominated the megafauna at an abyssal site to the east of the islands under an area of high surface productivity, but was found in low abundance at a site located south of the islands under a high nutrient low chlorophyll regime, typical for many areas in the Southern Ocean. &lt;i&gt;Peniagone&lt;/i&gt; &lt;i&gt;crozeti&lt;/i&gt; differs from other members of the genus by the shape of its calcareous deposits.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Elpidiidae; Elasipodida; Holothuroidea; taxonomy</subject>
+          <subject_class locale="en_US">Elpidiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ian</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cross</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrey</firstname>
+          <lastname>Gebruk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonina</firstname>
+          <middlename>Rogacheva And David S. M.</middlename>
+          <lastname>Billett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>484-488</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

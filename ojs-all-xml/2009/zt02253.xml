@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2253.1</id>
+    <title locale="en_US">8 Oct. 2009</title>
+    <volume>2253</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Eriophyoid mites on Fagaceae with descriptions of seven new genera and eleven new species (Acari: Eriophyoidea)</title>
+        <abstract locale="en_US">Up to now, 64 genera and 178 eriophyoid mite species are known to occur on the Fagaceae. We described and illustrated herein seven new genera and eleven new eriophyoid species associated with plants in the family Fagaceae, collected from eleven provinces in China. They are: &lt;i&gt;Bariella&lt;/i&gt; &lt;i&gt;spinishieldis&lt;/i&gt; sp. nov. on &lt;i&gt;Quercus&lt;/i&gt; sp.; &lt;i&gt;Calesalquia&lt;/i&gt; &lt;i&gt;tiantangzhaica&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Quercus&lt;/i&gt; sp.; &lt;i&gt;Acaphyllisa&lt;/i&gt; &lt;i&gt;quinqueridges&lt;/i&gt; sp. nov. on &lt;i&gt;Cyclobalanopsis&lt;/i&gt; &lt;i&gt;glauca;&lt;/i&gt; &lt;i&gt;Jiangsuacarus&lt;/i&gt; &lt;i&gt;huaguoshanensis&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Quercus&lt;/i&gt; sp.; &lt;i&gt;Spinacarus&lt;/i&gt; &lt;i&gt;guniujiangensis&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Cyclobalanopsis&lt;/i&gt; &lt;i&gt;glauca;&lt;/i&gt; &lt;i&gt;Calvittacus&lt;/i&gt; &lt;i&gt;chenius&lt;/i&gt; sp. nov. on &lt;i&gt;Quercus&lt;/i&gt; &lt;i&gt;chenii;&lt;/i&gt; &lt;i&gt;Cereusacarus&lt;/i&gt; &lt;i&gt;maopingensis&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Cyclobalanopsis&lt;/i&gt; &lt;i&gt;glauca;&lt;/i&gt; &lt;i&gt;Neovittacus&lt;/i&gt; &lt;i&gt;shitaicus&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Quercus&lt;/i&gt; sp.; &lt;i&gt;Paracaliphytoptus&lt;/i&gt; &lt;i&gt;yangensis&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Cyclobalanopsis&lt;/i&gt; &lt;i&gt;glauca;&lt;/i&gt; &lt;i&gt;Shaanxicarus&lt;/i&gt; &lt;i&gt;glaucaer&lt;/i&gt; gen. nov. &amp; sp. nov. on &lt;i&gt;Cyclobalanopsis&lt;/i&gt; &lt;i&gt;glauca;&lt;/i&gt; and &lt;i&gt;Rhyncaphytoptus&lt;/i&gt; &lt;i&gt;qimenensis&lt;/i&gt; sp. nov. on &lt;i&gt;Cyclobalanopsis&lt;/i&gt; &lt;i&gt;glauca.&lt;/i&gt; An updated checklist and a key to the eriophyoid mite genera on the Fagaceae are provided. Three new combinations are given: &lt;i&gt;Jiangsuacarus&lt;/i&gt; &lt;i&gt;abietis&lt;/i&gt; (Kuang &amp; Luo, 2005) comb. nov. on &lt;i&gt;Abies&lt;/i&gt; &lt;i&gt;fabri&lt;/i&gt; (Pinaceae); &lt;i&gt;Jiangsuacarus&lt;/i&gt; &lt;i&gt;dolichocladae&lt;/i&gt; (Song, Xue &amp; Hong, 2008) comb. nov. on &lt;i&gt;Bambusa&lt;/i&gt; &lt;i&gt;dolichoclada&lt;/i&gt; (Poaceae); and &lt;i&gt;Coptophylla&lt;/i&gt; &lt;i&gt;querci&lt;/i&gt; (Chandrapatya &amp; Boczek, 2000), comb. nov. on &lt;i&gt;Quercus&lt;/i&gt; &lt;i&gt;mespilifolioidea&lt;/i&gt; (Fagaceae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">plant feeding; taxonomy; host relationship; new combination; key</subject>
+          <subject_class locale="en_US">plant feeding</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhen</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Yue</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-95</pages>
+        <date_published>2009-10-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

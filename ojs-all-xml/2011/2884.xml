@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2884.1</id>
+    <title locale="en_US">19 May. 2011</title>
+    <volume>2884</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Structure and phylogenetic significance of the sternum V glands in Trichoptera </title>
+        <abstract locale="en_US">I investigated the sternum V gland in 38 families of Trichoptera, and found it to be present in 25 of these. I found that the gland is generally present in Annulipalpia, except Dipseudopsidae, and in Spicipalpia. It is widespread in Plenitentoria, while it is often absent in Brevitentoria, especially in males. The opening is slit-like and U or crescent-shaped. There is significant variation in the cuticular structures associated with the opening ranging from no apparent modification, over scaly patches to elaborate protuberances. Gland opening muscles are associated with the gland in all families except Psychomyiidae, and are divided into 2 distinct types: One originating on the front edge of sternum VI found in Philopotamidae, Rhyacophilidae, Glossosomatidae and Hydroptilidae; and 1 originating on the cuticle of sternum V found in all other trichopterans. The shape of the gland reservoir is variable, from round periform to reniform, elongate or compartmentalised. Muscle fibres are often associated with the reservoir, but are notably absent in Limnephilidae. I mapped characters based on gland structures on a phylogeny of Trichoptera, and discuss the results. The sternum V gland provides potentially important characters from the superorder to the species level. I discuss 2 cases where characters from the sternum V gland may solve existing phylogenetic and taxonomic puzzles: Delimitation of Dipseudopsidae versus Polycentropodidae and the relationships among the hydropsychid subfamilies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">morphology; phylogenetic characters; diagnostic characters; cuticular modifications; fenestra</subject>
+          <subject_class locale="en_US">morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marie</firstname>
+          <lastname>Djernæs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2011-05-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

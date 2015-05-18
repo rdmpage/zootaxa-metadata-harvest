@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2632.1</id>
+    <title locale="en_US">1 Oct. 2010</title>
+    <volume>2632</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of the spider genus &lt;i&gt;Telema &lt;/i&gt;(Araneae, Telemidae) from caves in Guangxi, China</title>
+        <abstract locale="en_US">Eight new species of &lt;i&gt;Telema&lt;/i&gt; collected from caves in Guangxi (China) are described and illustrated: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;adunca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;biyunensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cordata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cucurbitina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;mikrosphaira&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;renalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;yashanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;zonaria&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; All species have a clearly pigmented body, six eyes, and relatively short legs. They differ from congeners and each other in the detailed structure of the spermatheca and male palp.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; diagnosis; etymology; variation; distribution</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chunxia</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2010-10-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Dendrophryniscus &lt;/i&gt;Jiménez–de–la–Espada from the Parque Nacional da Serra dos Órgãos, Teresópolis, State of Rio de Janeiro, Brazil (Amphibia, Anura, Bufonidae)</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Dendrophryniscus&lt;/i&gt; is described from the Atlantic Rain Forest, in the Serra dos Órgãos, State of Rio de Janeiro, Brazil, at 1050 m a.s.l. The description was based on three female specimens, with a mean snout-vent length of 23.0 mm. The new species, &lt;i&gt;Dendrophryniscus&lt;/i&gt; &lt;i&gt;organensis,&lt;/i&gt; differs from the eight other known species in having a characteristic dorsal color pattern, with the tips of the fingers and toes, the snout, and the sub-rostral crest reddish-orange, rostral angle accentuated, end of the snout triangular in dorsal view, and the relation of tibia and snout-vent length equals to 0.4. The large size of the oocytes suggest that the new species reproduces in bromeliads, which places the new species in the &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brevipollicatus&lt;/i&gt; group together with &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;berthalutzae,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carvalhoi,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;krausae,&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;stawiarskyi.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; &lt;i&gt;Dendrophryniscus&lt;/i&gt; &lt;i&gt;organensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Southeastern Brazil; taxonomy</subject>
+          <subject_class locale="en_US">Anura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Maria Paulino Telles</middlename>
+          <lastname>De Carvalho-E-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelle</firstname>
+          <middlename>Mantoanelli</middlename>
+          <lastname>Mongin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eugenio</firstname>
+          <lastname>Izecksohn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <middlename>Potsch</middlename>
+          <lastname>De Carvalho-E-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-52</pages>
+        <date_published>2010-10-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Microglanis &lt;/i&gt;(Siluriformes, Pseudopimelodidae) from lower Rio Tocantins basin, Pará, Brazil, with description of superficial neuromasts and pores of lateral line system</title>
+        <abstract locale="en_US">&lt;i&gt;Microglanis&lt;/i&gt; &lt;i&gt;robustus,&lt;/i&gt; new species, is the first &lt;i&gt;Microglanis&lt;/i&gt; to be described from the Rio Tocantins basin, Pará, Brazil, and differs from the congeners by the presence of a cordiform blotch in the nape, instead of a transverse light stripe; neuromasts of the superficial lines surrounded by melanophores; robust body with short snout, head and predorsal distance; and deep caudal peduncle. The mapping of superficial neuromasts and cephalic sensory canals evidenced intra and interespecific polymorphisms and, therefore, of little value for phylogenetic analysis within the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">bumble-bee catfish; multivariated morphometry; neuromasts; Neotropical region; taxonomy</subject>
+          <subject_class locale="en_US">bumble-bee catfish</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>Benedito Gotto</middlename>
+          <lastname>Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <middlename>Akio</middlename>
+          <lastname>Shibatta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-66</pages>
+        <date_published>2010-10-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Genetypes: a concept to help integrate molecular phylogenetics and taxonomy</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Prosanta</firstname>
+          <lastname>Chakrabarty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2010-10-01</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

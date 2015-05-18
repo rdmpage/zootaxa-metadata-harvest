@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2128.1</id>
+    <title locale="en_US">9 Jun. 2009</title>
+    <volume>2128</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Cophixalus &lt;/i&gt;(Anura: Microhylidae) from Papua New Guinea</title>
+        <abstract locale="en_US">We describe nine new species of the microhylid frog genus &lt;i&gt;Cophixalus&lt;/i&gt; from the Southeastern Peninsula and adjacent islands of Papua New Guinea. All but one of the new species are small – adult males attain 20 mm in only one of the new forms. None of the new species has finger discs consistently larger than toe discs, a character state sometimes claimed to be diagnostic for the genus; most have finger discs distinctly and consistently smaller than toe discs. This raises the number of recognized Papuan members of the genus to 34, and several more undescribed forms exist, making this one of the largest frog genera in the region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">frog; Milne Bay; Morobe; Owen Stanley Mountains; Bowutu Mountains; East Papuan Composite Terrane</subject>
+          <subject_class locale="en_US">frog</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fred</firstname>
+          <lastname>Kraus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Allen</firstname>
+          <lastname>Allison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2009-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy and distribution of &lt;i&gt;Abrawayaomys &lt;/i&gt;(Rodentia: Cricetidae), an Atlantic Forest endemic with the description of a new species</title>
+        <abstract locale="en_US">&lt;i&gt;Abrawayaomys&lt;/i&gt; is a monotypic sylvan cricetid genus that stands out within the sigmodontine radiation due to its spiny pelage associated with unusual craniodental morphology. We made a reappraisal of its knowledge throughout the known distribution, critically addressing their geographic distribution in Argentina (four recording localities restricted to the province of Misiones) and providing a detailed morphological analysis of one trapped individual from Iguazú area; this, plus an examination of other available specimens and literature data permits to produce an emended diagnosis for the genus. Comparisons among the few known specimens from Argentina and Brazil highlighted several differences in measurements as well as in craniodental and external morphology, allowing the description of a new species and suggesting the potential existence of another still undescribed form for the Brazilian populations of Minas Gerais. This new alpha-taxonomy scenario is preliminary correlated to the main geomorphological features that characterize southeastern Brazil. The phylogenetic position of &lt;i&gt;Abrawayaomys,&lt;/i&gt; historically assigned to Thomasomyini or considered as a sigmodontine incertae sedis, is discussed in the light of the traits described here. Based on this new evidence, we suggest assigning &lt;i&gt;Abrawayaomys&lt;/i&gt; to Thomasomyini, although similarities (here regarded as convergences) with members of Akodontini are highlighted.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Argentina; Brazil; Misiones; Sigmodontinae; taxonomy; Thomasomyini</subject>
+          <subject_class locale="en_US">Argentina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulyses</firstname>
+          <middlename>F. J.</middlename>
+          <lastname>Pardiñas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <lastname>Teta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>DElía</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-60</pages>
+        <date_published>2009-06-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription and mitochondrial identification of &lt;i&gt;Chiromantes boulengeri&lt;/i&gt; (Calman, 1920) (Decapoda: Brachyura: Sesarmidae) based on fresh material from the Persian Gulf, Iran</title>
+        <abstract locale="en_US">&lt;i&gt;Chiromantes&lt;/i&gt; &lt;i&gt;boulengeri&lt;/i&gt; (Calman, 1920) is redescribed based on fresh material from Iran. The species is morphologically more similar to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dehaani&lt;/i&gt; (H. Milne Edwards, 1853) than both of these species are to the type species of the genus, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;haematocheir&lt;/i&gt; (De Haan, 1833). Results from mitochondrial DNA, however, propose a closer sister species relationship of the two East Asian species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;haematocheir&lt;/i&gt; (De Haan, 1833) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dehaani.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; Sesarmidae; &lt;i&gt;Chiromantes&lt;/i&gt;; molecular phylogeny; mtDNA</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Reza</firstname>
+          <lastname>Naderloo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christoph</firstname>
+          <middlename>D.</middlename>
+          <lastname>Schubart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-06-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2537.1</id>
+    <title locale="en_US">15 Jul. 2010</title>
+    <volume>2537</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New insights on the phylogenetic relationships of the Proseriata (Platyhelminthes), with proposal of a new genus of the family Coelogynoporidae</title>
+        <abstract locale="en_US">Proseriata is a diverse and species-rich taxon of Neoophora (Platyhelminthes). The group is divided into two morphologically well-characterised taxa: Lithophora and Unguiphora. Previous molecular analyses, aimed at ascertaining in-group relationships of the Proseriata, were equivocal in supporting the monophyly of the Lithophora, and of one of its families, the Coelogynoporidae. Here we present a new phylogeny of the Proseriata, based on complete ssrDNA and partial (D1-D6) lsrDNA. The analysis includes 36 proseriate species. 13 new sequences from seven species are used, four of which from species of the Coelogynoporidae and one from a new species of the recently established family Calviriidae. Phylogenetic analysis was performed using Bayesian Inference (BI), maximum likelihood (ML) and maximum parsimony (MP). Clades were considered to have high nodal support if BI posterior probability and ML and MP bootstrap percentages were &gt;90%. The resulting cladogram strongly supports the monophyly of the Lithophora. In addition, the monophyly of the Coelogynoporidae and their inclusion in the Lithophora are corroborated. Within the Lithophora, two sister clades are supported, including Coelogynoporidae+Calviriidae, and Otoplanidae+Archimonocelididae+Monocelididae respectively. In the Coelogynoporidae, there was a poor correspondence between estimates of phylogeny and the monophyly of genera, suggesting the family is in need of systematic revision. Current morphology-based systematic arrangements of Otoplanidae and Monocelididae are not supported by molecular results. The enigmatic taxon &lt;i&gt;Ciliopharyngiella&lt;/i&gt; (formerly included in the Rhabdocoela) clusters with the Unguiphora, although with low support. One new species of Coelogynoporidae (Parainvenusta &lt;i&gt;englarorum&lt;/i&gt; n. gen n. sp.) is described and discussed in the appendix.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">phylogeny; taxonomy; ssrDNA; lsrDNA; Unguiphora; Lithophora; &lt;i&gt;Ciliopharyngiella&lt;/i&gt;</subject>
+          <subject_class locale="en_US">phylogeny; taxonomy; ssrDNA; lsrDNA; Unguiphora; Lithophora; &lt;i&gt;Ciliopharyngiella&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marco</firstname>
+          <lastname>Curini-Galletti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bonnie</firstname>
+          <middlename>L.</middlename>
+          <lastname>Webster</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tine</firstname>
+          <lastname>Huyse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <lastname>Casu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ernest</firstname>
+          <middlename>R.</middlename>
+          <lastname>Schockaert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tom</firstname>
+          <middlename>J.</middlename>
+          <lastname>Artois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Timothy J.</middlename>
+          <lastname>Littlewood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2010-07-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new larval species of &lt;i&gt;Erythraeus (Zaracarus) &lt;/i&gt;(Acari: Erythraeidae) from western Iran</title>
+        <abstract locale="en_US">Two new larval species of &lt;i&gt;Erythraeus&lt;/i&gt; from western Iran, namely: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;(Zaracarus)&lt;/i&gt; &lt;i&gt;soleimanii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from a green lacewing, &lt;i&gt;Chrysoperla&lt;/i&gt; &lt;i&gt;kolthoffi&lt;/i&gt; (Navas) and &lt;i&gt;E.&lt;/i&gt; (Z.) &lt;i&gt;hamedanicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from a firebug, &lt;i&gt;Pyrrhocoris&lt;/i&gt; &lt;i&gt;apterus&lt;/i&gt; L. (Hemiptera: Pyrrhocoridae) are illustrated and described. A key to the world species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Erythraeidae; &lt;i&gt;Erythraeus&lt;/i&gt; (Zaracarus); ectoparasite; Hamedan; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ali-Naghi</firstname>
+          <lastname>Mirmoayedi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aboulghasem</firstname>
+          <middlename>Rezai</middlename>
+          <lastname>Nahad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bahman</firstname>
+          <middlename>Asali</middlename>
+          <lastname>Fayaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-32</pages>
+        <date_published>2010-07-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Crenicichla hu&lt;/i&gt;, a new species of cichlid fish (Teleostei: Cichlidae) from the Paraná basin in Misiones, Argentina </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Crenicichla&lt;/i&gt; Heckel, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hu,&lt;/i&gt; is described from the arroyo Piray–Miní, a left-hand tributary of the río Paraná, Misiones province, Argentina. This new species is easily distinguished from its congeners in the La Plata basin and adjacent coastal rivers by the dark coloration (dark grey or dark brown to black), a color pattern consisting of 7 to 9 black irregular blotches on the flank, and 47–54 scales in the E1 row. Adult females have dorsal fin with an irregular color pattern formed by wide black and white longitudinal stripes and blotches. In addition to standard morphological comparisons, a brief molecular phylogenetic analysis of &lt;i&gt;Crenicichla&lt;/i&gt; species from the province of Misiones is also introduced.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">molecular phylogeny; systematics; taxonomy; Piray–Miní; ND2; NADH dehydrogenase</subject>
+          <subject_class locale="en_US">molecular phylogeny</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lubomír</firstname>
+          <lastname>Piálek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oldřich</firstname>
+          <lastname>Říčan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Casciotta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Almirón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-46</pages>
+        <date_published>2010-07-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic relationships among &lt;i&gt;Unionicola &lt;/i&gt;(Acari: Unionicolidae) mussel-mites of North America based on mitochondrial cytochrome oxidase I sequences</title>
+        <abstract locale="en_US">Water mites of the genus &lt;i&gt;Unionicola&lt;/i&gt; Haldeman, 1842 are common symbionts of molluscs, living on the gills or mantle and foot of their hosts and using these tissues as sites of oviposition. Phylogenetic relationships among species that comprise the genus are poorly understood and what is known has been based on a limited number of morphological and life history characters or molecular sequence data using closely-related taxa. The present study uses sequence data from the cytochrome oxidase subunit I (cox1) gene (664 bp) to reconstruct evolutionary relationships among representative species of North American &lt;i&gt;Unionicola&lt;/i&gt; from eight subgenera that occur in symbiotic association with freshwater mussels. Maximum parsimony and maximum likelihood analysis yielded trees with similar topologies, and most of the branches have moderate to high bootstrap support. The topologies of these gene trees are mostly congruent with a previously published morphologically-derived tree. Specifically, the gene trees support monophyly among mites from subgenera that occur in association with the gill tissues of host mussels. The molecular trees of &lt;i&gt;Unionicola&lt;/i&gt; mites generated by this study must, however, be interpreted with caution, given that the analysis is based exclusively on &lt;i&gt;Unionicola&lt;/i&gt; subgenera from North America. A more robust phylogeny of &lt;i&gt;Unionicola&lt;/i&gt; mussel-mites will require the addition of molecular sequence data from taxa outside of North America.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Unionicola&lt;/i&gt;; North America; &lt;i&gt;cox1&lt;/i&gt; gene; phylogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Unionicola&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dale</firstname>
+          <middlename>D.</middlename>
+          <lastname>Edwards</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Malcolm</firstname>
+          <middlename>F.</middlename>
+          <lastname>Vidrine</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>R.</middlename>
+          <lastname>Ernsting</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-57</pages>
+        <date_published>2010-07-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of aplousobranch ascidians from Central Chile</title>
+        <abstract locale="en_US">Seven shallow-water colonial ascidians of the order Aplousobranchia, including three new species, are identified in the material collected by SCUBA divers off the coast of Central Chile. Three species including &lt;i&gt;Aplidium&lt;/i&gt; &lt;i&gt;falclandicum,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fuegiense&lt;/i&gt; and &lt;i&gt;Didemnum&lt;/i&gt; &lt;i&gt;studeri&lt;/i&gt; were known previously from Subantarctic and South Chile. The range of one species, &lt;i&gt;Distaplia&lt;/i&gt; &lt;i&gt;arnbackae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; extends to south to Guaitecas Islands, and the rest three species (Aplidium &lt;i&gt;peruvianum,&lt;/i&gt; &lt;i&gt;Aplidiopsis&lt;/i&gt; &lt;i&gt;chilensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Eudistoma&lt;/i&gt; &lt;i&gt;clivosum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; are not known from more southern localities and may represent a northern component.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aplidiopsis&lt;/i&gt;; &lt;i&gt;Eudistoma&lt;/i&gt;; &lt;i&gt;Distaplia&lt;/i&gt;; SE Pacific</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aplidiopsis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karen</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dirk</firstname>
+          <lastname>Schories</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadya</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2010-07-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

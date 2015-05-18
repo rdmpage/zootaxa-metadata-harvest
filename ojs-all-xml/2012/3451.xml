@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3451.1</id>
+    <title locale="en_US">4 Sep. 2012</title>
+    <volume>3451</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">MURAT ÖZAYDINLI &amp; CH. OLIVER COLEMAN (2012) &lt;i&gt;Ampithoe bizseli &lt;/i&gt;n. sp. (Crustacea, Amphipoda) from the west coast of Turkey. &lt;i&gt;Zootaxa&lt;/i&gt;, 3388, 17–28. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

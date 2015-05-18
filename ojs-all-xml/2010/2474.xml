@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2474.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2474</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Traegaardhia &lt;/i&gt;(Acari, Prostigmata, Rhagidiidae) with descriptions of new species and a key to species </title>
+        <abstract locale="en_US">A new supplemented concept of the genus &lt;i&gt;Traegaardhia&lt;/i&gt; Zacharda, 1980 (Acari: Rhagidiidae) is presented and descriptions of seven new species of the genus are given. These are &lt;i&gt;Traegaardhia&lt;/i&gt; &lt;i&gt;cavernarum&lt;/i&gt; n. sp., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cavernicola&lt;/i&gt; n. sp., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;distosolenidia&lt;/i&gt; n. sp., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; n. sp., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nasuta&lt;/i&gt; n. sp., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;subterranea&lt;/i&gt; n. sp., from caves located in northeastern Prealps, Italy, and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; n. sp. from the Ozark Plateaus, southeastern USA. The neotype of &lt;i&gt;Foveacheles&lt;/i&gt; &lt;i&gt;holsingeri&lt;/i&gt; Zacharda, 1980 is assigned, the species is redescribed and together with &lt;i&gt;Foveacheles&lt;/i&gt; &lt;i&gt;paralleloseta&lt;/i&gt; Zacharda, 1985, transferred into the genus &lt;i&gt;Traegaardhia.&lt;/i&gt; &lt;i&gt;Foveacheles&lt;/i&gt; &lt;i&gt;thaleri&lt;/i&gt; n. sp. is described as the possible epigean ancestor of the derivative troglobiotic &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;subterranea&lt;/i&gt; and the adaptive shift hypothesis and parapatric speciation of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;subterranea&lt;/i&gt; is outlined. A key to adults of the known eleven species of the genus &lt;i&gt;Traegaardhia&lt;/i&gt; is presented. The biogeography, morphological adaptations to life in caves (troglomorphisms), vicariance and distribution of the presented taxa are briefly discussed. All new taxa are authored by M. Zacharda only.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rhagidiidae; &lt;i&gt;Traegaardhia&lt;/i&gt;; Italy; USA; caves</subject>
+          <subject_class locale="en_US">Rhagidiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miloslav</firstname>
+          <lastname>Zacharda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>Fong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Horton</firstname>
+          <middlename>H.</middlename>
+          <lastname>Hobbs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Erminio</firstname>
+          <lastname>Piva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>E.</middlename>
+          <lastname>Slay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steven</firstname>
+          <middlename>J.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2010-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2773.1</id>
+    <title locale="en_US">23 Feb. 2011</title>
+    <volume>2773</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Megalopsalis &lt;/i&gt;(Arachnida: Opiliones: Phalangioidea) in Australia and New Zealand and implications for phalangioid classification</title>
+        <abstract locale="en_US">A morphological phylogenetic analysis is conducted of Australasian harvestmen previously included in the family Monoscutidae. Monophyly of Monoscutidae is not supported, and the subfamilies Monoscutinae and Megalopsalidinae are synonymised with the South American subfamily Enantiobuninae. Monoscutidae is re-synonymised with the family Neopilionidae. The analysis also demonstrates the polyphyly of species previously assigned to the genus &lt;i&gt;Megalopsalis.&lt;/i&gt; &lt;i&gt;Megalopsalis&lt;/i&gt; &lt;i&gt;epizephyros&lt;/i&gt; new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;eremiotis&lt;/i&gt; new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leptekes&lt;/i&gt; new species and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pilliga&lt;/i&gt; new species are described and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;serritarsus&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hoggi&lt;/i&gt; are redescribed, all from Australia. &lt;i&gt;Hypomegalopsalis&lt;/i&gt; &lt;i&gt;tanisphyros&lt;/i&gt; new genus and species is described from Western Australia. &lt;i&gt;Megalopsalis&lt;/i&gt; &lt;i&gt;linnaei&lt;/i&gt; is transferred to &lt;i&gt;Tercentenarium&lt;/i&gt; new genus. &lt;i&gt;Forsteropsalis&lt;/i&gt; new genus is established to include species from New Zealand (including Auckland Island): &lt;i&gt;Macropsalis&lt;/i&gt; &lt;i&gt;chiltoni&lt;/i&gt; (type species), &lt;i&gt;Pantopsalis&lt;/i&gt; &lt;i&gt;distincta,&lt;/i&gt; &lt;i&gt;Macropsalis&lt;/i&gt; &lt;i&gt;fabulosa,&lt;/i&gt; &lt;i&gt;Pantopsalis&lt;/i&gt; &lt;i&gt;grayi,&lt;/i&gt; &lt;i&gt;Megalopsalis&lt;/i&gt; &lt;i&gt;grimmetti,&lt;/i&gt; &lt;i&gt;Megalopsalis&lt;/i&gt; &lt;i&gt;inconstans,&lt;/i&gt; &lt;i&gt;Megalopsalis&lt;/i&gt; &lt;i&gt;marplesi,&lt;/i&gt; &lt;i&gt;Megalopsalis&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt; and &lt;i&gt;Pantopsalis&lt;/i&gt; &lt;i&gt;wattsi.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <middlename>K.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-65</pages>
+        <date_published>2011-02-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

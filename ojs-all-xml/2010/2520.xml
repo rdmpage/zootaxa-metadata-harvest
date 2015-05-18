@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2520.1</id>
+    <title locale="en_US">28 Jun. 2010</title>
+    <volume>2520</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Micropterigidae (Lepidoptera) of the Southwestern Pacific: a revision with the establishment of five new genera from Australia, New Caledonia and New Zealand</title>
+        <abstract locale="en_US">With the discovery of new taxa and developments in biogeography and molecular phylogenetics, it has become clear that the diversity of Micropterigidae in the SW Pacific region is inadequately represented by the current taxonomy. The existing taxonomy implies a single lineage in this region, while an unpublished molecular analysis reveals the presence of three distinct lineages in Australia, New Caledonia and New Zealand, hence the need for revision. Currently only three named species are described from eastern Australia, all placed within the genus &lt;i&gt;Sabatinca&lt;/i&gt; Walker. This revision isolates &lt;i&gt;porphyrodes&lt;/i&gt; Turner 1932, from northern Queensland, as a new monotypic genus &lt;i&gt;Austromartyria,&lt;/i&gt; here recognised as a member of a diverse ‘southern sabatincoid lineage’ distributed around the Southern Hemisphere. The bulk of the fauna covered in this revision includes: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;calliplaca&lt;/i&gt; Meyrick 1902, together with 6 new taxa in a new Australian genus &lt;i&gt;Tasmantrix;&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sterops&lt;/i&gt; Turner 1921 plus a new species from New Caledonia, in another new genus &lt;i&gt;Aureopterix.&lt;/i&gt; The New Zealand species &lt;i&gt;Sabatinca&lt;/i&gt; &lt;i&gt;zonodoxa&lt;/i&gt; Meyrick 1888, is synonymised with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;rosicoma&lt;/i&gt; Meyrick 1914 and placed in a new monotypic genus &lt;i&gt;Zealandopterix.&lt;/i&gt; Finally, a new genus &lt;i&gt;Nannopterix&lt;/i&gt; is erected for a new species from New Caledonia. The assemblage of four new genera (excluding &lt;i&gt;Austromartyria)&lt;/i&gt; together comprise the basal lineage of Micropterigidae, previously referred to as the ‘Australian-group.’ All five new genera are distinguished from &lt;i&gt;Sabatinca&lt;/i&gt; &lt;i&gt;s.str.,&lt;/i&gt; the focus of diversity in the region (confined to New Caledonia and New Zealand), but not revised here.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; new genera; mandibulate moths; phylogeny; biogeography; archaic fauna; Tasman Sea; tectonics</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>George</firstname>
+          <middlename>W.</middlename>
+          <lastname>Gibbs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2010-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Re-description and new combination of five New World species of &lt;i&gt;Chrysotus &lt;/i&gt;Meigen, with comments on the Neotropical genus &lt;i&gt;Lyroneurus &lt;/i&gt;Loew (Diptera: Dolichopodidae)</title>
+        <abstract locale="en_US">Five New World species of &lt;i&gt;Chrysotus&lt;/i&gt; Meigen are redescribed, four of them herein transferred from &lt;i&gt;Diaphorus&lt;/i&gt; Meigen: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;angustifrons&lt;/i&gt; (Robinson), &lt;b&gt;comb.nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;maculatus&lt;/i&gt; (Parent), &lt;b&gt;comb.nov.&lt;/b&gt; (= &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;maculipennis&lt;/i&gt; Robinson), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; (Robinson), &lt;b&gt;comb.nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spectabilis&lt;/i&gt; (Loew) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;wirthi&lt;/i&gt; (Robinson), &lt;b&gt;comb.nov.&lt;/b&gt; The female of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;maculatus&lt;/i&gt; is described for the first time. Terminalia of both males and females are illustrated. The previous suggestion that &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;angustifrons,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;robustus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;wirthi,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spectabilis&lt;/i&gt; and the Neotropical genus &lt;i&gt;Lyroneurus&lt;/i&gt; Loew are closely related based on wing venation similarities is analyzed and rejected.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Diaphorus&lt;/i&gt;; &lt;i&gt;Chrysotus&lt;/i&gt;; &lt;i&gt;Lyroneurus&lt;/i&gt;; Dolichopodidae; Diaphorinae; new combination</subject>
+          <subject_class locale="en_US">&lt;i&gt;Diaphorus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renato</firstname>
+          <middlename>Soares</middlename>
+          <lastname>Capellari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dalton</firstname>
+          <lastname>De Souza Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-65</pages>
+        <date_published>2010-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: Reid, C.A.M. &amp; Beatson, M. (2010) Revision of the Australo-Papuan genus &lt;i&gt;Macrolema&lt;/i&gt; Baly (Coleoptera: Chrysomelidae: Spilopyrinae), with description of a new genus. &lt;i&gt;Zootaxa&lt;/i&gt;, 2486, 1-60.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>66-68</pages>
+        <date_published>2010-06-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

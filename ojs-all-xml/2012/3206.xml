@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3206.1</id>
+    <title locale="en_US">24 Feb. 2012</title>
+    <volume>3206</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the subgenus &lt;i&gt;Eurycercus &lt;/i&gt;(&lt;i&gt;Eurycercus&lt;/i&gt;) Baird, 1843 emend. nov. (Cladocera: Eurycercidae) in the Holarctic with the description of a new species from Alaska </title>
+        <abstract locale="en_US">Frey (1975) subdivided the genus &lt;i&gt;Eurycercus&lt;/i&gt; Baird, 1843 (Cladocera: Eurycercidae) into three subgenera: &lt;i&gt;E.&lt;/i&gt; (Eurycer-&lt;i&gt;cus)&lt;/i&gt; s.str., &lt;i&gt;E.&lt;/i&gt; (Bullatifrons) Frey, 1975 and &lt;i&gt;E.&lt;/i&gt; (Teretifrons) Frey, 1975. We conducted a revision of the subgenera &lt;i&gt;Eurycer-&lt;/i&gt;&lt;i&gt;cus&lt;/i&gt; (Eurycercus) and &lt;i&gt;E.&lt;/i&gt; (Bullatifrons) in the Holarctic based on the morphology of parthenogenetic females and aphylogeny of cytochrome c oxidase subunit I (COI ) sequences. The following six species are found to be valid: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lamel-&lt;/i&gt;&lt;i&gt;latus&lt;/i&gt; (O. F. Müller, 1776); &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;macracanthus&lt;/i&gt; Frey, 1973; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pompholygodes&lt;/i&gt; Frey, 1975; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;microdontus&lt;/i&gt; Frey, 1978; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lon-&lt;/i&gt;&lt;i&gt;girostris&lt;/i&gt; Hann, 1982; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nipponica&lt;/i&gt; Tanaka &amp; Fujuta, 2002. The separation of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;vernalis&lt;/i&gt; Hann, 1982 from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;longirostris&lt;/i&gt;lacks morphological and genetic justification, so &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;vernalis&lt;/i&gt; is a junior synonym of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;longirostris.&lt;/i&gt; A new species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;ber-&lt;/i&gt;&lt;i&gt;ingi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; was found in several localities in Alaska, U.S.A. Its characters are intermediate between two subgenera sensuFrey (1975): a median keel is expressed, but only in the posterior portion of the carapace dorsum (while it is absent in &lt;i&gt;E.&lt;/i&gt;(Bullatifrons) and passes through all the dorsum in &lt;i&gt;Eurycercus&lt;/i&gt; s.str.); the dorsal head pores are located on the bubble-likeprojection (a character of the subgenus &lt;i&gt;E&lt;/i&gt; (Bullatifrons), but the latter is sitting on a prominent transverse fold (character ofthe subgenus &lt;i&gt;Eurycercus&lt;/i&gt; s.str.). The COI tree also does not support separation of the subgenus &lt;i&gt;E.&lt;/i&gt; (Bullatifrons) from &lt;i&gt;E.&lt;/i&gt; (Eu-&lt;i&gt;rycercus),&lt;/i&gt; while separation of &lt;i&gt;E.&lt;/i&gt; (Teretifrons) is well-supported. So, we propose to avoid a separation of &lt;i&gt;E.&lt;/i&gt; (Bullatifrons) andregard all the species previously placed there as belonging to the subgenus &lt;i&gt;E.&lt;/i&gt; (Eurycercus) emend. nov. We also demonstrat-ed that &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;macracanthus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pompholigodes,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;longirostris&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nipponica&lt;/i&gt; have much broader distributional ranges than previously known.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Branchiopoda; Anomopoda; taxonomy; new species; revision</subject>
+          <subject_class locale="en_US">Branchiopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eugeniya</firstname>
+          <middlename>I.</middlename>
+          <lastname>Bekker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kotov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Derek</firstname>
+          <middlename>J.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2012-02-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A valid priacanthid species, &lt;i&gt;Pristigenys refulgens &lt;/i&gt;(Valenciennes 1862), and a redescription of &lt;i&gt;P. niphonia &lt;/i&gt;(Cuvier in Cuvier &amp; Valenciennes 1829) in the Indo-West Pacific (Perciformes: Priacanthidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Pristigenys&lt;/i&gt; &lt;i&gt;refulgens&lt;/i&gt; (Valenciennes 1862) is herein redescribed as a valid species although it has long been synonymizedunder &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;niphonia&lt;/i&gt; (Cuvier &lt;i&gt;in&lt;/i&gt; Cuvier &amp; Valenciennes 1829). &lt;i&gt;Pristigenys&lt;/i&gt; &lt;i&gt;refulgens&lt;/i&gt; differs from the latter in having lowergill raker counts, fewer lateral-line scales and spinules on body scales, shape of the caudal fin, and in fin and body color-ation. &lt;i&gt;Pristigenys&lt;/i&gt; &lt;i&gt;refulgens&lt;/i&gt; is currently known from the Indian and western Pacific oceans from South Africa and the RedSea eastward to Indonesia and Japan, while &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;niphonia&lt;/i&gt; is confined to the western Pacific from Japan to northern Australia,and possibly eastward to Samoa. A neotype for &lt;i&gt;Pristigenys&lt;/i&gt; &lt;i&gt;niphonia&lt;/i&gt; is herein designated. A key is provided for the IndoWest Pacific &lt;i&gt;Pristigenys&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Perciformes; Priacanthidae; Taxonomy; Redescription; &lt;i&gt;Pristigenys&lt;/i&gt; &lt;i&gt;refulgens&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;niphonia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Perciformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yukio</firstname>
+          <lastname>Iwatsuki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tsuyoshi</firstname>
+          <lastname>Matsuda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wayne</firstname>
+          <middlename>C.</middlename>
+          <lastname>Starnes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tetsuji</firstname>
+          <lastname>Nakabo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tetsuo</firstname>
+          <lastname>Yoshino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-57</pages>
+        <date_published>2012-02-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The systematic status of two enigmatic ocypodoid crabs, "&lt;i&gt;Paracleistostoma&lt;/i&gt;" &lt;i&gt;dentatum &lt;/i&gt;Tesch, 1918, and "&lt;i&gt;Paracleistostoma&lt;/i&gt;" &lt;i&gt;fossulum &lt;/i&gt;Barnard, 1955 (Crustacea: Decapoda: Brachyura)</title>
+        <abstract locale="en_US">The systematic positions of two ocypodoid crabs, &lt;i&gt;Paracleistostoma&lt;/i&gt; &lt;i&gt;dentatum&lt;/i&gt; Tesch, 1918, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fossulum&lt;/i&gt; Barnard, 1955,have been uncertain because each were described from single female specimens, with Ng &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2008) referring them pro-visionally to the Dotillidae and Varunidae, respectively. Števčić (2011) recently established two new genera, &lt;i&gt;Lazarocleis-&lt;/i&gt;&lt;i&gt;tostoma&lt;/i&gt; Števčić, 2011, and &lt;i&gt;Brankocleistostoma&lt;/i&gt; Števčić, 2011, for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dentatum&lt;/i&gt; Tesch, 1918, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fossulum&lt;/i&gt; Barnard,1955, respectively. He also recognised two new families, Lazarocleistostomidae Števčić, 2011, and Brankocleistostomi-dae Števčić, 2011, for these genera. Examination of the types and fresh material of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fossulum&lt;/i&gt; indicates that while bothgenera are valid, the families are not justified. &lt;i&gt;Brankocleistostoma&lt;/i&gt; is a dotillid; while &lt;i&gt;Lazarocleistostoma&lt;/i&gt; is a varunid(subfamily Gaeticinae). The tribe Gopkittisakini Števčić, 2011 (type genus &lt;i&gt;Gopkittisak&lt;/i&gt; Naruse &amp; Clark, 2009), is also shown to be a junior synonym of Gaeticinae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Crustacea; Brachyura; Ocypodoidea; &lt;i&gt;Paracleistostoma&lt;/i&gt; &lt;i&gt;dentatum&lt;/i&gt;; &lt;i&gt;Paracleistostoma&lt;/i&gt; &lt;i&gt;fossulum&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2012-02-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

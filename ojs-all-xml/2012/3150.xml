@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3150.1</id>
+    <title locale="en_US">4 Jan. 2012</title>
+    <volume>3150</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Recent and fossil Isopoda Bopyridae parasitic on squat lobsters and porcelain crabs (Crustacea: Anomura: Chirostyloidea and Galatheoidea), with notes on nomenclature and biogeography</title>
+        <abstract locale="en_US">The parasitic isopod family Bopyridae contains approximately 600 species that parasitize calanoid copepods as larvae anddecapod crustaceans as adults. In total, 105 species of these parasites (~18% of all bopyrids) are documented from Recentsquat lobsters and porcelain crabs in the superfamilies Chirostyloidea and Galatheoidea. Aside from one endoparasite, allthe bopyrids reported herein belong to the branchially infesting subfamily Pseudioninae. Approximately 29% (67 of 233species) of pseudionine species parasitize squat lobsters and 16% (38 of 233 species) parasitize porcelain crabs. Bopyridsare found in five of six squat lobster families (lacking only in Kiwaidae) and the sole porcelain crab family Porcellanidae.Six pseudionine genera are shared between squat lobsters and porcelain crabs. The deepest bathymetric records ofbopyrids on squat lobster hosts5210 m, and records of swellings interpreted as indications of bopyrid presence in fossilhost taxa are noted. Four nomenclatural issues are resolved and the proper form of citation for the French zoologist C. E.Hesse is provided. Biogeographic distributions for squat lobsters and porcelain crabs are discussed and compared to those of hermit crabs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bopyridae; Chirostyloidea; hermit crab; Galatheoidea; Isopoda; parasite; Porcellanidae; squat lobster; taxonomy</subject>
+          <subject_class locale="en_US">Bopyridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <middlename>B.</middlename>
+          <lastname>Boyko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jason</firstname>
+          <middlename>D.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>C.</middlename>
+          <lastname>Markham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-01-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of copepods (Copepoda: Calanoida and Cyclopoida) from anchialine habitats in Indonesia</title>
+        <abstract locale="en_US">Three new species of copepod crustaceans are described from material collected from anchialine and brackish habitats inand around the village of Walengkabola on the coast of Muna Island, to the southeast of Sulawesi. A new species of cy-clopoid, &lt;i&gt;Paracyclopina&lt;/i&gt; &lt;i&gt;sacklerae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; was described from material collected from the tidal inflow entering into the bot-tom of sinkholes a few metres inland from the shoreline. Detailed comparisons are made with &lt;i&gt;Paracyclopina&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt;(Lindberg, 1941), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; a closely related congener here transferred from its original genus &lt;i&gt;Cyclopetta&lt;/i&gt; Sars, 1913. Theassignment of &lt;i&gt;Paracyclopina&lt;/i&gt; Smirnov, 1935 to the family Cyclopettidae is followed here despite uncertainty over the va-lidity of some of the families created by the break up of the former Cyclopinidae. Two new species of &lt;i&gt;Boholina&lt;/i&gt; Fosshagen&amp; Iliffe, 1989 are described, based on material from the same sinkholes and from caves located up to 700m inland fromthe coast and exhibiting further reduced salinity down to 1.8 ppt. One species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;parapurgata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is very closely relatedto &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;purgata&lt;/i&gt; Fosshagen &amp; Iliffe, 1989 from Bohol island in the Philippines, the other &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;munaensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is very closelyrelated to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;crassicephala&lt;/i&gt; Fosshagen &amp; Iliffe, 1989 also from Bohol island, but a number of fine scale differences in the leg 5 of both sexes are recognised in each case. Keys to valid species of both genera are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; anchialine caves; &lt;i&gt;Paracyclopina&lt;/i&gt;; &lt;i&gt;Boholina&lt;/i&gt;; Muna Island; Sulawesi</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Geoff</firstname>
+          <middlename>A.</middlename>
+          <lastname>Boxshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Damià</firstname>
+          <lastname>Jaume</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-58</pages>
+        <date_published>2012-01-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The phylogenetic relationships of &lt;i&gt;Paramesotriton &lt;/i&gt;(Caudata: Salamandridae) based on partial mitochondrial DNA gene sequences</title>
+        <abstract locale="en_US">We examined phylogenetic relationships among newst of the genus &lt;i&gt;Paramesotriton&lt;/i&gt; using partial mitochondrial gene se-quences, including the ND2-tRNATyr region (1415 bp) and the 12S rDNA-tRNAVal -16S rDNA region (1774 bp), from 42individuals of 10 recognized &lt;i&gt;Paramesotriton&lt;/i&gt; species and outgroups by Bayesian inference (BI), Maximum likelihood(ML) and Maximum Parsimony (MP) methods. We found that, (1) &lt;i&gt;Laotriton&lt;/i&gt; &lt;i&gt;laoensis&lt;/i&gt; is the sister group of &lt;i&gt;Paramesotri-&lt;/i&gt;&lt;i&gt;ton,&lt;/i&gt; (2) the genus &lt;i&gt;Paramesotriton&lt;/i&gt; is monophyletic, composed of either the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;caudopunctatus&lt;/i&gt; species group and the &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;chinensis&lt;/i&gt; species group, or the subgenera &lt;i&gt;Allomesotriton&lt;/i&gt; and &lt;i&gt;Paramesotriton&lt;/i&gt; (3) &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;longliensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;zhijinensis&lt;/i&gt; shouldbe placed in the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;caudopunctatus&lt;/i&gt; species group or subgenus &lt;i&gt;Allomesotriton;&lt;/i&gt; (4) &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fuzhongensis&lt;/i&gt; is not a junior synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chinensis,&lt;/i&gt; and there is a close phylogenetic relationship between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fuzhongensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guangxiensis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mitochondrial DNA sequences; Phylogeny; &lt;i&gt;Paramesotriton&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Mitochondrial DNA sequences</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoming</firstname>
+          <lastname>Gu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hui</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rongrong</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yingzhou</firstname>
+          <lastname>Tian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Song</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-01-04</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

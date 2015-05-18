@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3003.1</id>
+    <title locale="en_US">25 Aug. 2011</title>
+    <volume>3003</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Macroplea &lt;/i&gt;Samouelle (Coleoptera: Chrysomelidae: Donaciinae) from China, with a key to all known species </title>
+        <abstract locale="en_US">Two new species of the aquatic leaf beetle genus &lt;i&gt;Macroplea&lt;/i&gt; Samouelle namely &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ranina&lt;/i&gt; Lou &amp; Yu, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;huaxiensis&lt;/i&gt; Lou &amp; Liang, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from China. &lt;i&gt;Macroplea&lt;/i&gt; &lt;i&gt;appendiculata&lt;/i&gt; (Panzer, 1794) is recorded for the first time from China and a key to all known species of &lt;i&gt;Macroplea&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Donaciinae; &lt;i&gt;Macroplea&lt;/i&gt;; new species; new record; key; Palaearctic Region; China.</subject>
+          <subject_class locale="en_US">Donaciinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qiaozhe</firstname>
+          <lastname>Lou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peiyu</firstname>
+          <lastname>Yu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongbin</firstname>
+          <lastname>Liang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2011-08-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Empoasca &lt;/i&gt;(&lt;i&gt;Matsumurasca&lt;/i&gt;) Anufriev (Hemiptera: Cicadellidae: Typhlocybinae: Empoascini), with description of three new species from China </title>
+        <abstract locale="en_US">The subgenus &lt;i&gt;Matsumurasca&lt;/i&gt; of genus &lt;i&gt;Empoasca&lt;/i&gt; Anufriev (Hemiptera: Cicadellidae: Typhlocybinae: Empoascini) is revised with three new species described and illustrated: &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;biprocessa&lt;/i&gt; Qin and Liu &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (southwest China: Yunnan), &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;dentalis&lt;/i&gt; Qin and Liu &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (central southern China: Hunan) and &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;spinalis&lt;/i&gt; Qin and Liu &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (central southern China: Henan). &lt;i&gt;E&lt;/i&gt; (M.) &lt;i&gt;diversa&lt;/i&gt; Vilbaste, 1968, and &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;parvifacia&lt;/i&gt; Dworakowska, 1994, are recorded for the first time from China. Additionally, two replacement names are proposed, &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;clypealata&lt;/i&gt; nom. nov. for &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;clypeata&lt;/i&gt; Qin &amp; Zhang, 2008 (preoccupied by &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;clypeata&lt;/i&gt; Gillette &amp; Baker, 1895) and &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;quadrialata&lt;/i&gt; nom. nov. for &lt;i&gt;E.&lt;/i&gt; (M.) &lt;i&gt;quadrifida&lt;/i&gt; Qin &amp; Zhang, 2008 (preoccupied by &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;quadrifida&lt;/i&gt; Southern, 1982). A key to all species of the subgenus is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Cicadomorpha; new species; nom. nov.; China</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yang</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dao-Zheng</firstname>
+          <lastname>Qin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Murray</firstname>
+          <middlename>J.</middlename>
+          <lastname>Fletcher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ya-Lin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-42</pages>
+        <date_published>2011-08-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of Cleradini from Australia (Hemiptera: Heteroptera: Rhyparochromidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Neoclerada&lt;/i&gt; &lt;i&gt;parainsulicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Paramahisa&lt;/i&gt; &lt;i&gt;kununurraensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Laticlerada&lt;/i&gt; &lt;i&gt;tasmanica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; have been described and illustrated. Cleradini are generally found in tropical habitats; the first two new species are described from tropical northern Australia, whereas the last species is the first record of Cleradini for cool temperate Tasmania.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new taxa; descriptions; diagnoses; distribution; Tasmania</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Malipatil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>J.</middlename>
+          <lastname>Blacket</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2011-08-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Malvapiini (Coleoptera: Curculionoidea: Apionidae) from Ghana MIŁOSZ A. MAZUR (Poland)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2011-08-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a second species in the enigmatic Southeast Asian genus &lt;i&gt;Platygeniops &lt;/i&gt;(Coleoptera: Scarabaeidae: Cetoniinae) </title>
+        <abstract locale="en_US">A second species of &lt;i&gt;Platygeniops&lt;/i&gt; Krikken, 1978 (Scarabaeidae: Cetoniinae: Trichiini: Osmodermatina) is described from the Myanmar-Thai-Malay isthmus and peninsula. The description of &lt;i&gt;Platygeniops&lt;/i&gt; &lt;i&gt;elongatus&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; is based on two males and a female. The new species is compared with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;exspectans&lt;/i&gt; Krikken, 1978 from the Malay Peninsula and Borneo. The genus is re-diagnosed and its enigmatic status is briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Scarabaeoidea; Trichiini; &lt;i&gt;Platygeniops&lt;/i&gt;; new species; Southeast Asia</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stanislav</firstname>
+          <lastname>Jákl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Krikken</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-08-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

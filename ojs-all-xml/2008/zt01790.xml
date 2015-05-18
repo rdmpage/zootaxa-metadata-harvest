@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1790.1</id>
+    <title locale="en_US">11 Jun. 2008</title>
+    <volume>1790</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The millipede genera &lt;i&gt;Gephyrodesmus&lt;/i&gt; Jeekel, 1983 and &lt;i&gt;Orthorhachis&lt;/i&gt; Jeekel, 1985 in southeastern Australia, a new &lt;i&gt;Lissodesmus&lt;/i&gt; Chamberlin, 1920 from Victoria, and observations on male leg setae, spinnerets and metatergite sculpture (Diplopoda: Polydesmida: Dalodesmidae)</title>
+        <abstract locale="en_US">Descriptions and illustrations are provided for &lt;i&gt;Gephyrodesmus&lt;/i&gt; &lt;i&gt;arcuatus&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;cineraceus&lt;/i&gt; Jeekel, 1983, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;coolahensis&lt;/i&gt; n. sp. and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;regilacus&lt;/i&gt; n. sp.; &lt;i&gt;Lissodesmus&lt;/i&gt; &lt;i&gt;grampianensis&lt;/i&gt; n. sp.; and &lt;i&gt;Orthorhachis&lt;/i&gt; &lt;i&gt;catherinae&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;cavatica&lt;/i&gt; Jeekel, 2006, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;celtica&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;christinae&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;durabilis&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;gloriosa&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;inflata&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;jubata&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;kerewong&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;monteithi&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;oresbia&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pallida&lt;/i&gt; Jeekel, 1985, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;paradoxalis&lt;/i&gt; Jeekel, 2006, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;serrata&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tallagandensis&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;vinnula&lt;/i&gt; n. sp., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;weiri&lt;/i&gt; n. sp. and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;yabbra&lt;/i&gt; n. sp.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diplopoda; Polydesmida; Dalodesmidae; Australia; setae; spinnerets; metatergites</subject>
+          <subject_class locale="en_US">Diplopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <lastname>Mesibov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2008-06-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Poecilochaetus &lt;/i&gt;Claparede, 1875&lt;i&gt; &lt;/i&gt;(Polychaeta, Spionida, Poecilochaetidae) from Paranagua Bay, southeastern Brazil</title>
+        <abstract locale="en_US">Two new species, &lt;i&gt;Poecilochaetus&lt;/i&gt; &lt;i&gt;polycirratus&lt;/i&gt; and &lt;i&gt;Poecilochaetus&lt;/i&gt; &lt;i&gt;perequensis,&lt;/i&gt; are described from Paranaguá Bay, southeastern Brazil. This contribution triples the number of &lt;i&gt;Poecilochaetus&lt;/i&gt; species known from Brazil and adds to our knowledge of the genus worldwide. A comparative table for all species is provided and characters within the genus discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Poecilochaetus&lt;/i&gt;; new species; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Poecilochaetus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cinthya</firstname>
+          <middlename>S. G.</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>S. Y.</middlename>
+          <lastname>Mackie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2008-06-11</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

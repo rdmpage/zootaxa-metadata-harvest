@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1963.1</id>
+    <title locale="en_US">15 Dec. 2008</title>
+    <volume>1963</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-12-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new darter species of the &lt;i&gt;Etheostoma percnurum&lt;/i&gt; species complex (Percidae, subgenus &lt;i&gt;Catonotus&lt;/i&gt;) from the Tennessee and Cumberland river drainages</title>
+        <abstract locale="en_US">The federally endangered Duskytail Darter, &lt;i&gt;Etheostoma&lt;/i&gt; &lt;i&gt;percnurum&lt;/i&gt; Jenkins, is known from only six highly disjunct populations in the Tennessee and Cumberland river drainages of Kentucky, Tennessee, and Virginia. Only four are extant. Variation in morphology including meristics, morphometrics, and pigmentation was examined among the four extant populations and limited specimens from the two extirpated populations (Abrams Creek and South Fork Holston River). Analyses of these data found each of the extant populations is morphologically diagnosable. The few specimens available from Abrams Creek and South Fork Holston River prevented thorough assessment of variation, and these were grouped with their closest geographic counterparts, Citico Creek, and Little River, respectively. Three new morphologically diagnosable species are described: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sitikuense,&lt;/i&gt; the Citico Darter, from Citico Creek, Abrams Creek, and Tellico River (Tennessee River system); &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;marmorpinnum,&lt;/i&gt; the Marbled Darter, from the Little River and South Fork Holston River (Tennessee River system); and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lemniscatum,&lt;/i&gt; the Tuxedo Darter, from the Big South Fork (Cumberland River system). Each species warrants federal protection as an endangered species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Duskytail Darter; southeast fishes; morphological variation; conservation; federally endangered</subject>
+          <subject_class locale="en_US">Duskytail Darter</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rebecca</firstname>
+          <middlename>E.</middlename>
+          <lastname>Blanton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>E.</middlename>
+          <lastname>Jenkins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2008-12-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Percina&lt;/i&gt; (Perciformes: Percidae) from the Apalachicola River drainage, southeastern United States</title>
+        <abstract locale="en_US">&lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;crypta,&lt;/i&gt; the Halloween Darter, is described as a new species endemic to the Chattahoochee and Flint River systems in Georgia and Alabama. &lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;crypta&lt;/i&gt; differs from sympatric &lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;nigrofasciata&lt;/i&gt; in having narrowly separated dorsal saddles (inter-saddle spaces typically less than or equal to saddle width, compared to frequently wider than saddle width in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigrofasciata),&lt;/i&gt; in usually possessing a single modified scale between the pelvic bases (compared to two or more in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigrofasciata),&lt;/i&gt; and in having dark wide bands on pectoral-fin rays (versus pectoral fin clear, or with irregular dark marks or weak tessellations on fin rays in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigrofasciata).&lt;/i&gt; Phylogenetic relationships of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;crypta&lt;/i&gt; to other species of &lt;i&gt;Percina&lt;/i&gt; are obscure. &lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;crypta&lt;/i&gt; occurs in shoal and riffle habitats in the Chattahoochee and Flint River mainstems and in a few tributary systems, with the known extant range comprising four disjunct areas separated by mainstem impoundments and altered river reaches.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;crypta&lt;/i&gt;; &lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;nigrofasciata&lt;/i&gt;; Chattahoochee River; Flint River; Halloween Darter; Blackbanded Darter</subject>
+          <subject_class locale="en_US">&lt;i&gt;Percina&lt;/i&gt; &lt;i&gt;crypta&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mary</firstname>
+          <middlename>C.</middlename>
+          <lastname>Freeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Byron</firstname>
+          <middlename>J.</middlename>
+          <lastname>Freeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Noel</firstname>
+          <middlename>M.</middlename>
+          <lastname>Burkhead</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carrie</firstname>
+          <middlename>A.</middlename>
+          <lastname>Straight</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-42</pages>
+        <date_published>2008-12-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Nandus mercatus&lt;/i&gt; (Teleostei: Perciformes: Nandidae), a new leaf fish from Sumatra</title>
+        <abstract locale="en_US">&lt;i&gt;Nandus&lt;/i&gt; &lt;i&gt;mercatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the Musi River drainage in Sumatra. It differs from all congeners in having a combination of the following characters: body depth 43.0–43.2% SL, 15 pectoral-fin rays, 29–32 lateral line scales, 11–12 scale rows below the lateral line, and slightly concave predorsal profile. The characters that diagnose the genus are also reviewed and identified. &lt;i&gt;Nandus&lt;/i&gt; is here diagnosed as having the following combination of characters: ectopterygoid toothed, posterodorsal corner of the subopercular not produced into a slender process and the second preural centrum with a distally bifurcate hemal spine.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Musi River; Percomorpha; freshwater fish</subject>
+          <subject_class locale="en_US">Musi River</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-53</pages>
+        <date_published>2008-12-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new pygmy seahorse species from Indonesia (Teleostei: Syngnathidae: &lt;i&gt;Hippocampus&lt;/i&gt;)</title>
+        <abstract locale="en_US">Three new species of pygmy seahorse are described from Indonesia: &lt;i&gt;Hippocampus&lt;/i&gt; &lt;i&gt;pontohi&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;severnsi&lt;/i&gt; from Bunaken Island, off Sulawesi, and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;satomiae&lt;/i&gt; from Derawan Island, off Kalimantan. They are considered to be closely related to each other and to &lt;i&gt;Hippocampus&lt;/i&gt; &lt;i&gt;colemani.&lt;/i&gt; All three species are morphologically distinguished from the larger species of seahorses by the following combination of characters: 12 trunk rings, low number of tail rings (26–29), the placement of brooded young within the trunk region of males, and extremely small size (&lt;15 mm HT, &lt;17 mm SL). They can be separated from the previously described species of pygmy seahorses (H. &lt;i&gt;bargibanti,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;denise,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;colemani&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;minotaur)&lt;/i&gt; based on meristics, proportions, colour and body ornamentation. All three new species have a single gill opening as does &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;colemani.&lt;/i&gt; &lt;i&gt;Hippocampus&lt;/i&gt; &lt;i&gt;pontohi&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;severnsi&lt;/i&gt; also share distinctive fleshy appendages with &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;colemani&lt;/i&gt; but can be separated from the latter based on their body shape, raised angular coronet, larger orbit diameter, narrower trunk, fewer tail rings, smaller overall size and in the case of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;severnsi&lt;/i&gt; also colour. Diagnostic features of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;satomiae&lt;/i&gt; include 9 pectoral fin rays, 13 dorsal fin rays, spinous exterior, and distinct raised coronet with laterally expanded anterior and posterior flanges.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;pontohi&lt;/i&gt;; &lt;i&gt;severnsi&lt;/i&gt;; &lt;i&gt;satomiae&lt;/i&gt;; new species; taxonomy; Indo-Pacific; marine</subject>
+          <subject_class locale="en_US">&lt;i&gt;pontohi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sara</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lourie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rudie</firstname>
+          <middlename>H.</middlename>
+          <lastname>Kuiter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2008-12-15</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

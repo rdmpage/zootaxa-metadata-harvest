@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3214.1</id>
+    <title locale="en_US">29 Feb. 2012</title>
+    <volume>3214</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">John Edward Gray (1800–1875): his malacological publications and molluscan taxa</title>
+        <abstract locale="en_US">John Edward Gray was a major figure in zoology in the middle of the 19th Century. An annotated bibliography of his mol-luscan publications is given with all works collated and dated, with questions of authorship discussed. Genus-group andspecies-group molluscan taxa introduced by, or incorrectly attributed to, Gray are listed. Family level names are not in-cluded as most, gastropods and bivalves, have been recently treated by Bouchet &amp; Rocroi (2005, 2010). The included lists treat 937 genus-group nomina and 1,649 species-group nomina associated with Gray.Action is taken to conserve three names in current use found to be junior synonyms. The genus-group name &lt;i&gt;Baster-&lt;/i&gt;&lt;i&gt;otia&lt;/i&gt; Hörnes, 1859 is declared a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;protectum&lt;/i&gt; over &lt;i&gt;Harlea&lt;/i&gt; Gray, 1842, a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;oblitum.&lt;/i&gt; The species-group names&lt;i&gt;Trochus&lt;/i&gt; &lt;i&gt;pellisserpentis&lt;/i&gt; W. Wood, 1828 and &lt;i&gt;Trochus&lt;/i&gt; &lt;i&gt;armillatus&lt;/i&gt; W. Wood, 1828 are declared &lt;i&gt;nomina&lt;/i&gt; &lt;i&gt;protecta&lt;/i&gt; over &lt;i&gt;Trochus&lt;/i&gt;&lt;i&gt;emma&lt;/i&gt; Gray, 1827 and &lt;i&gt;Trochus&lt;/i&gt; &lt;i&gt;henslowi&lt;/i&gt; Gray, 1828 respectively, which become &lt;i&gt;nomina&lt;/i&gt; &lt;i&gt;oblita.&lt;/i&gt;The type species of five genus-group names introducd by Gray are fixed under Article 70.3.2: &lt;i&gt;Euthria,&lt;/i&gt; &lt;i&gt;Pirenella,&lt;/i&gt;&lt;i&gt;Pusionella,&lt;/i&gt; &lt;i&gt;Rissoella,&lt;/i&gt; and &lt;i&gt;Tagelus.&lt;/i&gt;First Reviser action is taken regarding &lt;i&gt;Anapa&lt;/i&gt; Gray, 1842 and &lt;i&gt;Placobranchus&lt;/i&gt; &lt;i&gt;euchlorus&lt;/i&gt; Gray, 1850. Recurring no-menclatural issues and those too complex to treat within the regular catalogue are discussed in 57 Taxa Notes. The lists are fully referenced with 743 literature titles in addition to the 307 listed for Gray.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">John E. Gray; biography; bibliography; W. E. Leach; J. G. Children; taxa; nomenclature; dates of publication; Mollusca; &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;protectum&lt;/i&gt;; &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;oblitum.&lt;/i&gt;</subject>
+          <subject_class locale="en_US">John E. Gray</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Richard</firstname>
+          <middlename>E.</middlename>
+          <lastname>Petit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-125</pages>
+        <date_published>2012-02-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

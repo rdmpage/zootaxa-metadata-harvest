@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2395.1</id>
+    <title locale="en_US">10 Mar. 2010</title>
+    <volume>2395</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New insights in the taxonomy of Trichobranchidae (Polychaeta) with description of a new &lt;i&gt;Terebellides &lt;/i&gt;species from Australia</title>
+        <abstract locale="en_US">During taxonomic studies on the Trichobranchidae housed at the Australian Museum, Sydney morphological characters of specimens were found to serve taxonomists on four taxonomic levels – family, genus, species and specimen level. The number of neuropodial uncini per torus and abdominal segments, long considered holding information for species determination, proved to be highly variable within species. Characters found to be consistent within species were e.g., the position of nephridial papillae, shape of branchiae and chaetae, and the development of anterior segments and lateral lappets. Also, staining in methyl green resulted in a clear pattern without intraspecific variability in most cases and is since considered a helpful tool for identification of Trichobranchidae. In this study an overview of morphological characters of Trichobranchidae and their information for taxonomy is given based on the trichobranchid collection of the Australian Museum. Additionally, description of a new species &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;jitu&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; formerly treated as a variation of &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;narribri,&lt;/i&gt; is given. The description of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;narribri&lt;/i&gt; is revised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Southern hemisphere; Annelida; Terebellida; &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;jitu&lt;/i&gt; sp. nov.; &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;narribri&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Southern hemisphere</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Myriam</firstname>
+          <lastname>Schüller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pat</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hutchings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2010-03-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Diopatra &lt;/i&gt;(Annelida: Onuphidae) diversity in European waters with the description of &lt;i&gt;Diopatra micrura&lt;/i&gt;, new species</title>
+        <abstract locale="en_US">This study describes a new species of the genus &lt;i&gt;Diopatra&lt;/i&gt; Audouin and Milne-Edwards, 1833. &lt;i&gt;Diopatra&lt;/i&gt; &lt;i&gt;micrura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; was found on the western and the southern coast of Portugal and can be distinguished from other &lt;i&gt;Diopatra&lt;/i&gt; species by a characteristic striped colour pattern of the antennae and palps. Other diagnostic morphological characteristics include ventral parapodial lobes, crescentic nuchal organs, ceratophores with 12–15 rings, and subacicular hooks from chaetigers 8–13. This species was found mainly in fine or very fine sand with variable fines content, from the intertidal region up to 50 meters depth. Molecular studies of mitochondrial DNA genes 16S rDNA and COI confirmed the distinction of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;micrura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from other European &lt;i&gt;Diopatra&lt;/i&gt; species. The percentage of nucleotides divergence between the new species and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;neapolitana&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;marocensis&lt;/i&gt; was respectively 16% and 17% for COI and 12% and 15% for 16S. The nucleotide sequence for the 16S gene was always the same in all specimens of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;micrura&lt;/i&gt; and two haplotypes were found for the COI gene. The discovery of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;micrura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; brings the number of &lt;i&gt;Diopatra&lt;/i&gt; species known from Portugal to three and from Europe to four; a key to the four species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; striped antennae; 16S rDNA; COI; distribution; Portugal</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adília</firstname>
+          <lastname>Pires</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hannelore</firstname>
+          <lastname>Paxton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Victor</firstname>
+          <lastname>Quintino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Maria</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-33</pages>
+        <date_published>2010-03-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of blue-eyed &lt;i&gt;Leptobrachium &lt;/i&gt;(Anura: Megophryidae) from Sumatra, Indonesia</title>
+        <abstract locale="en_US">A new megophryid species of &lt;i&gt;Leptobrachium&lt;/i&gt; is described on the basis of three specimens collected from Kubu Perahu, Lampung Province, Sumatra, Indonesia. The new species, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;waysepuntiense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is distinguished from all other congeners by the colour of iris, which is totally light bluish in adult and greyish in juvenile stages. It is similar to Bornean endemic species in the absence of dark markings around groin, and particularly to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gunungense&lt;/i&gt; in the very small size of femoral gland. It is the fourth species of &lt;i&gt;Leptobrachium&lt;/i&gt; recorded from Sumatra, and its discovery underscores the under estimated diversity of amphibians on Sumatra. Variation in the pattern of iris colour in &lt;i&gt;Leptobrachium&lt;/i&gt; is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Iris colour; Lampung; &lt;i&gt;Leptobrachium&lt;/i&gt; &lt;i&gt;hasseltii&lt;/i&gt;; Southeast Asia; Sundaland; Sumatra</subject>
+          <subject_class locale="en_US">Iris colour</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amir</firstname>
+          <lastname>Hamidy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masafumi</firstname>
+          <lastname>Matsui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-44</pages>
+        <date_published>2010-03-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the taxa of solitary entoprocts (Loxosomatidae)</title>
+        <abstract locale="en_US">All taxa of solitary entoprocts (Loxosomatidae) are listed, along with information concerning the original description and also the type material for species where the depositories are mentioned in the descriptions or where type material has been found in various museums. The species belonging to &lt;i&gt;Loxosoma&lt;/i&gt; (with 25 described species) are illustrated. It is recommended that the genus &lt;i&gt;Loxosomella&lt;/i&gt; (with 118 described species) should be used in its wide sense to include &lt;i&gt;Loxocorone,&lt;/i&gt; &lt;i&gt;Loxomitra&lt;/i&gt; and &lt;i&gt;Loxomespilon&lt;/i&gt; as subgenera. This move will make it possible to refer species to the correct genus even when the diagnostic details of the attachment organ are undescribed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Entoprocta; Loxosomatidae; &lt;i&gt;Loxosoma&lt;/i&gt;; &lt;i&gt;Loxosomella&lt;/i&gt;; &lt;i&gt;Loxocorone&lt;/i&gt;; &lt;i&gt;Loxomitra&lt;/i&gt;; &lt;i&gt;Loxomespilon&lt;/i&gt;; types</subject>
+          <subject_class locale="en_US">Entoprocta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claus</firstname>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2010-03-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new blind species of &lt;i&gt;Heterokamaka &lt;/i&gt;(Crustacea: Amphipoda: Kamakidae) from Dianshan Lake, China</title>
+        <abstract locale="en_US">In family Kamakidae, genera &lt;i&gt;Kamaka&lt;/i&gt; and &lt;i&gt;Heterokamaka&lt;/i&gt; possess fused urosomites 1 and 2. &lt;i&gt;Kamaka&lt;/i&gt; is widely distributed in West Pacific, including nine species. &lt;i&gt;Heterokamaka&lt;/i&gt; is very similar to &lt;i&gt;Kamaka,&lt;/i&gt; except lamellate article 3 of the mandibular palp and long antenna 2. In this paper, a new species of &lt;i&gt;Heterokamaka&lt;/i&gt; is described and illustrated in detail and the distributions of &lt;i&gt;Kamaka&lt;/i&gt; and &lt;i&gt;Heterokamaka&lt;/i&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; diagnosis; tube-dwelling; &lt;i&gt;Kamaka&lt;/i&gt;; freshwater</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhonge</firstname>
+          <lastname>Hou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yitao</firstname>
+          <lastname>Pan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-67</pages>
+        <date_published>2010-03-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum—Vieira, L.M., Migotto, A.E. &amp; Winston, J.E. (2010) &lt;i&gt;Marcusadorea&lt;/i&gt;, a new genus of lepralioid bryozoan from warm waters. &lt;i&gt;Zootaxa&lt;/i&gt;, 2348, 57–68.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2010-03-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

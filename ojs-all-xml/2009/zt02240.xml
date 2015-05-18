@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2240.1</id>
+    <title locale="en_US">25 Sep. 2009</title>
+    <volume>2240</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New records of water mites of the genus &lt;i&gt;Atractides &lt;/i&gt;Koch, 1837 (Acari: Hydrachnidia, Hygrobatidae) from Thailand, Malaysia and Sulawesi (Indonesia), with the description of four new species</title>
+        <abstract locale="en_US">New records of water mites of the genus &lt;i&gt;Atractides&lt;/i&gt; Koch, 1837 (Acari: Hydrachnidia, Hygrobatidae) from Thailand, Malaysia and Sulawesi are presented. Four species new to science, &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;siamis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;malayensis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tahanensis&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sulawesiensis,&lt;/i&gt; are described; a first description of the male is given for &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;putihi&lt;/i&gt; Wiles, 1991; a first description of the female is given for &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;tenuipalpis&lt;/i&gt; Lundblad, 1969 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;incertus&lt;/i&gt; Lundblad, 1969; two subspecies are elevated to species rank (with their former stem species in parentheses): &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;substriatus&lt;/i&gt; Lundblad, 1969 (incertus), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cognatus&lt;/i&gt; (K. Viets, 1935) (spatiosus); first records are given for &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;incertus&lt;/i&gt; Lundblad, 1969 (Thailand), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;schwoerbeli&lt;/i&gt; Lundblad, 1969 (Thailand, Malaysia), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tenuipalpis&lt;/i&gt; Lundblad, 1969 (Thailand), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cognatus&lt;/i&gt; (K. Viets, 1935) (Thailand) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;putihi&lt;/i&gt; Wiles, 1991 (Thailand).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; new species; running waters; taxonomy</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pesic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2009-09-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hansenomysis sorbei &lt;/i&gt;n. sp.&lt;i&gt;, &lt;/i&gt;a new suprabenthic mysid (Crustacea: Mysida: Petalophthalmidae) from the Bellingshausen Sea (Southern Ocean)</title>
+        <abstract locale="en_US">A new Petalophthalmidae mysid, &lt;i&gt;Hansenomysis&lt;/i&gt; &lt;i&gt;sorbei&lt;/i&gt; n. sp., is described from specimens sampled with a suprabenthic sled in the Bellingshausen Sea (Southern Ocean). &lt;i&gt;Hansenomysis&lt;/i&gt; &lt;i&gt;sorbei&lt;/i&gt; is distinguishable from its closest congener, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; Casanova, 1993, by the carapace and abdominal somites sculpturing and the relative size of uropods and telson. This new species is the fifth &lt;i&gt;Hansenomysis&lt;/i&gt; species described from the Southern Ocean. An identification key for the Antarctic and Subantarctic &lt;i&gt;Hansenomysis&lt;/i&gt; species is also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mysida; Petalophthalmidae; &lt;i&gt;Hansenomysis&lt;/i&gt;; Bellingshausen Sea; Antarctica</subject>
+          <subject_class locale="en_US">Mysida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <lastname>San Vicente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-40</pages>
+        <date_published>2009-09-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phytoseiid mites on grasses in Brazil (Acari: Phytoseiidae) </title>
+        <abstract locale="en_US">Surveys were conduced in 16 sites in the State of São Paulo to evaluate the phytoseid mite fauna on some of the most common grass species in that State: &lt;i&gt;Brachiaria&lt;/i&gt; &lt;i&gt;decumbens&lt;/i&gt; Stapf., &lt;i&gt;Brachiaria&lt;/i&gt; &lt;i&gt;brizantha&lt;/i&gt; (Hochst. ex A. Rich.) Stapf, &lt;i&gt;Brachiaria&lt;/i&gt; &lt;i&gt;ruziziensis&lt;/i&gt; R. Germ &amp; C.V. Evrard, &lt;i&gt;Melinis&lt;/i&gt; &lt;i&gt;minutiflora&lt;/i&gt; Beauv., &lt;i&gt;Panicum&lt;/i&gt; &lt;i&gt;maximum&lt;/i&gt; Jacq. and &lt;i&gt;Pennisetum&lt;/i&gt; &lt;i&gt;purpureum&lt;/i&gt; Schumach. Twenty known species and one new species (Proprioseiopsis &lt;i&gt;biologicus&lt;/i&gt; Lofego, Demite &amp; Moraes sp. nov.) were found. Two species are reported for the first time in the American continent: &lt;i&gt;Neoseiulus&lt;/i&gt; &lt;i&gt;benjamini&lt;/i&gt; Schicha and &lt;i&gt;Typhlodromus&lt;/i&gt; (Anthoseius) &lt;i&gt;neobakeri&lt;/i&gt; Prasad . Seven of the species collected have been reported in Brazil from different crops. The largest number of specimens and of species of phytoseiids was found on &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;minutiflora.&lt;/i&gt; The results of this study indicate that grasses may play a role in agroecosystems and pasture lands, serving as reservoirs of phytoseiids that prey upon mite pests.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Predatory mites; biological control; taxonomy</subject>
+          <subject_class locale="en_US">Predatory mites; biological control; taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <middlename>C.</middlename>
+          <lastname>Lofego</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peterson</firstname>
+          <middlename>R.</middlename>
+          <lastname>Demite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Raquel</firstname>
+          <middlename>G.</middlename>
+          <lastname>Kishimoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-59</pages>
+        <date_published>2009-09-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Lysmata &lt;/i&gt;(Crustacea, Decapoda, Hippolytidae) from Venezuela, southeastern Caribbean Sea</title>
+        <abstract locale="en_US">&lt;i&gt;Lysmata&lt;/i&gt; &lt;i&gt;udoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; a new peppermint shrimp, is described from Venezuela, southeastern Caribbean Sea. All individuals were collected from dens of the toadfish &lt;i&gt;Amphichthys&lt;/i&gt; &lt;i&gt;criptocentrus&lt;/i&gt; (Valenciennes, 1837) in the subtidal zone. This new species can be distinguished from other closely related species of &lt;i&gt;Lysmata&lt;/i&gt; by the number of teeth, length and shape of the rostrum, the relative length of the antennular peduncle, and the number of carpal articles of the second pereiopod. The color pattern is distinctive. The fourth abdominal segment almost lacks color, but bears a posterior red thin line with three short forward projections. Morphological and molecular characters demonstrate that &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;udoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is most closely related to the Gulf of Mexico &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;boggessi&lt;/i&gt; Rhyne and Lin, 2006 and the Caribbean &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;rafa&lt;/i&gt; Rhyne and Anker, 2007 and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ankeri&lt;/i&gt; Rhyne and Lin, 2006. Field observations suggest that &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;udoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is a protandric simultaneous hermaphrodite, with a primary male phase followed by a simultaneous hermaphrodite phase.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Lysmata&lt;/i&gt;; Lysmatidae; Hippolytidae; Caribbean; Venezuela; hermaphrodite</subject>
+          <subject_class locale="en_US">&lt;i&gt;Lysmata&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Baeza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bolaños</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesús</firstname>
+          <middlename>E.</middlename>
+          <lastname>Hernandez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Régulo</firstname>
+          <lastname>López</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2009-09-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

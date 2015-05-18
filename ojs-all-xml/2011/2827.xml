@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2827.1</id>
+    <title locale="en_US">21 Apr. 2011</title>
+    <volume>2827</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Potamotrygon tigrina&lt;/i&gt;, a new species of freshwater stingray from the upper Amazon basin, closely related to &lt;i&gt;Potamotrygon schroederi &lt;/i&gt;Fernandez-Yépez, 1958 (Chondrichthyes: Potamotrygonidae)</title>
+        <abstract locale="en_US">A new species of Neotropical freshwater stingray, family Potamotrygonidae, is described from the Río Nanay in the upper Río Amazonas basin of Peru. &lt;i&gt;Potamotrygon&lt;/i&gt; &lt;i&gt;tigrina,&lt;/i&gt; n. sp., is easily distinguished from all congeners by its conspicuous dorsal disc coloration, composed of bright yellow to orange vermiculations strongly interwoven with a dark-brown to deep-black background. Additional features that in combination diagnose &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tigrina,&lt;/i&gt; n. sp., include the presence of a single angular cartilage, low and not closely grouped dorsal tail spines, and coloration of tail composed of relatively wide and alternating bands of creamy white and dark brown to black. &lt;i&gt;Potamotrygon&lt;/i&gt; &lt;i&gt;tigrina&lt;/i&gt; is closely related to &lt;i&gt;Potamotrygon&lt;/i&gt; &lt;i&gt;schroederi&lt;/i&gt; Fernandez-Yépez, 1958, which occurs in the Rio Negro (Brazil) and Río Orinoco (Venezuela, Colombia). Both species are very similar in proportions and counts, and share features hypothesized to be derived within Potamotrygonidae, related to their specific angular cartilage morphology, distal tail color, dorsal tail-spine pattern, and ventral lateral-line system. To further substantiate the description of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tigrina,&lt;/i&gt; n. sp., we provide a redescription of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;schroederi&lt;/i&gt; based on material from the Rio Negro (Brazil) and Río Orinoco (Venezuela). Specimens from the two basins differ in number of vertebral centra and slightly in size and frequency of rosettes on dorsal disc, distinctions that presently do not warrant their specific separation. &lt;i&gt;Potamotrygon&lt;/i&gt; &lt;i&gt;tigrina&lt;/i&gt; is frequently commercialized in the international aquarium trade but virtually nothing is known of its biology or conservation status.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; systematics; morphology; Myliobatiformes; South America</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>R.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <middlename>H. Sabaj</middlename>
+          <lastname>Perez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nathan</firstname>
+          <middlename>R.</middlename>
+          <lastname>Lovejoy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2011-04-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of some bryozoan species originally described by J. Jullien from Iberian waters</title>
+        <abstract locale="en_US">Six species originally described by Jules Jullien from Iberian waters are redescribed from the original material and stabilized by typification: &lt;i&gt;Caberea&lt;/i&gt; &lt;i&gt;ligata,&lt;/i&gt; &lt;i&gt;Bicellaria&lt;/i&gt; &lt;i&gt;evocata,&lt;/i&gt; &lt;i&gt;Scrupocellaria&lt;/i&gt; &lt;i&gt;marsupiata,&lt;/i&gt; &lt;i&gt;Setosella&lt;/i&gt; &lt;i&gt;folini,&lt;/i&gt; &lt;i&gt;Euginoma&lt;/i&gt; &lt;i&gt;vermiformis&lt;/i&gt; and &lt;i&gt;Jubella&lt;/i&gt; &lt;i&gt;enucleata.&lt;/i&gt; &lt;i&gt;Caberea&lt;/i&gt; &lt;i&gt;ligata&lt;/i&gt; is placed here in the genus &lt;i&gt;Canda,&lt;/i&gt; not previously reported from European waters. &lt;i&gt;Scrupocellaria&lt;/i&gt; &lt;i&gt;marsupiata&lt;/i&gt; is differentiated from &lt;i&gt;Menipea&lt;/i&gt; &lt;i&gt;clausa,&lt;/i&gt; previously considered as a junior synonym; both species are placed in the genus &lt;i&gt;Notoplites.&lt;/i&gt; A diagnosis is given for the family Jubellidae, the position of which is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cheilostomata; &lt;i&gt;Canda&lt;/i&gt;; &lt;i&gt;Notoplites&lt;/i&gt;; &lt;i&gt;Setosella&lt;/i&gt;; &lt;i&gt;Euginoma&lt;/i&gt;; &lt;i&gt;Jubella&lt;/i&gt;; Jubellidae; Iberian Peninsula; NE Atlantic</subject>
+          <subject_class locale="en_US">Cheilostomata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Javier</firstname>
+          <lastname>Souto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <lastname>Reverter-Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eugenio</firstname>
+          <lastname>Fernández-Pulpeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-53</pages>
+        <date_published>2011-04-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new specimen of the theropod dinosaur &lt;i&gt;Baryonyx &lt;/i&gt;from the early Cretaceous of Portugal and taxonomic validity of &lt;i&gt;Suchosaurus&lt;/i&gt;</title>
+        <abstract locale="en_US">Although the Late Jurassic of Portugal has provided abundant dinosaur fossils, material from the Early Cretaceous is scarce. This paper reports new cranial and postcranial material of the theropod dinosaur &lt;i&gt;Baryonyx&lt;/i&gt; &lt;i&gt;walkeri&lt;/i&gt; found in the Barremian (Papo Seco Formation) of Portugal. This specimen, found at Praia das Aguncheiras, Cabo Espichel, consists of a partial dentary, isolated teeth, pedal ungual, two calcanea, presacral and caudal vertebrae, fragmentary pubis, scapula, and rib fragments. It represents the most complete spinosaurid yet discovered in the Iberian Peninsula and the most complete dinosaur from the Early Cretaceous of Portugal. This specimen is confidently identified as a member of Baryonychinae due to the presence of conical teeth with flutes and denticles in a dentary rosette. The specimen ML1190 shares the following characteristics with &lt;i&gt;Baryonyx&lt;/i&gt; &lt;i&gt;walkeri:&lt;/i&gt; enamel surface with small (nearly vertical) wrinkles, variable denticle size along the carinae, 6–7 denticles per mm, wrinkles forming a 45 degree angle near the carinae, and tooth root longer than crown. In addition, dubious taxa based on teeth morphology such as &lt;i&gt;Suchosaurus&lt;/i&gt; &lt;i&gt;cultridens&lt;/i&gt; (Owen, 1840–1845), and &lt;i&gt;Suchosaurus&lt;/i&gt; &lt;i&gt;girardi&lt;/i&gt; (Sauvage 1897–98; Antunes &amp; Mateus 2003) are discussed, based on comparisons with well-known material such as &lt;i&gt;Baryonyx&lt;/i&gt; &lt;i&gt;walkeri&lt;/i&gt; Charig &amp; Milner, 1986. &lt;i&gt;Suchosaurus&lt;/i&gt; &lt;i&gt;cultridens&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;girardi&lt;/i&gt; are considered as nomina dubia due to the lack of diagnostic apomorphies, but both specimens are referred to Baryonychinae incertae sedis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Theropod dinosaurs; Spinosauridae; &lt;i&gt;Baryonyx&lt;/i&gt;; early Cretaceous; Portugal</subject>
+          <subject_class locale="en_US">Theropod dinosaurs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Octávio</firstname>
+          <lastname>Mateus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Araújo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Natário</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rui</firstname>
+          <lastname>Castanhinha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2011-04-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

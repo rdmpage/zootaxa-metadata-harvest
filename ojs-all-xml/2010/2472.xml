@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2472.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2472</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Neotropical &lt;i&gt;Allocladius &lt;/i&gt;Kieffer, 1913 and &lt;i&gt;Pseudosmittia &lt;/i&gt;Edwards, 1932 (Diptera: Chironomidae)</title>
+        <abstract locale="en_US">The Neotropical species of the genera &lt;i&gt;Pseudosmittia&lt;/i&gt; Edwards, 1932 and &lt;i&gt;Allocladius&lt;/i&gt; Kieffer, 1913 are described or redescribed, short generic diagnoses are given, and keys to the males presented. The following new species are described and figured as male imagines: &lt;i&gt;Allocladius&lt;/i&gt; &lt;i&gt;globosus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;quadrus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;scrotus,&lt;/i&gt; &lt;i&gt;Pseudosmittia&lt;/i&gt; &lt;i&gt;adunca,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amorimi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cambuciensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;carioca,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;catarinense,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gibbistyla,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;invirgata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lamasi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lamellata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magdae,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nana,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;palpina,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;paulista,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pinhoi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;roquei,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tropis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;umbonata,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;uncata.&lt;/i&gt; &lt;i&gt;Allocladius&lt;/i&gt; &lt;i&gt;bilobulatus&lt;/i&gt; (Edwards) comb. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fortispinatus&lt;/i&gt; (Edwards) comb. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;neobilobulatus&lt;/i&gt; (Paggi) comb. n., &lt;i&gt;Pseudosmittia&lt;/i&gt; &lt;i&gt;joaquimvenancioi&lt;/i&gt; (Messias &lt;i&gt;et&lt;/i&gt;4 · &lt;i&gt;Zootaxa&lt;/i&gt; 2472 © 2010 Magnolia PressOliveira), and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;windwardensis&lt;/i&gt; (Sæther) are redescribed as male imagines. Diagnoses of &lt;i&gt;Pseudosmittia&lt;/i&gt; &lt;i&gt;brachydicrana&lt;/i&gt; (Edwards), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;digitata&lt;/i&gt; Sæther, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;forcipata&lt;/i&gt; (Goetghebuer) are given. The female of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bilobulatus,&lt;/i&gt; the pupa of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;neobilobulatus,&lt;/i&gt; a pupa from Chile possibly belonging to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bilobulatus,&lt;/i&gt; a pupa of the &lt;i&gt;Pseudosmittia&lt;/i&gt; &lt;i&gt;forcipata&lt;/i&gt; group from Brazil, and an unplaced larva from the Falkland Islands are also described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; Orthocladiinae; &lt;i&gt;Allocladius&lt;/i&gt;; &lt;i&gt;Pseudosmittia&lt;/i&gt;; new species; new combintations; keys; Neotropical</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Trond</firstname>
+          <lastname>Andersen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Humberto</firstname>
+          <middlename>F.</middlename>
+          <lastname>Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-77</pages>
+        <date_published>2010-05-14</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

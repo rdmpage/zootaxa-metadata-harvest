@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3494.1</id>
+    <title locale="en_US">21 Sep. 2012</title>
+    <volume>3494</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Acentropinae (Lepidoptera: Pyraloidea: Crambidae) of Africa</title>
+        <abstract locale="en_US">The species of Acentropinae recorded from Africa are listed and described with illustrations of the adults and genitalia.Ten new synonymies are established. The following species are described new to science: &lt;i&gt;Parapoynx&lt;/i&gt; &lt;i&gt;zambiensis,&lt;/i&gt;&lt;i&gt;Argyrophorodes&lt;/i&gt; &lt;i&gt;angolensis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;suttoni,&lt;/i&gt; &lt;i&gt;Elophila&lt;/i&gt; &lt;i&gt;acornutus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;ealensis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;minima,&lt;/i&gt; &lt;i&gt;Nymphicula&lt;/i&gt; &lt;i&gt;hexaxantha,&lt;/i&gt; &lt;i&gt;Eoophyla&lt;/i&gt;&lt;i&gt;belladotae,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;cameroonensis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;carcassoni,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;citrialis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;dentisigna,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;euprepialis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;grandifuscalis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;interopalis,&lt;/i&gt;&lt;i&gt;E.kingstoni,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;piscatorum,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;platyxantha,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;principensis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;ruwenzoriensis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;stepheni,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tanzanica.&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nyasalis&lt;/i&gt; &lt;i&gt;kenyalis&lt;/i&gt; is described as a new subspecies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acentropinae; Africa; new species; Lepidoptera</subject>
+          <subject_class locale="en_US">Acentropinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>J. L.</middlename>
+          <lastname>Agassiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-73</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

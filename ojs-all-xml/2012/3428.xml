@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3428.1</id>
+    <title locale="en_US">17 Aug. 2012</title>
+    <volume>3428</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Descriptions of two new species and designation of three neotypes of Japanese Coralliidae from recently discovered specimens that were collected by Kishinouye, and the introduction of a statistical approach to sclerite abundance and size</title>
+        <abstract locale="en_US">Here we describe eight specimens of Japanese precious coral (Octocorallia: Coralliidae) collected and identified byKishinouye over one hundred years ago, and recently rediscovered in the collections at the USNM, SmithsonianInstitution. Although Kishinouye identified four of the specimens he sent to the Smithsonian as &lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;elatius&lt;/i&gt; (Ridley,1882), two of them represent two new species which we describe: &lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;uchidai&lt;/i&gt; sp. nov. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gotoense,&lt;/i&gt; sp. nov.Kishinouye did not designate any type material for the species he described in his publications nor did he ever mentionsending any specimens to the Smithsonian Institution. Because his original material remains missing, we here selectneotypes from the Smithsonian material for three of his species: &lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;konojoi&lt;/i&gt; Kishinouye, 1903; &lt;i&gt;Pleurocorallium&lt;/i&gt;&lt;i&gt;inutile&lt;/i&gt; Kishinouye, 1902 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;japonicum&lt;/i&gt; Kishinouye, 1903. In this study, thanks to advances in computer technologyand software, we have been able to quantify and thus improve the vague descriptions of sclerite numbers found in pastliterature such as “few” or “many”. Our goal in reporting percent composition data for each kind of sclerite is to help to make species identifications easier for non-specialists.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Corallium&lt;/i&gt;; &lt;i&gt;Paracorallium&lt;/i&gt;; &lt;i&gt;Pleurocorallium&lt;/i&gt;; &lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;uchidai&lt;/i&gt;; &lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;gotoense&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Corallium&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masanori</firstname>
+          <lastname>Nonaka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Katherine</firstname>
+          <lastname>Muzik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nozomu</firstname>
+          <lastname>Iwasaki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-67</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

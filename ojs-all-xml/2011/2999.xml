@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2999.1</id>
+    <title locale="en_US">19 Aug. 2011</title>
+    <volume>2999</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Heteroptera (Hemiptera) from the Chaco National Park (Argentina) </title>
+        <abstract locale="en_US">An inventory of aquatic and terrestrial Heteroptera (excluding Aradidae, Coreidae and Pentatomoidea), comprising 101 species in 23 families, collected in the Chaco National Park (NE Argentina) is presented. . Fifty species are new records to the Argentinean Chaco province, and six species represent new records to Argentina: &lt;i&gt;Cryphula&lt;/i&gt; &lt;i&gt;affinis&lt;/i&gt; (Distant), &lt;i&gt;Valtissius&lt;/i&gt; &lt;i&gt;distinctus&lt;/i&gt; (Distant) (Rhyparochromidae), &lt;i&gt;Stenopoda&lt;/i&gt; &lt;i&gt;subinermis&lt;/i&gt; Stål, &lt;i&gt;Diaditus&lt;/i&gt; &lt;i&gt;pilosicornis&lt;/i&gt; Bergroth (Reduviidae), &lt;i&gt;Buenoa&lt;/i&gt; &lt;i&gt;uhleri&lt;/i&gt; Truxal (Notonectidae), and &lt;i&gt;Paravelia&lt;/i&gt; &lt;i&gt;splendoris&lt;/i&gt; (Drake &amp; Harris) (Veliidae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Chaco National Park; Argentina; inventory; distribution</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <middlename>Cecilia</middlename>
+          <lastname>Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>Matias</middlename>
+          <lastname>Dellape</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>Leonardo</middlename>
+          <lastname>Carpintero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sara</firstname>
+          <middlename>Itzel</middlename>
+          <lastname>Montemayor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2011-08-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kempnyia &lt;/i&gt;(Plecoptera) from the Mantiqueira Mountains of Brazil </title>
+        <abstract locale="en_US">Eight species of &lt;i&gt;Kempnyia&lt;/i&gt; Klapálek were collected in the Mantiqueira Mountains at Campos do Jordão, of which six were known: &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;colossica&lt;/i&gt; (Navás, 1934), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;flava&lt;/i&gt; Klapálek, 1916, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;neotropica&lt;/i&gt; (Jacobson and Bianchi, 1905), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;obtusa&lt;/i&gt; Klapálek, 1916, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;reichardti&lt;/i&gt; Froehlich, 1984 and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;tamoya&lt;/i&gt; Froehlich, 1984; two are new, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;pirata&lt;/i&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;tupinamba.&lt;/i&gt; One new synonymy is proposed. Comments are provided for all species from the area and a key to these species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Stoneflies; Campos do Jordão; &lt;i&gt;Kempnyia&lt;/i&gt;; Brazil; São Paulo</subject>
+          <subject_class locale="en_US">Stoneflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claudio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Froehlich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-32</pages>
+        <date_published>2011-08-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Sigmatoneura &lt;/i&gt;Enderlein (Psocoptera: Psocidae), with two new species from China LUXI LIU, FASHENG LI &amp; ZHIQI LIU</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-41</pages>
+        <date_published>2011-08-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions and records of the Palaearctic &lt;i&gt;Molophilus &lt;/i&gt;Curtis (Diptera, Limoniidae) </title>
+        <abstract locale="en_US">Seven new species of &lt;i&gt;Molophilus&lt;/i&gt; &lt;i&gt;(Molophilus)&lt;/i&gt; are described, viz. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;creticola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Greece (Crete)), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;cypricola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Cyprus), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;carbonis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Portugal), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;hradileki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Kazakhstan), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;brevifurcatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Czech Republic, Slovakia), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;calabricus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (South Italy), and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;suboccultus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Portugal). Lackschewitz’s (1940a) “varieties” &lt;i&gt;obscura&lt;/i&gt; of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;propinquus&lt;/i&gt; (Egger, 1863) and &lt;i&gt;testacea&lt;/i&gt; of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;griseus&lt;/i&gt; (Meigen, 1804) are elevated to species rank and redescribed, and a new replacement name, &lt;i&gt;ibericus&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is proposed for the former species. Lectotypes are designated for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;nigrescens&lt;/i&gt; Lackschewitz, 1940, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;ibericus&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;pleuralis&lt;/i&gt; de Meijere, 1920, and the male terminalia are redescribed for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;(M.)&lt;/i&gt; &lt;i&gt;nigrescens.&lt;/i&gt; All important characters are illustrated. New records of some other &lt;i&gt;Molophilus&lt;/i&gt; &lt;i&gt;(Molophilus)&lt;/i&gt; species are appended.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Limoniidae; Palaearctic &lt;i&gt;Molophilus&lt;/i&gt; &lt;i&gt;(Molophilus)&lt;/i&gt;; new species; redescriptions; elevations in rank; new replacement name; lectotype designations; new records</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jaroslav</firstname>
+          <lastname>Starý</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-62</pages>
+        <date_published>2011-08-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery of &lt;i&gt;Crematogaster &lt;/i&gt;subgenus &lt;i&gt;Colobocrema &lt;/i&gt;(Hymenoptera, Formicidae) in Southeast Asia </title>
+        <abstract locale="en_US">The &lt;i&gt;Crematogaster&lt;/i&gt; subgenus &lt;i&gt;Colobocrema&lt;/i&gt; was established to include the single species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cylindriceps&lt;/i&gt; Wheeler, based on a single queen from the Philippines. We discovered a species close to or the same as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cylindriceps&lt;/i&gt; in Borneo and provide descriptions of the queen, worker and male. This species lives in live climber plants of secondary and primary rainforests. The phragmotic morphology characterising the queen caste is considered an adaptation to a stem-inhabiting life style.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">queen redescription; worker; male; host plants; taxonomic status</subject>
+          <subject_class locale="en_US">queen redescription</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Seiki</firstname>
+          <lastname>Yamane</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroshi</firstname>
+          <middlename>O.</middlename>
+          <lastname>Tanaka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Takao</firstname>
+          <lastname>Itioka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-08-19</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

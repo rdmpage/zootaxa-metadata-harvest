@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2122.1</id>
+    <title locale="en_US">1 Jun. 2009</title>
+    <volume>2122</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the crab genus &lt;i&gt;Garthambrus &lt;/i&gt;Ng, 1996, with the description of two new genera and discussion of the status of &lt;i&gt;Tutankhamen &lt;/i&gt;Rathbun, 1925 (Crustacea: Brachyura: Parthenopidae)</title>
+        <abstract locale="en_US">The Indo-West Pacific genus &lt;i&gt;Garthambrus&lt;/i&gt; Ng, 1996, is revised. Two new species are described from New Caledonia and French Polynesia. &lt;i&gt;Lambrus&lt;/i&gt; (Parthenopoides) &lt;i&gt;pteromerus&lt;/i&gt; Ortmann, 1893, is now transferred to &lt;i&gt;Garthambrus.&lt;/i&gt; The genus now consists of 11 nominal species, viz. &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;allisoni&lt;/i&gt; (Garth, 1992), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;cidaris&lt;/i&gt; (Garth and Davie, 1995), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;complanatus&lt;/i&gt; (Rathbun, 1906), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;lacunosus&lt;/i&gt; (Rathbun, 1906), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;posidon&lt;/i&gt; Ng, 1996, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;poupini&lt;/i&gt; (Garth, 1992), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pteromerus&lt;/i&gt; (Ortmann, 1892), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;stellatus&lt;/i&gt; (Rathbun, 1906), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tani&lt;/i&gt; Ahyong, 2008, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;darthvaderi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;undulatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Although originally included in &lt;i&gt;Garthambrus,&lt;/i&gt; &lt;i&gt;Asterolambrus&lt;/i&gt; &lt;i&gt;mironovi&lt;/i&gt; Zarenkov, 1990, is herein transferred to a new genus, &lt;i&gt;Hispidolambrus&lt;/i&gt; &lt;b&gt;gen&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Most of these species are known from the West Pacific, but &lt;i&gt;Garthambrus&lt;/i&gt; &lt;i&gt;posidon&lt;/i&gt; only occurs in the Indian Ocean. Most specimens of &lt;i&gt;Garthambrus&lt;/i&gt; have been collected from depths between 81–600 m. The monotypic Caribbean genus &lt;i&gt;Tutankhamen&lt;/i&gt; Rathbun, 1925, which closely resembles &lt;i&gt;Garthambrus,&lt;/i&gt; is also discussed. &lt;i&gt;Heterocrypta&lt;/i&gt; &lt;i&gt;epibranchialis&lt;/i&gt; Zarenkov, 1990, has some resemblance to &lt;i&gt;Garthambrus&lt;/i&gt; but is here referred to a new genus, &lt;i&gt;Zarenkolambrus,&lt;/i&gt; along with a new species, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Garthambrus&lt;/i&gt;; &lt;i&gt;Hispidolambrus&lt;/i&gt;; &lt;i&gt;Tutankhamen&lt;/i&gt;; &lt;i&gt;Zarenkolambrus&lt;/i&gt;; Parthenopidae; taxonomy; Pacific Ocean; Caribbean Sea; Indian Ocean; new species; new genus</subject>
+          <subject_class locale="en_US">&lt;i&gt;Garthambrus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Colin</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mclay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Tan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2009-06-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of shrub frogs (Rhacophoridae: &lt;i&gt;Philautus&lt;/i&gt;) from the lowlands of Sri Lanka</title>
+        <abstract locale="en_US">Two new species of Sri Lankan frogs of the genus &lt;i&gt;Philautus&lt;/i&gt; are described. Species diagnoses are based on morphology, morphometrics and mitochondrial DNA sequence data. &lt;i&gt;Philautus&lt;/i&gt; &lt;i&gt;tanu&lt;/i&gt; sp. nov. inhabits shrubs in open areas of the lowland wet zone, while &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;singu&lt;/i&gt; sp. nov. is found on shrubs in the understory of lowland and mid-elevation rainforests. These descriptions bring the total number of valid Sri Lankan &lt;i&gt;Philautus&lt;/i&gt; to 65 species, of which 46 are extant.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rhacophorinae; taxonomy; molecular systematics; new species; conservation</subject>
+          <subject_class locale="en_US">Rhacophorinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Madhava</firstname>
+          <lastname>Meegaskumbura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kelum</firstname>
+          <lastname>Manamendra-Arachchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rohan</firstname>
+          <lastname>Pethiyagoda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2009-06-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

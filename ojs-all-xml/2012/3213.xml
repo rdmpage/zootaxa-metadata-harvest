@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3213.1</id>
+    <title locale="en_US">29 Feb. 2012</title>
+    <volume>3213</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalogue of the type-species of the genera of the Cerambycidae, Disteniidae, Oxypeltidae and Vesperidae (Coleoptera) of the Neotropical Region</title>
+        <abstract locale="en_US">The present list includes all available names, both valid and invalid, and the type-species of the genera and subgenera ofCerambycidae, Disteniidae, Oxypeltidae and Vesperidae (Coleoptera) of the Neotropical Region. Two new family-groupnames are proposed: Neoibidionini (type-genus: &lt;i&gt;Neoibidion,&lt;/i&gt; a replacement name for &lt;i&gt;Ibidion&lt;/i&gt; Audinet-Serville, 1834, ju-nior homonymy of &lt;i&gt;Ibidion&lt;/i&gt; Gory, 1833) for Ibidionini Thomson, 1861 and Proholopterini (type-genus &lt;i&gt;Proholopterus,&lt;/i&gt; areplacement name for &lt;i&gt;Holopterus&lt;/i&gt; Blanchard, 1851, junior homonymy of &lt;i&gt;Holopterus&lt;/i&gt; Brehm, 1845) for Holopterini La-cordaire, 1868. &lt;i&gt;Oideterus&lt;/i&gt; Thomson, 1857a:15 is revalidated with the type-species, &lt;i&gt;Oideterus&lt;/i&gt; &lt;i&gt;buquetii&lt;/i&gt; Thomson, 1857 (bymonotypy). &lt;i&gt;Udeterus&lt;/i&gt; Thomson, 1858b:515 is a junior synonym of &lt;i&gt;Oideterus&lt;/i&gt; Thomson, 1857. &lt;i&gt;Acanthocornis&lt;/i&gt; Monné &amp;Monné, 2011 (Prioninae, Meroscelisini) is a new synonym of &lt;i&gt;Hyleoza&lt;/i&gt; Galileo, 1987 and &lt;i&gt;Acanthocornis&lt;/i&gt; &lt;i&gt;flavus&lt;/i&gt; Monné &amp;Monné, 2011 = &lt;i&gt;Hyleoza&lt;/i&gt; &lt;i&gt;confusa&lt;/i&gt; Tavakilian &amp; Galileo, 1991. The genus &lt;i&gt;Acanthocornis&lt;/i&gt; Monné &amp; Monné, 2011 was erro-neously described in the tribe Anacolini. &lt;i&gt;Acanthinodera&lt;/i&gt; Hope, 1834 is considered a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;protectum&lt;/i&gt; and hereafter usedas valid genus name. &lt;i&gt;Amallopodes&lt;/i&gt; Lequien, 1833 is a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;oblitum&lt;/i&gt; consequently invalid name. &lt;i&gt;Hephaestion&lt;/i&gt; &lt;i&gt;(?)&lt;/i&gt; &lt;i&gt;zikani&lt;/i&gt;Melzer, 1923 is designated as the type-species of &lt;i&gt;Parahephaestion&lt;/i&gt; Melzer, 1930; &lt;i&gt;Corynellus&lt;/i&gt; &lt;i&gt;mimulus&lt;/i&gt; Bates, 1885 as thetype-species of &lt;i&gt;Corynellus&lt;/i&gt; Bates, 1885; &lt;i&gt;Cosmius&lt;/i&gt; &lt;i&gt;ochraceus&lt;/i&gt; Perty, 1832 as the type-species of &lt;i&gt;Cosmius&lt;/i&gt; Perty, 1832 &lt;i&gt;non&lt;/i&gt; &lt;i&gt;Cosmius&lt;/i&gt; Dumeril, 1806, Diptera, and &lt;i&gt;Alampyris&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt; Bates, 1881 as the type-species of &lt;i&gt;Alampyris&lt;/i&gt; Bates, 1881.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cerambycidae; Coleoptera; Disteniidae; Genus; Oxypeltidae; Vesperidae</subject>
+          <subject_class locale="en_US">Cerambycidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miguel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-183</pages>
+        <date_published>2012-02-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

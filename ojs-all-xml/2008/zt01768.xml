@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1768.1</id>
+    <title locale="en_US">14 May. 2008</title>
+    <volume>1768</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An annotated checklist of the land snail family Orthalicidae (Gastropoda: Pulmonata: Orthalicoidea) in Ecuador, with notes on the distribution of the mainland species</title>
+        <abstract locale="en_US">The family Orthalicidae is wide-spread in the Neotropics and a major member of the land snail fauna of most South American countries. This checklist presents the species known to exist in Ecuador. It is based on data from relevant literature and museums world wide. There are 168 species in total, 63 of which occur on the Galápagos; 9 species are listed for the first time from this country. New synonymies are: &lt;i&gt;Bulimus&lt;/i&gt; &lt;i&gt;abscissus&lt;/i&gt; Pfeiffer, 1855 = &lt;i&gt;Drymaeus&lt;/i&gt; &lt;i&gt;(D.)&lt;/i&gt; &lt;i&gt;fallax&lt;/i&gt; Pfe-iffer, 1853; &lt;i&gt;Bulimus&lt;/i&gt; &lt;i&gt;caliginosus&lt;/i&gt; Reeve, 1849 = &lt;i&gt;Bulimus&lt;/i&gt; &lt;i&gt;irregularis&lt;/i&gt; Pfeiffer, 1848 = &lt;i&gt;Naesiotus&lt;/i&gt; &lt;i&gt;quitensis&lt;/i&gt; (Pfeiffer, 1848). In the geographical analysis only the mainland species have been taken into account. The species were sampled at 128 mainland localities, 46 of which have been sampled after 1950, indicating that some parts of the country are undersampled. The potential distribution has been analysed at (sub-)generic level, using Maxent and GIS software. Finally four directions for future research are suggested: strengthening the locality database, improved sampling for better modelling, analysis of models on a greater spatial scale and phylogeographic analyses.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mollusca; Bulimulinae; Orthalicinae; systematics; new synonym; endemism; distribution modelling.</subject>
+          <subject_class locale="en_US">Mollusca</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Abraham</firstname>
+          <middlename>S. H.</middlename>
+          <lastname>Breure</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <middlename>J.</middlename>
+          <lastname>Borrero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2008-05-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Akodon cursor&lt;/i&gt; Winge, 1887 (Rodentia: Sigmodontinae): one or two species? New evidences based on molecular data</title>
+        <abstract locale="en_US">&lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;cursor&lt;/i&gt; Winge, 1887 (Rodentia, Muridae) occurs in dense rainforest in the Atlantic coast of Brazil, from northern (8 o S, Pernambuco and Paraíba) to southern (23-26 o S, São Paulo and Paraná) states. This species reveals high karyotype variability, ranging from 2n=16 to 14, and FN (number of autosomal arms) from 26 to 18. Previous cytogenetics studies suggested that each form (2n=14, 15 and 16) are distributed in a clinal pattern and represent polymorphisms in populations, with 2n=15 as an intermediate status (data from crossbreeding in laboratory). However, previous molecular analysis from literature revealed two reciprocal monophyletic clades, each of them composed by 2n=14-15 or 2n=16, suggesting the distinction of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cursor&lt;/i&gt; (2n=14 and 15) from &lt;i&gt;A.&lt;/i&gt; aff. &lt;i&gt;cursor&lt;/i&gt; (2n=16). In this paper, we verified if the karyotype is the one-step characteristic to separate &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cursor&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; aff. &lt;i&gt;cursor.&lt;/i&gt; We evaluated the divergence among northern and southern populations which accomplish 2n=14, 15 and 16 specimens in simpatry. Thus, we employed karyotype information and restriction fragment length polymorphisms analysis (PCR-RFLP) of mitochondrial gene cytochrome b in specimens with 2n=14, 15 and 16 from both northern and southern areas of occurrence. We observed two major clades (Φ ST &gt;0.72), one including northern and the other southern populations, and all three karyotypes were clustered on both of them, revealing that the distinction of the populations are based on geographical level and not on karyotype structure. Previous contrasting molecular data were interpreted as a biased sample composition, since those samples included exclusively 2n=14 and 15 from southern and 2n=16 from northern populations. Thus, we proposed that 2n=14, 15 and 16 karyotypes belong to a single species, &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;cursor.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Akodon&lt;/i&gt;; Rodentia; population divergence; genetic variability; cytochrome b; RFLP; Atlantic Forest</subject>
+          <subject_class locale="en_US">&lt;i&gt;Akodon&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cristina</firstname>
+          <middlename>D. A.</middlename>
+          <lastname>Nogueira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Valeria</firstname>
+          <lastname>Fagundes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-51</pages>
+        <date_published>2008-05-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">False spider mites of the genus &lt;i&gt;Pentamerismus &lt;/i&gt;McGregor (Acari: Tenuipalpidae) from Iran</title>
+        <abstract locale="en_US">One known species of the false spider mite genus &lt;i&gt;Pentamerismus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;judicious&lt;/i&gt; De Leon is redescribed. Two new species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ueckermanni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;behsharicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described and figured based on females collected from &lt;i&gt;Juniperus&lt;/i&gt; &lt;i&gt;polycarpus&lt;/i&gt; L. leaves, Mazandaran province, Iran. A key to all known species of this genus is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Tenuipalpidae; &lt;i&gt;Pentamerismus&lt;/i&gt;; false spider mite; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tetsuo</firstname>
+          <lastname>Gotoh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-60</pages>
+        <date_published>2008-05-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cylindroiulus mitta &lt;/i&gt;n.sp., a new Tunisian millipede (Diplopoda, Julida: Julidae) and notes on the &lt;i&gt;Cylindroiulus&lt;/i&gt; &lt;i&gt;distinctus&lt;/i&gt; group</title>
+        <abstract locale="en_US">&lt;i&gt;Cylindroiulus&lt;/i&gt; &lt;i&gt;mitta&lt;/i&gt; n.sp. is described from Cap Bon, northeastern Tunisia, and its assignment to the North African &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;distinctus&lt;/i&gt; group is discussed. Descriptions of the female vulvae of other group members are presented, as well as illustrations of gonopods and vulvae of further &lt;i&gt;Cylindroiulus&lt;/i&gt; species from Tunisia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Tunisia; North Africa</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nesrine</firstname>
+          <lastname>Akkari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henrik</firstname>
+          <lastname>Enghoff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2008-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

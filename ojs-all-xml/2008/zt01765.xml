@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1765.1</id>
+    <title locale="en_US">7 May. 2008</title>
+    <volume>1765</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphological characteristics of water mite larvae of the genus &lt;i&gt;Arrenurus &lt;/i&gt;Duges, 1834,&lt;i&gt; &lt;/i&gt;with notes on the phylogeny of the genus and an identification key</title>
+        <abstract locale="en_US">The larval characteristics of 42 European &lt;i&gt;Arrenurus&lt;/i&gt; species are provided, based on earlier descriptions. Diagnostic characters are elucidated. The division of the genus into the subgenera &lt;i&gt;Arrenurus&lt;/i&gt; s. str., &lt;i&gt;Micrarrenurus,&lt;/i&gt; &lt;i&gt;Megaluracarus,&lt;/i&gt; &lt;i&gt;Micruracarus,&lt;/i&gt; and &lt;i&gt;Truncaturus&lt;/i&gt; has been retained. Principal Components Analysis (PCA) and phylogenetic analysis using the Maximum Parsimony (MP) method were used to construct a phylogenetic tree of the genus. Recommendations on changes to the traditional subgeneric systematics are given, concerning mainly the subgenera &lt;i&gt;Micruracarus&lt;/i&gt; and &lt;i&gt;Truncaturus&lt;/i&gt; as well as subgeneric allocation of &lt;i&gt;Arrenurus&lt;/i&gt; &lt;i&gt;nobilis&lt;/i&gt; Neuman which is transferred from &lt;i&gt;Arrenurus&lt;/i&gt; s. str. to &lt;i&gt;Micruracarus.&lt;/i&gt; An identification key, supplemented with diagnostic descriptions of individual species, is supplied.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematic; European; &lt;i&gt;Arrenurus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Systematic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrzej</firstname>
+          <lastname>Zawal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-75</pages>
+        <date_published>2008-05-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

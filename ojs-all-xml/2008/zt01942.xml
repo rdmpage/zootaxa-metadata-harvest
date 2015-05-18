@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1942.1</id>
+    <title locale="en_US">26 Nov. 2008</title>
+    <volume>1942</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-11-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Herpetological results of the 2002 expedition to Sarisariñama, a tepui in Venezuelan Guayana, with the description of five new species</title>
+        <abstract locale="en_US">Sarisariñama is a pink sandstone plateau with a total area (summit and slope) of 832 km 2 located about 600 km SE of Caracas, in Estado Bolívar, Venezuela. It includes diverse environments along an elevational gradient from 400 m up to an elevation of 2100 m at its western cliffs. Sarisariñama is well known among spelunkers for its sinkholes (simas), among which Sima Mayor is the largest on earth. Herpetofaunal surveys at four camps in the uplands and two at the base of the massif revealed 32 species, four of which are here described as new taxa. These include three frogs in the genera &lt;i&gt;Hyalinobatrachium,&lt;/i&gt; &lt;i&gt;Anomaloglossus,&lt;/i&gt; and &lt;i&gt;Pristimantis,&lt;/i&gt; and one gecko (genus &lt;i&gt;Gonatodes).&lt;/i&gt; In addition to these new species, we name a fifth based on evidence that populations hitherto known as &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;benitezi&lt;/i&gt; from east of the Maigualida-Parima Mountains, including our Sarisariñama sample, are distinct species. Our sample of &lt;i&gt;Stefania&lt;/i&gt; &lt;i&gt;riae&lt;/i&gt; contained individuals with four different color patterns. Two aquatic species of lizards, &lt;i&gt;Neusticurus&lt;/i&gt; &lt;i&gt;racenisi&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;tatei,&lt;/i&gt; were found to occur microsympatrically and we provide a diagnosis for the poorly known &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;tatei.&lt;/i&gt; &lt;i&gt;Norops&lt;/i&gt; &lt;i&gt;ortonii&lt;/i&gt; is reported for the second time from Venezuela. &lt;i&gt;Dendrobates&lt;/i&gt; &lt;i&gt;leucomelas&lt;/i&gt; was abundant in lowland areas around the massif. The significance of this frog for the indigenous Ye'kwana is commented upon, including its iconographic importance in basket weaving. We also include data on three other species of interest collected at Sarisariñama by a 1988 expedition from Simón Bolívar University and Radio Caracas Televisión. Throughout, we reference common names for most species in the indigenous Ye'kwana language, and we provide information on local legends and cultural anecdotes involving some of the local species. We comment on the zoogeography of the Sarisariñama herpetofauna by comparing it with that of other known tepuis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Venezuela; Guiana Shield; Sarisariñama; tepui; herpetofauna; new species; &lt;i&gt;Anomaloglossus;&lt;/i&gt; &lt;i&gt;Hyalinobatrachium;&lt;/i&gt; &lt;i&gt;Pristimantis;&lt;/i&gt; &lt;i&gt;Gonatodes;&lt;/i&gt; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;benitezi;&lt;/i&gt; &lt;i&gt;Stefania&lt;/i&gt; &lt;i&gt;riae;&lt;/i&gt; &lt;i&gt;Neusticurus;&lt;/i&gt; &lt;i&gt;Norops&lt;/i&gt; &lt;i&gt;ortonii;&lt;/i&gt; biogeography</subject>
+          <subject_class locale="en_US">Venezuela; Guiana Shield; Sarisariñama; tepui; herpetofauna; new species; &lt;i&gt;Anomaloglossus;&lt;/i&gt; &lt;i&gt;Hyalinobatrachium;&lt;/i&gt; &lt;i&gt;Pristimantis;&lt;/i&gt; &lt;i&gt;Gonatodes;&lt;/i&gt; &lt;i&gt;Hypsiboas&lt;/i&gt; &lt;i&gt;benitezi;&lt;/i&gt; &lt;i&gt;Stefania&lt;/i&gt; &lt;i&gt;riae;&lt;/i&gt; &lt;i&gt;Neusticurus;&lt;/i&gt; &lt;i&gt;Norops&lt;/i&gt; &lt;i&gt;ortonii;&lt;/i&gt; biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cesar</firstname>
+          <middlename>L.</middlename>
+          <lastname>Barrio-Amoros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <lastname>Brewer-Carias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2008-11-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

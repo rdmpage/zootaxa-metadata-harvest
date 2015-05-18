@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2813.1</id>
+    <title locale="en_US">8 Apr. 2011</title>
+    <volume>2813</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Remarkable Australasian marine diversity: 18 new species in &lt;i&gt;Pentaceration&lt;/i&gt; Just, 2009 (Crustacea, Isopoda, Paramunnidae)</title>
+        <abstract locale="en_US">Eighteen new species in &lt;i&gt;Pentaceration&lt;/i&gt; Just, 2009 (Isopoda, Paramunnidae) are described. From the Arafura Sea: &lt;i&gt;Pentaceration&lt;/i&gt; &lt;i&gt;bifida;&lt;/i&gt; from south eastern Australia: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bovicornis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;denticornis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;globopleonis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lancifera,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magna,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;megalomos,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;omalos,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rihothalassa,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;serrata,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;simplex,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tasmaniensis;&lt;/i&gt; from New Zealand: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;curvicornis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dentifera,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;novaezealandia,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;epipedos,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;setosa;&lt;/i&gt; from the Kermadec Trench: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kermadecia.&lt;/i&gt; A key to the 20 known species of &lt;i&gt;Pentaceration&lt;/i&gt; is given. &lt;i&gt;Pentaceration&lt;/i&gt; is the most diverse genus in the Paramunnidae and has the greatest depth range (7 to 5340 meters). The general distribution of the genus and the presence of species with functional eyes at shelf depth (all other species blind) suggest a shallow water Gondwana origin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; Asellota; Paramunnidae; Australasia; &lt;i&gt;Pentaceration&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jean</firstname>
+          <lastname>Just</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Dikerogammarus istanbulensis &lt;/i&gt;sp. n., a new amphipod species (Amphipoda: Gammaridae) from Turkey with a key for the genus</title>
+        <abstract locale="en_US">A new amphipod species, &lt;i&gt;Dikerogammarus&lt;/i&gt; &lt;i&gt;istanbulensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described. Specimens were collected from a reservoir, near Silivri district, İ stanbul province, Turkey. The new species is similar to &lt;i&gt;Dikerogammarus&lt;/i&gt; &lt;i&gt;bispinosus&lt;/i&gt; Martynov, 1925 except for the presence of setae on inner surface of basal segment of pereopod 7 in both sexes and absence of long setae on the ventral side of second peduncle segment of antenna 1. In addition, epimeral plate 2 has many setae along the ventral margin in both sexes. A detailed morphological description and illustrations of the new species are given. Differences between the new species and related species are discussed. An identification key for the genus &lt;i&gt;Dikerogammarus&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fresh waters; Amphipoda; new species; Ponto-Caspian; Silivri; Balkans</subject>
+          <subject_class locale="en_US">Fresh waters</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Murat</firstname>
+          <lastname>Özbek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nurcan</firstname>
+          <lastname>Özkan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First description of the female of &lt;i&gt;Acantholycosa logunovi &lt;/i&gt;(Araneae: Lycosidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexander</firstname>
+          <middlename>A.</middlename>
+          <lastname>Fomichev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yuri</firstname>
+          <middlename>M.</middlename>
+          <lastname>Marusik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

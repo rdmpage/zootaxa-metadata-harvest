@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3055.1</id>
+    <title locale="en_US">11 Oct. 2011</title>
+    <volume>3055</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of Chinese &lt;i&gt;Empoasca &lt;/i&gt;Walsh (Hemiptera: Cicadellidae), with description of seven new species and some new Chinese records </title>
+        <abstract locale="en_US">Seven new species of &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) Walsh, 1862 are described and illustrated. Five of the new species belong to the &lt;i&gt;Empoasca&lt;/i&gt; &lt;i&gt;warchalowskii&lt;/i&gt; group: &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) &lt;i&gt;longa&lt;/i&gt; Zhang &amp; Liu, &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) &lt;i&gt;megalophylla&lt;/i&gt; Qin &amp; Liu, &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) &lt;i&gt;paragucia&lt;/i&gt; Fletcher &amp; Liu, &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) &lt;i&gt;undulata&lt;/i&gt; Zhang &amp; Liu, &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) &lt;i&gt;vickiae&lt;/i&gt; Liu, &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The other two new species cannot be placed into a species group: &lt;i&gt;Empoasca&lt;/i&gt; (Empoas- &lt;i&gt;ca)&lt;/i&gt; &lt;i&gt;dendritica&lt;/i&gt; Qin &amp; Liu and &lt;i&gt;Empoasca&lt;/i&gt; (Empoasca) &lt;i&gt;polyprocessa&lt;/i&gt; Fletcher &amp; Liu, &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; An additional 15 species and the subgenus &lt;i&gt;Empoasca&lt;/i&gt; (Livasca) Dworakowska &amp; Viraktamath, 1978 are recorded for the first time from China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; leafhoppers; Typhlocybinae; Empoascini; taxonomy; new species; China</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yang</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dao-Zheng</firstname>
+          <lastname>Qin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Murray</firstname>
+          <middlename>J.</middlename>
+          <lastname>Fletcher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ya-Lin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2011-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of the Hydraenidae (Coleoptera) of Turkey, with notes on distribution </title>
+        <abstract locale="en_US">A checklist of the Hydraenidae recorded from Turkey is presented. The checklist includes data on the distribution and relevant references for 210 species/subspecies: two &lt;i&gt;Aulacochthebius&lt;/i&gt; Leach, 113 &lt;i&gt;Hydraena&lt;/i&gt; Kugelann, 21 &lt;i&gt;Limnebius&lt;/i&gt; Leach, and 74 &lt;i&gt;Ochthebius&lt;/i&gt; Leach. On the basis of their current distribution, the established 210 species/subspecies can be classified into 28 zoogeographical categories, grouped into six complexes. The largest number of species belongs to the group of Turkey endemics (49.05 %), which reflects the local character of the fauna.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hydraenidae; aquatic Coleoptera; checklist; distribution; zoogeography; Turkey</subject>
+          <subject_class locale="en_US">Hydraenidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nesil</firstname>
+          <lastname>Ertorun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jäch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ahmet</firstname>
+          <lastname>Kasapoğlu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mustafa</firstname>
+          <middlename>C.</middlename>
+          <lastname>Darilmaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-42</pages>
+        <date_published>2011-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A synopsis of the Castniidae (Lepidoptera) of Paraguay </title>
+        <abstract locale="en_US">A list with comments on status, natural history, biology, hosts and distribution are presented for all species of Castniidae known from Paraguay. All the presented information has been summarized based on literature, museum specimens, information gathered from researchers/collectors and personal observations. &lt;b&gt;New&lt;/b&gt; &lt;b&gt;synonyms&lt;/b&gt; are proposed: &lt;i&gt;Imara&lt;/i&gt; &lt;i&gt;satrapes&lt;/i&gt; &lt;i&gt;catharina&lt;/i&gt; (Preiss) [= &lt;i&gt;Imara&lt;/i&gt; &lt;i&gt;satrapes&lt;/i&gt; (Kollar)] and &lt;i&gt;Castnia&lt;/i&gt; &lt;i&gt;juturna&lt;/i&gt; &lt;i&gt;paraguayensis&lt;/i&gt; Strand (= &lt;i&gt;Castnia&lt;/i&gt; &lt;i&gt;invaria&lt;/i&gt; &lt;i&gt;penelope&lt;/i&gt; Schaufuss), and synonymic lists are given in each case. Twelve species are recorded from Paraguay, four of them are relatively common and have been previously reported from the country [Synpalamides &lt;i&gt;phalaris&lt;/i&gt; (Fabricius), &lt;i&gt;Synpalamides&lt;/i&gt; &lt;i&gt;rubrophalaris&lt;/i&gt; (Houlbert), &lt;i&gt;Castnia&lt;/i&gt; &lt;i&gt;invaria&lt;/i&gt; &lt;i&gt;penelope&lt;/i&gt; Schaufuss, &lt;i&gt;Gazera&lt;/i&gt; &lt;i&gt;heliconioides&lt;/i&gt; &lt;i&gt;micha&lt;/i&gt; (H. Druce)]. The other eight species are much less common in collections [Imara &lt;i&gt;satrapes,&lt;/i&gt; &lt;i&gt;Castnia&lt;/i&gt; &lt;i&gt;juturna&lt;/i&gt; Hopffer, &lt;i&gt;Telchin&lt;/i&gt; &lt;i&gt;licus&lt;/i&gt; &lt;i&gt;laura&lt;/i&gt; (H. Druce), &lt;i&gt;Ceretes&lt;/i&gt; &lt;i&gt;marcelserres&lt;/i&gt; (Godart), &lt;i&gt;Riechia&lt;/i&gt; &lt;i&gt;acraeoides&lt;/i&gt; (Guérin-Méneville), &lt;i&gt;Prometheus&lt;/i&gt; &lt;i&gt;cochrus&lt;/i&gt; (Fabricius), &lt;i&gt;Frostetola&lt;/i&gt; &lt;i&gt;gramivora&lt;/i&gt; (Schaus), &lt;i&gt;Paysandisia&lt;/i&gt; &lt;i&gt;archon&lt;/i&gt; (Burmeister)]. &lt;i&gt;Telchin&lt;/i&gt; &lt;i&gt;licus&lt;/i&gt; &lt;i&gt;laura&lt;/i&gt; (H. Druce) and &lt;i&gt;Frostetola&lt;/i&gt; &lt;i&gt;gramivora&lt;/i&gt; (Schaus) are reported from this country for the first time. Four species not known from Paraguay, but suitable to be found within, are also mentioned [Yagra &lt;i&gt;fonscolombe&lt;/i&gt; (Godart), &lt;i&gt;Castnia&lt;/i&gt; &lt;i&gt;lecerfi&lt;/i&gt; Dalla Torre, &lt;i&gt;Geyeria&lt;/i&gt; &lt;i&gt;uruguayana&lt;/i&gt; (Burmeister), &lt;i&gt;Ceretes&lt;/i&gt; &lt;i&gt;thais&lt;/i&gt; (Drury)].</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Paraguayan Biodiversity; Giant Butterfly-moths; taxonomy; new synonym; Paraguay</subject>
+          <subject_class locale="en_US">Paraguayan Biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ríos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <middlename>M.</middlename>
+          <lastname>González</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-61</pages>
+        <date_published>2011-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Oriental genus of Deltocephalinae (Hemiptera: Cicadellidae) from China and Thailand </title>
+        <abstract locale="en_US">A new deltocephaline leafhopper genus &lt;i&gt;Hamulotettix&lt;/i&gt; is described and illustrated based on a large, distinctly patterned species, &lt;i&gt;Hamulotettix&lt;/i&gt; &lt;i&gt;ungulatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from China and Thailand, and is tentatively placed in the tribe Athysanini. Detailed morphological description and illustrations are provided. The genus is similar to &lt;i&gt;Abrus&lt;/i&gt; Dai &amp; Zhang in external body form, and also bears a superficial resemblance to &lt;i&gt;Oxycephalotettix&lt;/i&gt; Zahniser, in having segment X of the male abdomen with a falcate ventral process.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; Deltocephalinae; Athysanini; new species; taxonomy</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wu</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2011-10-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2539.1</id>
+    <title locale="en_US">16 Jul. 2010</title>
+    <volume>2539</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Chondrinidae taxonomy revisited: New synonymies, new taxa, and a checklist of species and subspecies (Mollusca: Gastropoda: Pulmonata)</title>
+        <abstract locale="en_US">This contribution provides a revision of the stylommatophoran pulmonate family Chondrinidae. Based on newly acquired molecular as well as morphometric and distributional data on the Chondrinidae, some cryptic species were revealed. The following new taxa are formally described in this contribution: &lt;i&gt;Abida&lt;/i&gt; &lt;i&gt;secale&lt;/i&gt; &lt;i&gt;vilellai,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;peteri,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;merijni,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;ionicae,&lt;/i&gt; &lt;i&gt;Chondrina&lt;/i&gt; &lt;i&gt;ingae,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;marjae,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pseudavenacea&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;arigonoides.&lt;/i&gt; Some revisions in the currently accepted nomenclature of the Chondrinidae are also made and a new subfamily, Granariinae, is introduced. An annotated checklist is provided for the genus &lt;i&gt;Rupestrella.&lt;/i&gt; The variation in shell morphology in &lt;i&gt;Chondrina&lt;/i&gt; and the intraspecific variation in &lt;i&gt;Abida&lt;/i&gt; &lt;i&gt;secale&lt;/i&gt; are illustrated with 13 plates.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gastropoda; Chondrinidae; Chondrininae; Granariinae; &lt;i&gt;Abida&lt;/i&gt;; &lt;i&gt;Chondrina&lt;/i&gt;; &lt;i&gt;Rupestrella&lt;/i&gt;; &lt;i&gt;Granaria&lt;/i&gt;; &lt;i&gt;Solatopupa&lt;/i&gt;; &lt;i&gt;Granopupa&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Gastropoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bas</firstname>
+          <lastname>Kokshoorn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edmund</firstname>
+          <lastname>Gittenberger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2010-07-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

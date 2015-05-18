@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2664.1</id>
+    <title locale="en_US">2 Nov. 2010</title>
+    <volume>2664</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Studies in the orthopteran fauna of Melanesia: New katydids of the tribe Agraeciini from Papua New Guinea (Orthoptera: Tettigoniidae: Conocephalinae)</title>
+        <abstract locale="en_US">Two new genera (Ingrischia &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; and &lt;i&gt;Pandanagraecia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.)&lt;/b&gt; and 15 new forest species of Agraeciini (Orthoptera: Tettigoniidae) from New Britain and central Papua New Guinea are described: &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;macrocephala&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;poregera&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;armata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bifurcata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stylata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Salomona&lt;/i&gt; &lt;i&gt;richardsi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Pseudonicsara&lt;/i&gt; &lt;i&gt;(P.)&lt;/i&gt; &lt;i&gt;fascifrons&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;(P.)&lt;/i&gt; &lt;i&gt;gugusu&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Anthracites&lt;/i&gt; &lt;i&gt;nakanaiensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Gonatacanthus&lt;/i&gt; &lt;i&gt;gahavisuka&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Microsalomona&lt;/i&gt; &lt;i&gt;sawetau&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;brachyptera&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Scytocera&lt;/i&gt; &lt;i&gt;smaragdifrons&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Philmontis&lt;/i&gt; &lt;i&gt;lobatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;Trichophallus&lt;/i&gt; &lt;i&gt;tricuspis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Stridulations of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;richardsi&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;godeffroyi&lt;/i&gt; (Pictet) are described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthoptera; katydids; Papua New Guinea; Conocephalinae; Melanesia</subject>
+          <subject_class locale="en_US">Orthoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Piotr</firstname>
+          <lastname>Naskrecki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>C. F.</middlename>
+          <lastname>Rentz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2010-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Ruidocollaris &lt;/i&gt;Liu (Orthoptera: Tettigoniidae), with description of six new species from China</title>
+        <abstract locale="en_US">The validity of &lt;i&gt;Ruidocollaris&lt;/i&gt; Liu is re-confirmed based on abundant material from China. A review on &lt;i&gt;Ruidocollaris&lt;/i&gt; in the world is given, with a list of nine species. Characters of the stridulatory file on the underside of the male left tegmen, and male stridulatory area on left and right tegmen are provided for each species. Six new species are described, including &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rubescens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;longicaudalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;apennis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;latilobalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ferruginescens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;parapennis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; A key to nine species of the genus &lt;i&gt;Ruidocollaris&lt;/i&gt; is provided accompanied by illustrations. Distribution maps of &lt;i&gt;Ruidocollaris&lt;/i&gt; species, mainly from China, are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; &lt;i&gt;Sympaestria&lt;/i&gt;; &lt;i&gt;Liotrachela&lt;/i&gt;; katydid; China</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chun-Xiang</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Le</firstname>
+          <lastname>Kang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-60</pages>
+        <date_published>2010-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the planthopper genus &lt;i&gt;Amasha &lt;/i&gt;Medler (Hemiptera: Fulgoromorpha: Flatidae: Phyllyphantini) with description of one new species from China</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Amasha&lt;/i&gt; Medler is reviewed with description of a new species, &lt;i&gt;Amasha&lt;/i&gt; &lt;i&gt;haina,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from China. All known species of the genus are also redescribed and illustrated, and the male genitalia of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;inepta&lt;/i&gt; Medler is described for the first time. A key to all species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Fulgoroidea; Auchenorrhyncha; taxonomy; new species; Oriental</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ya-Lin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ling-Fei</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ying-Lun</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-11-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

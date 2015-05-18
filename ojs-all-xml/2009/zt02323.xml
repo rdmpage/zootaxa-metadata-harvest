@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2323.1</id>
+    <title locale="en_US">22 Dec. 2009</title>
+    <volume>2323</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the &lt;i&gt;Dardanus sinistripes &lt;/i&gt;(Stimpson, 1859) (Decapoda, Anomura, Diogenidae) species complex with the description of five new species from the Mexican Pacific </title>
+        <abstract locale="en_US">An exhaustive revision of material identified as &lt;i&gt;Dardanus&lt;/i&gt; &lt;i&gt;sinistripes&lt;/i&gt; (Stimpson, 1859) in collections in Mexico and the USA, and of new material of &lt;i&gt;Dardanus&lt;/i&gt; collected in several localities in the Eastern Pacific revealed the existence of five undescribed species closely related to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sinistripes.&lt;/i&gt; Detailed study of this material allows us to redescribe &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sinistripes&lt;/i&gt; based on a neotype selected from a locality in Panama, and to describe &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nudus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;stimpsoni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;janethaigae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pilosus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;magdalenensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The six species of the genus &lt;i&gt;Dardanus&lt;/i&gt; in the Eastern Pacific are fully illustrated and compared.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Anomura; Diogenidae; &lt;i&gt;Dardanus&lt;/i&gt; &lt;i&gt;sinistripes&lt;/i&gt;; hermit crabs; species complex; Eastern Pacific</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Manuel</firstname>
+          <middlename>Ayón</middlename>
+          <lastname>Parente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <middlename>E.</middlename>
+          <lastname>Hendrickx</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-71</pages>
+        <date_published>2009-12-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

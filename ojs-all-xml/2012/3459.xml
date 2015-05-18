@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3459.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3459</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of Teiid Morphology with a Revised Taxonomy and Phylogeny of the Teiidae (Lepidosauria: Squamata)</title>
+        <abstract locale="en_US">Despite advances within particular groups, systematics of the Teiidae has long been unsatisfactory, because fewmorphological characters have been described for this family. Consequently, most species have been assigned to the large,polyphyletic, and poorly defined genera &lt;i&gt;Ameiva&lt;/i&gt; and &lt;i&gt;Cnemidophorus.&lt;/i&gt; We describe 137 morphological characters andscore them for most species of Neotropical Teiidae. Important, but previously undescribed, character suites include pupilshape; the frontal ridge; longitudinal division of the interparietal; the rostral groove; patterns of supraciliary fusion; thepreauricular skin fold; the “toothy” first supralabial; modified apical granules; the pectoral sulcus; expansion of scales atthe heel; tibiotarsal shields; scales between the digital lamellae along the postaxial edges of the toes; scale surfacemicrostructure of macrohoneycomb, macroridges, or lamellae; distribution patterns and morphology of lenticular scaleorgans; types of epidermal generation glands; and several hemipenial structures. We propose a new taxonomy of theTeiidae based on recovered evolutionary history and numerous morphological characters surveyed in this study. Werecognize three subfamilies: Callopistinae &lt;b&gt;new&lt;/b&gt; &lt;b&gt;subfamily,&lt;/b&gt; Teiinae Estes &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; and Tupinambinae Estes &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; To resolvepolyphyly of &lt;i&gt;Ameiva&lt;/i&gt; and &lt;i&gt;Cnemidophorus,&lt;/i&gt; we erect four new genera for various groups of Neotropical Teiidae: &lt;i&gt;Ameivula&lt;/i&gt;&lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; &lt;i&gt;Aurivela&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; &lt;i&gt;Contomastix&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; and &lt;i&gt;Medopheos&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus.&lt;/b&gt; We resurrect &lt;i&gt;Holcosus&lt;/i&gt; Cope fromthe synonymy of &lt;i&gt;Ameiva&lt;/i&gt; and &lt;i&gt;Salvator&lt;/i&gt; Duméril and Bibron from the synonymy of &lt;i&gt;Tupinambis.&lt;/i&gt; On the basis of sharedderived characters, we propose new species groups of our redefined &lt;i&gt;Ameiva&lt;/i&gt; and &lt;i&gt;Cnemidophorus.&lt;/i&gt; We incorporate our newcharacters into a key to the genera and species groups of Teiidae. A phylogenetic hypothesis of Teiidae based onmorphological characters differs substantially from hypotheses based on mitochondrial DNA. The phylogeny based onmorphology is consistent with well-established biogeographic patterns of Neotropical vertebrates and explains extreme morphological divergence in such genera as &lt;i&gt;Kentropyx&lt;/i&gt; and &lt;i&gt;Aurivela.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ameivula&lt;/i&gt; new genus; &lt;i&gt;Aurivela&lt;/i&gt; new genus; Callopistinae new subfamily; &lt;i&gt;Contomastix&lt;/i&gt; new genus; generation glands; &lt;i&gt;Holcosus&lt;/i&gt;; &lt;i&gt;Medopheos&lt;/i&gt; new genus; scale surface morphology; &lt;i&gt;Salvator&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ameivula&lt;/i&gt; new genus</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <middlename>B.</middlename>
+          <lastname>Harvey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriel</firstname>
+          <middlename>N.</middlename>
+          <lastname>Ugueto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronald</firstname>
+          <middlename>L.</middlename>
+          <lastname>Gutberlet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-156</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2747.1</id>
+    <title locale="en_US">24 Jan. 2011</title>
+    <volume>2747</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-01-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of shrub frogs (Rhacophoridae: &lt;i&gt;Pseudophilautus&lt;/i&gt;) from Sri Lanka</title>
+        <abstract locale="en_US">Two new species of Sri Lankan shrub frogs of the genus &lt;i&gt;Pseudophilautus&lt;/i&gt; are described. These species are diagnosed from their congeners on the basis of morphology, morphometrics and mitochondrial DNA sequence data. &lt;i&gt;Pseudophilautus&lt;/i&gt; &lt;i&gt;schneideri,&lt;/i&gt; new species, is distinguished from all Sri Lankan &lt;i&gt;Pseudophilautus&lt;/i&gt; by its small size (&lt; 22.8 mm SVL), distinct tympanum and supratympanic fold, sharp canthal edges, granular throat, chest and belly, and absence or presence of a vomerine ridge. &lt;i&gt;Pseudophilautus&lt;/i&gt; &lt;i&gt;hankeni,&lt;/i&gt; new species, is distinguished by its diminutive size (&lt; 21.9 mm SVL), distinct tympanum, rounded canthal edges, tuberculated outer edge of lower arm, tuberculated dermal fold on outer edge of foot, granular throat, chest and belly, and the absence of a vomerine ridge. &lt;i&gt;Pseudophilautus&lt;/i&gt; &lt;i&gt;schneideri&lt;/i&gt; inhabits shrubs in open areas of the low to mid-elevations of the island’s south-western ‘wet zone’ (rainfall &gt; 2,000 mm•yr -1 ), including anthropogenic habitats, while &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hankeni&lt;/i&gt; is found on shrubs in the understorey of montane forests of the highest peaks (c. 1,200– 1,600 m elevation) of the Knuckles region. These descriptions bring the total number of valid species of Sri Lankan &lt;i&gt;Pseudophilautus&lt;/i&gt; to 67, 48 of which are extant.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rhacophorinae; taxonomy; molecular systematics; Knuckles Hills; conservation</subject>
+          <subject_class locale="en_US">Rhacophorinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Madhava</firstname>
+          <lastname>Meegaskumbura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kelum</firstname>
+          <lastname>Manamendra-Arachchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2011-01-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Klinckowstroemia &lt;/i&gt;Baker &amp; Wharton, 1952 (Acari: Klinckowstroemiidae), associated with passalid beetles from Mexico and Panama</title>
+        <abstract locale="en_US">Four new species of the genus &lt;i&gt;Klinckowstroemia&lt;/i&gt; are described, all obtained from passalid beetles collected in Mexico and Panama. The species are: &lt;i&gt;Klinckowstroemia&lt;/i&gt; &lt;i&gt;pennula,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;melissae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;stilla&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;oconnori&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; We found two instances where different mite species inhabited the same host, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;pennula,&lt;/i&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;melissae&lt;/i&gt; on &lt;i&gt;Pseudacanthus&lt;/i&gt; sp., and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;pennula&lt;/i&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;candidoi&lt;/i&gt; on &lt;i&gt;Oileus&lt;/i&gt; &lt;i&gt;bifidus.&lt;/i&gt; This is the first record of the genus &lt;i&gt;Klinckowstroemia&lt;/i&gt; from Panama. An updated key for the 24 species of &lt;i&gt;Klinckowstroemia&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mites; Passalidae; Central America; synhospitality; phoresy</subject>
+          <subject_class locale="en_US">mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gabriel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Villegas-Guzmán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <lastname>Reyes-Castillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tila</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-36</pages>
+        <date_published>2011-01-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the identity of &lt;i&gt;Microananteris&lt;/i&gt;, with a discussion on pectinal morphology, and description of a new &lt;i&gt;Ananteris &lt;/i&gt;from Brazil (Scorpiones, Buthidae)</title>
+        <abstract locale="en_US">The characters originally used to define the monotypic genus &lt;i&gt;Microananteris&lt;/i&gt; Lourenço, 2003 are reanalyzed from the point of view of their usefulness to justify its recognition as a genus apart from &lt;i&gt;Ananteris&lt;/i&gt; Thorell, 1891. A study of pectinal morphology conducted with Scanning Electron Microscopy (SEM) in six species of &lt;i&gt;Ananteris,&lt;/i&gt; along with the results presented by Lourenço (2003) and other authors, demonstrate that both genera cannot be separated based on the shape of the peg sensillae but demonstrate this character’s (and the presence of seta-like structures) immediate usefulness at the species level instead. Such analysis of the morphological attributes of &lt;i&gt;Microananteris&lt;/i&gt; as defined by Lourenço (2003) reveals there is no evidence in support of its validity. Therefore, &lt;i&gt;Microananteris&lt;/i&gt; is synonymized with &lt;i&gt;Ananteris&lt;/i&gt; and &lt;i&gt;Microananteris&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; Lourenço, 2003 transferred to this genus. A new species of &lt;i&gt;Ananteris&lt;/i&gt; is also described from the Natural Reserve Palmari in the Brazilian Amazon.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ananteris&lt;/i&gt;; &lt;i&gt;Microananteris&lt;/i&gt; &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ananteris&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ananteris&lt;/i&gt; &lt;i&gt;palmari&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; pectines; scanning electron microscopy; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ananteris&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Botero-Trujillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <middlename>Ari</middlename>
+          <lastname>Noriega</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-52</pages>
+        <date_published>2011-01-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The new deep-sea families Cebocaridae fam. nov., Cyclocaridae fam. nov. and Thoriellidae fam. nov. (Crustacea: Amphipoda: Lysianassoidea)</title>
+        <abstract locale="en_US">Within the Lysianassoidea three new families are established: Cebocaridae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for the deep-sea bathypelagic genera &lt;i&gt;Cebocaris&lt;/i&gt; J.L. Barnard, 1964; &lt;i&gt;Crybelocephalus&lt;/i&gt; Tattersall, 1906; &lt;i&gt;Crybelocyphocaris&lt;/i&gt; Shoemaker, 1945; &lt;i&gt;Cyphocarioides&lt;/i&gt; Birstein &amp; Vinogradov, 1970; &lt;i&gt;Mesocyclocaris&lt;/i&gt; Birstein &amp; Vinogradov, 1964; &lt;i&gt;Mesocyphocaris&lt;/i&gt; Birstein &amp; Vinogradov, 1960; &lt;i&gt;Metacyclocaris&lt;/i&gt; Birstein &amp; Vinogradov, 1955; &lt;i&gt;Metacyphocaris&lt;/i&gt; Tattersall, 1906 and &lt;i&gt;Paracyphocaris&lt;/i&gt; Chevreux, 1905; Cyclocaridae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for the deep-sea demersal scavenging genus &lt;i&gt;Cyclocaris&lt;/i&gt; Stebbing, 1888; and Thoriellidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for the abyssopelagic genera &lt;i&gt;Chevreuxiella&lt;/i&gt; Stephensen, 1915, &lt;i&gt;Danaella&lt;/i&gt; Stephensen, 1925, &lt;i&gt;Parachevreuxiella&lt;/i&gt; Andres, 1987 and &lt;i&gt;Thoriella&lt;/i&gt; Stephensen, 1915. The families Cebocaridae and Thoriellidae are reported from Australian waters for the first time, in the form of &lt;i&gt;Metacyphocaris&lt;/i&gt; &lt;i&gt;helgae&lt;/i&gt; Tattersall, 1906 and &lt;i&gt;Parachevreuxiella&lt;/i&gt; &lt;i&gt;justi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Lysianassoidea; Cebocaridae; Cyclocaridae; Thoriellidae; Australia; deep-sea; taxonomy; new families; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Stoddart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2011-01-24</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2669.1</id>
+    <title locale="en_US">8 Nov. 2010</title>
+    <volume>2669</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the carinaless group of &lt;i&gt;Lasioglossum &lt;/i&gt;(&lt;i&gt;Evylaeus&lt;/i&gt;) (Hymenoptera, Halictidae) from the Ryukyu Islands, Japan, with description of seven new species</title>
+        <abstract locale="en_US">Seven new species of the carinaless group of &lt;i&gt;Lasioglossum&lt;/i&gt; (Evylaeus) are described from the Ryukyu Islands, Japan: &lt;i&gt;Lasioglossum&lt;/i&gt; (Evylaeus) &lt;i&gt;canaliculatum&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;urumaense&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the central Ryukyus; &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;bicornutum&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;donanense&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;latifacies&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;silvicolum&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;yonaguniense&lt;/i&gt; Murao &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the southern Ryukyus. Both &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;amamiense&lt;/i&gt; Ebmer &amp; Sakagami and &lt;i&gt;L.&lt;/i&gt; (E.) &lt;i&gt;zipangu&lt;/i&gt; Ebmer &amp; Sakagami are redescribed, including the first descriptions of their males. An identification key to the carinaless &lt;i&gt;Evylaeus&lt;/i&gt; species occurring in the central and southern Ryukyus is provided, as well as data on the geographical distribution, flight, and flower records of each species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Halictinae; Halictini; bees; Palaearctic Region</subject>
+          <subject_class locale="en_US">Halictinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ryuki</firstname>
+          <lastname>Murao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Osamu</firstname>
+          <lastname>Tadauchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masashi</firstname>
+          <lastname>Goubara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yasuo</firstname>
+          <lastname>Maeta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The monkey grasshoppers, genus &lt;i&gt;Zeromastax &lt;/i&gt;Porras (Eumastacinae, Eumastacidae, Orthoptera): two new species from the Neotropics</title>
+        <abstract locale="en_US">The identification of Eumastacidae is normally based on the study of phallic complex. However, the genus &lt;i&gt;Zeromastax&lt;/i&gt; possesses additional characters that easily differentiate it from other eumastacids. These are ten antenomeres, spines located ventrally on the posterior femur, spur in the distal part of hind tibiae, micropterous condition and the phallic complex with subepiphallic sclerite. Two new species are described, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;aris&lt;/i&gt; and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;malavasei&lt;/i&gt; from the Andean region of Colombia, which show differences in external anatomy including the pronotum, shape of tegmina and coloration pattern, as well as several differences in the phallic complex.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Colombia; taxonomy; Phallic complex; Subepihallic sclerite</subject>
+          <subject_class locale="en_US">Colombia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mitzy</firstname>
+          <middlename>F.</middlename>
+          <lastname>Porras</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-44</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new Neotropical species of &lt;i&gt;Stilobezzia &lt;/i&gt;(&lt;i&gt;Acanthohelea&lt;/i&gt;) Kieffer (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US">The subgenus &lt;i&gt;Stilobezzia&lt;/i&gt; (Acanthohelea) Kieffer is newly recorded from several provinces of northern Argentina and Paraguay, and the following four new species are described, and illustrated: &lt;i&gt;S.&lt;/i&gt; (A.) &lt;i&gt;guarani,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; (A.) &lt;i&gt;monopicta,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; (A.) &lt;i&gt;paranaense&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; (A.) &lt;i&gt;xerophila.&lt;/i&gt; These species are compared with similar congeners.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ceratopogonidae; &lt;i&gt;Stilobezzia&lt;/i&gt; (Acanthohelea); new species; northern Argentina; Paraguay</subject>
+          <subject_class locale="en_US">Ceratopogonidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carla</firstname>
+          <middlename>G.</middlename>
+          <lastname>Cazorla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>R.</middlename>
+          <lastname>Spinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the genus &lt;i&gt;Eumantispa &lt;/i&gt;Okamoto, 1910 from mainland of China (Neuroptera, Mantispidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Eumantispa&lt;/i&gt; from mainland of China is revised including the description of a new species, &lt;i&gt;Eumantispa&lt;/i&gt; &lt;i&gt;pseudoharmandi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the species of &lt;i&gt;Eumantispa&lt;/i&gt; from mainland of China is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neuroptera; Mantispidae; &lt;i&gt;Eumantispa&lt;/i&gt;; new species; mainland of China; genitalia</subject>
+          <subject_class locale="en_US">Neuroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiushuai</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhiqi</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2010-11-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

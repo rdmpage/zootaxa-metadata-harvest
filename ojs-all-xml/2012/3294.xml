@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3294.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3294</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Indo-Pacific cardinalfish genus &lt;i&gt;Siphamia&lt;/i&gt; (Perciformes: Apogonidae)</title>
+        <abstract locale="en_US">The Indo-Pacific apogonid genus &lt;i&gt;Siphamia&lt;/i&gt; Weber 1909 is unique among cardinalfishes in having a bacterial biolumines-cent system and spinoid scales. Light is produced by luminous bacteria found in a small pocket connected to the gut in theabdominal cavity and in a sac on each side of the tip of the tongue. &lt;i&gt;Siphamia&lt;/i&gt; consists of 23 small species many of whichare associated with invertebrates such as sea urchins, crown-of-thorns starfish and coral. Species of this genus fall intotwo main groups with different dark pigment pattern of the longitudinal translucent muscle acting as a light organ thatdiffuses light along the ventral edge of the body. The &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tubifer&lt;/i&gt; group, with a striated light organ, includes &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;arabica,&lt;/i&gt; newspecies, from the Gulf of Oman; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;argentea&lt;/i&gt; from the Philippines and northern Western Australia; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;fraseri,&lt;/i&gt; new species,from New Caledonia, Tonga and Fiji; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;fuscolineata&lt;/i&gt; from the Marshall and Line islands; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;goreni,&lt;/i&gt; new species, from thesouthern Red Sea; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;guttulata&lt;/i&gt; from Darnley Island, Queensland; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;jebbi&lt;/i&gt; from the western Pacific, ranging from the Phil-ippines to Western Australia and east to the Caroline Islands, Fiji, and Tonga; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;majimai&lt;/i&gt; from the Ryukyu and Ogasawaraislands to northwestern Australia, ranging eastward to New Caledonia and Tonga; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;mossambica&lt;/i&gt; from the western IndianOcean; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;randalli,&lt;/i&gt; new species, from the Society and Cook islands; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;spinicola,&lt;/i&gt; new species, from Biak in eastern Indo-nesia, Papua New Guinea, Woleai Atoll, Vanuatu, New Caledonia and the Chesterfield Islands; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;stenotes,&lt;/i&gt; new species,from the Triton Bay area of Irian Jaya Barat Province of Indonesia; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tubifer&lt;/i&gt; ranging widely in the Indo-West Pacificfrom the Red Sea to Madagascar and east to Vanuatu. The &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tubulata&lt;/i&gt; group, with a dark-dotted light organ, includes &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;brevilux,&lt;/i&gt; new species, from Papua New Guinea; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cephalotes&lt;/i&gt; from southern Australia; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;corallicola&lt;/i&gt; from Indonesia, Sa-bah, and Timor Sea; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cuneiceps&lt;/i&gt; from Western Australia and the east coast of Queensland; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cyanophthalma,&lt;/i&gt; new species,from the Philippines, Palau, Indonesia, and Papua New Guinea; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; from the Philippines and Brunei; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;fistulosa&lt;/i&gt;from Java, Sumbawa and Komodo, Indonesia, and Brunei; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;roseigaster&lt;/i&gt; from Western Australia, ranging along the north-ern and eastern coast of Australia south to Sydney Harbour, New South Wales; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;senoui,&lt;/i&gt; new species, from the RyukyuIslands, Japan; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tubulata&lt;/i&gt; from the Papua Barat Province, Indonesia, south coast of Papua New Guinea, northern Western Australia and Queensland.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">bioluminescence; distribution; new species; phylogenetic relationship; spinoid scales; taxonomy</subject>
+          <subject_class locale="en_US">bioluminescence</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ofer</firstname>
+          <lastname>Gon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerald</firstname>
+          <middlename>R.</middlename>
+          <lastname>Allen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-84</pages>
+        <date_published>2012-04-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

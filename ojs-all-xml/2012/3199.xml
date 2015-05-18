@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3199.1</id>
+    <title locale="en_US">20 Feb. 2012</title>
+    <volume>3199</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Type material housed in the Helminthological Collection of the Museo de La Plata, Buenos Aires, Argentina </title>
+        <abstract locale="en_US">A catalogue of type specimens of the Helminthological Collection of the División Zoología Invertebrados, of Museo deLa Plata (FCNyM-UNLP), Argentina, is presented. It includes Platyhelmithes, Nematoda, Nematomorpha and Acan-thocephala. The collection comprises type lots for 217 species: 90 nematodes, 50 digeneans, 28 Nematomorpha, 19 mono-geneans, 17 turbellarians, 8 cestodes and 5 acanthocephalans. Specific names are listed systematically, followed by type host, type locality, specimens, collection number and bibliographic reference.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Helminthes; catalogue; type material; Museo de La Plata Collection</subject>
+          <subject_class locale="en_US">Helminthes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lia</firstname>
+          <middlename>I.</middlename>
+          <lastname>Lunaschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Victor</firstname>
+          <middlename>Hugo Merlo</middlename>
+          <lastname>Álvarez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristina</firstname>
+          <lastname>Damborenea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-59</pages>
+        <date_published>2012-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Alloblennius frondiculus&lt;/i&gt;, a new species of blenny from the Andaman Islands (Teleostei: Blenniidae: Salariini) </title>
+        <abstract locale="en_US">A new species of blenniid fish, tribe Salariini, is described based on a 23.8 mm SL specimen collected from the AndamanIslands, eastern Indian Ocean. It differs from other species of &lt;i&gt;Alloblennius&lt;/i&gt; in having a pinnately branched supraorbitalcirrus about equal to eye diameter in height; lower jaws with relatively large, darkly pigmented labial flap anteriorly oneach side of chin; pectoral fin with 10 or 11 distinct, small dark spots; and anteriormost preopercular pore position with avertical pair of pores. The distribution of the new species is notable because the four previously described species of thegenus are known only from the western Indian Ocean and Red Sea. A table comparing the five species of &lt;i&gt;Alloblennius&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Blenniidae; &lt;i&gt;Alloblennius&lt;/i&gt; &lt;i&gt;frondiculus&lt;/i&gt;; new species; Andaman Is.</subject>
+          <subject_class locale="en_US">Blenniidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>F.</middlename>
+          <lastname>Smith-Vaniz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerald</firstname>
+          <middlename>R.</middlename>
+          <lastname>Allen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-65</pages>
+        <date_published>2012-02-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic corrections of certain verified non-indigenous reptiles from Florida reported by Krysko &lt;i&gt;et al. &lt;/i&gt;(2011) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kenneth</firstname>
+          <middlename>L.</middlename>
+          <lastname>Krysko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Louis</firstname>
+          <middlename>A.</middlename>
+          <lastname>Somma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>R.</middlename>
+          <lastname>Rochford</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christopher</firstname>
+          <middlename>R.</middlename>
+          <lastname>Gillette</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>M.</middlename>
+          <lastname>Enge</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>Cueva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-02-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

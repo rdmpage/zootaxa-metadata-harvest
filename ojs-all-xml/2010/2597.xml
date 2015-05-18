@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2597.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2597</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An annotated catalogue of the Muscidae (Diptera) of Siberia</title>
+        <abstract locale="en_US">An annotated catalogue of the Muscidae (Diptera) of Siberia is given. The catalogue contains taxonomic and geographic information on 282 named species and subspecies, with a further 17 named or unnamed species for which the identifications require confirmation or revision. Taxonomic information for each species includes references to the original description, the type-locality, and the nature and depository of the primary type(s). Geographic information for each species includes all known records of Siberian localities and the published source for each of them. A comprehensive bibliography is included. The name &lt;i&gt;Gymnodia&lt;/i&gt; Robineau-Desvoidy, 1863 is accepted as the valid name for the genus previously known as &lt;i&gt;Brontaea&lt;/i&gt; Kowarz, 1873. &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;sugillatrix&lt;/i&gt; (Robineau-Desvoidy, 1830) is here treated as a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;oblitum,&lt;/i&gt; and its junior subjective synonym &lt;i&gt;Musca&lt;/i&gt; &lt;i&gt;osiris&lt;/i&gt; Wiedemann, 1830, as a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;protectum.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Muscidae; Russia; Siberia; catalogue; distribution</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vera</firstname>
+          <middlename>S.</middlename>
+          <lastname>Sorokina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adrian</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pont</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-87</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

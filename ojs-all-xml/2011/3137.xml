@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3137.1</id>
+    <title locale="en_US">20 Dec. 2011</title>
+    <volume>3137</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the subgenus &lt;i&gt;Ammosphex &lt;/i&gt;Wilcke, 1942 of the genus &lt;i&gt;Arachnospila &lt;/i&gt;Kincaid, 1900 (Hymenoptera: Pompilidae) of the Russian Far East and East Siberia</title>
+        <abstract locale="en_US">A total of nineteen species are reviewed. Five new species: &lt;i&gt;Arachnospila&lt;/i&gt; (Ammosphex) &lt;i&gt;belokobylskii&lt;/i&gt; Loktionov and Lelej, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Primorskiy Terr.), &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;orientausa&lt;/i&gt; Loktionov and Lelej, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Primorskiy Terr.), &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;rasnitsyni&lt;/i&gt; Loktionov and Lelej, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Buryatia), &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;tobiasi&lt;/i&gt; Loktionov and Lelej, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Buryatia), and &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;zonsteini&lt;/i&gt; Loktionov and Lelej, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Buryatia) are described and illustrated. Hitherto unknown females of &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;eoabnormis&lt;/i&gt; Lelej, 1995, &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;kurentzovi&lt;/i&gt; Lelej, 1995, &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;kurzenkoi&lt;/i&gt; Lelej, 1995, &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;mongolopinata&lt;/i&gt; Wolf, 1981, &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;wolfi&lt;/i&gt; Lelej, 1995, and &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;yasumatsui&lt;/i&gt; Wolf and Móczár, 1972 are described. Three species: &lt;i&gt;Arachnospila&lt;/i&gt; (Ammosphex) &lt;i&gt;dschingis&lt;/i&gt; Wolf and Móczár, 1972, &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;kaszabi&lt;/i&gt; Wolf and Móczár, 1972, and &lt;i&gt;A.&lt;/i&gt; (A.) &lt;i&gt;yasumatsui&lt;/i&gt; Wolf and Móczár, 1972 are newly recorded from Russia. A key to species for both sexes is given.The synonymy of &lt;i&gt;Psammochares&lt;/i&gt; &lt;i&gt;subflavus&lt;/i&gt; Haupt, 1929 under &lt;i&gt;Arachnospila&lt;/i&gt; &lt;i&gt;clericalis&lt;/i&gt; (F. Morawitz, 1889) is confirmed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pompilidae; spider wasps; &lt;i&gt;Arachnospila&lt;/i&gt;; &lt;i&gt;Ammosphex&lt;/i&gt;; Russian Far East; East Siberia; new species</subject>
+          <subject_class locale="en_US">Pompilidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valery</firstname>
+          <middlename>M.</middlename>
+          <lastname>Loktionov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arkady</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lelej</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2011-12-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new avocado pest in Central America (Lepidoptera: Tortricidae) with a key to Lepidoptera larvae threatening avocados in California</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Todd</firstname>
+          <middlename>M.</middlename>
+          <lastname>Gilligan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>W.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <middlename>S.</middlename>
+          <lastname>Hoddle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-45</pages>
+        <date_published>2011-12-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and records of the genus &lt;i&gt;Dolophilodes &lt;/i&gt;Ulmer (Trichoptera: Philopotamidae) from India</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Dolophilodes&lt;/i&gt; Ulmer (Trichoptera: Philopotamidae) is reviewed from India, with the description of 3 new species: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;malickyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;punjpullaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Punjpulla (Himachal Pradesh) and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;morsei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Lumla (Arunachal Pradesh). &lt;i&gt;Dolophilodes&lt;/i&gt; &lt;i&gt;ornatula&lt;/i&gt; Kimmins is reported for the first time from India. This species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;tibetana&lt;/i&gt; Kimmins and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; Martynov are redescribed with additional collection records. A key to males of the known Indian species of this genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; keys; Himachal Pradesh; Arunachal Pradesh</subject>
+          <subject_class locale="en_US">New species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Malkiat</firstname>
+          <middlename>Singh</middlename>
+          <lastname>Saini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manpreet</firstname>
+          <middlename>Singh</middlename>
+          <lastname>Pandher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-55</pages>
+        <date_published>2011-12-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Chewing lice of the genus &lt;i&gt;Myrsidea &lt;/i&gt;(Phthiraptera: Menoponidae) from New World warblers (Passeriformes: Parulidae) from Costa Rica, with descriptions of four new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Filip</firstname>
+          <lastname>Kounek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oldrich</firstname>
+          <lastname>Sychra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miroslav</firstname>
+          <lastname>Capek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <lastname>Literak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-63</pages>
+        <date_published>2011-12-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the larva of &lt;i&gt;Gynacantha auricularis &lt;/i&gt;Martin, 1909 (Odonata: Aeshnidae)</title>
+        <abstract locale="en_US">The ultimate stadium larva of &lt;i&gt;Gynacantha&lt;/i&gt; &lt;i&gt;auricularis&lt;/i&gt; is described and illustrated based on exuviae of a male and a female reared larvae from Manaus, Brazil. The larva resembles that of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (Burmeister) in having a small lateral spine also on abdominal segment 5, while the prementum morphology and size and distribution and number of palpal setae are similar to those species with lateral spine absent on segment 5. The larvae were found in rainwater pools with abundant leaf litter, in the interior of Amazonian lowland forest.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazon; Anisoptera; aquatic insect; dragonfly; taxonomy</subject>
+          <subject_class locale="en_US">Amazon</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jürg</firstname>
+          <lastname>De Marmels</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulisses</firstname>
+          <middlename>Gaspar</middlename>
+          <lastname>Neiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2011-12-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

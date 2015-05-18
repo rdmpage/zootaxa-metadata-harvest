@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2059.1</id>
+    <title locale="en_US">1 Apr. 2009</title>
+    <volume>2059</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new Assamiidae (Arachnida: Opiliones) from Cameroon, with a redescription of &lt;i&gt;Chilon robustus &lt;/i&gt;and comments on related species</title>
+        <abstract locale="en_US">Assamiids from a small collection at the MRAC in Tervuren provided four species represented with males: &lt;i&gt;Chilon&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Sørensen, 1896, &lt;i&gt;Ereca&lt;/i&gt; &lt;i&gt;treses&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Erecinae), &lt;i&gt;Bueana&lt;/i&gt; &lt;i&gt;vitteli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Polycoryphinae) and &lt;i&gt;Rhabdopygus&lt;/i&gt; &lt;i&gt;puylaerti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hypoxestinae). The revision of syntypes of several related species allowed us to revalidate &lt;i&gt;Chilon&lt;/i&gt; &lt;i&gt;undulatus&lt;/i&gt; Sørensen, 1896 and to postulate that &lt;i&gt;Rhabdopygus&lt;/i&gt; &lt;i&gt;maculatus&lt;/i&gt; Roewer, 1935 does not belong to &lt;i&gt;Rhabdopygus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; Laniatores; Afrotropical Region</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christian</firstname>
+          <lastname>Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>E.</middlename>
+          <lastname>Prieto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2009-04-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Leptohalysis &lt;/i&gt;(Rhizaria, Foraminifera) from an extreme hadal site in the western Pacific Ocean</title>
+        <abstract locale="en_US">&lt;i&gt;Leptohalysis&lt;/i&gt; &lt;i&gt;kaikoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a new hormosinacean foraminiferan, is described from a core sample collected using the Japan Agency for Marine-Earth Science and Technology’s Remote Operated Vehicle, KAIKO, in the Challenger Deep (10,896 m water depth, Izu-Bonin-Mariana-Arc-trench system). The agglutinated test is &lt;130 µ m long and approximately 20 µm wide, and more or less confined to the 32-63 µm sieve fraction. It consists of a linear series of chambers with a simple terminal aperture. The new species differs from typical members of the genus &lt;i&gt;Leptohalysis&lt;/i&gt; in the following features: 1) the chambers are rounded and abut closely with a distinct suture between them, rather than being flask-shaped with more or less flat, truncated bases; 2) the wall structure is less regular and consists mainly of grains with flat exposed faces that abut to create an outer surface resembling an uneven pavement, the edges of the grains being obscured by copious amounts of organic cement; 3) the proloculus is sometimes followed by a single “adventitious”chamber, located to one side of the axis of growth. A second species with similar characteristics is represented by a single individual in our material. These two species may represent a new genus. However, we prefer to retain them within &lt;i&gt;Leptohalysis&lt;/i&gt; pending a detailed comparison of their wall structure with that of typical members of this genus. We also briefly describe a single specimen of a typical &lt;i&gt;Leptohalysis&lt;/i&gt; morphotype. &lt;i&gt;Leptohalysis&lt;/i&gt; &lt;i&gt;kaikoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was the most common multilocular agglutinated foraminiferan in the 32-63 µm sieve fraction of the Challenger Deep sample. It has not been found in the same size fraction of samples from abyssal depths in the North and eastern equatorial Pacific Ocean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Benthic foraminifera; agglutinated; Hormosinacea; deep-sea trench; West Pacific; Remote Operated Vehicle (ROV)</subject>
+          <subject_class locale="en_US">Benthic foraminifera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroshi</firstname>
+          <lastname>Kitazato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Katsuyuki</firstname>
+          <lastname>Uematsui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yuko</firstname>
+          <lastname>Todo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>J. Gooday</middlename>
+          <lastname>I</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-32</pages>
+        <date_published>2009-04-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New earthworms of the &lt;i&gt;Pheretima urceolata &lt;/i&gt;species group (Oligochaeta: Megascolecidae) from southern Luzon, Philippines</title>
+        <abstract locale="en_US">Earthworm specimens were collected from the Bicol region, southern Luzon Island, the Philippines. Seven species of the genus &lt;i&gt;Pheretima&lt;/i&gt; Kinberg, 1867 are described from Bicol: &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;bicolensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;viracensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;camarinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;doriae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;batoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;buhiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;gorasi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The seven new &lt;i&gt;Pheretima&lt;/i&gt; species all key to the &lt;i&gt;urceolata&lt;/i&gt; group in Sims &amp; Easton (1972) with a single pair of spermathecal pores in 5/6. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;bicolensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has spermathecal pores 0.05–0.06 circumference apart, copulatory bursae openings 0.14 circumference apart. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;viracensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spermathecal pores 0.32–0.36 circumference apart; copulatory bursae openings 0.20 circumference apart. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;camarinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spermathecal pores 0.18–0.20 circumference apart; copulatory bursae openings 0.19–0.20 circumference apart. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;doriae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spermathecal pores 0.32 circumference apart; copulatory bursae openings 0.32 circumference apart. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;batoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spermathecal pores 0.21–0.23 circumference apart; copulatory bursae openings 0.15–0.18 circumference apart. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;buhiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spermathecal pores 0.04–0.06 circumference apart; copulatory bursae openings 0.07–0.12 circumference apart. &lt;i&gt;Pheretima&lt;/i&gt; &lt;i&gt;gorasi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spermathecal pores 0.06–0.07 circumference apart; copulatory bursae openings 0.10 circumference apart. Descriptions of the new species are provided, including illustrations of the ventral view, and spermathecae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Earthworms; Oligochaeta; Megascolecidae; &lt;i&gt;Pheretima&lt;/i&gt;; &lt;i&gt;urceolata&lt;/i&gt; group; new species; Bicol region; Philippines</subject>
+          <subject_class locale="en_US">Earthworms</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yong</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samuel</firstname>
+          <middlename>W.</middlename>
+          <lastname>James</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-45</pages>
+        <date_published>2009-04-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Knightjonesia, &lt;/i&gt;a new genus (Polychaeta: Spirorbidae) with a winged opercular peduncle, and its taxonomy</title>
+        <abstract locale="en_US">It had hitherto been assumed in publications on serpulimorph systematics that spirorbids are characterized by an operculum borne on a wingless peduncle. However, while examining various spirorbid collections in the Natural History Museum, London, it was found that the type specimens of &lt;i&gt;Helicosiphon&lt;/i&gt; &lt;i&gt;platyspira&lt;/i&gt; Knight-Jones, 1978 possess a winged opercular peduncle, a character that had hitherto been used to distinguish between other serpulimorph genera. Accordingly, &lt;i&gt;Helicosiphon&lt;/i&gt; &lt;i&gt;platyspira&lt;/i&gt; is transferred to a new genus, &lt;i&gt;Knightjonesia,&lt;/i&gt; in which the opercular peduncle is winged, in contrast with &lt;i&gt;Helicosiphon&lt;/i&gt; in which it is wingless.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Spirorbidae; Romanchellinae</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>T.</firstname>
+          <middlename>Gottfried</middlename>
+          <lastname>Pillai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-50</pages>
+        <date_published>2009-04-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Second representative of the order Misophrioida (Crustacea, Copepoda) from Australia challenges the hypothesis of the Tethyan origin of some anchialine faunas</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Speleophria&lt;/i&gt; is described from a cave in the Nullarbor region in southern Western Australia. Its congeners include species from the Balearics, Croatia, Bermuda, Yucatan peninsula and north-western Western Australia, all considered to be Tethyan relicts. However, the discovery of the new speleophriid in the Nullarbor region has important biogeographic and ecological implications. From the biogeographic perspective, it either suggests dispersal as the process determining the current distribution pattern of the aquatic fauna found on the Roe Plains or significantly extends the Tethyan track across Australia, from the north-western coastal margin of the continent to the southern coastal margin. From an ecologic perspective, the new speleophriid suggests the possible existence of anchialine habitats in southern Australia. &lt;i&gt;Speleophria&lt;/i&gt; &lt;i&gt;nullarborensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from its four congeners by its plesiomorphic 3-segmented endopod of the first swimming leg (2-segmented in other species) and unusually long innermost apical seta on the caudal ramus. Another character that easily distinguishes our new species, and seems to be an autapomorphic feature, is its constricted preanal somite.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Speleophria&lt;/i&gt;; new species; taxonomy; zoogeography; Western Australia; Nullarbor</subject>
+          <subject_class locale="en_US">&lt;i&gt;Speleophria&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomislav</firstname>
+          <lastname>Karanovic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Eberhard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2009-04-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

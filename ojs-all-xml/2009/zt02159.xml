@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2159.1</id>
+    <title locale="en_US">16 Jul. 2009</title>
+    <volume>2159</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of the first cryptobranch onchidoridid &lt;i&gt;Onchimira cavifera &lt;/i&gt;gen. et sp. nov., and of three new species of the genera &lt;i&gt;Adalaria &lt;/i&gt;Bergh, 1879 and &lt;i&gt;Onchidoris &lt;/i&gt;Blainville, 1816 (Nudibranchia: Onchidorididae) from Kamchatka waters</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexander</firstname>
+          <lastname>Martynov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatiana</firstname>
+          <lastname>Korshunova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadezhda</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karen</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-43</pages>
+        <date_published>2009-07-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four species of the genus &lt;i&gt;Seba &lt;/i&gt;from Japan, with descriptions of two new species (Crustacea: Amphipoda: Sebidae)</title>
+        <abstract locale="en_US">Four species of the genus &lt;i&gt;Seba&lt;/i&gt; Bate, 1862 were collected from coastal areas in western Japan. Among them, two species were revealed to be new to science. Species collected are &lt;i&gt;Seba&lt;/i&gt; &lt;i&gt;chiltoni&lt;/i&gt; Moore, 1987, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ekepuu&lt;/i&gt; J.L. Barnard, 1970, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;latiquinta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;latisexta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; All of them are described in both sexes, and keys to species of &lt;i&gt;Seba&lt;/i&gt; in Japan are provided. Each species is distinguishable from one another by the shapes of gnathopods, pereopods 5–7 and uropods 1 and 2. The genus &lt;i&gt;Caribseba&lt;/i&gt; Shaw, 1989 is synonymized with &lt;i&gt;Seba.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; Sebidae; &lt;i&gt;Seba&lt;/i&gt;; Japan; new species</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Ariyama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-68</pages>
+        <date_published>2009-07-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

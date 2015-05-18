@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2971: 1–16 19</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>20</firstname>
+          <middlename>References Accepted: 13 Jun.</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2971.1</id>
+    <title locale="en_US">20 Jul. 2011</title>
+    <volume>2971</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The first blind &lt;i&gt;Paranthura &lt;/i&gt;species (Crustacea, Isopoda, Paranthuridae) from the 'El Cachucho' Marine Protected Area (Le Danois Bank, southern Bay of Biscay)</title>
+        <abstract locale="en_US">A new paranthurid isopod, &lt;i&gt;Paranthura&lt;/i&gt; &lt;i&gt;santiparrai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from specimens collected in the 'El Cachucho' Marine Protected Area, southern Bay of Biscay. The new species can be distinguished from all the known species of the genus &lt;i&gt;Paranthura&lt;/i&gt; by the absence of eyes, from the native NE Atlantic species &lt;i&gt;Paranthura&lt;/i&gt; &lt;i&gt;nigropunctata&lt;/i&gt; and &lt;i&gt;Paranthura&lt;/i&gt; &lt;i&gt;costana&lt;/i&gt; by the lack of body pigmentation, antenna 1 and pereopod morphology and from the non-indigenous species &lt;i&gt;Paranthura&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; (recently discovered in the Arcachon Bay) by the pleonites not fused mediodorsally. The genus &lt;i&gt;Paranthura&lt;/i&gt; is rediagnosed to accommodate the new taxon and an identification key is provided for European species. Ecological data on the new species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; Paranthuridae; &lt;i&gt;Paranthura&lt;/i&gt;; new species; 'El Cachucho' MPA; Le Danois Bank; Bay of Biscay</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Inmaculada</firstname>
+          <lastname>Frutos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean</firstname>
+          <middlename>Claude</middlename>
+          <lastname>Sorbe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <lastname>Junoy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-32</pages>
+        <date_published>2011-07-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On a second species of &lt;i&gt;Envia &lt;/i&gt;Ott &amp; Höfer, 2003 (Araneae, Microstigmatidae), with notes on the sympatric type species</title>
+        <abstract locale="en_US">A second species of the microstigmatid spider genus &lt;i&gt;Envia&lt;/i&gt; Ott &amp; Höfer, 2003 is described from Manaus, Amazonas, Brazil. A new diagnosis, new records and notes on intra-specific variation in the tibial apophysis of the first leg of the male &lt;i&gt;Envia&lt;/i&gt; &lt;i&gt;garciai&lt;/i&gt; Ott &amp; Höfer, 2003 are also provided. Males of &lt;i&gt;Envia&lt;/i&gt; &lt;i&gt;moleque&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are readily recognizable by the copulatory bulb with a strong apical spine on weakly differentiated paraembolic apophysis and by tibia I lacking an apophysis, which is instead represented by a modified retroventral apical spine in the type species. Females can be recognized by the spermathecae with globose distal receptaculum. Both known species in the genus are sympatric at least at the UFAM Experimental Farm, Manaus, Amazonas, Brazil, the type locality of the new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; Mygalomorphae; &lt;i&gt;Envia&lt;/i&gt; &lt;i&gt;moleque&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Envia&lt;/i&gt; &lt;i&gt;garciai&lt;/i&gt;; Central Amazonia; taxonomy</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laura</firstname>
+          <middlename>Tavares</middlename>
+          <lastname>Miglio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <middlename>Bragio</middlename>
+          <lastname>Bonaldo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-39</pages>
+        <date_published>2011-07-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new family within the holothuroid order Dactylochirotida with description of a new species from South Africa and comments on the dendrochirotid genus &lt;i&gt;Neoamphicyclus &lt;/i&gt;Hickman, 1962 and the molpadid genus &lt;i&gt;Cherbonniera &lt;/i&gt;Sibuet, 1974 (Echinodermata)</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Cucumella,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;triperforata,&lt;/i&gt; with simple, digitate tentacles is described from deep waters off the east coast of South Africa. Since &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;triplex,&lt;/i&gt; the type species of this genus, also has simple, digitate tentacles, the genus &lt;i&gt;Cucumella&lt;/i&gt; together with its type species is removed from the Dendrochirotida and re-assigned to a new family, Cucumellidae, within the Dactylochirotida. The remaining species of &lt;i&gt;Cucumella,&lt;/i&gt; with the exception of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;decaryi&lt;/i&gt; Cherbonnier (= &lt;i&gt;Neostichopus&lt;/i&gt; &lt;i&gt;grammatus&lt;/i&gt; (H.L. Clark, 1923)) are assigned to &lt;i&gt;Neoamphicyclus&lt;/i&gt; Hickman, 1962 within the dendrochirotid subfamily Thyonidiinae. The ossicles of the new species bear a striking resemblance to those of the molpadid &lt;i&gt;Cherbonniera&lt;/i&gt; &lt;i&gt;utriculus&lt;/i&gt; Sibuet, but ordinal differences readily separate the taxa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cucumellidae; &lt;i&gt;Cucumella&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Cucumellidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ahmed</firstname>
+          <lastname>Thandar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Preyan</firstname>
+          <lastname>Arumugam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-48</pages>
+        <date_published>2011-07-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The taxonomic position of the pelagic ‘staurozoan’ &lt;i&gt;Tessera gemmaria&lt;/i&gt; as a ceriantharian larva</title>
+        <abstract locale="en_US">Based on 16 specimens from the Southwestern Atlantic coast (Argentina and Brazil) we reinterpret the taxonomic position of &lt;i&gt;Tessera&lt;/i&gt; &lt;i&gt;gemmaria&lt;/i&gt; Goy, 1979, a stauromedusa considered as &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis&lt;/i&gt; for a long time. Using external morphology, histological preparations and molecular data (16S and COI) we conclude that &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;gemmaria&lt;/i&gt; is an early stage of a cerinula, the long-lived planktonic larval stage of the Ceriantharia (Anthozoa).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Cnidaria; Anthozoa; plankton</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carolina</firstname>
+          <middlename>S.</middlename>
+          <lastname>Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>C.</middlename>
+          <lastname>Marques</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sérgio</firstname>
+          <middlename>N.</middlename>
+          <lastname>Stampar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <middlename>C.</middlename>
+          <lastname>Morandini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ernesto</firstname>
+          <lastname>Christiansen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriel</firstname>
+          <middlename>N.</middlename>
+          <lastname>Genzano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hermes</firstname>
+          <middlename>W.</middlename>
+          <lastname>Mianzan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2011-07-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Leptychaster kerguelenensis &lt;/i&gt;(Echinodermata: Asteroidea) from Southwest Atlantic: Redescription and geographic distribution</title>
+        <abstract locale="en_US">The only two specimens of &lt;i&gt;Leptychaster&lt;/i&gt; spp. reported from Southwest Atlantic, were determined as &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kerguelenensis&lt;/i&gt; &lt;i&gt;mendosus&lt;/i&gt; by Fisher (1940). Twelve specimens of &lt;i&gt;Leptychaster&lt;/i&gt; &lt;i&gt;kerguelenensis&lt;/i&gt; from Argentine continental shelf collected by the R/V &lt;i&gt;Shinkai&lt;/i&gt; &lt;i&gt;Maru,&lt;/i&gt; and two specimens from Kerguelen Islands collected by B.A.N.Z.A.R.E., were used to redescribe the species. All the material is deposited at the Museo Argentino de Ciencias Naturales "Bernardino Rivadavia". All Atlantic specimens agree with the description of &lt;i&gt;Leptychaster&lt;/i&gt; &lt;i&gt;kerguelenensis&lt;/i&gt; and no morphological differences were found with specimens from Kerguelen Islands. From the present study, no subspecies are recognized within &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kerguelenensis&lt;/i&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mendosus&lt;/i&gt; is a junior synonym of the former.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Astropectinidae; Subantarctic; Patagonian shelf; Kerguelen Islands; &lt;i&gt;Leptychaster&lt;/i&gt; &lt;i&gt;mendosus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Astropectinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mariela</firstname>
+          <middlename>V.</middlename>
+          <lastname>Romanelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alejandro</firstname>
+          <lastname>Tablado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2011-07-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

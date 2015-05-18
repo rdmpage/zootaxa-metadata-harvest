@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2171.1</id>
+    <title locale="en_US">30 Jul. 2009</title>
+    <volume>2171</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Drassodex &lt;/i&gt;Murphy, 2007 (Araneae: Gnaphosidae)</title>
+        <abstract locale="en_US">The worldwide ground-spider genus &lt;i&gt;Drassodes&lt;/i&gt; is among the most diverse in the family Gnaphosidae, but it currently includes many species which do not show characters typical of &lt;i&gt;Drassodes&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto.&lt;/i&gt; The species belonging to the &lt;i&gt;hypocrita-group&lt;/i&gt; of Simon, recently transferred to the genus &lt;i&gt;Drassodex,&lt;/i&gt; are revised and redescribed: &lt;i&gt;Drassodex&lt;/i&gt; &lt;i&gt;hispanus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;heeri,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hypocrita,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;fritillifer,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cervinus&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;validior.&lt;/i&gt; Lectotypes are here designated for &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cervinus&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;validior.&lt;/i&gt; The subspecies &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hispanus&lt;/i&gt; &lt;i&gt;lesserti&lt;/i&gt; is also included and elevated to species rank. Three new species are described, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;granja&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Spain, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;drescoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;simoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the western part of the Alps. Representatives of &lt;i&gt;Drassodex&lt;/i&gt; mainly occur in mountain systems in western Europe.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; new species; &lt;i&gt;Drassodes&lt;/i&gt;; &lt;i&gt;Anagraphis&lt;/i&gt;; Europe</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christophe</firstname>
+          <lastname>Hervé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>J.</middlename>
+          <lastname>Roberts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>A.</middlename>
+          <lastname>Murphy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2009-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Type specimens and type localities of Peruvian birds described by Jean Cabanis on the basis of Konstanty Jelski's collections</title>
+        <abstract locale="en_US">Jean Cabanis, curator of ornithology at the Museum für Naturkunde, Berlin, Germany, described, in 1873–1874, 34 new species of birds on the basis of specimens collected in Peru by Konstanty Jelski, a Polish naturalist. He borrowed or purchased these specimens from Władysław Taczanowski (1819–1890), curator of zoology at the Imperial Warszawa University in Warszawa, Poland. We located and identified their types in the museums of Berlin (ZMB) and Warszawa (MIZ). Types of 21 species (28 type specimens) were deposited in the ZMB, of which types of 18 species (22 specimens) survive. The MIZ originally housed types of 14 species (19 type specimens), of which the types of only four species (4 specimens) survive. Overall, all types were lost for 12 species of Peruvian birds described by Cabanis on the basis of Jelski’s collections.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aves; nomenclature; taxonomy; Peru; Jean Cabanis; Konstanty Jelski; Władysław Taczanowski</subject>
+          <subject_class locale="en_US">Aves</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Mlíkovský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sylke</firstname>
+          <lastname>Frahnert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-47</pages>
+        <date_published>2009-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of hill stream loach (Teleostei: Balitoridae) from Central Kalimantan, with redescriptions of &lt;i&gt;Homaloptera tateregani &lt;/i&gt;Popta and &lt;i&gt;Homaloptera stephensoni &lt;/i&gt;Hora</title>
+        <abstract locale="en_US">&lt;i&gt;Homaloptera&lt;/i&gt; &lt;i&gt;batek,&lt;/i&gt; new species, is a riffle specialist differentiated by its unique colour pattern for a species of &lt;i&gt;Homaloptera,&lt;/i&gt; consisting of a series of round blotches interspaced by smaller blotches in large individuals. The poorly known species &lt;i&gt;Homaloptera&lt;/i&gt; &lt;i&gt;tateregani&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;stephensoni&lt;/i&gt; are redescribed; the former is restricted to the upper Mahakam basin in East Kalimantan, whereas the latter is distributed throughout Borneo. The status of the genus &lt;i&gt;Pseudohomaloptera&lt;/i&gt; Silas is also considered.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Balitoridae; &lt;i&gt;Homaloptera&lt;/i&gt;; Borneo; Biodiversity</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tan</firstname>
+          <middlename>Heok</middlename>
+          <lastname>Hui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-64</pages>
+        <date_published>2009-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pangio lidi&lt;/i&gt;, a new species of loach from eastern Borneo, Indonesia (Teleostei: Cobitidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Pangio&lt;/i&gt; &lt;i&gt;lidi&lt;/i&gt; is distinguished from the other species of the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;anguillaris&lt;/i&gt; group by the absence of pelvic fins. It is presently known only from the Mahakam River drainage in eastern Borneo.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">eel loaches; Kalimantan; Mahakam River</subject>
+          <subject_class locale="en_US">eel loaches</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renny</firstname>
+          <middlename>Kurnia</middlename>
+          <lastname>Hadiaty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maurice</firstname>
+          <lastname>Kottelat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-07-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

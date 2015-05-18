@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2907.1</id>
+    <title locale="en_US">7 Jun. 2011</title>
+    <volume>2907</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A survey of Dryinidae (Hymenoptera, Chrysidoidea) from Caxiuanã, Amazon Basin, with three new taxa and keys to genera and species</title>
+        <abstract locale="en_US">The dryinid wasp fauna of Caxiuanã National Forest, Pará, Brazil is summarized. Seventeen species, three of which are new, in six genera and three subfamilies have been found: Anteoninae: &lt;i&gt;Anteon&lt;/i&gt; &lt;i&gt;panamense&lt;/i&gt; Olmi, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;chiriquense&lt;/i&gt; (Cameron), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;noyesi&lt;/i&gt; Olmi, &lt;i&gt;Deinodryinus&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; (Olmi et Currado), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bilobus&lt;/i&gt; Fenton, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;caxiuana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Dryininae: &lt;i&gt;Dryinus&lt;/i&gt; &lt;i&gt;argentinus&lt;/i&gt; Olmi, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;striatus&lt;/i&gt; (Fenton), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;snellingi&lt;/i&gt; Olmi, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ruficeps&lt;/i&gt; Cameron, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;multicarinatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hamulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Gonatopodinae: &lt;i&gt;Gonatopus&lt;/i&gt; &lt;i&gt;campbelli&lt;/i&gt; Olmi, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;neotropicus&lt;/i&gt; (Olmi), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;testaceus&lt;/i&gt; Cameron, &lt;i&gt;Neodryinus&lt;/i&gt; &lt;i&gt;incaicus&lt;/i&gt; Olmi, and &lt;i&gt;Trichogonatopus&lt;/i&gt; &lt;i&gt;neotropicus&lt;/i&gt; Olmi. &lt;i&gt;Gonatopus&lt;/i&gt; &lt;i&gt;neotropicus&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;incaicus&lt;/i&gt; are newly recorded from Brazil. The new species are described and illustrated. Keys to genera and species are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brazil; Aculeata; Chrysidoidea; Neotropical region</subject>
+          <subject_class locale="en_US">Brazil</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Beatriz</firstname>
+          <middlename>W.</middlename>
+          <lastname>Coelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <middlename>P.</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>S.</middlename>
+          <lastname>Engel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Fillus &lt;/i&gt;Navás, 1919 (Neuroptera: Ascalaphidae) from the Brazilian Amazon Basin</title>
+        <abstract locale="en_US">&lt;i&gt;Fillus&lt;/i&gt; Navás, 1919 is a genus with two species: &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;brethesi&lt;/i&gt; Navás, 1919 from Argentina and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;paradoxus&lt;/i&gt; (Weele, 1908) from Paraguay. Here we describe &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;amazonicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Itapiranga, Amazonas, the first genus record for Brazil, extending its geographical distribution to the Amazon Basin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ascalaphinae; Brazil; lacewings; owlflies; Suhpalacsini</subject>
+          <subject_class locale="en_US">Ascalaphinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renato</firstname>
+          <middlename>José Pires</middlename>
+          <lastname>Machado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Albertino</middlename>
+          <lastname>Rafael</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-28</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Brazilian species of &lt;i&gt;Phoremia &lt;/i&gt;Desutter-Grandcolas, 1993 and &lt;i&gt;Zucchiella &lt;/i&gt;de Mello, 1990 (Orthoptera: Grylloidea)</title>
+        <abstract locale="en_US">Although the subfamily Nemobiinae presents a cosmopolitan distribution, with seven genera occurring in Brazil, being five species in the southeastern region, no species of this subfamily had been described for the State of Minas Gerais. In this work we describe two new species in &lt;i&gt;Phoremia&lt;/i&gt; (Phoremia &lt;i&gt;zefai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Phoremia&lt;/i&gt; &lt;i&gt;rolfsi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and one of &lt;i&gt;Zucchiella&lt;/i&gt; (Zucchiella &lt;i&gt;matiottiae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; found in Atlantic Forest remnants of Minas Gerais. We present a key for Brazilian &lt;i&gt;Phoremia&lt;/i&gt; and &lt;i&gt;Zucchiella&lt;/i&gt; species, with complete illustrations of genitalic morphological characters used in the key. Together with descriptions of the three new species, we also present distribution map, photographs of the types, illustrations of female terminalia and comparative illustrations of male genitalia from all known Brazilian species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic Forest; Neotropical Region; crickets; Nemobiinae; taxonomy</subject>
+          <subject_class locale="en_US">Atlantic Forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>Ribeiro</middlename>
+          <lastname>Pereira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <middlename>Gonçalves</middlename>
+          <lastname>Lhano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>Frankl</middlename>
+          <lastname>Sperber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-46</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Iranian &lt;i&gt;Onthophagus &lt;/i&gt;species belonging to the &lt;i&gt;O. semicornis &lt;/i&gt;group (Coleoptera: Scarabaeidae: Onthophagini)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefano</firstname>
+          <lastname>Ziani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-50</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Afrotropical genus and species of Tetrastichinae (Hymenoptera: Eulophidae) inducing galls on &lt;i&gt;Bikinia &lt;/i&gt;(Fabaceae: Caesalpinioideae) and a new species of &lt;i&gt;Ormyrus &lt;/i&gt;(Hymenoptera: Ormyridae) associated with the gall</title>
+        <abstract locale="en_US">&lt;i&gt;Gallastichus&lt;/i&gt; &lt;i&gt;mutuus&lt;/i&gt; Rasplus &amp; La Salle &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &amp; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hymenoptera: Chalcidoidea: Eulophidae) and &lt;i&gt;Ormyrus&lt;/i&gt; &lt;i&gt;nkoloensis&lt;/i&gt; Rasplus &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hymenoptera: Chalcidoidea: Ormyridae) are described from Cameroon. Both taxa were collected from leaf galls formed on &lt;i&gt;Bikinia&lt;/i&gt; &lt;i&gt;letestui&lt;/i&gt; (Pellegr.) Wieringa subsp. &lt;i&gt;letestui&lt;/i&gt; (Fabaceae: Caesalpinioideae). &lt;i&gt;Gallastichus&lt;/i&gt; &lt;i&gt;mutuus&lt;/i&gt; appears to be responsible for gall induction, whereas &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;nkoloensis&lt;/i&gt; is likely a secondary coloniser, either a parasitoid or an inquiline. This is the first recorded instance of a gall being induced in an extrafloral nectary.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cameroon; extrafloral nectary; gall parasite; gall wasp; leaf gall; rainforest; taxonomy</subject>
+          <subject_class locale="en_US">Cameroon</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jean-Yves</firstname>
+          <lastname>Rasplus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <lastname>La Salle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gérard</firstname>
+          <lastname>Delvare</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Doyle</firstname>
+          <lastname>Mckey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bruce</firstname>
+          <middlename>L.</middlename>
+          <lastname>Webber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The male imago of &lt;i&gt;Rivudiva trichobasis &lt;/i&gt;Lugo-Ortiz &amp; McCafferty from Amazonas state, Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <middlename>Vilela</middlename>
+          <lastname>Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <lastname>Boldrini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frederico</firstname>
+          <middlename>Falcão</middlename>
+          <lastname>Salles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neusa</firstname>
+          <lastname>Hamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-62</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new scale insect genus, &lt;i&gt;Torosaspis &lt;/i&gt;(Hemiptera: Sternorrhyncha: Coccoidea: Diaspididae), with a new species, &lt;i&gt;Torosaspis turcica, &lt;/i&gt;from Turkey</title>
+        <abstract locale="en_US">On the basis of morphological differences between &lt;i&gt;Acanthomytilus&lt;/i&gt; species feeding on woody plants and those feeding on Poaceae, a new genus, &lt;i&gt;Torosaspis,&lt;/i&gt; is introduced to take a new species, &lt;i&gt;Torosaspis&lt;/i&gt; &lt;i&gt;turcica,&lt;/i&gt; off &lt;i&gt;Pinus&lt;/i&gt; &lt;i&gt;brutia,&lt;/i&gt; and two species of &lt;i&gt;Acanthomytilus&lt;/i&gt; that feed on coniferous plants. The adult female of the new species is described and illustrated. In addition, an identification key is provided to separate the three species now in &lt;i&gt;Torosaspis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new genus; new species; new combinations; &lt;i&gt;Torosaspis&lt;/i&gt;; &lt;i&gt;Torosaspis&lt;/i&gt; &lt;i&gt;turcica&lt;/i&gt;; &lt;i&gt;Acanthomytilus&lt;/i&gt;; &lt;i&gt;Pinus&lt;/i&gt; &lt;i&gt;brutia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">new genus</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Selma</firstname>
+          <lastname>Ülgentürk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ferenc</firstname>
+          <lastname>Kozár</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-06-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

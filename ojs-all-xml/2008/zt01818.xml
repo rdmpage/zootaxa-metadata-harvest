@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1818.1</id>
+    <title locale="en_US">7 Jul. 2008</title>
+    <volume>1818</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of Holarctic Teleiodini (Lepidoptera: Gelechiidae)</title>
+        <abstract locale="en_US">The 25 genera of Teleiodini (Lepidoptera: Gelechiidae) occurring in the Holarctic Region are revised. A new genus and new species, &lt;i&gt;Arcutelphusa&lt;/i&gt; &lt;i&gt;talladega,&lt;/i&gt; are described from Alabama and Mississippi, United States. &lt;i&gt;Evippe&lt;/i&gt; Chambers (1873a) is synonymized with &lt;i&gt;Agnippe&lt;/i&gt; Chambers (1872a), &lt;i&gt;Hapalosaris&lt;/i&gt; Meyrick (1917) is synonymized with &lt;i&gt;Coleotechnites&lt;/i&gt; Chambers (1880b), and &lt;i&gt;Laris&lt;/i&gt; Omelko (1988) is synonymized with &lt;i&gt;Parastenolechia&lt;/i&gt; Kanazawa (1985). &lt;i&gt;Telphusa&lt;/i&gt; is restricted to three species, and &lt;i&gt;Teleiodes&lt;/i&gt; is restricted to four species. A key to genera and a checklist of species, which includes 28 new combinations, are provided. Each generic treatment includes descriptions of imagos, including venation and genitalia, and immature stages so far as known, larval hosts, diversity and distribution, and illustrations of selected species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Gelechiidae; Teleiodini; new genus; new species; Palearctic; Nearctic; Holarctic genera; Alabama; Mississippi</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sangmi</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-55</pages>
+        <date_published>2008-07-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Polynemula&lt;/i&gt;, with description of a new species of &lt;i&gt;Polynema &lt;/i&gt;(&lt;i&gt;Doriclytus&lt;/i&gt;) from Argentina&lt;i&gt; &lt;/i&gt;(Hymenoptera: Mymaridae)</title>
+        <abstract locale="en_US">The little known Neotropical genus &lt;i&gt;Polynemula&lt;/i&gt; Ogloblin (Mymaridae) and its type species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rufosignata&lt;/i&gt; Ogloblin are redescribed based on the type material and a recently collected female specimen from Buenos Aires Province, Argentina. A new species of &lt;i&gt;Polynema&lt;/i&gt; Haliday from the newly defined &lt;i&gt;pallidiventre&lt;/i&gt; species group of &lt;i&gt;Polynema&lt;/i&gt; (Doriclytus Foerster), &lt;i&gt;P.&lt;/i&gt; (D.) &lt;i&gt;nupogodi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described from Argentina and the only other species in this new group, &lt;i&gt;P.&lt;/i&gt; (D.) &lt;i&gt;pallidiventre&lt;/i&gt; (Ogloblin), is redescribed. A key to the two species of this group is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mymaridae; &lt;i&gt;Polynemula&lt;/i&gt;; &lt;i&gt;Polynema&lt;/i&gt;; &lt;i&gt;Doriclytus&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Mymaridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Serguei</firstname>
+          <middlename>V.</middlename>
+          <lastname>Triapitsyn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Aquino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-64</pages>
+        <date_published>2008-07-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the Paleartic species of the genus &lt;i&gt;Ochthebius&lt;/i&gt; Leach (Coleoptera: Hydraenidae) XXIV. Description of &lt;i&gt;Ochthebius &lt;/i&gt;(&lt;i&gt;Asiobates&lt;/i&gt;) &lt;i&gt;sanabrensis&lt;/i&gt; n. sp. from northwestern Spain</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>F.</middlename>
+          <lastname>Valladares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2008-07-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

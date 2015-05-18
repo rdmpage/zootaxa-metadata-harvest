@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3477.1</id>
+    <title locale="en_US">10 Sep. 2012</title>
+    <volume>3477</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">It is time for a new classification of anoles (Squamata: Dactyloidae)</title>
+        <abstract locale="en_US">In this essay, we review concepts of taxonomic categories of anoles, reanalyze accumulated characteristics of these lizards,use these analyses to summarize the topology of the phylogenetic tree for anoles, and use consistent major branches ofthis topology to recommend a classification scheme for this large group of squamates. We then use this new taxonomy todraw inferences about the evolution of habitat use, as well as the geologic ages and geographic distribution of anolelineages. Our taxonomy eliminates problems of paraphyly inherent in previous classifications by elevating eight majorlineages to generic status (Anolis, &lt;i&gt;Audantia,&lt;/i&gt; &lt;i&gt;Chamaelinorops,&lt;/i&gt; &lt;i&gt;Ctenonotus,&lt;/i&gt; &lt;i&gt;Dactyloa,&lt;/i&gt; &lt;i&gt;Deiroptyx,&lt;/i&gt; &lt;i&gt;Norops,&lt;/i&gt; and &lt;i&gt;Xiphosurus),&lt;/i&gt; providing diagnoses of those genera, and then doing the same for species groups within each genus. With the exceptionof 19 species, the contents of our generic categories are consistent with all recent phylogenetic reconstructions. Thus, therevised taxonomy appears to provide a stable classification for at least 95% of the 387 species currently recognized andincluded in our treatment of the group. We argue that these lizards originated in South America ~130 ma, where they werelarge in size and occupied niches focused on the canopy of rainforest trees. The radiation diverged into eight genera125–65 ma within a volcanic island arc that connected North and South America. This evolutionary diversificationgenerated three genera (Deiroptyx, &lt;i&gt;Dactyloa,&lt;/i&gt; and &lt;i&gt;Xiphosurus)&lt;/i&gt; that retained an ancestral large size and canopy niche focusand five genera (Anolis, &lt;i&gt;Audantia,&lt;/i&gt; &lt;i&gt;Chamaelinorops,&lt;/i&gt; &lt;i&gt;Ctenonotus,&lt;/i&gt; and &lt;i&gt;Norops)&lt;/i&gt; that became small, with niches focusedtoward the ground. The complicated divergence and accretion events that generated the current conformation of theAntillean islands, and eventually closed the Panamanian Portal, transported six island genera to their current centers ofdiversity (Anolis, &lt;i&gt;Audantia,&lt;/i&gt; &lt;i&gt;Chamaelinorops,&lt;/i&gt; &lt;i&gt;Ctenonotus,&lt;/i&gt; &lt;i&gt;Deiroptyx,&lt;/i&gt; and &lt;i&gt;Xiphosurus),&lt;/i&gt; leaving two genera on themainland (Dactyloa and &lt;i&gt;Norops).&lt;/i&gt; Our historical reconstruction makes &lt;i&gt;Norops&lt;/i&gt; a much older radiation than previousreconstructions, allowing basal diversification of this species-rich lineage to occur on mainland terrains that eventuallyseparated from the mainland to become parts of Cuba and Jamaica. This early diversification extended into northern South America, where a basal lineage of &lt;i&gt;Norops&lt;/i&gt; coevolved with &lt;i&gt;Dactyloa&lt;/i&gt; prior to the mainland-island separation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Reptilia; lizards; systematics; biogeography; ecomorphology; evolution</subject>
+          <subject_class locale="en_US">Reptilia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kirsten</firstname>
+          <middlename>E.</middlename>
+          <lastname>Nicholson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>I.</middlename>
+          <lastname>Crother</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Craig</firstname>
+          <lastname>Guyer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jay</firstname>
+          <middlename>M.</middlename>
+          <lastname>Savage</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-108</pages>
+        <date_published>2012-09-10</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

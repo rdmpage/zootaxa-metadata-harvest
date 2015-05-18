@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2214.1</id>
+    <title locale="en_US">31 Aug. 2009</title>
+    <volume>2214</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A conspectus of the flower fly genus &lt;i&gt;Allograpta &lt;/i&gt;(Diptera: Syrphidae) with description of a new subgenus and species</title>
+        <abstract locale="en_US">A new subgenus [Allograpta (Costarica Mengual &amp; Thompson), type &lt;i&gt;Allograpta&lt;/i&gt; &lt;i&gt;zumbadoi&lt;/i&gt; Thompson], and one new species [Allograpta (Costarica) &lt;b&gt;&lt;i&gt;nishida&lt;/i&gt;&lt;/b&gt; Mengual &amp; Thompson; type-locality: Costa Rica, type-depository: Instituto Nacional de Biodiversidad de Costa Rica] of flower flies (Diptera: Syrphidae) are described from the Neotropical biotic region. A checklist of the world species of &lt;i&gt;Allograpta&lt;/i&gt; including synonyms is provided, and a key to and diagnoses of the subgenera are also supplied. The phylogenetic relationships among &lt;i&gt;Allograpta&lt;/i&gt; species, representing all hitherto detected morphological diversity of the genus, and related genera were studied under parsimony based on morphological characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Costarica&lt;/i&gt;; identification key; Syrphinae; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Costarica&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ximo</firstname>
+          <lastname>Mengual</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Santos</firstname>
+          <lastname>Rojo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gunilla</firstname>
+          <lastname>Ståhls</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>Christian</middlename>
+          <lastname>Thompson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2009-08-31</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic revision and the origin of &lt;i&gt;Polyphrix &lt;/i&gt;Townes (Hymenoptera, Ichneumonidae, Cryptinae), with description of a new species</title>
+        <abstract locale="en_US">&lt;i&gt;Polyphrix&lt;/i&gt; &lt;i&gt;stellata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from the Brazilian Amazon Forest, is described and illustrated. The validity of the genus is cladistically tested using implied weighting, in a matrix with 26 species and 75 morphological characters. Concavity constants (K) from 1 to 6 were tested. All analyses recovered all known &lt;i&gt;Polyphrix&lt;/i&gt; species as a monophyletic group. The preferred results, with &lt;i&gt;K2–6,&lt;/i&gt; suggest (Prosthoporus &lt;i&gt;nigrifemur&lt;/i&gt; Gupta + &lt;i&gt;Lagarosoma&lt;/i&gt; &lt;i&gt;assitum&lt;/i&gt; Gupta) + &lt;i&gt;Messatoporus&lt;/i&gt; sp. as the sister group of the genus; with &lt;i&gt;K1,&lt;/i&gt; this group also included two species of Gabuniina. The results with &lt;i&gt;K1–5&lt;/i&gt; suggest an Amazonian origin of the genus, with species from northern Brazil appearing basally in the clade, while both Atlantic Forest species appear as sister groups. A redescription of &lt;i&gt;Polyphrix&lt;/i&gt; is presented, combining the original definition with recently published additions and original information. An updated key to species is presented, and new morphometric data is provided for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;varians&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cristata.&lt;/i&gt; &lt;i&gt;Prosthoporus&lt;/i&gt; &lt;i&gt;mexicanus&lt;/i&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is proposed as a new combination for &lt;i&gt;Polyphrix&lt;/i&gt; &lt;i&gt;mexicanus&lt;/i&gt; Kasparyan &amp; Ruíz, representing the first record of &lt;i&gt;Prosthoporus&lt;/i&gt; from North America. Seven new distribution records are provided for &lt;i&gt;Polyphrix,&lt;/i&gt; expanding its known range to 29º51' of latitude, from Guyana to Paraná (southern Brazil).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lymeonina; Cryptini; implied weighting; Phygadeuontinae; Caxiuanã</subject>
+          <subject_class locale="en_US">Lymeonina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bernardo</firstname>
+          <middlename>F.</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <middlename>P.</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anazélia</firstname>
+          <middlename>M.</middlename>
+          <lastname>Tedesco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-44</pages>
+        <date_published>2009-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the &lt;i&gt;Bembidion (Odontium) aenulum &lt;/i&gt;subgroup (Coleoptera: Carabidae), with description of a new species</title>
+        <abstract locale="en_US">The &lt;i&gt;Bembidion&lt;/i&gt; &lt;i&gt;aenulum&lt;/i&gt; subgroup of the subgenus &lt;i&gt;Odontium&lt;/i&gt; is reviewed. This subgroup, widespread in the United States east of the Rocky Mountains, previously has been considered to consist of only one species, &lt;i&gt;Bembidion&lt;/i&gt; &lt;i&gt;aenulum&lt;/i&gt; Hayward. However, morphological studies coupled with analyses of 28S ribosomal RNA, cytochrome oxidase I, CAD, and &lt;i&gt;wingless&lt;/i&gt; genes reveal that eastern members of this group belong to a new species herein named &lt;i&gt;Bembidion&lt;/i&gt; &lt;i&gt;paraenulum&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species.&lt;/b&gt; This species ranges from New Hampshire in the northeast, through Virginia and North Carolina, south to Florida and west to Mississippi. Both species are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bembidiini; DNA; rDNA; morphology</subject>
+          <subject_class locale="en_US">Bembidiini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Maddison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>Elizabeth</middlename>
+          <lastname>Arnold</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-61</pages>
+        <date_published>2009-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Recent occurrence of &lt;i&gt;Aphanogmus dictynna &lt;/i&gt;(Waterston) (Hymenoptera: Ceraphronidae) in Kenya  an important hyperparasitoid of the coffee berry borer &lt;i&gt;Hypothenemus hampei &lt;/i&gt;(Ferrari) (Coleoptera: Curculionidae)</title>
+        <abstract locale="en_US">The ceraphronid wasp &lt;i&gt;Aphanogmus&lt;/i&gt; &lt;i&gt;dictynna&lt;/i&gt; (Waterston) was recently recorded in error as an undescribed species of &lt;i&gt;Aphanogmus.&lt;/i&gt; This species is a primary parasitoid on larvae and cocoons of the bethylid &lt;i&gt;Prorops&lt;/i&gt; &lt;i&gt;nasuta&lt;/i&gt; Waterston, and probably a second bethylid species, &lt;i&gt;Cephalonomia&lt;/i&gt; &lt;i&gt;stephanoderis&lt;/i&gt; Betrem. Both bethylids are primary parasitoids, and important biological control agents, of larvae and pupae of the coffee berry borer &lt;i&gt;Hypothenemus&lt;/i&gt; &lt;i&gt;hampei&lt;/i&gt; (Ferrari). New host and distribution records are provided for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dictynna,&lt;/i&gt; as well as a diagnosis and comments on its taxonomic relationships.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coffee pests; biocontrol; biological control; hyperparasitism; superparasitism; secondary parasitoid</subject>
+          <subject_class locale="en_US">Coffee pests</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>L.</middlename>
+          <lastname>Buffington</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <lastname>Polaszek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2009-08-31</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

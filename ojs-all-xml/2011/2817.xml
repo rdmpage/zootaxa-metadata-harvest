@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2817.1</id>
+    <title locale="en_US">13 Apr. 2011</title>
+    <volume>2817</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Antarctic Ascidians (Tunicata) of the French-Australian survey CEAMARC in Terre Adélie</title>
+        <abstract locale="en_US">A large collection of ascidians was made during the CEAMARC Aurora Australis V3 cruise off Terre Adélie and George V Land a region rarely investigated before at these depths. Sampling was performed by beam trawls and a dredge between 138°– 146° latitude East and from 150 to 1700 m depth, on the Antarctic shelf and slope. Three of the 33 ascidian species identified are new and belong to the Stolidobranchia. Half of the species have an exclusive Antarctic distribution, others also occur in Sub-Antarctic areas, but none are common with the southern temperate fauna. The CEAMARC collection does not contain the whole range of already known species from this region. Moreover, brittle and very small specimens were not collected. COI sequences were obtained for 37 specimens, including two of the new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ascidians; Antarctic; Terre Adélie; New species</subject>
+          <subject_class locale="en_US">Ascidians</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Françoise</firstname>
+          <lastname>Monniot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Agnès</firstname>
+          <lastname>Dettai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marc</firstname>
+          <lastname>Eleaume</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Corinne</firstname>
+          <lastname>Cruaud</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadia</firstname>
+          <lastname>Ameziane</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2011-04-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of stagnicoline snails (Mollusca: Gastropoda: Lymnaeidae) from the extreme North of Western Siberia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maxim</firstname>
+          <middlename>V.</middlename>
+          <lastname>Vinarski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-58</pages>
+        <date_published>2011-04-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Coleobonzia &lt;/i&gt;declared synonymous with &lt;i&gt;Neobonzia &lt;/i&gt;Smiley, 1992 (Bdelloidea: Cunaxidae: Coleoscirinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jacob</firstname>
+          <middlename>Den</middlename>
+          <lastname>Heyer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-62</pages>
+        <date_published>2011-04-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of quill mites (Acari, Cheyletoidea, Syringophilidae) and the first record of male for the genus &lt;i&gt;Stibarokris&lt;/i&gt;</title>
+        <abstract locale="en_US">In this paper we describe a new quill mite species &lt;i&gt;Stibarokris&lt;/i&gt; &lt;i&gt;dastychi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; parasitizing Great Cormorant &lt;i&gt;Phalacrocorax&lt;/i&gt; &lt;i&gt;carbo&lt;/i&gt; (Linnaeus) (Pelecaniformes: Phalacrocoracidae) and the male of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;phoeniconaias&lt;/i&gt; Skoracki et OConnor, 2010 from American Flamingo &lt;i&gt;Phoenicopterus&lt;/i&gt; &lt;i&gt;ruber&lt;/i&gt; Linnaeus (new host). Additionally, the improved (including both female and male) diagnosis of the genus &lt;i&gt;Stibarokris&lt;/i&gt; Kethley, 1970 and the key to all known species of this genus are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; quill mites; &lt;i&gt;Stibarokris&lt;/i&gt;; ectoparasites</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eliza</firstname>
+          <lastname>Glowska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-04-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

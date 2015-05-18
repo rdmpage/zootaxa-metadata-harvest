@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2257.1</id>
+    <title locale="en_US">8 Oct. 2009</title>
+    <volume>2257</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Eriophyoid mites (Acari: Prostigmata) in Southeast Asia: a synopsis of 104 genera, with an illustrated key to genera and checklist of species</title>
+        <abstract locale="en_US">This paper provides a synopsis of 104 genera of eriophyoid mites in Southeast Asia, with an identification key to families and genera, and a checklist of 325 species. A new species—Paniculatus &lt;i&gt;curcasis&lt;/i&gt; sp. nov. on &lt;i&gt;Jatropha&lt;/i&gt; &lt;i&gt;curcas&lt;/i&gt; (Euphorbiaceae) from Java, Indonesia—was described. Four new combinations were proposed—Cosella &lt;i&gt;crotoni&lt;/i&gt; (Boczek &amp; Chandrapatya, 2000), comb. nov. on &lt;i&gt;Croton&lt;/i&gt; &lt;i&gt;oblongifolius&lt;/i&gt; (Euphorbiaceae) from Thailand; &lt;i&gt;Paraphytoptus&lt;/i&gt; &lt;i&gt;binarius&lt;/i&gt; (Keifer, 1977), comb. nov. on &lt;i&gt;Peltophorum&lt;/i&gt; &lt;i&gt;pterocarpum&lt;/i&gt; (Fabaceae) from Thailand; &lt;i&gt;Leipothrix&lt;/i&gt; &lt;i&gt;mangiferae&lt;/i&gt; (Chandrapatya, 1997), comb. nov. on &lt;i&gt;Mangifera&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; (Anacardiaceae) from Thailand; and &lt;i&gt;Levonga&lt;/i&gt; &lt;i&gt;caseariae&lt;/i&gt; (Chandrapatya, 1997) comb. nov. on &lt;i&gt;Casearia&lt;/i&gt; &lt;i&gt;grewiaefolia&lt;/i&gt; (Flacourtiaceae) from Thailand. Four new names were proposed for junior homonyms—Quadriporca &lt;i&gt;samphran&lt;/i&gt; nom. nov. on &lt;i&gt;Mangifera&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; (Anacardiaceae) from Thailand; &lt;i&gt;Knorella&lt;/i&gt; &lt;i&gt;blumcanae&lt;/i&gt; nom. nov. on &lt;i&gt;Bambusa&lt;/i&gt; &lt;i&gt;blumcana&lt;/i&gt; (Poaceae) from Thailand; &lt;i&gt;Rhombacus&lt;/i&gt; &lt;i&gt;bangkoki&lt;/i&gt; nom. nov. on &lt;i&gt;Eucalyptus&lt;/i&gt; sp. (Myrtaceae) from Thailand; and &lt;i&gt;Tetra&lt;/i&gt; &lt;i&gt;stipularisis&lt;/i&gt; nom. nov. on &lt;i&gt;Bridelia&lt;/i&gt; &lt;i&gt;stipularis&lt;/i&gt; (Euphorbiaceae) from Thailand.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eriophyoidea; list; taxonomy; new species; new records; new names; illustrated key; host plant relationships; geographic distribution</subject>
+          <subject_class locale="en_US">Eriophyoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhi-Qiang</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-128</pages>
+        <date_published>2009-10-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

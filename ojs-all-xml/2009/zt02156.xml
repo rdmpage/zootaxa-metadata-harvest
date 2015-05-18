@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2156.1</id>
+    <title locale="en_US">13 Jul. 2009</title>
+    <volume>2156</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Eupholidoptera &lt;/i&gt;(Orthoptera, Tettigoniidae): different genitalia, uniform song</title>
+        <abstract locale="en_US">The bush cricket genus &lt;i&gt;Eupholidoptera,&lt;/i&gt; distributed across the northern Mediterranean Basin from Southern France to Israel, is reviewed. An illustrated key for males is presented. Two new species are described: &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;helina&lt;/i&gt; Çiplak &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;kykladica&lt;/i&gt; Heller &amp; Fer Willemse &amp; Luc Willemse &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n..&lt;/b&gt; Four species are synonymised: &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;raggei&lt;/i&gt; Salman with &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;marashensis&lt;/i&gt; Salman, &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;karatolosi&lt;/i&gt; Mofidi-Neyestanak &amp; Quicke and &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;kinzelbachi&lt;/i&gt; Harz with &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;megastyla&lt;/i&gt; (Ramme) and &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;mirzayani&lt;/i&gt; Mofidi-Neyestanak &amp; Quicke is synonymised with &lt;i&gt;Apholidoptera&lt;/i&gt; &lt;i&gt;kurda&lt;/i&gt; (Uvarov). Based on the male genitalia two large species groups can be distinguished within &lt;i&gt;Eupholidoptera:&lt;/i&gt; the &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;chabrieri&lt;/i&gt; group with 20 species and the &lt;i&gt;Eupholidoptera&lt;/i&gt; &lt;i&gt;prasina&lt;/i&gt; group with 26 species. Data relating to the male calling song of 25 species are presented. Contrary to other genera of Pholidopterini male calling songs in &lt;i&gt;Eupholidoptera&lt;/i&gt; are relatively invariable and consist of series of isolated syllables. Since morphology is variable and the calling songs are rather invariable, radiation within the genus is the result of divergence in genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Battal</firstname>
+          <lastname>Ciplak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Klaus-Gerhard</firstname>
+          <lastname>Heller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fer</firstname>
+          <lastname>Willemse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-77</pages>
+        <date_published>2009-07-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

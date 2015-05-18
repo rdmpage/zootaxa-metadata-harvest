@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2042.1</id>
+    <title locale="en_US">16 Mar. 2009</title>
+    <volume>2042</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Australian Thripinae of the &lt;i&gt;Anaphothrips &lt;/i&gt;genus-group (Thysanoptera), with three new genera and thirty-three new species</title>
+        <abstract locale="en_US">Relationships are considered among taxa of Thripinae lacking long setae on the pronotum, and these taxa are here discussed as the &lt;i&gt;Anaphothrips&lt;/i&gt; genus-group. Seven genera from Australia are considered members of this group: &lt;i&gt;Anaphothrips,&lt;/i&gt; &lt;i&gt;Apterothrips,&lt;/i&gt; &lt;i&gt;Aptinothrips,&lt;/i&gt; &lt;i&gt;Caprithrips,&lt;/i&gt; &lt;i&gt;Dodonaeathrips&lt;/i&gt; gen.n., &lt;i&gt;Ozanaphothrips&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Pandorathrips&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Six new species are described in &lt;i&gt;Ozanaphothrips,&lt;/i&gt; and one each in &lt;i&gt;Dodonaeathrips&lt;/i&gt; and &lt;i&gt;Pandorathrips.&lt;/i&gt; The worldwide genus &lt;i&gt;Anaphothrips&lt;/i&gt; now comprises 79 species, of which 43 are here recorded from Australia, including 27 new species. In other parts of the world &lt;i&gt;Anaphothrips&lt;/i&gt; species breed on grasses, but hostassociations of the Australian species are remarkably diverse, involving at least 20 plant families. Illustrated keys are provided for the identification of the &lt;i&gt;Anaphothrips&lt;/i&gt; genus-group taxa from Australia. Variation is discussed in the form of the pore plates (=glandular areas or areae porosae) that occur on the sternites of males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Anaphothrips&lt;/i&gt;; &lt;i&gt;Anaphothrips&lt;/i&gt; genus group; &lt;i&gt;Dodonaeathrips&lt;/i&gt;; &lt;i&gt;Ozanaphothrips&lt;/i&gt;; &lt;i&gt;Pandorathrips&lt;/i&gt;; Thysanoptera; Thripidae; Australia; pore plates; glandular areas</subject>
+          <subject_class locale="en_US">&lt;i&gt;Anaphothrips&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masami</firstname>
+          <lastname>Masumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-76</pages>
+        <date_published>2009-03-16</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

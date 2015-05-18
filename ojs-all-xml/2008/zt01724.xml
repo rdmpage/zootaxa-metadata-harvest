@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1724.1</id>
+    <title locale="en_US">10 Mar. 2008</title>
+    <volume>1724</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-03-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Australoheros&lt;/i&gt; (Teleostei: Cichlidae) species of the Uruguay and Parana River drainages</title>
+        <abstract locale="en_US">&lt;i&gt;Australoheros&lt;/i&gt; Ř íčan and Kullander, 2006 includes four described species—Australoheros &lt;i&gt;facetus&lt;/i&gt; (Jenyns, 1842), &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;tembe&lt;/i&gt; (Casciotta, Gómez &amp; Toresani, 1995), &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;scitulus&lt;/i&gt; (Říčan &amp; Kullander, 2003) and &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;kaaygua&lt;/i&gt; Casciotta, Almirón &amp; Gómez, 2006. Four additional species are newly described in this paper based on results presented in Ř íčan and Kullander (2006): &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;forquilha&lt;/i&gt; sp. nov., from the tributaries of the Upper Río Uruguay in Brazil; &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;charrua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;minuano&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from the tributaries of the Middle Río Uruguay in Brazil and Uruguay, and &lt;i&gt;Australoheros&lt;/i&gt; &lt;i&gt;guarani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Río Paraná tributaries in Paraguay. Sympatric species are not found closely related and all sister species have allopatric distributions. Four species groups are recognized based on phylogenetic hypotheses generated from morphological and cyt b characters; the &lt;i&gt;forquilha&lt;/i&gt; group—A. &lt;i&gt;forquilha,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tembe;&lt;/i&gt; the &lt;i&gt;scitulus&lt;/i&gt; group—A. &lt;i&gt;scitulus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;charrua;&lt;/i&gt; the &lt;i&gt;kaaygua&lt;/i&gt; group—A. &lt;i&gt;kaaygua,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;minuano;&lt;/i&gt; and the &lt;i&gt;facetus&lt;/i&gt; group—A. &lt;i&gt;facetus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;guarani.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;´Cichlasoma´&lt;/i&gt; &lt;i&gt;facetum&lt;/i&gt; group; &lt;i&gt;Australoheros&lt;/i&gt;; new species; Cichlidae; South America; biogeography; Río Uruguay; Río Paraná</subject>
+          <subject_class locale="en_US">&lt;i&gt;´Cichlasoma´&lt;/i&gt; &lt;i&gt;facetum&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Oldrich</firstname>
+          <lastname>Rican</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sven</firstname>
+          <middlename>O.</middlename>
+          <lastname>Kullander</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-51</pages>
+        <date_published>2008-03-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Hemigrammus&lt;/i&gt; Gill from upper rio Parana system, Southeastern Brazil (Characiformes: Characidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Hemigrammus&lt;/i&gt; &lt;i&gt;parana&lt;/i&gt; is described from the upper rio Paraná system, in the area of influence of the Ilha Solteira reservoir in states of Mato Grosso do Sul, Minas Gerais and São Paulo, southeastern Brazil. The new species differs from all congeners by the combination of the following characters: absence of humeral spot; presence of a roughly triangular or rectangular conspicuous black caudal spot, extending from base to tip of middle caudal-fin rays, its greatest depth at base of caudal-fin rays; and anal-fin rays iii–iv, 18–23.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical region; South America; rio Grande; taxonomy</subject>
+          <subject_class locale="en_US">Neotropical region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Manoela</firstname>
+          <middlename>M. F.</middlename>
+          <lastname>Marinho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <middlename>R.</middlename>
+          <lastname>Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <lastname>Langeani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Flavio</firstname>
+          <middlename>L.</middlename>
+          <lastname>Tatsumi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-60</pages>
+        <date_published>2008-03-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Parhyalella&lt;/i&gt; Kunkel, 1910 (Amphipoda, Talitroidea, Dogielinotidae) from the coast of Chile</title>
+        <abstract locale="en_US">In Chile, amphipods of the genus &lt;i&gt;Parhyalella&lt;/i&gt; Kunkel, 1910 (Amphipoda, Talitroidea, Dogielinotidae) have been assigned to &lt;i&gt;Parhyalella&lt;/i&gt; &lt;i&gt;ruffoi&lt;/i&gt; Lazo-Wasem and Gable, 2001 and recently have been used in macroalgal ecology studies. We show, however that these specimens belong to an undescribed species, that we describe herein as &lt;i&gt;Parhyalella&lt;/i&gt; &lt;i&gt;penai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; This new species is characterised by a 4-conjointed article 1 of flagellum of antenna 1, bifurcate dactyl of gnathopod 1, width of article 6 of gnathopod 2 around 70% of its length and the presence of two distal spines in the peduncle of uropod 3. A new key to the genus &lt;i&gt;Parhyalella&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; &lt;i&gt;Parhyalella&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;penai&lt;/i&gt; new species; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ruffoi&lt;/i&gt;; Chile; Identification key</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jorge</firstname>
+          <lastname>Perez-Schultheiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julio</firstname>
+          <middlename>E.</middlename>
+          <lastname>Crespo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2008-03-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

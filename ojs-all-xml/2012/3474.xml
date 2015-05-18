@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3474.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3474</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the moray eels of the world (Teleostei: Anguilliformes: Muraenidae)</title>
+        <abstract locale="en_US">A checklist of the currently recognized species of moray eels (Muraenidae) is presented. One hundred ninety seven speciesare considered to be valid, in 15 genera, and two subfamilies. The account for each valid species contains bibliographicinformation for that species and all synonyms, including primary type specimens and type locality. Also given for eachspecies is the number of vertebrae, the mean vertebral formula (MVF), the general geographic distribution, and any ex-planatory remarks that may be needed. A list of nominal genera and species is given, with the current status of each. Separate lists are provided for names that cannot be assigned to known species (incertae &lt;i&gt;sedis)&lt;/i&gt; and those that are unavailable.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>G.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2012-09-07</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2471.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2471</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">World Catalog of the Family Canacidae (including Tethinidae) (Diptera), with keys to the supraspecific taxa</title>
+        <abstract locale="en_US">All genera and species of the family Canacidae as well as all synonyms and the world distribution for each species are listed to form an updated world catalog. Since McAlpine’s (2007) placement of the families Canacidae &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto&lt;/i&gt; and Tethinidae into a single, inclusive family (Canacidae &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato,&lt;/i&gt; i.e. the older family-group name), a comprehensive world catalog has been needed to include the new taxonomic arrangement and the corpus of new entries published over the last fifteen years, that is since the preceding catalogs (Mathis, 1992; Mathis and Munari, 1996). Identification keys to all supraspecific taxa are also given for each taxonomic section.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Canacidae; Tethinidae; world catalog</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lorenzo</firstname>
+          <lastname>Munari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wayne</firstname>
+          <middlename>N.</middlename>
+          <lastname>Mathis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-84</pages>
+        <date_published>2010-05-14</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

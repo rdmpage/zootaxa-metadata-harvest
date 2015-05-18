@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2666.1</id>
+    <title locale="en_US">3 Nov. 2010</title>
+    <volume>2666</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic characterization of Paradoxical frogs (Anura, Hylidae, Pseudae): geographic distribution, external morphology, and morphometry</title>
+        <abstract locale="en_US">Paradoxical frogs (Pseudae) have been difficult to characterize morphologically, and their phylogenetic affinities have long remained elusive despite several taxonomic revisions of the group. Based on the analysis of 1388 specimens we evaluate morphological characters used to identify and group species throughout their distributions. We also suggest other, previously unreported phylogenetically informative morphological characters and evaluate morphometric differences among species. The geographic distribution of Pseudae in Brazil confirms, to a certain degree, their association with hydrographic basins. Geographic variation in morphology is extensive in some species. Some characters traditionally used to identify species (e.g. stripes on the ventral surface of the thigh) vary extensively among populations, and in most cases do not distinguish among species. Body shape differences, skin texture, size and number of carpal and metatarsal tubercles, supernumerary tubercles, vocal sac structure, dorsal coloration, ventral stripes on the thigh, and geographic distribution need to be considered together to correctly identify species. Size of reproductive &lt;i&gt;Pseudis&lt;/i&gt; varies considerably, most likely as a response to local conditions altering larval size at metamorphosis, given that postmetamorphic growth is reduced or absent in &lt;i&gt;Pseudis.&lt;/i&gt; The previously suggested suite of ecological characters that allow disproportionate larval growth are therefore substantiated, while the paradox of a conserved body plan coupled with extensive character variation is implicated as the cause for confusion in the taxonomy of paradoxical frogs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">distribution; &lt;i&gt;Lysapsus&lt;/i&gt;; Morphology; Morphometry; &lt;i&gt;Podonectes&lt;/i&gt;; Pseudae; &lt;i&gt;Pseudis&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">distribution</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrian</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Garda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>José</middlename>
+          <lastname>Santana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vinícius</firstname>
+          <lastname>De Avelar São-Pedro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Five new species of Anthocoptini from China (Acari: Eriophyidae)</title>
+        <abstract locale="en_US">Five new species in the tribe Anthocoptini of the Eriophyidae (Acari: Eriophyoidea) from China are described and illustrated. They are &lt;i&gt;Vittacus&lt;/i&gt; &lt;i&gt;shaoguanicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Carmona&lt;/i&gt; &lt;i&gt;retusa&lt;/i&gt; (Vahl) Masam. (Boraginaceae), &lt;i&gt;Vittacus&lt;/i&gt; &lt;i&gt;cornusis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Cornus&lt;/i&gt; &lt;i&gt;officinalis&lt;/i&gt; Sieb. et Zucc. (Cornaceae), &lt;i&gt;Aculops&lt;/i&gt; &lt;i&gt;buddlejaes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Buddleja&lt;/i&gt; &lt;i&gt;lindleyana&lt;/i&gt; Fort. (Buddlejaceae ), &lt;i&gt;Aculodes&lt;/i&gt; &lt;i&gt;tsukushiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Elymus&lt;/i&gt; &lt;i&gt;tsukushiensis&lt;/i&gt; Honda var. &lt;i&gt;transiens&lt;/i&gt; (Hack.) Osad (Poaceae) and &lt;i&gt;Tegolophus&lt;/i&gt; &lt;i&gt;spathaceae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Fargesia&lt;/i&gt; &lt;i&gt;spathacea&lt;/i&gt; Franch. (Poaceae, Bambuseae). All the new species described herein are vagrants on the respective host plant.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eriophyoidea; taxonomy; new species; Shaanxi Province; Guangdong Province</subject>
+          <subject_class locale="en_US">Eriophyoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Yue</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-44</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the fossil oribatid mite &lt;i&gt;Scutoribates perornatus&lt;/i&gt;, with implications for systematics of Unduloribatidae (Acari: Oribatida)</title>
+        <abstract locale="en_US">The monotypic oribatid mite genus &lt;i&gt;Scutoribates&lt;/i&gt; Sellnick, 1918 has been based only on fossil specimens of the type species—S. &lt;i&gt;perornatus&lt;/i&gt; Sellnick, 1918—from Baltic amber. The type specimen is lost, and the genus has been assumed to be a junior subjective synonym of &lt;i&gt;Eremaeozetes&lt;/i&gt; (Eremaeozetidae). Herein, we redescribe &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;perornatus&lt;/i&gt; based on stereoand compound-microscopy of embedded fossils at magnifications up to 1000X, and both direct observation and electron microscopy of removed cuticular fragments. Specimens included 52 non-type adult fossils from Eocene (Baltic and Rovno) amber, several of which had been studied and identified by Sellnick. One of the latter, housed in the Kaliningrad Museum of Amber (KMA; № 197-07), is designated neotype. A presumed tritonymph is also described. While &lt;i&gt;Scutoribates&lt;/i&gt; and &lt;i&gt;Eremaeozetes&lt;/i&gt; share certain aspects of facies, the genera are clearly not synonyms. Rather, &lt;i&gt;Scutoribates&lt;/i&gt; is a senior subjective synonym of two monotypic extant genera currently included in different families: &lt;i&gt;Kunstella&lt;/i&gt; Krivolutsky, 1974 in Oribatellidae and &lt;i&gt;Koreoribates&lt;/i&gt; Choi, 1994 in Unduloribatidae (new synonymies). We show that Unduloribatidae is the appropriate family and list characters that distinguish the three known species of &lt;i&gt;Scutoribates:&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;perornatus&lt;/i&gt; Sellnick, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;foliatus&lt;/i&gt; (Choi) n. comb. and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;foveolatus&lt;/i&gt; (Krivolutsky) n. comb. The transfer of &lt;i&gt;Scutoribates&lt;/i&gt; from Eremaeozetidae removes the only presumed tropical element from the oribatid fauna of Baltic amber. We also designate a neotype (№197-24 in the KMA) for the amber fossil species &lt;i&gt;Tectoribates&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt; Sellnick 1931; however, the currently used combination of &lt;i&gt;Unduloribates&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt; needs confirmation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oribatida; &lt;i&gt;Scutoribates&lt;/i&gt; &lt;i&gt;perornatus&lt;/i&gt;; &lt;i&gt;Unduloribates&lt;/i&gt;; &lt;i&gt;Eremaeozetes&lt;/i&gt;; &lt;i&gt;Kunstella&lt;/i&gt; &lt;i&gt;foveolata&lt;/i&gt;; &lt;i&gt;Koreoribates&lt;/i&gt; &lt;i&gt;foliatus&lt;/i&gt;; &lt;i&gt;Tectoribates&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt;; Eocene; Baltic amber; Rovno amber; fossil; neotype</subject>
+          <subject_class locale="en_US">Oribatida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ekaterina</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sidorchuk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Norton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-67</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: Zamanpoore, M., Grabowski, M., Poeckl, M. &amp; Schiemer, F. (2010) Two new &lt;i&gt;Gammarus&lt;/i&gt; species (Crustacea, Amphipoda) from warm springs in the south-east pre-alpine area of the Zagros, Iran: habitats with physiological challenges. &lt;i&gt;Zootaxa&lt;/i&gt;, 2546, 31–51.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68-68</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

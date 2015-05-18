@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3432.1</id>
+    <title locale="en_US">21 Aug. 2012</title>
+    <volume>3432</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Oribatella &lt;/i&gt;(Acari, Oribatida, Oribatellidae) of western North America</title>
+        <abstract locale="en_US">The oribatid mite genus &lt;i&gt;Oribatella&lt;/i&gt; (Oribatellidae) includes 18 species known previously from North America. Herein, wedescribe 11 new &lt;i&gt;Oribatella&lt;/i&gt; species from montane, subarctic, forest and prairie habitats in western North America: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;abmi&lt;/i&gt;sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;banksi&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ewingi&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;heatherae&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;manningensis&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;maryae&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;oregonensis&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;parallelus&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pawnee&lt;/i&gt; sp. nov., &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;sintranslamella&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;yukonensis&lt;/i&gt; sp. nov.Descriptions of two species (O. &lt;i&gt;heatherae&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pawnee)&lt;/i&gt; include some developmental instars. That of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;yukonensis&lt;/i&gt;includes all instars; nymphs retain dorsocentral setae &lt;i&gt;dm&lt;/i&gt; and &lt;i&gt;dp,&lt;/i&gt; but the setal morphology changes between larva andnymphs. These immatures bear sclerotized areas on the hysterosoma. Adults of &lt;i&gt;Oribatella&lt;/i&gt; &lt;i&gt;oregonensis&lt;/i&gt; show distinctsexual dimorphism, with three notogastral setae arising from fused porose areas in the male. We provide new distributionrecords for &lt;i&gt;Oribatella&lt;/i&gt; species previously known from North America, including &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;arctica&lt;/i&gt; Thor, 1930, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;canadensis&lt;/i&gt;Behan-Pelletier and Eamer, 2010, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;jacoti&lt;/i&gt; Behan-Pelletier, 2011 and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;reticulatoides&lt;/i&gt; Hammer, 1955, and remark on &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;anomola&lt;/i&gt; Grabowski, 1970. We clarify description of the octotaxic system and the interlamellar region in species of&lt;i&gt;Oribatella&lt;/i&gt; and discuss variability in hysterosomal sclerotization and setation in immatures. Finally, we give a key to adults of the 29 species of &lt;i&gt;Oribatella&lt;/i&gt; now known from North America.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oribatida; Oribatellidae; &lt;i&gt;Oribatella&lt;/i&gt;; new species; immatures; immature hysterosomal sclerotization; sexual dimorphism; western North America; Canada; USA</subject>
+          <subject_class locale="en_US">Oribatida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valerie</firstname>
+          <middlename>M.</middlename>
+          <lastname>Behan-Pelletier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>E.</middlename>
+          <lastname>Walter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2012-08-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

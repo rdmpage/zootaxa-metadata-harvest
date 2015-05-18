@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3598.1</id>
+    <title locale="en_US">24 Dec. 2012</title>
+    <volume>3598</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic and biological notes on some Atlantic species of the snapping shrimp genus &lt;i&gt;Synalpheus &lt;/i&gt;Spence Bate, 1888 (Decapoda, Alpheidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>P. G.</middlename>
+          <lastname>Pachelle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sammy</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kristin</firstname>
+          <middlename>M.</middlename>
+          <lastname>Hultgren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-96</pages>
+        <date_published>2012-12-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

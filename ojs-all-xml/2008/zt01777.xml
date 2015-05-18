@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1777.1</id>
+    <title locale="en_US">28 May. 2008</title>
+    <volume>1777</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of Polyplacophora (Mollusca) from the Fiji islands</title>
+        <abstract locale="en_US">A compiled list of Fiji Islands chitons, including an updated chresonymy list and identification key, is provided. To the nine species previously known from the literature ten more are added. Of the 19 species now known from Fijian waters, one is a deep-water species and two are also known from fossils. A redescription of &lt;i&gt;Callochiton&lt;/i&gt; &lt;i&gt;neocaledonicus&lt;/i&gt; Kaas &amp; Van Belle, 1990, and a detailed description of subadult specimens of &lt;i&gt;Choneplax&lt;/i&gt; &lt;i&gt;littlerorum&lt;/i&gt; Sirenko, 2003 are herein provided. &lt;i&gt;Chiton&lt;/i&gt; &lt;i&gt;spinosetatus&lt;/i&gt; Bergenhayn, 1930 is here regarded as a synonym of &lt;i&gt;Chiton&lt;/i&gt; &lt;i&gt;subassimilis&lt;/i&gt; Souverbie &lt;i&gt;in&lt;/i&gt; Souverbie &amp; Montrouzier, 1866. A lectotype designation is herein made for one of the numerous syntypes of &lt;i&gt;Cryptoplax&lt;/i&gt; &lt;i&gt;jugosus&lt;/i&gt; Bergenhayn, 1930 and for one of the two syntypes of &lt;i&gt;Chiton&lt;/i&gt; &lt;i&gt;reticulatus&lt;/i&gt; Nierstrasz, 1905 to stabilize the type localities for these species. For the same reason, and to clarify the confusing type status of &lt;i&gt;Lepidopleurus&lt;/i&gt; &lt;i&gt;niasicus&lt;/i&gt; Thiele, 1906, a lectotype is also selected from the three available syntypes. &lt;i&gt;Acanthopleura&lt;/i&gt; &lt;i&gt;nigropunctata&lt;/i&gt; Carpenter, 1865 and &lt;i&gt;Tonicia&lt;/i&gt; &lt;i&gt;novemrugata&lt;/i&gt; Bergenhayn, 1930, formerly placed in &lt;i&gt;Tonicia,&lt;/i&gt; are both reassigned to the genus &lt;i&gt;Lucilina&lt;/i&gt; on the basis of radular differences of both genera (second lateral tooth quadricuspid in &lt;i&gt;Lucilina&lt;/i&gt; &lt;i&gt;vs.&lt;/i&gt; unicuspid in &lt;i&gt;Tonicia)&lt;/i&gt; and the geographic isolation of the &lt;i&gt;Tonicia,&lt;/i&gt; of which species occur in central and south American waters only.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mollusca; Polyplacophora; Pacific Ocean; Melanesia; Fiji; checklist</subject>
+          <subject_class locale="en_US">Mollusca</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Enrico</firstname>
+          <lastname>Schwabe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Boris</firstname>
+          <middlename>I.</middlename>
+          <lastname>Sirenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johnson</firstname>
+          <lastname>Seeto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2008-05-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Rhadinoplax&lt;/i&gt;, a new genus of Progeryonidae Stevcic, 2005, for &lt;i&gt;Carcinoplax microphthalmus &lt;/i&gt;Guinot &amp; Richer de Forges, 1981, and a redescription of &lt;i&gt;Paragalene longicrura&lt;/i&gt; (Nardo, 1868) (Crustacea: Decapoda: Brachyura: Goneplacoidea)</title>
+        <abstract locale="en_US">&lt;i&gt;Rhadinoplax,&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; is described for &lt;i&gt;Carcinoplax&lt;/i&gt; &lt;i&gt;microphthalmus&lt;/i&gt; Guinot &amp; Richer de Forges, 1981, a species previously included in the family Goneplacidae MacLeay, 1838. The new genus is transferred to the family Progeryonidae Števčić, 2005, superfamily Goneplacoidea. The poorly known progeryonid, &lt;i&gt;Paragalene&lt;/i&gt; Kossmann, 1878, is also redescribed and figured.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Goneplacoidea; Progeryonidae; &lt;i&gt;Rhadinoplax&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; &lt;i&gt;Carcinoplax&lt;/i&gt; &lt;i&gt;microphthalmus&lt;/i&gt;; &lt;i&gt;Paragalene&lt;/i&gt; &lt;i&gt;longicrura&lt;/i&gt;; &lt;i&gt;Progeryon&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2008-05-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

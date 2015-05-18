@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1900.1</id>
+    <title locale="en_US">8 Sep. 2008</title>
+    <volume>1900</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the satyrine genus &lt;i&gt;Erebia &lt;/i&gt;(Lepidoptera) (17582006)</title>
+        <abstract locale="en_US">Since BCS Warren’s seminal Monograph of the circumpolar satyrine butterfly genus &lt;i&gt;Erebia&lt;/i&gt; Dalman, 1816, was published in 1936, more than 320 new names and some 200 papers dealing wholly or in large part with the genus have been published. A modern checklist of more than 1,300 names proposed for butterflies of the genus &lt;i&gt;Erebia&lt;/i&gt; (sensu &lt;i&gt;stricto),&lt;/i&gt; all of which have been checked at source, is presented together with the source publication and type locality (TL). Also presented is a bibliography of 1,200 published items concerning the genus. The checklist covers the period 1758–2006; such names proposed and papers published as have been noted after the 31st of December 2006 are also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>W</firstname>
+          <middlename>John</middlename>
+          <lastname>Tennent</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-109</pages>
+        <date_published>2008-09-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

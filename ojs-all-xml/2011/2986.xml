@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2986.1</id>
+    <title locale="en_US">4 Aug. 2011</title>
+    <volume>2986</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New records of water mites of the genus &lt;i&gt;Atractides &lt;/i&gt;Koch, 1837 (Acari: Hydrachnidia, Hygrobatidae) from South Africa, with descriptions of five new species </title>
+        <abstract locale="en_US">New records of water mites of the genus &lt;i&gt;Atractides&lt;/i&gt; Koch, 1837 (Acari: Hydrachnidia, Hygrobatidae) from South Africa are presented. Five species new to science, &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;cooki,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dracomontanus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;meridianus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;neoscutifer&lt;/i&gt; are described; a first description of the male is given for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pulcher&lt;/i&gt; K. Viets, 1956 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;assimilis&lt;/i&gt; K.O. Viets, 1964. A key to the species of &lt;i&gt;Atractides&lt;/i&gt; from South Africa is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; new species; running waters; South Africa</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reinhard</firstname>
+          <lastname>Gereck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2011-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the genus &lt;i&gt;Mallinella &lt;/i&gt;Strand, 1906 (Araneae: Zodariidae) from Hainan Island, China BAO-SHI ZHANG, FENG ZHANG &amp; PING CHEN (China) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2011-08-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural itch &lt;i&gt;versus &lt;/i&gt;patrolling itch: comments on O’Hara (2011) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Nemésio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-08-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

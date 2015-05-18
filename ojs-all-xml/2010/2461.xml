@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2461.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2461</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of the spiders (Araneae) of Canada and Alaska </title>
+        <abstract locale="en_US">This checklist records the occurrence of 1413 species of spiders (Araneae) in 43 families in Canada and Alaska. Distributions of species are given by state, territory and province. Each species name is presented in its original combination, followed by primary synonyms, if any. The list is dominated by members of the family Linyphiidae (39.5% of total species). Highest numbers of species are recorded for Ontario (746), British Columbia (700) and Québec (677). We record 69 species that are thought to be introduced from elsewhere and 321 that are known in the Palaearctic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Canada; Alaska; spiders; fauna; checklist</subject>
+          <subject_class locale="en_US">Canada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pierre</firstname>
+          <lastname>Paquin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donald</firstname>
+          <middlename>J.</middlename>
+          <lastname>Buckle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadine</firstname>
+          <lastname>Dupérré</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>D.</middlename>
+          <lastname>Dondale</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-170</pages>
+        <date_published>2010-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

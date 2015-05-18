@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2583.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2583</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Micronoctuidae (Lepidoptera: Noctuoidea) Part 3, Taxonomy of the Tactusinae</title>
+        <abstract locale="en_US">This is the third part of a series of papers on the recently described family Micronoctuidae Fibiger, 2005. Part 3 includes the description of one new subfamily: Tactusinae, with two new tribes: Tactusini and Obscurini; and 18 new genera: &lt;i&gt;Tactusa,&lt;/i&gt; &lt;i&gt;Conspica,&lt;/i&gt; &lt;i&gt;Tumula,&lt;/i&gt; &lt;i&gt;Dignus,&lt;/i&gt; &lt;i&gt;Vas,&lt;/i&gt; &lt;i&gt;Nigerides,&lt;/i&gt; &lt;i&gt;Fustis,&lt;/i&gt; &lt;i&gt;Bruma,&lt;/i&gt; &lt;i&gt;Costasensora,&lt;/i&gt; &lt;i&gt;Longiantrum,&lt;/i&gt; &lt;i&gt;Abes,&lt;/i&gt; &lt;i&gt;Asyprocessa,&lt;/i&gt; &lt;i&gt;Tantulius,&lt;/i&gt; &lt;i&gt;Asylemissa,&lt;/i&gt; &lt;i&gt;Clarior,&lt;/i&gt; &lt;i&gt;Obscura,&lt;/i&gt; &lt;i&gt;Editum,&lt;/i&gt; and &lt;i&gt;Asytegumen.&lt;/i&gt; A total of 77 species and one subspecies are described, of which 76 species are new. One new combination is given. As additions to previously published parts 1 and 2 of the revision, one new genus, &lt;i&gt;Sinochrostia&lt;/i&gt; in the subfamily Parachrostiinae, is described. Three new species of Pollexinae Fibiger, 2007, are described; three new species of subfamily Belluliinae are described; and six new species of Parachrostiinae are described, five in the genus &lt;i&gt;Duplex,&lt;/i&gt; and one new species and one new subspecies in teh genus &lt;i&gt;Mimachrostia.&lt;/i&gt; All taxa inhabit eastern, southern, or south-eastern Asia, Indonesia, or Australia in tropical, subtropical, and temperate climatic zones.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Micronoctuidae; taxonomy; new subfamily; new tribe; new genus; new species; new combination; SouthEast Asia; Indonesia; Australia</subject>
+          <subject_class locale="en_US">Micronoctuidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Fibiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-119</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

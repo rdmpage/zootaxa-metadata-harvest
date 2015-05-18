@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1993.1</id>
+    <title locale="en_US">2 Feb. 2009</title>
+    <volume>1993</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Baronniesia delioti&lt;/i&gt; gen. n. sp. n., a new subterranean Leptodirini from the French Pyrenees (Coleoptera: Leiodidae: Cholevinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Baronniesia&lt;/i&gt; &lt;i&gt;delioti&lt;/i&gt; Fresneda, Bourdeau &amp; Faille &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &amp; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; tribe Leptodirini (Coleoptera, Leiodidae, Cholevinae), is described from the French central Pyrenees (Hautes-Pyrénées, Esparros, subterranean river of Artigaléou-Arodets). The genus is remarkable for the large body size and the strong sexual dimorphism in antennae of its type species. The structure of the aedeagus and the inner sac, with two additional strongly curved feather-like structures, forming an inverted “V”, and the lateral styles with only three spines without other structures, indicates affinities between the new genus and the &lt;i&gt;Antrocharis&lt;/i&gt; group, diversified in the eastern part of the Pyrenean range. The limestone area in the central Pyrenees where this new genus was discovered appears to be a contact area between the eastern and western faunas of the Pyrenean cave beetles, both for Leiodidae: Leptodirini and Carabidae: Trechini.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Baronniesia&lt;/i&gt; &lt;i&gt;delioti&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Leiodidae; Cholevinae; Leptodirini; subterranean environment; Pyrenees; France</subject>
+          <subject_class locale="en_US">&lt;i&gt;Baronniesia&lt;/i&gt; &lt;i&gt;delioti&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Leiodidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Javier</firstname>
+          <lastname>Fresneda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <lastname>Bourdeau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arnaud</firstname>
+          <lastname>Faille</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2009-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new bark-gnawing beetle (Coleoptera, Trogossitidae) from the middle Eocene of Europe, with a checklist of fossil Trogossitidae</title>
+        <abstract locale="en_US">A new fossil bark-gnawing beetle, &lt;i&gt;Ancyrona&lt;/i&gt; &lt;i&gt;eocenica&lt;/i&gt; Schmied, Wappler, Kolibáč, &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; (Coleoptera: Cleroidea: Trogossitidae), is described and figured from a specimen preserved in Eocene limnic sediments of the Eckfeld Maar, Germany. &lt;i&gt;Ancyrona&lt;/i&gt; &lt;i&gt;eocenica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Peltinae: Ancyronini) is the first trogossitid described from the Eckfeld Maar as well as the first fossil ever of this genus. The species is distinguished from recent congeners which are distributed in Ethiopian and Oriental regions by the following: minute body (2.6 mm), anterior margin of pronotum weakly concave, body broadly oval. A taxonomic catalogue of previously described fossil bark-gnawing beetles has been complied and is given here.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Trogossitidae; Peltinae; Ancyronini; insect fossil; taxonomic catalogue; middle Eocene; Eckfeld Maar.</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heiko</firstname>
+          <lastname>Schmied</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Torsten</firstname>
+          <lastname>Wappler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jiří</firstname>
+          <lastname>Kolibáč</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-26</pages>
+        <date_published>2009-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Sarcophaga&lt;/i&gt; (&lt;i&gt;Discachaeta&lt;/i&gt;) &lt;i&gt;bezziana&lt;/i&gt; Böttcher and &lt;i&gt;Sarcophaga&lt;/i&gt; (&lt;i&gt;Heteronychia&lt;/i&gt;) &lt;i&gt;infixa&lt;/i&gt; Böttcher, and description of a new &lt;i&gt;Heteronychia&lt;/i&gt; Brauer &amp; Bergenstamm from southern France (Diptera: Sarcophagidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Sarcophaga&lt;/i&gt; &lt;i&gt;bezziana&lt;/i&gt; Böttcher, 1913 and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;infixa&lt;/i&gt; Böttcher, 1913 are redescribed and their male terminalia are illustrated with SEM images; their subgeneric affiliation and affinities with related species are discussed. A lectotype is designated for &lt;i&gt;Sarcophaga&lt;/i&gt; &lt;i&gt;bezziana&lt;/i&gt; Böttcher. This species is compared to the closely related &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;amita&lt;/i&gt; Rondani, 1860 and transferred from subgenus &lt;i&gt;Heteronychia&lt;/i&gt; Brauer &amp; Bergenstamm, 1889 to subgenus &lt;i&gt;Discachaeta&lt;/i&gt; Enderlein, 1928, &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Sarcophaga&lt;/i&gt; &lt;i&gt;infixa&lt;/i&gt; Böttcher &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; is removed from synonymy with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;haemorrhoides&lt;/i&gt; Böttcher, 1913. A new species, &lt;i&gt;Sarcophaga&lt;/i&gt; (Heteronychia) &lt;i&gt;gallica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; closely related to &lt;i&gt;S.&lt;/i&gt; (H.) &lt;i&gt;infixa,&lt;/i&gt; is described from southern France.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Discachaeta&lt;/i&gt;; &lt;i&gt;Heteronychia&lt;/i&gt;; taxonomy; nomenclature; lectotype designation; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Discachaeta&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <lastname>Whitmore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>René</firstname>
+          <lastname>Richet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Pape</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ruth</firstname>
+          <middlename>M.</middlename>
+          <lastname>Blackith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-40</pages>
+        <date_published>2009-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ubatubaneura&lt;/i&gt;, a new genus of the &lt;i&gt;Corynoneura&lt;/i&gt; group (Diptera: Chironomidae: Orthocladiinae) from the Brazilian Atlantic Forest</title>
+        <abstract locale="en_US">Male, female, pupa, and larva of &lt;i&gt;Ubatubaneura&lt;/i&gt; &lt;i&gt;atlantica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Brazilian Atlantic Forest are described based on specimens collected from the surface of stones in low order streams and reared in the laboratory. The adults can be separated from other members of the &lt;i&gt;Corynoneura&lt;/i&gt; group on the right-angled dorsolateral region of the head and on the terminal flagellomere of the antenna having a triangular apex surrounded by sensilla chaetica. The pupa can be distinguished by the presence of two long, taeniate L-setae on segments III–V, the presence of only non-taeniate L-setae on segments VI–VIII, and by having three macrosetae ventrally on the anal lobe. The 5-segmented antenna of about 1/2 the length of the head, antennal blade not longer than the flagellum, bifid SI, short body setae, and apically split subbasal seta on the posterior parapod are diagnostic characters differentiating the larva from other genera. Several characters in the male, pupa, and larva indicate that &lt;i&gt;Ubatubaneura&lt;/i&gt; has a basal position within the &lt;i&gt;Corynoneura&lt;/i&gt; group of genera. Preliminary keys to the males, females, pupae, and larvae for most genera of the &lt;i&gt;Corynoneura&lt;/i&gt; group are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; Orthocladiinae; &lt;i&gt;Corynoneura&lt;/i&gt; group; new genus; new species; systematics; Mata Atlântica; Neotropical</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sofia</firstname>
+          <lastname>Wiedenbrug</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Susana</firstname>
+          <lastname>Trivinho-Strixino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2009-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the subfamily Xyleninae from China (Lepidoptera, Noctuidae)</title>
+        <abstract locale="en_US">Two new noctuids in the subfamily Xyleninae, &lt;i&gt;Chasminodes&lt;/i&gt; &lt;i&gt;behouneki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Lithophane&lt;/i&gt; &lt;i&gt;gansuana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; belonging to the tribes Cosmiini and Xylenini respectively, are described from central China. The new species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;behouneki&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gansuana&lt;/i&gt; represent allopatric sister species of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ussurica&lt;/i&gt; Kononenko, 1982 and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pacifica&lt;/i&gt; Kononenko, 1978, both described from the Russian Far East. Adults and the genitalia of the species are illustrated, and new distributional data and maps for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ussurica&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pacifica&lt;/i&gt; are presented. A checklist of the genus &lt;i&gt;Chasminodes&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Noctuidae; Xyleninae; Cosmiini; Xylenini; &lt;i&gt;Chasminodes&lt;/i&gt;; &lt;i&gt;Lithophane&lt;/i&gt;; new species; China; Russian Far East</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2009-02-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Obtusitermes&lt;/i&gt; (Isoptera, Termitidae, Nasutitermitinae) from South America</title>
+        <abstract locale="en_US">&lt;i&gt;Obtusitermes&lt;/i&gt; Snyder is a genus endemic to the Neotropics, restricted to northern South America and southern Central America. &lt;i&gt;Obtusitermes&lt;/i&gt; &lt;i&gt;panamae&lt;/i&gt; Snyder was described from Quipo, Panama. Herein, we describe &lt;i&gt;Obtusitermes&lt;/i&gt; &lt;i&gt;formosulus,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Venezuela and Trinidad and Tobago, based on the dimorphic soldier and polymorphic worker. These descriptions provide strong evidence that &lt;i&gt;Parvitermes&lt;/i&gt; &lt;i&gt;bacchanalis&lt;/i&gt; Mathews should not be included in &lt;i&gt;Obtusitermes.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isoptera; Termites; Nasutitermitinae; &lt;i&gt;Obtusitermes&lt;/i&gt;; &lt;i&gt;Parvitermes&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Isoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carolina</firstname>
+          <lastname>Cuezzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eliana</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cancello</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-02-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

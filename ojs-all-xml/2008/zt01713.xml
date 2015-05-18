@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1713.1</id>
+    <title locale="en_US">27 Feb. 2008</title>
+    <volume>1713</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Myopa testacea &lt;/i&gt;Species-Group in the Palaearctic Region (Diptera: Conopidae)</title>
+        <abstract locale="en_US">The &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;testacea&lt;/i&gt; Species-Group is revised. Seven valid species are considered to belong to this group, and an identification key to these is presented. The known distribution information is evaluated, and the sparse information available on the biology is summarised. &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;clausseni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;hirsuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (= &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;strandi&lt;/i&gt; auct., nec Duda 1940) are described; &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;arabica&lt;/i&gt; Macquart, 1850 is reinterpreted as a valid species (stat. &lt;b&gt;rev.)&lt;/b&gt; and &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;strandi&lt;/i&gt; Duda, 1940 is placed as a junior synonym of &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;vicaria&lt;/i&gt; Walker, 1849 (syn. &lt;b&gt;nov.).&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Revision; &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;testacea&lt;/i&gt; Species-Group; Conopidae; Diptera; Palaearctic species; spp. nov.; stat. rev.; syn. nov.</subject>
+          <subject_class locale="en_US">Revision; &lt;i&gt;Myopa&lt;/i&gt; &lt;i&gt;testacea&lt;/i&gt; Species-Group; Conopidae; Diptera; Palaearctic species; spp. nov.; stat. rev.; syn. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jens-Hermann</firstname>
+          <lastname>Stuke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>K.</middlename>
+          <lastname>Clements</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2008-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">DNA barcoding of new world cicada killers (Hymenoptera: Crabronidae)</title>
+        <abstract locale="en_US">We are engaged in a comprehensive study of cicada killers (Sphecius spp.), including their behavioral ecology. At one location, we observed interactions among three putative species of &lt;i&gt;Sphecius,&lt;/i&gt; and used DNA barcoding to help clarify relationships among them. For this, we sequenced a fragment of the mitochondrial cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit I gene. During our study, a new taxonomic key of New World cicada killers, based on morphology, was published, and we expanded the barcoding project to test the congruence between barcodes and this key. In general, barcoding evidence supports morphological distinctions among species; sequence divergences between individuals of different species were within the range expected for congeneric Hymenoptera. However, two conflicts between barcoding and morphological evidence were noted. 1) Haplotypes of &lt;i&gt;Sphecius&lt;/i&gt; &lt;i&gt;grandis&lt;/i&gt; Say fall into two highly divergent clades, suggesting they are cryptic species. 2) Two clades of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;convallis&lt;/i&gt; Patton were found, and the sequences of one clade are virtually identical to those of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speciosus&lt;/i&gt; Drury, suggesting that this clade of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;convallis&lt;/i&gt; is conspecific with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speciosus.&lt;/i&gt; Alternative explanations are possible for this result, including hybridization and introgression between the two species. We conclude that our DNA barcoding evidence should be interpreted with caution, but that it has generated interesting questions we hope to resolve with field research coupled with analysis of suitable nuclear gene sequences.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cryptic species; introgression; Big Bend National Park; sympatric species; cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit I</subject>
+          <subject_class locale="en_US">cryptic species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jon</firstname>
+          <middlename>M.</middlename>
+          <lastname>Hastings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <middlename>J.</middlename>
+          <lastname>Schultheis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maggie</firstname>
+          <lastname>Whitson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>W.</middlename>
+          <lastname>Holliday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseph</firstname>
+          <middlename>R.</middlename>
+          <lastname>Coelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angela</firstname>
+          <middlename>M.</middlename>
+          <lastname>Mendell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-38</pages>
+        <date_published>2008-02-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Immatures of &lt;i&gt;Lamprosoma amethystinum&lt;/i&gt; Perty, 1832 (Chrysomelidae, Lamprosomatinae)</title>
+        <abstract locale="en_US">The larva and pupa of &lt;i&gt;Lamprosoma&lt;/i&gt; &lt;i&gt;amethystinum&lt;/i&gt; Perty, 1832, collected on &lt;i&gt;Terminalia&lt;/i&gt; &lt;i&gt;catappa&lt;/i&gt; L., are described and illustrated. Biological notes and a comparison among the immatures of &lt;i&gt;Lamprosoma&lt;/i&gt; are included. A comparison between the larvae of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;amethystinum&lt;/i&gt; Perty and &lt;i&gt;Oomorphus&lt;/i&gt; &lt;i&gt;concolor&lt;/i&gt; (Sturm) is also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ceiba;&lt;/i&gt; &lt;i&gt;Chorisia;&lt;/i&gt; &lt;i&gt;Lamprosoma&lt;/i&gt; larvae; &lt;i&gt;Oomophus;&lt;/i&gt; &lt;i&gt;Psidium&lt;/i&gt; &lt;i&gt;cattleianum;&lt;/i&gt; &lt;i&gt;Terminalia&lt;/i&gt; &lt;i&gt;catappa&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ceiba;&lt;/i&gt; &lt;i&gt;Chorisia;&lt;/i&gt; &lt;i&gt;Lamprosoma&lt;/i&gt; larvae; &lt;i&gt;Oomophus;&lt;/i&gt; &lt;i&gt;Psidium&lt;/i&gt; &lt;i&gt;cattleianum;&lt;/i&gt; &lt;i&gt;Terminalia&lt;/i&gt; &lt;i&gt;catappa&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sonia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Casari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edson</firstname>
+          <middlename>Possidonio</middlename>
+          <lastname>Teixeira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-46</pages>
+        <date_published>2008-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new social parasite in the ant genus &lt;i&gt;Ectatomma&lt;/i&gt; F. Smith (Hymenoptera, Formicidae, Ectatomminae)</title>
+        <abstract locale="en_US">&lt;i&gt;Ectatomma&lt;/i&gt; &lt;i&gt;parasiticum&lt;/i&gt; Feitosa &amp; Fresneau, a new ant species socially parasitic on &lt;i&gt;Ectatomma&lt;/i&gt; &lt;i&gt;tuberculatum&lt;/i&gt; (Olivier), is described from gynes discovered in Apazapan, state of Veracruz, Mexico, and reared in the laboratory. &lt;i&gt;Ectatomma&lt;/i&gt; &lt;i&gt;parasiticum&lt;/i&gt; is the first social parasite described in the Ectatomminae. This species can be distinguished from its host by morphological and behavioral features characteristic of the inquilines known in other ant subfamilies including reduced size, thickened petiole, and agonistic interactions with host species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ectatomminae; &lt;i&gt;Ectatomma&lt;/i&gt; &lt;i&gt;tuberculatum&lt;/i&gt;; Social parasitism; Taxonomy; Mexico</subject>
+          <subject_class locale="en_US">Ectatomminae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodrigo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Feitosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Riviane</firstname>
+          <middlename>R.</middlename>
+          <lastname>Hora</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jacques</firstname>
+          <middlename>H. C.</middlename>
+          <lastname>Delabie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Valenzuela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dominique</firstname>
+          <lastname>Fresneau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-52</pages>
+        <date_published>2008-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Asuroides, &lt;/i&gt;a new genus of lithosiine moths (Lepidoptera, Arctiidae, Lithosiinae)</title>
+        <abstract locale="en_US">A new lithosiine genus, &lt;i&gt;Asuroides,&lt;/i&gt; is erected with &lt;i&gt;Setina&lt;/i&gt; &lt;i&gt;sagenaria&lt;/i&gt; Wallengren, 1860 designated as the type species. The following are also described: &lt;i&gt;Asuroides&lt;/i&gt; &lt;i&gt;calimerae,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dimidiata,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fasciata,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;retromaculata,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rosea,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rubea,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;similis,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The species &lt;i&gt;Asura&lt;/i&gt; &lt;i&gt;atricraspeda&lt;/i&gt; is also transferred to &lt;i&gt;Asuroides&lt;/i&gt; as a new combination, and a lectotype for it is designated. Differences between &lt;i&gt;Asura&lt;/i&gt; Walker, 1854 and &lt;i&gt;Asuroides&lt;/i&gt; are discussed, and a key to the species of &lt;i&gt;Asuroides&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Asura&lt;/i&gt;; &lt;i&gt;Setina&lt;/i&gt; &lt;i&gt;sagenaria&lt;/i&gt;; new species; revision; diagnosis; Afrotropical region</subject>
+          <subject_class locale="en_US">&lt;i&gt;Asura&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <lastname>Durante</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2008-02-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

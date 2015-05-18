@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2316.1</id>
+    <title locale="en_US">22 Dec. 2009</title>
+    <volume>2316</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Orthocephalus &lt;/i&gt;Fieber, 1858 (Hemiptera: Heteroptera: Miridae: Orthotylinae)</title>
+        <abstract locale="en_US">The Palaearctic genus &lt;i&gt;Orthocephalus&lt;/i&gt; Fieber, 1858 is revised. The generic names &lt;i&gt;Anapomella&lt;/i&gt; Putshkov, 1961 and &lt;i&gt;Oraniella&lt;/i&gt; Reuter, 1894 are synonymized with &lt;i&gt;Orthocephalus&lt;/i&gt; Fieber, 1858; providing for three comb. nov. — &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;arnoldii&lt;/i&gt; (Putshkov, 1961), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tibialis&lt;/i&gt; (Reuter, 1894), and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tristis&lt;/i&gt; (Reuter, 1894). The following new species-level synonymies are established: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; Reuter, 1879 = &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;bivittatus&lt;/i&gt; Fieber, 1864, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; Reuter, 1891 = &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;saltator&lt;/i&gt; (Hahn, 1835), and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;beresovskii&lt;/i&gt; Reuter, 1906 with all its varieties = &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;funestus&lt;/i&gt; Jakovlev, 1881. &lt;i&gt;Piezocanum&lt;/i&gt; &lt;i&gt;medvedevi&lt;/i&gt; Putshkov, 1961 is transferred to &lt;i&gt;Orthocephalus&lt;/i&gt; and the replacement name &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;putshkovi&lt;/i&gt; nom. nov. is proposed to remove the homonymy with &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;medvedevi&lt;/i&gt; Kiritshenko, 1951. Keys to males and females, and data on distribution and host plants are given for all 23 species of the genus, including &lt;i&gt;Orthocephalus&lt;/i&gt; &lt;i&gt;turkmenicus&lt;/i&gt; sp. n. (Azerbaijan, Iran, and Turkmenistan). Color digital habitus images and genitalic illustrations are provided of female specimens for all species and males for most of the species. Scanning electron micrographs are used to illustrate characteristic features for &lt;i&gt;Orthocephalus&lt;/i&gt; and related groups. A phylogenetic analysis, including 33 taxa and 35 characters, is presented. The main results of this study are support for a sister-group relationship between &lt;i&gt;Orthocephalus&lt;/i&gt; and &lt;i&gt;Pachytomella,&lt;/i&gt; the monophyly of &lt;i&gt;Orthocephalus&lt;/i&gt; as here diagnosed, and the relatively apical position of the clade containing &lt;i&gt;Anapomella&lt;/i&gt; &lt;i&gt;arnoldii&lt;/i&gt; and &lt;i&gt;Oraniella&lt;/i&gt; &lt;i&gt;tibialis&lt;/i&gt; within &lt;i&gt;Orthocephalus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">genus &lt;i&gt;Orthocephalus&lt;/i&gt;; Halticini; revision; new synonymy; new species; new combination; cladistic analysis</subject>
+          <subject_class locale="en_US">genus &lt;i&gt;Orthocephalus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anna</firstname>
+          <middlename>A.</middlename>
+          <lastname>Namyatova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fedor</firstname>
+          <middlename>V.</middlename>
+          <lastname>Konstantinov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-118</pages>
+        <date_published>2009-12-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

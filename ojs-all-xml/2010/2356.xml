@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2356.1</id>
+    <title locale="en_US">10 Feb. 2010</title>
+    <volume>2356</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species and records of Scissurellidae and Anatomidae from the Americas (Mollusca: Gastropoda: Vetigastropoda)</title>
+        <abstract locale="en_US">New Scissurellidae and Anatomidae from the geographic and political Americas are described, with many long-standing misidentifications being corrected, and some comparisons to described species complementing the contribution. &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;kayae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; previously mis-identified as the South African &lt;i&gt;Sin.&lt;/i&gt; &lt;i&gt;insignis,&lt;/i&gt; and &lt;i&gt;Sin.&lt;/i&gt; &lt;i&gt;hawaiiensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; without a selenizone, are described from Hawaii. &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;carolarum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is added to the Panamic province with a more depressed shell than the more common &lt;i&gt;Sin.&lt;/i&gt; &lt;i&gt;rimuloides&lt;/i&gt; (Carpenter, 1865), and a proportionally shorter selenizone. &lt;i&gt;Coronadoa&lt;/i&gt; &lt;i&gt;demisispira&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Panamic and northeastern Pacific provinces is the third species in the genus, living sympatrically in the southern range of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;simonsae&lt;/i&gt; Bartsch, 1946. The new species is characterized by a shell with lower profile and a wider umbilicus. &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;alternatisculpta&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Caribbean is most similar to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;proxima&lt;/i&gt; (Dall, 1927), but has conspicuously different sculpture on shoulder and base. &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;plicatazona&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Caribbean has markedly upturned keels of the selenizone. &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;disciformis&lt;/i&gt; (Golikov &amp; Sirenko, 1980) is reported from Alaska and illustrated for the first time by SEM. &lt;i&gt;Thieleella&lt;/i&gt; &lt;i&gt;kelseyi&lt;/i&gt; (Dall, 1905) is resurrected for what has previously been misidentified as the European &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;crispata&lt;/i&gt; (Fleming, 1828) in the northeastern Pacific, with a neotype designated, as the holotype is missing. &lt;i&gt;Thieleella&lt;/i&gt; &lt;i&gt;peruviana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Peru is similar to &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;kelseyi&lt;/i&gt; but has a taller shell and differs in the morphology of lateral tooth 5 of the radula. &lt;i&gt;Thieleella&lt;/i&gt; &lt;i&gt;bathypacifica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Panamic province is a deep-water species (2500 m), and known from a single specimen only. The species shows a marked angulation on teleoconch I at the spiral cord in the position of the selenizone; additionally it has a radula with marginal teeth showing a distinct posterior food groove. The bodies of two species (T. &lt;i&gt;kelseyi,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;peruviana)&lt;/i&gt; were examined by SEM. An accessory cephalic tentacle between the anterior most epipodial tentacle and the eye stalk was encountered. The epipodial sense organ is recognized for the first time in Anatomidae, and the presence of bursicles on the gill is confirmed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; North and South America; Pacific; Caribbean; Hawaii; scanning electron microscopy; radula; external anatomy; bursicle; epipodial sense organ; neotype</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Geiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>H.</middlename>
+          <lastname>Mclean</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2010-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new family for &lt;i&gt;Sotoplax robertsi &lt;/i&gt;Guinot, 1984, with a diagnosis and key to the Goneplacoidea Macleay, 1838 (Crustacea: Decapoda: Brachyura)</title>
+        <abstract locale="en_US">Sotoplacidae &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;fam.&lt;/b&gt; is described for &lt;i&gt;Sotoplax&lt;/i&gt; &lt;i&gt;robertsi&lt;/i&gt; Guinot, 1984, a goneplacoid crab from the western Atlantic that had been provisionally placed in the family Euryplacidae Stimpson, 1871. &lt;i&gt;Sotoplax&lt;/i&gt; is characterised by a suite of characters, particularly related to the thoracic sternum, male abdomen, and to the protection of the penis, which places it as a taxon independent from the Euryplacidae and the other 10 families currently grouped in the superfamily Goneplacoidea MacLeay, 1838. A diagnosis of the Goneplacoidea, a detailed table of characters diagnostic to the 11 goneplacoid families, and a key to these families are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Goneplacoidea; &lt;i&gt;Sotoplax&lt;/i&gt;; Sotoplacidae; Acidopsidae; Chasmocarcinidae; Conleyidae; Euryplacidae; Goneplacidae; Litocheiridae; Mathildellidae; Progeryonidae; Scalopidiidae; Vultocinidae; new family</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Danièle</firstname>
+          <lastname>Guinot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-56</pages>
+        <date_published>2010-02-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Haploops longiseta, a &lt;/i&gt;new species from the Atlantic Ocean (Crustacea, Gammaridea, Ampeliscidae) [Contribution to the knowledge of the &lt;i&gt;Haploops &lt;/i&gt;genus. 6.]</title>
+        <abstract locale="en_US">&lt;i&gt;Haploops&lt;/i&gt; &lt;i&gt;longiseta&lt;/i&gt; a new &lt;i&gt;Haploops&lt;/i&gt; species is described based on an adult female collected in the north eastern Atlantic Ocean ( Bay of Biscay) in a baited trap: IFREMER-conceived engin PROSPER left on the sea bottom at a depth of 1460m. This species is characterized by a very long seta at the end of the mandibular palp, very long dorsal setae, and a pair of long apical setae on each lobe of the telson. The pereopod 7 basis is very broad and setose on the inner side. A summarized illustrated key, based on the position of the corneal lenses, is given for the &lt;i&gt;Haploops&lt;/i&gt; species known.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; Ampeliscidae; &lt;i&gt;Haploops&lt;/i&gt;; lenses; Atlantic Ocean</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kaim-Malka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2010-02-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

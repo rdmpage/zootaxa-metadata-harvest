@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2829.1</id>
+    <title locale="en_US">22 Apr. 2011</title>
+    <volume>2829</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Mecodema &lt;/i&gt;curvidens species group (Coleoptera: Carabidae: Broscini)</title>
+        <abstract locale="en_US">The flightless carabid genus &lt;i&gt;Mecodema&lt;/i&gt; Blanchard 1843 is restricted to New Zealand and presently contains 64 species. In this study, we examine species in the newly constituted curvidens group (sulcatum and curvidens are synonymised), reducing the &lt;i&gt;Mecodema&lt;/i&gt; species groups to seven. They share two synapomorphies (rounded apical lobe of the aedeagus and lack of microsculpture on the vertex of the head) and are distributed in Northland, south along the east coast of the North Island and the northeast portion of the South Island. Adult specimens of the curvidens and sulcatum groups, along with exemplars of the other &lt;i&gt;Mecodema&lt;/i&gt; groups (alternans, costellum, ducale, infimate, laterale and spiniferum), and an outgroup &lt;i&gt;Oregus&lt;/i&gt; Putzeys 1868 were examined for cladistic analysis using a data matrix composed of a 63 characters and 21 terminal taxa. The analysis resulted in 18 most parsimonious trees. The following new species in the curvidens group are described: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;aoteanoho&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;haunoho&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;manaia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;parataiko&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ponaiti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tenaki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;i&gt;Mecodema&lt;/i&gt; &lt;i&gt;exitiosus&lt;/i&gt; was wrongly sysnonymised under &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;occiputale&lt;/i&gt; and we propose a new synonymy &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;curvidens&lt;/i&gt; (=M. &lt;i&gt;exitiosus).&lt;/i&gt; We consider the parts of the male genitalia in detail with special attention to the structures of apical plate once everted from the endophallus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Carabidae; Broscini; &lt;i&gt;Mecodema&lt;/i&gt;; curvidens group; New Zealand</subject>
+          <subject_class locale="en_US">Carabidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>S.</middlename>
+          <lastname>Seldon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>A. B.</middlename>
+          <lastname>Leschen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Faunistic and bibliographical inventory of the blackflies (Diptera: Simuliidae) of Morocco</title>
+        <abstract locale="en_US">All published records are provided for the 42 species of black flies known from Morocco, together with appropriate literature references and misidentifications where known. New records of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lundstromi&lt;/i&gt; are presented for the Rif.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Blackflies; catalogue; fauna; inventory; Morocco</subject>
+          <subject_class locale="en_US">Blackflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Boutaïna</firstname>
+          <lastname>Belqat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>H.</middlename>
+          <lastname>Adler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <middlename>W.</middlename>
+          <lastname>Crosskey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-58</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Dolichopodainae and Troglophilinae cave crickets of Turkey: an update of taxonomy and geographic distribution (Orthoptera, Rhaphidophoridae)</title>
+        <abstract locale="en_US">In this note we report a new series of data on Dolichopodainae and Troglophilinae cave crickets of Turkey, after an extensive survey conducted between the years 2006 and 2010 in the main Anatolian cave systems. These new data, including the identifications of some undescribed taxa, are discussed in the framework of climate regions, vegetation and karst distribution of Turkey, contributing to the study of diversity and geographical distribution of Rhaphidophoridae cave crickets from Turkey.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dolichopodainae; Troglophilinae; cave crickets; Turkey</subject>
+          <subject_class locale="en_US">Dolichopodainae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mehmet</firstname>
+          <middlename>S.</middlename>
+          <lastname>Taylan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <middlename>Di</middlename>
+          <lastname>Russo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauro</firstname>
+          <lastname>Rampini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marina</firstname>
+          <lastname>Cobolli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2011-04-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

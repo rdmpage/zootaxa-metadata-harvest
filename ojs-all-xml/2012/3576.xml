@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3576.1</id>
+    <title locale="en_US">7 Dec. 2012</title>
+    <volume>3576</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the genus &lt;i&gt;Oxytelus &lt;/i&gt;Gravenhorst (Coleoptera: Staphylinidae: Oxytelinae) from China </title>
+        <abstract locale="en_US">The &lt;i&gt;Oxytelus&lt;/i&gt; Gravenhorst, 1802 is one of the most speciose genus in the subfamily Oxytelinae (Coleoptera:Staphylinidae) and its members are mainly ground dwellers and are distributed in almost all geographical regions.This paper reports four new species from China: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;abiturus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Sichuan and Yunnan, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ailaoshanicus&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Shaanxi, Sichuan, and Yunnan, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;bajiei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Guangxi, Hubei, Hunan, Sichuan, Yunnan, and&lt;i&gt;O.&lt;/i&gt; &lt;i&gt;solus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Sichuan. The following four names are synonymized: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ginyuenensis&lt;/i&gt; Bernhauer, 1935 and&lt;i&gt;O.&lt;/i&gt; &lt;i&gt;takahashii&lt;/i&gt; Ito, 1994 (= &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;lucidulus&lt;/i&gt; Cameron, 1929); &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;discalis&lt;/i&gt; Cameron, 1930 (= &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;punctipennis&lt;/i&gt; Fauvel,1905); &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;nilgiriensis&lt;/i&gt; Cameron, 1930 (= &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;subferrugineus&lt;/i&gt; Cameron, 1941). The Chinese fauna of the genus is thusincreased to twenty-one species. All other species known to occur in China are also revised and redescribed to updatethe knowledge on their identifications. Some important characters are discussed, detailed line drawing is offered foreach species, and a key to all the Chinese species is provided. All the types of the new species are deposited in IZCAS.&lt;b&gt;key&lt;/b&gt; &lt;b&gt;words:&lt;/b&gt; Staphylinidae, Oxytelinae, &lt;i&gt;Oxytelus,&lt;/i&gt; Taxonomy, China</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Liang</firstname>
+          <lastname>Lü</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong-Zhang</firstname>
+          <lastname>Zhou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2012-12-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2963: 1–47 26</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>76</firstname>
+          <middlename>References Accepted: 23 May</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2963.1</id>
+    <title locale="en_US">12 Jul. 2011</title>
+    <volume>2963</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new sea star of the genus &lt;i&gt;Hippasteria &lt;/i&gt;(Asteroidea: Goniasteridae) from the Aleutian Islands</title>
+        <abstract locale="en_US">A new species of goniasterid sea star, &lt;i&gt;Hippasteria&lt;/i&gt; &lt;b&gt;&lt;i&gt;aleutica&lt;/i&gt;&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the Aleutian Islands, and compared to &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;phrygiana&lt;/i&gt; (Parelius, 1768) from the North Atlantic-Arctic, as well as its congeners from the North Pacific. Distribution is discussed and a key to the described species of &lt;i&gt;Hippasteria&lt;/i&gt; in Alaskan waters is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">sea star; AKMAP; Alaska; &lt;i&gt;Hippasteria&lt;/i&gt;; echinoderm; Valvatida</subject>
+          <subject_class locale="en_US">sea star</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <middlename>N.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>C.</middlename>
+          <lastname>Jewett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-54</pages>
+        <date_published>2011-07-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new trapdoor spider species from the southern Coast Ranges of California (Mygalomorphae, Antrodiaetidae, &lt;i&gt;Aliatypus coylei&lt;/i&gt;, sp. nov,), including consideration of mitochondrial phylogeographic structuring</title>
+        <abstract locale="en_US">The trapdoor spider genus &lt;i&gt;Aliatypus&lt;/i&gt; (Araneae, Mygalomorphae, Antrodiaetidae) includes 11 described species, 10 of which are endemic to California. &lt;i&gt;Aliatypus&lt;/i&gt; species are known from most physiographic provinces in California, with the noticeable absence of described species from the southern Coast Ranges. This paper describes a new species (Aliatypus &lt;i&gt;coylei,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; that is shown to occur at more than 20 locations, most of which are in the southern Coast Ranges. This species is morphologically most similar to members of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;erebus&lt;/i&gt; species group (A. &lt;i&gt;erebus&lt;/i&gt; Coyle and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;torridus&lt;/i&gt; Coyle), but males differ from those of these latter species in several features. Female specimens are more difficult to distinguish from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;erebus&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;torridus,&lt;/i&gt; but can be easily separated using DNA characters. Collection of mitochondrial DNA sequence data from 21 sites shows that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;coylei&lt;/i&gt; is genetically very divergent from all described &lt;i&gt;Aliatypus&lt;/i&gt; species, and reveals extreme population subdivision across the fragmented southern Coast Range landscape.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Population subdivision; spermathecal variation; California biodiversity; mygalomorph spider</subject>
+          <subject_class locale="en_US">Population subdivision</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marshal</firstname>
+          <lastname>Hedin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dave</firstname>
+          <lastname>Carlson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2011-07-11</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

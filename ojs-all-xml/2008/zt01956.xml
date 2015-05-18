@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1956.1</id>
+    <title locale="en_US">5 Dec. 2008</title>
+    <volume>1956</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-12-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of the marine and estuarine Brachyura (Crustacea: Decapoda) of northern and northeastern Brazil</title>
+        <abstract locale="en_US">A total of 272 species of brachyuran crabs are reported from marine and estuarine environments in northern and northeast Brazil. The checklist is derived from the literature published from 1847 to 2008, and includes all species that have been reported at least once from the study area. It is also partially supported by material deposited in the crustacean collection of the Departamento de Oceanografia, Universidade Federal de Pernambuco, city of Recife, Brazil (DOUFPE). The families containing the highest number of species in northern and northeastern Brazil are Majidae (31), Portunidae (22), Epialtidae (20), Panopeidae (20), and Xanthidae (18). The remaining species are distributed in 39 families. The analysis of the distribution of the species in the region, allows for identification of four patterns of longitudinal distribution (western Atlantic, Amphi-Atlantic, Amphi-American, and circumtropical species) and, in the western Atlantic, six patterns of latitudinal distribution (Virginian, Carolinian, Antillean, Central-South American, Boreal, and Endemic). Two non-indigenous species have also been reported. Most of the species represented in northern and northeastern Brazil have Antillean (94 species; 34.5%) and Carolinian (75 species; 27.6%) pattern of distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; biogeography; marine biodiversity; estuarine fauna; Brazil</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petrônio</firstname>
+          <middlename>Alves</middlename>
+          <lastname>Coelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <middlename>Oliveira</middlename>
+          <lastname>De Almeida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>Ernesto Arruda</middlename>
+          <lastname>Bezerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-58</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Telaprocera &lt;/i&gt;(Araneae: Araneidae), a new genus of Australian orb-web spiders with highly elongated webs</title>
+        <abstract locale="en_US">A new genus of orb-web spider (Araneidae Simon), &lt;i&gt;Telaprocera&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; including two new species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;maudae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;joanae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described. &lt;i&gt;Telaprocera&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from all other araneid genera by the presence of a dorsal keel on the male cymbium. The known range of &lt;i&gt;Telaprocera&lt;/i&gt; &lt;i&gt;maudae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is limited to the east coast of Australia, from far northern Queensland to central New South Wales. The spiders are found in closed canopy rainforest and adults can be found year round. &lt;i&gt;Telaprocera&lt;/i&gt; &lt;i&gt;joanae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has been found from central coastal Queensland to far eastern Victoria. They occur in similar habitats, with similar phenology, as &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;maudae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Both species build highly elongated orb-webs known as ladder-webs. A variety of phylogenetic analyses based on an updated morphological data matrix for orb-web spiders did not provide a conclusive placement of &lt;i&gt;Telaprocera&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; within the Araneidae. Equally weighted analysis placed the genus as sister to &lt;i&gt;Kaira&lt;/i&gt; O. P.-Cambridge and &lt;i&gt;Metepeira&lt;/i&gt; F. O. P.Cambridge combined. Strong downweighting of homoplasious characters placed the genus as sister taxon to the traditional Argiopinae Simon. The uncertain phylogenetic position of &lt;i&gt;Telaprocera&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; may reflect the insufficient knowledge of the morphology of Australian taxa—taxa that may possess characters previously not considered in phylogenetic analyses of the Araneidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">ladder-web; web modification; cymbial keel; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;maudae&lt;/i&gt;; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;joanae&lt;/i&gt;</subject>
+          <subject_class locale="en_US">ladder-web</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aaron</firstname>
+          <middlename>M. T.</middlename>
+          <lastname>Harmer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Volker</firstname>
+          <middlename>W.</middlename>
+          <lastname>Framenau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-80</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

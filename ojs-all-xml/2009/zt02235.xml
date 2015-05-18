@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2235.1</id>
+    <title locale="en_US">18 Sep. 2009</title>
+    <volume>2235</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Recent Brachiopoda from the Norfolk Ridge, New Caledonia, with description of four new species</title>
+        <abstract locale="en_US">Twenty-two brachiopod species belonging to 19 genera have been recognized in the material collected during two cruises, Norfolk 1 and Norfolk 2, to the Norfolk Ridge south of New Caledonia, at depths of 180 to 1150 m. Thirteen species are reported for the first time from this locality, while four genera, &lt;i&gt;Aulites,&lt;/i&gt; &lt;i&gt;Septicollarina,&lt;/i&gt; &lt;i&gt;Annuloplatidia&lt;/i&gt; and &lt;i&gt;Campages,&lt;/i&gt; are noted for the first time from the New Caledonian region. &lt;i&gt;Thecidellina&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; is recorded for the first time from the Pacific. Four new species are described ― &lt;i&gt;Cryptopora&lt;/i&gt; &lt;i&gt;norfolkensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Aulites&lt;/i&gt; &lt;i&gt;crosnieri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Septicollarina&lt;/i&gt; &lt;i&gt;zezinae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Annuloplatidia&lt;/i&gt; &lt;i&gt;richeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The distribution of the particular species and their abundance vary considerably between the 15 sampled seamounts, with &lt;i&gt;Stenosarina&lt;/i&gt; &lt;i&gt;crosnieri&lt;/i&gt; and &lt;i&gt;Fallax&lt;/i&gt; &lt;i&gt;neocaledonensis&lt;/i&gt; being most widely distributed, and the seamount Crypthelia having the highest biodiversity. The seamount brachiopods show considerable affinity to the brachiopods of adjacent regions, and only three species ― &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;norfolkensis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;crosnieri&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;richeri&lt;/i&gt; ― can be regarded as potential endemics. The brachiopod fauna is more similar to that in the area around Fiji than to that around Australasia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachiopoda; seamounts; Norfolk Ridge; biogeography; biodiversity; endemism; new species</subject>
+          <subject_class locale="en_US">Brachiopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <middlename>Aleksandra</middlename>
+          <lastname>Bitner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2009-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Trachelas &lt;/i&gt;(Araneae: Corinnidae) from China</title>
+        <abstract locale="en_US">Six species of the genus &lt;i&gt;Trachelas&lt;/i&gt; from China are reviewed, with descriptions of two new species: &lt;i&gt;Trachelas&lt;/i&gt; &lt;i&gt;fanjingshan&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;fasciae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Drassodes&lt;/i&gt; &lt;i&gt;digitusiformis&lt;/i&gt; (Hu, 2001) is transferred to &lt;i&gt;Trachelas,&lt;/i&gt; as a junior synonym of &lt;i&gt;Trachelas&lt;/i&gt; &lt;i&gt;alticolus&lt;/i&gt; Hu, 2001. &lt;i&gt;Trachelas&lt;/i&gt; &lt;i&gt;acuminus&lt;/i&gt; (Zhu et An, 1988), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;japonicus&lt;/i&gt; Bösenberg et Strand, 1906 and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; Chen, Peng et Zhao, 1995 are redescribed and illustrated. A key and a distribution map of Chinese &lt;i&gt;Trachelas&lt;/i&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spider; new species; new synonymy; identification key</subject>
+          <subject_class locale="en_US">Spider</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jian-Ying</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Sheng</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-58</pages>
+        <date_published>2009-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the family Julidae Leach 1814 from Altai, Russia (Diplopoda, Julida)</title>
+        <abstract locale="en_US">Three new species of the millipede family Julidae Leach 1814 are described from the Republic of Altai, Siberia, Russia: &lt;i&gt;Julus&lt;/i&gt; &lt;i&gt;azarovae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Julus&lt;/i&gt; &lt;i&gt;insolitus&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; and &lt;i&gt;Sibiriulus&lt;/i&gt; &lt;i&gt;rectangulus&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diplopoda; julids; new species; descriptions; Siberia</subject>
+          <subject_class locale="en_US">Diplopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mikhaljova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-09-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

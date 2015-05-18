@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2254.1</id>
+    <title locale="en_US">8 Oct. 2009</title>
+    <volume>2254</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Studies toward a World Catalog of Symphyta (Hymenoptera) </title>
+        <abstract locale="en_US">Taxonomic and nomenclatorial changes affecting Symphyta, resulting from work on a forthcoming world catalog, are proposed and explained. &lt;i&gt;Dolerus&lt;/i&gt; &lt;i&gt;zhelochovtsevi&lt;/i&gt; Heidemaa &amp; Viitasaari, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described. One former subgenus and two former subspecies are now treated at genus or species level, respectively. Eighteen replacement names are given, 73 new synonymies and 78 new combinations are proposed, 3 synonymies are re-established, and 5 names are resurrected from synonymy. The precedence of 18 species names (nomina protecta) over their older synonyms (20 nomina oblita) is explained. Type species are designated for 8 genus-group names. One neotype and 17 lectotypes are designated. Five names described as varieties are assigned infrasubspecific rank. Twenty-five genus-group names associated with &lt;i&gt;Arge,&lt;/i&gt; &lt;i&gt;Corynis,&lt;/i&gt; &lt;i&gt;Dolerus,&lt;/i&gt; &lt;i&gt;Trichiosoma&lt;/i&gt; and &lt;i&gt;Xyela&lt;/i&gt; are unavailable. Two genus-group names and 33 species-group names are considered as unplaced taxa. An identification key is presented for the West Palaearctic species of &lt;i&gt;Profenusa&lt;/i&gt; MacGillivray, 1914. Notes on publication dates and authorships of names of certain taxa are also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sawflies; nomenclature; taxonomy; bibliography; new species; new synonymy; new combination; lectotype; neotype; type species designation</subject>
+          <subject_class locale="en_US">Sawflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Blank</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Taeger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Liston</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandr</firstname>
+          <middlename>P.</middlename>
+          <lastname>Rasnitsyn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Akihiko</firstname>
+          <lastname>Shinohara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikk</firstname>
+          <lastname>Heidemaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matti</firstname>
+          <lastname>Viitasaari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-96</pages>
+        <date_published>2009-10-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

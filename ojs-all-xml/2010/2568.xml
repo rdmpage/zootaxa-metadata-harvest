@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2568.1</id>
+    <title locale="en_US">16 Aug. 2010</title>
+    <volume>2568</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics and phylogeny of Cristacoxidae (Copepoda, Harpacticoida): a review</title>
+        <abstract locale="en_US">Both sexes of a new species of &lt;i&gt;Noodtorthopsyllus&lt;/i&gt; Lang, 1965 (Harpacticoida, Cristacoxidae) from a sandy beach in São Paulo State (Brazil) are described using light and scanning electron microscopy. &lt;i&gt;Noodtorthopsyllus&lt;/i&gt; &lt;i&gt;tageae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; displays a mosaic of characters drawn from both &lt;i&gt;Noodtorthopsyllus&lt;/i&gt; and &lt;i&gt;Cristacoxa&lt;/i&gt; Huys, 1990, blurring the boundaries between both genera. Consequently, &lt;i&gt;Cristacoxa,&lt;/i&gt; the type genus of the nominal family-group taxon Cristacoxidae Huys, 1990, is relegated to a junior subjective synonym of &lt;i&gt;Noodtorthopsyllus,&lt;/i&gt; and its type species is transferred to the latter as &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;petkovskii&lt;/i&gt; (Huys, 1990) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A new genus &lt;i&gt;Acuticoxa&lt;/i&gt; is proposed to accommodate &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ubatubaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species), collected on the northern continental shelf of São Paulo State, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;biarticulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; previously identified as &lt;i&gt;Laophontisochra&lt;/i&gt; sp., from the Northern Magellan Straits. Amended diagnoses are provided for &lt;i&gt;Noodtorthopsyllus&lt;/i&gt; and &lt;i&gt;Laophontisochra.&lt;/i&gt; Autapomorphies supporting the monophyly of the Cristacoxidae are re-evaluated, including new data on P3 endopod sexual dimorphism and caudal ramus development. It is concluded that a recently published hypothesis of a deeply rooted split of the family into two highly divergent lineages cannot be supported. Consequently, both &lt;i&gt;Laophontisochra&lt;/i&gt; and &lt;i&gt;Acuticoxa&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are removed from the Cristacoxidae and tentatively assigned to the Nannopodidae (ex Huntemanniidae), forming a clade with three other genera displaying coxal modifications on leg 1 (Rosacletodes Wells, 1985; &lt;i&gt;Huntemannia&lt;/i&gt; Poppe, 1884; and an as yet undescribed genus from Brazil). Based on the sexual dimorphism of the P4 endopod, we propose to transfer &lt;i&gt;Metahuntemannia&lt;/i&gt; Smirnov, 1946 and &lt;i&gt;Pottekia&lt;/i&gt; Huys, 2009 from the Nannopodidae to the Canthocamptidae (subfamily Hemimesochrinae) where they are probably most closely related to &lt;i&gt;Psammocamptus&lt;/i&gt; Mielke, 1975; &lt;i&gt;Bathycamptus&lt;/i&gt; Huys &amp; Thistle, 1989; &lt;i&gt;Perucamptus&lt;/i&gt; Huys &amp; Thistle, 1989; and &lt;i&gt;Isthmiocaris&lt;/i&gt; George &amp; Schminke, 2003. An identification key to the genera of the Nannopodidae is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acuticoxa&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Noodtorthopsyllus&lt;/i&gt; &lt;i&gt;tageae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cristacoxa&lt;/i&gt;; &lt;i&gt;Cubanocleta&lt;/i&gt;; &lt;i&gt;Noodtorthopsyllus&lt;/i&gt;; &lt;i&gt;Laophontisochra&lt;/i&gt;; Nannopodidae; caudal ramus development; phylogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acuticoxa&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Noodtorthopsyllus&lt;/i&gt; &lt;i&gt;tageae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cristacoxa&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rony</firstname>
+          <lastname>Huys</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Terue</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Kihara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2010-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Biodiversity of free-living marine nematodes on the coast of Brazil: a review</title>
+        <abstract locale="en_US">The taxonomic richness of the marine Nematoda in coastal habitats of Brazil and similarities in generic composition among them are analysed. A complete faunal list is presented, containing 11 orders, 59 families, 294 genera and 231 species, among which 1 family, 10 genera and 87 species were discovered for the first time in Brazil. Seven habitats were considered (sandy beaches, estuaries, phytal, oceanic islands, beach rocks, salt works and artificial substrates): sandy beaches had the greatest generic richness (241), followed by estuaries (142) and the phytal environment (126). Taxonomic composition was similar to that of other coastal habitats sampled worldwide, with Chromadoridae and Xyalidae the most representative families. The three major habitats (beaches, rocky shores and estuaries), showed statistically significant differences in faunas. Estuaries were the most uniform in composition.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">nematode; composition; coastal environments; beaches; estuaries; rocky shores</subject>
+          <subject_class locale="en_US">nematode</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Virág</firstname>
+          <lastname>Venekey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Verônica</firstname>
+          <middlename>G.</middlename>
+          <lastname>Fonseca-Genevois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>J. P.</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-66</pages>
+        <date_published>2010-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Feldmannius &lt;/i&gt;nom. nov. for &lt;i&gt;Feldmannia &lt;/i&gt;Casadío, Marenssi &amp; Santillana, “30-09-2001”, preoccupied by &lt;i&gt;Feldmannia &lt;/i&gt;Guinot &amp; Tavares, “28 septembre 2001”: a case of 48-hour precedence</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Danièle</firstname>
+          <lastname>Guinot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2010-08-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

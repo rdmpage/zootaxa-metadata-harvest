@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2966: 1–12 7</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>38</firstname>
+          <middlename>References Accepted: 26 May</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2966.1</id>
+    <title locale="en_US">14 Jul. 2011</title>
+    <volume>2966</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Quill mites (Acari: Syringophilidae) associated with galliform birds (Aves: Galliformes)</title>
+        <abstract locale="en_US">A review of the syringophilid mites (Acari: Prostigmata: Cheyletoidea: Syringophilidae) parasitizing galliform birds is given. Four new species are described: &lt;i&gt;Kalamotrypetes&lt;/i&gt; &lt;i&gt;cracidus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Penelope&lt;/i&gt; sp. from Guyana and &lt;i&gt;Ortalis&lt;/i&gt; &lt;i&gt;canicollis&lt;/i&gt; (Wagler) (Cracidae) from Paraguay; &lt;i&gt;Galliphilopsis&lt;/i&gt; &lt;i&gt;colinus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Colinus&lt;/i&gt; &lt;i&gt;cristatus&lt;/i&gt; (Linnaeus) from Surinam and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;leucopogon&lt;/i&gt; (Lesson) (Odontophoridae) from Colombia; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;szeptyckii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Coturnix&lt;/i&gt; &lt;i&gt;pectoralis&lt;/i&gt; Gould from Australia, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt; (Linnaeus) from Indonesia and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;coturnix&lt;/i&gt; (Linnaeus) (Phasianidae) from Japan; &lt;i&gt;Columbiphilus&lt;/i&gt; &lt;i&gt;odontophoridus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Colinus&lt;/i&gt; &lt;i&gt;leucopogon&lt;/i&gt; (Lesson) from Colombia and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cristatus&lt;/i&gt; (Linnaeus) from Surinam. The species &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;pavodaptes&lt;/i&gt; Casto is transferred to the genus &lt;i&gt;Mironovia&lt;/i&gt; Chirov and Kravtsova, and a new diagnosis for the quill mites of the genus &lt;i&gt;Kalamotrypetes&lt;/i&gt; Casto is established. New host species are reported: &lt;i&gt;Lagopus&lt;/i&gt; &lt;i&gt;lagopus&lt;/i&gt; (Linnaeus) from Norway for &lt;i&gt;Mironovia&lt;/i&gt; &lt;i&gt;lagopus&lt;/i&gt; Bochkov and Skirnisson; &lt;i&gt;Gallus&lt;/i&gt; &lt;i&gt;sonneratii&lt;/i&gt; Temminck from India for &lt;i&gt;Columbiphilus&lt;/i&gt; &lt;i&gt;polonica&lt;/i&gt; Skoracki &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; and &lt;i&gt;Alectoris&lt;/i&gt; &lt;i&gt;rufa&lt;/i&gt; from France for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;alectoris&lt;/i&gt; Fain &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; Additionally, a complete check-list and a key to all genera and species of quill mites associated with galliform birds is proposed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; quill mite; ectoparasites; Galliformes</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bozena</firstname>
+          <lastname>Sikora</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>13-30</pages>
+        <date_published>2011-07-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the perciform fish genus &lt;i&gt;Symphysanodon&lt;/i&gt; (Symphysanodontidae) from the Arabian Sea off the southwestern coast of India</title>
+        <abstract locale="en_US">&lt;i&gt;Symphysanodon&lt;/i&gt; &lt;i&gt;xanthopterygion,&lt;/i&gt; new species, reported herein from 15 specimens collected near Quilon, India, off the Kerala Coast in the southeastern Arabian Sea, becomes the twelfth described species in the genus. The following characters in combination distinguish &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;xanthopterygion&lt;/i&gt; from its congeners: parapophyses present on first caudal vertebra, total number of gillrakers on first arch 38 to 42, tubed lateral-line scales 54 to 59, sum of lateral-line scales plus total number of gillrakers in individual specimens 94 to 101, head length 33 to 37% SL, head depth 18 to 21% SL, snout length 5 to 6% SL, body depth 24 to 27% SL, lower caudal-fin lobe bright yellow.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Symphysanodon&lt;/i&gt; &lt;i&gt;xanthopterygion&lt;/i&gt;; Arabian Sea; India; Kerala Coast; Quilon</subject>
+          <subject_class locale="en_US">&lt;i&gt;Symphysanodon&lt;/i&gt; &lt;i&gt;xanthopterygion&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>D.</middlename>
+          <lastname>Anderson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Bineesh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-36</pages>
+        <date_published>2011-07-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A molecular phylogeny of the Grunts (Perciformes: Haemulidae) inferred using mitochondrial and nuclear genes</title>
+        <abstract locale="en_US">We infer a phylogeny of haemulid genera using mitochondrial COI and Cyt &lt;i&gt;b&lt;/i&gt; genes and nuclear RAG1, SH3PX3, and Plagl2 genes from 56 haemulid species representing 18 genera of the expanded haemulids (including the former inermiids) and ten outgroup species. Results from maximum parsimony, maximum likelihood, and Bayesian analyses show strong support for a monophyletic Haemulidae with the inclusion of &lt;i&gt;Emmelichthyops&lt;/i&gt; &lt;i&gt;atlanticus.&lt;/i&gt; The former inermiids did not form a clade indicating that the highly protrusible upper jaw specialization to planktivory evolved more than once within Haemulidae. The subfamilies Haemulinae and Plectorhinchinae, currently diagnosed by eight morphological characters, most notably the number of chin pores and the origin of the retractor dorsalis, are also recovered from these analyses with the Haemulinae sister to the Plectorhinchinae. &lt;i&gt;Plectorhinchus&lt;/i&gt; is monophyletic only with the inclusion of &lt;i&gt;Diagramma.&lt;/i&gt; Within the Haemulinae, &lt;i&gt;Pomadasys&lt;/i&gt; and &lt;i&gt;Conodon&lt;/i&gt; are polyphyletic. In addition, &lt;i&gt;Anisotremus&lt;/i&gt; is monophyletic only with the inclusion of &lt;i&gt;Genyatremus&lt;/i&gt; and &lt;i&gt;Conodon&lt;/i&gt; &lt;i&gt;nobilis,&lt;/i&gt; and &lt;i&gt;Haemulon&lt;/i&gt; is monophyletic only with the inclusion of &lt;i&gt;Xenistius.&lt;/i&gt; These results suggest that further morphological and molecular studies are needed to revise the limits of several haemulid genera.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Inermiidae; taxonomy; biogeography; partitioned dataset</subject>
+          <subject_class locale="en_US">Inermiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Millicent</firstname>
+          <middlename>D.</middlename>
+          <lastname>Sanciangco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luiz</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kent</firstname>
+          <middlename>E.</middlename>
+          <lastname>Carpenter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-50</pages>
+        <date_published>2011-07-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and new records of cumaceans (Crustacea: Peracarida: Cumacea) from the Andaman Islands, Indian Ocean</title>
+        <abstract locale="en_US">This paper describes a collection of Cumaceans from intertidal macroalgae on the shores of the Andaman Islands containing two new species viz. &lt;i&gt;Bodotria&lt;/i&gt; &lt;i&gt;andamanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; of the family Bodotriidae, &lt;i&gt;Gynodiastylis&lt;/i&gt; &lt;i&gt;bacescui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; of the family Gynodiastylidae and five species of the family Nannastacidae of which three species viz. &lt;i&gt;Cumella&lt;/i&gt; &lt;i&gt;forficuloides&lt;/i&gt; Băcescu &amp; Muradian, 1975, &lt;i&gt;Nannastacus&lt;/i&gt; &lt;i&gt;goniatus&lt;/i&gt; Gamô, 1962 and &lt;i&gt;Scherocumella&lt;/i&gt; &lt;i&gt;nichollsi&lt;/i&gt; Hale, 1945 are recorded for the first time from India. &lt;i&gt;Bodotria&lt;/i&gt; &lt;i&gt;andamanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized by having two large visual elements, the first segment of the pereon hardly visible dorsally, maxilliped 3 with robust articles, a short uropod, rami with two articles; &lt;i&gt;Gynodiastylis&lt;/i&gt; &lt;i&gt;bacescui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized by an elongated carapace, a rounded and large telson, reaching half of the length of the uropodal peduncle, the basis of maxilliped 3 with a short outer plumose seta, and a uropodal endopod with three articles.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cumacea; Andaman Sea; Bay of Bengal; taxonomy; new species</subject>
+          <subject_class locale="en_US">Cumacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Iorgu</firstname>
+          <lastname>Petrescu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tapas</firstname>
+          <lastname>Chatterjee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-57</pages>
+        <date_published>2011-07-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of ptyctimous mites (Acari: Oribatida: Phthiracaroidea ) from Spain</title>
+        <abstract locale="en_US">Three new species of the superfamily Phthiracaroidea, &lt;i&gt;Austrophthiracarus&lt;/i&gt; &lt;i&gt;parainusitatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Atropacarus&lt;/i&gt; &lt;i&gt;(Atropacarus)&lt;/i&gt; &lt;i&gt;parainsularis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Atropacarus&lt;/i&gt; &lt;i&gt;(Atropacarus)&lt;/i&gt; &lt;i&gt;parastriculus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described and figured. All species are from soils of the Provinces Galicia and Cantabria in North and North-West Spain. A comparison with the most related species of the genera &lt;i&gt;Austrophthiracarus&lt;/i&gt; and &lt;i&gt;Atropacarus&lt;/i&gt; is performed. The faunal composition and distribution of all species of the taxons &lt;i&gt;Austrophthiracarus&lt;/i&gt; and &lt;i&gt;Atropacarus&lt;/i&gt; (Atropacarus) in the Palaearctic region and in the Iberian Peninsula are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">oribatid mites; Phthiracaroidea; descriptions; &lt;i&gt;Austrophthiracarus&lt;/i&gt;; &lt;i&gt;Atropacarus&lt;/i&gt;; Galicia; Cantabria</subject>
+          <subject_class locale="en_US">oribatid mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wojciech</firstname>
+          <lastname>Niedbała</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Josef</firstname>
+          <lastname>Starỳ</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-64</pages>
+        <date_published>2011-07-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

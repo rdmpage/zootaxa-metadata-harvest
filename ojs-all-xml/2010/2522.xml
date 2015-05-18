@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2522.1</id>
+    <title locale="en_US">30 Jun. 2010</title>
+    <volume>2522</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Zatypota &lt;/i&gt;Förster of Japan, with descriptions of nine new species and notes on their hosts (Hymenoptera: Ichneumonidae: Pimplinae)</title>
+        <abstract locale="en_US">Japanese species of the genus &lt;i&gt;Zatypota&lt;/i&gt; are revised and a total of twelve species are recognized. Nine of them, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;baragi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;brachycera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;chryssophaga&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;dendrobia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;sulcata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;takayu&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;yambar&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are new to science and one, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;percontatoria,&lt;/i&gt; is newly recorded from Japan. Host records are given for ten species including seven new and one newly recorded species based on reared materials. Each species utilizes different spider species as hosts. All host spiders belong to Theridiidae (nine species) and Linyphiidae (Z. &lt;i&gt;sulcata).&lt;/i&gt; A key to Japanese species is provided and notes on their biology are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasitoid; koinobiont; Ephialtini; host; Theridiidae; immature stages; key; parasitism</subject>
+          <subject_class locale="en_US">parasitoid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rikio</firstname>
+          <lastname>Matsumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Keizo</firstname>
+          <lastname>Takasuka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-43</pages>
+        <date_published>2010-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A polychromatic new species of &lt;i&gt;Apiomerus &lt;/i&gt;(Hemiptera: Reduviidae: Harpactorinae) from Central America</title>
+        <abstract locale="en_US">&lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;barrocoloradoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Costa Rica and Panama. This new species is highly polychromatic, a judgment based on specimens of the same locality. Dorsal habitus images documenting the range of variation of the color pattern are provided. Male and female genitalia are documented in detail to provide unambiguous characters for species recognition. Color variation is discussed with regard to traditional species limits.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Apiomerini; taxonomy; genitalia</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dimitri</firstname>
+          <lastname>Forero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lily</firstname>
+          <lastname>Berniker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sigurd</firstname>
+          <lastname>Szerlip</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-60</pages>
+        <date_published>2010-06-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new, remarkable genus and two new species of Ectrichodiinae (Hemiptera: Heteroptera: Reduviidae) from Madagascar</title>
+        <abstract locale="en_US">&lt;i&gt;Gibbosella,&lt;/i&gt; a new remarkable genus, and two new species &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; are described based on specimens from Madagascar. The dorsal habitus as well as diagnostic characters of the females’ genitalia are illustrated with 13 figures. A key to the species is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Reduviidae; Ectrichodiinae; Madagascar; new genus; new species; description</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dominik</firstname>
+          <lastname>Chłond</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-06-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

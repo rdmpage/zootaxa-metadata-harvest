@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2489.1</id>
+    <title locale="en_US">31 May. 2010</title>
+    <volume>2489</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic review of cestodes of the genus &lt;i&gt;Catenotaenia &lt;/i&gt;Janicki, 1904 in Eurasia and molecular phylogeny of the Catenotaeniidae (Cyclophyllidea)</title>
+        <abstract locale="en_US">This study reviews the taxonomy of cestodes of the genus &lt;i&gt;Catenotaenia&lt;/i&gt; Janicki, 1904 (Cyclophyllidea: Catenotaeniidae) in Eurasia and presents the first molecular phylogenetic hypothesis of &lt;i&gt;Catenotaenia,&lt;/i&gt; &lt;i&gt;Skrjabinotaenia&lt;/i&gt; Ahumyan, 1946 and &lt;i&gt;Meggittina&lt;/i&gt; Lynsdale, 1953, all parasites of rodents. The phylogenetic data are based on sequences of 28S ribosomal RNA. The analysis does not support the proposed subfamilial classification of the Catenotaeniidae into Catenotaeniinae Spasskii, 1949 and Skrjabinotaeniinae Genov &amp; Tenora, 1979. Instead, the main division appears to be between Eurasian species and a basal Nearctic species. The results support the monophyly of the Skrjabinotaeniinae but not that of the Catenotaeniinae or &lt;i&gt;Catenotaenia&lt;/i&gt; as traditionally understood. It is suggested that the Old World catenotaeniid cestodes appeared in murid rodents and diverged subsequently as &lt;i&gt;Skrjabinotaenia&lt;/i&gt; and &lt;i&gt;Meggittina&lt;/i&gt; (Skrjabinotaeniinae) in Africa. According to the molecular phylogeny, Eurasian &lt;i&gt;Catenotaenia&lt;/i&gt; codiverged with their hosts, with the exception of &lt;i&gt;Catenotaenia&lt;/i&gt; &lt;i&gt;dendritica&lt;/i&gt; that originated via a host shift from murid rodents to squirrels. The crown clade of Eurasian &lt;i&gt;Catenotaenia&lt;/i&gt; consists only of species found in cricetid rodents and the three terminal species only in the Arvicolinae (voles). Phylogenetic structure within the Eurasian &lt;i&gt;Catenotaenia&lt;/i&gt; clade suggests seven distinct lineages, three of which are described as new: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;apodemi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;Apodemus&lt;/i&gt; &lt;i&gt;peninsulae&lt;/i&gt; (type host) from the Republic of Buryatia and from &lt;i&gt;Apodemus&lt;/i&gt; &lt;i&gt;uralensis&lt;/i&gt; from the Lower Tunguska River, North-Central Siberia (Russian Federation); &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cricetuli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;Cricetulus&lt;/i&gt; &lt;i&gt;barabensis&lt;/i&gt; from the Republic of Buryatia and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;microti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;Microtus&lt;/i&gt; &lt;i&gt;socialis&lt;/i&gt; from Kazakhstan. A new genus (Catenotaenioides &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.)&lt;/b&gt; is proposed for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kirgizica&lt;/i&gt; Tokobaev, 1959, a basal species within the Old World clade. Of the various morphological features, proglottid form (short acraspedote proglottids widest at middle vs. elongated craspedote proglottids widest posteriorly) is consistent with the phylogenetic pattern exhibited by catenotaeniid cestodes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Parasites; tapeworms; Cestoda; 28S rRNA; &lt;i&gt;Skrjabinotaenia&lt;/i&gt;; &lt;i&gt;Meggittina&lt;/i&gt;; &lt;i&gt;Catenotaenioides&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.,&lt;/b&gt; &lt;i&gt;Catenotaenia&lt;/i&gt; &lt;i&gt;apodemi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Catenotaenia&lt;/i&gt; &lt;i&gt;cricetuli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Catenotaenia&lt;/i&gt; &lt;i&gt;microti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; rodents</subject>
+          <subject_class locale="en_US">Parasites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Voitto</firstname>
+          <lastname>Haukisalmi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lotta</firstname>
+          <middlename>M.</middlename>
+          <lastname>Hardman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heikki</firstname>
+          <lastname>Henttonen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2010-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the generic nomenclature of nine brachyuran names, with four replacement names and two &lt;i&gt;nomina protecta &lt;/i&gt;(Crustacea: Decapoda)</title>
+        <abstract locale="en_US">Four generic names for Brachyura were found to be preoccupied: &lt;i&gt;Epithelphusa&lt;/i&gt; Rodríguez &amp; Smalley, 1969, &lt;i&gt;Forsteria&lt;/i&gt; Bott, 1969, &lt;i&gt;Odhneria&lt;/i&gt; Sakai, 1983, and &lt;i&gt;Villalobosus&lt;/i&gt; Ng &amp; Alvarez, 2000. Replacement names are here proposed for them. Two junior homonyms, &lt;i&gt;Psaumis&lt;/i&gt; Kossmann, 1877, and &lt;i&gt;Quadrella&lt;/i&gt; Dana, 1851, do not need to be replaced as the senior homonyms have not been used as valid names since 1899, and the implementation of Article 23 of the Code allows the names to be maintained as a &lt;i&gt;nomina&lt;/i&gt; &lt;i&gt;protecta.&lt;/i&gt; The nomenclature of three other names: &lt;i&gt;Mithrax&lt;/i&gt; Latreille, 1816, &lt;i&gt;Naxia&lt;/i&gt; Latreille, 1825, and &lt;i&gt;Thia&lt;/i&gt; Leach, 1816, are also discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-46</pages>
+        <date_published>2010-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomy of iguanodontians (Dinosauria: Ornithopoda) from the lower Wealden Group (Cretaceous: Valanginian) of southern England </title>
+        <abstract locale="en_US">This short review discusses current understanding of the history, anatomy and taxonomy of the lower Wealden Groupaged (Valanginian ~141–137Ma) iguanodontian dinosaurs from southern England. English Wealden iguanodontian taxonomy has been the subject of comment and scrutiny since the latter half of the 19 th century. As proposed over two decades ago, iguanodontians recovered from quarries across this geographic region can be subdivided into anatomically and chronologically distinct assemblages. A review of the lower Wealden Group (Valanginian) assemblage (formerly understood to comprise the relatively poorly known and understood taxa &lt;i&gt;Iguanodon&lt;/i&gt; &lt;i&gt;dawsoni,&lt;/i&gt; &lt;i&gt;Iguanodon&lt;/i&gt; &lt;i&gt;fittoni&lt;/i&gt; and &lt;i&gt;Iguanodon&lt;/i&gt; &lt;i&gt;hollingtoniensis)&lt;/i&gt; establishes the presence of two diagnosable taxa: &lt;i&gt;Barilium&lt;/i&gt; &lt;i&gt;dawsoni&lt;/i&gt; (Lydekker, 1888) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Hypselospinus&lt;/i&gt; &lt;i&gt;fittoni&lt;/i&gt; (Lydekker, 1889) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The upper Wealden Group (Hauterivian–Lower Aptian) assemblage comprises &lt;i&gt;Iguanodon&lt;/i&gt; &lt;i&gt;bernissartensis&lt;/i&gt; and &lt;i&gt;Mantellisaurus&lt;/i&gt; &lt;i&gt;atherfieldensis.&lt;/i&gt; Recent suggestions concerning the creation of additional new Wealden Group taxa reflect systemic misunderstandings of the actual skeletal material. A detailed taxonomic review of all Wealden Group iguanodontians is in preparation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dinosaur; Ornithischian; Lower Cretaceous; England; &lt;i&gt;Iguanodon&lt;/i&gt;; New genera</subject>
+          <subject_class locale="en_US">Dinosaur</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>B.</middlename>
+          <lastname>Norman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-66</pages>
+        <date_published>2010-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Forestiana &lt;/i&gt;nom. nov., a replacement name for &lt;i&gt;Forestia &lt;/i&gt;Guinot, 1976 (Crustacea: Brachyura: Xanthidae), pre-occupied by &lt;i&gt;Forestia &lt;/i&gt;Trinchese, 1881 (Mollusca: Calmidae: Nudibranchia)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Danièle</firstname>
+          <lastname>Guinot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2010-05-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

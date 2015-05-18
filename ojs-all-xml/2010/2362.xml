@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2362.1</id>
+    <title locale="en_US">18 Feb. 2010</title>
+    <volume>2362</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the tarantula spider genus &lt;i&gt;Lyrognathus &lt;/i&gt;Pocock 1895 (Araneae, Theraphosidae), with notes on the Selenocosmiinae</title>
+        <abstract locale="en_US">The tarantula genus &lt;i&gt;Lyrognathus&lt;/i&gt; Pocock 1895 is revised with three new species described: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;achilles&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Gunung Nibung, Borneo; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;fuscus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Simpang Kubur, Borneo and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;lessunda&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Lombok Island, Indonesia. The male of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Smith 1988 is described for the first time, the female is redescribed. &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;crotalus&lt;/i&gt; Pocock 1895 is considered a senior synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pugnax&lt;/i&gt; Pocock 1900. Several new characters are discussed, with &lt;i&gt;Lyrognathus&lt;/i&gt; keyed to species. The diagnosis of the Selenocosmiinae is amended. Zoogeographic distribution, natural history and subfamilial relationships with proposed sister genera &lt;i&gt;Selenocosmia&lt;/i&gt; Ausserer 1871 and &lt;i&gt;Coremiocnemis&lt;/i&gt; Simon 1892 are discussed. &lt;i&gt;Lyrognathus&lt;/i&gt; &lt;i&gt;saltator&lt;/i&gt; is redescribed. &lt;i&gt;Selenocosmia&lt;/i&gt; &lt;i&gt;lyra&lt;/i&gt; Strand 1913 is considered a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;dubium.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mygalomorph; new species; Lombok; Malaysia; India; Borneo; Indonesia; distribution; zoogeography; natural history</subject>
+          <subject_class locale="en_US">Mygalomorph</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rick</firstname>
+          <middlename>C.</middlename>
+          <lastname>West</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steven</firstname>
+          <middlename>C.</middlename>
+          <lastname>Nunn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-43</pages>
+        <date_published>2010-02-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Berinda &lt;/i&gt;(Araneae, Gnaphosidae) in the East Mediterranean with the description of two new species</title>
+        <abstract locale="en_US">&lt;i&gt;Berinda&lt;/i&gt; is a small genus of the family Gnaphosidae (Araneae) known only from the East Mediterranean. Up to now three species were known, namely &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;amabilis&lt;/i&gt; Roewer, 1928, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;ensigera&lt;/i&gt; (O.P.-Cambridge, 1874), and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;aegilia&lt;/i&gt; Chatzaki, 2002, all recorded from the Greek islands (B. &lt;i&gt;amabilis&lt;/i&gt; is also recorded from Uzbekistan and Turkey) and the mainland (B. &lt;i&gt;ensigera).&lt;/i&gt; In this paper we revise the genus adding new records of the previously recorded species and a new synonymy for &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;ensigera&lt;/i&gt; (Haplodrassus &lt;i&gt;grazianoi&lt;/i&gt; Caporiacco, 1948) and describe two new species, one found on the island of Cyprus, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;cypria&lt;/i&gt; Chatzaki &amp; Panayiotou n.sp., and one found in Kayseri, Central Anatolia, Turkey, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hakani&lt;/i&gt; Chatzaki &amp; Seyyar n.sp., thus leading to a total of five species included in this genus.&lt;b&gt;key&lt;/b&gt; &lt;b&gt;words:&lt;/b&gt; ground spiders, taxonomy, zelotines, Greece, Cyprus, Turkey, Kayseri, Aegean, Crete</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eleni</firstname>
+          <lastname>Panayiotou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dimitris</firstname>
+          <lastname>Kaltsas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Osman</firstname>
+          <lastname>Seyyar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <lastname>Chatzaki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-54</pages>
+        <date_published>2010-02-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Neolithodes flindersi&lt;/i&gt;, a new species of king crab from southeastern Australia (Crustacea: Decapoda: Lithodidae)</title>
+        <abstract locale="en_US">A new species of king crab (Lithodidae) is described from southeastern Australia, &lt;i&gt;Neolithodes&lt;/i&gt; &lt;i&gt;flindersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; It is the twelfth known species of &lt;i&gt;Neolithodes,&lt;/i&gt; the first to be described and the largest lithodid known from Australia. &lt;i&gt;Neolithodes&lt;/i&gt; &lt;i&gt;flindersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; most closely resembles &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;brodiei&lt;/i&gt; Dawson &amp; Yaldwyn, 1970, from New Zealand and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;nipponensis&lt;/i&gt; Sakai, 1971, from Japan and Taiwan. The new species differs from &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;nipponensis&lt;/i&gt; chiefly in being less prominently spinose: the secondary spines covering the surfaces of the walking legs are distinctly shorter, and the antennal peduncle is only sparsely granulate or spinulate, rather than prominently spinulate. &lt;i&gt;Neolithodes&lt;/i&gt; &lt;i&gt;flindersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is most easily distinguished from &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;brodiei&lt;/i&gt; by patterns of spination: the ventral surfaces of the coxae of the walking legs in males and juvenile female &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;flindersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are covered in short conical spines, rather than low, blunt tubercles as in &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;brodiei,&lt;/i&gt; and the meral extensor spines of the walking legs are of similar size rather than markedly uneven. Two specimens of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;flindersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; were collected on gorgonacean corals, representing the first records of a gorgonaceanlithodid association.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anomura; Lithodidae; &lt;i&gt;Neolithodes&lt;/i&gt;; king crabs; Australia; New Zealand</subject>
+          <subject_class locale="en_US">Anomura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shane</firstname>
+          <middlename>T.</middlename>
+          <lastname>Ahyong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2010-02-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Neodolichodorus sinensis &lt;/i&gt;sp. nov. (Nematoda: Dolichodoridae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kan</firstname>
+          <lastname>Zhuo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Honghong</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jinling</firstname>
+          <lastname>Liao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-02-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

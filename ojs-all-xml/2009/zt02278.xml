@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2278.1</id>
+    <title locale="en_US">2 Nov. 2009</title>
+    <volume>2278</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Spiophanes norrisi &lt;/i&gt;sp. nov. (Polychaeta: Spionidae)a new species from the NE Pacific coast, separated from the &lt;i&gt;Spiophanes bombyx &lt;/i&gt;complex based on both morphological and genetic studies</title>
+        <abstract locale="en_US">Morphological and genetic studies of specimens identified as &lt;i&gt;Spiophanes&lt;/i&gt; &lt;i&gt;bombyx&lt;/i&gt; (Claparède, 1870) revealed that the supposedly cosmopolitan species represents a species complex. Species belonging to this complex are &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bombyx&lt;/i&gt; (Claparède, 1870), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;aucklandicus&lt;/i&gt; Meißner, 2005, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;uschakowi&lt;/i&gt; Zachs, 1933 and the newly described &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;norrisi.&lt;/i&gt; Morphological differences between these species are slight and concern the start of sabre chaetae, the shape of dorsal ciliated organs, and the start and number of neuropodial hooks in relation to body size. Specimens from the Atlantic Ocean examined in the course of this study also belong to this species complex but could not be assigned to any of the known species. Genetic differences between &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bombyx&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;norrisi&lt;/i&gt; in both examined genes (18S, COI) are significant and genetic distances are comparable to distances found between sister species in other spionid taxa. As expected, the nuclear 18S rRNA is generally more conserved than the mitochondrial COI gene. The significance beyond taxonomy of dorsal ciliated organs and of the presence of sabre chaetae in certain body regions is briefly discussed, but conclusions about the phylogenetic relationships and character evolution within &lt;i&gt;Spiophanes&lt;/i&gt; must remain tentative.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">18S rRNA; cytochrome oxidase I; cryptic species; dorsal ciliated organs; genetics; nuchal organs; sabre chaetae; &lt;i&gt;Spiophanes&lt;/i&gt; &lt;i&gt;anoculata&lt;/i&gt;; &lt;i&gt;Spiophanes&lt;/i&gt; &lt;i&gt;aucklandicus&lt;/i&gt;; &lt;i&gt;Spiophanes&lt;/i&gt; &lt;i&gt;uschakowi&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">18S rRNA</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karin</firstname>
+          <lastname>Meißner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miriam</firstname>
+          <lastname>Blank</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2009-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">One new species and records of &lt;i&gt;Ichthydium &lt;/i&gt;Ehrenberg, 1830 (Gastrotricha: Chaetonotida) from Sweden with a key to the genus</title>
+        <abstract locale="en_US">The freshwater gastrotrich fauna of Sweden is poorly known. Only seven species of freshwater gastrotrichs have been reported so far. This paper is the first in a series of contributions about the Swedish freshwater gastrotrich fauna. Here we describe one new species, &lt;i&gt;Ichthydium&lt;/i&gt; &lt;i&gt;skandicum&lt;/i&gt; n. sp., from Jämtland, northern Sweden. The new species falls within the boundary of the subgenus &lt;i&gt;Forficulichthys&lt;/i&gt; and is morphologically closest to &lt;i&gt;Ichthydium&lt;/i&gt; &lt;i&gt;tanytrichum&lt;/i&gt; from which it can be differentiated based on the presence of four pairs of dorsal, keeled scales in the posterior trunk region. Moreover, we provide morphometric data for three additional &lt;i&gt;Ichthydium&lt;/i&gt; species: &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;diacanthum,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;squamigerum&lt;/i&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;tanytrichum,&lt;/i&gt; Italian species all of which are reported for the first time outside Italy. Considering the accompanying fauna, a total of thirteen freshwater Gastrotricha are reported for the first time from Sweden. Finally we present a dichotomous key for &lt;i&gt;Ichthydium&lt;/i&gt; along with distributional data of the species considered.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chaetonotidae; Freshwater fauna; Meiofauna; Taxonomy; Taxonomical key</subject>
+          <subject_class locale="en_US">Chaetonotidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tobias</firstname>
+          <lastname>Kånneby</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Todaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulf</firstname>
+          <lastname>Jondelius</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-46</pages>
+        <date_published>2009-11-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Italian marine Gastrotricha: VI. Seven new species of Macrodasyida</title>
+        <abstract locale="en_US">Seven species new to science are described from Italian waters, some of which also occur along nearby coasts: &lt;i&gt;Macrodasys&lt;/i&gt; &lt;i&gt;acrosorus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;digronus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; in the family Macrodasyidae, &lt;i&gt;Acanthodasys&lt;/i&gt; &lt;i&gt;flabellicaudus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Diplodasys&lt;/i&gt; &lt;i&gt;sanctimariae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Tetranchyroderma&lt;/i&gt; &lt;i&gt;hyponiglarum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;korynetum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;oligopentancrum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; in the family Thaumastodermatidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mediterranean Sea; Red Sea; Benthos; Meiofauna; Systematics; Taxonomy; Italy; Cyprus; Egypt</subject>
+          <subject_class locale="en_US">Mediterranean Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>D.</middlename>
+          <lastname>Hummon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Todaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2009-11-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2913.1</id>
+    <title locale="en_US">10 Jun. 2011</title>
+    <volume>2913</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new genus &lt;i&gt;Microphylacinus &lt;/i&gt;and revision of the closely related &lt;i&gt;Phylacinus&lt;/i&gt; Fairmaire, 1896 (Coleoptera: Tenebrionidae: Pedinini) from Madagascar</title>
+        <abstract locale="en_US">Two new species from the genus &lt;i&gt;Phylacinus&lt;/i&gt; Fairmaire,1896 (Phylacinus &lt;i&gt;fisheri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kavanaughi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and a new genus &lt;i&gt;Microphylacinus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; with a single species &lt;i&gt;Microphylacinus&lt;/i&gt; &lt;i&gt;verendus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described. These genera are distributed mainly along the coast of Madagascar. The material studied was acquired from California Academy of Sciences expeditions conducted between 2000 and 2002. Examined specimens allowed us to revise the genus &lt;i&gt;Phylacinus&lt;/i&gt; and confirm previously described species. New localities were recorded for &lt;i&gt;Phylacinus&lt;/i&gt; &lt;i&gt;peyrierasi&lt;/i&gt; Ardoin, 1967 and &lt;i&gt;Phylacinus&lt;/i&gt; &lt;i&gt;ferreri&lt;/i&gt; Iwan, 2004. A key is proposed to the species of &lt;i&gt;Phylacinus.&lt;/i&gt; &lt;i&gt;Microphylacinus&lt;/i&gt; differs from &lt;i&gt;Phylacinus&lt;/i&gt; by its small size, sulcate fronto-clypeal suture and fully divided aedeagal tegmen.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Melambiina; aedeagal tegmen; &lt;i&gt;Phylacinus&lt;/i&gt; &lt;i&gt;fisheri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Phylacinus&lt;/i&gt; &lt;i&gt;kavanaughi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Microphylacinus&lt;/i&gt; &lt;i&gt;verendus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Melambiina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dariusz</firstname>
+          <lastname>Iwan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcin</firstname>
+          <lastname>Kamiński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rolf</firstname>
+          <lastname>Aalbu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-15</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First female and new species of &lt;i&gt;Phaenicocleus &lt;/i&gt;(Hemiptera: Heteroptera: Enicocephalidae) from Sabah and a key to genera of Enicocephalidae without forewing basal cell</title>
+        <abstract locale="en_US">A new species of Enicocephalidae: Enicocephalinae, &lt;i&gt;Phaenicocleus&lt;/i&gt; &lt;i&gt;granulosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (based on a female), is described from Sabah and compared with the other three species of the genus (based on males). Autapomorphies of the genus (particularly reduced armature of fore tibia and tarsus, interrupted posterior claval vein AA3+4, striking occurrence of large setigerous tubercles the latter shared with Australian &lt;i&gt;Usingeriella)&lt;/i&gt; are stressed and partly discussed. A new key to genera of Enicocephalidae with forewing basal cell absent and closed discal cell present is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Hemiptera; Heteroptera; Enicocephalidae; taxonomy; Malaysia; Sabah; generic key</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <lastname>Baňař</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pavel</firstname>
+          <lastname>Štys</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>16-26</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Zoniopoda &lt;/i&gt;Stål (Orthoptera: Acridoidea: Romaleidae) from Argentina and its phylogenetic position within the genus</title>
+        <abstract locale="en_US">A new species of the romaleid grasshopper genus &lt;i&gt;Zoniopoda&lt;/i&gt; Stål (Romaleidae: Romaleini) is described and illustrated from the Sierras Chicas of Córdoba Province, central Argentina. A cladistic analysis based on morphological characters indicates that the genus &lt;i&gt;Zoniopoda&lt;/i&gt; constitutes a monophyletic group and that &lt;i&gt;Zoniopoda&lt;/i&gt; &lt;i&gt;serrana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; must be assigned to Iheringi species group based on synapomorphies of the pronotum and body color. The new species is similar to &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; Bruner from Paraguay, Bolivia and Brazil, from which it can be distinguished by the color pattern of the body, shape of the pronotal dorso-median carina and characters of the male terminalia and epiphallus. This paper has been formatted with embedded links to images of the type specimen, maps based on georeferenced specimen data for the genus and an updated key to the species of &lt;i&gt;Zoniopoda&lt;/i&gt; available on the Orthoptera Species File (OSF) online (http://orthoptera.speciesfile.org).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Romaleini; grasshoppers; &lt;i&gt;Zoniopoda&lt;/i&gt; &lt;i&gt;serrana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Sierras Chicas</subject>
+          <subject_class locale="en_US">Romaleini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martina</firstname>
+          <middlename>E.</middlename>
+          <lastname>Pocco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gonzalo</firstname>
+          <middlename>D.</middlename>
+          <lastname>Rubio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Marta</middlename>
+          <lastname>Cigliano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-37</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic discussion of the genus &lt;i&gt;Phalacrotophora &lt;/i&gt;Enderlein, 1912 (Diptera: Phoridae), with the description of two new species from Southeast Asia</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Phalacrotophora&lt;/i&gt; Enderlein, 1912, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nitida&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pappi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are described from Southeast Asia. Their affinities are discussed, the present knowledge on the genus is summarized. Faunistic records of various &lt;i&gt;Phalacrotophora&lt;/i&gt; species are presented; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fasciata&lt;/i&gt; (Fallén, 1823), so far only known from Europe, is reported from Asia for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Phoridae; &lt;i&gt;Phalacrotophora&lt;/i&gt;; Oriental Region; parasitoid</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gábor</firstname>
+          <middlename>Dániel</middlename>
+          <lastname>Lengyel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-46</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new synonym, a new male description and new geographical records for three &lt;i&gt;Ceraeochrysa &lt;/i&gt;species (Neuroptera: Chrysopidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Ceraeochrysa&lt;/i&gt; Adams is the largest genus in Chrysopini with 62 valid species distributed in the New World. The taxonomy of this group is complex and largely based on male genitalic characters. There are still serious complications, especially with the species that have been described solely from female specimens. The male of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;montoyana&lt;/i&gt; (Navás, 1913), unknown previously, is herein described for the first time, and compared with its closest relative, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;claveri&lt;/i&gt; (Navás, 1911). &lt;i&gt;Ceraeochrysa&lt;/i&gt; &lt;i&gt;acutipuppis&lt;/i&gt; Adams &amp; Penny, 1985 is designated as a junior synonym of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fairchildi&lt;/i&gt; (Banks, 1946) based on the evidence that both species share external morphological features uncommon in other species of the genus. The species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;claveri,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fairchildi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;montoyana&lt;/i&gt; are recorded from Venezuela for the first time. External morphology and genitalia of these insects are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chrysopinae; Chrysopini; green lacewing; predator; synonymy</subject>
+          <subject_class locale="en_US">Chrysopinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <lastname>Sosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <lastname>De Freitas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ochthebius ustaoglui &lt;/i&gt;sp. nov. (Coleoptera: Hydraenidae), a new species of the &lt;i&gt;O. metallescens &lt;/i&gt;group from Turkey</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>E.</firstname>
+          <middlename>Tarik</middlename>
+          <lastname>Topkara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <lastname>Jäch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ahmet</firstname>
+          <lastname>Kasapoğlu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-62</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First records of the leafhopper genus &lt;i&gt;Ossuaria &lt;/i&gt;Dworakowska in China (Hemiptera: Cicadellidae: Typhlocybinae: Erythroneurini) with descriptions of two new species</title>
+        <abstract locale="en_US">&lt;i&gt;Ossuaria&lt;/i&gt; Dworakowska is recorded for the first time from China and two new species, &lt;i&gt;Ossuaria&lt;/i&gt; &lt;i&gt;sichuanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Ossuaria&lt;/i&gt; &lt;i&gt;yunnanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from China. Generic characteristics and a key to known species of the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Auchenorrhyncha; taxonomy; morphology; distribution; new record</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Meixia</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-06-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

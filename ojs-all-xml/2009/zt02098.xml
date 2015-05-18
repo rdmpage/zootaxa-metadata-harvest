@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2098.1</id>
+    <title locale="en_US">11 May. 2009</title>
+    <volume>2098</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A catalog of the Tenuipalpidae (Acari) of the World with a key to genera</title>
+        <abstract locale="en_US">The family Tenuipalpidae is worldwide in distribution and includes several economically important pest species. Species of the genus &lt;i&gt;Brevipalpus&lt;/i&gt; have been identified as vectors of rhabdoviruses that cause diseases such as citrus leprosis, coffee ring spot virus, passion fruit green spot virus and others that reduce the production and the life span of the plants. An updated list of the Tenuipalpidae (Acari: Prostigmata), a key to the genera of the world and data on zoogeographical distribution of the species are presented. The catalogue provides information on 891 known species (including 3 species &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis)&lt;/i&gt; belonging to 34 genera. The valid name of each species, the author, date and page of the corresponding original description, type locality and host, species designation(s), references to species redescription(s) and other complementary information are presented. The genera &lt;i&gt;Rarosiella&lt;/i&gt; Rimando 1996 and &lt;i&gt;Neoraoiella&lt;/i&gt; Mohanasundaram 1996 are synonymized with &lt;i&gt;Raoiella&lt;/i&gt; Hirst 1924. The genus &lt;i&gt;Meyeraepalpus&lt;/i&gt; Smiley, Frost &amp; Gerson 1996 is synonymized with the genus &lt;i&gt;Aegyptobia&lt;/i&gt; Sayed 1950. Three new genera, &lt;i&gt;Magdalenapalpus,&lt;/i&gt; &lt;i&gt;Chaudhripalpus&lt;/i&gt; and &lt;i&gt;Urigersonus&lt;/i&gt; are erected. Indices of the plant host species and families associated with each species, the number and regional distribution of species in each genus, and a list of relevant publications of species from each zoogeographical region are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Prostigmata; Tenuipalpidae; catalog; taxonomy; flat mites; false spider mites; virus; vector; fauna</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nora</firstname>
+          <middlename>C.</middlename>
+          <lastname>Mesa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronald</firstname>
+          <lastname>Ochoa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>Calvin</middlename>
+          <lastname>Welbourn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gregory</firstname>
+          <middlename>A.</middlename>
+          <lastname>Evans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-185</pages>
+        <date_published>2009-05-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

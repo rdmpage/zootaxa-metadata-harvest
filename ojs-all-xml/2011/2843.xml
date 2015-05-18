@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2843.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2843</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of Afrotropical and West Palaearctic ants of the ponerine genus Hypoponera Santschi (Hymenoptera: Formicidae) </title>
+        <abstract locale="en_US">The taxonomy of the ponerine ants of the genus &lt;i&gt;Hypoponera&lt;/i&gt; is revised for the Afrotropical and West Palaearctic regions. A combined key to both faunae is presented, and the West Palaearctic species are also keyed separately. Fifty-six species are recognised in total, of which 51 are Afrotropical endemics and two are restricted to the West Palaearctic; three tramp species occur in both regions. Thirty-four Afrotropical species are described as new while 33 names, including a number of infraspecific taxa and extralimital forms, are relegated to synonymy. Two previously described Afrotropical &lt;i&gt;Hypoponera&lt;/i&gt; names are regarded as &lt;i&gt;species&lt;/i&gt; &lt;i&gt;inquirendae&lt;/i&gt; (lea, &lt;i&gt;petiolata).&lt;/i&gt; Two extralimital species are mentioned with respect to the studied fauna: &lt;i&gt;gibbinota,&lt;/i&gt; described from a casual introduction in a Palaearctic hothouse, and the Oriental &lt;i&gt;assmuthi,&lt;/i&gt; which is provisionally raised to species to dissociate it from the Palaearctic &lt;i&gt;abeillei,&lt;/i&gt; to which it was previously linked as an infraspecific taxon.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ponerinae; &lt;i&gt;Hypoponera&lt;/i&gt;; Afrotropical; West Palaearctic; taxonomy</subject>
+          <subject_class locale="en_US">Ponerinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Barry</firstname>
+          <lastname>Bolton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-118</pages>
+        <date_published>2011-04-29</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

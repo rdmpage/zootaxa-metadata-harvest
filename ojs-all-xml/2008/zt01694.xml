@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1694.1</id>
+    <title locale="en_US">31 Jan. 2008</title>
+    <volume>1694</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Vosmaeria &lt;/i&gt;Fristedt, 1885 (Porifera, Demospongiae, Halichondriidae): revision of species, phylogenetic reconstruction and evidence for split</title>
+        <abstract locale="en_US">All species of &lt;i&gt;Vosmaeria&lt;/i&gt; are re-described using type and additional material. The phylogenetic relationships between &lt;i&gt;Vosmaeria&lt;/i&gt; ssp. and other demosponge taxa are reconstructed based on 28S-rDNA sequences analyses. &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;crustacea,&lt;/i&gt; the type species, is widely distributed in the NE Atlantic and characterized by a thinly encrusting growth form, the location of ostia and oscula exclusively on papillae, a dense and firm ectosomal skeleton, the absence of subectosomal aquiferous cavities and the blunt distal tips of tylostyles. Hydrochemical conditions may account for the smaller spicule size of the White Sea population compared to those in the North and Barents Sea. &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;reticulosa,&lt;/i&gt; known from the Chilean and Peruvian coasts, is distinguished by a massive growth form, a reticulated ectosomal skeleton, the absence of papillae, the scattering of ostia and oscula over the surface, the presence of subectosomal cavities and the acerate distal tips of tylostyles. &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;levigata,&lt;/i&gt; known exclusively from the English Channel, shares the absence of papillae and the acerate distal tips of tylostyles with &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;reticulosa,&lt;/i&gt; but the only surviving material consists of dissociated spicules slides, and consequently its status remains unclear. On the basis of substantial morphological differences we propose to split &lt;i&gt;Vosmaeria&lt;/i&gt; into two monospecific genera – &lt;i&gt;Vosmaeria,&lt;/i&gt; with type species &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;crustacea,&lt;/i&gt; and &lt;i&gt;Johannesia&lt;/i&gt; gen. nov., with type species &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;reticulosa.&lt;/i&gt; Both genera clearly belong to Halichondriidae based on the tangential arrangement of the ectosomal skeleton, the presence of oxeas. Molecular phylogenetic analyses support a split into two genera and confirm the classification of both within the Halichondriidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; molecular phylogeny; Porifera; Halichondriidae; &lt;i&gt;Vosmaeria&lt;/i&gt;; &lt;i&gt;Johannesia&lt;/i&gt; gen. nov.</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <lastname>Gerasimova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dirk</firstname>
+          <lastname>Erpenbeck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <lastname>Plotkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2008-01-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic relationships among the genera of the Penaeidae (Crustacea: Decapoda) revealed by mitochondrial 16S rRNA gene sequences</title>
+        <abstract locale="en_US">The phylogenetic relationships within the family Penaeidae are examined based on mitochondrial 16S rRNA gene sequence analysis of 30 species from 20 genera. The analysis generally supports the three-tribe scheme proposed by Burkenroad (1983) but it is not consistent with the five-group classification of Kubo (1949). Three clades are resolved: (Penaeus sensu stricto + &lt;i&gt;Fenneropenaeus&lt;/i&gt; + &lt;i&gt;Litopenaeus&lt;/i&gt; + &lt;i&gt;Farfantepenaeus&lt;/i&gt; + &lt;i&gt;Marsupenaeus&lt;/i&gt; + &lt;i&gt;Melicertus&lt;/i&gt; + &lt;i&gt;Funchalia&lt;/i&gt; + &lt;i&gt;Heteropenaeus),&lt;/i&gt; (Metapenaeus + &lt;i&gt;Parapenaeopsis&lt;/i&gt; + &lt;i&gt;Xiphopenaeus&lt;/i&gt; + &lt;i&gt;Rimapenaeus&lt;/i&gt; + &lt;i&gt;Megokris&lt;/i&gt; + &lt;i&gt;Trachysalambria)&lt;/i&gt; and (Metapenaeopsis + &lt;i&gt;Penaeopsis&lt;/i&gt; + &lt;i&gt;Parapenaeus),&lt;/i&gt; corresponding to the Penaeini, Trachypenaeini and Parapenaeini respectively, while the affinities of &lt;i&gt;Atypopenaeus&lt;/i&gt; and &lt;i&gt;Trachypenaeopsis&lt;/i&gt; are obscure. The molecular data support that &lt;i&gt;Miyadiella&lt;/i&gt; represents the juvenile stage of &lt;i&gt;Atypopenaeus.&lt;/i&gt; Within the Trachypenaeini, &lt;i&gt;Trachypenaeus&lt;/i&gt; sensu lato is clearly paraphyletic, while the monophyly of &lt;i&gt;Penaeus&lt;/i&gt; sensu lato in the Penaeini is questionable.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mitochondrial DNA; phylogeny; Penaeidae; &lt;i&gt;Penaeus&lt;/i&gt;; &lt;i&gt;Trachypenaeus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">mitochondrial DNA</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tin-Yam</firstname>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jingou</firstname>
+          <lastname>Tong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan</firstname>
+          <middlename>Kit</middlename>
+          <lastname>Tam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ka</firstname>
+          <middlename>Hou</middlename>
+          <lastname>Chu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-50</pages>
+        <date_published>2008-01-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Alpheus websteri &lt;/i&gt;Kingsley, 1880 species complex (Crustacea: Decapoda: Alpheidae), with revalidation of &lt;i&gt;A. arenensis&lt;/i&gt; (Chace, 1937)</title>
+        <abstract locale="en_US">The &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;websteri&lt;/i&gt; Kingsley, 1880 species complex is revised. &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;websteri&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.&lt;/i&gt; is redefined and restricted to the western Atlantic, ranging from the type locality in the Florida Keys to northeastern Brazil. The eastern Pacific &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;arenensis&lt;/i&gt; (Chace, 1937), formerly a synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;websteri,&lt;/i&gt; and the eastern Atlantic &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fagei&lt;/i&gt; Crosnier and Forest, 1966, are shown to be distinct from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;websteri&lt;/i&gt; morphologically, genetically and also by color pattern. Morphology, genetics and color patterns all suggest that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;websteri&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;arenensis&lt;/i&gt; are transisthmian sister species, with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fagei&lt;/i&gt; being their closest relative. Complete synonymy, color photographs and GenBank barcodes (COI) are provided for all three species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Alpheus&lt;/i&gt;; snapping shrimp; species complex; transisthmian taxa; color pattern; eastern Pacific; Atlantic; Caribbean; molecular phylogeny; barcode; COI</subject>
+          <subject_class locale="en_US">&lt;i&gt;Alpheus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carla</firstname>
+          <lastname>Hurt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <lastname>Knowlton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2008-01-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

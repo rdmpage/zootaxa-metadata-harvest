@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2847.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2847</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Hemiptera-Sternorrhyncha (Insecta) of Hong Kong, China—an annotated inventory citing voucher specimens and published records </title>
+        <abstract locale="en_US">An account of the Sternorrhyncha recorded from Hong Kong, comprising approximately 485 species, is presented. This is primarily based upon voucher holdings in the collection of the Natural History Museum, London and it includes incompletely identified taxa. Also included are records based solely on published data. Host plant data are included where known and there are four appendices for quick cross-reference of names, groups and hosts. One new species in the Aleyrodidae is described, &lt;i&gt;Rhachisphora&lt;/i&gt; &lt;i&gt;takahashii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; One new synonymy in the Aleyrodidae is proposed, &lt;i&gt;Aleurocanthus&lt;/i&gt; &lt;i&gt;cheni&lt;/i&gt; Young (1942) becoming a junior synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spiniferus&lt;/i&gt; (Quaintance, 1903) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; Two nomenclatural changes in the Psylloidea are proposed: &lt;i&gt;Colophorina&lt;/i&gt; &lt;i&gt;hungtouensis&lt;/i&gt; Fang &amp; Yang (1986) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is transferred from &lt;i&gt;Psylla;&lt;/i&gt; &lt;i&gt;Macrohomotoma&lt;/i&gt; &lt;i&gt;sinica&lt;/i&gt; Yang &amp; Li (1984) is proposed as a junior synonym of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gladiatum&lt;/i&gt; Kuwayama (1908), &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; One nomenclatural change in the Diaspididae (Coccoidea) is proposed: &lt;i&gt;Neoparlatoria&lt;/i&gt; &lt;i&gt;lithocarpi&lt;/i&gt; Takahashi (1934) is removed from synonymy with &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;formosana&lt;/i&gt; Takahashi (1931), &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hong Kong; China; Sternorrhyncha; Hemiptera; host plants; check lists; specimen vouchers; specimen preparation</subject>
+          <subject_class locale="en_US">Hong Kong</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jon</firstname>
+          <middlename>H.</middlename>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Clive</firstname>
+          <middlename>S. K.</middlename>
+          <lastname>Lau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-122</pages>
+        <date_published>2011-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

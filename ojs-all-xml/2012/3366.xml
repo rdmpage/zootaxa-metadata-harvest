@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3366.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3366</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogenetic Systematics of the Family Pentacerotidae(Actinopterygii: Order Perciformes)</title>
+        <abstract locale="en_US">The osteologic and myologic characteristics of the family Pentacerotidae are described in detail. The family Pentaceroti-dae is a monophyletic group supported by 11 synapomorphies found in all family members. Of their synapomorphies, two(the second infraorbital and endopterygoid articulate with lateral ethmoid conditions) are considerably rare in percoidsand strongly support the monophyly of the family. A comparison of 44 transformation series among all species revealedfour equally parsimonious trees, and a strict consensus tree was adopted. On the basis of the inferred phylogenetic rela-tionships of the Pentacerotidae, this family was cladistically classified into two subfamilies and seven genera: Histiopter-inae (Histiopterus, &lt;i&gt;Evistias,&lt;/i&gt; &lt;i&gt;Zanclistius,&lt;/i&gt; &lt;i&gt;Pentaceropsis,&lt;/i&gt; &lt;i&gt;Paristiopterus,&lt;/i&gt; and &lt;i&gt;Parazanclistius)&lt;/i&gt; and Pentacerotinae(Pentaceros). The center of origin of pentacerotids was inferred to be the Southern Australian region. I propose that the two families, Ostracoberycidae and Chaetodontidae, are closely related with Pentacerotidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phylogeny; Pentacerotidae; monophyly; cladistic classification; zoogeography</subject>
+          <subject_class locale="en_US">Phylogeny</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Seong-Yong</firstname>
+          <lastname>Kim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-111</pages>
+        <date_published>2012-07-04</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

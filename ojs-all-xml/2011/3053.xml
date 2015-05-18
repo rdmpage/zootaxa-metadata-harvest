@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3053.1</id>
+    <title locale="en_US">10 Oct. 2011</title>
+    <volume>3053</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Insects found in birds’ nests from Argentina. &lt;i&gt;Myiopsitta monachus &lt;/i&gt;(Boddaert, 1873) [Aves: Psittacidae], exclusive host of &lt;i&gt;Psitticimex uritui &lt;/i&gt;(Lent &amp; Abalos, 1946) (Hemiptera: Cimicidae) PAOLA TURIENZO &amp; OSVALDO DI IORIO (Argentina)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-58</pages>
+        <date_published>2011-10-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Five species of the genus &lt;i&gt;Agonopterix &lt;/i&gt;Hübner (Lepidoptera: Depressariidae) from China ALEXANDR L. LVOVSKY (Russia) &amp; SHUXIA WANG (China)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-10-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

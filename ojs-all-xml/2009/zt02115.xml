@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2115.1</id>
+    <title locale="en_US">22 May. 2009</title>
+    <volume>2115</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the new wandering spider genus &lt;i&gt;Ohvida &lt;/i&gt;and taxonomic remarks on &lt;i&gt;Celaetycheus &lt;/i&gt;Simon, 1897 (Araneae: Ctenidae)</title>
+        <abstract locale="en_US">The new ctenid genus &lt;i&gt;Ohvida&lt;/i&gt; is proposed to include eight species: &lt;i&gt;Ohvida&lt;/i&gt; &lt;i&gt;fulvorufa&lt;/i&gt; (Franganillo, 1931) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species) (= &lt;i&gt;Celaetycheus&lt;/i&gt; &lt;i&gt;cabriolatus&lt;/i&gt; Franganillo, 1930 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cabriolatus&lt;/i&gt; &lt;i&gt;pardosiformis&lt;/i&gt; Franganillo, 1930 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fulvorufus&lt;/i&gt; &lt;i&gt;afoliatus&lt;/i&gt; Franganillo, 1931 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;isolata&lt;/i&gt; (Bryant, 1940) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;vernalis&lt;/i&gt; (Bryant, 1940) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;brevitarsus&lt;/i&gt; (Bryant, 1940) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;coxanus&lt;/i&gt; (Bryant, 1940), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and three new species, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;turquino&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (all species from Cuba), and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;andros&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;bimini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (both species from The Bahamas). Species of &lt;i&gt;Ohvida&lt;/i&gt; differ from all other ctenid spiders by the presence of a retrodorsal projection on the cymbium of the male pedipalp and by a basal position of the lateral spurs on the female epigyne. The genus &lt;i&gt;Celaetycheus&lt;/i&gt; Simon, 1897 is reviewed to only include its type species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;flavostriatus&lt;/i&gt; Simon, 1897 from Brazil. We propose the following synonyms and new combinations: &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;ottleyi&lt;/i&gt; (Petrunkevitch, 1930) (= &lt;i&gt;Celaetycheus&lt;/i&gt; &lt;i&gt;strenuus&lt;/i&gt; Bryant, 1942 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;modestus&lt;/i&gt; Bryant, 1942 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.);&lt;/b&gt; &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;delesserti&lt;/i&gt; (Caporiacco, 1947) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Leptoctenus&lt;/i&gt; &lt;i&gt;paradoxus&lt;/i&gt; (F.O. P.-Cambridge, 1900) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Celaetycheus&lt;/i&gt; &lt;i&gt;modestus&lt;/i&gt; Bryant, 1942 is considered &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; The Bahamas; Brazil; &lt;i&gt;Ctenus&lt;/i&gt;; Cuba; &lt;i&gt;Leptoctenus&lt;/i&gt;; systematics; taxonomy</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniele</firstname>
+          <lastname>Polotow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revalidation of &lt;i&gt;Chlamydopleon aculeatum &lt;/i&gt;Ortmann, 1893, and its consequences for the taxonomy of Gastrosaccinae (Crustacea: Mysida: Mysidae) endemic to coastal waters of America</title>
+        <abstract locale="en_US">A recent revision of burrowing mysid taxa in coastal waters on both sides of the American continent, published in this journal by Heard and Price (2006), necessitates a redescription of &lt;i&gt;Chlamydopleon&lt;/i&gt; &lt;i&gt;aculeatum&lt;/i&gt; Ortmann, 1893 based on type material from the Tocantins estuary on the coast of Brazil. A lectotype is designated and this taxon is revalidated at the species and genus level. The genus &lt;i&gt;Chlamydopleon&lt;/i&gt; Ortmann, 1893 gains precedence over the junior synonym &lt;i&gt;Bowmaniella&lt;/i&gt; Heard &amp; Price, 2006. The West Atlantic species &lt;i&gt;Gastrosaccus&lt;/i&gt; &lt;i&gt;dissimilis&lt;/i&gt; Coifmann, 1937 is redescribed based on the types from the coast of Brazil. Regional morphological differences are evident in additional material from 24°S to 34°N. This species and the East Pacific &lt;i&gt;Bowmaniella&lt;/i&gt; (Coifmanniella) &lt;i&gt;banneri&lt;/i&gt; Bǎcescu, 1968 are transferred to the genus &lt;i&gt;Chlamydopleon,&lt;/i&gt; using the new combinations &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dissimile&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;banneri.&lt;/i&gt; A key to the acknowledged two genera and seven species of Gastrosaccinae with apically widened third male pleopod is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gastrosaccinae; &lt;i&gt;Chlamydopleon&lt;/i&gt;; &lt;i&gt;Bowmaniella&lt;/i&gt;; synonymy; revision; taxonomy; West Atlantic; East Pacific</subject>
+          <subject_class locale="en_US">Gastrosaccinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karl</firstname>
+          <middlename>J.</middlename>
+          <lastname>Wittmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-33</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of two new species of &lt;i&gt;Sphaenorhynchus &lt;/i&gt;(Anura, Hylidae) from the State of Espírito Santo, Southeastern Brazil</title>
+        <abstract locale="en_US">Two new hylid frog species of the genus &lt;i&gt;Sphaenorhynchus&lt;/i&gt; are described from Lagoa Nova (17 o 57’89”S, 40 o 25’80”W), Fazenda Gemada, Municipality of Mucurici, State of Espírito Santo, southeastern Brazil. &lt;i&gt;Sphaenorhynchus&lt;/i&gt; &lt;i&gt;botocudo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a medium sized species (SVL 23.9–29.3 mm in males), is characterized by snout truncate in dorsal view and acute in profile, tympanum concealed, presence of a black line from the tip of snout to eye, delimiting the canthus rostralis, a distinctive longitudinal white spot under the eye, and a white stripe delimited above and below by clear brown lines, from the posterior corner of eye to the groin. &lt;i&gt;Sphaenorhynchus&lt;/i&gt; &lt;i&gt;mirim&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a small sized species (SVL 15.7–18.2 mm in males), is distinguished by the snout truncate in dorsal view and rounded, slightly acute in profile, tympanum concealed, vocal sac developed, single, subgular, extending to the chest and entering the arms, whithout longitudinal lateral folds, vomerine teeth absent, absence of a black line from the tip of snout to eye, absence of distinctive longitudinal white spot under the eye, and absence of white stripe or brown lines on dorsolateral region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Hylinae; &lt;i&gt;Sphaenorhynchus&lt;/i&gt; &lt;i&gt;botocudo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Sphaenorhynchus&lt;/i&gt; &lt;i&gt;mirim&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Atlantic Rain Forest; Taxonomy</subject>
+          <subject_class locale="en_US">Amphibia; Hylinae; &lt;i&gt;Sphaenorhynchus&lt;/i&gt; &lt;i&gt;botocudo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Sphaenorhynchus&lt;/i&gt; &lt;i&gt;mirim&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Atlantic Rain Forest; Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulisses</firstname>
+          <lastname>Caramaschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <lastname>De Pádua Almeida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Luiz</middlename>
+          <lastname>Gasparini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-46</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of bent-toed gecko (&lt;i&gt;Cyrtodactylus&lt;/i&gt;: Gekkonidae) from Seram Island, Indonesia</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Cyrtodacylus&lt;/i&gt; is described from the island of Seram, Maluku Province, Indonesia. &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;nuaulu&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from other described &lt;i&gt;Cyrtodactylus&lt;/i&gt; by the combination of moderate size, dorsal colouration consisting of relatively few large dark brown blotches, presence of a precloacal groove and whorls of dentate tubercles extending the length of the tail. The new species is the fourth reptile currently known only from Seram and surrounding islands, and the herpetofauna of this area appears to include a small but biogeographically significant endemic component.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cyrtodactylus&lt;/i&gt;; Gekkonidae; Maluku; Wallacea</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cyrtodactylus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <lastname>Oliver</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>Edgar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mumpuni</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Djoko</firstname>
+          <middlename>T.</middlename>
+          <lastname>Iskandar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ron</firstname>
+          <lastname>Lilley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-55</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery, resurrection and redescription of &lt;i&gt;Rhinella leptoscelis &lt;/i&gt;(Boulenger, 1912) (Anura: Bufonidae)</title>
+        <abstract locale="en_US">We resurrect &lt;i&gt;Rhinella&lt;/i&gt; &lt;i&gt;leptoscelis&lt;/i&gt; (Anura: Bufonidae) from the synonymy of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;veraguensis&lt;/i&gt; and redescribe it on the basis of the holotype, and recently collected specimens from Peru and Bolivia. &lt;i&gt;Rhinella&lt;/i&gt; &lt;i&gt;leptoscelis&lt;/i&gt; is well distinguished from all other species of the &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;veraguensis&lt;/i&gt; group by its flat head with well developed orbitotympanic and postorbital crests, distinct tympanum, large parotoid glands, spiny tubercles on dorsal surfaces, long and slender extremities, dorsolateral row of conical, enlarged and elevated tubercles, webbing absent on fingers, basal and serrated webbing between toes, and first finger longer than second. This species is known from the humid forests of the Amazonian versant of the Andes from central Bolivia to southern Peru.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazon; Andes; Peru; Bolivia; &lt;i&gt;Rhinella&lt;/i&gt; &lt;i&gt;veraguensis&lt;/i&gt; group; &lt;i&gt;Rhinella&lt;/i&gt; &lt;i&gt;margaritifera&lt;/i&gt; group; taxonomy</subject>
+          <subject_class locale="en_US">Amazon</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>M.</middlename>
+          <lastname>Padial</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>C.</middlename>
+          <lastname>Chaparro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jörn</firstname>
+          <lastname>Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ignacio</firstname>
+          <lastname>De La Riva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-64</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Ptychadena schillukorum &lt;/i&gt;(Werner, 1908 1907) (Amphibia: Anura: Ptychadenidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>Gilles Armel</middlename>
+          <lastname>Nago</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brice</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sinsin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark-Oliver</firstname>
+          <lastname>Rödel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

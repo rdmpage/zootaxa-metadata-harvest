@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2255.1</id>
+    <title locale="en_US">8 Oct. 2009</title>
+    <volume>2255</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the eastern and southern African blind-snakes (Serpentes: Typhlopidae), excluding &lt;i&gt;Letheobia &lt;/i&gt;Cope, with the description of two new genera and a new species</title>
+        <abstract locale="en_US">All eastern and southern African species of Typhlopidae (excluding &lt;i&gt;Letheobia)&lt;/i&gt; are reviewed with synonymies, diagnoses, and distribution maps. The 27 species from this region are arranged as follows: three species remain in &lt;i&gt;Typhlops&lt;/i&gt; (with &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cuneirostris&lt;/i&gt; &lt;i&gt;calabresii&lt;/i&gt; elevated to full species status), 16 species are transferred from &lt;i&gt;Typhlops&lt;/i&gt; to a new genus endemic to Africa (including a new species described from Kenya), three species remain in &lt;i&gt;Rhinotyphlops,&lt;/i&gt; four species are transferred from &lt;i&gt;Rhinotyphlops&lt;/i&gt; to a new genus endemic to Africa (with &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;schlegelii&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;mucruso&lt;/i&gt; elevated to full species status), and one invasive species of &lt;i&gt;Ramphotyphlops&lt;/i&gt; is included, which has been established in a few areas. Keys to the included species and all six African typhlopid genera are provided. A current taxonomic synopsis is provided for extralimital African and Southwest Asian typhlopid species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Typhlopidae; &lt;i&gt;Typhlops&lt;/i&gt;; &lt;i&gt;Afrotyphlops&lt;/i&gt;; &lt;i&gt;Megatyphlops&lt;/i&gt;; &lt;i&gt;Rhinotyphlops&lt;/i&gt;; &lt;i&gt;Ramphotyphlops&lt;/i&gt;; taxonomy; distribution; visceral anatomy; eastern and southern Africa</subject>
+          <subject_class locale="en_US">Typhlopidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Donald</firstname>
+          <middlename>G.</middlename>
+          <lastname>Broadley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Van</firstname>
+          <lastname>Wallach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-100</pages>
+        <date_published>2009-10-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

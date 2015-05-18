@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2127.1</id>
+    <title locale="en_US">8 Jun. 2009</title>
+    <volume>2127</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">African &lt;i&gt;Dacus &lt;/i&gt;(Diptera: Tephritidae); New Species and Data, with Particular Reference to the Tel Aviv University Collection</title>
+        <abstract locale="en_US">Seventeen new species are described: &lt;i&gt;Dacus&lt;/i&gt; &lt;i&gt;abruptus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;acutus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;albiseta,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brunnalis,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;insolitus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;kaplanae,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;kurrensis,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;luteovittatus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;magnificus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pseudapostata,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pseudomirificus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;senegalensis,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;transversalis,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;velutifrons,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;vestigivittatus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;xanthinus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;yaromi.&lt;/i&gt; Two species have changed status: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;devure&lt;/i&gt; Hancock is newly placed as a synonym of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;africanus&lt;/i&gt; Adams; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;mochii&lt;/i&gt; Bezzi stat.rev. is removed from synonymy with &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;annulatus&lt;/i&gt; Becker and redescribed. Two subgeneric changes are made: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nairobensis&lt;/i&gt; White and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;seguyi&lt;/i&gt; (Munro) are placed in sg. &lt;i&gt;Lophodacus&lt;/i&gt; [both from sg. &lt;i&gt;Didacus].&lt;/i&gt; New descriptive data are presented for several species; these include first known male of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;gabonensis&lt;/i&gt; White, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;parvimaculatus&lt;/i&gt; White, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;seguyi&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;semisphaereus&lt;/i&gt; Becker; first known female of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;blepharogaster&lt;/i&gt; Bezzi, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;merzi&lt;/i&gt; White and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nairobensis&lt;/i&gt; White. Revised host data are presented for &lt;i&gt;Bactrocera&lt;/i&gt; &lt;i&gt;mesomelas&lt;/i&gt; (Bezzi), and new male lure data for &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;congoensis&lt;/i&gt; White, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;fuscovittatus&lt;/i&gt; Graham and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pleuralis&lt;/i&gt; Collart. New country records are listed for a further sixteen species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tephritidae; Dacini; Dacina; &lt;i&gt;Dacus&lt;/i&gt;; &lt;i&gt;Bactrocera&lt;/i&gt;; Africa</subject>
+          <subject_class locale="en_US">Tephritidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ian</firstname>
+          <middlename>M.</middlename>
+          <lastname>White</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kim</firstname>
+          <middlename>F. M.</middlename>
+          <lastname>Goodger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2009-06-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species &lt;i&gt;Perissobasis heroni &lt;/i&gt;(Hemiptera: Heteroptera: Miridae: Deraeocorinae), found on &lt;i&gt;Coffea arabica&lt;/i&gt;, and with a key to Neotropical species of the genus</title>
+        <abstract locale="en_US">The newly discovered plant bug &lt;i&gt;Perissobasis&lt;/i&gt; &lt;i&gt;heroni&lt;/i&gt; is described from specimens collected in Campos Altos city, Minas Gerais State, Brazil, on coffee (Coffea &lt;i&gt;arabica).&lt;/i&gt; It was found with a rich arthropod fauna associated with coffee foliage. A diagnosis, description, photographs of the adult male, and selected structures and illustrations of male genitalia are provided to facilitate recognition. A key to species of &lt;i&gt;Perissobasis&lt;/i&gt; is also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Coffea&lt;/i&gt; &lt;i&gt;arabica&lt;/i&gt; crop; Miridae; Predator; Brazil; &lt;i&gt;Perissobasis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Coffea&lt;/i&gt; &lt;i&gt;arabica&lt;/i&gt; crop</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <middlename>Sérgio F.</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lorena</firstname>
+          <middlename>F.</middlename>
+          <lastname>Uceli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lívia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Coelho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Victor</firstname>
+          <middlename>D.</middlename>
+          <lastname>Pirovani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-58</pages>
+        <date_published>2009-06-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new endemic genus of Oecleini from Seychelles (Hemiptera: Fulgoromorpha: Cixiidae)</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Fipsianus&lt;/i&gt; gen. nov., from Seychelles is described. It is closely related to the genera &lt;i&gt;Volcanalia,&lt;/i&gt; &lt;i&gt;Eumyndus,&lt;/i&gt; &lt;i&gt;Borbonomyndus&lt;/i&gt; and &lt;i&gt;Nesomyndus.&lt;/i&gt; &lt;i&gt;Fipsianus,&lt;/i&gt; is endemic to the granitic “inner islands” and comprises two species, &lt;i&gt;Fipsianus&lt;/i&gt; &lt;i&gt;picturatus&lt;/i&gt; (Distant , 1917) comb. nov. (type species; synonym &lt;i&gt;Volcanalia&lt;/i&gt; &lt;i&gt;varicolor&lt;/i&gt; Distant, 1917, syn. nov.) on Mahé and Silhouette islands and &lt;i&gt;Fipsianus&lt;/i&gt; &lt;i&gt;andreae&lt;/i&gt; sp. nov. on Praslin island. Both species are monophagous on the thief palm &lt;i&gt;Phoenicophorium&lt;/i&gt; &lt;i&gt;borsigianum.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; taxonomy; endemism; &lt;i&gt;Fipsianus&lt;/i&gt;; &lt;i&gt;Volcanalia&lt;/i&gt;; &lt;i&gt;Eumyndus&lt;/i&gt;; &lt;i&gt;Borbonomyndus&lt;/i&gt;; &lt;i&gt;Nesomyndus&lt;/i&gt;; &lt;i&gt;Phoenicophorium&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Werner</firstname>
+          <middlename>E.</middlename>
+          <lastname>Holzinger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2009-06-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

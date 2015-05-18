@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2863.1</id>
+    <title locale="en_US">2 May. 2011</title>
+    <volume>2863</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of &lt;i&gt;Frutillaria &lt;/i&gt;Richards and &lt;i&gt;Penola &lt;/i&gt;Richards (Diptera: Sphaeroceridae: Archiborborinae)</title>
+        <abstract locale="en_US">The South American brachypterous genera &lt;i&gt;Frutillaria&lt;/i&gt; Richards and &lt;i&gt;Penola&lt;/i&gt; Richards (Sphaeroceridae: Archiborborinae &lt;b&gt;rev.&lt;/b&gt; &lt;b&gt;stat.)&lt;/b&gt; are revised. Seventeen species of &lt;i&gt;Frutillaria&lt;/i&gt; are described or redescribed, including the following nine new species from Chile: &lt;i&gt;Frutillaria&lt;/i&gt; &lt;i&gt;abdita,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;anticura,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;calida,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;chiloensis,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;contulmo,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;furcata,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;glabra,&lt;/i&gt; &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;richardsi,&lt;/i&gt; and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;transversa.&lt;/i&gt; Two additional species currently known only from females are also diagnosed, but not named. &lt;i&gt;Penola&lt;/i&gt; &lt;i&gt;eudyptidis&lt;/i&gt; Richards from the Falkland Islands, the only species included in &lt;i&gt;Penola,&lt;/i&gt; is recognized as the sister-group to &lt;i&gt;Frutillaria&lt;/i&gt; and redescribed from both sexes. Keys are provided for all known males and females.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Archiborborini; taxonomy; new species; Chile; Falkland Islands</subject>
+          <subject_class locale="en_US">Archiborborini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joel</firstname>
+          <middlename>H.</middlename>
+          <lastname>Kits</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>A.</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2011-05-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological variation in &lt;i&gt;S. minusculum &lt;/i&gt;Lutz and &lt;i&gt;S. oyapockense &lt;/i&gt;Floch and Abonnenc and a redescription of the larva of &lt;i&gt;S. minusculum&lt;/i&gt; (Diptera, Simuliidae) in the Neotropical Region</title>
+        <abstract locale="en_US">Since the comprehensive taxonomic work on Brazilian Simuliidae by Shelley &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2010) we have discovered variations in characters of two species &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minusculum&lt;/i&gt; Lutz and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;oyapockense&lt;/i&gt; Floch and Abonnenc of the subgenus &lt;i&gt;Psaroniocompsa.&lt;/i&gt; Variations in adult thoracic pattern and pupal gill configuration are described for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minusculum&lt;/i&gt; and based on these a new form for the population of Chapada das Guimarães is created. The variation in pupal cocoon form from typical slipper-shaped to the rarer shoe-shaped form in the same population of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;oyapockense&lt;/i&gt; &lt;i&gt;s.l.&lt;/i&gt; in Brazil confirms &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sanchezi&lt;/i&gt; as a junior synonym of this species. A redescription of the larva of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minusculum&lt;/i&gt; is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;minusculum&lt;/i&gt;; &lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;oyapockense&lt;/i&gt; &lt;i&gt;s.l.&lt;/i&gt;; &lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;sanchezi&lt;/i&gt; Chapada dos Guimarães form; Simuliidae; Subgenus &lt;i&gt;Psaroniocompsa&lt;/i&gt;; Morphological variations; Neotropical Region; Brazil; Argentina</subject>
+          <subject_class locale="en_US">&lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;minusculum&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>John</middlename>
+          <lastname>Shelley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marilza</firstname>
+          <lastname>Maia–Herzog</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>Paulino Andrade Luna</middlename>
+          <lastname>Dias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-48</pages>
+        <date_published>2011-05-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the New Caledonian genus &lt;i&gt;Pseudonthobium &lt;/i&gt;Paulian, 1984 (Coleoptera: Scarabaeidae: Epilissini)</title>
+        <abstract locale="en_US">A revision of the New Caledonian genus &lt;i&gt;Pseudonthobium&lt;/i&gt; Paulian, 1984 is proposed, including the description of seven new species: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;doense&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;foveolatum&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;genieri&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;humboldtense&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;monteithianum&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;paniense&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sinuatotibiale&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species.&lt;/b&gt; A key to the species, illustrations of parameres and male protibia, and a distribution map are provided for all species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; key; distribution; New Caledonia</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Olivier</firstname>
+          <lastname>Montreuil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Théry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-62</pages>
+        <date_published>2011-05-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the Palaearctic species of &lt;i&gt;Macromyrme &lt;/i&gt;Lelej 1984 (Hymenoptera: Mutillidae) with description of a new species from Egypt</title>
+        <abstract locale="en_US">Three Palaearctic species of &lt;i&gt;Macromyrme&lt;/i&gt; Lelej 1984 from the tribe Mutillini are reviewed. A new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leleji&lt;/i&gt; Soliman, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from South Sinai (Egypt) is described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mutillini; &lt;i&gt;Macromyrme&lt;/i&gt;; new species; Palaearctic; Egypt; South Sinai</subject>
+          <subject_class locale="en_US">Mutillini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ashraf</firstname>
+          <middlename>M.</middlename>
+          <lastname>El-Torkey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alaa</firstname>
+          <middlename>Din A.</middlename>
+          <lastname>Oshaibah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Magdi</firstname>
+          <middlename>M. H.</middlename>
+          <lastname>Salem</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammad</firstname>
+          <middlename>T.</middlename>
+          <lastname>Hosni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Abdel-Rhman</firstname>
+          <middlename>G.</middlename>
+          <lastname>Abdel-Rhman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ahmed</firstname>
+          <middlename>M.</middlename>
+          <lastname>Soliman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-05-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

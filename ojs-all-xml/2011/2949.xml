@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2949.1</id>
+    <title locale="en_US">8 Jun. 2011</title>
+    <volume>2949</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;crassipes &lt;/i&gt;and &lt;i&gt;pictipes &lt;/i&gt;species groups of &lt;i&gt;Apiomerus &lt;/i&gt;Hahn (Hemiptera: Reduviidae: Harpactorinae)</title>
+        <abstract locale="en_US">Within the genus &lt;i&gt;Apiomerus&lt;/i&gt; Hahn, 1831, the &lt;i&gt;crassipes&lt;/i&gt; and the &lt;i&gt;pictipes&lt;/i&gt; species groups are described. In the &lt;i&gt;crassipes&lt;/i&gt; species group, three species are redescribed: &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;crassipes&lt;/i&gt; (Fabricius, 1803), &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;rufipennis&lt;/i&gt; (Fallou, 1889) and &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;spissipes&lt;/i&gt; (Say, 1825); one subspecies is raised to species level and redescribed: &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;cooremani&lt;/i&gt; Costa Lima, Campos Seabra &amp; Hathaway, 1951; and six species are described as new: &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;californicus&lt;/i&gt; Berniker &amp; Szerlip, sp. nov., &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;cazieri&lt;/i&gt; Berniker &amp; Szerlip, sp. nov., &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;floridensis&lt;/i&gt; Berniker &amp; Szerlip, sp. nov., &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;montanus&lt;/i&gt; Berniker &amp; Szerlip, sp. nov., &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;peninsularis&lt;/i&gt; Berniker &amp; Szerlip, sp. nov. and &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;wygodzinskyi&lt;/i&gt; Berniker &amp; Szerlip, sp. nov. In the &lt;i&gt;pictipes&lt;/i&gt; species group, two species are redescribed, &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;flaviventris&lt;/i&gt; Herrich-Schaeffer, 1846 and &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;pictipes&lt;/i&gt; Herrich-Schaeffer, 1846, and one subspecies, &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;pictipes&lt;/i&gt; &lt;i&gt;pittieri&lt;/i&gt; Costa Lima, Campos Seabra, &amp; Hathaway, 1951 is synonymized with &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;pictipes.&lt;/i&gt; Neotypes are designated for &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;flaviventris,&lt;/i&gt; &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;pictipes,&lt;/i&gt; and &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;spissipes.&lt;/i&gt; Lectotypes are designated for &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;cooremani&lt;/i&gt; and &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;crassipes.&lt;/i&gt; The composition of the species groups are different from those originally proposed by Sigurd Szerlip in his PhD dissertation. The &lt;i&gt;crassipes&lt;/i&gt; group has one additional member, &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;rufipennis.&lt;/i&gt; Furthermore, &lt;i&gt;Apiomerus&lt;/i&gt; &lt;i&gt;barrocoloradoi&lt;/i&gt; Forero, Berniker &amp; Szerlip, 2010 and the two manuscript names “Apiomerus panther” and “Apiomerus tigris” were removed from the &lt;i&gt;pictipes&lt;/i&gt; group. A key to the species is provided, as well as photographs of habitus and diagnostic features for both males and females. Intraspecific polychromatism is discussed as it relates to species identification and species delimitation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Apiomerini; bee killers; resin bugs; polychromatism</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lily</firstname>
+          <lastname>Berniker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sigurd</firstname>
+          <lastname>Szerlip</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dimitri</firstname>
+          <lastname>Forero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christiane</firstname>
+          <lastname>Weirauch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-113</pages>
+        <date_published>2011-06-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1868.1</id>
+    <title locale="en_US">3 Sep. 2008</title>
+    <volume>1868</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Pupal cases of Nearctic robber flies (Diptera: Asilidae)</title>
+        <abstract locale="en_US">The literature on robber fly pupae published primarily since 1972 is reviewed. Terminology used in morphological descriptions of pupal cases is compared and standardized, and some new terminology is used. A general description of asilid pupal cases is presented. Diagnostically useful characters are identified, and a consistent format for descriptions is presented. Pupal cases of 24 species are described for the first time, those of 13 species are redescribed, and additional comments are made on the pupal cases of 12 other species. Keys to species, genera, and higher categories are presented. &lt;i&gt;Asilus&lt;/i&gt; &lt;i&gt;lecythus&lt;/i&gt; Walker is transferred to the genus &lt;i&gt;Machimus&lt;/i&gt; (new combination).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">pupal cases; &lt;i&gt;Nearctic&lt;/i&gt;; &lt;i&gt;Andrenosoma&lt;/i&gt;; &lt;i&gt;Apachekolos&lt;/i&gt;; &lt;i&gt;Asilus&lt;/i&gt;; &lt;i&gt;Ceraturgus&lt;/i&gt;; &lt;i&gt;Comantella&lt;/i&gt;; &lt;i&gt;Cyrtopogon&lt;/i&gt;; &lt;i&gt;Dioctria&lt;/i&gt;; &lt;i&gt;Diogmites&lt;/i&gt;; &lt;i&gt;Efferia&lt;/i&gt;; &lt;i&gt;Heteropogon&lt;/i&gt;; &lt;i&gt;Lampria&lt;/i&gt;; &lt;i&gt;Laphria&lt;/i&gt;; &lt;i&gt;Laphystia&lt;/i&gt;; &lt;i&gt;Lasiopogon&lt;/i&gt;; &lt;i&gt;Leptogaster&lt;/i&gt;; &lt;i&gt;Machimus&lt;/i&gt;; &lt;i&gt;Mallophora&lt;/i&gt;; &lt;i&gt;Megaphorus&lt;/i&gt;; &lt;i&gt;Neoitamus&lt;/i&gt;; &lt;i&gt;Neomochtherus&lt;/i&gt;; &lt;i&gt;Ommatius&lt;/i&gt;; &lt;i&gt;Proctacanthella&lt;/i&gt;; &lt;i&gt;Proctacanthus&lt;/i&gt;; &lt;i&gt;Promachus&lt;/i&gt;; &lt;i&gt;Stenopogon&lt;/i&gt;; &lt;i&gt;Triorla&lt;/i&gt;; &lt;i&gt;Asilus&lt;/i&gt; &lt;i&gt;lecythus.&lt;/i&gt;</subject>
+          <subject_class locale="en_US">pupal cases</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>Steve</middlename>
+          <lastname>Dennis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeffrey</firstname>
+          <middlename>K.</middlename>
+          <lastname>Barnes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lloyd</firstname>
+          <lastname>Knutson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-98</pages>
+        <date_published>2008-09-03</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

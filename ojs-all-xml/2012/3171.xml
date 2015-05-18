@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3171.1</id>
+    <title locale="en_US">24 Jan. 2012</title>
+    <volume>3171</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On a collection of hydroids (Cnidaria, Hydrozoa, Hydroidolina) from the west coast of Sweden, with a checklist of species from the region </title>
+        <abstract locale="en_US">An account is given of 48 species identified in a small collection of hydroids from the west coast of Sweden. Assigned to39 genera and 18 families, most are well-known from boreal waters of the North Atlantic Ocean. &lt;i&gt;Campanulina&lt;/i&gt; &lt;i&gt;panicula&lt;/i&gt;G.O. Sars, 1874 is referred to &lt;i&gt;Racemoramus,&lt;/i&gt; a new genus of leptothecates distinguished in part by having monopodialgrowth, rigid and non-segmented hydrocauli, and grape-like clusters of hydrothecae that arise at irregular intervals fromthe stem. The name &lt;i&gt;Sertularia&lt;/i&gt; &lt;i&gt;dumosa&lt;/i&gt; (now &lt;i&gt;Lafoea&lt;/i&gt; &lt;i&gt;dumosa)&lt;/i&gt; is taken to have been made available by Fleming (1820), notFleming (1828). As such, it is not threatened by a virtually unused subjective synonym (Lafoea &lt;i&gt;cornuta&lt;/i&gt; Lamouroux,1821). &lt;i&gt;Aselomaris&lt;/i&gt; &lt;i&gt;michaeli&lt;/i&gt; Berrill, 1948 and &lt;i&gt;Rhizorhagium&lt;/i&gt; &lt;i&gt;navis&lt;/i&gt; Millard, 1959 are regarded as synonyms and combinedunder the binomen &lt;i&gt;Pachycordyle&lt;/i&gt; &lt;i&gt;michaeli&lt;/i&gt; (Berrill, 1948). Confusion in the literature over the identity of &lt;i&gt;Sertularia&lt;/i&gt; &lt;i&gt;tenera&lt;/i&gt;G.O. Sars, 1874 is addressed, and distinctive characters of the species are discussed. A species often misidentified as &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;tenera&lt;/i&gt; is assigned to &lt;i&gt;Sertularia&lt;/i&gt; &lt;i&gt;spitzbergensis&lt;/i&gt; (Jäderholm, 1909); the name &lt;i&gt;spitzbergensis&lt;/i&gt; is elevated in rank from sub-specific to specific, and assigned priority over its simultaneous synonym &lt;i&gt;siberica&lt;/i&gt; Jäderholm, 1909 under the First ReviserPrinciple. Gonothecae of &lt;i&gt;Clytia&lt;/i&gt; &lt;i&gt;gigantea&lt;/i&gt; (Hincks, 1866) (type locality: Lamlash Bay, UK) are reported for the first timein material from Europe. Although much like &lt;i&gt;Clytia&lt;/i&gt; &lt;i&gt;hemisphaerica,&lt;/i&gt; this species is retained as valid due to its remarkablyrobust colony form, elongate and gradually tapered hydrothecae, and linguiform rather than wavy or pointed marginalcusps. &lt;i&gt;Eudendrium&lt;/i&gt; &lt;i&gt;album&lt;/i&gt; Nutting, 1896, &lt;i&gt;Pachycordyle&lt;/i&gt; &lt;i&gt;michaeli&lt;/i&gt; (Berrill, 1948), and the hydroid stage of &lt;i&gt;Halitholus&lt;/i&gt; &lt;i&gt;cir-&lt;/i&gt;&lt;i&gt;ratus&lt;/i&gt; Hartlaub, 1913 are reported for the first time from the study area. A checklist of hydroids from the study area is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anthoathecata; Kattegat; Kosterhavet; Leptothecata; marine invertebrates; northwest Europe; Skagerrak; taxonomy; zoological nomenclature</subject>
+          <subject_class locale="en_US">Anthoathecata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dale</firstname>
+          <middlename>R.</middlename>
+          <lastname>Calder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-77</pages>
+        <date_published>2012-01-24</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

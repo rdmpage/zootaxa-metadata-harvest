@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2184.1</id>
+    <title locale="en_US">6 Aug. 2009</title>
+    <volume>2184</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Echinolittorina &lt;/i&gt;Habe, 1956 (Gastropoda: Littorinidae) in the western Atlantic Ocean</title>
+        <abstract locale="en_US">The littorinid genus &lt;i&gt;Echinolittorina&lt;/i&gt; is of global distribution on rocky shores in topical latitudes, but in terms of the number of sympatric species and of phylogenetic diversity the genus reaches is greatest richness in the western Atlantic biogeographic region. The systematics of &lt;i&gt;Echinolittorina&lt;/i&gt; in the western Atlantic have been controversial, owing to both intraspecific variability and convergence in traditional taxonomic characters of the shell and radula, and also to lack of anatomical descriptions. As a result of recent molecular studies the species can now be defined. Detailed morphological descriptions are provided here for the ten known living species, including details of shell, operculum, pigmentation of headfoot, reproductive anatomy, spermatozoa, egg capsules and radulae. Diagnoses include reference to mitochondrial gene sequences (COI). A key is based on shells, opercula, penial shapes and geographical distributions, and includes all other littorinid species (members of genera &lt;i&gt;Littoraria,&lt;/i&gt; &lt;i&gt;Cenchritis&lt;/i&gt; and &lt;i&gt;Tectarius)&lt;/i&gt; found in the western Atlantic region, to avoid confusion. Based on molecular phylogenetic analysis, the ten species are assigned to four subgenera: &lt;i&gt;Fossarilittorina,&lt;/i&gt; &lt;i&gt;Lineolittorina&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;subgen.,&lt;/b&gt; &lt;i&gt;Amerolittorina&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;subgen.&lt;/b&gt; and &lt;i&gt;Echinolittorina.&lt;/i&gt; One new species is described: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;placida&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Gulf of Mexico. One name change is proposed: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;jamaicensis&lt;/i&gt; (C.B. Adams, 1850) replaces &lt;i&gt;Nodilittorina&lt;/i&gt; &lt;i&gt;riisei&lt;/i&gt; (Mörch, 1876), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;glaucocincta&lt;/i&gt; (Mörch, 1876) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;mordax&lt;/i&gt; Bandel &amp; Kadolsky, 1982. It is confirmed that the forms previously discriminated as &lt;i&gt;Nodilittorina&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; (Menke, 1828) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;dilatata&lt;/i&gt; (d’Orbigny, 1842) belong to a single species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; (Menke, 1828). These five ‘species’ of ‘Nodilittorina’ were diagnosed solely by striking differences in their radulae in a previous taxonomic study, but it is here shown that this variation is intraspecific, although the cause is unknown. New COI sequences are included in a phylogenetic analysis to support this conclusion. Full synonymies are given for all taxa, and the taxonomic, evolutionary and ecological literature reviewed. Distribution maps are based on examination of 1091 samples and on reliable literature records. The biogeography of the western Atlantic marine region is discussed, based on the ten distribution maps, emphasizing the mutual isolation of the Gulf of Mexico, Caribbean Sea, Brazilian mainland and Brazilian oceanic archipelagos, and the significance of the contrast between oceanic and continental distribution patterns. In &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mespillum&lt;/i&gt; there is a conspicuous polymorphism of shell colour with a geographical pattern, and mimicry is suggested. The natural distribution of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;placida&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is on the sparse rocky outcrops of the southern Gulf of Mexico, but following the widespread construction of sea walls along the sedimentary coastline of the Gulf since the late nineteenth century, this species has spread for 4500 km around the Gulf, to Florida and as far as North Carolina in about 100 years. Occasional black shells are found within populations of normally variegated &lt;i&gt;Echinolittorina&lt;/i&gt; species, which has not been recorded in congeners from other oceans.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">shell sculpture; polymorphism; radula; penis; oceanic distribution; continental distribution; littoral fringe; molecular phylogeny</subject>
+          <subject_class locale="en_US">shell sculpture</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>G.</middlename>
+          <lastname>Reid</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-103</pages>
+        <date_published>2009-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2965.1</id>
+    <title locale="en_US">13 Jul. 2011</title>
+    <volume>2965</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-07-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Redescription of the genus &lt;i&gt;Chlamydolecanium &lt;/i&gt;Goux, 1933 (Hemiptera: Coccoidea: Coccidae) with a discussion of its affinities</title>
+        <abstract locale="en_US">The monotypic genus &lt;i&gt;Chlamydolecanium&lt;/i&gt; Goux (Hemiptera: Coccoidea: Coccidae) is known only from the original collection in Corsica. The original description does not allow definite placement in any of the subfamilies in the Coccidae. Although it had been suggested that it belonged to the Cardiococcinae, no other members of this subfamily were geographically close. The adult female and 1 st -instar nymph of the type species, &lt;i&gt;Chlamydolecanium&lt;/i&gt; &lt;i&gt;conchioides&lt;/i&gt; Goux are here redescribed. A parsimony analysis was undertaken based on 56 morphological characters of the adult females in 29 taxa (24 genera considered to belong to the Cardiococcinae, plus &lt;i&gt;Parafairmaria&lt;/i&gt; &lt;i&gt;bipartita&lt;/i&gt; (Signoret), an &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis&lt;/i&gt; monospecific genus possibly close to Cardiococcinae, plus the recently described &lt;i&gt;Kenima&lt;/i&gt; &lt;i&gt;galilit&lt;/i&gt; Ben-Dov plus two other soft scale genera as outgroups (Coccus &lt;i&gt;hesperidum&lt;/i&gt; L. and &lt;i&gt;Paralecanium&lt;/i&gt; &lt;i&gt;frenchii&lt;/i&gt; (Maskell)). This analysis confirmed the placement of the genus &lt;i&gt;Chlamydolecanium&lt;/i&gt; within the Cardiococcinae clade, although its sister-group relationships remain unresolved. Its geographic distribution and taxonomic relationships are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">soft scales; glassy scale insects; Coccoidea; morphological analysis</subject>
+          <subject_class locale="en_US">soft scales</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Isabelle</firstname>
+          <middlename>M.</middlename>
+          <lastname>Vea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-15</pages>
+        <date_published>2011-07-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the final instar nymphs of seven species from &lt;i&gt;Anacroneuria&lt;/i&gt; Klapálek (Plecoptera: Perlidae) in Costa Rica, and first record for an additional genus in Central America</title>
+        <abstract locale="en_US">The final nymphal stages for seven species of &lt;i&gt;Anacroneuria&lt;/i&gt; Klapálek from Costa Rica are described for the first time based upon reared specimens: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;benedettoi&lt;/i&gt; Stark, 1998, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;divisa&lt;/i&gt; (Navás, 1924), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;holzenthali&lt;/i&gt; Stark, 1998, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lineata&lt;/i&gt; (Navás, 1924), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;marca&lt;/i&gt; Stark, 1998, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;perplexa&lt;/i&gt; Stark, 1998 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;varilla&lt;/i&gt; Stark, 1998. Illustrations are provided for all important morphological characters and distinguishing characters are discussed. Distribution maps for each species are provided and remarks on the ecology are included. Finally, an additional genus is recorded for Central America for the first time, from two nymphs collected from the Central Valley in Costa Rica, possibly belonging to the genus &lt;i&gt;Perlesta.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Anacroneuria&lt;/i&gt;; aquatic insects; nymphs; taxonomy; Neotropics; Central America</subject>
+          <subject_class locale="en_US">&lt;i&gt;Anacroneuria&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <middlename>E.</middlename>
+          <lastname>Gutiérrez-Fonseca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Monika</firstname>
+          <lastname>Springer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>16-38</pages>
+        <date_published>2011-07-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new Praociini (Coleoptera: Tenebrionidae) from Peninsula Valdés (Argentina), with zoogeographical and ecological remarks</title>
+        <abstract locale="en_US">Three new taxa from Peninsula Valdés (Argentina) are described for the tribe Praociini (Pimeliinae): &lt;i&gt;Calymmophorus&lt;/i&gt; &lt;i&gt;peninsularis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and two subspecies of &lt;i&gt;Praocis&lt;/i&gt; (Hemipraocis) &lt;i&gt;sellata&lt;/i&gt; Berg 1889: &lt;i&gt;P.&lt;/i&gt; (H.) &lt;i&gt;sellata&lt;/i&gt; &lt;i&gt;peninsularis&lt;/i&gt; &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; (H.) &lt;i&gt;sellata&lt;/i&gt; &lt;i&gt;granulipennis&lt;/i&gt; &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The first two taxa are endemic to the peninsula and the third one is distributed in and outside the peninsula. Distribution maps, habitat records and habitus photographs for these three new taxa are included, with comparisons to other known species of the genera. An identification key to the five subspecies of &lt;i&gt;Praocis&lt;/i&gt; (Hemipraocis) &lt;i&gt;sellata&lt;/i&gt; is provided. A discussion is presented on endemicity and sympatry of two species of &lt;i&gt;Calymmophorus&lt;/i&gt; Solier 1840, and non-sympatry of two subspecies of &lt;i&gt;Praocis&lt;/i&gt; (Hemipraocis) &lt;i&gt;sellata.&lt;/i&gt; The following synonymy is reported and illustrated: &lt;i&gt;Praocis&lt;/i&gt; &lt;i&gt;sellata&lt;/i&gt; &lt;i&gt;bruchi&lt;/i&gt; Kulzer 1958 = &lt;i&gt;Praocis&lt;/i&gt; &lt;i&gt;sellata&lt;/i&gt; &lt;i&gt;topali&lt;/i&gt; Kaszab 1964 syn. nov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Tenebrionidae; Praociini; new taxa; endemicity; sympatry</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gustavo</firstname>
+          <middlename>E.</middlename>
+          <lastname>Flores</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodolfo</firstname>
+          <lastname>Carrara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Germán</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cheli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2011-07-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Campsurus &lt;/i&gt;(Ephemeroptera: Polymitarcyidae: Campsurinae) from Argentina and Uruguay and redescription of &lt;i&gt;C. evanidus &lt;/i&gt;and &lt;i&gt;C. jorgenseni&lt;/i&gt; with new synonymies</title>
+        <abstract locale="en_US">The subfamily Campsurinae (Ephemeroptera: Polymitarcyidae) includes one of the most specious genera of Ephemeroptera, &lt;i&gt;Campsurus&lt;/i&gt; (with 40 known species), with a Pan-American distribution and its greatest diversity in South America. The following new synonymies are proposed: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;evanidus&lt;/i&gt; Needham &amp; Murphy, 1924 (=C. &lt;i&gt;juradinus&lt;/i&gt; Navás, 1930) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;jorgenseni&lt;/i&gt; Esben-Petersen, 1912 (=C. &lt;i&gt;scutellaris&lt;/i&gt; Needham &amp; Murphy, 1924). Redescriptions, drawings and photographs are provided for both species. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vulturorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Argentina and Uruguay is described and illustrated for all life stages. It is characterized, in the adult stage, by: very large size (male fore wings 15.9–20.5 mm, female fore wings 21.0–28.0 mm), posterior margin of male abdominal sternum IX convex and rounded, pedestals subrectangular with a short projection on outer-posterior margin; penes widely separated distally, each arm formed by two lobes; and in mature nymphs by: mandibular tusks robust with a large submedian tubercle and six subapical rounded and small tubercles, maxilla with a short flat and triangular membranous gill on cardo.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ephemeroidea; burrowing mayflies; &lt;i&gt;Campsurus&lt;/i&gt; &lt;i&gt;juradinus&lt;/i&gt;; &lt;i&gt;Campsurus&lt;/i&gt; &lt;i&gt;scutellaris&lt;/i&gt;; Neotropical mayflies</subject>
+          <subject_class locale="en_US">Ephemeroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <lastname>Emmerich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Molineri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-60</pages>
+        <date_published>2011-07-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of Rhinotragini and redescription of two species of &lt;i&gt;Stultutragus&lt;/i&gt; Clarke (Coleoptera, Cerambycidae, Cerambycinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Agaone&lt;/i&gt; &lt;i&gt;amazonica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Stultutragus&lt;/i&gt; &lt;i&gt;endoluteus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from Brazil, and variation in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;peruviensis&lt;/i&gt; Fisher, is discussed. &lt;i&gt;Stultutragus&lt;/i&gt; &lt;i&gt;nigricornis&lt;/i&gt; is elevated to species rank and re-described. Updated keys to &lt;i&gt;Agaone&lt;/i&gt; and &lt;i&gt;Stultutragus&lt;/i&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">key; Neotropical; new species; revalidation; taxonomy</subject>
+          <subject_class locale="en_US">key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Larry</firstname>
+          <middlename>G.</middlename>
+          <lastname>Bezark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <lastname>Santos-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ubirajara</firstname>
+          <middlename>R.</middlename>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2011-07-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

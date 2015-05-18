@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3284.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3284</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An overview of Afrotropical canopy-dwelling &lt;i&gt;Orchestina&lt;/i&gt; (Araneae, Oonopidae), with a wealth of remarkable sexual dimorphic characters</title>
+        <abstract locale="en_US">Eighteen new species of the genus &lt;i&gt;Orchestina&lt;/i&gt; are described on the basis of specimens obtained from fogging samples inthe Afrotropical region. They are &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;acaciae,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ampulla,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;clavigera,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;communis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;cornuta,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;crypta,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;debakkeri,&lt;/i&gt;&lt;i&gt;O.&lt;/i&gt; &lt;i&gt;fannesi,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;fractipes,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;gibbotibialis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;gigabulbus,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;intricata,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;kasuku,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;lanceolata,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;macrofoliata,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mi-&lt;/i&gt;&lt;i&gt;crofoliata,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;probosciformis&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;saaristoi.&lt;/i&gt; Excepted for O. intricata, they are all known from males and females, al-though those of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;debakkeri&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;probosciformis&lt;/i&gt; cannot be separated. One species (O. &lt;i&gt;crypta)&lt;/i&gt; was recognized afterDNA-analysis and was found to show morphological differences with &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;communis.&lt;/i&gt; The study revealed a series of re-markable sexually dimorphic characters most of which had not been documented so far: modified leaf shaped setae on thelabium in some species arranged asymmetrically, endites with hook shaped excrescences and rows of spectacular flattenedsetae, remarkable cheliceral setae and outgrowths, a modified clypeus, modified front legs, a preocular carapace swellingand the infra-ocular gutter. Spectacular modifications of the endites were already known from other Oonopidae. The function of the modifications is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arnaud</firstname>
+          <lastname>Henrard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rudy</firstname>
+          <lastname>Jocqué</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-104</pages>
+        <date_published>2012-04-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

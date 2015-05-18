@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2025.1</id>
+    <title locale="en_US">2 Mar. 2009</title>
+    <volume>2025</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New genera, new species and new records of Indo-West Pacific spider crabs (Crustacea: Brachyura: Epialtidae: Majoidea)</title>
+        <abstract locale="en_US">Three new genera and five new species of epialtid majoid crabs are described from deep water in the western Pacific. Two new species of &lt;i&gt;Oxypleurodon&lt;/i&gt; Miers, 1886: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;sanctaeclausi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;annulatum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are described from the Philippines. New specimens of the rare &lt;i&gt;Oxypleurodon&lt;/i&gt; &lt;i&gt;carbunculum&lt;/i&gt; (Rathbun, 1906) from the Hawaiian Islands are also recorded. Three new genera are established: &lt;i&gt;Garthinia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;disica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Solomon Islands; &lt;i&gt;Guinotinia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;cordis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from New Caledonia and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;lehouarnoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Fiji and Tonga; and &lt;i&gt;Laubierinia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; for &lt;i&gt;Sphenocarcinus&lt;/i&gt; &lt;i&gt;nodosus&lt;/i&gt; Rathbun, 1916, and &lt;i&gt;Rochinia&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; Griffin &amp; Tranter, 1986.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New genera; new species; western Pacific; deep sea; Brachyura; Epialtidae</subject>
+          <subject_class locale="en_US">New genera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bertrand</firstname>
+          <middlename>Richer</middlename>
+          <lastname>De Forges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2009-03-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of sesarmid crabs (Crustacea: Decapoda: Brachyura) associated with limestone formations in West Papua, Indonesia</title>
+        <abstract locale="en_US">Two new species of karst sesarmid crabs of the genus &lt;i&gt;Karstarma&lt;/i&gt; Davie &amp; Ng, 2007, are described from western Papua, Indonesia. &lt;i&gt;Karstarma&lt;/i&gt; &lt;i&gt;ardea&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from the allied &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;ultrapes&lt;/i&gt; (Ng, Guinot &amp; Iliffe, 1994) from the Solomon Islands by its proportionately shorter ambulatory legs and the shape of its vulva. &lt;i&gt;Karstarma&lt;/i&gt; &lt;i&gt;waigeo&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is closest to &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;balicum&lt;/i&gt; (Ng, 2002) from Bali, Indonesia, but differs in its proportionately longer ambulatory legs and in the morphology of the male first gonopod.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Sesarmidae; &lt;i&gt;Karstarma&lt;/i&gt;; new species; Indonesia</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daisy</firstname>
+          <lastname>Wowor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-31</pages>
+        <date_published>2009-03-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Genetic evidence for cryptic speciation in the freshwater shrimp genus &lt;i&gt;Atyaephyra &lt;/i&gt;de Brito Capello (Crustacea, Decapoda, Atyidae)</title>
+        <abstract locale="en_US">The species &lt;i&gt;Atyaephyra&lt;/i&gt; &lt;i&gt;desmarestii&lt;/i&gt; (Millet, 1831) has a wide geographic distribution in freshwater habitats, rivers and lakes, spanning from North Africa to the Middle East, a large part of Europe and some Mediterranean islands. This wide distribution, together with the disjunct nature of freshwater populations, makes &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;desmarestii&lt;/i&gt; a candidate taxon to undergo processes of cryptic speciation. To test this assumption, in the present study two mitochondrial genes (16S and COI) were used to examine the diversity between selected populations across the distribution range of this species. The data support three clearly distinguishable groups of haplotypes. The largest one includes the majority of the west European populations and the North African ones, belonging to &lt;i&gt;Atyaephyra&lt;/i&gt; &lt;i&gt;desmarestii&lt;/i&gt; &lt;i&gt;desmarestii.&lt;/i&gt; Within this group the genetic composition found for the Portuguese specimens does not support the validity of &lt;i&gt;Atyaephyra&lt;/i&gt; &lt;i&gt;rosiana&lt;/i&gt; de Brito Capello, 1867 as a different species, and is therefore here proposed to represent a synonym of &lt;i&gt;Atyaephyra&lt;/i&gt; &lt;i&gt;desmarestii.&lt;/i&gt; The second European group includes two Greek populations which must be considered as a different species and are tentatively identified as &lt;i&gt;Atyaephyra&lt;/i&gt; &lt;i&gt;stankoi&lt;/i&gt; (Karaman, 1972) according to geographic distribution. This species-level distinction is supported by high genetic differences, although morphological differentiation is not clear at present. The third group comprises only one sequence from Iraq whose value of genetic variability for 16S could support &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mesopotamica&lt;/i&gt; Al-Adhub (or &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; Bouvier) as a valid species. Unfortunately, there are no COI sequences available for this specimen that could be used to confirm its status.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cryptic species; &lt;i&gt;Atyaephyra&lt;/i&gt; &lt;i&gt;desmarestii&lt;/i&gt; complex; Atyidae; 16S; COI</subject>
+          <subject_class locale="en_US">Cryptic species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>E. García</middlename>
+          <lastname>Muñoz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <lastname>Rodríguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Enrique García</middlename>
+          <lastname>Raso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cuesta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-42</pages>
+        <date_published>2009-03-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Myrmozercon &lt;/i&gt;(Acari: Laelapidae) from Australian ants (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Myrmozercon&lt;/i&gt; &lt;i&gt;burwelli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from arboreal nests of &lt;i&gt;Polyrhachis&lt;/i&gt; &lt;i&gt;flavibasis&lt;/i&gt; (Formicidae) from rainforests in southeast Queensland, Australia. &lt;i&gt;Myrmozercon&lt;/i&gt; &lt;i&gt;beardae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from unknown ants from South Australia. New specimens with host species data are recorded for &lt;i&gt;Myrmozercon&lt;/i&gt; &lt;i&gt;iainkayi&lt;/i&gt; Walter, and its protonymph and deutonymph are described. Supplementary notes are provided for the North American &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rotundiscutum&lt;/i&gt; Rosario &amp; Hunter. The genus diagnosis is modified and its limits discussed. A revised key to Australian &lt;i&gt;Myrmozercon&lt;/i&gt; is provided. &lt;i&gt;Parabisternalis&lt;/i&gt; and &lt;i&gt;Laelaspulus&lt;/i&gt; are synonymised with &lt;i&gt;Myrmozercon.&lt;/i&gt; &lt;i&gt;Laelaps&lt;/i&gt; &lt;i&gt;flexuosa&lt;/i&gt; Michael is confirmed as a species of &lt;i&gt;Myrmozercon.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">key; leg chaetotaxy; &lt;i&gt;Laelaspulus&lt;/i&gt;; &lt;i&gt;Parabisternalis&lt;/i&gt;; nest; arboreal; lignicolous; myrmecophiles</subject>
+          <subject_class locale="en_US">key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Shaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Owen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Seeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-55</pages>
+        <date_published>2009-03-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New conditions and intraspecific variations in hand and foot muscles in &lt;i&gt;Pristimantis bogotensis &lt;/i&gt;(Peters, 1863) (Amphibia:Anura: Strabomantidae) </title>
+        <abstract locale="en_US">Some conditions from complete dissection of hand and foot muscles of &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;bogotensis&lt;/i&gt; (Strabomantidae) presented here have not been reported in anurans. One muscle not described before was found: the &lt;i&gt;m.&lt;/i&gt; &lt;i&gt;abductor&lt;/i&gt; &lt;i&gt;ulnocarpalis.&lt;/i&gt; Muscles of the forearm, the hand, and the foot were found as exclusive characters in this species. Two minor variants (sensu Raikow &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 1990) were identified, showing that it is important to examine hind and forelimbs of both sides of the body (left and right) in anatomical studies for detecting intraspecific variation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Typical conditions; variation; forearm; palmar surface; plantar surface; dorsal surface</subject>
+          <subject_class locale="en_US">Typical conditions</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lina</firstname>
+          <lastname>Salgar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julio</firstname>
+          <middlename>Mario</middlename>
+          <lastname>Hoyos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrés</firstname>
+          <lastname>Acosta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2009-03-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

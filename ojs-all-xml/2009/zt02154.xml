@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2154.1</id>
+    <title locale="en_US">10 Jul. 2009</title>
+    <volume>2154</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Selatium &lt;/i&gt;Serène &amp; Soh, 1970 (Crustacea: Brachyura: Sesarmidae), with description of a new genus and two new species</title>
+        <abstract locale="en_US">The Indo-West Pacific sesarmid genus &lt;i&gt;Selatium&lt;/i&gt; Serène &amp; Soh, 1970, is revised, and two wide-ranging species are recognized, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;brockii&lt;/i&gt; (De Man, 1887) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;elongatum&lt;/i&gt; (A. Milne-Edwards, 1869). A new genus, &lt;i&gt;Lithoselatium,&lt;/i&gt; which superficially resembles &lt;i&gt;Selatium,&lt;/i&gt; is described, and two new species are recognized: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pulchrum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Taiwan, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kusu&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Singapore and nearby areas. Their relationship is discussed using both morphological and molecular datasets.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Thoracotremata; crab; morphology; mtDNA; 16S rRNA</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christoph</firstname>
+          <middlename>D.</middlename>
+          <lastname>Schubart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hung-Chang</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2009-07-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Richardina &lt;/i&gt;A. Milne-Edwards, 1881 (Crustacea: Decapoda: Stenopodidea: Stenopodidae), representing the first occurrences of the genus from the Pacific</title>
+        <abstract locale="en_US">More than a century after the description of &lt;i&gt;Richardina&lt;/i&gt; &lt;i&gt;fredericii&lt;/i&gt; Lo Bianco, 1903, two new species of the stenopodid genus &lt;i&gt;Richardina&lt;/i&gt; A. Milne-Edwards, 1881, are described and illustrated. &lt;i&gt;Richardina&lt;/i&gt; &lt;i&gt;ohtsukai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; was collected from the Nansei Islands, southwestern Japan at depths of 655 – 730 m and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;parvioculata&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; was collected from off Tosa Bay, western Japan at a depth of 517 m. To our knowledge, these are the first occurrences of the genus from the Pacific and greatly extend its known geographical range, as the genus &lt;i&gt;Richardina&lt;/i&gt; is previously known only from the Atlantic Ocean and Mediterranean Sea. Species of &lt;i&gt;Richardina&lt;/i&gt; are very similar to each other with few morphological differences. &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ohtsukai&lt;/i&gt; is unique in having additional movable spines on the dorsal margins of the dactyli of the fourth and fifth pereopods. &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;parvioculata&lt;/i&gt; is distinguished from congeners by way of its generally reduced armament of the carapace and pleon as follows: it lacks the median row of spines on the posterior margin of the cervical groove, has a relatively large eyestalk and small-sized cornea, and blunt spines on the dorsolateral carinae of the telson.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Stenopodidea; Stenopodidae; &lt;i&gt;Richardina&lt;/i&gt;; new species; Pacific; Nansei Islands; Tosa Bay; Japan</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomomi</firstname>
+          <lastname>Saito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hironori</firstname>
+          <lastname>Komatsu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-46</pages>
+        <date_published>2009-07-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First described &lt;i&gt;Patu &lt;/i&gt;spiders (Araneae, Symphytognathidae) from Asia</title>
+        <abstract locale="en_US">Five new species of the spider family Symphytognathidae (Araneae) are described and illustrated from southern China: &lt;i&gt;Patu&lt;/i&gt; &lt;i&gt;bicorniventris&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigeri&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;quadriventris&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;shiluensis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spinathoraxi&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; These spiders were collected in the leaf litter and tree canopy of tropical rainforests by sieving and fogging. The genus &lt;i&gt;Patu&lt;/i&gt; Marples, 1951, known from Colombia, Hispaniola, Oceania, and African Seychelles Islands, except that web structure and web-building behavior of undescribed &lt;i&gt;Patu&lt;/i&gt; species were reported before, is described from Asia for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Symphytognathids; new species; tropical rainforest; China</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yucheng</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2009-07-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

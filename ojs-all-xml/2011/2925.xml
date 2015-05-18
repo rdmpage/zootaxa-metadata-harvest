@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2925: 1–18 9</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>62</firstname>
+          <middlename>References Accepted: 7 Jun.</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2925.1</id>
+    <title locale="en_US">21 Jun. 2011</title>
+    <volume>2925</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Parasitism of &lt;i&gt;Apteropanorpa tasmanica &lt;/i&gt;Carpenter (Mecoptera: Apteropanorpidae) by larval &lt;i&gt;Leptus agrotis &lt;/i&gt;Southcott (Acari: Erythraeidae) and &lt;i&gt;Willungella&lt;/i&gt; &lt;i&gt;rufusanus &lt;/i&gt;sp. nov. (Acari: Microtrombidiidae)</title>
+        <abstract locale="en_US">The Apteropanorpidae is a family of wingless scorpionflies endemic to Tasmania, comprising four described species in the genus &lt;i&gt;Apteropanorpa&lt;/i&gt; Carpenter. Intensive field surveys for adult &lt;i&gt;Apteropanorpa&lt;/i&gt; conducted from April to May 2002 revealed the presence of ectoparasitic mites, parasitising many individuals of &lt;i&gt;Apteropanorpa&lt;/i&gt; &lt;i&gt;tasmanica&lt;/i&gt; Carpenter at four localities. Laboratory investigations revealed the presence of one species from each of the Erythraeidae and Microtrombidiidae parasitising adults: &lt;i&gt;Leptus&lt;/i&gt; &lt;i&gt;agrotis&lt;/i&gt; Southcott and &lt;i&gt;Willungella&lt;/i&gt; &lt;i&gt;rufusanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; respectively. The larvae of &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;rufusanus&lt;/i&gt; are described. Laboratory investigations of attachment sites and parasite loads of male and female scorpionflies are described and discussed. Results show neither sex was parasitised more than the other, and that up to four mites parasitised individual scorpionflies, although most adults supported one or two mites. Like many other &lt;i&gt;Leptus&lt;/i&gt; species, all &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;agrotis&lt;/i&gt; larvae attached to sclerites, whereas all &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;rufusanus&lt;/i&gt; larvae attached to membranous areas. Larval &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;rufusanus&lt;/i&gt; were predominantly attached to the scorpionfly abdomen; however, larval &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;agrotis&lt;/i&gt; were more evenly distributed on the scorpionfly body. These data are the first records of parasitism in the Apteropanorpidae, and the first report of parasitism of Mecoptera in Australia. Parasitism of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tasmanica&lt;/i&gt; by &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;rufusanus&lt;/i&gt; is the first record of a mecopteran as a host for larval microtrombidiine mites. Parasite records for the Mecoptera are summarised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mites; parasites; scorpionflies; alpine; Tasmania; Australia; attachment sites</subject>
+          <subject_class locale="en_US">mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Owen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Seeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christopher</firstname>
+          <middlename>M.</middlename>
+          <lastname>Palmer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-32</pages>
+        <date_published>2011-06-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First records of &lt;i&gt;Asbestopluma hypogea &lt;/i&gt;Vacelet and Boury-Esnault, 1996 (Porifera, Demospongiae Cladorhizidae) on seamounts and in bathyal settings of the Mediterranean Sea</title>
+        <abstract locale="en_US">The carnivorous sponge &lt;i&gt;Asbestopluma&lt;/i&gt; &lt;i&gt;hypogea,&lt;/i&gt; was known only from shallow submarine caves (-15 to -26 m) in the Western Mediterranean Sea and the Adriatic. Herein &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hypogea&lt;/i&gt; is reported from outside of caves, on seamounts in the Alboran Sea (-167 m), off the Balearics (-100 m) and north off Sicily (-660 m), and along steep bathyal escarpments in the Strait of Sicily (~700 m). These deeper ROV-based findings of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hypogea&lt;/i&gt; are conform to the typical deep-sea occurrence of the Cladorhizidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cladorhizidae; western Mediterranean; carnivorous sponges</subject>
+          <subject_class locale="en_US">Cladorhizidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Aguilar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthias</firstname>
+          <middlename>López</middlename>
+          <lastname>Correa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Barbara</firstname>
+          <lastname>Calcinai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xavier</firstname>
+          <lastname>Pastor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <lastname>De La Torriente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Silvia</firstname>
+          <lastname>Garcia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-40</pages>
+        <date_published>2011-06-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Glischropus &lt;/i&gt;from the Indochinese Subregion (Mammalia: Chiroptera: Vespertilionidae)</title>
+        <abstract locale="en_US">Within the tribe Pipistrellini, the genus &lt;i&gt;Glischropus&lt;/i&gt; is very close to the genus &lt;i&gt;Pipistrellus&lt;/i&gt; both in its external morphology and chromosomal features but can be unequivocally distinguished from the latter by the presence of thumb pads and the position of the second incisor. One of the two known species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tylopus&lt;/i&gt; was thought to have a wide distribution range from Myanmar to the Philippines, while the other, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;javanus&lt;/i&gt; is only known from Java. Recently collected Cambodian specimens of &lt;i&gt;Glischropus&lt;/i&gt; are distinguished from their congeners by longer forearm and cranial features (the shape of the skull and the upper incisors and certain craniodental measurements) and are consequentially, described here as a new species. Based on thorough examination of the available museum material, it can be concluded that all specimens of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tylopus&lt;/i&gt; previously collected in the Indochinese zoogeographic subregion are in fact representatives of this new species, while &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tylopus&lt;/i&gt; in a strict sense is restricted in the mainland to south of the Isthmus of Kra.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Southeast Asia; taxonomy; thick-thumbed Bat</subject>
+          <subject_class locale="en_US">Southeast Asia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gábor</firstname>
+          <lastname>Csorba</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-48</pages>
+        <date_published>2011-06-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new deep-water species of &lt;i&gt;Alpheus &lt;/i&gt;Fabricius, 1798 from the Gulf of Mexico (Crustacea, Decapoda, Alpheidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caridea; Alpheidae; &lt;i&gt;Alpheus&lt;/i&gt;; Gulf of Mexico; western Atlantic; deep-water reefs; new species</subject>
+          <subject_class locale="en_US">Caridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martha</firstname>
+          <lastname>Nizinski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-56</pages>
+        <date_published>2011-06-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An index to evaluate the quality of taxonomic publications</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Valdecasas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2011-06-21</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of frogfish of the genus &lt;i&gt;Histiophryne &lt;/i&gt;(Teleostei: Lophiiformes: Antennariidae) from Queensland, Australia</title>
+        <abstract locale="en_US">&lt;i&gt;Histiophryne&lt;/i&gt; &lt;i&gt;maggiewalker,&lt;/i&gt; a new species of frogfish of the teleost order Lophiiformes, family Antennariidae, is described from six specimens collected in shallow waters off Queensland, Australia. The new taxon differs from its congeners in having a relatively long illicium and esca, the latter expanded distally, more or less rectangular; and genetic divergence in the nuclear recombination activation gene-2 (RAG2) and cytochrome oxidase-I (COI) genes. Members of the new species are black with a reticulate patterning discernible only with aid of a dissecting scope; or white with light brown spots. The new species is described and compared with its congeners.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Teleostei; Lophiiformes; Antennarioidei; Antennariidae; &lt;i&gt;Histiophryne&lt;/i&gt;; &lt;i&gt;maggiewalker&lt;/i&gt;; new species; taxonomy; marine; Australia</subject>
+          <subject_class locale="en_US">Teleostei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rachel</firstname>
+          <middlename>J.</middlename>
+          <lastname>Arnold</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Theodore</firstname>
+          <middlename>W.</middlename>
+          <lastname>Pietsch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-06-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1965.1</id>
+    <title locale="en_US">17 Dec. 2008</title>
+    <volume>1965</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-12-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the &lt;i&gt;Oligodon taeniatus&lt;/i&gt; (Günther, 1861) group (Squamata: Colubridae) , with the description of three new species from the Indochinese Region</title>
+        <abstract locale="en_US">The group of Asian colubrid species morphologically similar to &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;taeniatus&lt;/i&gt; (Günther, 1861), previously containing only &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;taeniatus,&lt;/i&gt; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;mouhoti&lt;/i&gt; (Günther, 1864) and &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;barroni&lt;/i&gt; (Smith, 1916), is revised on the basis of variation in external morphology and dentition of 175 specimens. The confused nomenclatural history of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;taeniatus&lt;/i&gt; and its name bearing type is discussed. A neotype is described for &lt;i&gt;Simotes&lt;/i&gt; &lt;i&gt;quadrilineatus&lt;/i&gt; Jan &amp; Sordelli, 1865, a synonym of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;taeniatus.&lt;/i&gt; The holotype of &lt;i&gt;Simotes&lt;/i&gt; &lt;i&gt;taeniatus&lt;/i&gt; var. &lt;i&gt;mouhoti&lt;/i&gt; Boulenger, 1914 is identified. Three new species within this group are described. &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;pseudotaeniatus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described on the basis of specimens from central Thailand. This species is morphologically similar to &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;taeniatus,&lt;/i&gt; but differs by the combination of 17 dorsal scale rows at midbody, 8 supralabials, the absence of dark dorsal and tail blotches and the presence of a vertebral stripe edged with black but no dorsolateral stripes. &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;deuvei&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described on the basis of specimens from southern Vietnam and Laos; it differs from other known species of the group by the combination of 12–15 maxillary teeth, 17 dorsal scale rows at midbody, usually seven supralabials, the absence of dark dorsal and tail blotches and the presence of a broad vertebral stripe, often conspicuously orange or rusty red. This species is most similar to &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;barroni&lt;/i&gt; but differs from the latter by a higher number of maxillary teeth and the absence of dark dorsal and tail blotches. Lastly, &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;moricei&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described on the basis of a single specimen from southern Vietnam. It differs from other species by the combination of a broad rusty brown vertebral stripe edged with two broad black stripes, 12 maxillary teeth, 17 dorsal scale rows, a high number of ventral scales, seven supralabials and a dark cloudy or smoky venter. These new species are compared with other species known from the Indo-Chinese Region. The diagnoses of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;taeniatus,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mouhoti&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;barroni&lt;/i&gt; are revised. A key to members of the group is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Oligodon&lt;/i&gt;; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;barroni&lt;/i&gt;; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;deuvei&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;moricei&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;mouhoti&lt;/i&gt;; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;pseudotaeniatus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;taeniatus&lt;/i&gt;; Neotype; Taxonomy; Cambodia; Laos; Thailand; Vietnam</subject>
+          <subject_class locale="en_US">&lt;i&gt;Oligodon&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johan</firstname>
+          <lastname>Van Rooijen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2008-12-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Paratus&lt;/i&gt; Simon (Araneae, Dionycha)</title>
+        <abstract locale="en_US">The spider genus &lt;i&gt;Paratus&lt;/i&gt; Simon, 1898 was known for more than hundred years from a single female from Sri Lanka. A survey of spiders in south China and northern India reveals two new species: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Both species are described based on males and females. The study of the copulatory organs and somatic morphology led us to conclude that &lt;i&gt;Paratus&lt;/i&gt; cannot be placed in any described subfamily of Liocranidae, where it was placed originally, or in Corinnidae. Therefore, we describe a new subfamily Paratinae subfam. n. and retain this group within Liocranidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; morphology; palp; epigyne; Yunnan; Uttar Pradesh</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuri</firstname>
+          <middlename>M.</middlename>
+          <lastname>Marusik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guo</firstname>
+          <lastname>Zheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-60</pages>
+        <date_published>2008-12-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Encyclopedia of Life &lt;i&gt;vs.&lt;/i&gt; the Brochure of Life: Exploring the relationships between the extinction of species and the inventory of life on Earth</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>González-Oreja</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2008-12-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

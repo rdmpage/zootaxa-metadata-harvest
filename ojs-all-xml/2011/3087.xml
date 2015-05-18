@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3087.1</id>
+    <title locale="en_US">1 Nov. 2011</title>
+    <volume>3087</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-11-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Notation of primary setae and pores on larvae of Dytiscinae (Coleoptera: Dytiscidae), with phylogenetic considerations</title>
+        <abstract locale="en_US">An analysis of the primary setae and pores of first instars of 13 species of Dytiscinae was performed to deduce the ancestral system of primary setae and pores of the head capsule, head appendages, legs, last abdominal segment and urogomphus. One hundred and thirty-one setae, 69 pores and three setal groups have been assigned to the ground-plan pattern of the dytiscine larva, 27 setae and 20 pores on the head capsule; 30 setae, 25 pores and three setal groups on the cephalic appendages; 51 setae and 18 pores on the legs; 15 setae and three pores on the last abdominal segment; and eight setae and three pores on the urogomphus. A hypothesis of the phylogeny of the tribes of Dytiscinae is presented on a cladistic analysis of first instar chaetotaxy characters conducted using the program TNT. All tribes of Dytiscinae were included with larger tribes represented by multiple genera. Our concept of the subfamily Dytiscinae as defined on the basis of first instar chaetotaxy was found separated into three distinct clades: (1) Cybistrini, (2) Dytiscini + Hyderodini, and (3) Aubehydrini + Hydaticini + Eretini + Aciliini. The proposed relationships of the tribes of Dytiscinae are ((Cybistrini + (Hyderodini + Dytiscini)) + (Aubehydrini + (Hydaticini + (Eretini + Aciliini)))). Characters useful for phylogenetic analysis of the subfamily are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chaetotaxy; larval morphology; Adephaga; Dytiscinae; phylogeny.</subject>
+          <subject_class locale="en_US">Chaetotaxy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Alarie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariano</firstname>
+          <middlename>C.</middlename>
+          <lastname>Michat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kelly</firstname>
+          <middlename>B.</middlename>
+          <lastname>Miller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-55</pages>
+        <date_published>2011-11-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Australian spore-feeding Thysanoptera of the genus &lt;i&gt;Bactrothrips&lt;/i&gt; (Phlaeothripidae – Idolothripinae)</title>
+        <abstract locale="en_US">Six species, including four new species, are recognised from Australia in &lt;i&gt;Bactrothrips,&lt;/i&gt; and &lt;i&gt;Lasiothrips&lt;/i&gt; Moulton is synonymised with this genus. This group of spore-feeding thrips is widespread on dead leaves across the Old World tropics from Africa to Japan. The Australian species are mainly associated with dry fruiting capsules of &lt;i&gt;Eucalyptus&lt;/i&gt; trees. Males usually have lateral tubercles on the abdomen, but no fore tarsal teeth, and the significance of this in sexual behaviour is noted.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Idolothripinae; Idolothripina; &lt;i&gt;Bactrothrips&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Idolothripinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Desley</firstname>
+          <middlename>J.</middlename>
+          <lastname>Tree</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-65</pages>
+        <date_published>2011-11-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

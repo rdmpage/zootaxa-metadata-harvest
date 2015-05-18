@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1911.1</id>
+    <title locale="en_US">22 Oct. 2008</title>
+    <volume>1911</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of early ontogeny and osteological development of streaked mojarra &lt;i&gt;Eugerres lineatus&lt;/i&gt; (Teleostei: Percoidei: Gerreidae)</title>
+        <abstract locale="en_US">Embryos, larvae, and juveniles of the streaked mojarra &lt;i&gt;Eugerres&lt;/i&gt; &lt;i&gt;lineatus&lt;/i&gt; are described and illustrated from a series of laboratory specimens. The description was based on morphometry, pigmentation pattern, squamation sequence, and osteological development. The eggs were obtained by stripping ripe adults captured in Bahía de La Paz, Baja California Sur, México. Eggs (cleavage egg and embryo phases) had a mean diameter of 0.69 mm with an oil globule of 0.19 mm mean diameter. Eleutheroembryos were 1.05 mm mean notochordal length (NL) at hatching. The yolk sac was absorbed by 2.10 mm mean NL, underwent notochord flexion at 3.16 mm NL-3.86 mm standard length (SL), and transformed to juveniles at 10.0 mm SL. Juveniles were completely scaled by 14.0 mm SL. Osteological development of the neurocranium, jaws and suspensorium, opercular series, hyoid and branchial arches, vertebral column and ribs, and the paired and unpaired fins and the supports were studied. The identification of the earliest stages of development of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lineatus&lt;/i&gt; compared to the other gerreids and allied taxonomic groups present along the northwestern Mexican coast is possible only in the juvenile period (24.1 mm SL), based on anal fin ray count (II, 9-III, 8), the presence of papilliform teeth, and the number of gillrakers on the lower first pharyngeal arch (15–20).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gerreidae; &lt;i&gt;Eugerres&lt;/i&gt; &lt;i&gt;lineatus&lt;/i&gt;; description; early ontogeny; osteological development</subject>
+          <subject_class locale="en_US">Gerreidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Ortíz-Galindo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Castro-Aguirre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <middlename>F.</middlename>
+          <lastname>Balart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicolás</firstname>
+          <lastname>Ávarez-Pliego</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2008-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Oxymycterus&lt;/i&gt; (Mammalia: Rodentia: Cricetidae) from the vanishing Yungas of Argentina</title>
+        <abstract locale="en_US">Morphological and molecular studies allowed us to recognize a new species of &lt;i&gt;Oxymycterus&lt;/i&gt; from the southern end of the Yungas of Argentina. External morphologic traits allow the new species, &lt;i&gt;Oxymycterus&lt;/i&gt; &lt;i&gt;wayku,&lt;/i&gt; to be differentiated from &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;paramensis&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;akodontius,&lt;/i&gt; the two currently recognized species for northwestern Argentina, as well as from the remaining species of the genus. Those traits include very dark general coloration, ears covered with nearly black hairs, a white spot on the chin, and claws on fore and hind feet long and robust. Cranial characteristics of the new species include wide and relatively shallow zygomatic notches, proportionally short incisive foramina and molar series, and a relatively robust braincase compared to &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;paramensis.&lt;/i&gt; Phylogenetic analysis based on cytochrome b DNA sequences corroborates the distinctiveness of &lt;i&gt;Oxymycterus&lt;/i&gt; &lt;i&gt;wayku&lt;/i&gt; n. sp. Observed divergence values support this distinction. This new species is particularly important from a conservation viewpoint due to its rarity and the advanced level of alteration of its habitat.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">hocicudo; new species; Northwestern Argentina; Sigmodontinae; taxonomy</subject>
+          <subject_class locale="en_US">hocicudo</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>Pablo</middlename>
+          <lastname>Jayat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>D'elía</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulyses</firstname>
+          <middlename>F. J.</middlename>
+          <lastname>Pardiñas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Daniela</middlename>
+          <lastname>Miotti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>E.</middlename>
+          <lastname>Ortiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-51</pages>
+        <date_published>2008-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larvae of two species of &lt;i&gt;Trizocheles&lt;/i&gt; (Decapoda: Anomura: Paguroidea: Pylochelidae: Trizochelinae), description of the adult of one, and preliminary implications of development on pylochelid phylogeny</title>
+        <abstract locale="en_US">The larvae of two species of the pylochelid genus &lt;i&gt;Trizocheles&lt;/i&gt; are described from prematurely hatched specimens and compared with earlier described larvae of &lt;i&gt;Pylocheles&lt;/i&gt; (Pylocheles) and &lt;i&gt;Pomatocheles.&lt;/i&gt; Although all are lecithotrophic and exhibit marked advanced development, differences in the larval morphology among the three genera are profound. Consideration is given to these differences as they relate to development in the entire Paguroidea, and the possible impact they may have on pylochelid phylogeny. As one of the &lt;i&gt;Trizocheles&lt;/i&gt; species is undescribed, adults as well as larvae are described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Anomura; Paguroidea; Pylochelidae; Trizochelinae; &lt;i&gt;Trizocheles&lt;/i&gt;; &lt;i&gt;Pylocheles&lt;/i&gt;; &lt;i&gt;Pomatocheles&lt;/i&gt;; new species; advanced and lecithotrophic development; phylogeny</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patsy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mclaughlin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <lastname>Lemaitre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-68</pages>
+        <date_published>2008-10-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

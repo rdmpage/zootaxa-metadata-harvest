@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2876.1</id>
+    <title locale="en_US">12 May. 2011</title>
+    <volume>2876</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A molecular phylogeny of the “&lt;i&gt;Madascincus polleni &lt;/i&gt;species complex”, with description of a new species of scincid lizard from the coastal dune area of northern Madagascar</title>
+        <abstract locale="en_US">The present paper constitutes a study on a taxonomically confusing group of closely related species belonging to the Malagasy skink genus &lt;i&gt;Madascincus,&lt;/i&gt; currently encompassing the nominal species &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;polleni,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;intermedius&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stumpffi.&lt;/i&gt; Based on combined analyses of mitochondrial and nuclear DNA sequences (ND1 and RAG2 genes, respectively), and morphological examination, we provide evidence for the existence of at least four distinct evolutionary lineages within this complex: &lt;i&gt;Madascincus&lt;/i&gt; &lt;i&gt;stumpffi;&lt;/i&gt; &lt;i&gt;Madascincus&lt;/i&gt; &lt;i&gt;arenicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from northern Madagascar; and two cryptic species morphologically similar to the name-bearing types of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;polleni&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;intermedius.&lt;/i&gt; The two latter species, although genetically distinct, appear to be morphologically indistinguishable and their taxonomic status cannot be resolved until a better sampling will be available.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scincinae; &lt;i&gt;Madascincus&lt;/i&gt;; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;arenicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;intermedius&lt;/i&gt;; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;polleni&lt;/i&gt;; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stumpffi&lt;/i&gt;; Madagascar; phylogeny; morphology; species complex</subject>
+          <subject_class locale="en_US">Scincinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aurélien</firstname>
+          <lastname>Miralles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jörn</firstname>
+          <lastname>Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2011-05-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new frog of the genus &lt;i&gt;Pristimantis &lt;/i&gt;(Amphibia: Strabomantidae) from the high Andes of Southeastern Ecuador, discovered using morphological and molecular data</title>
+        <abstract locale="en_US">We describe a new small sized (SVL in females ≤ 25.7 mm; in males, ≤ 20.1 mm) &lt;i&gt;Pristimantis,&lt;/i&gt; associated with bamboodominated forests in the Reserva Mazar, Andes of Southeastern Ecuador, at elevations between 2876–2989 m. This species is assigned to the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;orestes&lt;/i&gt; group, from whose members it differs by the absence of tubercles on heel and outer edge of tarsus, lacking a discoidal fold, presence of slightly expanded finger and toe pads, and bright yellow blotches on groin, axilla and anterior surfaces of thigh. The advertisement call of the new species consists of a series of short, indistinctly pulsed notes, and has a dominant frequency of 2.50–2.56 kHz. A molecular phylogeny based on a fragment of the mitochondrial gene 12S shows that the new species is sister to a clade formed by &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;simonbolivari&lt;/i&gt; and an undescribed &lt;i&gt;Pristimantis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cañar; new species; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;orestes&lt;/i&gt; group; Reserva Mazar</subject>
+          <subject_class locale="en_US">Cañar</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alejandro</firstname>
+          <middlename>F.</middlename>
+          <lastname>Arteaga-Navarro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Guayasamin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-29</pages>
+        <date_published>2011-05-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species and complementary description of a known species of &lt;i&gt;Iphiseiodes &lt;/i&gt;De Leon (Acari: Phytoseiidae)</title>
+        <abstract locale="en_US">Species of &lt;i&gt;Iphiseiodes&lt;/i&gt; De Leon have been reported only from tropical and subtropical regions of the Americas. In this paper, a new species of this genus is described from southeastern Brazil and a complementary description is provided for &lt;i&gt;Iphiseiodes&lt;/i&gt; &lt;i&gt;saopaulus&lt;/i&gt; (Denmark &amp; Muma).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; predatory mite; taxonomy; biological control</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jeferson</firstname>
+          <middlename>Luiz</middlename>
+          <lastname>De Carvalho Mineiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatiane</firstname>
+          <middlename>Marie Martins Gomes</middlename>
+          <lastname>De Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>José</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-34</pages>
+        <date_published>2011-05-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An updated identification key to the pseudoscorpions (Arachnida: Pseudoscorpiones) of the Czech Republic and Slovakia</title>
+        <abstract locale="en_US">An illustrated dichotomous key is provided for the identification of adults of the pseudoscorpion species found in the Czech Republic and Slovakia, based on morphological and morphometric characters. The pseudoscorpion fauna of Slovakia includes 51 species in 7 families, and that of the Czech Republic includes 38 species in 7 families. New country records are provided: &lt;i&gt;Mundochthonius&lt;/i&gt; &lt;i&gt;carpaticus&lt;/i&gt; Rafalski and &lt;i&gt;Microbisium&lt;/i&gt; &lt;i&gt;brevifemoratum&lt;/i&gt; (Ellingsen) in the Czech Republic and &lt;i&gt;Microbisium&lt;/i&gt; &lt;i&gt;suecicum&lt;/i&gt; Lohmander in Slovakia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">checklist; diversity; new records; Central Europe</subject>
+          <subject_class locale="en_US">checklist</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jana</firstname>
+          <lastname>Christophoryová</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>František</firstname>
+          <lastname>Šťáhlavský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Fedor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-48</pages>
+        <date_published>2011-05-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Leptoderma macrophthalmum &lt;/i&gt;n.sp., a new species of smooth-head (Otocephala: Alepocephalidae) from the Mid Atlantic Ridge</title>
+        <abstract locale="en_US">A new species of Alepocephalidae, &lt;i&gt;Leptoderma&lt;/i&gt; &lt;i&gt;macrophthalmum&lt;/i&gt; &lt;b&gt;n.sp.,&lt;/b&gt; is described from one specimen caught in 2004 at about 2100 m depth at the Mid Atlantic Ridge, north of the Azores. Morphological and molecular evidence indicate a relationship closest to the Pacific species &lt;i&gt;Leptoderma&lt;/i&gt; &lt;i&gt;lubricum.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alepocephalidae; &lt;i&gt;Leptoderma&lt;/i&gt;; Mid Atlantic Ridge</subject>
+          <subject_class locale="en_US">Alepocephalidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ingvar</firstname>
+          <lastname>Byrkjedal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <middlename>Yde</middlename>
+          <lastname>Poulsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <lastname>Galbraith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-56</pages>
+        <date_published>2011-05-12</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cymothoa hermani &lt;/i&gt;sp. nov. (Isopoda, Cymothoidae, Crustacea), a parasitic isopod, collected off the Zanzibar coast, Tanzania from the mouth of a parrotfish (Scaridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Cymothoa&lt;/i&gt; &lt;i&gt;hermani&lt;/i&gt; sp. nov., a buccal fish-parasitic isopod is described from off Unguja Island, Zanzibar, from the buccal cavity of the marbled parrotfish, &lt;i&gt;Leptoscarus&lt;/i&gt; &lt;i&gt;vaigiensis.&lt;/i&gt; &lt;i&gt;Cymothoa&lt;/i&gt; &lt;i&gt;hermani&lt;/i&gt; sp. nov. is characterised by the unique bulbous ornamentation on pereonite 1, anterolateral angles on pereonite 1 rounded and produced past frontal margin of cephalon, and pereopods with long and slender dactyli. There are no other species of &lt;i&gt;Cymothoa&lt;/i&gt; known from parrotfishes. This description increases the number of known &lt;i&gt;Cymothoa&lt;/i&gt; from the southwestern Indian Ocean to four.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Leptoscarus&lt;/i&gt; &lt;i&gt;vaigiensis&lt;/i&gt;; fish parasites; Africa; Indian Ocean; Cymothoidae; &lt;i&gt;Cymothoa&lt;/i&gt;; buccal cavity</subject>
+          <subject_class locale="en_US">&lt;i&gt;Leptoscarus&lt;/i&gt; &lt;i&gt;vaigiensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kerry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hadfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Niel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bruce</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nico</firstname>
+          <middlename>J.</middlename>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2011-05-12</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

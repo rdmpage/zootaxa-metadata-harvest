@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2801.1</id>
+    <title locale="en_US">25 Mar. 2011</title>
+    <volume>2801</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Hydroptila &lt;/i&gt;Dalman (Trichoptera, Hydroptilidae) in Japan</title>
+        <abstract locale="en_US">The Japanese species of &lt;i&gt;Hydroptila&lt;/i&gt; Dalman (Trichoptera, Hydroptilidae) are reviewed, confirming 10 described species, and introducing 2 new species. For clear comparisons and to include new details, males and females of all species, including the 2 new species, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;ogasawaraensis&lt;/i&gt; Ito and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nanseiensis&lt;/i&gt; Ito, are redescribed or described anew. &lt;i&gt;Hydroptila&lt;/i&gt; &lt;i&gt;itoi&lt;/i&gt; Kobayashi is synonymized with &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;dampfi&lt;/i&gt; Ulmer and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;thuna&lt;/i&gt; Oláh and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;botosaneanui&lt;/i&gt; Kumanski are recorded for the Japanese fauna for the first time. &lt;i&gt;Hydroptila&lt;/i&gt; &lt;i&gt;usuguronis&lt;/i&gt; Matsumura is reassigned to the genus &lt;i&gt;Psychomyia&lt;/i&gt; Latreille (Psychomyiidae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; new synonyms; reassignment</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomiko</firstname>
+          <lastname>Ito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ayuko</firstname>
+          <lastname>Ohkawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Toshio</firstname>
+          <lastname>Hattori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2011-03-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A cladistic analysis and reclassification of the tribe Bembicini (Hymenoptera: Crabronidae: Bembicinae)</title>
+        <abstract locale="en_US">A cladistic analysis of the digger wasp tribe Bembicini based on morphological characters is presented. The underlying data matrix comprises 64 terminal taxa (coded on genus-level) and 54 morphological characters. The resulting strict consensus tree was used as the basis for a revised subtribal classification of the Bembicini. Based on a previously published classification, we herewith propose a number of changes. The subtribe Spheciina Nemkov and Ohl, &lt;b&gt;subtrib.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (comprising &lt;i&gt;Ammatomus&lt;/i&gt; A. Costa 1859, &lt;i&gt;Kohlia&lt;/i&gt; Handlirsch 1895, &lt;i&gt;Sphecius&lt;/i&gt; Dahlbom 1843, and &lt;i&gt;Tanyoprymnus&lt;/i&gt; Cameron 1905) is removed from Handlirschiina Nemkov and Lelej 1996. The subtribe Stictiellina Bohart and Horning 1971, &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;resurr.&lt;/b&gt; (composed of &lt;i&gt;Chilostictia&lt;/i&gt; Gillaspy 1983, &lt;i&gt;Glenostictia&lt;/i&gt; Gillaspy &lt;i&gt;in&lt;/i&gt; Gillaspy, Evans, and Lin 1962, &lt;i&gt;Microstictia&lt;/i&gt; Gillaspy 1963, &lt;i&gt;Steniolia&lt;/i&gt; Say 1837, &lt;i&gt;Stictiella&lt;/i&gt; J. Parker 1917, and &lt;i&gt;Xerostictia&lt;/i&gt; Gillaspy 1963) is separated from Bembicina Latreille 1802. The subtribe Argogorytina Nemkov and Lelej 1996 (Argogorytes Ashmead 1899, &lt;i&gt;Neogorytes&lt;/i&gt; Bohart &lt;i&gt;in&lt;/i&gt; Bohart and Menke 1976, &lt;i&gt;Paraphilanthus&lt;/i&gt; Vardy 1995) is synonymized with Exeirina Dalla Torre 1897, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Finally, the subtribe Trichogorytina Nemkov and Pulawski 2009 (genus &lt;i&gt;Trichogorytes&lt;/i&gt; Rohwer 1912 only) is synonymized with Gorytina Lepeletier de Saint Fargeau 1845, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; An updated identification key to the subtribes of the Bembicini is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Digger wasps; sand wasps; phylogeny</subject>
+          <subject_class locale="en_US">Digger wasps</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pavel</firstname>
+          <middlename>G.</middlename>
+          <lastname>Nemkov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Ohl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-47</pages>
+        <date_published>2011-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Paraspicera &lt;/i&gt;Kieffer, 1907 (Hym: Figitidae: Aspicerinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Paraspicera&lt;/i&gt; Kieffer, 1907 is a genus of Aspicerinae (Hymenoptera: Cynipoidea: Figitidae) of Nearctic distribution that includes a small number of species. The diagnostic characters to differentiate &lt;i&gt;Paraspicera&lt;/i&gt; from other similar genera are described. From the five known species of &lt;i&gt;Paraspicera&lt;/i&gt; only &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bakeri&lt;/i&gt; Kieffer, 1907 belongs to &lt;i&gt;Paraspicera;&lt;/i&gt; the other species are transferred to the genus &lt;i&gt;Aspicera&lt;/i&gt; Dahlbom, 1842: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;clarimontis&lt;/i&gt; Kieffer &lt;b&gt;rev.&lt;/b&gt; &lt;b&gt;status,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;uthaensis&lt;/i&gt; Ashmead &lt;b&gt;rev.&lt;/b&gt; &lt;b&gt;status,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;foveata&lt;/i&gt; (Belizin) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kerzhneri&lt;/i&gt; (Kovalev) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;i&gt;Paraspicera&lt;/i&gt; &lt;i&gt;bakeri&lt;/i&gt; is redescribed and a new species is described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;brandaoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The diagnostic characters of both species are illustrated. The genus &lt;i&gt;Heteraspidia&lt;/i&gt; Belizin, 1952 is synonymyzed with &lt;i&gt;Aspicera.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Figitidae; Aspicerinae; &lt;i&gt;Paraspicera&lt;/i&gt;; revision; new species</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <lastname>Ros-Farré</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Pujade-Villar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-56</pages>
+        <date_published>2011-03-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Plotina &lt;/i&gt;Lewis (Coleoptera: Coccinellidae), with descriptions of four new species from China</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Plotina&lt;/i&gt; Lewis from China is reviewed and four new species are described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;octomaculata&lt;/i&gt; Wang et Ren, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;menghaiensis&lt;/i&gt; Wang, Ren et Chen, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;daweishanensis&lt;/i&gt; Wang et Ren, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;signatella&lt;/i&gt; Wang et Ren, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Plotinia&lt;/i&gt; &lt;i&gt;quadrioculata&lt;/i&gt; Kovář, 1995 is reported from China for the first time. All species are described and illustrated, and a key to the known species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Coccinellidae; Sticholotidinae; &lt;i&gt;Plotina&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xingmin</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shunxiang</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiaosheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2011-03-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

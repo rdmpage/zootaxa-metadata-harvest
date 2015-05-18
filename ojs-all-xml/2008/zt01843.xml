@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1843.1</id>
+    <title locale="en_US">6 Aug. 2008</title>
+    <volume>1843</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Observations on the &lt;i&gt;Parorchis acanthus &lt;/i&gt;complex (Philophthalmidae: Parorchiinae) with the description of three new species of &lt;i&gt;Parorchis &lt;/i&gt;Nicoll, 1907 and the replacement of the preoccupied junior homonym &lt;i&gt;Paratrema &lt;/i&gt;Dronen &amp; Badley, 1979 with &lt;i&gt;Stenomesotrema &lt;/i&gt;nomen novum</title>
+        <abstract locale="en_US">A brief history of the genus &lt;i&gt;Parorchis&lt;/i&gt; Nicoll, 1907 (Philophthalmidae: Parorchiinae) is provided along with the description of 3 new species: &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;catoptrophori&lt;/i&gt; n. sp., distinguished by a bipartite pharynx with a larger, anterior, muscular primary pharynx, followed by a smaller posterior nonmuscular secondary part composed of 2 smaller posterior extensions; &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;longivesiculus&lt;/i&gt; n. sp., distinguished by an external seminal vesicle that overreaches the acetabulum posteriorly, extending into the hindbody to about midway between the testes and the acetabulum; and &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;ralli&lt;/i&gt; n. sp., distinguished by an external seminal vesicle, the posterior third of which is tubular and coiled. The preoccupied junior homonym &lt;i&gt;Paratrema&lt;/i&gt; Dronen &amp; Badley, 1979 (Parorchiinae) is replaced by &lt;i&gt;Stenomesotrema&lt;/i&gt; &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;novum,&lt;/i&gt; and a rediagnosis of the genus is given wherein &lt;i&gt;Stenomesotrema&lt;/i&gt; &lt;i&gt;numenii&lt;/i&gt; n. comb. is assigned as the type species in the genus, and &lt;i&gt;Stenomesotrema&lt;/i&gt; &lt;i&gt;asiaticus&lt;/i&gt; n. comb. is proposed as a second species in the genus. Species of &lt;i&gt;Parorchis&lt;/i&gt; are divided into 2 basic body types. The first type contains those species with a barbell-like or hourglass body shape, a rudimentary head collar, symmetrical to tandem testes, 2 rows of corner spines on the head collar, a preequatorial acetabulum, and a forebody that is wider than the hindbody. The second body type, called the “Parorchis body type”, contains those species with a pyriform body shape, a well-developed head collar, symmetrical testes, a single continuous row of circumoral spines on the head collar, and an equatorial acetabulum. There appears to be 2 subtypes of the &lt;i&gt;Parorchis&lt;/i&gt; body type: subtype 1 containing those species possessing smooth to slightly irregular testes (not deeply lobed) and an esophagus lacking diverticuli; and subtype 2 containing those species having irregular and deeply lobed testes and an esophagus possessing lateral diverticuli. A comparative analysis of museum-deposited specimens of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;acanthus&lt;/i&gt; revealed as many as 9 possible additional species of &lt;i&gt;Parorchis.&lt;/i&gt; This suggests potential problems in using measurements of structures alone without differences in additional corroborating specific features to separate species of &lt;i&gt;Parorchis.&lt;/i&gt; Along with measurements, the number and size of spines on the circumoral collar, the presence or absence of a prepharynx, an intertesticular space, and esophageal diverticula as well as the extent of the posttesticular space, the length of the metraterm, egg size and the ratios of the width of the oral sucker to the width of the acetabulum and the width of the pharynx to the width of the oral sucker appear useful in distinguishing species of &lt;i&gt;Parorchis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Catoptrophorus&lt;/i&gt; &lt;i&gt;semipalmatus&lt;/i&gt;; Charadriiformes; clapper rail; Galveston; Gruiformes; laughing gull; &lt;i&gt;Larus&lt;/i&gt; &lt;i&gt;atricilla&lt;/i&gt;; &lt;i&gt;Paratrema&lt;/i&gt;; Parorchiinae; &lt;i&gt;Parorchis&lt;/i&gt;; &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;acanthus&lt;/i&gt; complex; &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;catoptrophori&lt;/i&gt;; &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;longivesiculus&lt;/i&gt;; &lt;i&gt;Parorchis&lt;/i&gt; &lt;i&gt;ralli&lt;/i&gt;; Philophthalmidae; &lt;i&gt;Rallus&lt;/i&gt; &lt;i&gt;longirostris&lt;/i&gt;; &lt;i&gt;Stenomesotrema&lt;/i&gt;; &lt;i&gt;Stenomesotrema&lt;/i&gt; &lt;i&gt;asiaticus&lt;/i&gt;; &lt;i&gt;Stenomesotrema&lt;/i&gt; &lt;i&gt;numenii&lt;/i&gt;; Texas; uterine seminal receptacle; U.S.A.; willet</subject>
+          <subject_class locale="en_US">&lt;i&gt;Catoptrophorus&lt;/i&gt; &lt;i&gt;semipalmatus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Norman</firstname>
+          <middlename>O.</middlename>
+          <lastname>Dronen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>K.</middlename>
+          <lastname>Blend</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2008-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Detection of two cryptic taxa in &lt;i&gt;Meristogenys amoropalamus&lt;/i&gt; (Amphibia, Ranidae) through nuclear and mitochondrial DNA analyses</title>
+        <abstract locale="en_US">We identified three distinct sympatric lineages of frogs among specimens previously considered a single species (Meris- &lt;i&gt;togenys&lt;/i&gt; &lt;i&gt;amoropalamus&lt;/i&gt; Matsui), based on 909 bp of mitochondrial DNA (12S rRNA and cytochrome b). To seek evidence of reproductive isolation between these lineages, we first analyzed a 249-bp fragment of the nuclear proopiomelanocortin (POMC) gene and found five haplotypes, of which two were limited to lineage 1 and three belonged to lineages 3 and 4. In a subsequent phylogenetic analysis of a 1313-bp fragment of nuclear POMC, Rag-1, and rhodopsin, lineage 1 was again distinct, while lineages 3 and 4 could not be differentiated. The results of the nuclear gene analyses suggest that lineage 1 is strongly isolated reproductively from lineages 3 and 4, which are not isolated from each other. This conclusion conforms to groupings based on larval morphology. These results indicate that frogs morphologically identified as &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;amoropalamus&lt;/i&gt; should be split into two sympatric species, one of which contains two mitochondrial lineages that have presumably been retained via deep coalescence.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cryptic taxa; intraspecific polymorphism of mitochondria; larval morphology; &lt;i&gt;Meristogenys&lt;/i&gt; &lt;i&gt;amoropalamus&lt;/i&gt;; Borneo</subject>
+          <subject_class locale="en_US">cryptic taxa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomohiko</firstname>
+          <lastname>Shimada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masafumi</firstname>
+          <lastname>Matsui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>Yambun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maklarin</firstname>
+          <lastname>Lakim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maryati</firstname>
+          <lastname>Mohamed</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-34</pages>
+        <date_published>2008-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Neotropical genus of the family Cunaxidae (Acari: Prostigmata: Bdelloidea)</title>
+        <abstract locale="en_US">A new Neotropical genus and its species, &lt;i&gt;Allocunaxa&lt;/i&gt; &lt;i&gt;heveae&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;&lt;i&gt;et&lt;/i&gt;&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described and figured. The generic features are provided. The subfamily Cunaxinae is discussed and a key to it is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bdelloidea; Neotropical; Cunaxinae; taxonomy; identification key</subject>
+          <subject_class locale="en_US">Bdelloidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jacob</firstname>
+          <middlename>Den</middlename>
+          <lastname>Heyer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatiane</firstname>
+          <middlename>Marie Martins Gomes</middlename>
+          <lastname>De Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2008-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Monogenean parasites of Carangidae and Sciaenidae marine fish on the Alvarado coast, Veracruz, Mexico, south Gulf of Mexico</title>
+        <abstract locale="en_US">A total of 311 individual fish from 16 species, 10 Carangidae and 6 Sciaenidae, were examined between August 2004 and February 2007. Twenty one monogenean species from 18 genera and 12 families are reported. Four species, &lt;i&gt;Cemocotylella&lt;/i&gt; &lt;i&gt;elongata,&lt;/i&gt; &lt;i&gt;Engraulicola&lt;/i&gt; cf. &lt;i&gt;thrissocles,&lt;/i&gt; &lt;i&gt;Rhamnocercus&lt;/i&gt; &lt;i&gt;margaritae,&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rhamnocercus&lt;/i&gt; are reported for the first time from the Gulf of Mexico; 16 of the parasite-host records are new. Each fish host family is parasitized by a particular set of monogenean species, genera and families not shared with the other.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasites; helminths; Monogenea; Carangidae; Sciaenidae; survey; Gulf of Mexico; Veracruz; Mexico</subject>
+          <subject_class locale="en_US">parasites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jesus</firstname>
+          <lastname>Montoya-Mendoza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>Salgado-Maldonado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mendoza-Palmero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2008-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Alicellidae and Valettiopsidae, two new callynophorate families (Crustacea: Amphipoda)</title>
+        <abstract locale="en_US">Two new families, the Alicellidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and the Valettiopsidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described based on genera traditionally considered as lysianassoid amphipods. The Alicellidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are deep-sea scavengers often associated with thermal vents. They are distinguished from all other amphipods by a combination of characters which includes a callynophore on antenna 1; a broad, serrate left lacinia mobilis (occasionally narrow or vestigial) and a reduced or vestigial right lacinia mobilis (occasionally broad and serrate); simple or subchelate gnathopod 1; an elongate ischium, rectolinear carpus and propodus and a small dactylus on gnathopod 2 (not mitten-shaped); absence of apical robust setae on uropods 1 and 2 and a deeply cleft telson. The family contains 6 genera: &lt;i&gt;Alicella&lt;/i&gt; Chevreux, 1899; &lt;i&gt;Apotectonia&lt;/i&gt; Barnard &amp; Ingram, 1990; &lt;i&gt;Diatectonia&lt;/i&gt; Barnard &amp; Ingram, 1990; &lt;i&gt;Paralicella&lt;/i&gt; Chevreux, 1908; &lt;i&gt;Tectovalopsis&lt;/i&gt; Barnard &amp; Ingram, 1990; &lt;i&gt;Transtectonia&lt;/i&gt; Barnard &amp; Ingram, 1990. The Valettiopsidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are deep-sea scavenging amphipods defined by a combination of characters which includes a callynophore on antenna 1; serrate, curved incisors; a well developed, serrate lacinia mobilis on each mandible, an oblique setal row on the inner plate of maxilla 2, an elongate ischium on gnathopod 2; the absence of robust setae on the apices of uropods 1 and 2 and a deeply cleft telson. The family contains two genera, &lt;i&gt;Valettiopsis&lt;/i&gt; Holmes, 1908 and &lt;i&gt;Valettietta&lt;/i&gt; Lincoln &amp; Thurston, 1983.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; new families; taxonomy; Alicellidae; Valettiopsidae</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <lastname>De Broyer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-66</pages>
+        <date_published>2008-08-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Leptocoma&lt;/i&gt; Cabanis, 1851 (Aves: Nectariniidae) given priority over &lt;i&gt;Chalcostetha&lt;/i&gt; Cabanis, 1851 on first reviser principle</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frank</firstname>
+          <middlename>D.</middlename>
+          <lastname>Steinheimer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2008-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

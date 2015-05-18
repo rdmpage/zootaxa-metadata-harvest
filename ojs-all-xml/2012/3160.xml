@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3160.1</id>
+    <title locale="en_US">13 Jan. 2012</title>
+    <volume>3160</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphology of new Indian/Indonesian &lt;i&gt;Gamasomorpha &lt;/i&gt;and &lt;i&gt;Xestaspis &lt;/i&gt;species (Araneae: Oonopidae) </title>
+        <abstract locale="en_US">The oonopid genera &lt;i&gt;Gamasomorpha&lt;/i&gt; and &lt;i&gt;Xestaspis&lt;/i&gt; are very diverse and differ only by the shape of the booklung covers.New Indian/Indonesian &lt;i&gt;Gamasomorpha&lt;/i&gt; and &lt;i&gt;Xestaspis&lt;/i&gt; species, characterized by sternal furrows consisting of large, drop-like pits are described. Fourteen species are newly described (G. &lt;i&gt;asterobothros&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;keri&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;petoteca&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;insomnia&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ophiria&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;squalens&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;coniacris&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;raya&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;fricki&lt;/i&gt; n. sp., &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;schmilingi&lt;/i&gt; n. sp.,&lt;i&gt;X.&lt;/i&gt; &lt;i&gt;kandy&lt;/i&gt; n. sp., &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;paulina&lt;/i&gt; n. sp., &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;semengoh&lt;/i&gt; n. sp., &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;biflocci&lt;/i&gt; n. sp.); two species are redescribed (G. &lt;i&gt;seximpressa&lt;/i&gt; and&lt;i&gt;G.&lt;/i&gt; &lt;i&gt;taprobanica).&lt;/i&gt; The high significance of somatic features for species identification, the degree of intraspecific variationand the complexity of the female genitalia are remarkable. The current work suggests that a phylogenetic revision of thegenera &lt;i&gt;Gamasomorpha&lt;/i&gt; and &lt;i&gt;Xestaspis&lt;/i&gt; and an examination of the validity of the shape of the booklung covers of these two genera are needed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alpha-taxonomy; morphology; planetary biodiversity inventory (PBI); &lt;i&gt;Gamasomorpha&lt;/i&gt;; &lt;i&gt;Xestaspis&lt;/i&gt;; somatic characters; intraspecific variation; species specificity; complex female genitalia</subject>
+          <subject_class locale="en_US">Alpha-taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Beata</firstname>
+          <lastname>Eichenberger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yvonne</firstname>
+          <lastname>Kranz-Baltensperger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Ott</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Werner</firstname>
+          <lastname>Graber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Nentwig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christian</firstname>
+          <lastname>Kropf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2012-01-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

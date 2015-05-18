@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2387.1</id>
+    <title locale="en_US">3 Mar. 2010</title>
+    <volume>2387</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the ant (Hymenoptera: Formicidae) genus &lt;i&gt;Paraparatrechina &lt;/i&gt;in the Afrotropical and Malagasy Regions</title>
+        <abstract locale="en_US">The taxonomy of the Afrotropical and Malagasy &lt;i&gt;Paraparatrechina&lt;/i&gt; fauna is revised for the first time. Thirteen species are revealed, of which eight are described as new: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;brunnella&lt;/i&gt; LaPolla &amp; Cheng; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;concinnata&lt;/i&gt; LaPolla &amp; Cheng; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;gnoma&lt;/i&gt; LaPolla &amp; Cheng; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;myops&lt;/i&gt; LaPolla &amp; Fisher; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ocellatula&lt;/i&gt; LaPolla &amp; Fisher; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;oreias&lt;/i&gt; LaPolla &amp; Cheng; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt; LaPolla &amp; Cheng; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;umbranatis&lt;/i&gt; LaPolla &amp; Cheng. An identification key to the worker caste is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Formicinae; &lt;i&gt;Nylanderia&lt;/i&gt;; &lt;i&gt;Paratrechina&lt;/i&gt;; &lt;i&gt;Prenolepis&lt;/i&gt; genus-group</subject>
+          <subject_class locale="en_US">Formicinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lapolla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chiu</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2010-03-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Manota &lt;/i&gt;Williston (Diptera: Mycetophilidae) in New Zealand</title>
+        <abstract locale="en_US">&lt;i&gt;Manota&lt;/i&gt; spp. are quite common in all kinds of indigenous forest in New Zealand. Five species are present: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;maorica&lt;/i&gt; Edwards, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;granvillensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;birgitae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;purakaunui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;regineae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; They can be distinguished from one another by male genitalic characters, in particular those of gonostylus. New Zealand &lt;i&gt;Manota&lt;/i&gt; form a monophyletic group though their relationship to &lt;i&gt;Manota&lt;/i&gt; spp. outside New Zealand is unclear.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Mycetophilidae; &lt;i&gt;Manota&lt;/i&gt;; new species; New Zealand</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mathias</firstname>
+          <lastname>Jaschhof</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Catrin</firstname>
+          <lastname>Jaschhof</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-38</pages>
+        <date_published>2010-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the Oriental bamboo delphacid genus &lt;i&gt;Neobelocera &lt;/i&gt;Ding &amp; Yang (Hemiptera: Fulgoromorpha: Delphacidae) with the description of one new species</title>
+        <abstract locale="en_US">Species in the Oriental bamboo delphacid genus &lt;i&gt;Neobelocera&lt;/i&gt; Ding &amp; Yang, 1986 (Hemiptera: Fulgoromorpha: Delphacidae: Delphacinae: Tropidocephalini) are reviewed. The genus consists of 6 species: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;asymmetrica&lt;/i&gt; Ding &amp; Yang, 1986 (Yunnan: Jinghong), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;zhejiangensis&lt;/i&gt; (Zhu, 1988) (Zhejiang: Hangzhou, Anhui: Langyashan), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;hanyinensis&lt;/i&gt; Qin &amp; Yuan, 1998 (Shaanxi: Hanyin), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lanpingensis&lt;/i&gt; Chen, 2003 (Yunnan: Lanping), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;laterospina&lt;/i&gt; Chen &amp; Liang, 2005 (Hunan: Zhangjiajie) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; Hou &amp; Chen, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Guangdong: Guangzhou, Zhuhai; Hainan: Diaoluoshan). The generic characteristics are redefined. The main morphological characters, male genitalia of 6 species and female genitalia of 3 species are described or redescribed and illustrated (excluding &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;asymmetrica,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;zhejiangensis,&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;hanyinensis).&lt;/i&gt; A key to species in the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bamboo delphacids; Fulgoroidea; China; Oriental region; taxonomy</subject>
+          <subject_class locale="en_US">Bamboo delphacids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Hui</firstname>
+          <lastname>Hou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiang-Sheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2010-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Carphontes &lt;/i&gt;Bates, with the proposal of a new genus, &lt;i&gt;Paracleodoxus &lt;/i&gt;(Coleoptera, Cerambycidae, Lamiinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Carphontes&lt;/i&gt; Bates, 1881 is redefined, and a new genus &lt;i&gt;Paracleodoxus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described. &lt;i&gt;Carphontes&lt;/i&gt; &lt;i&gt;posticalis&lt;/i&gt; Bates, 1881 is redescribed. Three new species are described and illustrated: &lt;i&gt;Carphontes&lt;/i&gt; &lt;i&gt;paradoxus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Venezuela, &lt;i&gt;Paracleodoxus&lt;/i&gt; &lt;i&gt;cineraceus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Venezuela and Colombia, and &lt;i&gt;Paracleodoxus&lt;/i&gt; &lt;i&gt;simillimus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Venezuela.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Carphontes&lt;/i&gt;; &lt;i&gt;Paracleodoxus&lt;/i&gt;; Neotropical; new genus; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Carphontes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miguel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcela</firstname>
+          <middlename>L.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-56</pages>
+        <date_published>2010-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Protoliupanshania wangi&lt;/i&gt;, a new genus and species from the Chinese Early Cretaceous (Odonata: Aeshnoptera: Liupanshaniidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Protoliupanshania&lt;/i&gt; &lt;i&gt;wangi,&lt;/i&gt; new genus and species, is described from the Lower Cretaceous Yixian Formation of western Liaoning, China. It is probably the sister genus of the clade that comprises all other liupanshaniid genera, based on current knowledge of the wing venation of &lt;i&gt;Paramesuropetala.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Odonata; Aeshnoptera; Liupanshaniidae; new genus; new species; Early Cretaceous; China</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Di-Ying</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andre</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2010-03-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An extraordinary new termite (Isoptera: Termitidae: Syntermitinae: &lt;i&gt;Rhynchotermes&lt;/i&gt;) from the pasturelands of northern Colombia</title>
+        <abstract locale="en_US">A new species of mandibulate nasute termite, &lt;i&gt;Rhynchotermes&lt;/i&gt; &lt;i&gt;bulbinasus&lt;/i&gt; Scheffrahn &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from dimorphic soldiers and monomorphic workers discovered in the Caribbean plains of northern Colombia. The new species differs from all other New World Syntermitinae and Nasutitermitinae, in having a nasus with its distal diameter greater than its median diameter. Literature on the genus &lt;i&gt;Rhynchotermes&lt;/i&gt; Holmgren is reviewed and field observations of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;bulbinasus&lt;/i&gt; are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isoptera: Termitidae: Syntermitinae; Neotropical; Colombia; Caribbean Basin; cattle pastures; new species; taxonomy</subject>
+          <subject_class locale="en_US">Isoptera: Termitidae: Syntermitinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rudolf</firstname>
+          <middlename>H.</middlename>
+          <lastname>Scheffrahn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-03-03</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

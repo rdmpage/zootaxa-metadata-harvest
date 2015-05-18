@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1796.1</id>
+    <title locale="en_US">16 Jun. 2008</title>
+    <volume>1796</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A fully web-illustrated morphological phylogenetic study of relationships among oak gall wasps and their closest relatives (Hymenoptera: Cynipidae)</title>
+        <abstract locale="en_US">Large morphological phylogenetics analyses are often poorly documented because of the constraints of traditional print journals, making it difficult to critically evaluate the data and build on it in future studies. We use modern information technology to overcome this problem in a comprehensive analysis of higher relationships among oak gall wasps and their closest relatives. Our morphological characters are documented by more than 2,000 images deposited in the open web image database Morphbank (http://www.morphbank.net), allowing one-click access from character and character state descriptions to the raw data. The oak gall wasps (Cynipidae: Cynipini) form one of the largest specialized radiations of galling insects with almost 1,000 described species attacking oaks or oak relatives. According to previous morphological studies, the Cynipini form a monophyletic clade, the Woody Rosid Gallers (WRG), together with three small cynipid tribes (Diplolepidini, Eschatocerini, and Pediaspidini). The WRG all attack woody representatives of the rosid clade of eudicots. Little was previously known about higher WRG relationships. We studied 54 exemplar taxa of WRG, including representatives from 34 of the 41 valid genera of oak gall wasps, and two outgroups. The study resulted in 308 characters, 283 from morphology and 25 from biology and distribution; most of these are original to the present paper. Parsimony analyses supported the monophyly of three major WRG lineages: Diplolepidini + Eschatocerini, Pediaspidini + &lt;i&gt;Paraulax,&lt;/i&gt; and Cynipini. The poorly known South American genus &lt;i&gt;Paraulax,&lt;/i&gt; developing in galls on &lt;i&gt;Nothofagus,&lt;/i&gt; is moved from Cynipini to Pediaspidini to reflect these results. The single Japanese species described in &lt;i&gt;Paraulax&lt;/i&gt; by Shinji (types lost) is transferred to &lt;i&gt;Ceroptres&lt;/i&gt; as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;quereicola&lt;/i&gt; (Shinji 1938) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Two major lineages of oak gallers were recognized in most analyses: (1) the &lt;i&gt;Neuroterus-group&lt;/i&gt; (Neuroterus, &lt;i&gt;Pseudoneuroterus,&lt;/i&gt; the previously recognized genus &lt;i&gt;Trichagalma,&lt;/i&gt; &lt;i&gt;Plagiotrochus,&lt;/i&gt; possibly also Palearctic &lt;i&gt;Dryocosmus&lt;/i&gt; and &lt;i&gt;Aphelonyx+Disholcaspis);&lt;/i&gt; and (2)the &lt;i&gt;Cynips-group&lt;/i&gt; (Cynips, &lt;i&gt;Belonocnema,&lt;/i&gt; &lt;i&gt;Atrusca,&lt;/i&gt; &lt;i&gt;Acraspis,&lt;/i&gt; &lt;i&gt;Philonix,&lt;/i&gt; &lt;i&gt;Biorhiza&lt;/i&gt; and &lt;i&gt;Trigonaspis).&lt;/i&gt; The large and problematic genus &lt;i&gt;Andricus&lt;/i&gt; was paraphyletic in some analyses and monophyletic in others, with &lt;i&gt;Disholcaspis&lt;/i&gt; &lt;i&gt;spectabilis&lt;/i&gt; being the sister to other Cynipini in the former case and European &lt;i&gt;Callirhytis&lt;/i&gt; in the latter. Our results suggest that WRG are conservative in their host plant preferences but there is no evidence for parallel insect-plant cladogenesis. Distributional patterns suggest a possible origin for the oak gall wasps in the Nearctic but the picture is otherwise complicated. Both heterogeny, the cyclical alternation of sexual and parthenogenetic generations, and heteroecy, the use of different sections of &lt;i&gt;Quercus&lt;/i&gt; as host for the two generations, appear to have evolved twice within the WRG.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Morphbank; Cynipini; Diplolepidini; Pediaspidini; Eschatocerini; taxonomy; phylogeny; host plant; distribution</subject>
+          <subject_class locale="en_US">Morphbank</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Johan</firstname>
+          <lastname>Liljeblad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fredrik</firstname>
+          <lastname>Ronquist</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose-Luis</firstname>
+          <lastname>Nieves-Aldrey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felix</firstname>
+          <lastname>Fontal-Cazalla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Palmira</firstname>
+          <lastname>Ros-Farre</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Gaitros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>And</firstname>
+          <middlename>Juli</middlename>
+          <lastname>Pujade-Villar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-73</pages>
+        <date_published>2008-06-16</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

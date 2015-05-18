@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2518.1</id>
+    <title locale="en_US">25 Jun. 2010</title>
+    <volume>2518</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new subgenus of eusirid amphipod (Crustacea: Amphipoda: Eusiridae) from subterranean waters and springs of the Eastern Sikhote-Alin Mountain Ridge, with comments on the morphology of sternal humps, genital papillae and pleopods</title>
+        <abstract locale="en_US">A new stygomorphic freshwater subgenus of &lt;i&gt;Paramoera&lt;/i&gt; Miers, 1875, &lt;i&gt;Ganigamoera&lt;/i&gt; &lt;b&gt;subgen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described and compared with the four North Pacific subgenera and with allied Far Eastern representatives. The classsification of &lt;i&gt;Ganigamoera&lt;/i&gt; &lt;b&gt;subgen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is based on two closely-related species: &lt;i&gt;Paramoera&lt;/i&gt; (G.) &lt;i&gt;myslenkovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from subterranean fresh waters of the Kievka River basin, and &lt;i&gt;Paramoera&lt;/i&gt; (G.) &lt;i&gt;tiunovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from a spring in the Solontsovaya River basin. The new species are identified by the presence of sternal humps, male genital papillae and modified pleopods 1–3. The second pleopod of males is sexually dimorphic. The affinity of the new species for their congeners is discussed, emphasizing morphological and biogeographical relationships.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; &lt;i&gt;Paramoera&lt;/i&gt;; &lt;i&gt;Ganigamoera&lt;/i&gt;; taxonomy; subterranean waters; North Pacific</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dmitry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sidorov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2010-06-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of “Mouse-colored Tapaculos”. I. On the application of the name &lt;i&gt;Malacorhynchus speluncae &lt;/i&gt;Ménétriés, 1835 (Aves: Passeriformes: Rhinocryptidae)</title>
+        <abstract locale="en_US">The type specimen of &lt;i&gt;Malacorhynchus&lt;/i&gt; &lt;i&gt;speluncae&lt;/i&gt; was described and illustrated as being “mouse gray with a bluish luster” on the upperparts and as having a “lighter color on the lower side of the body” which “becomes whitish towards the middle of the throat and breast”. It represents a taxon presently placed in the genus &lt;i&gt;Scytalopus.&lt;/i&gt; Since 1907, the name &lt;i&gt;Scytalopus&lt;/i&gt; &lt;i&gt;speluncae&lt;/i&gt; has been attributed to the predominantly dark-gray species from the southeastern coastal Brazilian mountains. Recently, it was suggested that the name &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speluncae&lt;/i&gt; should be applied to a species that is light-gray with whitish belly and extensive barring on the flanks and that occurs predominantly in the Espinhaço Range, Minas Gerais state, to the west of the range of the dark-gray taxon. As a consequence, the dark-gray species, presumably without any available name, was described as a new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;notorius.&lt;/i&gt; However, on the basis of a critical analysis of the available information on the type specimen of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speluncae,&lt;/i&gt; including the original description and illustration (Ménétriés 1835), and our examination of large series of museum specimens, we demonstrate that the type of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speluncae&lt;/i&gt; falls within the known plumage variation of the dark-gray species and that it does not show the diagnostic characters of the light-gray form. Thus, we propose that the name &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speluncae&lt;/i&gt; be applied only to the dark-gray species. Consequently, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;notorius&lt;/i&gt; must be regarded a junior-synonym of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speluncae.&lt;/i&gt; Because of problems related to the exact collecting sites of Ménétriés, and taking into consideration the distribution of the dark-gray species, we suggest “Serra dos Órgãos”, in Rio de Janeiro state, as the type-locality of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;speluncae.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Scytalopus&lt;/i&gt; &lt;i&gt;speluncae&lt;/i&gt;; &lt;i&gt;Scytalopus&lt;/i&gt; &lt;i&gt;notorius&lt;/i&gt;; individual variation; synonymy; type-locality</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giovanni</firstname>
+          <middlename>N.</middlename>
+          <lastname>Maurício</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <middlename>R.</middlename>
+          <lastname>Bornschein</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>F.</middlename>
+          <lastname>De Vasconcelos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bret</firstname>
+          <middlename>M.</middlename>
+          <lastname>Whitney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Fernando</middlename>
+          <lastname>Pacheco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luís</firstname>
+          <middlename>Fábio</middlename>
+          <lastname>Silveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-48</pages>
+        <date_published>2010-06-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Haliclystus californiensis&lt;/i&gt;, a “new” species of stauromedusa (Cnidaria: Staurozoa) from the northeast Pacific, with a key to the species of &lt;i&gt;Haliclystus&lt;/i&gt;</title>
+        <abstract locale="en_US">We describe &lt;i&gt;Haliclystus&lt;/i&gt; &lt;i&gt;californiensis,&lt;/i&gt; a new species of stauromedusa from the northeast Pacific. &lt;i&gt;Haliclystus&lt;/i&gt; &lt;i&gt;californiensis&lt;/i&gt; differs from other species within the genus primarily by its horseshoe-shaped anchors, but also by the presence of prominent glandular pads at the base of its outermost secondary tentacles and by geographic range. It has been found from southern to northern California in coastal waters, 10 to 30 m depth. A single specimen of the species was originally described in an unpublished dissertation; nine additional specimens have been found since that time. We provide an annotated key to the known species of &lt;i&gt;Haliclystus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Haliclystus&lt;/i&gt;; Staurozoa; stauromedusa; Cnidaria; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;auricula&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;octoradiatus&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;californiensis&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;tenuis&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;stejnegeri&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;borealis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Haliclystus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amanda</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kahn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <middlename>I.</middlename>
+          <lastname>Matsumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yayoi</firstname>
+          <middlename>M.</middlename>
+          <lastname>Hirano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Allen</firstname>
+          <middlename>G.</middlename>
+          <lastname>Collins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2010-06-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pseudolaguvia virgulata&lt;/i&gt;, a new sisorid catfish (Teleostei: Sisoridae) from Mizoram, northeastern India</title>
+        <abstract locale="en_US">&lt;i&gt;Pseudolaguvia&lt;/i&gt; &lt;i&gt;virgulata,&lt;/i&gt; a new South Asian sisorid catfish species, is described from the Barak River drainage in Mizoram, India. The new species can be distinguished from congeners in having a brown body with two or three narrow, pale longitudinal stripes and a pale Y-shaped marking on the dorsal surface of the head. Additional distinguishing characters from its congeners are a serrated anterior edge of the dorsal spine, the thoracic adhesive apparatus reaching beyond the base of the last pectoral-fin ray, head width, pectoral-fin length, length of dorsal-fin base, dorsal-spine length, body depth at anus, length of adipose-fin base, caudal peduncle length, caudal peduncle depth, snout length, interorbital distance, and total number of vertebrae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Siluriformes; Sisoroidea; Barak River; South Asia</subject>
+          <subject_class locale="en_US">Siluriformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lalramliana</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2010-06-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

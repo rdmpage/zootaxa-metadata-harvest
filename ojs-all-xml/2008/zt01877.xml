@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1877.1</id>
+    <title locale="en_US">10 Sep. 2008</title>
+    <volume>1877</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Untying the Gordian Knot: on &lt;i&gt;Tanais novaezealandiae&lt;/i&gt; Thomson (Crustacea, Tanaidacea, Tanaidae) from New Zealand, with descriptions of two new &lt;i&gt;Zeuxoides&lt;/i&gt; species</title>
+        <abstract locale="en_US">&lt;i&gt;Tanais&lt;/i&gt; &lt;i&gt;novaezealandiae&lt;/i&gt; Thomson, 1879 is redescribed based on material from the type locality and re-assigned to the genus &lt;i&gt;Zeuxo.&lt;/i&gt; The taxon &lt;i&gt;Anatanais&lt;/i&gt; &lt;i&gt;novaezealandiae&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; Sieg from the subantarctic Auckland Islands is a distinct species and requires new material to fully assess its taxonomy. Two new species which could be confused with &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;novaezealandiae,&lt;/i&gt; &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;aka&lt;/i&gt; sp.nov. and &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;rimuwhero&lt;/i&gt; n.sp., are described. Both show a close resemblance to some newly-described Australian species and &lt;i&gt;Zeuxoides&lt;/i&gt; &lt;i&gt;helleri&lt;/i&gt; and support the view that the Australasian/New Zealand region is a hot-spot for species richness within the Tribe Anatanaini. The confused taxonomy of the Subfamily Tanainae is remarked on, with a new phylogenetic review desirable.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Tanaidacea; Tanaidae; &lt;i&gt;Anatanais&lt;/i&gt;; &lt;i&gt;Tanais&lt;/i&gt;; &lt;i&gt;Zeuxo&lt;/i&gt;; &lt;i&gt;Zeuxoides&lt;/i&gt;; New Zealand</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Graham</firstname>
+          <middlename>J</middlename>
+          <lastname>Bird</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Geothelphusa &lt;/i&gt;Stimpson, 1857, from Taiwan (Crustacea: Brachyura: Potamidae) based on morphological and molecular evidence, with notes on species from western Taiwan</title>
+        <abstract locale="en_US">A new species of freshwater crab of the genus &lt;i&gt;Geothelphusa,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;siasiat&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from Hsinchu and Miaoli counties, northwestern Taiwan. The new species can be distinguished morphologically from similar and geographically close species from western Taiwan by a suite of characters of the carapace, ambulatory legs, thoracic sternum, male abdomen, and male first pleopods. Comparisons of the DNA sequences encoding parts of the mitochondrial large subunit (16S) rRNA and cytochrome oxidase subunit I (COI) genes of specimens from western Taiwan further corroborate this finding. The opportunity is taken here to discuss the taxonomy of the poorly known species, &lt;i&gt;Geothelphusa&lt;/i&gt; &lt;i&gt;candidiensis&lt;/i&gt; Bott, 1967, based on a re-examination of the holotype, and the distribution of &lt;i&gt;Geothelphusa&lt;/i&gt; species from western Taiwan. The report of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;siasiat&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; brings the total number of species of &lt;i&gt;Geothelphusa&lt;/i&gt; species known to 52.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">16S rRNA; cytochrome oxidase I; &lt;i&gt;Geothelphusa&lt;/i&gt; &lt;i&gt;siasiat&lt;/i&gt;; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;candidiensis&lt;/i&gt;; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;olea&lt;/i&gt;; Taiwan; taxonomy</subject>
+          <subject_class locale="en_US">16S rRNA</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hsi-Te</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darren</firstname>
+          <middlename>C. J.</middlename>
+          <lastname>Yeo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-48</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Cnemaspis &lt;/i&gt;Strauch 1887 (Squamata: Gekkonidae) from Selangor, Peninsular Malaysia</title>
+        <abstract locale="en_US">A new species of gekkonid lizard of the genus &lt;i&gt;Cnemaspis&lt;/i&gt; Strauch 1887 is described from the state of Selangor, Peninsular Malaysia. &lt;i&gt;Cnemaspis&lt;/i&gt; &lt;i&gt;flavigaster&lt;/i&gt; &lt;b&gt;sp&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from all other species of &lt;i&gt;Cnemaspis&lt;/i&gt; in Peninsular Malaysia by having the following combination of characters: maximum SVL of 50.1 mm, a series of distinct black dorsal spots, 29–34 subdigital lamellae on 4 th toe, no femoral pores, smooth ventral scales, median subcaudal scales not enlarged or keeled, and an orange belly. This brings the total number of species of &lt;i&gt;Cnemaspis&lt;/i&gt; in Peninsular Malaysia to nine.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Selangor; Malaysia; gekkonid; &lt;i&gt;Cnemaspis&lt;/i&gt; &lt;i&gt;flavigaster&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Selangor</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chan</firstname>
+          <middlename>Kin</middlename>
+          <lastname>Onn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ompok supernus&lt;/i&gt;, a new catfish (Teleostei: Siluridae) from Borneo</title>
+        <abstract locale="en_US">&lt;i&gt;Ompok&lt;/i&gt; &lt;i&gt;supernus,&lt;/i&gt; a new species of silurid catfish is described from the Rungan River drainage in Kalimantan Tengah, southern Borneo. &lt;i&gt;Ompok&lt;/i&gt; &lt;i&gt;supernus&lt;/i&gt; can be distinguished from all Southeast Asian congeners, except for &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;borneensis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;fumidus&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;leiacanthus,&lt;/i&gt; in having a combination of a brown body without any prominent black humeral spot, the rictal lobes separated by a superficial groove extending from the corner of the mouth to the submandibular groove, a gape not reaching beyond the anterior border of the orbit, and 54–66 anal-fin rays. &lt;i&gt;Ompok&lt;/i&gt; &lt;i&gt;supernus&lt;/i&gt; differs from &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;borneensis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;fumidus&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;leiacanthus&lt;/i&gt; in having more dorsally-placed eyes, manifested in its smaller interorbital distance compared to the latter three species (42.6–48.7% HL vs. 49.1–59.5), and a combination of a mottled body and a rounded anterior profile of the lower jaw.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ostariophysi; Kalimantan Tengah; Rungan River; Southeast Asia</subject>
+          <subject_class locale="en_US">Ostariophysi</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

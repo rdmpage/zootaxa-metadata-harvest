@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2842.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2842</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Micronoctuidae (Lepidoptera: Noctuoidea). Part 4, Taxonomy of the subfamilies Tentaxinae and Micronoctuinae </title>
+        <abstract locale="en_US">This is the fourth part in a series of papers on the recently described family Micronoctuidae Fibiger, 2005. Part 4 includes the description of Tantaxinae, new subfamily, and Micronoctuinae, and 15 genera (13 new): &lt;i&gt;Acusa,&lt;/i&gt; &lt;i&gt;Tentasetae,&lt;/i&gt; &lt;i&gt;Pseudobscura,&lt;/i&gt; &lt;i&gt;Parens,&lt;/i&gt; &lt;i&gt;Alienia,&lt;/i&gt; &lt;i&gt;Tentaspina,&lt;/i&gt; &lt;i&gt;Tentax,&lt;/i&gt; &lt;i&gt;Flax,&lt;/i&gt; &lt;i&gt;Medius,&lt;/i&gt; &lt;i&gt;Sternitta,&lt;/i&gt; &lt;i&gt;Dextella,&lt;/i&gt; &lt;i&gt;Paradoxica,&lt;/i&gt; and &lt;i&gt;Dorsum&lt;/i&gt; (all new). Two genera are redescribed: &lt;i&gt;Micronola&lt;/i&gt; Amsel, 1935 and &lt;i&gt;Micronoctua&lt;/i&gt; Fibiger, 1997. A total of 93 species are treated (81 new, one new subspecies; 12 species are redescribed). Six new combinations are given. Additions are given to the previously published parts of the revision: Pollexinae Fibiger, 2007 (one new species), Belluliinae Fibiger, 2008a (one species from Fibiger et al. 2011), Parachrostiinae Fibiger, 2011 (one species from Fibiger et al. 2011), Tactusinae Fibiger, 2010 (three species and one subspecies from Fibiger et al. 2011, and 11 new species in three new genera). Taxa inhabit the Arabian Peninsula, and Asian, Oriental, and Oceania regions in tropical, subtropical, and temperate zones both north and south of the equator. Three preoccupied generic names, &lt;i&gt;Dignus&lt;/i&gt; Fibiger, &lt;i&gt;Fustis&lt;/i&gt; Fibiger, and &lt;i&gt;Obscura&lt;/i&gt; Fibiger, proposed as new in Fibiger 2010, are replaced by &lt;i&gt;Dignius&lt;/i&gt; Fibiger, 2011, &lt;i&gt;Fustius&lt;/i&gt; Fibiger, 2011, and &lt;i&gt;Obscurior&lt;/i&gt; Fibiger, 2011, resulting in 15 new combinations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Micronoctuidae; taxonomy; new subfamilies; new genera; new species; new combinations; Arabian Peninsula; South-West; South; East; and South-East Asia; Oriental; and Oceania regions</subject>
+          <subject_class locale="en_US">Micronoctuidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Fibiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-188</pages>
+        <date_published>2011-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

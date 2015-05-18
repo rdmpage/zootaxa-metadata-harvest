@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3035.1</id>
+    <title locale="en_US">20 Sep. 2011</title>
+    <volume>3035</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of Foraminifera of the Eastern Shelf of the Adriatic Sea </title>
+        <abstract locale="en_US">The updated and annotated checklist includes all literature records of foraminiferal species from the Eastern Adriatic coastal region and their geographic occurrences. A total of 599 recent (altogether 693 named and unidentified species) foraminiferal species were reported, classified into 232 genera according to the Lee &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2000) and Loeblich and Tappan (1987) classification system. In the Northern Adriatic, 536 species grouped into 211 genera are recorded, in the Central Adriatic 153 genera and 296 species are found, and in the Southern part, 272 species within 133 genera are reported. The number of lessepsian species colonizing the coasts is relatively low, implying that a) indigenous species are good competitors, and b) abiotic conditions like water temperature and substrate are unfavorable.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Foraminifera; Eastern Adriatic Sea; taxonomy; genera; species; synonyms</subject>
+          <subject_class locale="en_US">Foraminifera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vlasta</firstname>
+          <lastname>Ćosović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dušan</firstname>
+          <lastname>Zavodnik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Borčić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jelena</firstname>
+          <lastname>Vidović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sandra</firstname>
+          <lastname>Deak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alan</firstname>
+          <lastname>Moro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-56</pages>
+        <date_published>2011-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">"&lt;i&gt;Xenopus paratropicalis&lt;/i&gt;" is not a valid name </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>C.</middlename>
+          <lastname>Blackburn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <lastname>Beier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-58</pages>
+        <date_published>2011-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic position of &lt;i&gt;Dendropsophus gaucheri &lt;/i&gt;(Lescure and Marty 2000) highlights the need for an in-depth investigation of the phylogenetic relationships of &lt;i&gt;Dendropsophus &lt;/i&gt;(Anura: Hylidae) ANTOINE FOUQUET (Brazil), BRICE P. NOONAN (USA), MICHEL BLANC (Guiana) &amp; VICTOR GOYANNES DILL ORRICO (Brazil)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-67</pages>
+        <date_published>2011-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: ZHANG, B.S., ZHANG, F. &amp; CHEN, P. (2011) Species of the genus &lt;i&gt;Mallinella &lt;/i&gt;Strand, 1906 (Araneae: Zodariidae) from Hainan Island, China. &lt;i&gt;Zootaxa&lt;/i&gt;, 2986, 55–62. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2011-09-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

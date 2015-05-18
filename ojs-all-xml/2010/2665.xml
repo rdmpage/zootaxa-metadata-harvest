@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2665.1</id>
+    <title locale="en_US">3 Nov. 2010</title>
+    <volume>2665</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Tardigrades of Israel with description of four new species</title>
+        <abstract locale="en_US">Only few species of tardigrades have been recorded from Israel. In this paper we report an additional 20 species, 18 of which are new records for that geographical area; four (Bryodelphax &lt;i&gt;meronensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;dimentmani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pseudobiotus&lt;/i&gt; &lt;i&gt;hirsutellus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Mixibius&lt;/i&gt; &lt;i&gt;schnurae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; are new to science. &lt;i&gt;Bryodelphax&lt;/i&gt; &lt;i&gt;meronensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from similar species (B. &lt;i&gt;alzirae,&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;tatrensis&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;mateusi)&lt;/i&gt; in details of the cuticular ornamentation and the absence of papilla on the hind legs. It also differs from &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;alzirae&lt;/i&gt; by the presence of 12 lateral intersegmental platelets, instead of 6. It differs from &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;atlantis&lt;/i&gt; in details of the plate ornamentation, lack of eyes, and shorter internal buccal cirri. &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;dimentmani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;diffusus&lt;/i&gt; with more slender claws, the external claws slightly longer, and in characteristics of the eggs (the apical portion of the conical processes is subdivided into two to six long, flexible terminal points that are not very thin filaments; each process has a ring of basal dots, the egg shell has an obvious granulation). &lt;i&gt;Mixibius&lt;/i&gt; &lt;i&gt;schnurae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from all other known species within the genus by characteristics of the cuticular ornamentation; in addition it differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ornatus&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sutirae&lt;/i&gt; in having the stylet supports inserted on the buccal tube in a more cephalic position; and from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ninguidus&lt;/i&gt; in having longer buccal tube and shorter second placoid. &lt;i&gt;Pseudobiotus&lt;/i&gt; &lt;i&gt;hirsutellus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vladimiri&lt;/i&gt; in the presence of eye spots; cuticular spine-shaped processes present on the central portion of the body as well as the anterior and posterior portions; wider buccal tube, longer placoids; longer claws that are without accessory points; and the absence of oval papillae on the first three pairs of legs. The new species differs from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spinifer&lt;/i&gt; in having less numerous and smaller spine-shaped cuticular processes; wider buccal tube; longer placoids; and the absence of oval papilla on the first three pairs of legs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tardigrada; &lt;i&gt;Bryodelphax&lt;/i&gt; &lt;i&gt;meronensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;dimentmani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pseudobiotus&lt;/i&gt; &lt;i&gt;hirsutellus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Mixibius&lt;/i&gt; &lt;i&gt;schnurae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Tardigrada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giovanni</firstname>
+          <lastname>Pilato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <lastname>Lisi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Grazia</middlename>
+          <lastname>Binda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the identity of Monsieur Dussumier’s Dutch tortoise and the lectotype of &lt;i&gt;Testudo dussumieri &lt;/i&gt;Gray, 1831</title>
+        <abstract locale="en_US">Although it was forgotten for over a century, the binomen &lt;i&gt;Testudo&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; Gray, 1831, is an available name, and the specimen RMNH 3231 deposited in the natural history museum of Leiden – evidently one of the two original syntypes of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; – has been designated as the lectotype of this taxon. Recently several authors have actively promoted this as the name-bearing type for the Aldabra tortoise, escalating debates in which this chelonian has been immersed for nearly two decades. This lectotype designation is highly significant to nomenclatural and taxonomic disputes regarding tortoises (Testudinidae), living and extinct, from the western Indian Ocean; and an attempt has been made in this paper to compile all information relevant to the lectotype as well as to better understand the history of the binomen applied to it. Several critical aspects of the history are uncertain and open to speculation. The provenance of RMNH 3231 is unknown and unlikely to be Aldabra Atoll; the specimen was most likely collected in the granitic Seychelles, between 1823 and 1829. The combination of estimated date and locality of collection raises the possibility that the lectotype is not an Aldabra tortoise, but rather an extinct taxon from the granitic Seychelles. It is concluded that RMNH 3231 is not a suitable name-bearing type for the Aldabra tortoise, and the continued use of the name &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; will cause persistent nomenclatural and taxonomic confusion and unending debate.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aldabra tortoise; lectotype; prevailing name; Seychelles; &lt;i&gt;Testudo&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt;; &lt;i&gt;Testudo&lt;/i&gt; &lt;i&gt;elephantina&lt;/i&gt;; &lt;i&gt;Testudo&lt;/i&gt; &lt;i&gt;gigantea&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Aldabra tortoise</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <lastname>Frazier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pat</firstname>
+          <lastname>Matyot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-50</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Serpulidae (Annelida, Polychaeta) from Patton-Murray Seamounts, Gulf of Alaska, North Pacific Ocean</title>
+        <abstract locale="en_US">A collection of Serpulidae (Annelida, Polychaeta) from the Patton-Murray Seamounts, Gulf of Alaska, USA contained three species &lt;i&gt;Apomatus&lt;/i&gt; &lt;i&gt;voightae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Bathyvermilia&lt;/i&gt; &lt;i&gt;eliasoni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;Hyalopomatus&lt;/i&gt; &lt;i&gt;biformis&lt;/i&gt; (Hartman, 1960). &lt;i&gt;Apomatus&lt;/i&gt; &lt;i&gt;voightae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differed from all other &lt;i&gt;Apomatus&lt;/i&gt; spp. and from all known serpulid species by very unusual flat and ribbon-like branchial radioles as well by details of chaetal structure. &lt;i&gt;Vermiliopsis&lt;/i&gt; &lt;i&gt;eliasoni&lt;/i&gt; Zibrowius (1970) previously known from Atlantic and Mediterranean, was transferred to the genus &lt;i&gt;Bathyvermilia&lt;/i&gt; Zibrowius, 1973. &lt;i&gt;Hyalopomatus&lt;/i&gt; &lt;i&gt;biformis&lt;/i&gt; is a deep-sea species distributed in the north-eastern Pacific from Alaska to California, USA. All serpulids were described in detail and their chaetal structure elucidated with the help of scanning electron microscopy. Molecular sequence data (18S rDNA) were aligned to a recently published serpulid data set and maximum parsimony analysis was performed to examine the phylogenetic position of the species and confirm their identification. &lt;i&gt;Hyalopomatus&lt;/i&gt; &lt;i&gt;biformis&lt;/i&gt; formed a sister group with &lt;i&gt;Laminatubus&lt;/i&gt; &lt;i&gt;alvini,&lt;/i&gt; &lt;i&gt;Apomatus&lt;/i&gt; &lt;i&gt;voightae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; formed a sister group with &lt;i&gt;Apomatus&lt;/i&gt; &lt;i&gt;globifer,&lt;/i&gt; and &lt;i&gt;Bathyvermilia&lt;/i&gt; &lt;i&gt;eliasoni&lt;/i&gt; formed a weakly supported polytomy with &lt;i&gt;Chitinopoma&lt;/i&gt; &lt;i&gt;serrula,&lt;/i&gt; &lt;i&gt;Protula&lt;/i&gt; &lt;i&gt;tubularia&lt;/i&gt; and &lt;i&gt;Apomatus&lt;/i&gt; spp. We briefly discussed biogeographic affinities of the serpulids from the PattonMurray Seamounts in the light of seamount ecology and biogeography.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Apomatus&lt;/i&gt; &lt;i&gt;voightae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Bathyvermilia&lt;/i&gt; &lt;i&gt;eliasoni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Hyalopomatus&lt;/i&gt; &lt;i&gt;biformis&lt;/i&gt;; 18S rRNA; morphology; phylogenetic position</subject>
+          <subject_class locale="en_US">&lt;i&gt;Apomatus&lt;/i&gt; &lt;i&gt;voightae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Bathyvermilia&lt;/i&gt; &lt;i&gt;eliasoni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Hyalopomatus&lt;/i&gt; &lt;i&gt;biformis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <middlename>K.</middlename>
+          <lastname>Kupriyanova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eijiroh</firstname>
+          <lastname>Nishi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2010-11-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

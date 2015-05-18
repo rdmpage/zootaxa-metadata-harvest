@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3283.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3283</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the cerapachyine ant genera &lt;i&gt;Simopone &lt;/i&gt;Forel, &lt;i&gt;Vicinopone &lt;/i&gt;gen. n. and &lt;i&gt;Tanipone &lt;/i&gt;gen. n. (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">Taxonomic studies of three cerapachyine ant genera are presented: the Old World tropical &lt;i&gt;Simopone&lt;/i&gt; Forel, the Afrotropi-cal &lt;i&gt;Vicinopone&lt;/i&gt; gen. n. and the Malagasy endemic genus &lt;i&gt;Tanipone&lt;/i&gt; gen. n. &lt;i&gt;Vicinopone&lt;/i&gt; is a monotypic genus, the sole spe-cies of which (conciliatrix) was formerly included in &lt;i&gt;Simopone.&lt;/i&gt; Ten species of &lt;i&gt;Tanipone&lt;/i&gt; are recognised (aglandula,&lt;i&gt;aversa,&lt;/i&gt; &lt;i&gt;cognata,&lt;/i&gt; &lt;i&gt;hirsuta,&lt;/i&gt; &lt;i&gt;maculata,&lt;/i&gt; &lt;i&gt;pilosa,&lt;/i&gt; &lt;i&gt;scelesta,&lt;/i&gt; &lt;i&gt;subpilosa,&lt;/i&gt; &lt;i&gt;varia,&lt;/i&gt; &lt;i&gt;zona),&lt;/i&gt; all of which are newly described here. Thenumber of species of &lt;i&gt;Simopone&lt;/i&gt; is increased from 15 to 38 by the description of 9 new Afrotropical species (amana, &lt;i&gt;brun-&lt;/i&gt;&lt;i&gt;nea,&lt;/i&gt; &lt;i&gt;dryas,&lt;/i&gt; &lt;i&gt;latiscapa,&lt;/i&gt; &lt;i&gt;miniflava,&lt;/i&gt; &lt;i&gt;occulta,&lt;/i&gt; &lt;i&gt;persculpta,&lt;/i&gt; &lt;i&gt;rabula,&lt;/i&gt; &lt;i&gt;vepres),&lt;/i&gt; 13 new Madagascan species (consimilis, &lt;i&gt;dignita,&lt;/i&gt;&lt;i&gt;dux,&lt;/i&gt; &lt;i&gt;elegans,&lt;/i&gt; &lt;i&gt;fera,&lt;/i&gt; &lt;i&gt;inculta,&lt;/i&gt; &lt;i&gt;merita,&lt;/i&gt; &lt;i&gt;nonnihil,&lt;/i&gt; &lt;i&gt;rex,&lt;/i&gt; &lt;i&gt;sicaria,&lt;/i&gt; &lt;i&gt;silens,&lt;/i&gt; &lt;i&gt;trita,&lt;/i&gt; &lt;i&gt;victrix),&lt;/i&gt; and the resurrection of one name (wilburi)from synonymy. Modern diagnoses of the genera are included, together with newly designed keys to the Afrotropical and Malagasy species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Cerapachyinae; &lt;i&gt;Simopone&lt;/i&gt;; &lt;i&gt;Vicinopone&lt;/i&gt;; &lt;i&gt;Tanipone&lt;/i&gt;; Afrotropical Malagasy; diagnoses; keys to species.</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Barry</firstname>
+          <lastname>Bolton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-101</pages>
+        <date_published>2012-04-30</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2933: 1–26 20</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>19</firstname>
+          <middlename>References Accepted: 19 May</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2933.1</id>
+    <title locale="en_US">29 Jun. 2011</title>
+    <volume>2933</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Examination of the molecular relationships of sand frogs (Anura: Pyxicephalidae: &lt;i&gt;Tomopterna&lt;/i&gt;) and resurrection of two species from the Horn of Africa</title>
+        <abstract locale="en_US">&lt;i&gt;Tomopterna&lt;/i&gt; &lt;i&gt;kachowskii&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; from Ethiopia and Somalia, both currently synonyms of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cryptotis,&lt;/i&gt; are resurrected based on morphological and molecular data. &lt;i&gt;Tomopterna&lt;/i&gt; &lt;i&gt;hieroglyphica&lt;/i&gt; is determined to be conspecific with &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;kachowskii,&lt;/i&gt; with the latter taking precedence. Analysis of mitochondrial 12S rRNA, t-valine, 16S rRNA data reveals that these species differ from each other by 7.7%, differ from other described species of the genus by at least 3.0% and are only distantly related to &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cryptotis.&lt;/i&gt; A phylogeny of the genus is constructed, and the relationships among species are discussed. Discriminant function analysis was completed using 25 morphological measurements to determine if the seven clades identified in molecular analyses have concordant morphological difference. Translations of the original descriptions are provided, and a detailed redescription of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; is included as the original description was made with only juvenile specimens. &lt;i&gt;Tomopterna&lt;/i&gt; &lt;i&gt;kachowskii&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; are distinguished from other species of sand frogs by their visible tympana, presence of an outer metatarsal tubercle and moderate pedal webbing. Slightly more extensive webbing and variable presence of a discontinuous row of small glands beneath the tympanum distinguishes &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;kachowskii.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Ethiopia; Somalia; systematics; taxonomy</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Breda</firstname>
+          <middlename>M.</middlename>
+          <lastname>Zimkus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joanna</firstname>
+          <middlename>G.</middlename>
+          <lastname>Larson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-45</pages>
+        <date_published>2011-06-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Barcoding without DNA? Species identification using near infrared spectroscopy</title>
+        <abstract locale="en_US">Hennig's holomorphology concept defines taxonomy as a process that synthesizes evidence from all relevant comparative sources. One possible source is metabolomics, in which the global metabolic profile is analyzed. An integral metabolic profile can be quickly obtained, nondestructively, through spectroscopy in the near infrared region. Here we use near infrared spectroscopy and chemometry to identify nine species of flies in the genus &lt;i&gt;Neodexiopsis&lt;/i&gt; Malloch (Muscidae, Diptera). This genus is the most species-rich of the Muscoidea in the Neotropical region. Identification success demonstrates that near infrared spectroscopy may provide a new source of data to test and organize hypotheses of species delimitation. Comparing near infrared spectroscopy with DNA barcoding, spectroscopy may have even greater conceptual merit as a true barcode of life.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">metabolomics; &lt;i&gt;Neodexiopsis&lt;/i&gt;; DNA barcoding; near infrared spectroscopy</subject>
+          <subject_class locale="en_US">metabolomics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jaime</firstname>
+          <middlename>I.</middlename>
+          <lastname>Rodríguez-Fernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <middlename>J. B.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celio</firstname>
+          <lastname>Pasquini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kássio</firstname>
+          <middlename>Michell Gomes</middlename>
+          <lastname>De Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauricio</firstname>
+          <middlename>O.</middlename>
+          <lastname>Moura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gregorio</firstname>
+          <middlename>G. Carbajal</middlename>
+          <lastname>Arízaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-54</pages>
+        <date_published>2011-06-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">It’s barcoding Jim, but not as we know it</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cruickshank</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lars</firstname>
+          <lastname>Munck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-56</pages>
+        <date_published>2011-06-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cyber nomenclaturalists and the “CESA itch”</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>E.</middlename>
+          <lastname>O’Hara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-64</pages>
+        <date_published>2011-06-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Validating the occurrence of Caribbean reef sharks, &lt;i&gt;Carcharhinus perezi &lt;/i&gt;(Poey), (Chondrichthyes: Carcharhiniformes) in the northern Gulf of Mexico, with a key for sharks of the family Carcharhinidae inhabiting the region</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>B.</middlename>
+          <lastname>Driggers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eric</firstname>
+          <middlename>R.</middlename>
+          <lastname>Hoffmayer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Emma</firstname>
+          <middlename>L.</middlename>
+          <lastname>Hickerson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Timothy</firstname>
+          <middlename>L.</middlename>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christopher</firstname>
+          <middlename>T.</middlename>
+          <lastname>Gledhill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-06-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

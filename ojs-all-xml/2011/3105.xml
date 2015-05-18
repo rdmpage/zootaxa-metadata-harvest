@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3105.1</id>
+    <title locale="en_US">22 Nov. 2011</title>
+    <volume>3105</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-11-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the species of &lt;i&gt;Lithostege &lt;/i&gt;Hübner, [1825] 1816 (Lepidoptera: Geometridae, Larentiinae), occurring in Iran and adjacent countries, with description of two new species from Iran and Pakistan</title>
+        <abstract locale="en_US">The Iranian species of &lt;i&gt;Lithostege&lt;/i&gt; are reviewed and additional species from neighbouring countries (which are also likely to occur in Iran), as a whole twenty-eight taxa, are studied. Adults of all species and male and/or female genitalia for most species are figured. Two new species are described: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;samandooki&lt;/i&gt; Rajaei &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Iran and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;hreblayi&lt;/i&gt; Rajaei &amp; Viidalepp &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Pakistan. &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;repeteki&lt;/i&gt; Tsvetajev and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;griseata&lt;/i&gt; &lt;i&gt;gigantea&lt;/i&gt; Bytinski-Salz &amp; Brandt are synonymized with &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;obliquata&lt;/i&gt; Urbahn and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;griseata&lt;/i&gt; &lt;i&gt;griseata&lt;/i&gt; (Denis &amp; Schiffermüller), respectively. &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;amseli&lt;/i&gt; Wiltshire is discussed as a possible synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;amoenata&lt;/i&gt; Christoph. &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;flavicornata&lt;/i&gt; (Zeller) is upgraded to species-rank again. Distribution areas of all species discussed are shown by maps. Literature data concerning faunistics, ecology, and biological data are reviewed. Female genitalia of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;obliquata&lt;/i&gt; Urbahn, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;turkmenica&lt;/i&gt; Tsvetajev, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;luminosata&lt;/i&gt; Christoph, are figured and their morphological characters compared with other taxa for the first time. A check list is presented and a preliminary grouping of species treated is proposed, based largely on morphological characters of the genitalia. It does not necessarily reflect a natural relationship of the species included, but may provide a first structure to the genus, as a basis for future studies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Iran; Larentiinae; &lt;i&gt;Lithostege&lt;/i&gt;; new species; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;hreblayi&lt;/i&gt;; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;samandooki&lt;/i&gt;; taxonomy; morphology; new synonyms; check list; preliminary species groups.</subject>
+          <subject_class locale="en_US">Iran</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hossein</firstname>
+          <middlename>Rajaei</middlename>
+          <lastname>Sh.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Stüning</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jaan</firstname>
+          <lastname>Viidalepp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-46</pages>
+        <date_published>2011-11-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New &lt;i&gt;Amphibolips &lt;/i&gt;gallwasp species from Mexico (Hymenoptera: Cynipidae)</title>
+        <abstract locale="en_US">Two new species of oak gallwasp, &lt;i&gt;Amphibolips&lt;/i&gt; &lt;i&gt;zacatecaensis&lt;/i&gt; Melika &amp; Pujade-Villar and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hidalgoensis&lt;/i&gt; Pujade-Villar &amp; Melika, are described from Mexico, known to induce galls on &lt;i&gt;Quercus&lt;/i&gt; &lt;i&gt;eduardi,&lt;/i&gt; &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;crassipes,&lt;/i&gt; &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;candicans&lt;/i&gt; and &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;crassifolia&lt;/i&gt; (section Lobatae, red oaks). Only females are known. Data on the diagnosis, distribution and biology of the new species are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; &lt;i&gt;Quercus&lt;/i&gt;; oak gallwasp; taxonomy; morphology; distribution; biology</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Melika</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Equihua-Martínez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <middlename>G.</middlename>
+          <lastname>Estrada-Venegas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Cibrián-Tovar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Cibrián-Llanderal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Pujade-Villar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-59</pages>
+        <date_published>2011-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Discophorellus &lt;/i&gt;Tsaur &amp; Hsu (Hemiptera: Fulgoromorpha: Cixiidae: Cixiini) from Guizhou Province, China</title>
+        <abstract locale="en_US">Two new species of the Oriental cixiid planthopper genus &lt;i&gt;Discophorellus&lt;/i&gt; Tsaur &amp; Hsu, 1991 (Hemiptera: Fulgoromorpha: Cixiidae: Cixiini), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cehengensis&lt;/i&gt; Zhang &amp; Chen &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;transspinus&lt;/i&gt; Zhang &amp; Chen &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Guizhou Province, southwestern China, are described and illustrated. The generic characteristics are redefined. A key to the three known species of this genus in the world is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cixiid; Fulgoroidea; Oriental region; planthopper; taxonomy</subject>
+          <subject_class locale="en_US">Cixiid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pei</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiang-Sheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-11-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

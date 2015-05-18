@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3470.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3470</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;Comparative analysis and taxonomic use of the morphology of immature stages and natural history traits in European species of&lt;i&gt; Pyrgus&lt;/i&gt; Hübner (Lepidoptera: Hesperiidae, Pyrginae)&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US">The biology and ecology of the European species of the genus &lt;i&gt;Pyrgus&lt;/i&gt; Hübner are revised and novel records on theirfoodplants, parasitoids and immature stages are provided. The DNA barcoding technique was used in some cases for theidentification of eggs or larvae, showing the effective use of this tool for a species level characterization within the genus.We thoroughly describe morphological details from the eggs, last instar larvae and pupae using scanning electronmicroscope images. With the studied morphological and ecological characters we performed a cladistic analysis whoseresults are highly coincident with classifications based on adult morphology. Therefore, the characters of immature stagesprove to be valuable for the taxonomical study of the genus. Our results point out the possibility of combining the studiedcharacters, not only among them, but also with other datasets (adult morphology, molecular characters) in order to infer phylogenetic relationships within the genus &lt;i&gt;Pyrgus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Hesperiidae; &lt;i&gt;Pyrgus&lt;/i&gt;; cladistic analysis; immature stages; morphology; parasitoids; foodplants; taxonomy; Europe</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>L.</middlename>
+          <lastname>Hernández-Roldán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Munguira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Wagner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <lastname>Vila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-71</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

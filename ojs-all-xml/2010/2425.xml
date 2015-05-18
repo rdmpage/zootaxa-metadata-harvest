@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2425.1</id>
+    <title locale="en_US">13 Apr. 2010</title>
+    <volume>2425</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-04-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the Australian Eucarpiini (Hemiptera: Fulgoromorpha: Cixiidae) with the description of nine new species</title>
+        <abstract locale="en_US">The Australian planthopper tribe Eucarpiini is revised taxonomically. Five genera are recognised in the Australia fauna: &lt;i&gt;Bajauana&lt;/i&gt; Distant 1907, &lt;i&gt;Dilacreon&lt;/i&gt; Fennah, 1980, &lt;i&gt;Kirbyana&lt;/i&gt; Distant, 1906, &lt;i&gt;Neocarpia&lt;/i&gt; Tsaur &amp; Hsu, 2003 and &lt;i&gt;Nesochlamys&lt;/i&gt; Kirkaldy, 1907. Except for &lt;i&gt;Bajauana&lt;/i&gt; all of these represent new records for Australia. &lt;i&gt;Eucarpia&lt;/i&gt; Walker, 1857 is declared absent from Australia. Twelve species, nine of which are new, are recognised in the Australian fauna: &lt;i&gt;Bajauana&lt;/i&gt; &lt;i&gt;acuminata,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Dilacreon&lt;/i&gt; &lt;i&gt;akethe,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ispi,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Neocarpia&lt;/i&gt; &lt;i&gt;rhizophorae,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Nesochlamys&lt;/i&gt; &lt;i&gt;capensis,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;contrarius,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;jubatus,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;pandikros,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;yiralli,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Except for &lt;i&gt;Bajauana&lt;/i&gt; &lt;i&gt;austrina&lt;/i&gt; (Kirkaldy, 1907) and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;(D.)&lt;/i&gt; &lt;i&gt;granulinervis,&lt;/i&gt; all species are endemic to Australia. Lectotypes are designated for &lt;i&gt;Australoma&lt;/i&gt; &lt;i&gt;austrina&lt;/i&gt; Kirkaldy, 1907, &lt;i&gt;Ptoleria&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; Muir, 1913 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;granulinervis&lt;/i&gt; Muir, 1913. New combinations proposed are: &lt;i&gt;Dilacreon&lt;/i&gt; &lt;i&gt;(Dilacreon)&lt;/i&gt; &lt;i&gt;granulinervis&lt;/i&gt; (Muir, 1913) comb. nov. (from &lt;i&gt;Eucarpia),&lt;/i&gt; &lt;i&gt;Kirbyana&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; (Muir, 1913) comb. nov. (from &lt;i&gt;Eucarpia)&lt;/i&gt; and &lt;i&gt;Leptolamia&lt;/i&gt; &lt;i&gt;praetextata&lt;/i&gt; comb. nov. (from &lt;i&gt;Bajauana,&lt;/i&gt; transfer from Eucarpiini to Cixiini). All Australian species of Eucarpiini are described and illustrated and identification keys to genera and species are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; planthopper; morphology; distribution; identification</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Birgit</firstname>
+          <lastname>Löcker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Murray</firstname>
+          <middlename>J.</middlename>
+          <lastname>Fletcher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Geoff</firstname>
+          <middlename>M.</middlename>
+          <lastname>Gur</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2010-04-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and records of &lt;i&gt;Anastrepha &lt;/i&gt;Schiner (Diptera: Tephritidae) from Colombia</title>
+        <abstract locale="en_US">&lt;i&gt;Anastrepha&lt;/i&gt; is the most diverse and economically important genus of Tephritidae in the American tropics and many species remain undescribed. Three new species &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;acuminata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;carreroi&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sinuosa&lt;/i&gt; collected from Colombia are described in this paper and six species: &lt;i&gt;A.isolata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;perdita,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sororcula,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;montei,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;panamensis&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lanceola&lt;/i&gt; are reported from Colombia for the first time. The Colombian species of &lt;i&gt;Anastrepha&lt;/i&gt; are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Tephritidae; fruit flies; taxonomy; &lt;i&gt;Anastrepha&lt;/i&gt;; Colombia</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nelson</firstname>
+          <middlename>A.</middlename>
+          <lastname>Canal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-44</pages>
+        <date_published>2010-04-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Lauromacromia &lt;/i&gt;(Odonata: Corduliidae) from Southeastern Brazil, with a cladistic analysis of the genus and comments on Neotropical dragonfly biogeography</title>
+        <abstract locale="en_US">&lt;i&gt;Lauromacromia&lt;/i&gt; &lt;i&gt;melanica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Conceição da Barra municipality, Espírito Santo State, Brazil, is described and illustrated based on two males (both in MNRJ nº 135). The new species is similar to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;picinguaba&lt;/i&gt; differing from it mainly by the absence of pale spots on S3–6 and by the ellipsoid shape of metepisternal pale stripe. A key for males of all species of the genus is provided. A cladistic analysis encompassing 43 external morphological male characters carried out in two distinct procedures, the first with all characters unordered and the second with two or three state characters ordered. The unordered analysis generated only one most-parsimonious tree (66 steps of length, CI = 0.69, RI = 0.62). The hypothesis of monophyly of &lt;i&gt;Lauromacromia&lt;/i&gt; is supported and includes three groups, one formed by the Atlantic Forest species (L. &lt;i&gt;melanica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; + &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;picinguaba),&lt;/i&gt; and another by the Cerrado species (L. &lt;i&gt;flaviae&lt;/i&gt; + (L. &lt;i&gt;bedei&lt;/i&gt; + &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;luismoojeni)),&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dubitalis,&lt;/i&gt; positioned in polytomy with these two groups. The ordered analysis also generated only one most-parsimonious tree (68 steps of length, CI = 0.70, RI = 0.67), which maintained the monophyly of &lt;i&gt;Lauromacromia&lt;/i&gt; but &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dubitalis&lt;/i&gt; positioned basally as sister-group to the Atlantic Forest + Cerrado species groups. The geographic distribution of &lt;i&gt;Lauromacromia&lt;/i&gt; is updated with a new record of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;luismoojeni&lt;/i&gt; based on one adult male (Brazil: Mato Grosso do Sul State) and probable first Brazilian records for &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dubitalis&lt;/i&gt; (Amazonas and Pará States) based on two larvae. A vicariance hypothesis is proposed to explain spatial evolution of &lt;i&gt;Lauromacromia,&lt;/i&gt; and based on current biogeographical classifications we consider &lt;i&gt;Gomphomacromia&lt;/i&gt; and &lt;i&gt;Rialla&lt;/i&gt; apart from Neotropical biota. Some aspects of biology and ecology of &lt;i&gt;Lauromacromia&lt;/i&gt; are also discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic Forest; Gomphomacromiinae; &lt;i&gt;Lauromacromia&lt;/i&gt; &lt;i&gt;melanica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; morphology; phylogeny; taxonomy</subject>
+          <subject_class locale="en_US">Atlantic Forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ângelo</firstname>
+          <middlename>Parise</middlename>
+          <lastname>Pinto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alcimar</firstname>
+          <middlename>Do Lago</middlename>
+          <lastname>Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-68</pages>
+        <date_published>2010-04-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

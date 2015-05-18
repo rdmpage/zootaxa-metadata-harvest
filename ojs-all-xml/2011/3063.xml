@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">JOHN P. FRIEL &amp; THOMAS R. VIGLIOTTA (USA) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3063.1</id>
+    <title locale="en_US">20 Oct. 2011</title>
+    <volume>3063</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the genus &lt;i&gt;Eulimella &lt;/i&gt;(Gastropoda, Pyramidellidae) from Brazil, with description of three new species</title>
+        <abstract locale="en_US">A taxonomic revision of the pyramidellid genus &lt;i&gt;Eulimella&lt;/i&gt; from Brazil was performed based on shell morphology. The holotype of &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;rudis&lt;/i&gt; Watson, 1886 is illustrated and compared to shells from the southeast Brazilian coast, this being the first confirmed record of this species after its original description. &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;smithii&lt;/i&gt; (Verrill, 1880), previously known from northern localities in the western Atlantic, is recorded from the southwestern Atlantic, along virtually the entire Brazilian coast; it is herein considered a distinct taxon from &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;unifasciata&lt;/i&gt; (Forbes, 1844), a very similar species from the eastern Atlantic, given the lack of data on development to consider an amphi-Atlantic distribution. Three new species are described: &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;torquata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; diagnosed by a constriction in the middle of each teleoconch whorl caused by a strong spiral furrow, producing a bilobed whorl profile; &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;cylindrata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; diagnosed by a large subcylindrical teleoconch; and &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;ejuncida&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; characterized by its very slender shell, and small protoconch with only one whorl and with an “arc” shaped suture. The shells herein identified as &lt;i&gt;Eulimella&lt;/i&gt; cf. &lt;i&gt;calva&lt;/i&gt; from Brazil are conchologically identical to &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;calva&lt;/i&gt; Schander, 1994, from West Africa, but their taxonomic status should remain dubious because of lack of biological information to evaluate a possible amphi-Atlantic distribution pattern. All the species studied (except &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;ejuncida&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; have characteristic short microscopic axial threads organized in a spiral belt, varying in position and expression among species, but usually located in the middle of each teleoconch whorl or below the suture; this characteristic is also present in some species from the eastern Atlantic. Three South American species, originally or subsequently allocated in &lt;i&gt;Eulimella,&lt;/i&gt; are herein considered as not belonging to this genus: &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;argentina&lt;/i&gt; Doello-Jurado, 1938; &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;bahiensis&lt;/i&gt; Castellanos, 1982; and &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;xenohyes&lt;/i&gt; (Melvill &amp; Standen, 1912). The holotype of &lt;i&gt;Eulimella&lt;/i&gt; &lt;i&gt;lissa&lt;/i&gt; is illustrated with SEM micrographs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Western Atlantic; South America; taxonomic revision; Pyramidelloidea; Mollusca</subject>
+          <subject_class locale="en_US">Western Atlantic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandre</firstname>
+          <middlename>Dias</middlename>
+          <lastname>Pimenta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Franklin</firstname>
+          <middlename>Noel Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Absalão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-38</pages>
+        <date_published>2011-10-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new striking dendrobatid frog (Dendrobatidae: Aromobatinae, &lt;i&gt;Aromobates&lt;/i&gt;) from the Venezuelan Andes</title>
+        <abstract locale="en_US">A new striking cloud frog of the genus &lt;i&gt;Aromobates&lt;/i&gt; is described from the northwestern portion of the Cordillera de Merida in Venezuela. The new species is unique in several aspects, and its inclusion in &lt;i&gt;Aromobates&lt;/i&gt; is supported by molecular analyses. This &lt;i&gt;Aromobates&lt;/i&gt; is characterized by the presence of dark dorsolateral stripes, absence of pale dorsolateral, oblique lateral and ventrolateral stripes. Furthermore, it is the only non-aposematic &lt;i&gt;Aromobates&lt;/i&gt; having dark to emerald green in life on dorsal surfaces and a highly ornamented pattern at both dorsal and ventral sides. This species is known from a single population in Carache (Trujillo State, Venezuela). Its population, although limited apparently to a small area, seems relatively abundant at the type locality and surroundings.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aromobates&lt;/i&gt;; Dendrobatidae; Venezuela; Trujillo</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aromobates&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>César</firstname>
+          <middlename>L.</middlename>
+          <lastname>Barrio-Amorós</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ramón</firstname>
+          <lastname>Rivero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>C.</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-52</pages>
+        <date_published>2011-10-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new freshwater species of &lt;i&gt;Neorhynchoplax &lt;/i&gt;Sakai, 1938 (Crustacea: Decapoda: Hymenosomatidae) from Patna, Bihar, India</title>
+        <abstract locale="en_US">A new species of hymenosomatid freshwater crab, &lt;i&gt;Neorhynchoplax&lt;/i&gt; Sakai, 1938, is described from Patna, Bihar, northern India. The species resembles the Indian &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;woodmasoni&lt;/i&gt; (Alcock, 1895) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;alcocki&lt;/i&gt; Kemp, 1917, but differs in the form of the carapace, armature on the cheliped merus, number of spines on the dactylus of the ambulatory legs, and structure of the male abdomen.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Brachyura; Hymenosomatidae; &lt;i&gt;Neorhynchoplax&lt;/i&gt;; fresh water; new species; India</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hasko</firstname>
+          <middlename>F.</middlename>
+          <lastname>Nesemann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gopal</firstname>
+          <lastname>Sharma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-63</pages>
+        <date_published>2011-10-20</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">ANALÍA R. DÍAZ &amp; ESTELA C. LOPRETTO (Argentina) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

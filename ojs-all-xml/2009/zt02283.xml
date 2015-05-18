@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2283.1</id>
+    <title locale="en_US">6 Nov. 2009</title>
+    <volume>2283</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-11-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The rare Andean pitviper &lt;i&gt;Rhinocerophis jonathani &lt;/i&gt;(Serpentes: Viperidae: Crotalinae): redescription with comments on its systematics and biogeography</title>
+        <abstract locale="en_US">&lt;i&gt;Rhinocerophis&lt;/i&gt; &lt;i&gt;jonathani&lt;/i&gt; is one of the few species of the Neotropical pitvipers that inhabit xeric areas at elevations above 2000 m in the Andes. We redescribe the species based on new specimens found in southern Bolivia and northwestern Argentina and provide new data on lepidosis, coloration, hemipenial morphology and the first description of cranial osteology. &lt;i&gt;Rhinocerophis&lt;/i&gt; &lt;i&gt;jonathani&lt;/i&gt; exhibits a suite of unusual features that are of systematic value within bothropoid genera. We compare the species with the phenotypically similar &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;alternatus&lt;/i&gt; and the probably sympatric &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ammodytoides&lt;/i&gt; to address phylogenetic affinities. The new localities for &lt;i&gt;Rhinocerophis&lt;/i&gt; &lt;i&gt;jonathani&lt;/i&gt; extend the known range of the species southwards, provide data on its habitat and are the first records of its presence in Argentina. This pitviper occurs in a tropical-subtropical transition area in the Southern Andes and is likely to be derived from the Chacoan fauna.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Rhinocerophis&lt;/i&gt; &lt;i&gt;jonathani&lt;/i&gt;; lepidosis; hemipenial morphology; cranial osteology; distribution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Rhinocerophis&lt;/i&gt; &lt;i&gt;jonathani&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paola</firstname>
+          <middlename>A.</middlename>
+          <lastname>Carrasco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>B.</middlename>
+          <lastname>Harvey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arturo</firstname>
+          <middlename>Muñoz</middlename>
+          <lastname>Saravia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-15</pages>
+        <date_published>2009-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Tachysurus spilotus&lt;/i&gt;, a new species of catfish from central Vietnam (Teleostei: Bagridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Tachysurus&lt;/i&gt; &lt;i&gt;spilotus,&lt;/i&gt; a new species of catfish from central Vietnam, is described. It can be distinguished from congeners except &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;argentivittatus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;longispinalis,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;virgatus&lt;/i&gt; in having a color pattern consisting of black longitudinal stripes on a pale body (vs. with a uniform-colored body with pale patches or transverse bands on a dark body, or with dark rectangular patches on a pale body). It differs from both &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;argentivittatus&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;virgatus&lt;/i&gt; in snout shape and having gently convex (vs. straight) posterior edges of the caudal-fin lobes; and from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;longispinalis&lt;/i&gt; in having a shorter dorsalfin spine (ca. 27% SL vs. 15.1–19.0) and maxillary barbels (shorter, vs. longer than head). &lt;i&gt;Tachysurus&lt;/i&gt; &lt;i&gt;mica&lt;/i&gt; is shown here to be conspecific with—and a junior synonym of—T. &lt;i&gt;argentivittatus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Siluriformes; &lt;i&gt;Tachysurus&lt;/i&gt; &lt;i&gt;argentivittatus&lt;/i&gt;; &lt;i&gt;Pseudobagrus&lt;/i&gt;; &lt;i&gt;Pelteobagrus&lt;/i&gt;; Annam Cordillera</subject>
+          <subject_class locale="en_US">Siluriformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>16-28</pages>
+        <date_published>2009-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Syngraph: An application for graphic display and interactive use of synonym lists</title>
+        <abstract locale="en_US">Multiple names that refer to a single species (synonyms) and more than one species being referred to by the same name (homonyms) bedevil taxonomy. They produce ambiguity about the entity under discussion. Syngraph is a computer application that organizes information about synonyms and homonyms. It can track different names that potentially have been applied to the same species, or identical names that have been applied to different species. It can create a list of synonyms in conventional format for use in publication, as for a taxonomic monograph. It can also display and print names so they are linked, thereby providing information on the conceptual basis of a name and the action taken in a publication. In the display, each name is imposed on a color-coded rectangle; all names on rectangles of the same color refer to records that stem from a single description. This allows quick visualization of the taxonomic history. When linked to a geographical information system application, the color can be used for points plotted on a map that displays the geographical locality of specimens referred to in each record. This visualization of the geographic distribution of the nominal species can provide tests of the hypothesis that the names are, indeed, synonyms. Syngraph is available for download; help files accompany the executable files.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">synonymy; homonymy; chresonymy</subject>
+          <subject_class locale="en_US">synonymy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adorian</firstname>
+          <lastname>Ardelean</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karina</firstname>
+          <lastname>Kervin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Suman</firstname>
+          <lastname>Kansakar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daphne</firstname>
+          <middlename>Gail</middlename>
+          <lastname>Fautin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-39</pages>
+        <date_published>2009-11-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Tanzanapseudes &lt;/i&gt;Băcescu, 1975 (Tanaidacea: Apseudomorpha: Tanzanapseudidae) from mid-west Australia</title>
+        <abstract locale="en_US">Two new species of the apseudomorphan tanaidacean genus &lt;i&gt;Tanzanapseudes&lt;/i&gt; are described from coral reefs of Western Australia. This genus belongs to the monogeneric family Tanzanapseudidae, which is recorded here for the first time from Australia. &lt;i&gt;Tanzanapseudes&lt;/i&gt; &lt;i&gt;nieli&lt;/i&gt; n. sp. differs from the other members of the genus by a specific pattern of minute spines and setae on pereonites, and by a combination of two other characters: a pleotelson distal process with a smooth outer margin and a short and spinose first article in the antennule. &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;levis&lt;/i&gt; n. sp. has the anterolateral processes on its carapace and distal processes on its pleotelson uniquely smooth. A key for identification of &lt;i&gt;Tanzanapseudes&lt;/i&gt; species and an amended diagnosis are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tanaidacea; Apseudomorpha; Tanzanapseudidae; &lt;i&gt;Tanzanapseudes&lt;/i&gt;; Ningaloo; coral reef; CReefs</subject>
+          <subject_class locale="en_US">Tanaidacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anna</firstname>
+          <lastname>Stępień</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Magdalena</firstname>
+          <lastname>Błażewicz-Paszkowycz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-50</pages>
+        <date_published>2009-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First records of Pseudocerotidae (Platyhelminthes: Polycladida: Cotylea) from Patagonia, Argentina</title>
+        <abstract locale="en_US">In this work we record two species belonging to the polyclad family Pseudocerotidae from the littoral zone of the Península Valdés (Patagonia, Argentina). This is the first record of members of Cotylea and the third of Polycladida from Argentina. The two new records are &lt;i&gt;Phrikoceros&lt;/i&gt; &lt;i&gt;mopsus,&lt;/i&gt; a species described for Brazil and Colombia and &lt;i&gt;Thysanozoon&lt;/i&gt; &lt;i&gt;brocchii,&lt;/i&gt; a cosmopolitan species. Morphological features of both species are presented. These two new records contribute to the knowledge of polyclads from Patagonia and to the general understanding of their biogeography in the Southwest Atlantic Ocean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Turbellaria; &lt;i&gt;Phrikoceros&lt;/i&gt;; &lt;i&gt;Thysanozoon&lt;/i&gt;; Península Valdés</subject>
+          <subject_class locale="en_US">Turbellaria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <lastname>Brusa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristina</firstname>
+          <lastname>Damborenea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sigmer</firstname>
+          <lastname>Quiroga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2009-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Sason &lt;/i&gt;(Araneae: Barychelidae) from Rameshwaram Island, Tamil Nadu, India</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Sason,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;rameshwaram&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; of the Brush-footed trapdoor spider family Barychelidae is described from Rameshwaram Island, Tamil Nadu, India. Nest structure and habitat are documented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New description; taxonomy; &lt;i&gt;Sason&lt;/i&gt;; Brush-footed trapdoor spider</subject>
+          <subject_class locale="en_US">New description</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Manju</firstname>
+          <lastname>Siliwal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sanjay</firstname>
+          <lastname>Molur</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2009-11-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

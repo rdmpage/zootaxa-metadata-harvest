@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2101.1</id>
+    <title locale="en_US">11 May. 2009</title>
+    <volume>2101</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision and biogeography of the &lt;i&gt;Tamarix&lt;/i&gt;-feeding &lt;i&gt;Diorhabda elongata &lt;/i&gt;(Brullé, 1832) species group (Coleoptera: Chrysomelidae: Galerucinae: Galerucini) and analysis of their potential in biological control of Tamarisk</title>
+        <abstract locale="en_US">The primarily Palearctic &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; species group is established for five &lt;i&gt;Tamarix-feeding&lt;/i&gt; sibling species(tamarisk beetles): &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; (Brullé, 1832), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; (Faldermann, 1837), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sublineata&lt;/i&gt; (Lucas, 1849) REVISEDSTATUS, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinulata&lt;/i&gt; (Desbrochers, 1870), and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; Berti &amp; Rapilly, 1973 NEW STATUS. &lt;i&gt;Diorhabda&lt;/i&gt;&lt;i&gt;koltzei&lt;/i&gt; ab. &lt;i&gt;basicornis&lt;/i&gt; Laboissière, 1935 and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;e.&lt;/i&gt; &lt;i&gt;deserticola&lt;/i&gt; Chen, 1961 are synonymized under &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinulata&lt;/i&gt; NEWSYNONYMY. Illustrated keys utilize genitalia, including male endophallic sclerites and female vaginal palpi andinternal sternite VIII. Distribution, comparative biogeography, biology, and potential in biological control of &lt;i&gt;Tamarix&lt;/i&gt; inNorth America are reviewed. &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; is circummediterranean, favoring Mediterranean and temperate forestsof Italy to western Turkey. &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; resides in warm temperate grasslands, deserts, and forests of southernUkraine south to Iraq and east to western China. &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;sublineata&lt;/i&gt; occupies Mediterranean woodlands from Franceto North Africa and subtropical deserts east to Iraq. &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;carinulata&lt;/i&gt; primarily inhabits cold temperate deserts ofMongolia and China west to Russia and south to montane grasslands and warm deserts in southern Iran. &lt;i&gt;Diorhabda&lt;/i&gt;&lt;i&gt;meridionalis&lt;/i&gt; primarily occupies maritime subtropical deserts of southern Pakistan and Iran to Syria. Northern climatypesof &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinulata&lt;/i&gt; are effective in &lt;i&gt;Tamarix&lt;/i&gt; biological control, especially in the Great Basin desert. &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; isprobably best suited to Mediterranean woodlands of northern California. Northern climatypes of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; may be bestsuited for central U.S. grasslands. &lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;sublineata,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;meridionalis,&lt;/i&gt; and southern climatypes of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carinulata&lt;/i&gt; may each be uniquely suited to areas of the southwestern U.S.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; species group; Chrysomelidae; Taxonomy; Comparative Biogeography; Biology; Host</subject>
+          <subject_class locale="en_US">&lt;i&gt;Diorhabda&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; species group; Chrysomelidae; Taxonomy; Comparative Biogeography; Biology; Host</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>L.</middlename>
+          <lastname>Tracy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>O.</middlename>
+          <lastname>Robbins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-152</pages>
+        <date_published>2009-05-11</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

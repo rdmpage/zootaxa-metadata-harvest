@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2057.1</id>
+    <title locale="en_US">30 Mar. 2009</title>
+    <volume>2057</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Anoplocephaloides &lt;/i&gt;Baer, 1923 &lt;i&gt;sensu &lt;/i&gt;Rausch (1976), with the description of four new genera (Cestoda: Anoplocephalidae)</title>
+        <abstract locale="en_US">The present study reviews the generic classification of all species assigned to &lt;i&gt;Anoplocephaloides&lt;/i&gt; Baer, 1923 &lt;i&gt;sensu&lt;/i&gt; Rausch (1976) (Cestoda: Anoplocephalidae) and related taxa, and proposes four new genera of anoplocephaline cestodes: &lt;i&gt;Genovia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.&lt;/b&gt; for &lt;i&gt;Anoplocephaloides&lt;/i&gt; &lt;i&gt;wimerosa&lt;/i&gt; (Moniez, 1880), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pseudowimerosa&lt;/i&gt; Tenora, Murai, Valero &amp; Cutillas, 1982 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;floresbarroetae&lt;/i&gt; Rausch, 1976, &lt;i&gt;Sciurotaenia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.&lt;/b&gt; for &lt;i&gt;Anoplocephaloides&lt;/i&gt; &lt;i&gt;transversaria&lt;/i&gt; (Krabbe, 1879) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;wigginsi&lt;/i&gt; (Rausch, 1954), &lt;i&gt;Parasciurotaenia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.&lt;/b&gt; for &lt;i&gt;Anoplocephaloides&lt;/i&gt; &lt;i&gt;ryjikovi&lt;/i&gt; (Spasskii, 1950), and &lt;i&gt;Equinia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.&lt;/b&gt; for &lt;i&gt;Anoplocephaloides&lt;/i&gt; &lt;i&gt;mamillana&lt;/i&gt; (Mehlis in Gurlt, 1831). The other new combinations are &lt;i&gt;Microcephaloides&lt;/i&gt; &lt;i&gt;neofibrinus&lt;/i&gt; (Rausch, 1952), &lt;i&gt;Microcephaloides&lt;/i&gt; &lt;i&gt;mascomai&lt;/i&gt; (Murai, Tenora &amp; Rocamora, 1980) and &lt;i&gt;Microcephaloides&lt;/i&gt; &lt;i&gt;nevoi&lt;/i&gt; (Fair, Schmidt &amp; Wertheim, 1990). In this revision, the emphasis is on morphological features that are shown to differ predictably between the monophyletic groups in the “arvicoline clade” of cestodes (i. e. among &lt;i&gt;Anoplocephaloides&lt;/i&gt; s. str., &lt;i&gt;Microcephaloides&lt;/i&gt; Haukisalmi, Hardman, Hardman, Rausch &amp; Henttonen, 2008, &lt;i&gt;Paranoplocephala&lt;/i&gt; Lühe, 1910 s. str. and &lt;i&gt;Diandrya&lt;/i&gt; &lt;i&gt;composita&lt;/i&gt; Darrah, 1930) and the phylogenetically related, basal &lt;i&gt;Andrya&lt;/i&gt; &lt;i&gt;rhopalocephala&lt;/i&gt; (Riehm, 1881), &lt;i&gt;Neandrya&lt;/i&gt; &lt;i&gt;cuniculi&lt;/i&gt; (Blanchard, 1891) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mamillana.&lt;/i&gt; These characters are the various external features, alternation of the genital pores, prominence of the genital atrium (=presence/absence of a genital papilla), and the structure and position of the uterus. Additional distinguishing features include the number and distribution of the testes (antiporal vs. poral+antiporal), length and shape of the cirrus sac, presence/absence of the retractor muscle of the cirrus sac, size and shape of the ovary and length of the vagina. In the key provided, the basal dichotomies are based on the alternation of the genital pores and the capability to form a genital papilla, which are easily observed in stained specimens.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Parasites; tapeworms; Cyclophyllidea; &lt;i&gt;Equinia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.,&lt;/b&gt; &lt;i&gt;Genovia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.,&lt;/b&gt; &lt;i&gt;Sciurotaenia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.,&lt;/b&gt; &lt;i&gt;Parasciurotaenia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;g.,&lt;/b&gt; rodents; lagomorphs; perissodactyls</subject>
+          <subject_class locale="en_US">Parasites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Voitto</firstname>
+          <lastname>Haukisalmi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cyclostomata (Bryozoa, Stenolaemata) from Rio de Janeiro State, Brazil</title>
+        <abstract locale="en_US">Research on cyclostome bryozoan taxonomy has been neglected compared to that on cheilostomes, especially in Brazil. Between 1890 and 1979, only 25 cyclostome species have been identified from Brazil, distributed among 11 genera and seven families. This study describes eight cyclostome species (Crisia &lt;i&gt;pseudosolena,&lt;/i&gt; &lt;i&gt;Nevianipora&lt;/i&gt; &lt;i&gt;floridana,&lt;/i&gt; &lt;i&gt;Mecynoecia&lt;/i&gt; cf. &lt;i&gt;delicatula,&lt;/i&gt; &lt;i&gt;Disporella&lt;/i&gt; &lt;i&gt;pila,&lt;/i&gt; &lt;i&gt;Patinella&lt;/i&gt; sp., &lt;i&gt;Crisia&lt;/i&gt; &lt;i&gt;fragosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Exidmonea&lt;/i&gt; &lt;i&gt;zagorsek&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Supercytis&lt;/i&gt; &lt;i&gt;savii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; including a first record of the genus &lt;i&gt;Supercytis&lt;/i&gt; in Brazilian waters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Supercytis&lt;/i&gt;; &lt;i&gt;Crisia&lt;/i&gt;; &lt;i&gt;Nevianipora&lt;/i&gt;; &lt;i&gt;Exidmonea&lt;/i&gt;; &lt;i&gt;Patinella&lt;/i&gt;; &lt;i&gt;Mecynoecia&lt;/i&gt;; &lt;i&gt;Disporella&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Ramalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <lastname>Muricy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-52</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additions to the decapod crustacean fauna of the Hawaiian Islands, II. First record of the unusual hermit crab genera &lt;i&gt;Porcellanopagurus &lt;/i&gt;Filhol, 1885, and &lt;i&gt;Solitariopagurus &lt;/i&gt;Türkay, 1986 (Decapoda, Anomura, Paguridae)</title>
+        <abstract locale="en_US">The rare and unusual deep water hermit crab genera &lt;i&gt;Porcellanopagurus&lt;/i&gt; Filhol and &lt;i&gt;Solitariopagurus&lt;/i&gt; Türkay are reported for the first time from Hawaiian waters. Each genus is represented by a single specimen collected from Penguin Banks, off the southwest coast of Moloka'i, Hawaii. The specimen of &lt;i&gt;Porcellanopagurus&lt;/i&gt; is identified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;platei,&lt;/i&gt; a species that has not been reported since its original description in 1902 based on specimens from the Juan Fernandez Islands off southern Chile. Therefore, the record is a major range extension for the species. The specimen of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;platei&lt;/i&gt; from Hawaii is an ovigerous female found inhabiting a fissurellid limpet shell; the species is redescribed based on type material. The specimen of &lt;i&gt;Solitariopagurus,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tuerkayi,&lt;/i&gt; was found carrying (inhabiting) one half of a bivalve mollusk shell (the lucinid &lt;i&gt;Ctena&lt;/i&gt; &lt;i&gt;bella),&lt;/i&gt; the first confirmation of this habitat for the species. A second specimen, photographed but now missing, was associated with a different species of bivalve (a mytilid). In addition to being new records of these genera for the Hawaiian Islands, the report also marks the first record of the genus &lt;i&gt;Porcellanopagurus&lt;/i&gt; from the central Pacific and only the second record of the genus &lt;i&gt;Solitariopagurus&lt;/i&gt; in the northern hemisphere.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hawaii; hermit crabs; &lt;i&gt;Porcellanopagurus&lt;/i&gt;; &lt;i&gt;Solitariopagurus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Hawaii</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joel</firstname>
+          <middlename>W.</middlename>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>B.</middlename>
+          <lastname>Moffitt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patsy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mclaughlin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-62</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Stygninae from a relictual rainforest in Ceará, northeastern Brazil (Opiliones, Laniatores, Stygnidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Ricstygnus&lt;/i&gt; &lt;i&gt;quineti&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Stygninae) is described from a "brejo de altitude" in Ceará state, northeastern Brazil, this being the first record of the family Stygnidae from the state. The new genus is characterized by the paired scutal armature in the form of acuminate tubercles increasing in size from area III to posterior margin of scutum, free tergite I with a pair of robust acuminate spiniform apophyses that are by far the stoutest of those on the dorsum, subtrapezoid scutum widest posteriorly with long carapace, and several unique genital features, as for example the presence of dorso-basal hollow in ventral plate containing a multiply folded haematodocha.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; harvestmen; Grassatores; Neotropics; Caatinga; montane forests</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adriano</firstname>
+          <middlename>B.</middlename>
+          <lastname>Kury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-03-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

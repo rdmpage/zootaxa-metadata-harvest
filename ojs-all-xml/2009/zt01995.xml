@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1995.1</id>
+    <title locale="en_US">4 Feb. 2009</title>
+    <volume>1995</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">African &lt;i&gt;Caridina &lt;/i&gt;(Crustacea: Decapoda: Caridea: Atyidae): redescriptions of &lt;i&gt;C. africana &lt;/i&gt;Kingsley, 1882, &lt;i&gt;C. togoensis &lt;/i&gt;Hilgendorf, 1893, &lt;i&gt;C. natalensis &lt;/i&gt;Bouvier, 1925 and &lt;i&gt;C. roubaudi &lt;/i&gt;Bouvier, 1925 with descriptions of 14 new species</title>
+        <abstract locale="en_US">&lt;i&gt;Caridina&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; Kingsley, 1882 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;togoensis&lt;/i&gt; Hilgendorf, 1893 are redescribed. The distribution of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; is restricted to Zululand, its type locality and the adjacent area, while the distribution of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;togoensis&lt;/i&gt; is extended to new localities on the African continent. The subspecies, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; Bouvier, 1925 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; var. &lt;i&gt;roubaudi&lt;/i&gt; Bouvier, 1925, are redescribed and given species status. Fourteen new African species are described from specimens previously identified as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;africana,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nilotica,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; near &lt;i&gt;nilotica&lt;/i&gt; and &lt;i&gt;Caridina&lt;/i&gt; sp. in various museum collections. These new species are described, illustrated and a key is provided to facilitate identification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Atyidae; &lt;i&gt;Caridina&lt;/i&gt;; &lt;i&gt;Caridina&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;togoensis&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; comb. nov.; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;roubaudi&lt;/i&gt; comb. nov.; redescriptions; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jasmine</firstname>
+          <lastname>Richard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-75</pages>
+        <date_published>2009-02-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

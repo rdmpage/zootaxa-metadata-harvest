@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3047.1</id>
+    <title locale="en_US">3 Oct. 2011</title>
+    <volume>3047</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphology-based phylogenetic analysis of the treehopper tribe Smiliini (Hemiptera: Membracidae: Smiliinae), with reinstatement of the tribe Telamonini </title>
+        <abstract locale="en_US">Members of the Smiliini, the nominotypical tribe of the large New World subfamily Smiliinae, are predominately Nearctic in distribution. This tribe included 169 mostly tree-feeding species in 23 genera. A parsimony-based phylogenetic analysis of an original dataset comprising 89 traditional and newly discovered morphological characters for 69 species, including representatives of 22 of the 23 described genera of Smiliini and five other previously recognized tribes of the subfamily, resulted in a single most parsimonious tree with three major clades. The broad recent concept of Smiliini (including Telamonini as a junior synonym) was not recovered as monophyletic by the analysis. Instead, the analysis supported narrower definitions of both Telamonini, here &lt;b&gt;reinstated&lt;/b&gt; from synonymy, and Smiliini. A key and diagnoses are given to define these tribes, along with discussions of their phylogeny, biogeography, and host plant associations. The genera &lt;i&gt;Antianthe&lt;/i&gt; Fowler, &lt;i&gt;Hemicardiacus&lt;/i&gt; Plummer, &lt;i&gt;Smilirhexia&lt;/i&gt; McKamey, and &lt;i&gt;Tropidarnis&lt;/i&gt; Fowler are placed as Smiliinae, &lt;b&gt;&lt;i&gt;incertae&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;sedis.&lt;/i&gt;&lt;/b&gt; Based on the phylogeny, several genera from both tribes including &lt;i&gt;Atymna&lt;/i&gt; Stål, &lt;i&gt;Cyrtolobus&lt;/i&gt; Goding, &lt;i&gt;Heliria&lt;/i&gt; Stål, and &lt;i&gt;Telamona&lt;/i&gt; Fitch are not monophyletic. Diagnostic characters emphasizing the morphological differences between the Smiliini and Telamonini include the dorsal margin of the head, the shape of the pronotum, the size of the pronotal humeral angles, the presence or absence of pronotal longitudinal rugae, the size of forewing cells, variations in the fusion of veins R and M apically in both the foreand hind wing, and the shape of the apex of the female second valvulae. Mapping geographic distribution onto the phylogeny suggests that the common ancestor of the ingroup (all three clades) occurred in Central America and Mexico, with multiple dispersals to temperate North America. Many Smiliini and Telamonini feed on various species of oak (Quercus) and the close evolutionary association between these insects and their hosts is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; oak; geographic distribution; biogeography; host plants</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>S.</middlename>
+          <lastname>Wallace</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2011-10-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of Leptohyphidae (Insecta: Ephemeroptera) from Central Amazon, Brazil ENIDE LUCIANA L. BELMONT, FREDERICO F. SALLES &amp; NEUSA HAMADA (Brazil)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-53</pages>
+        <date_published>2011-10-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Tephritis &lt;/i&gt;Latreille (Diptera: Tephritidae) with an unusual wing pattern from Iran and its taxonomic implications </title>
+        <abstract locale="en_US">&lt;i&gt;Tephritis&lt;/i&gt; &lt;i&gt;sahandi&lt;/i&gt; new species from Iran (type locality: Sahand chain mountains, East Azerbaijan Province) with an uncommon banded wing pattern is described and shown to be related to &lt;i&gt;Pangasella&lt;/i&gt; &lt;i&gt;volkovitshi&lt;/i&gt; Richter from Tadjikistan. Both species fit the diagnosis of the genus &lt;i&gt;Tephritis&lt;/i&gt; Latreille 1804, and possess its key characters; as the result, &lt;i&gt;Pangasella&lt;/i&gt; Richter 1995 (type species: &lt;i&gt;Pangasella&lt;/i&gt; &lt;i&gt;volkovitshi&lt;/i&gt; Richter 1995) is shown to be a new junior synonym of &lt;i&gt;Tephritis,&lt;/i&gt; and its type species is transferred to the genus as &lt;i&gt;Tephritis&lt;/i&gt; &lt;i&gt;volkovitshi&lt;/i&gt; (Richter 1995) new combination. A key to the Palaearctic species of banded-winged &lt;i&gt;Tephritis&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Tephritidae; new species; new synonymy; Iran</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Samad</firstname>
+          <lastname>Khaghaninia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ebrahim</firstname>
+          <lastname>Zarghani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Saeed</firstname>
+          <middlename>Mohamadzade</middlename>
+          <lastname>Namin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Valery</firstname>
+          <middlename>A.</middlename>
+          <lastname>Korneyev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2011-10-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Golsinda &lt;/i&gt;Pascoe, 1857 (Coleoptera, Cerambycidae, Lamiinae, Mesosini) from the Malay Peninsula, with a nomenclatural note of the genus </title>
+        <abstract locale="en_US">&lt;i&gt;Golsinda&lt;/i&gt; &lt;i&gt;malaysiaca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the Malay Peninsula. The authorship of the genus &lt;i&gt;Golsinda&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;corallina&lt;/i&gt; is attributed to Thomson (1860), but should be credited to Pascoe (1857) (ICZN 1999, Art. 11.5 and 12). A key to the species of the genus &lt;i&gt;Golsinda&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cerambycidae; Mesosini; &lt;i&gt;Golsinda&lt;/i&gt;; endophallus; key; new species; authorship; nomenclature</subject>
+          <subject_class locale="en_US">Cerambycidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Junsuke</firstname>
+          <lastname>Yamasako</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroshi</firstname>
+          <lastname>Makihara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-10-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

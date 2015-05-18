@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1673.1</id>
+    <title locale="en_US">4 Jan. 2008</title>
+    <volume>1673</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Syllidae (Annelida: Polychaeta) from Indonesia collected by the Siboga (1899-1900) and Snellius II (1984) expeditions</title>
+        <abstract locale="en_US">Twenty seven samples of syllids (Annelida: Polychaeta) from Indonesia collected during the Siboga Expedition (1899– 1900) and five during the Snellius II Expedition (1984) have been examined. Material from several other museums and Institutions has also been included. Unpublished identifications of Siboga material by Augener have been checked and all specimens have been named according to current taxonomic knowledge. A total of 30 taxa have been identified, belonging to 10 different genera: &lt;i&gt;Branchiosyllis,&lt;/i&gt; &lt;i&gt;Haplosyllides,&lt;/i&gt; &lt;i&gt;Eusyllis,&lt;/i&gt; &lt;i&gt;Odontosyllis,&lt;/i&gt; &lt;i&gt;Opisthosyllis,&lt;/i&gt; &lt;i&gt;Paraehlersia,&lt;/i&gt; &lt;i&gt;Pionosyllis,&lt;/i&gt; &lt;i&gt;Sphaerosyllis,&lt;/i&gt; &lt;i&gt;Syllis&lt;/i&gt; and &lt;i&gt;Trypanosyllis.&lt;/i&gt; Four species are described as new: &lt;i&gt;Opisthosyllis&lt;/i&gt; &lt;i&gt;mariae,&lt;/i&gt; &lt;i&gt;Syllis&lt;/i&gt; &lt;i&gt;komodoensis,&lt;/i&gt; &lt;i&gt;Syllis&lt;/i&gt; &lt;i&gt;villenai&lt;/i&gt; and &lt;i&gt;Syllis&lt;/i&gt; &lt;i&gt;ypsiloides.&lt;/i&gt; One previously synonymised species, &lt;i&gt;Syllis&lt;/i&gt; &lt;i&gt;augeneri,&lt;/i&gt; is re-described herein as valid. Two more taxa are proposed as new combinations, and four are reported as cf. either due to lack of enough representative specimens or to variability in diagnostic characters or geographical distribution. Finally, two taxa are described but unnamed because of paucity of material. All new species and reports for the area are described and figured.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Syllidae; Polychaetes; Taxonomy; new species; Indonesia</subject>
+          <subject_class locale="en_US">Syllidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>Teresa</middlename>
+          <lastname>Aguado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>San Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <middlename>A. Ten</middlename>
+          <lastname>Hove</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2008-01-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new wobbegong sharks, &lt;i&gt;Orectolobus floridus&lt;/i&gt; sp. nov. and &lt;i&gt;O. parvimaculatus &lt;/i&gt;sp. nov. (Orectolobiformes: Orectolobidae), from southwestern Australia</title>
+        <abstract locale="en_US">Two new &lt;i&gt;Orectolobus&lt;/i&gt; species, collected from the continental shelf off southwestern Australia as bycatch of a regional shark fishery, are described and figured. &lt;i&gt;Orectolobus&lt;/i&gt; &lt;i&gt;floridus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which has a striking colour pattern of yellowish brown bands, blotches, spots and reticulations, occurs between Geraldton and Augusta at depths of 42–85 m. &lt;i&gt;Orectolobus&lt;/i&gt; &lt;i&gt;parvimaculatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; another small, colourful wobbegong shark, which is sympatric with &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;floridus&lt;/i&gt; and three other congeners, has been confused with a larger, more widespread wobbegong, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;maculatus.&lt;/i&gt; &lt;i&gt;Orectolobus&lt;/i&gt; &lt;i&gt;parvimaculatus&lt;/i&gt; occurs between Green Head and Mandurah at depths of 9–108 m. The new species differ from other &lt;i&gt;Orectolobus&lt;/i&gt; species and each other by a combination of colour, morphology, body measurements and meristics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Orectolobus&lt;/i&gt; &lt;i&gt;floridus&lt;/i&gt;; &lt;i&gt;Orectolobus&lt;/i&gt; &lt;i&gt;parvimaculatus&lt;/i&gt;; new species; Orectolobiformes; wobbegong sharks; Western Australia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Orectolobus&lt;/i&gt; &lt;i&gt;floridus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Justin</firstname>
+          <middlename>A.</middlename>
+          <lastname>Chidlow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-67</pages>
+        <date_published>2008-01-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum ( Garfias-Espejo, T., Elias-Gutierrez, M. &amp; Silva-Briano, M. (2007) On &lt;i&gt;Macrothrix agsensis&lt;/i&gt; Dumont, Silva-Briano &amp; Babu, 2002 (Cladocera: Anomopoda: Macrothricidae), with description of the male and ephippial females, and comments on the distribution of the genus in Mexico. &lt;i&gt;Zootaxa&lt;/i&gt;, 1632, 49-60.)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2008-01-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

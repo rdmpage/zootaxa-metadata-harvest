@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2091.1</id>
+    <title locale="en_US">4 May. 2009</title>
+    <volume>2091</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genera &lt;i&gt;Acrosathe &lt;/i&gt;Irwin and Lyneborg, &lt;i&gt;Arenigena &lt;/i&gt;Irwin and Lyneborg, and &lt;i&gt;Litolinga &lt;/i&gt;Irwin and Lyneborg (Diptera: Therevidae: Therevinae) from the Nearctic Region</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Acrosathe&lt;/i&gt; Irwin and Lyneborg is revised and includes six species from the Nearctic Region. &lt;i&gt;Acrosathe&lt;/i&gt; &lt;i&gt;falcata&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is new to science. &lt;i&gt;Thereva&lt;/i&gt; &lt;i&gt;novella&lt;/i&gt; Coquillett is found to be a junior synonym of &lt;i&gt;Acrosathe&lt;/i&gt; &lt;i&gt;vialis&lt;/i&gt; (Osten Sacken). The genus &lt;i&gt;Arenigena&lt;/i&gt; Irwin and Lyneborg is revised and includes five species from the Nearctic Region. &lt;i&gt;Arenigena&lt;/i&gt; &lt;i&gt;albiseta&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Arenigena&lt;/i&gt; &lt;i&gt;bajaensis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Arenigena&lt;/i&gt; &lt;i&gt;floridensis&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are new to science. &lt;i&gt;Psilocephala&lt;/i&gt; &lt;i&gt;brunnea&lt;/i&gt; Kröber is found to be a junior synonym of &lt;i&gt;Arenigena&lt;/i&gt; &lt;i&gt;marcida&lt;/i&gt; (Coquillett). The genus &lt;i&gt;Litolinga&lt;/i&gt; Irwin and Lyneborg is revised and includes two species from the Nearctic Region. Each species is described or redescribed with illustrations of their genitalia, a key to their identification, and a map of their distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acrosathe&lt;/i&gt;; &lt;i&gt;Arenigena&lt;/i&gt;; &lt;i&gt;Litolinga&lt;/i&gt;; Diptera; Asiloidea; Therevidae; Therevinae; stiletto fly; morphology; New World</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acrosathe&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Donald</firstname>
+          <middlename>W.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-67</pages>
+        <date_published>2009-05-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

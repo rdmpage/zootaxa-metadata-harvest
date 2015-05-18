@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3466.1</id>
+    <title locale="en_US">7 Sep. 2012</title>
+    <volume>3466</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;Catalog of Aradidae (Hemiptera: Heteroptera)&lt;/span&gt; &lt;span LANG="EN"&gt;for the Neotropical Region&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US">The Aradidae (Hemiptera) of the Neotropical Region are cataloged. A total of 80 genera and 509 species are listed togetherwith their synonyms. References are given to the original descriptions and the subsequent taxonomic position, the location of types and the geographic distribution. A comprehensive bibliography is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aradidae; catalog; Neotropical; taxonomy; distribution</subject>
+          <subject_class locale="en_US">Aradidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>María</firstname>
+          <lastname>Del Carmen Coscarón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eugenia</firstname>
+          <middlename>Fernanda</middlename>
+          <lastname>Contreras</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-103</pages>
+        <date_published>2012-09-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

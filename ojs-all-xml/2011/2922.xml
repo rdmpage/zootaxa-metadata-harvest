@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US"> Article</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zootaxa</firstname>
+          <middlename>2922: 1–14 6</middlename>
+          <lastname>Plates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>34</firstname>
+          <middlename>References Accepted: 30 May</middlename>
+          <lastname>2011</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2922.1</id>
+    <title locale="en_US">17 Jun. 2011</title>
+    <volume>2922</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new chigger mites of the genus &lt;i&gt;Lacertacarus&lt;/i&gt; (Acari: Prostigmata, Trombiculidae)</title>
+        <abstract locale="en_US">Two new chigger mites, &lt;i&gt;Lacertacarus&lt;/i&gt; &lt;i&gt;graecus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Lacertacarus&lt;/i&gt; &lt;i&gt;turcicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Acari: Prostigmata, Trombiculidae) are described from Greece and Turkey. The mites described come from pastures and meadows in mountain areas of Central Greece (Pindos Mts.), Peloponez Peninsula (Taigetos Mts.) and Southeast Turkey, respectively. A key to species of &lt;i&gt;Lacertacarus&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">chiggers; Greece; Turkey; mites; new species; parasites</subject>
+          <subject_class locale="en_US">chiggers</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stanislav</firstname>
+          <lastname>Kalúz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>15-26</pages>
+        <date_published>2011-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Holothuria &lt;/i&gt;(&lt;i&gt;Selenkothuria&lt;/i&gt;) &lt;i&gt;carere, &lt;/i&gt;a new species of sea cucumber (Echinodermata: Holothuroidea) from the Mexican Pacific</title>
+        <abstract locale="en_US">A new species of sea cucumber of the subgenus &lt;i&gt;Selenkothuria&lt;/i&gt; Deichmann, 1958 is described. &lt;i&gt;Holothuria&lt;/i&gt; (Selenkothuria) &lt;i&gt;carere&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; was found in the Mexican Pacific, from intertidal to 6 m depth. The absences of ossicles in the body wall, as well as in the dorsal and ventral tube feet make this species unique among the species of this subgenus. Smooth straight rods with distal perforations and projections are present only in the dorsal and anal papillae, papillae at the base of the tentacles and in the tentacles. This species is distinctive within the subgenus. The shape of the ossicles shows some similarities with &lt;i&gt;H.&lt;/i&gt; (S.) &lt;i&gt;glaberrima&lt;/i&gt; Selenka, 1867.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Echinodermata; Holothuroidea; &lt;i&gt;Holothuria&lt;/i&gt; (Selenkothuria); new species; Mexico</subject>
+          <subject_class locale="en_US">Echinodermata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Magali</firstname>
+          <lastname>Honey-Escandón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <middlename>A.</middlename>
+          <lastname>Solís-Marín</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfredo</firstname>
+          <lastname>Laguarda-Figueras</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-33</pages>
+        <date_published>2011-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species and new host records of syringophilid mites (Acari: Syringophilidae) from passerines from Kenya</title>
+        <abstract locale="en_US">&lt;i&gt;Syringophilopsis&lt;/i&gt; &lt;i&gt;dicruri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Acari: Syringophilidae) ex &lt;i&gt;Dicrurus&lt;/i&gt; &lt;i&gt;adsimilis&lt;/i&gt; (Bechstein) (Passeriformes: Dicruridae) from Kenya is described. Five new hosts are recorded for 4 syringophilid species: &lt;i&gt;Chlorocichla&lt;/i&gt; &lt;i&gt;flaviventris&lt;/i&gt; (Smith) and &lt;i&gt;Andropadus&lt;/i&gt; &lt;i&gt;latirostris&lt;/i&gt; Strickland (Pycnonotidae) for &lt;i&gt;Syringophilopsis&lt;/i&gt; &lt;i&gt;veselovsky&lt;/i&gt; Skoracki &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2009; &lt;i&gt;Ploceus&lt;/i&gt; &lt;i&gt;vitellinus&lt;/i&gt; Vieillot (Ploceidae) for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;nitens&lt;/i&gt; Skoracki and Dabert, 2001; &lt;i&gt;Acrocephalus&lt;/i&gt; &lt;i&gt;palustris&lt;/i&gt; (Bechstein) (Sylviidae) for &lt;i&gt;Neoaulonastus&lt;/i&gt; &lt;i&gt;bisetatus&lt;/i&gt; (Fritsch, 1958) and &lt;i&gt;Cyanomitra&lt;/i&gt; &lt;i&gt;olivacea&lt;/i&gt; (Smith) (Nectariinidae) for &lt;i&gt;Picobia&lt;/i&gt; &lt;i&gt;oritis&lt;/i&gt; Skoracki &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2009. The syringophilid fauna of the Ethiopian region is summarized in table.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; quill mites; Ethiopian region; Kenya</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martin</firstname>
+          <lastname>Hromada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanyoike</firstname>
+          <lastname>Wamiti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-40</pages>
+        <date_published>2011-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Shallow-water species of the genus &lt;i&gt;Aplidium &lt;/i&gt;(Ascidiacea) from Kamchatka and Commander Islands</title>
+        <abstract locale="en_US">Four shallow-water colonial ascidians of the genus &lt;i&gt;Aplidium&lt;/i&gt; (Aplousobranhia: Polyclinidae) are identified in the material collected by SCUBA divers off the coast of East Kamchatka and Commander Islands. Three species from Kamchatka were previously known from this region but were wrongly identified and two of them (A. &lt;i&gt;dissectum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;eborinum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.)&lt;/b&gt; are now redescribed as new species. &lt;i&gt;Aplidium&lt;/i&gt; &lt;i&gt;redikorzevi&lt;/i&gt; nom nov. (for &lt;i&gt;Amaroucium&lt;/i&gt; &lt;i&gt;fragile&lt;/i&gt; Redikorzev, 1927) is recorded on Commander Islands first time from its original description.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aplidium&lt;/i&gt;; Kamchatka; Commander Islands; NW Pacific</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aplidium&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karen</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadya</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-50</pages>
+        <date_published>2011-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new troglophilous species of the genus &lt;i&gt;Pholcus &lt;/i&gt;Walckenaer (Araneae, Pholcidae) from Guizhou Province, China</title>
+        <abstract locale="en_US">Four new troglophilous &lt;i&gt;Pholcus&lt;/i&gt; spiders from Guizhou Province, China, are diagnosed, described and illustrated under the names: &lt;i&gt;Pholcus&lt;/i&gt; &lt;i&gt;anlong&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ceheng&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;xingren&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.xingyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; This is the first report on cave-dwelling &lt;i&gt;Pholcus&lt;/i&gt; species from Guizhou Province, China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Pholcidae; new species; cave; Guizhou</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hui-Ming</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Sheng</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2011-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of conspicuous reef fishes of the Bahía de los Ángeles region, Baja California Norte, Mexico, with comments on abundance and ecological biogeography</title>
+        <abstract locale="en_US">A first checklist of conspicuous reef fishes observed at 15 sites in the vicinity of Bahía de los Ángeles from 2008 to 2010 is presented. A total of 70 species representing 31 families were observed. Species composition was similar to well studied regions in the southern Gulf of California, in that most species had distributions that span the Tropical Eastern Pacific but species endemic to Mexico or the Gulf of California ranked highest in relative abundance, frequency of occurrence, and mean density. Several species with temperate geographic distributions were more abundant and frequent than on reefs in the southern Gulf. Large-bodied, predatory species such as sharks and the Gulf Grouper, &lt;i&gt;Mycteroperca&lt;/i&gt; &lt;i&gt;jordani,&lt;/i&gt; were rare or absent.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Reef fishes; Bahía de los Ángeles; Gulf of California; Tropical Eastern Pacific</subject>
+          <subject_class locale="en_US">Reef fishes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ismael</firstname>
+          <lastname>Mascareñas-Osorio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brad</firstname>
+          <lastname>Erisman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerry</firstname>
+          <lastname>Moxley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <lastname>Balart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Octavio</firstname>
+          <lastname>Aburto-Oropeza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2011-06-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

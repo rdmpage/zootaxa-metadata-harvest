@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2117.1</id>
+    <title locale="en_US">25 May. 2009</title>
+    <volume>2117</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new expanded revision of the European high mountain &lt;i&gt;Sciadia tenebraria&lt;/i&gt; species group (Lepidoptera: Geometridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;tenebraria&lt;/i&gt; auctorum from European high mountains was recently recognized to be a complex of several allopatric species. In this paper the group is revised anew on the basis of extended studies of collections and combined analysis of morphological and molecular traits. The habitus and male and female genitalia of all taxa are figured. Five species and two subspecies are recognized as valid. The name &lt;i&gt;Geometra&lt;/i&gt; &lt;i&gt;horridaria&lt;/i&gt; Hübner, 1799 is not available for that group, being a junior primary homonym. Two taxa, &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;sabaudiensis&lt;/i&gt; Leraut, 2008 and &lt;i&gt;Geometra&lt;/i&gt; &lt;i&gt;torvaria&lt;/i&gt; Hübner, 1813 are downgraded from species rank to the synonymy of &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;tenebraria&lt;/i&gt; (Esper, 1806). &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;innuptaria&lt;/i&gt; (Herrich-Schäffer, 1852) is raised from the synonymy of &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;tenebraria&lt;/i&gt; to species rank. One new species and one new subspecies are described: &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;dolomitica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Dolomite mountains, South Tyrol, northern Italy; and &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;tenebraria&lt;/i&gt; &lt;i&gt;taurusica&lt;/i&gt; &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Hohe Tauern mountains, East Tyrol, Austria. A lectotype is designated for &lt;i&gt;Gnophos&lt;/i&gt; &lt;i&gt;innuptaria&lt;/i&gt; Herrich-Schäffer, 1852, and neotypes are designated for &lt;i&gt;Geometra&lt;/i&gt; &lt;i&gt;tenebraria&lt;/i&gt; Esper, 1806 and &lt;i&gt;Geometra&lt;/i&gt; &lt;i&gt;torvaria&lt;/i&gt; Hübner, 1813.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Geometridae; &lt;i&gt;Sciadia&lt;/i&gt; &lt;i&gt;tenebraria&lt;/i&gt;; species complex; new species; Europe; high mountains</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Huemer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Axel</firstname>
+          <lastname>Hausmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2009-05-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the Papua New Guinea genus &lt;i&gt;Cheronella &lt;/i&gt;Miller (Hemiptera: Reduviidae: Reduviinae), with a redescription of its little known type species</title>
+        <abstract locale="en_US">The monotypic Papua New Guinea genus &lt;i&gt;Cheronella&lt;/i&gt; Miller is reexamined. The diagnostic characters of the genus are modified and its little known type species, &lt;i&gt;Cheronella&lt;/i&gt; &lt;i&gt;stuberi&lt;/i&gt; Miller, 1955, is redescribed. The characters of male genitalia are reported for the first time. The dorsal habitus, head, male genitalia, and other diagnostic morphological features are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Reduviidae; Reduviinae; &lt;i&gt;Cheronella&lt;/i&gt;; new species; Papua New Guinea</subject>
+          <subject_class locale="en_US">Reduviidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ping</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerome</firstname>
+          <lastname>Constant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanzhi</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-36</pages>
+        <date_published>2009-05-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Chewing lice (Insecta: Phthiraptera) from parrots and parakeets of the genera &lt;i&gt;Cyanoliseus &lt;/i&gt;and &lt;i&gt;Enicognathus &lt;/i&gt;in Chile and Argentina, with descriptions of a new species</title>
+        <abstract locale="en_US">The following three species of parrots: &lt;i&gt;Enicognathus&lt;/i&gt; &lt;i&gt;leptorhynchus&lt;/i&gt; (King) (Choroy = Slender-billed Parakeet), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;ferrugineus&lt;/i&gt; (-Müller) (Cachaña = Austral Parakeet) and &lt;i&gt;Cyanoliseus&lt;/i&gt; &lt;i&gt;patagonus&lt;/i&gt; (Vieillot) (Tricahue or Barranquero Parrot = Burrowing Parrot) from Southern Chile and Argentina were examined for chewing lice. Four louse species were found: &lt;i&gt;Psittacobrossus&lt;/i&gt; &lt;i&gt;patagoni&lt;/i&gt; Price and Beer and &lt;i&gt;Heteromenopon&lt;/i&gt; &lt;i&gt;macrurum&lt;/i&gt; (Eichler) ex the Austral Parakeet, &lt;i&gt;Paragoniocotes&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; Guimarães, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;macrurum&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;patagoni&lt;/i&gt; ex the Burrowing Parrot, and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;macrurum&lt;/i&gt; and a new species of &lt;i&gt;Paragoniocotes&lt;/i&gt; Cummings ex the Slender-billed Parakeet and the Austral Parakeet. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;meriodionalis&lt;/i&gt; is a new record for Chilean fauna, and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;leptorhynchus&lt;/i&gt; is a new host for &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;macrurum.&lt;/i&gt; &lt;i&gt;Paragoniocotes&lt;/i&gt; &lt;i&gt;enicognathidis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described and illustrated, discussing the morphological affinities with its close relatives.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; new species; taxonomy; South America; louse</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Armando</firstname>
+          <lastname>Cicchino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>González-Acuña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-42</pages>
+        <date_published>2009-05-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cowanomyia hillaryi &lt;/i&gt;gen. et sp. n., a remarkable new gnoristine (Diptera: Mycetophilidae: Sciophilinae) from New Zealand</title>
+        <abstract locale="en_US">A new genus and a new species, &lt;i&gt;Cowanomyia&lt;/i&gt; &lt;i&gt;hillaryi&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; of Gnoristini (Mycetophilidae: Sciophilinae) is described from New Zealand. A striking feature of &lt;i&gt;Cowanomyia&lt;/i&gt; is the one-branched media in combination with the furcate anterior cubitus, which is a pattern found among Mycetophilidae only in &lt;i&gt;Adicroneura.&lt;/i&gt; &lt;i&gt;Cowanomyia&lt;/i&gt; and &lt;i&gt;Adicroneura&lt;/i&gt; are evidently not closely related. The position of &lt;i&gt;Cowanomyia&lt;/i&gt; among world Gnoristini, as presently known, remains unresolved for the time being.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Mycetophilidae; Gnoristini; new genus; new species; wing venation; New Zealand</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mathias</firstname>
+          <lastname>Jaschhof</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Catrin</firstname>
+          <lastname>Jaschhof</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-48</pages>
+        <date_published>2009-05-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the leafhopper genus &lt;i&gt;Drabescus &lt;/i&gt;Stål (Hemiptera: Cicadellidae: Selenocephalinae) from Papua New Guinea</title>
+        <abstract locale="en_US">Five new species of the leafhopper genus &lt;i&gt;Drabescus&lt;/i&gt; Stål, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;longispinus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bifurcatus,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bicornis,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;wauensis&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brevispinus,&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described and illustrated from Papua New Guinea. A check-list and key to the species from Papua New Guinea are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Homoptera; Auchenorrhyncha; morphology; taxonomy; distribution</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Suqin</firstname>
+          <lastname>Shang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lin</firstname>
+          <lastname>Shen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-55</pages>
+        <date_published>2009-05-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cis pickeri &lt;/i&gt;sp. nov. (Coleoptera: Ciidae) from Southern Africa </title>
+        <abstract locale="en_US">A new species of ciid beetle from southwestern South Africa is described. Images of the habitus, male genitalia and other characters of the external morphology are provided. The observed variations of male secondary sexual characters are briefly discussed. The similarities of external morphological characters of &lt;i&gt;Cis&lt;/i&gt; &lt;i&gt;pickeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; to other species of &lt;i&gt;Cis&lt;/i&gt; Latreille are discussed, and the new species is tentatively included in the &lt;i&gt;bilamellatus&lt;/i&gt; species group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tenebrionoidea; Ciini; Ciidae; Western Cape Province</subject>
+          <subject_class locale="en_US">Tenebrionoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cristiano</firstname>
+          <lastname>Lopes-Andrade</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalia</firstname>
+          <lastname>Matushkina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerda</firstname>
+          <lastname>Buder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Klaus-Dieter</firstname>
+          <lastname>Klass</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-64</pages>
+        <date_published>2009-05-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery and redescription of &lt;i&gt;Hystrichophora loricana &lt;/i&gt;(Grote) (Tortricidae: Olethreutinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Todd</firstname>
+          <middlename>M.</middlename>
+          <lastname>Gilligan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Terry</firstname>
+          <lastname>Harrison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Loran</firstname>
+          <middlename>D.</middlename>
+          <lastname>Gibson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-05-25</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

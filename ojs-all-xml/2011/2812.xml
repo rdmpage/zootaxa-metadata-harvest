@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2812.1</id>
+    <title locale="en_US">8 Apr. 2011</title>
+    <volume>2812</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Mitochondrial diversity of the white-toothed shrews (Mammalia, Eulipotyphla, &lt;i&gt;Crocidura&lt;/i&gt;) in Vietnam</title>
+        <abstract locale="en_US">We explored the patterning of genetic diversity within white-toothed shrews of the genus &lt;i&gt;Crocidura&lt;/i&gt; from 14 localities across Vietnam. An analysis of cytochrome oxidase &lt;i&gt;c&lt;/i&gt; subunit I (COI) and cytochrome &lt;i&gt;b&lt;/i&gt; (cytb) gene fragments from 185 specimens of white-toothed shrews of the genus &lt;i&gt;Crocidura&lt;/i&gt; from 14 localities across Vietnam revealed six deeply divergent (p-distance for both COI and &lt;i&gt;cytb&lt;/i&gt; &gt;10%) lineages, corresponding to the morphological species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sokolovi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;zaitsevi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;phuquocensis,&lt;/i&gt; С &lt;i&gt;.&lt;/i&gt; &lt;i&gt;indochinensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tanakae&lt;/i&gt; and, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;phanluongi.&lt;/i&gt; &lt;i&gt;Crocidura&lt;/i&gt; &lt;i&gt;sokolovi&lt;/i&gt; was distinct from all other Vietnamese white-toothed shrews (~13% on average for both &lt;i&gt;cytb&lt;/i&gt; and COI). In addition to demonstrating the genetic separation of previously described species, substantial cryptic genetic diversity was revealed. &lt;i&gt;Crocidura&lt;/i&gt; &lt;i&gt;zaitsevi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tanakae&lt;/i&gt; each included two subgroups that corresponded to geographically remote localities, while &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;indochinensis&lt;/i&gt; contained two distinct subgroups that exhibited co-varying patterns of morphological and ecological differentiation, suggesting that the individuals from Sa Pa represent a separate species (provisionally named &lt;i&gt;Crocidura&lt;/i&gt; sp. AB1). Mitochondrial data generated for the type specimens of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;phanluongi&lt;/i&gt; from Yok Don and Bu Gia Map supported the validity of the species while an additional specimen from Binh Chau, South Vietnam originally referred to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;phanluongi&lt;/i&gt; exhibited a deep genetic split (cytb: 8.4%; COI: 8.7%) from a neighbouring population in Yok Don. We propose that the specimen from Binh Chau also represents an undescribed species (provisionally named &lt;i&gt;Crocidura&lt;/i&gt; sp. AB2). Our &lt;i&gt;cytb&lt;/i&gt; data were then compared to the sequences of 28 species of &lt;i&gt;Crocidura&lt;/i&gt; from Southeast Asia available in GenBank, suggesting that three more species occur in northern Vietnam, namely C. &lt;i&gt;wuchihensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;attenuata&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fuliginosa/C.&lt;/i&gt; &lt;i&gt;dracula.&lt;/i&gt; The discovery of fairly deep genetic divergences among Vietnamese &lt;i&gt;Crocidura&lt;/i&gt; illustrates that the understudied and largely undescribed diversity of white-toothed shrews in Southeast Asia requires deeper scrutiny. It also shows the useful insights of mitochondrial markers as to the taxonomic resolution of this enigmatic group of mammals.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">DNA barcodes; molecular biodiversity; Soricidae; Southeast Asia; molecular diagnostics; cryptic species</subject>
+          <subject_class locale="en_US">DNA barcodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>А.а.</firstname>
+          <lastname>Bannikova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>А.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Abramov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>А.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Borisenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lebedev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Rozhnov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Babamunida debrae&lt;/i&gt;, a new species of squat lobster (Crustacea: Anomura: Galatheoidea: Munididae) from the Hawaiian Islands</title>
+        <abstract locale="en_US">A new species of squat lobster, &lt;i&gt;Babamunida&lt;/i&gt; &lt;i&gt;debrae,&lt;/i&gt; was found in shallow waters of the west coast of Hawai‘i. It is readily distinguished from all the other species of the genus by the presence of a pair of spines on the second abdominal tergite. &lt;i&gt;Babamunida&lt;/i&gt; &lt;i&gt;debrae&lt;/i&gt; is the second species of the genus from Hawaii and seventh species of the genus from the Indo-Pacific.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Anomura; Munididae; Galatheoidea; squat lobster; &lt;i&gt;Babamunida&lt;/i&gt;; taxonomy; Hawaii; shallowwater</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Keiji</firstname>
+          <lastname>Baba</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-27</pages>
+        <date_published>2011-04-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Tardigrada of Grand Cayman, West Indies, with descriptions of two new species of eutardigrade, &lt;i&gt;Doryphoribius tessellatus &lt;/i&gt;(Hypsibiidae) and &lt;i&gt;Macrobiotus caymanensis &lt;/i&gt;(Macrobiotidae)</title>
+        <abstract locale="en_US">Terrestrial tardigrades were collected from moss, lichen and leaf litter from Grand Cayman in the Cayman Islands, West Indies. Six species were found. &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;tardigradum&lt;/i&gt; Doyère, 1840, &lt;i&gt;Minibiotus&lt;/i&gt; &lt;i&gt;intermedius&lt;/i&gt; (Plate, 1889), &lt;i&gt;Paramacrobiotus&lt;/i&gt; &lt;i&gt;areolatus&lt;/i&gt; (Murray, 1907) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;richtersi&lt;/i&gt; (Murray, 1911) have been reported previously from other islands in the Caribbean Sea. Two species on Grand Cayman were new to science. &lt;i&gt;Doryphoribius&lt;/i&gt; &lt;i&gt;tessellatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; belongs to the ‘eveli- &lt;i&gt;nae-group’,&lt;/i&gt; with two macroplacoids and cuticular gibbosities. In having two pairs of posterior gibbosities and cuticular depressions forming a reticular design, it is most similar to &lt;i&gt;Doryphoribius&lt;/i&gt; &lt;i&gt;quadrituberculatus&lt;/i&gt; Kaczmarek &amp; Michalczyk, 2004 from Costa Rica. It differs from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;quadrituberculatus&lt;/i&gt; in its gibbosity sequence (III:4:2:2), the number of teeth, size of macroplacoids and details of the reticular design on the dorsal cuticle. &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;caymanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; belongs to the ‘polyopus-group’ of species. It differs from other species of the group in having a shorter buccal tube, a more posterior stylet support insertion point and fewer, larger egg processes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tardigrade; Caribbean Islands; &lt;i&gt;Doryphoribius&lt;/i&gt; &lt;i&gt;tessellatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;evelinae-group&lt;/i&gt;; &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;caymanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;polyopus-group&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Tardigrade</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Harry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Meyer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-40</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revised description of a poorly known Mediterranean Dictyoceratid bath sponge, &lt;i&gt;Spongia (Spongia) zimocca &lt;/i&gt;(Schmidt, 1862) (Porifera: Demospongiae: Dictyoceratida)</title>
+        <abstract locale="en_US">&lt;i&gt;Spongia&lt;/i&gt; &lt;i&gt;(Spongia)&lt;/i&gt; &lt;i&gt;zimocca&lt;/i&gt; (Schmidt, 1862) is a real problem for taxonomists. This is due to the fact that it exhibits a wide diversity of forms as well as similarities with other species of the genus. Nevertheless, professional sponge fishermen are able to recognize this species easily based on their own empirical criteria. The lack of easily recognized taxonomic characters in conjunction with the ambiguity concerning the original description makes necessary an updated description of the species. We tried to solve the uncertainty existing among the taxonomists who have been involved with the description of this Mediterranean sponge, basing our description on the Schmidt type specimen and on material deposited in the Amsterdam Museum. In this paper we have summoned up not only the known morphological characters used for the identification of other species belonging to this genus (color, size, shape, skeleton structure, size of the fibers) but also additional morphological characters, used for a first time, aiming to obtain a clearer picture. These new characteristics are: tensile strength, skeletal density, morphology of the conules and the organic content of the fiber mass.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Demospongiae; Dictyoceratida; Leather sponge; identification; lectotype; polymorphism; commercial value; biogeography</subject>
+          <subject_class locale="en_US">Demospongiae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jeanne</firstname>
+          <lastname>Castritsi-Catharios</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rob</firstname>
+          <middlename>W. M.</middlename>
+          <lastname>Van Soest</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Efthimios</firstname>
+          <lastname>Kefalas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean</firstname>
+          <lastname>Vacelet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-62</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new goby species of the genus &lt;i&gt;Eviota &lt;/i&gt;from the Ryukyu Islands, Japan (Teleostei: Gobiidae)</title>
+        <abstract locale="en_US">Two new species of goby, &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;ancora&lt;/i&gt; and &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;rubriguttata,&lt;/i&gt; are described from the Ryukyu Islands, Japan. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;ancora&lt;/i&gt; belongs to the cephalic sensory-pore system pattern group 2, has a dorsal/anal fin-ray formula of 8/7, simple pectoral-fin rays, and a distinctive hook-shaped orange mark on the side of the head in life. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;rubriguttata&lt;/i&gt; belongs to the cephalic sensory-pore system pattern group 1, has a dorsal/anal fin-ray formula of 8/7, branched pectoral-fin rays, the body peppered with tiny black chromatophores, and round red spots on the dorsal and anal fins in life.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ichthyology; systematics; Gobiidae; &lt;i&gt;Eviota&lt;/i&gt;; new species; Japan</subject>
+          <subject_class locale="en_US">Ichthyology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>W.</middlename>
+          <lastname>Greenfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Toshiyuki</firstname>
+          <lastname>Suzuki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-04-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

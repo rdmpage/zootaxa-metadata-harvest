@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3290.1</id>
+    <title locale="en_US">30 Apr. 2012</title>
+    <volume>3290</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Helminth parasites of wild Mexican mammals: list of species, hosts and geographical distribution</title>
+        <abstract locale="en_US">In the present work, a total of 339 nominal taxa of helminths (53 trematodes, 46 cestodes, 12 acanthocephalans, 227 nem-atodes, and 1 hirudinean), associated with 136 taxa of wild mammals from Mexico, are listed. Information on hosts, hab-itat, distribution, and records is included; these data come from 242 localities, pertaining to 31 of the 32 Mexican states,and represent the current knowledge on helminth parasites of wild mammals in Mexico. Eighteen taxa of helminths are registered for the first time in Mexico, and 46 new locality records are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mexico; mammals; helminths; distribution.</subject>
+          <subject_class locale="en_US">Mexico</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <lastname>García-Prieto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Falcón-Ordaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carmen</firstname>
+          <lastname>Guzmán-Cornejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-92</pages>
+        <date_published>2012-04-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

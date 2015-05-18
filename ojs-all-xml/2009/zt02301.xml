@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2301.1</id>
+    <title locale="en_US">1 Dec. 2009</title>
+    <volume>2301</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Redescription of the genus &lt;i&gt;Manta &lt;/i&gt;with resurrection of &lt;i&gt;Manta alfredi &lt;/i&gt;(Krefft, 1868) (Chondrichthyes; Myliobatoidei; Mobulidae)</title>
+        <abstract locale="en_US">The taxonomic history of the genus &lt;i&gt;Manta&lt;/i&gt; has been questionable and convoluted, with &lt;i&gt;Manta&lt;/i&gt; having one of the most extensive generic and species synonymies of any living genus of cartilaginous fish. Having previously been considered a monotypic genus with a single recognized species, &lt;i&gt;Manta&lt;/i&gt; &lt;i&gt;birostris&lt;/i&gt; (Walbaum 1792), new evidence, in the form of morphological and meristic data, confirm that two visually distinct species occur, both with wide ranging distributions through many of the world’s oceans. &lt;i&gt;Manta&lt;/i&gt; &lt;i&gt;birostris&lt;/i&gt; stands as the most widely distributed member of the genus, while &lt;i&gt;Manta&lt;/i&gt; &lt;i&gt;alfredi&lt;/i&gt; (Krefft 1868), resurrected herein, represents a smaller, more tropical species. Separation of the two species is based on morphometric measurements and external characters including colouration, dentition, denticle and spine morphology, as well as size at maturity and maximum disc width. The two species of &lt;i&gt;Manta&lt;/i&gt; are sympatric in some locations and allopatric in other regions. A visual key was constructed which highlights the conspicuous, diagnostic features of the two species using data collected throughout their respective geographical ranges. A third, putative species, referred to here as &lt;i&gt;Manta&lt;/i&gt; &lt;i&gt;sp.&lt;/i&gt; &lt;i&gt;cf.&lt;/i&gt; &lt;i&gt;birostris,&lt;/i&gt; in the Atlantic may be distinct from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;birostris,&lt;/i&gt; but further examination of specimens is necessary to clarify the taxonomic status of this variant manta ray. The results of this study will aid in the differentiation of members of this genus both in the field and in preserved specimens. The splitting of this long-standing monospecific genus will help to highlight the specific threats facing the different species of &lt;i&gt;Manta&lt;/i&gt; (e.g. targeted fishing, bycatch fisheries, boat strikes and habitat degradation) and will ultimately assist in the correct assessment of their respective worldwide conservation status.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; elasmobranch; diagnostic features; morphology; manta ray; colouration; &lt;i&gt;Manta&lt;/i&gt; &lt;i&gt;birostris&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrea</firstname>
+          <middlename>D.</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leonard</firstname>
+          <middlename>J. V.</middlename>
+          <lastname>Compagno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>B.</middlename>
+          <lastname>Bennett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2009-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species limits in &lt;i&gt;Pteruthius &lt;/i&gt;(Aves: Corvida) shrike-babblers: a comparison between the Biological and Phylogenetic Species Concepts</title>
+        <abstract locale="en_US">The question of how to define a species continues to divide biologists. Meanwhile, the application of different species concepts has led to disparate taxonomic treatments that confound conservationists and other biologists. The most widely followed guidelines to species designation in avian and other vertebrate taxonomy are Ernst Mayr’s Biological Species Concept (BSC) and Joel Cracraft’s version of the Phylogenetic Species Concept (PSC). Although the BSC is considered to be more conservative in its assignment of species status, there is a lack of research demonstrating differences in taxonomic treatment between the BSC and the PSC with reference to a multi-taxon multi-trait study system. We examined the case of five traditionally recognized species of shrike-babbler (Pteruthius) that have recently been divided into 19 species under the PSC. Re-analyzing previous morphological and molecular data and adding new vocal data, we propose a BSC classification of 9 species. However, taking into consideration geographic gaps in the sampling regime, we contend that additional data will likely reduce discrepancies between the total numbers of species designated under the PSC and BSC. The current PSC species total is a likely overestimate owing to species diagnosis based on characters that erroneously appear to be unique to a taxon at low sample size. The current BSC species total as here proposed is a likely underestimate on account of the conservative designation of taxa as subspecies in equivocal cases, e.g. where BSC species status is potentially warranted but may be masked by insufficient data.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">species concepts; &lt;i&gt;Pteruthius&lt;/i&gt;; taxonomic inflation; multi-disciplinary approach; species delimitation</subject>
+          <subject_class locale="en_US">species concepts</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frank</firstname>
+          <middlename>E.</middlename>
+          <lastname>Rheindt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>A.</middlename>
+          <lastname>Eaton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-54</pages>
+        <date_published>2009-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Elasmopus &lt;/i&gt;Costa, 1853 (Amphipoda: Gammaridea: Maeridae) from off the Northeast Brazilian Coast</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Elasmopus&lt;/i&gt; has a worldwide distribution with most species living in warm waters. This work describes two new species, both from off the northeast Brazilian coast, including its oceanic banks of Fernando de Noronha Chain. The first new species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;karamani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is easily recognized by palm of gnathopod 2 with a medial concave portion, posterior margin of basis of pereopod 5 and 6 concave, epimeron 3 produced in a sharp spine, and the uropod 3 rami 2.4 times the peduncle length. The other one, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lejeunei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is very similar to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;balkomanus&lt;/i&gt; Thomas &amp; Barnard, 1989 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lemaitrei&lt;/i&gt; Ortiz &amp; Lalana, 1994 in having propodus of gnathopod 2 without palmar corner and posterior margin of basis of pereopod 5 concave. However, it differs from those by presenting gnathopod 2 with a weakly developed process near hinge of dactylus with some robust setae, followed by two tubercles. The propodus inner face presents one ridged line, about 1/3 of propodus length, and perpendicular lines of setae, from the proximal portion of the ridged line almost to the dactylus hinge. A key to all species of the genus &lt;i&gt;Elasmopus&lt;/i&gt; recorded in the Brazilian coast is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Identification key; Crustacea; &lt;i&gt;Elasmopus&lt;/i&gt; &lt;i&gt;karamani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Elasmopus&lt;/i&gt; &lt;i&gt;lejeunei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Brazil</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jesser</firstname>
+          <middlename>F.</middlename>
+          <lastname>Souza-Filho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <middlename>R.</middlename>
+          <lastname>Senna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2009-12-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

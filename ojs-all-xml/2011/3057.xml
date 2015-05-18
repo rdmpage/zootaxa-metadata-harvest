@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3057.1</id>
+    <title locale="en_US">12 Oct. 2011</title>
+    <volume>3057</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New feather mites of the subfamily Pterodectinae (Acariformes: Proctophyllodidae) from passerines (Aves: Passeriformes) from Chile and Cuba </title>
+        <abstract locale="en_US">Ten new species of the feather mite subfamily Pterodectinae (Analgoidea: Proctophyllodidae) are described from New World passeriforms collected in Chile and Cuba: &lt;i&gt;Amerodectes&lt;/i&gt; &lt;i&gt;caribaeus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Contopus&lt;/i&gt; &lt;i&gt;caribaeus&lt;/i&gt; (Linnaeus) (Tyrannidae), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;contopus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;virens&lt;/i&gt; (Linnaeus) (Tyrannidae), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;plumbeus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Turdus&lt;/i&gt; &lt;i&gt;plumbeus&lt;/i&gt; Linnaues (Turdidae), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;phrygilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Phrygilus&lt;/i&gt; &lt;i&gt;patagonicus&lt;/i&gt; Lowe (Emberizidae), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sicalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Sicalis&lt;/i&gt; &lt;i&gt;luteola&lt;/i&gt; (Sparman) (Emberizidae), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;wilsoniae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Wilsonia&lt;/i&gt; &lt;i&gt;citrina&lt;/i&gt; (Boddaert) (Parulidae), &lt;i&gt;Metapterodectes&lt;/i&gt; &lt;i&gt;leptasthenurae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Leptasthenura&lt;/i&gt; &lt;i&gt;aegithaloides&lt;/i&gt; (Kittlitz) (Furnariidae), &lt;i&gt;Tyrannidectes&lt;/i&gt; &lt;i&gt;anairetes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Anairetes&lt;/i&gt; &lt;i&gt;parulus&lt;/i&gt; (Kittlitz) (Tyrannidae), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cinclodes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Cinclodes&lt;/i&gt; &lt;i&gt;patagonicus&lt;/i&gt; (Gmelin) (Furnariidae), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;falcklandicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Turdus&lt;/i&gt; &lt;i&gt;falcklandii&lt;/i&gt; Quoy and Gaimard (Turdidae). Keys to all currently described species of the genera &lt;i&gt;Amerodectes&lt;/i&gt; Valim and Hernandes, 2010, &lt;i&gt;Metapterodectes&lt;/i&gt; Mironov, 2008, and &lt;i&gt;Tyrannidectes&lt;/i&gt; Mironov, 2008 and improved diagnoses of these genera are proposed. Brief comments on the suprageneric systematics of the family Proctophyllodidae are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; feather mites; Proctophyllodidae; systematics; Aves; Passeriformes; New World</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>González-Acuña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2011-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new records of shore fishes for the Red Sea, with notes on &lt;i&gt;Parupeneus heptacanthus &lt;/i&gt;and &lt;i&gt;Diodon liturosus &lt;/i&gt;</title>
+        <abstract locale="en_US">New records of fishes for the Red Sea include the Indian Oil Sardine, &lt;i&gt;Sardinella&lt;/i&gt; &lt;i&gt;longiceps&lt;/i&gt; Valenciennes, based on two specimens obtained in the fish market of Hurghada, Egypt; the Needle Pipehorse, &lt;i&gt;Kyonemichthys&lt;/i&gt; &lt;i&gt;rumengani&lt;/i&gt; Gomon from a single specimen from Hamata, Egypt; the Herring Scad, &lt;i&gt;Alepes&lt;/i&gt; &lt;i&gt;vari&lt;/i&gt; (Cuvier), from an underwater photograph taken at the Hanish Islands at the southern end of the Red Sea; and the Twospot Hogfish, &lt;i&gt;Bodianus&lt;/i&gt; &lt;i&gt;bimaculatus&lt;/i&gt; Allen, from an underwater photograph taken of a subadult off Jeddah. An underwater photograph of the Cinnabar Goatfish, &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;heptacanthus&lt;/i&gt; (Lacepède), taken at Marsa Alam, Egypt was first misidentified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;procerigena&lt;/i&gt; Kim &amp; Amaoka; a comparison of these two species is provided. The range of the Blackblotched Porcupinefish, &lt;i&gt;Diodon&lt;/i&gt; &lt;i&gt;liturosus&lt;/i&gt; Shaw, is extended from the southern to the northern Red Sea. Three individuals that were photographed in Egypt had numerous small black spots on the fins. The species lacks spots on the fins elsewhere in the Indo-Pacific region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;Red&lt;/b&gt; &lt;b&gt;Sea;&lt;/b&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;records&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;Red&lt;/b&gt; &lt;b&gt;Sea;&lt;/b&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;records&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Bogorodsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>E.</middlename>
+          <lastname>Randall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <lastname>Golani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-60</pages>
+        <date_published>2011-10-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

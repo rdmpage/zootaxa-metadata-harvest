@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1884.1</id>
+    <title locale="en_US">24 Sep. 2008</title>
+    <volume>1884</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phytoseiid mites (Acari: Phytoseiidae) from Argentina, with description of a new species</title>
+        <abstract locale="en_US">This paper reports the mites of the family Phytoseiidae known from Argentina. It is based mostly on a survey conducted in the northern region of that country as well as on published information. Twenty-two species were found in that survey, ten of which are new records from that country, including a new species here described as &lt;i&gt;Neoseiulus&lt;/i&gt; &lt;i&gt;argentinus&lt;/i&gt; Guanilo &amp; Moraes &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp..&lt;/b&gt; Measurements of all species collected and a taxonomic key to separate the species known to date from Argentina are provided. All together 47 species are reported from Argentina.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; predatory mites; biological control</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alberto</firstname>
+          <middlename>Daniel</middlename>
+          <lastname>Guanilo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>José</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Silvana</firstname>
+          <lastname>Toledo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Markus</firstname>
+          <lastname>Knapp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2008-09-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Adelophryne&lt;/i&gt; (Anura: Eleutherodactylidae) from Guyana, with additional data on &lt;i&gt;A. gutturosa&lt;/i&gt;</title>
+        <abstract locale="en_US">A new species of frog, &lt;i&gt;Adelophryne&lt;/i&gt; &lt;i&gt;patamona,&lt;/i&gt; from 678–1414 m elevation in the Pakaraima Mountains of Guyana, is described. The new species is distinguished by large size, second phalange of Finger IV longer than wide, tips of digits bearing small pointed discs and small tympanum size. Seventeen specimens of &lt;i&gt;Adelophryne&lt;/i&gt; &lt;i&gt;gutturosa&lt;/i&gt; were also collected in the Pakaraima region; these specimens expand the description of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gutturosa.&lt;/i&gt; The calls of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;patamona&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gutturosa&lt;/i&gt; are described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Adelophryne&lt;/i&gt; &lt;i&gt;patamona&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gutturosa&lt;/i&gt;; Guiana Shield; Guyana; tepuis</subject>
+          <subject_class locale="en_US">&lt;i&gt;Adelophryne&lt;/i&gt; &lt;i&gt;patamona&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gutturosa&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ross</firstname>
+          <middlename>D.</middlename>
+          <lastname>Macculloch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amy</firstname>
+          <lastname>Lathrop</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philippe</firstname>
+          <middlename>J. R.</middlename>
+          <lastname>Kok</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leslie</firstname>
+          <middlename>R.</middlename>
+          <lastname>Minter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samir</firstname>
+          <middlename>Z.</middlename>
+          <lastname>Khan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>César</firstname>
+          <middlename>L.</middlename>
+          <lastname>Barrio-Amorós</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-50</pages>
+        <date_published>2008-09-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Foam-generating behaviour in tadpoles of &lt;i&gt;Leptodactylus latinasus&lt;/i&gt; (Amphibia, Leptodactylidae): significance in systematics</title>
+        <abstract locale="en_US">This work reports the capability of &lt;i&gt;Leptodactylus&lt;/i&gt; &lt;i&gt;latinasus&lt;/i&gt; tadpoles to generate foam. During numerous visits to El Ceibal, Tucumán, Argentina, we noticed that adults of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;latinasus&lt;/i&gt; were calling in choruses on humid and cleared ground. Five subterranean chambers with foam nests were excavated and transferred to the laboratory. In three nests, aquatic coleopteran larvae were found inside the foam after predating on the eggs. Tadpoles from the two other nests were placed in an artificial incubation chamber. Twenty hours later, a substantial amount of foam was observed. This character was analyzed in a phylogenetic analysis that showed that tadpole foam-making behaviour is a feature that corroborates a close phylogenetic relationship between &lt;i&gt;Leptodactylus&lt;/i&gt; of the subgenus &lt;i&gt;Lithodytes&lt;/i&gt; and of the &lt;i&gt;fuscus&lt;/i&gt; and &lt;i&gt;pentadactylus&lt;/i&gt; groups.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; foam-nest; larvae; incubating chamber; natural history; phylogeny</subject>
+          <subject_class locale="en_US">Anura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>María</firstname>
+          <middlename>Laura</middlename>
+          <lastname>Ponssa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Sebastián</middlename>
+          <lastname>Barrionuevo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2008-09-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Branchinecta&lt;/i&gt; (Crustacea: Branchiopoda: Anostraca) from the Argentinian Tierra del Fuego</title>
+        <abstract locale="en_US">&lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;fueguina,&lt;/i&gt; a new species of fairy shrimp, was found together with &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;granulosa&lt;/i&gt; in a temporary pond beside Laguna de los Cisnes, 53°47'12''S, 67°46'55''W, Tierra del Fuego, Antártida e Islas del Atlántico Sur Province (Argentina). The male second antennal basal article has a proximal, anteriomedial auriculate welt, covered with sensory setae and a hanging posteriomedial ornamented apophysis bending abruptly anteriorly with a rounded apex. Distally, the basal article has a longitudinal medial crest, proximally produced into a blunt posteriomedially directed point. The distal article is strongly rotated, articulating almost perpendicular to the basal article. The anterior surface of the article is triangular, from its proximal joint to the broadly explanate apex. Distally, the broadened article bends anteriorly forming a complex three-lobed apex. The peculiar joint with the basal article and the distal article shape are unique in the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;fueguina&lt;/i&gt;; fairy shrimp; taxonomy; neotropical</subject>
+          <subject_class locale="en_US">&lt;i&gt;Branchinecta&lt;/i&gt; &lt;i&gt;fueguina&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosa</firstname>
+          <middlename>Graciela</middlename>
+          <lastname>Cohen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2008-09-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

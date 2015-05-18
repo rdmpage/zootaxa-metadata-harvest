@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2588.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2588</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Annotated check list of Arachnida type specimens deposited in the Museu Nacional, Rio de Janeiro. II—Araneae</title>
+        <abstract locale="en_US">A check list of the Araneae type specimens deposited in the Museu Nacional, Universidade Federal do Rio de Janeiro, is given, including also all the type specimens of species described by Mello-Leitão without a clear repository. From a total of 923 type lots (which comprises 813 valid species names) cited in the list, 667 are available, 239 were not located (76 of them with uncertain repositories) and 17 are lost. The spelling of &lt;i&gt;Olios&lt;/i&gt; &lt;i&gt;hieroglyphicus&lt;/i&gt; Mello-Leitão, 1919 is fixed by action of first reviser. Based on the comparison of these type specimens, the following taxonomic changes are proposed on this paper: Actinopodidae: &lt;i&gt;Actinopus&lt;/i&gt; &lt;i&gt;ceciliae&lt;/i&gt; Mello-Leitão, 1931c &lt;i&gt;=&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;crassipes&lt;/i&gt; (Keyserling, 1891) n. syn.; Theraphosidae: &lt;i&gt;Cyclosternum&lt;/i&gt; &lt;i&gt;melloleitaoi&lt;/i&gt; Bücherl, Timotheo da Costa &amp; Lucas, 1971 = &lt;i&gt;Hapalopus&lt;/i&gt; &lt;i&gt;nondescriptus&lt;/i&gt; Mello-Leitão, 1926b n. syn.; Anyphaenidae: &lt;i&gt;Aysha&lt;/i&gt; &lt;i&gt;garruchos&lt;/i&gt; Brescovit, 1992 = &lt;i&gt;Aysha&lt;/i&gt; &lt;i&gt;caxambuensis&lt;/i&gt; (Mello-Leitão, 1926a) (originally described as &lt;i&gt;Teudis&lt;/i&gt; &lt;i&gt;c.)&lt;/i&gt; n. syn., n. comb.; &lt;i&gt;Sillus&lt;/i&gt; &lt;i&gt;spinifrons&lt;/i&gt; Mello-Leitão, 1926a = &lt;i&gt;Patrera&lt;/i&gt; &lt;i&gt;longipes&lt;/i&gt; (Keyserling, 1891) n. syn.; Araneidae: &lt;i&gt;Wagneriana&lt;/i&gt; &lt;i&gt;janeiro&lt;/i&gt; Levi, 1991 = &lt;i&gt;Wagneriana&lt;/i&gt; &lt;i&gt;dimastophora&lt;/i&gt; (Mello-Leitão, 1940g) (originally described as &lt;i&gt;Verrucosa&lt;/i&gt; &lt;i&gt;d.)&lt;/i&gt; n. syn., n. comb.; Pholcidae: &lt;i&gt;Pholcophora&lt;/i&gt; &lt;i&gt;juruensis&lt;/i&gt; Mello-Leitão, 1922c = &lt;i&gt;Physocyclus&lt;/i&gt; &lt;i&gt;globosus&lt;/i&gt; (Taczanowski, 1874) n. syn.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; Taxonomy; Spiders; Synonymy; New combination</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thiago</firstname>
+          <lastname>Da Silva Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renner</firstname>
+          <middlename>L. C.</middlename>
+          <lastname>Baptista</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriano</firstname>
+          <middlename>B.</middlename>
+          <lastname>Kury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <middlename>P. L.</middlename>
+          <lastname>Giupponi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Erica</firstname>
+          <middlename>H.</middlename>
+          <lastname>Buckup</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-91</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

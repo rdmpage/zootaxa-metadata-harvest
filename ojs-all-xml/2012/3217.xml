@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3217.1</id>
+    <title locale="en_US">29 Feb. 2012</title>
+    <volume>3217</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Biodiversity Quadrupled—Revision of Easter Island and Salas y Gómez Bivalves</title>
+        <abstract locale="en_US">Seventy-one bivalve species, including fifteen new species living in the waters of Easter and Salas y Gómez Islands are hereindescribed: &lt;i&gt;Nuculana&lt;/i&gt; (s.l.) &lt;i&gt;anakena&lt;/i&gt; sp. nov., &lt;i&gt;Lasaea&lt;/i&gt; &lt;i&gt;eastera&lt;/i&gt; sp. nov., &lt;i&gt;Borniola&lt;/i&gt; &lt;i&gt;pasca&lt;/i&gt; sp. nov., &lt;i&gt;Hyalokellia&lt;/i&gt; &lt;i&gt;tahaia&lt;/i&gt; sp. nov., &lt;i&gt;Tell-&lt;/i&gt;&lt;i&gt;imya&lt;/i&gt; &lt;i&gt;pauciradiata&lt;/i&gt; sp. nov., &lt;i&gt;Tellimya&lt;/i&gt; &lt;i&gt;tahaia&lt;/i&gt; sp. nov., &lt;i&gt;Thecodonta&lt;/i&gt; &lt;i&gt;rainesi&lt;/i&gt; sp. nov., &lt;i&gt;Acrosterigma&lt;/i&gt; &lt;i&gt;triangulare&lt;/i&gt; sp. nov., &lt;i&gt;Herouvalia&lt;/i&gt;&lt;i&gt;rapanui&lt;/i&gt; sp. nov., &lt;i&gt;Moerella&lt;/i&gt; &lt;i&gt;laperousea&lt;/i&gt; sp. nov., &lt;i&gt;Abranda&lt;/i&gt; &lt;i&gt;lamprelli&lt;/i&gt; sp. nov., &lt;i&gt;Timoclea&lt;/i&gt; &lt;i&gt;keegani&lt;/i&gt; sp. nov., &lt;i&gt;Hyphantosoma&lt;/i&gt; &lt;i&gt;crassum&lt;/i&gt;sp. nov., &lt;i&gt;Hyphantosoma&lt;/i&gt; &lt;i&gt;tenue&lt;/i&gt; sp. nov. and &lt;i&gt;Austroneaera&lt;/i&gt; &lt;i&gt;eastera&lt;/i&gt; sp. nov. Illustrated for the first time is the type material of &lt;i&gt;Tin-&lt;/i&gt;&lt;i&gt;daria&lt;/i&gt; &lt;i&gt;salaria&lt;/i&gt; Dall, 1908. Results of this study also revise previously accepted levels of endemicity as well as species affiliation with other biogeographical areas.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Indo-Pacific; Rapanuian; Mollusca; Bivalvia; New species; Downwind</subject>
+          <subject_class locale="en_US">Indo-Pacific</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bret</firstname>
+          <lastname>Raines</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Markus</firstname>
+          <lastname>Huber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-106</pages>
+        <date_published>2012-02-29</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3536.1</id>
+    <title locale="en_US">2 Nov. 2012</title>
+    <volume>3536</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Corynoneura &lt;/i&gt;Winnertz and &lt;i&gt;Thienemanniella &lt;/i&gt;Kieffer from the Nearctic Region (Diptera: Chironomidae: Orthocladiinae)</title>
+        <abstract locale="en_US">Twenty-one Nearctic species of &lt;i&gt;Corynoneura&lt;/i&gt; Winnertz and &lt;i&gt;Thienemanniella&lt;/i&gt; Kieffer are reviewed. Nine new species aredescribed and illustrated; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;acuminata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ascensa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;caudicula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;disinflata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;floridaensis&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;macula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; as male, female, pupa and larva; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hortonensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porrecta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; as male andfemale; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;capitanea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; as pharate male. Eight species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;collaris&lt;/i&gt; Makarchenko et Makarchenko &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;doriceni&lt;/i&gt;Makarchenko &lt;i&gt;et&lt;/i&gt; Makarchenko, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;edwardsi&lt;/i&gt; Brundin, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lobata&lt;/i&gt; Edwards, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;scutellata&lt;/i&gt; Winnertz, &lt;i&gt;Thienemanniella&lt;/i&gt;&lt;i&gt;lobapodema&lt;/i&gt; Hestenes &lt;i&gt;et&lt;/i&gt; Sæther, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tiunovae&lt;/i&gt; Makarchenko &lt;i&gt;et&lt;/i&gt; Makarchenko, and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;xena&lt;/i&gt; (Roback) are reexamined basedon Nearctic specimens. Additionally, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fittkaui&lt;/i&gt; Schlee is mentioned, and four species with males unknown are included.Keys to all stages of the Nearctic &lt;i&gt;Corynoneura&lt;/i&gt; are presented, and keys to &lt;i&gt;Thienemanniella&lt;/i&gt; are updated. The lateral lamel-lae on the coxosternapodeme and the shape of labia of adult females are shown to be excellent distinguishing features for species in &lt;i&gt;Corynoneura.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthocladiinae; &lt;i&gt;Corynoneura&lt;/i&gt;; &lt;i&gt;Thienemanniella&lt;/i&gt;; new species; Nearctic</subject>
+          <subject_class locale="en_US">Orthocladiinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yue</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2012-11-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

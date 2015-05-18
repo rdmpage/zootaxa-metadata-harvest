@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2594.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2594</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Pholcid spiders of the genus &lt;i&gt;Khorata &lt;/i&gt;Huber, 2005 (Araneae: Pholcidae) from Guangxi, China</title>
+        <abstract locale="en_US">Eighteen species of the genus &lt;i&gt;Khorata&lt;/i&gt; Huber, including 16 new species, are reported from Guangxi, China: &lt;i&gt;Khorata&lt;/i&gt; &lt;i&gt;digitata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;dongkou&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;epunctata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;flabelliformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;fusui&lt;/i&gt; Zhang &amp; Zhu, 2009, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;guiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;liuzhouensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;luojinensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;macilenta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;miaoshanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;nanningensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;ningming&lt;/i&gt; Zhang &amp; Zhu, 2009, &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;paquini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;robertmurphyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;rongshuiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;shao&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;triangula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;wangae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; morphology; new species; cave; Southeast Asia</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhiyuan</firstname>
+          <lastname>Yao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-79</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2693.1</id>
+    <title locale="en_US">1 Dec. 2010</title>
+    <volume>2693</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-12-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Acentrella &lt;/i&gt;Bengtsson, 1912 (Ephemeroptera, Baetidae) from Kazakhstan with notes on the Palaearctic fauna</title>
+        <abstract locale="en_US">A detailed morphological description of the larval stage of &lt;i&gt;Acentrella&lt;/i&gt; &lt;i&gt;glareosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Acentrella&lt;/i&gt; &lt;i&gt;charadra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the genus &lt;i&gt;Acentrella&lt;/i&gt; Bengtsson, 1912 is given. Their differential diagnoses are provided with regard to other Palaearctic representatives of the genus. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;glareosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from the related species by the unique shape of maxillary palp, the arrangement of the bristles on it’s legs (the presence of bilateral ciliation and the second ventral row of tibial bristles) and vestigial paracercus. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;charadra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized mainly by the presence of apparent subapical bristles on the tarsal claws, the shape of it’s leg bristles (bilateraly ciliate on femora and tibiae, a row of tarsal bristles missing), the unique shape of the labial palp and vestigial paracercus. The generic concept of &lt;i&gt;Acentrella&lt;/i&gt; and its historical development is summarized. Possible relationships of &lt;i&gt;Acentrella&lt;/i&gt; to the Baetidae genera &lt;i&gt;Liebebiella&lt;/i&gt; Waltz &amp; McCafferty, 1987, &lt;i&gt;Platybaetis&lt;/i&gt; Müller-Liebenau, 1982, &lt;i&gt;Jubabaetis&lt;/i&gt; Müller-Liebenau, 1982 and &lt;i&gt;Gratia&lt;/i&gt; Thomas, 1992 from the Oriental Region are discussed. A species list and synonymies of all 13 Palaearctic representatives of the genus &lt;i&gt;Acentrella&lt;/i&gt; is presented, including the respective type localities and metamorphic stages described so far.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">differential diagnosis; taxonomy; Kazakhstan; Central Asia; biogeography</subject>
+          <subject_class locale="en_US">differential diagnosis</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pavel</firstname>
+          <lastname>Sroka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jo</firstname>
+          <middlename>Vegar</middlename>
+          <lastname>Arnekleiv</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2010-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Key to the genera of Oxyptilini (Lepidoptera: Pterophoridae: Pterophorinae), with descriptions of two new genera</title>
+        <abstract locale="en_US">&lt;i&gt;Apoxyptilus,&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Pseudoxyptilus,&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described and illustrated, with &lt;i&gt;Oxyptilus&lt;/i&gt; &lt;i&gt;anthites&lt;/i&gt; Meyrick, 1936, and &lt;i&gt;Oxyptilus&lt;/i&gt; &lt;i&gt;secutor&lt;/i&gt; Meyrick, 1911, as their type-species, respectively. &lt;i&gt;Apoxyptilus&lt;/i&gt; &lt;i&gt;anthites&lt;/i&gt; (Meyrick), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Pseudoxyptilus&lt;/i&gt; &lt;i&gt;secutor&lt;/i&gt; (Meyrick), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are redescribed. An illustrated key to the genera of the tribe Oxyptilini is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Pterophoridae; Pterophorinae; Oxyptilini; new genera; new combinations; identification key</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Helen</firstname>
+          <lastname>Alipanah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alireza</firstname>
+          <lastname>Sari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alimorad</firstname>
+          <lastname>Sarafrazi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cees</firstname>
+          <lastname>Gielis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shahab</firstname>
+          <lastname>Manzari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-34</pages>
+        <date_published>2010-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the Neotropical dung beetle genera &lt;i&gt;Deltorhinum &lt;/i&gt;Harold, 1869, and &lt;i&gt;Lobidion &lt;/i&gt;gen. nov. (Coleoptera: Scarabaeidae: Scarabaeinae)</title>
+        <abstract locale="en_US">The taxonomy of the genera &lt;i&gt;Deltorhinum&lt;/i&gt; Bates and &lt;i&gt;Lobidion&lt;/i&gt; gen. nov. is reviewed. A genus and seven species are described as new (Lobidion &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Deltorhinum&lt;/i&gt; &lt;i&gt;armatum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bilobatum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;guyanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;kempffmercadoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;robustum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;vazdemelloi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Lobidion&lt;/i&gt; &lt;i&gt;punctatissimum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; Illustrations of diagnostic characters and an identification key are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Deltorhinum&lt;/i&gt;; &lt;i&gt;Lobidion&lt;/i&gt;; Ateuchini; myrmecophyly; new genus; new species; Scarabaeinae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Deltorhinum&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>François</firstname>
+          <lastname>Génier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-48</pages>
+        <date_published>2010-12-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Filchneria mongolica &lt;/i&gt;(Klapálek, 1901) (Plecoptera, Perlodidae) based on type eggs and fresh material from the Selenga and Amur River Basins of Russia and Mongolia</title>
+        <abstract locale="en_US">&lt;i&gt;Filchneria&lt;/i&gt; &lt;i&gt;mongolica&lt;/i&gt; (Klapálek, 1901) is redescribed and reillustrated from the female holotype and fresh material collected in the Selenga and Amur River Basins of Russia and Mongolia. Its relationship with close relatives is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Perlodidae; &lt;i&gt;Filchneria&lt;/i&gt; &lt;i&gt;mongolica&lt;/i&gt;; eggs; eversible paraproct lobes; Selenga River; Amur River; Russia; Mongolia</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valentina</firstname>
+          <middlename>A.</middlename>
+          <lastname>Teslenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Zwick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalya</firstname>
+          <middlename>V.</middlename>
+          <lastname>Bazova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2010-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Pretarsal structures in the family Parastrachiidae (Hemiptera: Heteroptera: Pentatomoidea)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerzy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-62</pages>
+        <date_published>2010-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Sogana &lt;/i&gt;from the Greater Sunda (Hemiptera: Fulgoromorpha: Tropiduchidae)</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Sogana&lt;/i&gt; Matsumura, 1914, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;floreni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from Borneo, Sabah (Malaysia). The species is compared with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;robustocarina&lt;/i&gt; Liang &amp; Wang, 2008 and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;stimulata&lt;/i&gt; Melichar, 1914, and an addendum to the key to the species of &lt;i&gt;Sogana&lt;/i&gt; by Liang &amp; Wang (2008) is given to place the new species. Male genitalia and habitus are illustrated, biological data are provided. A distribution map is given for the 3 species of &lt;i&gt;Sogana&lt;/i&gt; known from the Greater Sunda.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fulgoroidea; Auchenorrhyncha; canopy fogging</subject>
+          <subject_class locale="en_US">Fulgoroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerome</firstname>
+          <lastname>Constant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-12-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

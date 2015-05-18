@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3330.1</id>
+    <title locale="en_US">31 May. 2012</title>
+    <volume>3330</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Water mites delineating the Oriental and Palaearctic regions—the unique fauna of southern Iran, with description of one new genus, one new subgenus and 14 new species (Acari: Hydrachnidia)</title>
+        <abstract locale="en_US">This paper deals with a collection of epigean and hypogean water mites from the Hormozgan and Sistan va Baluchestan prov-inces in southern Iran. One new genus, &lt;i&gt;Haloaxonopsis,&lt;/i&gt; is described, characterized by the presence of so-called wheel-likeacetabula, a unique character so far known only in marine mites of the family Pontarachnidae. One new subgenus, &lt;i&gt;Halolimne-&lt;/i&gt;&lt;i&gt;sia,&lt;/i&gt; and fourteen new species are described: &lt;i&gt;Hydrachna&lt;/i&gt; &lt;i&gt;sistanica,&lt;/i&gt; &lt;i&gt;Nilotonia&lt;/i&gt; &lt;i&gt;hormozgana,&lt;/i&gt; &lt;i&gt;Torrenticola&lt;/i&gt; &lt;i&gt;asadiae,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;hormozgan-&lt;/i&gt;&lt;i&gt;ensis,&lt;/i&gt; &lt;i&gt;Monatractides&lt;/i&gt; &lt;i&gt;martini,&lt;/i&gt; &lt;i&gt;Neoatractides&lt;/i&gt; &lt;i&gt;calidus,&lt;/i&gt; &lt;i&gt;Limnesia&lt;/i&gt; &lt;i&gt;diversipes,&lt;/i&gt; &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;hormozganus,&lt;/i&gt; &lt;i&gt;Javalbia&lt;/i&gt; &lt;i&gt;persica,&lt;/i&gt;&lt;i&gt;Axonopsis&lt;/i&gt; &lt;i&gt;gloeeri,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;interstitialis,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hyporheica,&lt;/i&gt; &lt;i&gt;Haloaxonopsis&lt;/i&gt; &lt;i&gt;salina&lt;/i&gt; and &lt;i&gt;Albia&lt;/i&gt; &lt;i&gt;hyporheica.&lt;/i&gt; The first descriptions of thefemale are given for &lt;i&gt;Neumania&lt;/i&gt; &lt;i&gt;cf.&lt;/i&gt; &lt;i&gt;maharashtris&lt;/i&gt; Cook, 1967 and &lt;i&gt;Arrenurus&lt;/i&gt; &lt;i&gt;bharatensis&lt;/i&gt; Cook, 1967. The following species arereported for the first time in Iran: &lt;i&gt;Hydrachna&lt;/i&gt; cf. &lt;i&gt;vaillanti&lt;/i&gt; K. Viets 1951, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;globosa&lt;/i&gt; &lt;i&gt;lacerata&lt;/i&gt; Lundblad, 1969, &lt;i&gt;Diplodontus&lt;/i&gt; &lt;i&gt;sil-&lt;/i&gt;&lt;i&gt;vestrii&lt;/i&gt; (Daday, 1898), &lt;i&gt;Hygrobates&lt;/i&gt; &lt;i&gt;hamatus&lt;/i&gt; K. Viets, 1935, &lt;i&gt;Atractides&lt;/i&gt; &lt;i&gt;biscutatus&lt;/i&gt; Cook, 1967 and &lt;i&gt;Arrenurus&lt;/i&gt; &lt;i&gt;bharatensis&lt;/i&gt; Cook,1967. The zoogeographical and ecological characteristics of the water mite fauna of southern Iran are discussed. The fauna ofSE Iran is of Oriental character, and no typical Palaearctic species were found. Our study shows that this fauna is not transitional, suggesting a rather ‘sharp’ boundary between the Palaearctic and Oriental regions in southern Iran.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; taxonomy; Palaearctic; Oriental; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alireza</firstname>
+          <lastname>Saboori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-67</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

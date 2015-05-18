@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2509.1</id>
+    <title locale="en_US">17 Jun. 2010</title>
+    <volume>2509</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-06-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Gyrodactylus jarocho &lt;/i&gt;sp. nov. and &lt;i&gt;Gyrodactylus xalapensis &lt;/i&gt;sp. nov. (Platyhelminthes: Monogenea) from Mexican poeciliids (Teleostei: Cyprinodontiformes), with comments on the known gyrodactylid fauna infecting poeciliid fish</title>
+        <abstract locale="en_US">Poeciliid fish have been dispersed worldwide with the ornamental fish trade and as part of mosquito control programmes, and with them their gyrodactylid parasites. Due to the easy maintenance and reproduction in aquaria of both poeciliid fish hosts and gyrodactylid parasites, several ecological, epidemiological and parasitological studies have been made with them. To date, nine species of &lt;i&gt;Gyrodactylus&lt;/i&gt; are known to infect poeciliid fish: &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;bullatarudis&lt;/i&gt; Turnbull, 1956, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;costaricensis&lt;/i&gt; Kritsky &amp; Fritts, 1970, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;cytophagus&lt;/i&gt; Paperna, 1968, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;gambusiae&lt;/i&gt; Rogers &amp; Wellborn, 1965, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;milleri&lt;/i&gt; Harris &amp; Cable, 2000, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;pictae&lt;/i&gt; Cable, van Oosterhout, Barson &amp; Harris, 2005, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;poeciliae&lt;/i&gt; Harris &amp; Cable, 2000, &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;rasini&lt;/i&gt; Lucký, 1973, and &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;turnbulli&lt;/i&gt; Harris, 1986. We describe two new gyrodactylid species from wild Mexican poeciliid fish collected within their native distribution ranges: &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;jarocho&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Xiphophorus&lt;/i&gt; &lt;i&gt;hellerii&lt;/i&gt; Heckel and &lt;i&gt;Gyrodactylus&lt;/i&gt; &lt;i&gt;xalapensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Heterandria&lt;/i&gt; &lt;i&gt;bimaculata&lt;/i&gt; Heckel, the first gyrodactylid to be described from this host. We also present a new host and locality record for &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bullatarudis,&lt;/i&gt; which was found on &lt;i&gt;Poecilia&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; Steindachner. Mexican samples were compared with museum specimens of all known gyrodactylids from poeciliid hosts, which were subjected to morphometric analysis. Both new species were clearly separated from all other known gyrodactylids infecting poeciliid fish in principal components analyses (PCA). Marginal hook sickle morphology is the key to the separation and discrimination of all the gyrodactylids parasitizing poeciliids, and we provide graphical and morphological data to distinguish between the eleven described gyrodactylid species from poeciliid hosts; we hope this proves a practical tool to discriminate between these otherwise morphologically similar parasites. Finally, we present a re-description of the marginal hooks of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;milleri,&lt;/i&gt; because re-examination of the holotype demonstrated the presence of three differently-shaped marginal hook sickles. This is the second known species of &lt;i&gt;Gyrodactylus&lt;/i&gt; to have noticeably differently-shaped and sized marginal hooks.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Heterandria;&lt;/i&gt; &lt;i&gt;Xiphophorus;&lt;/i&gt; México; Gyrodactylidae; parasites</subject>
+          <subject_class locale="en_US">&lt;i&gt;Heterandria;&lt;/i&gt; &lt;i&gt;Xiphophorus;&lt;/i&gt; México; Gyrodactylidae; parasites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miguel</firstname>
+          <lastname>Rubio-Godoy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Giuseppe</firstname>
+          <lastname>Paladini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>García-Vásquez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>P.</middlename>
+          <lastname>Shinn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2010-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Notonyx &lt;/i&gt;A. Milne-Edwards, 1873 (Crustacea: Decapoda: Brachyura: Goneplacidae) from the Philippines and Fiji</title>
+        <abstract locale="en_US">Two new species of goneplacid crabs assigned to &lt;i&gt;Notonyx&lt;/i&gt; A. Milne-Edwards, 1873 (Crustacea: Brachyura: Goneplacidae) are described from the Philippines and Fiji. &lt;i&gt;Notonyx&lt;/i&gt; &lt;i&gt;sagittifer&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Philippines is superficially similar to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; Ng &amp; Clark, 2008, from the Lesser Sunda Islands in Indonesia, but the carapace of the new species is proportionately less broad and the morphologies of the male first and second gonopods are significantly different. &lt;i&gt;Notonyx&lt;/i&gt; &lt;i&gt;rayneri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is closest to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;kumi&lt;/i&gt; Naruse &amp; Maenosono, 2009, from Japan and Indonesia but differs markedly in its carapace proportions as well as the structures of the male first and second gonopods.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Goneplacidae; &lt;i&gt;Notonyx&lt;/i&gt;; new species; Fiji; Philippines</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-38</pages>
+        <date_published>2010-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological and molecular characterization of &lt;i&gt;Aphelenchoides fujianensis &lt;/i&gt;n. sp. (Nematoda: Aphelenchoididae) from &lt;i&gt;Pinus massoniana &lt;/i&gt;in China</title>
+        <abstract locale="en_US">&lt;i&gt;Aphelenchoides&lt;/i&gt; &lt;i&gt;fujianensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described and illustrated from a dead &lt;i&gt;Pinus&lt;/i&gt; &lt;i&gt;massoniana&lt;/i&gt; based on morphology and molecular analyses of the near-full-length small subunit rDNA gene and partial cytochrome oxidase subunit I of mitochondrial DNA. This new species belongs to the Group 3 of &lt;i&gt;Aphelenchoides&lt;/i&gt; species &lt;i&gt;sensu&lt;/i&gt; Shahina with star-shaped tail terminus and is characterised by a relatively long body (653–843 μ m in the male and 803–941 μ m in the female) and four lateral incisures in the lateral field. The male has relatively large spicules (24–30 μ m). The female has elongate postvulval uterine sac (extending &lt;i&gt;ca&lt;/i&gt; 32–44% of vulva-anus distance), usually with sperms. Both male and female have star-shaped mucro. It is distinguished from other species by postvulval uterine sac length, &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;c&lt;/i&gt; ratios, and spicule size and shape. Molecular analysis reveals that this species has unique 18S and mt-DNA sequences, and is closest to &lt;i&gt;Aphelenchoides&lt;/i&gt; &lt;i&gt;besseyi&lt;/i&gt; in dendrograms inferred using both markers. The identification codes of OEPP/EPPO for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fujianensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; are: A1-B2-C1-D1/3-E1-F1/2.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aphelenchoididae; &lt;i&gt;Aphelenchoides&lt;/i&gt; &lt;i&gt;fujianensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; China; description; DNA sequencing; molecular phylogeny; morphology; SEM; taxonomy</subject>
+          <subject_class locale="en_US">Aphelenchoididae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kan</firstname>
+          <lastname>Zhuo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ruqiang</firstname>
+          <lastname>Cui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weimin</firstname>
+          <lastname>Ye</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mei</firstname>
+          <lastname>Luo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Honghong</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xuenan</firstname>
+          <lastname>Hu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jinling</firstname>
+          <lastname>Liao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-52</pages>
+        <date_published>2010-06-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Ophryotrocha &lt;/i&gt;(Annelida: Dorvilleidae) associated with fish farming at Macquarie Harbour, Tasmania, Australia</title>
+        <abstract locale="en_US">&lt;i&gt;Ophryotrocha&lt;/i&gt; &lt;i&gt;shieldsi,&lt;/i&gt; sp. nov. is described from Macquarie Harbour, Tasmania, Australia, where it occurs in high densities beneath the sea cages of fish farms. SCUBA and ROV underwater observations revealed closely spaced mounds of aggregations of the new species. It is closely related to &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;lobifera&lt;/i&gt; Oug, a species reported from fish farms and whale-falls in the North Sea, from which it can be distinguished by its ovate rather than triangular dorsal lateral lobes, palps with small globular rather than longer digitate palpostyles, and additional jaw differences.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Polychaeta; fish farms; organic enrichment; taxonomy</subject>
+          <subject_class locale="en_US">Polychaeta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hannelore</firstname>
+          <lastname>Paxton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adam</firstname>
+          <lastname>Davey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2010-06-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Records of regalecid fishes in Argentine waters</title>
+        <abstract locale="en_US">The first two specimens of &lt;i&gt;Regalecus&lt;/i&gt; &lt;i&gt;glesne&lt;/i&gt; Ascanius, 1788, collected in the Argentine Sea, at Playa Unión beach, 43º 18' S, 65º 02' W are reported. Body measurements, meristic characters and morphological data are given. The most important differences with two other regalecid species, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;russelii&lt;/i&gt; Cuvier and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;kinoi&lt;/i&gt; Castro-Aguirre &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 1991, from the Pacific coasts of Mexico, are considered. Also, a specimen caught at 43° 03’ S, 59° 14’ W, at 993 m depth, previously identified as &lt;i&gt;Agrostichthys&lt;/i&gt; sp. is rediagnosed as &lt;i&gt;Agrostichthys&lt;/i&gt; &lt;i&gt;parkeri&lt;/i&gt; Benham, 1904. The distribution of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;glesne&lt;/i&gt; is extended to the Argentine Sea, adding a regalecid species to its fish fauna.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Regalecus&lt;/i&gt; &lt;i&gt;glesne&lt;/i&gt;; &lt;i&gt;Agrostichthys&lt;/i&gt; &lt;i&gt;parkeri&lt;/i&gt;; Argentine Sea; report</subject>
+          <subject_class locale="en_US">&lt;i&gt;Regalecus&lt;/i&gt; &lt;i&gt;glesne&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>E.</middlename>
+          <lastname>Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Atila</firstname>
+          <middlename>E.</middlename>
+          <lastname>Gosztonyi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-66</pages>
+        <date_published>2010-06-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Areopaguristes&lt;/i&gt;, a generic replacement name for &lt;i&gt;Stratiotes &lt;/i&gt;Thomson, 1899 (Crustacea: Decapoda: Paguroidea: Diogenidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dwi</firstname>
+          <middlename>Listo</middlename>
+          <lastname>Rahayu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patsy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mclaughlin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2010-06-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

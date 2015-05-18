@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2192.1</id>
+    <title locale="en_US">10 Aug. 2009</title>
+    <volume>2192</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Eulichas &lt;/i&gt;Jacobson, 1913 (Coleoptera: Eulichadidae) II. &lt;i&gt;E. dudgeoni &lt;/i&gt;species group</title>
+        <abstract locale="en_US">The &lt;i&gt;Eulichas&lt;/i&gt; &lt;i&gt;dudgeoni&lt;/i&gt; species group of the genus &lt;i&gt;Eulichas&lt;/i&gt; Jacobson, 1913 is revised. Three informal species complexes are established. All included species are described and their diagnostic characters are illustrated. The following eleven new species are described: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;alesbezdeki&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos, Vietnam), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;jakli&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Indonesia: Kalimantan), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;oborili&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Thailand), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;robusta&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Malaysia), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sausai&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Indonesia: Sumatra, Malaysia), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;serricornis&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Malaysia), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;siamensis&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos, Thailand, Vietnam), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Laos, Thailand), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sundaensis&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Indonesia: Sumatra, Java), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;villosa&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Malaysia: Sabah), and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;wewalkai&lt;/i&gt; Hájek, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Nepal). &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;baeri&lt;/i&gt; (Fairmaire, 1898) is synonymised with &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;baeri&lt;/i&gt; var. &lt;i&gt;innotatus&lt;/i&gt; Pic, 1924 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Lectotypes are designated for &lt;i&gt;Eulichas&lt;/i&gt; &lt;i&gt;baeri&lt;/i&gt; &lt;i&gt;innotatus&lt;/i&gt; (Luzon, Philippines), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;incisicollis&lt;/i&gt; Pic, 1933 (Cameron Highlands, Malaysia), and &lt;i&gt;Lichas&lt;/i&gt; &lt;i&gt;subocellata&lt;/i&gt; Fairmaire, 1898 (Kinabalu, Sabah, Malaysia).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Eulichadidae; &lt;i&gt;Eulichas&lt;/i&gt;; &lt;i&gt;Eulichas&lt;/i&gt; &lt;i&gt;dudgeoni&lt;/i&gt; species group; taxonomy; new species; Palaearctic; Oriental; identification key</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Hájek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2009-08-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the hygropetric genus &lt;i&gt;Oocyclus &lt;/i&gt;Sharp (Coleoptera: Hydrophilidae) from Laos, with description of a new species</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Oocyclus&lt;/i&gt; Sharp, 1882 is recorded from Laos for the first time. Two species are recognized, including a new species: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;rupicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;thailensis&lt;/i&gt; Short et Swanson, 2005. Male genital segments and female spermathecal organs are illustrated, and the latter is also described for each species. SEM photographs of several useful taxonomic features are provided. Digital photographs of the holotype of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;rupicola&lt;/i&gt; are provided (online version in color). A key to the species of the genus from the Indochina peninsula is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Hydrophilidae; &lt;i&gt;Oocyclus&lt;/i&gt;; new record; new species; Laos; hygropetric habitats; spermatheca; taxonomy</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yûsuke</firstname>
+          <lastname>Minoshima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-55</pages>
+        <date_published>2009-08-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cladistic assessment and description of a new Neotropical genus and species of Lymeonina (Hymenoptera, Ichneumonidae, Cryptinae)</title>
+        <abstract locale="en_US">The Cryptini &lt;i&gt;Petila&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; from the Brazilian Atlantic Forest, is proposed, described, illustrated, and cladistically compared with representative species of ten genera of the subtribe Lymeonina and six outgroup species. A total of 19 species and 87 characters were evaluated. All analyses clearly suggest that &lt;i&gt;Petila&lt;/i&gt; must indeed be treated as a distinct genus, closest to &lt;i&gt;Polycyrtidea&lt;/i&gt; Viereck. The species &lt;i&gt;Petila&lt;/i&gt; &lt;i&gt;capixaba,&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; is described and illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic Forest; Cryptini; Mesostenini; Phygadeuontinae; &lt;i&gt;Polycyrtidea&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Atlantic Forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anazélia</firstname>
+          <middlename>M.</middlename>
+          <lastname>Tedesco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <middlename>P.</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2009-08-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

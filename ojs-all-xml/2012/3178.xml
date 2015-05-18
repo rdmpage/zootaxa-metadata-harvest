@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3178.1</id>
+    <title locale="en_US">31 Jan. 2012</title>
+    <volume>3178</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Balaustium &lt;/i&gt;von Heyden, 1826 (Acari: Actinotrichida, Erythraeidae) from Spain</title>
+        <abstract locale="en_US">An erythraeid mite, &lt;i&gt;Balaustium&lt;/i&gt; &lt;i&gt;hernandezi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; was found in large numbers in a greenhouse in Spain. The larva,deutonymph and female of the new species are described based on material obtained during experimental rearing. Dataand information on feeding habits, food spectrum, mode of reproduction and life cycle are provided. The potential role of the species as a biological control agent is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Parasitengona; &lt;i&gt;Balaustium&lt;/i&gt;; new species; biological control; Spain</subject>
+          <subject_class locale="en_US">Parasitengona</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joanna</firstname>
+          <lastname>Mąkol</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yves</firstname>
+          <lastname>Arijs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felix</firstname>
+          <lastname>Wäckers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-01-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ornithodoros brasiliensis &lt;/i&gt;Aragão (Acari: Argasidae): description of the larva, redescription of male and female, and neotype designation</title>
+        <abstract locale="en_US">&lt;i&gt;Ornithodoros&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; is an endemic tick from Brazil and is very aggressive to humans, resulting in pain, fever andintense inflammatory response. After more than 50 years without report, this species was recently found in rural areas ofSão Francisco de Paula municipality, State of Rio Grande do Sul, southern Brazil, from where it was originally described.Herein, we describe the larva and redescribe the adults of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; based on scanning electron microscopy. Sincethe type was lost we designate the neotype specimen under the number IBSP 10409. In addition, the relationship between&lt;i&gt;O.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; and other species from the Neotropical region that share the morphological characteristics of &lt;i&gt;Ornithodoros&lt;/i&gt;with dorsal humps on tarsi, and also live under the soil and feed on hosts other than bats, are discussed. Molecular analysisinferred from a portion of the 16S rRNA mitochondrial gene is also provided and it placed &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; in a cluster sup-ported by a maximal bootstrap value (100%) with &lt;i&gt;Ornithodoros&lt;/i&gt; &lt;i&gt;parkeri,&lt;/i&gt; &lt;i&gt;Ornithodoros&lt;/i&gt; &lt;i&gt;rostratus,&lt;/i&gt; and &lt;i&gt;Ornithodoros&lt;/i&gt; &lt;i&gt;turicata.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ornithodoros&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt;; argasid ticks; taxonomy; DNA sequence; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ornithodoros&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Darci</firstname>
+          <middlename>M.</middlename>
+          <lastname>Barros-Battesti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Valeria</firstname>
+          <middlename>C.</middlename>
+          <lastname>Onofrio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernanda</firstname>
+          <middlename>A.</middlename>
+          <lastname>Nieri-Bastos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Fábio</middlename>
+          <lastname>Soares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arlei</firstname>
+          <lastname>Marcili</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kátia</firstname>
+          <middlename>M.</middlename>
+          <lastname>Famadas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Luiz H.</middlename>
+          <lastname>Faccini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>G.</middlename>
+          <lastname>Ramirez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rovaina</firstname>
+          <middlename>L.</middlename>
+          <lastname>Doyle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Ricardo</middlename>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>R.</middlename>
+          <lastname>Junior</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alberto</firstname>
+          <middlename>A.</middlename>
+          <lastname>Guglielmone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>B.</middlename>
+          <lastname>Labruna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-32</pages>
+        <date_published>2012-01-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Callulops &lt;/i&gt;(Anura: Microhylidae) from montane forests in New Guinea</title>
+        <abstract locale="en_US">Two new species of microhylid frogs assigned to the genus &lt;i&gt;Callulops&lt;/i&gt; are described from the mountains of New Guinea.&lt;i&gt;Callulops&lt;/i&gt; &lt;i&gt;fojaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is known only from mid-montane forest in the Foja Mountains of Papua Province, IndonesianNew Guinea, and can be distinguished from congeners by the combination of moderate size, short limbs, slightly expandedfinger and toe discs, and uniform brown dorsal and lateral colouration. &lt;i&gt;Callulops&lt;/i&gt; &lt;i&gt;mediodiscus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is known from asingle site in mid-montane forest in Southern Highlands Province, Papua New Guinea, and can be distinguished from allcongeners by its wide finger and toe discs, moderate size and short advertisement call. Description of these two new frogspecies brings the number of &lt;i&gt;Callulops&lt;/i&gt; known to 18, of which at least nine are only known from montane regions (&gt;1000 m above sea level).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Central Cordillera; Foja Mountains; Frog; Indonesia; Papua New Guinea</subject>
+          <subject_class locale="en_US">Central Cordillera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <lastname>Oliver</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <lastname>Richards</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Burhan</firstname>
+          <lastname>Tjaturadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-44</pages>
+        <date_published>2012-01-31</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">MEHREZ GAMMOUDI (Tunisian Republic), BERNHARD EGGER (Austria), </title>
+        <abstract locale="en_US">A revision of the genus &lt;i&gt;Leptoplana&lt;/i&gt; Ehrenberg, 1831 in the Mediterranean basin is undertaken. This revision deals withthe distribution and validity of the species of &lt;i&gt;Leptoplana&lt;/i&gt; known for the area. The Mediterranean sub-species polyclad,&lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt; forma &lt;i&gt;mediterranea&lt;/i&gt; Bock, 1913 is elevated to the specific level. &lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;mediterranea&lt;/i&gt; comb.nov. is redescribed from the Lake of Tunis, Tunisia. This flatworm is distinguished from &lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt; mainlyby having a prostatic vesicle provided with a long diverticulum attached ventrally to the seminal vesicle, a genital pit clos-er to the male pore than to the female one and a twelve-eyed hatching juvenile instead of the four-eyed juvenile of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;tremellaris.&lt;/i&gt; The direct development in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mediterranea&lt;/i&gt; is described at 15 °C.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt;; planarian; turbellarian; embryonic development; juvenile; Tunisia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Saïda</firstname>
+          <lastname>Tekaya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carolina</firstname>
+          <lastname>Noreña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">QIN LIU (China), EDWARD A. MYERS (USA), GUANG H. ZHONG (China), JIAN HU (China), </title>
+        <abstract locale="en_US">In order to assess the phylogenetic position of the recently described &lt;i&gt;Protobothrops&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; Yang &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2011, wereconstructed relationships within the genus &lt;i&gt;Protobothrops&lt;/i&gt; based on four mtDNA gene fragments (12S RNA, 16S RNA,ND4 and cyt b). Phylogeny reconstruction consistently recovered a sister relationship between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ele-&lt;/i&gt;&lt;i&gt;gans&lt;/i&gt; though with uncompelling support. However, a clade composed of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mucrosquamatus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ele-&lt;/i&gt;&lt;i&gt;gans&lt;/i&gt; was recovered with strong support. The genetic distance between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; and between &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;maolanensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mucrosquamatus&lt;/i&gt; is relatively high compared to other sister-species comparisons within sampled &lt;i&gt;Pro-&lt;/i&gt;&lt;i&gt;tobothrops.&lt;/i&gt; Given the molecular results and morphological differences, we conclude that &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; is a valid species closely related to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mucrosquamatus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Asia; China; systematics; venomous snakes; Viperidae</subject>
+          <subject_class locale="en_US">Asia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hui</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peng</firstname>
+          <lastname>Guo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3178.1</id>
+    <title locale="en_US">31 Jan. 2012</title>
+    <volume>3178</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cimaria vargasi &lt;/i&gt;n. gen, n. sp. (Gastropoda: Pyramidellidae: Odostomiinae) from the Pacific Coast of Costa Rica, Central America</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tore</firstname>
+          <lastname>Høisæter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-67</pages>
+        <date_published>2012-01-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: DWORSCHAK, P. C. (2011) On the identities of Callianassa bouvieri Nobili, 1904, C. maldivensis Borradaile, 1904, and C. gravieri Nobili, 1905 (Crustacea: Decapoda: Callianassidae): a morphometric approach. Zootaxa 3049: 39–56 </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2012-01-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

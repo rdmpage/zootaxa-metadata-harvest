@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1679.1</id>
+    <title locale="en_US">14 Jan. 2008</title>
+    <volume>1679</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Brazilian Species of &lt;i&gt;Pseudaugochlora&lt;/i&gt; Michener 1954 (Hymenoptera: Halictidae: Augochlorini)</title>
+        <abstract locale="en_US">The Brazilian species of the bee genus &lt;i&gt;Pseudaugochlora&lt;/i&gt; are revised. &lt;i&gt;Pseudaugochlora&lt;/i&gt; was erected by Michener to include species previously considered in &lt;i&gt;Pseudaugochloropsis.&lt;/i&gt; Among the species previously known in the genus, only two — &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;graminea&lt;/i&gt; (Fabricius 1804) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pandora&lt;/i&gt; (Smith 1853) — were known to occur in Brazil. In this study, five new species are described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;erythrogaster,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;callaina,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flammula,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;indistincta,&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;simulata,&lt;/i&gt; while &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;graminea&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pandora&lt;/i&gt; are re-described based on their types. An identification key for the seven Brazilian species of &lt;i&gt;Pseudaugochlora&lt;/i&gt; and a revised diagnosis for the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Neotropical; bee; Apoidea; Halictidae; Augochlorini</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <middlename>A. B.</middlename>
+          <lastname>Almeida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2008-01-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic studies of the Balkan Reicheina (Coleoptera: Carabidae: Clivinini), with a review of the Albanian species</title>
+        <abstract locale="en_US">The Albanian species of the subtribe Reicheina Jeannel, 1957 are studied. &lt;i&gt;Dalmatoreicheia&lt;/i&gt; &lt;i&gt;maderi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type locality: massif of Maja e Krujë, Eastern Albania) and &lt;i&gt;Reicheadella&lt;/i&gt; &lt;i&gt;smetanai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type locality: vicinity of Liqueni i Butrintit Lake, Southern Albania) are described, illustrated and compared to the related species, and a key to the Albanian Reicheina is provided. &lt;i&gt;Reicheadella&lt;/i&gt; &lt;i&gt;bischoffi&lt;/i&gt; (Meschnigg, 1933) is illustrated and re-described, and a lectotype and paralectotype are designated. We provide some remarks on the genital morphology of &lt;i&gt;Reicheadella&lt;/i&gt; &lt;i&gt;corcyrea&lt;/i&gt; (Reitter, 1884). On the basis of adult morphology and paleobiogeography, &lt;i&gt;Reicheadella&lt;/i&gt; Reitter, 1913 and &lt;i&gt;Chaetomargoreicheia&lt;/i&gt; Magrini &amp; Bulirsch, 2005 &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are considered distinct lineages and raised to the generic level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Carabidae; &lt;i&gt;Dalmatoreicheia&lt;/i&gt;; &lt;i&gt;Reicheadella&lt;/i&gt;; &lt;i&gt;Chaetomargoreicheia&lt;/i&gt;; taxonomy; new species; lectotype designation; Palearctic Region; Balkan Peninsula; Albania</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <lastname>Bulirsch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Borislav</firstname>
+          <middlename>V.</middlename>
+          <lastname>Gueorguiev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-53</pages>
+        <date_published>2008-01-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of sucking louse (Phthiraptera: Anoplura) from Australia, and a key to the Australian species of &lt;i&gt;Hoplopleura&lt;/i&gt;</title>
+        <abstract locale="en_US">A new species of sucking louse, &lt;i&gt;Hoplopleura&lt;/i&gt; &lt;i&gt;zyzomydis,&lt;/i&gt; is described and illustrated from the common Australian rock rat &lt;i&gt;Zyzomys&lt;/i&gt; &lt;i&gt;argurus&lt;/i&gt; (Thomas, 1889) (Rodentia: Muridae), collected in northwest Queensland, Australia. This is the first record of a sucking louse from the genus &lt;i&gt;Zyzomys,&lt;/i&gt; and its morphology is contrasted with other Australian &lt;i&gt;Hoplopleura&lt;/i&gt; species. &lt;i&gt;Hoplopleura&lt;/i&gt; &lt;i&gt;zyzomydis&lt;/i&gt; is unique in having a combination of short dorsal principal thoracic setae and setae absent from paratergal plates 4–6. A key to the Australian species of &lt;i&gt;Hoplopleura&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anoplura; Australia; &lt;i&gt;Hoplopleura&lt;/i&gt;; Muridae; Phthiraptera; &lt;i&gt;Zyzomys&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Anoplura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Haylee</firstname>
+          <middlename>J.</middlename>
+          <lastname>Weaver</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philip</firstname>
+          <middlename>S.</middlename>
+          <lastname>Barton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2008-01-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">C-banding karyotypes of two species of &lt;i&gt;Primnoa &lt;/i&gt;(Orthoptera: Catantopidae) from Northeast China BING-ZHONG REN, NA LI, WEN-JUAN WEI &amp; LI-MING WANG&lt;span style="text-transform: uppercase"&gt; &lt;/span&gt;(China)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Abstract</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Excerpt</firstname>
+          <lastname>Free</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order</middlename>
+          <lastname>Pdf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2008-01-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

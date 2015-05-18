@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3008.1</id>
+    <title locale="en_US">30 Aug. 2011</title>
+    <volume>3008</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-08-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of Elachistinae (Lepidoptera: Elachistidae) from Cameroon and the Democratic Republic of the Congo </title>
+        <abstract locale="en_US">No Elachistinae have ever been recorded from Cameroon and only one species (Eretmograptis &lt;i&gt;coniodoxa)&lt;/i&gt; was described by Meyrick in 1938 from the Democratic Republic of the Congo. Here, we present ten new species of the subfamily Elachistinae from Central Africa: &lt;i&gt;Elachista&lt;/i&gt; &lt;i&gt;cordata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Urodeta&lt;/i&gt; &lt;i&gt;absidata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;aculeata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;crenata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;cuspidis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;faro&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;tortuosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Cameroon and &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;acerba&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;bucera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;talea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from the Democratic Republic of the Congo. The new species are diagnosed and illustrated with photographs of the adults and genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Elachistidae; Elachistinae; &lt;i&gt;Elachista&lt;/i&gt;; &lt;i&gt;Urodeta&lt;/i&gt;; new species; Afrotropical; Cameroon; Democratic Republic of the Congo</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Virginijus</firstname>
+          <lastname>Sruoga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jurate</firstname>
+          <lastname>De Prins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2011-08-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of oak gallwasps, &lt;i&gt;Cycloneuroterus &lt;/i&gt;Melika &amp; Tang, with the description of five new species from Taiwan (Hymenoptera: Cynipidae: Cynipini) </title>
+        <abstract locale="en_US">A new genus of cynipid oak gallwasp, &lt;i&gt;Cycloneuroterus&lt;/i&gt; Melika &amp; Tang (Hymenoptera: Cynipidae: Cynipini), containing five new species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lilungi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;longinuxus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lirongchiuea,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fortuitusus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;formosanus,&lt;/i&gt; is described from Taiwan. Diagnostic characters and generic limits of the new genus are discussed in detail and a key to a group of closely related genera which share a suite of diagnostic genus-level characters is given. Descriptions of galls and adults, data on the diagnosis, distribution, host plant associations and biology of the new species, and a key to all five species are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cynipidae; oak gallwasp; &lt;i&gt;Cycloneuroterus&lt;/i&gt;; &lt;i&gt;Neuroterus&lt;/i&gt;; taxonomy; distribution; biology</subject>
+          <subject_class locale="en_US">Cynipidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chang-Ti</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <lastname>Melika</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>A.</middlename>
+          <lastname>Nicholls</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Man-Miao</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Graham</firstname>
+          <middlename>N.</middlename>
+          <lastname>Stone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-62</pages>
+        <date_published>2011-08-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nesting ecology of &lt;i&gt;Megachile &lt;/i&gt;(&lt;i&gt;Sayapis&lt;/i&gt;) &lt;i&gt;mendozana &lt;/i&gt;Cockerell and its synonymy with &lt;i&gt;Megachile &lt;/i&gt;(&lt;i&gt;Sayapis&lt;/i&gt;) &lt;i&gt;santiaguensis &lt;/i&gt;Durante (Hymenoptera: Megachilidae) </title>
+        <abstract locale="en_US">We synonymized &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;santiaguensis&lt;/i&gt; Durante with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mendozana&lt;/i&gt; Cockerell based on individual siblings of different sex obtained from a trap-nest. Similarity in morphology between individuals of both sexes of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mendozana,&lt;/i&gt; as well as the overlapping distribution, provides further evidence to support this synonymy. Also, we report aspects of nesting ecology and analyze the pollen in cell provisions and/or feces of 11 samples of 4 different trap-nests. Additionally, floral host, associated organisms, and new geographical records are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Megachilini; leafcutter bees; Argentina; trap-nests; &lt;i&gt;Melittobia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Megachilini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>Pablo</middlename>
+          <lastname>Torretta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Silvana</firstname>
+          <middlename>Patricia</middlename>
+          <lastname>Durante</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-08-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

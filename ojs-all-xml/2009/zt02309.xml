@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2309.1</id>
+    <title locale="en_US">11 Dec. 2009</title>
+    <volume>2309</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A first look at the phylogeny of the Myrmarachninae, with rediscovery and redescription of the type species of &lt;i&gt;Myrmarachne &lt;/i&gt;(Araneae: Salticidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Myrmarachne&lt;/i&gt; &lt;i&gt;melanocephala&lt;/i&gt; MacLeay, 1839, type species of the genus &lt;i&gt;Myrmarachne&lt;/i&gt; MacLeay, 1839, is rediscovered and redescribed, and a neotype is here designated. Five &lt;b&gt;new&lt;/b&gt; &lt;b&gt;synonyms&lt;/b&gt; of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;melanocephala&lt;/i&gt; are proposed: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;contracta&lt;/i&gt; (Karsch, 1880) [lectotype here designated], &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;providens&lt;/i&gt; (Peckham &amp; Peckham, 1892), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ramosa&lt;/i&gt; Badcock, 1918, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;albicrurata&lt;/i&gt; Badcock, 1918, and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; Badcock, 1918. &lt;i&gt;Myrmarachne&lt;/i&gt; &lt;i&gt;melanocephala&lt;/i&gt; is shown to be a widespread species in southern Asia that mimics the ant &lt;i&gt;Tetraponera&lt;/i&gt; &lt;i&gt;rufonigra&lt;/i&gt; (Jerdon). &lt;i&gt;Myrmarachne&lt;/i&gt; &lt;i&gt;christae&lt;/i&gt; (Prószyński, 2001) and &lt;i&gt;Myrmarachne&lt;/i&gt; &lt;i&gt;galianoae&lt;/i&gt; (Prószyński, 2001) are transferred from &lt;i&gt;Damoetas,&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combinations.&lt;/b&gt; The latter results in a homonym with &lt;i&gt;Myrmarachne&lt;/i&gt; &lt;i&gt;galianoae&lt;/i&gt; Cutler, 1981: we rename the species &lt;i&gt;Myrmarachne&lt;/i&gt; &lt;i&gt;mariaelenae&lt;/i&gt; Edwards &amp; Benjamin, &lt;b&gt;replacement&lt;/b&gt; &lt;b&gt;name.&lt;/b&gt; Further characterization of the species groups of &lt;i&gt;Myrmarachne&lt;/i&gt; is presented, related genera are discussed, and a preliminary phylogeny of the Myrmarachninae is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Myrmarachninae; new combination; new name; new synonym; phylogeny; species groups; &lt;i&gt;Belippo&lt;/i&gt;; &lt;i&gt;Bocus&lt;/i&gt;; &lt;i&gt;Damoetas&lt;/i&gt;; &lt;i&gt;Judalana&lt;/i&gt;; &lt;i&gt;Ligonipes&lt;/i&gt;; &lt;i&gt;Panachraesta&lt;/i&gt;; &lt;i&gt;Rhombonotus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Myrmarachninae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Edwards</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Suresh</firstname>
+          <middlename>P.</middlename>
+          <lastname>Benjamin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2009-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Sierraphytoptus &lt;/i&gt;Keifer 1939 (Eriophyoidea, Phytoptidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">eriophyoid mites; new species; taxonomy; &lt;i&gt;Sierraphytoptus&lt;/i&gt; &lt;i&gt;setiger&lt;/i&gt;; &lt;i&gt;Sierraphytoptus&lt;/i&gt; &lt;i&gt;ambulans&lt;/i&gt;</subject>
+          <subject_class locale="en_US">eriophyoid mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philipp</firstname>
+          <middlename>E.</middlename>
+          <lastname>Chetverikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sogdiana</firstname>
+          <middlename>I.</middlename>
+          <lastname>Sukhareva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-42</pages>
+        <date_published>2009-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A redescription of &lt;i&gt;Metopa &lt;/i&gt;species (Amphipoda, Stenothoidae) based on the type material. 2. The United States National Museum of Natural History (NMNH)</title>
+        <abstract locale="en_US">This paper presents redescriptions of amphipods in the genus &lt;i&gt;Metopa&lt;/i&gt; (Stenothoidae) in the type-collections of the United States National Museum of Natural History, Smithsonian Institution. Typeand paratype-material is used for &lt;i&gt;Metopa&lt;/i&gt; &lt;i&gt;spinicoxa&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stelleri.&lt;/i&gt; The material used for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dawsoni&lt;/i&gt; is from a station very close to the type locality, and identified by Barnard, who is the author of the species. We have used material from the Albatross expedition in 1906, identified by Shoemaker, for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cristata&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;majuscula,&lt;/i&gt; both originally described by Gurjanova. All species are redescribed using line drawings, and comparisons with the original texts and figures.Key words:</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anne</firstname>
+          <middlename>Helene S.</middlename>
+          <lastname>Tandberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-68</pages>
+        <date_published>2009-12-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

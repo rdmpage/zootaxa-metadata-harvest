@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1912.1</id>
+    <title locale="en_US">22 Oct. 2008</title>
+    <volume>1912</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The problems of subsequent typification in genus-group names and use of the &lt;i&gt;Zoological Record&lt;/i&gt;: a study of selected post-1930 Diptera genus-group names without type species designations</title>
+        <abstract locale="en_US">We list 117 genus-group names of Diptera that were proposed after 1930 with diagnoses and more than one included species but without type species designations and review their current status. Research into the earliest proposals making the names available resulted in one new synonymy: &lt;i&gt;Breviculala&lt;/i&gt; Ito, 1949 = &lt;i&gt;Pseudacidia&lt;/i&gt; Munro, 1935, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.&lt;/b&gt; (Tephritidae), the discovery of a number of earlier designations, and the recognition of available genus-group names previously thought to be &lt;i&gt;nomina&lt;/i&gt; &lt;i&gt;nuda.&lt;/i&gt; Discussion is made concerning type designations in the &lt;i&gt;Zoological&lt;/i&gt; &lt;i&gt;Record&lt;/i&gt; and type fixations by monotypy for genus-group names proposed after 1930 without a type species designation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; nomenclature; genus-group names</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Pape</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adrian</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pont</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2008-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Synopsis of &lt;i&gt;Prosierola &lt;/i&gt;(Hymenoptera: Bethylidae)</title>
+        <abstract locale="en_US">The identity of many species of &lt;i&gt;Prosierola&lt;/i&gt; is currently unknown, mostly because the available taxonomic information is not sufficiently accurate to allow for precise identifications. To solve this problem, nine valid species were investigated. Neotropical species of Bethylinae were also examined in order to find possible misclassified species of &lt;i&gt;Prosierola.&lt;/i&gt; In this paper six nomenclatural changes are made, and six valid species recognized. The lectotype of &lt;i&gt;Parasierola&lt;/i&gt; &lt;i&gt;flavicoxis&lt;/i&gt; Kieffer is designated. The following new species-group synonyms are established: &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;lata&lt;/i&gt; (Cameron) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;nasalis&lt;/i&gt; (Westwood); &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; Evans &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;cubana&lt;/i&gt; Evans, and &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;bicarinata&lt;/i&gt; (Brues) &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;flavicoxis&lt;/i&gt; (Kieffer), and &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; Evans &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;obliqua&lt;/i&gt; Evans. The following new combination is established: &lt;i&gt;Prosierola&lt;/i&gt; &lt;i&gt;flavicoxis&lt;/i&gt; (Kieffer) from &lt;i&gt;Goniozus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Bethylidae; &lt;i&gt;Prosierola&lt;/i&gt;; Taxonomy; Neotropical</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Celso</firstname>
+          <middlename>O.</middlename>
+          <lastname>Azevedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-58</pages>
+        <date_published>2008-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the Old World Oedemeridae (Coleoptera)</title>
+        <abstract locale="en_US">New species of the family Oedemeridae are described and illustrated: &lt;i&gt;Ditylus&lt;/i&gt; &lt;i&gt;catenulatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China: Sichuan), &lt;i&gt;Chrysanthia&lt;/i&gt; &lt;i&gt;kantneri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (India: Maharasthra) and &lt;i&gt;Colobostomus&lt;/i&gt; &lt;i&gt;kenyaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Kenya). The male of &lt;i&gt;Indasclera&lt;/i&gt; &lt;i&gt;akiyamai&lt;/i&gt; Švihla, 1997 is described and illustrated and this species is newly recorded from Laos.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Coleoptera; Oedemeridae; &lt;i&gt;Ditylus&lt;/i&gt;; &lt;i&gt;Chrysanthia&lt;/i&gt;; &lt;i&gt;Colobostomus&lt;/i&gt;; &lt;i&gt;Indasclera&lt;/i&gt;; new species; new record; Palearctic region; Oriental region; Afrotropical region</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimír</firstname>
+          <lastname>Vihla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-65</pages>
+        <date_published>2008-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Tagalis inornata cubensis&lt;/i&gt; McAtee &amp; Malloch (Hemiptera: Heteroptera: Reduviidae: Saicinae): First record from the continental United States</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>L.</middlename>
+          <lastname>Blinn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2008-10-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

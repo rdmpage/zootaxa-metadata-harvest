@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3508.1</id>
+    <title locale="en_US">5 Oct. 2012</title>
+    <volume>3508</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Monograph of &lt;i&gt;Nylanderia &lt;/i&gt;(Hymenoptera: Formicidae) of the World, Part II: &lt;i&gt;Nylanderia &lt;/i&gt;in the Nearctic </title>
+        <abstract locale="en_US">The taxonomy of the Nearctic &lt;i&gt;Nylanderia&lt;/i&gt; fauna is revised. Three new species are established, bringing the total numberof native species from the region to 14. The new species are: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;magnella,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;querna,&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;trageri.&lt;/i&gt; Several speciespossess workers that are difficult to distinguish from each other and the presence of males is required for morphologicalidentification. This is particularly the case with &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;vividula&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;terricola.&lt;/i&gt; Two subspecies are synonymized: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;vividula&lt;/i&gt;&lt;i&gt;mjobergi&lt;/i&gt; is considered a junior synonym of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;vividula&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;vividula&lt;/i&gt; &lt;i&gt;antillana&lt;/i&gt; is considered a junior synonym of &lt;i&gt;N.&lt;/i&gt;&lt;i&gt;guatemalensis.&lt;/i&gt; At least five &lt;i&gt;Nylanderia&lt;/i&gt; species have been introduced to the Nearctic region, including: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bourbonica,&lt;/i&gt;&lt;i&gt;N.&lt;/i&gt; &lt;i&gt;flavipes,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;fulva,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;pubens,&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;steinheili.&lt;/i&gt; Another species, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;guatemalensis,&lt;/i&gt; is also included because its widedistribution across the Caribbean and Central America suggest it could become introduced to the Nearctic region. Iden-tification keys are provided for the workers of native and introduced species and the males of native species. Distributionmaps are provided for native and introduced species. Photomontage images are provided for the worker of each introduced species and all castes of the native species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">ant; genus-group; &lt;i&gt;Paratrechina&lt;/i&gt;; &lt;i&gt;Prenolepis&lt;/i&gt;; North America; taxonomy</subject>
+          <subject_class locale="en_US">ant</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>J.</middlename>
+          <lastname>Kallal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lapolla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2012-10-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

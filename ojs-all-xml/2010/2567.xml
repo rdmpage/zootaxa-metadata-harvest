@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2567.1</id>
+    <title locale="en_US">16 Aug. 2010</title>
+    <volume>2567</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the taxonomy and distribution of &lt;i&gt;Archispirostreptus &lt;/i&gt;Silvestri 1895 (Diplopoda, Spirostreptida, Spirostreptidae), and description of a new spirostreptid genus with three new species</title>
+        <abstract locale="en_US">As it is currently defined, &lt;i&gt;Archispirostreptus&lt;/i&gt; includes two species groups (the southern African and the east African) with distinct kinds of gonopods. A new genus, &lt;i&gt;Cacuminostreptus&lt;/i&gt; Mwabvu, is proposed to accommodate the southern African species which include &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;conatus&lt;/i&gt; (Attems 1928) comb. n. and three new species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vumbaensis&lt;/i&gt; Mwabvu, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;triangulatus&lt;/i&gt; Mwabvu and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mazowensis&lt;/i&gt; Mwabvu. Two new synonymies are established: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;Cecchii&lt;/i&gt; Silvestri 1897 = &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;phillipsii&lt;/i&gt; Pocock 1896 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;transmarinus&lt;/i&gt; Hoffman 1965 = &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;syriacus&lt;/i&gt; (Saussure 1859). The species &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;arabs&lt;/i&gt; Pocock 1895 is &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis;&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sumptuosus&lt;/i&gt; Silvestri 1896 is a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;dubium.&lt;/i&gt; Identification keys to the genera and species based on gonopod morphology and distribution data are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">millipedes; distribution; gonopod; savanna; eastern highlands; East Africa; southern Africa; Horn of Africa</subject>
+          <subject_class locale="en_US">millipedes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tarombera</firstname>
+          <lastname>Mwabvu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michelle</firstname>
+          <lastname>Hamer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rob</firstname>
+          <lastname>Slotow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Barraclough</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2010-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Malacoctenus brunoi &lt;/i&gt;sp. n. (Blennioidei: Labrisomidae), a new scaled-blenny from Trindade Island, off Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Malacoctenus&lt;/i&gt; &lt;i&gt;brunoi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; a scaled blenny endemic to Trindade Island, is distinguished from its southwest Atlantic congeners by the combination of a higher number of lateral-line scales (typically 62-66), a more elongated body (depth 19-22 % SL), and the presence of two longitudinal series of dark brown spots alongside the body.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Western Atlantic; Trindade Island; Brazil; reef fish; endemism; &lt;i&gt;Malacoctenus&lt;/i&gt;; Labrisomidae</subject>
+          <subject_class locale="en_US">Western Atlantic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <middlename>Z. P.</middlename>
+          <lastname>Guimarães</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>W.</middlename>
+          <lastname>Nunan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Luiz</middlename>
+          <lastname>Gasparini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-56</pages>
+        <date_published>2010-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Leptolalax &lt;/i&gt;(Anura: Megophryidae) from northeastern Cambodia</title>
+        <abstract locale="en_US">We describe a new species of megophryid frog in the genus &lt;i&gt;Leptolalax&lt;/i&gt; from the Kon Tum Plateau in northeastern Cambodia. &lt;i&gt;Leptolalax&lt;/i&gt; &lt;i&gt;melicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is distinguished from its congeners by a combination of an off-white to pale pink ventral surface with diffuse dark brown blotches and distinct white speckling, finger I &lt; II, an absence of webbing and dermal fringes on fingers, slight basal webbing and no dermal fringes on toes, body size (19.5–22.7 mm for seven adult males), an absence of ventrolateral glandular lines, dorsum mostly smooth with no skin ridges, and a unique advertisement call consisting of a single long introductory note containing 8–50 pulses, followed by 3–11 predominantly single-pulsed notes, and with an average dominant frequency of 3560–3610 Hz. &lt;i&gt;Leptolalax&lt;/i&gt; &lt;i&gt;melicus&lt;/i&gt; can be further distinguished from the morphologically similar &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;applebyi&lt;/i&gt; in having more distinct dorsal patterning, and significantly larger pectoral and femoral glands. &lt;i&gt;Leptolalax&lt;/i&gt; &lt;i&gt;melicus&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;applebyi&lt;/i&gt; also differ by 6.1% sequence divergence at the 16S mtDNA gene. All specimens of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;melicus&lt;/i&gt; were found near rocky streams in evergreen forest between 650–850 m elevation. We suggest the new species should be considered Data Deficient following IUCN’s Red List categories.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acoustics; Anura; &lt;i&gt;Leptolalax&lt;/i&gt; &lt;i&gt;melicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Ratanakiri; Cambodia; Southeast Asia</subject>
+          <subject_class locale="en_US">Acoustics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jodi</firstname>
+          <middlename>J. L.</middlename>
+          <lastname>Rowley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bryan</firstname>
+          <middlename>L.</middlename>
+          <lastname>Stuart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Neang</firstname>
+          <lastname>Thy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>A.</middlename>
+          <lastname>Emmett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2010-08-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1791.1</id>
+    <title locale="en_US">12 Jun. 2008</title>
+    <volume>1791</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Lasiocampidae of Iran (Lepidoptera)</title>
+        <abstract locale="en_US">An annotated taxonomic checklist of the 37 species of Iranian Lasiocampidae is presented and bionomic data are summarized for the country. Ten species are listed as new to Iran, and previous misidentifications in the Iranian lasiocampid fauna are corrected. Nomenclatural actions taken herein include: the description of &lt;i&gt;Malacosoma&lt;/i&gt; &lt;i&gt;parallela&lt;/i&gt; &lt;i&gt;iranica&lt;/i&gt; Zolotuhin &amp; Zahiri, &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; elevation to species rank of &lt;i&gt;Trichiura&lt;/i&gt; &lt;i&gt;kopetdaghi&lt;/i&gt; Dubatolov &amp; Zolotuhin, 1992, &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from a subspecies of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;mirzayani&lt;/i&gt; Ebert, 1971; and a new synonymy &lt;i&gt;Bombyx&lt;/i&gt; &lt;i&gt;Herzi&lt;/i&gt; Christoph, 1888, &lt;i&gt;=&lt;/i&gt; &lt;i&gt;Bombyx&lt;/i&gt; &lt;i&gt;Concolor&lt;/i&gt; Christoph, 1893, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; In addition, &lt;i&gt;Chilena&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; (Erschoff, 1874) is considered a superspecies complex, and females are described for the first time for &lt;i&gt;Giselea&lt;/i&gt; &lt;i&gt;pistaciae&lt;/i&gt; Wiltshire, 1952, &lt;i&gt;Phyllodesma&lt;/i&gt; &lt;i&gt;glasunowi&lt;/i&gt; (Grum-Grzhimailo, 1895), and &lt;i&gt;Streblote&lt;/i&gt; &lt;i&gt;solitaria&lt;/i&gt; Zolotuhin, 1991.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Lasiocampidae; Iran; systematics</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vadim</firstname>
+          <middlename>V.</middlename>
+          <lastname>Zolotuhin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Reza</firstname>
+          <lastname>Zahiri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2008-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Contributions to the knowledge of the "Staphylinus-complex" (Insecta: Coleoptera, Staphylinidae, Staphylinini) of China. Part 20. The genus &lt;i&gt;Wasmannellus &lt;/i&gt;Bernhauer, 1920. Section 2</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ales</firstname>
+          <lastname>Smetana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-56</pages>
+        <date_published>2008-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the Neotropical genus &lt;i&gt;Eucalandra&lt;/i&gt; Faust, 1899 (Coleoptera; Curculionidae: Dryophthorinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Eucalandra&lt;/i&gt; Faust is reviewed, including a redescription of the genus, diagnoses of the four previously described species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;boxi&lt;/i&gt; Marshall, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;luteosignata&lt;/i&gt; (Blanchard), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; (Champion), comb. n., and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;setulosa&lt;/i&gt; (Gyllenhal), and the description of a new species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;alas&lt;/i&gt; Anderson, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from Costa Rica. A key to the five now known species is provided, along with illustrations of the species and summaries of their natural history and distribution. These weevils are associated with bamboos.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; weevils; new species; bamboo; taxonomy</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>S.</middlename>
+          <lastname>Anderson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-67</pages>
+        <date_published>2008-06-12</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A replacement genus-group name in Buprestidae (Coleoptera)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bellamy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2008-06-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

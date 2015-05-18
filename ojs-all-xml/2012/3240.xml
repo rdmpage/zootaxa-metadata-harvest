@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3240.1</id>
+    <title locale="en_US">20 Mar. 2012</title>
+    <volume>3240</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-03-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the brachypterous, micropterous, and apterous Braconidae of the cyclostome lineage (Hymenoptera: Ichneumonoidea) from the Palearctic Region</title>
+        <abstract locale="en_US">The Palearctic species of Braconidae with brachypterous, micropterous, or apterous modification are discussed. Thefollowing new species are described: &lt;i&gt;Chremylus&lt;/i&gt; &lt;i&gt;planispinus&lt;/i&gt; Belokobylskij (France, Algeria), &lt;i&gt;Chremylus&lt;/i&gt; &lt;i&gt;algecirasus&lt;/i&gt;Belokobylskij (Spain), &lt;i&gt;Pambolus&lt;/i&gt; &lt;i&gt;erogolus&lt;/i&gt; Belokobylskij (Mongolia), &lt;i&gt;Pambolus&lt;/i&gt; &lt;i&gt;ovchinnikovi&lt;/i&gt; Belokobylskij (Kyr-gyzstan), &lt;i&gt;Hormius&lt;/i&gt; &lt;i&gt;stauropolicus&lt;/i&gt; Belokobylskij (Russia (North Caucasus)), &lt;i&gt;Bracon&lt;/i&gt; (Habrobracon) &lt;i&gt;barbieri&lt;/i&gt;Belokobylskij (Algeria), and &lt;i&gt;Panerema&lt;/i&gt; &lt;i&gt;kamtshatica&lt;/i&gt; Belokobylskij (Russia (Kamchatka)). The following species are re-described: &lt;i&gt;Heterospilus&lt;/i&gt; &lt;i&gt;hemipterus&lt;/i&gt; (Thomson) (male and female), &lt;i&gt;Chremylus&lt;/i&gt; &lt;i&gt;pomonellae&lt;/i&gt; (Atanasov) (male, female andmacropterous form), &lt;i&gt;Hormius&lt;/i&gt; &lt;i&gt;minialatus&lt;/i&gt; Tobias (female), and &lt;i&gt;Aleiodes&lt;/i&gt; (Chelonorhogas) &lt;i&gt;hemipterus&lt;/i&gt; Marshall (male andfemale). &lt;i&gt;Lituania&lt;/i&gt; &lt;i&gt;brachyptera&lt;/i&gt; Jakimavicius, 1968 is a new synonym of &lt;i&gt;Eurybolus&lt;/i&gt; &lt;i&gt;hemipterus&lt;/i&gt; Thomson, 1892. &lt;i&gt;Chremylus&lt;/i&gt;&lt;i&gt;pomonellae&lt;/i&gt; (Atanasov), new combination, is transferred from &lt;i&gt;Rhyssalus.&lt;/i&gt; &lt;i&gt;Aleiodes&lt;/i&gt; &lt;i&gt;hemipterus&lt;/i&gt; is placed in the subgenus&lt;i&gt;Chelonorhogas&lt;/i&gt; Enderlein. &lt;i&gt;Asobara&lt;/i&gt; &lt;i&gt;subalata&lt;/i&gt; (Zaykov &amp; Fischer) is returned from &lt;i&gt;Phaenocarpa&lt;/i&gt; Foerster. New distribu-tion records are reported for &lt;i&gt;Ecphylus&lt;/i&gt; (Sactopus) &lt;i&gt;caudatus&lt;/i&gt; Ruschka, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;hemipterus,&lt;/i&gt; &lt;i&gt;Rhaconotus&lt;/i&gt; &lt;i&gt;hispanicus&lt;/i&gt; Belokobyl-skij, &lt;i&gt;Pambolus&lt;/i&gt; &lt;i&gt;tricolor&lt;/i&gt; (Ruthe), &lt;i&gt;Hormius&lt;/i&gt; &lt;i&gt;minialatus&lt;/i&gt; Tobias, &lt;i&gt;A.&lt;/i&gt; (C.) &lt;i&gt;hemipterus,&lt;/i&gt; and &lt;i&gt;Pseudopezomachus&lt;/i&gt; &lt;i&gt;kasparyani&lt;/i&gt;Tobias. A key for identifying all Palearctic flightless cyclostome braconid species, and the genera in which they are placed,is provided. A discussion about the diversity, morphological characters, and natural history of wing size reduction, and possible reasons for flightlessness, is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">descriptions; distribution; identification; key; new species; new records; parasitoid; taxonomy</subject>
+          <subject_class locale="en_US">descriptions</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Belokobylskij</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>R.</middlename>
+          <lastname>Kula</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2012-03-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

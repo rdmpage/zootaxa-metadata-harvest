@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1873.1</id>
+    <title locale="en_US">10 Sep. 2008</title>
+    <volume>1873</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Five new species of&lt;i&gt; Myrsidea &lt;/i&gt;Waterston (Phthiraptera: Menoponidae) from saltators and grosbeaks (Passeriformes: Cardinalidae)</title>
+        <abstract locale="en_US">Five new species of &lt;i&gt;Myrsidea&lt;/i&gt; parasitic on members of the avian family Cardinalidae are described. They and their type hosts are &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lightae&lt;/i&gt; ex the Buff-throated Saltator, &lt;i&gt;Saltator&lt;/i&gt; &lt;i&gt;maximus&lt;/i&gt; (Statius Müller, 1776), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;markhafneri&lt;/i&gt; ex the Slatecolored Grosbeak, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;grossus&lt;/i&gt; (Linnaeus, 1766), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pittendrighi&lt;/i&gt; ex the Streaked Saltator, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;striatipectus&lt;/i&gt; Lafresnaye, 1847, and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;johnklickai&lt;/i&gt; and &lt;i&gt;M.sychrai&lt;/i&gt; ex the Blue-black Grosbeak, &lt;i&gt;Cyanocompsa&lt;/i&gt; &lt;i&gt;cyanoides&lt;/i&gt; (Lafresnaye, 1847). Results from sequences of a portion of the mitochondrial COI gene for several specimens of two of these species and other species of &lt;i&gt;Myrsidea&lt;/i&gt; are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">chewing lice; mitochondria; COI gene; sequencing</subject>
+          <subject_class locale="en_US">chewing lice</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <middlename>D.</middlename>
+          <lastname>Price</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>P.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>C.</middlename>
+          <lastname>Dalgleish</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-10</pages>
+        <date_published>2008-09-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Glyptothorax&lt;/i&gt; (Teleostei: Sisoridae) from central Vietnam</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Glyptothorax&lt;/i&gt; are described from the rivers draining the Annam Cordilleras in central Vietnam. &lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;filicatus&lt;/i&gt; n. sp. is distinguished from congeners in Indochina in having a diverging pattern of striae running along the edges of the central depression in the thoracic adhesive apparatus, and a combination of the following characters: dorsal spine length 13.7–15.1% SL, pectoral fin length 21.5–21.9% SL, length of adipose-fin base 13.3–15.0% SL, depth of caudal peduncle 8.4–8.8% SL, body depth at anus 15.1–16.0% SL, snout length 48.0–52.9% HL, eye diameter 8.9– 9.9% HL, anterior nuchal plate strongly demarcated in beige and caudal peduncle with a pale vertical band. &lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;strabonis&lt;/i&gt; n. sp. is distinguished from congeners in Indochina in having a very small eye (6.2–6.5% HL), and a combination of the following characters: length of caudal peduncle 20.5–21.2% SL, depth of caudal peduncle 7.5–9.2% SL, body depth at anus 13.7–20.9% SL, head width 17.9–18.8% SL, presence of 14–16 serrae on posterior margin of pectoral spine, and coloration consisting of a dark-brown body with indistinct pale mid-lateral and mid-dorsal stripes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Teleostei; Sisoridae; &lt;i&gt;Glyptothorax&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Teleostei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jörg</firstname>
+          <lastname>Freyhof</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>11-25</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Phorbas topsenti&lt;/i&gt; and &lt;i&gt;Phorbas tailliezi&lt;/i&gt; (Demospongiae, Poecilosclerida), new names for the Mediterranean '&lt;i&gt;Phorbas paupertas&lt;/i&gt;' and '&lt;i&gt;Phorbas coriaceus&lt;/i&gt;'</title>
+        <abstract locale="en_US">A common Mediterranean species of &lt;i&gt;Phorbas&lt;/i&gt; has been frequently identified under the specific name &lt;i&gt;paupertas,&lt;/i&gt; referring to the sponge described as &lt;i&gt;Hymeniacidon&lt;/i&gt; &lt;i&gt;paupertas&lt;/i&gt; by Bowerbank 1866 from the north coasts of Europe. It is actually different from this species, and a new name, &lt;i&gt;Phorbas&lt;/i&gt; &lt;i&gt;topsenti&lt;/i&gt; sp.nov., is proposed. A description of the morphology, spicule complement and cytology is given. Another Mediterranean species of &lt;i&gt;Phorbas,&lt;/i&gt; &lt;i&gt;Phorbas&lt;/i&gt; &lt;i&gt;tailliezi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Porifera; Hymedesmiidae; Mediterranean; &lt;i&gt;Phorbas&lt;/i&gt; &lt;i&gt;topsenti&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jean</firstname>
+          <lastname>Vacelet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thierry</firstname>
+          <lastname>Perez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-38</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Combined approach using morphology and ITS-sequences for description of three new species of &lt;i&gt;Macrocheles&lt;/i&gt; (Acari: Macrochelidae)</title>
+        <abstract locale="en_US">Three new phoretic mites from France and Gabon are described. &lt;i&gt;Macrocheles&lt;/i&gt; &lt;i&gt;lumareti&lt;/i&gt; sp. nov. (from France) was collected on &lt;i&gt;Copris&lt;/i&gt; &lt;i&gt;lunaris&lt;/i&gt; (Coleoptera, Scarabaeidae). Both &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bertrandi&lt;/i&gt; sp. nov. and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ovoidalis&lt;/i&gt; sp. nov. (from Gabon) were collected on &lt;i&gt;Stomoxys&lt;/i&gt; &lt;i&gt;calcitrans&lt;/i&gt; (Diptera). On the basis of morphological characteristics, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lumareti&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bertrandi&lt;/i&gt; were identified as belonging to the &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;glaber&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;muscadomesticae&lt;/i&gt; groups respectively. Genetic analyses using an ITS marker confirmed that &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lumareti&lt;/i&gt; belongs to the &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;glaber-group&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.,&lt;/i&gt; more closely related to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;glaber&lt;/i&gt; than all other species. The analysis did not support &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bertrandi&lt;/i&gt; as a member of the &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;muscaedomesticae&lt;/i&gt; group. The third species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ovoidalis,&lt;/i&gt; using both morphological and genetical markers, appeared clearly isolated from all other known &lt;i&gt;Macrocheles&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Macrocheles&lt;/i&gt; &lt;i&gt;lumareti&lt;/i&gt; sp. nov.; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bertrandi&lt;/i&gt; sp. nov.; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ovoidalis&lt;/i&gt; sp. nov.; ITS sequence; morphology; description; phylogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Macrocheles&lt;/i&gt; &lt;i&gt;lumareti&lt;/i&gt; sp. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerome</firstname>
+          <lastname>Niogret</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antoine</firstname>
+          <lastname>Nicot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-49</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of eyelid-less and limb reduced gymnophthalmid lizard from northeastern Brazil (Squamata, Gymnophthalmidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Scriptosaura&lt;/i&gt; &lt;i&gt;catimbau,&lt;/i&gt; a new genus and species of elongate, fossorial, sand swimming eyelid-less gymnophthalmid lizard is described on the basis of specimens obtained at Fazenda Porto Seguro, municipality of Buíque, State of Pernambuco, in the Caatingas of northeastern Brazil. The type locality is entirely included within the area of the recently created Parque Nacional do Catimbau. The new lizard lacks external forelimbs, has rudimentary styliform hindlimbs and is further characterized by the absence of prefrontal, frontal, frontoparietal and supraocular scales, and by having one pair of chin shields. A member of the Gymnophthalmini radiation, the new genus is considered to be sister to &lt;i&gt;Calyptommatus&lt;/i&gt; from which it differs externally by the absence of an ocular scale and absence of an enlarged temporal scale.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Scriptosaura&lt;/i&gt; &lt;i&gt;catimbau&lt;/i&gt;; new genus; Gymnophthalmidae; taxonomy; Catimbau Nacional Park; Pernambuco State; Brazil; Caatingas</subject>
+          <subject_class locale="en_US">&lt;i&gt;Scriptosaura&lt;/i&gt; &lt;i&gt;catimbau&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miguel</firstname>
+          <middlename>Trefaut</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ednilza</firstname>
+          <middlename>Maranhão Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-60</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Hexaglandula corynosoma&lt;/i&gt; (Travassos, 1915) Petrochenko, 1958 (Acanthocephala: Polymorphidae) in intermediate and definitive hosts in Mexico</title>
+        <abstract locale="en_US">Members of Polymorphidae, including &lt;i&gt;Hexaglandula&lt;/i&gt; &lt;i&gt;corynosoma,&lt;/i&gt; are acanthocephalans commonly found as intestinal parasites in marine mammals, fish-eating birds and waterfowl. &lt;i&gt;Hexaglandula&lt;/i&gt; &lt;i&gt;corynosoma&lt;/i&gt; is distributed throughout the Southeastern U. S. and southwards to Puerto Rico and Brazil. An acanthocephalan (and its larvae) resembling &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;corynosoma&lt;/i&gt; were found parasitizing intermediate (decapod crustaceans, &lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;spinicarpa)&lt;/i&gt; and definitive hosts (yellow-crowned night herons, &lt;i&gt;Nyctanacea&lt;/i&gt; &lt;i&gt;violacea)&lt;/i&gt; from various localities in Mexico. A morphological and genetic study, in combination with previous studies, confirmed that the larvae and adults were conspecific and corresponded to &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;corynosoma.&lt;/i&gt; This is the first record of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;corynosoma&lt;/i&gt; in Mexico parasitizing intermediate and definitive hosts.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acanthocephala; &lt;i&gt;Hexaglandula&lt;/i&gt; &lt;i&gt;corynosoma&lt;/i&gt;; &lt;i&gt;Nyctanassa&lt;/i&gt; &lt;i&gt;violacea&lt;/i&gt;; &lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;spinicarpa&lt;/i&gt;; cytochrome oxidase subunit I; Mexico</subject>
+          <subject_class locale="en_US">Acanthocephala</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <lastname>Guillén-Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <lastname>García-Varela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerardo</firstname>
+          <middlename>Pérez-Ponce</middlename>
+          <lastname>De León</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2008-09-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

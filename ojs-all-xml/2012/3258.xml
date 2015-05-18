@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3258.1</id>
+    <title locale="en_US">5 Apr. 2012</title>
+    <volume>3258</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the Lake Malaŵi genus &lt;i&gt;Melanochromis &lt;/i&gt;(Teleostei: Cichlidae) with a description of a new species </title>
+        <abstract locale="en_US">The Lake Malaŵi genus &lt;i&gt;Melanochromis&lt;/i&gt; included five species at its inception and was originally distinguished from&lt;i&gt;Pseudotropheus&lt;/i&gt; on the basis of morphology, including the arrangement of teeth on the lower pharyngeal bone. Thediagnosis has been extended twice, first to include all elongate mbuna that possess horizontal stripes and U-shaped toothbands and later to exclude mbuna that do not exhibit a sex-related reversal in their colour pattern. Recently, the diagnosisof the genus was refined on the basis of the melanin pattern. The genus now includes only species with a basic melaninpattern, which consists of two black horizontal lateral stripes on a light background. Most adult members of the genus,thus defined, have a sex-related reversal of pigmentation pattern. Here we describe &lt;i&gt;Melanochromis&lt;/i&gt; &lt;i&gt;mpoto&lt;/i&gt; n. sp. from thenorthwestern part of Lake Malawi, synonymize &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;parallelus&lt;/i&gt; Burgess &amp; Axelrod 1976 with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;loriae&lt;/i&gt; Johnson 1975,redescribe &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;chipokae&lt;/i&gt; Johnson 1975 and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Johnson 1985, and reclassify and designate a lectotype for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; Trewavas, 1935.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cichlid; mbuna; melanin pattern</subject>
+          <subject_class locale="en_US">Cichlid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrianus</firstname>
+          <middlename>F.</middlename>
+          <lastname>Konings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jay</firstname>
+          <middlename>R.</middlename>
+          <lastname>Stauffer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2012-04-05</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

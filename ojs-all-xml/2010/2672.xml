@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2672.1</id>
+    <title locale="en_US">10 Nov. 2010</title>
+    <volume>2672</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-11-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Gastrointestinal nematodes of &lt;i&gt;Paramelomys rubex &lt;/i&gt;(Rodentia: Muridae) from Papua Indonesia and Papua New Guinea with the descriptions of three new genera and four new species of Helligmonellidae and Herpetostrongylidae (Nematoda: Trichostrongylida)</title>
+        <abstract locale="en_US">Nematodes, comprising 17 species, including 3 new genera, 4 new species and 3 putative new species, from the families Chabertiidae, Heligmonellidae, Herpetostrongylidae, Molineidae, Oxyuridae and Spiruridae were collected from the digestive tracts of 31 &lt;i&gt;Paramelomys&lt;/i&gt; &lt;i&gt;rubex&lt;/i&gt; (Murinae: Hydromyini) from Papua, Indonesia and Papua New Guinea. &lt;i&gt;Mawsonema&lt;/i&gt; &lt;i&gt;mokwanensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from all other genera in the Heligmonellidae in the characters of the synlophe, 15 ridges oriented sub frontally in the anterior body, the asymmetry of the bursa, the left lobe larger and the proportions of the dorsal ray. &lt;i&gt;Melomystrongylus&lt;/i&gt; &lt;i&gt;somoroensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from its congener &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sepikensis&lt;/i&gt; in the number of ridges in the synlophe and the length of the spicules and female tail. A combination of the characters of the synlophe, 15 ridges oriented 55–60° from the saggital plane, lacking a carene, the asymmetry of the bursa and the proportions of the dorsal rays distinguishes &lt;i&gt;Montistrongylus&lt;/i&gt; &lt;i&gt;ingati&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from all other helligmonellids. &lt;i&gt;Paraheligmosomoides&lt;/i&gt; &lt;i&gt;singauwaensis&lt;/i&gt; is redescribed. It can be distinguished from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amplicaudae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; which has a similar number of synlophe ridges, but of differing proportions by the shape of the female tail and the proportions of the bursal lobes. &lt;i&gt;Paraheligmosomoides&lt;/i&gt; &lt;i&gt;ennisae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is characterized by the number of ridges of the synlophe, the shape of the female posterior end and the trilobed right spicule tip. &lt;i&gt;Parasabanema&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; differs from other heligmonellid genera in the arrangement and proportions of the 45 ridges and the left lateral dilatation of the synlophe. The herpetostrongylid &lt;i&gt;Paraustrostrongylus&lt;/i&gt; &lt;i&gt;paramelomysi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; can be distinguished from its congenerics by a combination of characters including the number of synlophe ridges, the extent of the lateral floats in the female and the length of the proximally twisted spicules. Species richness of this nematode assemblage is similar to that of &lt;i&gt;Melomys&lt;/i&gt; &lt;i&gt;rufescens&lt;/i&gt; and &lt;i&gt;Uromys&lt;/i&gt; &lt;i&gt;caudimaculatus&lt;/i&gt; but species composition is not. Ten, including the three putative species, of the 17 species found in this study were unique to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rubex.&lt;/i&gt; Biogeographic distributions within the helminth assemblage were discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematoda; Trichostrongylida; Heligmonellidae; Herpetostrongylidae; Molineidae; Chabertiidae; Oxyuridae; Spiruridae; &lt;i&gt;Mawsonema&lt;/i&gt;; &lt;i&gt;Montistrongylus&lt;/i&gt;; &lt;i&gt;Melomystrongylus&lt;/i&gt;; &lt;i&gt;Paraheligmonelloidess&lt;/i&gt;; &lt;i&gt;Paraustrostrongylus&lt;/i&gt;; &lt;i&gt;Cyclodontostomum&lt;/i&gt;; &lt;i&gt;Hepatojarakus&lt;/i&gt;; &lt;i&gt;Syphacia&lt;/i&gt;; &lt;i&gt;Protospirura&lt;/i&gt;; Papua New Guinea; Papua; Indonesia</subject>
+          <subject_class locale="en_US">Nematoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Smales</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <lastname>Heinrich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2010-11-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A morphological study of the genus &lt;i&gt;Penthalodes &lt;/i&gt;(Acari, Prostigmata, Eupodoidea, Penthalodidae) with description of a new species </title>
+        <abstract locale="en_US">The morphology of representative species of the genus &lt;i&gt;Penthalodes&lt;/i&gt; is reviewed. A new generic diagnosis and an identification key for adults of &lt;i&gt;Penthalodes&lt;/i&gt; species is provided. Previous descriptions of &lt;i&gt;Penthalodes&lt;/i&gt; &lt;i&gt;ovalis&lt;/i&gt; from Alaska and Hawaii are considered as different species and named as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alaskaensis&lt;/i&gt; (Strandtmann) &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;hawaiiensis&lt;/i&gt; (Strandtman &amp; Goff) &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; respectively. &lt;i&gt;Penthalodes&lt;/i&gt; &lt;i&gt;polonicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described and illustrated based on material collected in Poland.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; identification key; morphological review; morphological description</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Katarzyna</firstname>
+          <lastname>Jesionowska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-49</pages>
+        <date_published>2010-11-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Amblyceps cerinum&lt;/i&gt;, a new catfish (Teleostei: Amblycipitidae) from northeastern India</title>
+        <abstract locale="en_US">&lt;i&gt;Amblyceps&lt;/i&gt; &lt;i&gt;cerinum,&lt;/i&gt; a new South Asian amblycipitid catfish species, is described from the Brahmaputra River drainage in northern West Bengal, India. The new species can be distinguished from congeners in having a combination of upper jaw longer than lower, incomplete lateral line terminating beneath posterior insertion of dorsal fin, length of adipose-fin base 32.4–38.3% SL, caudal peduncle length 21.9–24.5% SL, caudal peduncle depth 9.2–11.2% SL, 41–44 postWeberian vertebrae, posterior end of adipose fin separated from dorsal procurrent caudal-fin rays by distinct notch, and truncate caudal fin. The taxonomic status of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tenuispinis&lt;/i&gt; is also discussed and a neotype designated for this species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Siluriformes; Sisoroidea; Brahmaputra River; South Asia</subject>
+          <subject_class locale="en_US">Siluriformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeremy</firstname>
+          <middlename>J.</middlename>
+          <lastname>Wright</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-60</pages>
+        <date_published>2010-11-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Eviota karaspila, &lt;/i&gt;a new gobiid fish from Fiji (Teleostei: Gobiidae)</title>
+        <abstract locale="en_US">A new species of goby, &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;karaspila,&lt;/i&gt; most similar to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;melasma,&lt;/i&gt; is described from Fiji. It differs from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;melasma&lt;/i&gt; in having a larger eye and in live coloration and from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;smaragdus&lt;/i&gt; in having a more slender caudal peduncle, and in coloration.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Teleostei; Gobiidae; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;melasma&lt;/i&gt;; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;smaragdus&lt;/i&gt;; Fiji</subject>
+          <subject_class locale="en_US">Teleostei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>W.</middlename>
+          <lastname>Greenfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>E.</middlename>
+          <lastname>Randall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-11-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

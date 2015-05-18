@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2085.1</id>
+    <title locale="en_US">29 Apr. 2009</title>
+    <volume>2085</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Contributions to a List of First Reviser actions: ornithology</title>
+        <abstract locale="en_US">A record of First Reviser actions is needed and ZooBank is apparently expected to collect these. In support of this we provide some contributions both to assist with the creation of the appropriate data fields within ZooBank and to stimulate greater awareness of the retroactivity of Art. 24.2.4 of the International Code of Zoological Nomenclature. Of 66 cases collected relating to ornithology, and solely to dual or multiple original spellings, 45 are cases where, in consequence of this Article, under the Principle of Priority, an earlier nomenclatural act requires recognition in replacement of more recent acts. In just a few cases the consequence is a spelling that has not been in recent use. We also act as First Revisers in 10 additional cases discovered during our research.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">First Reviser; spellings; ZooBank; retroactivity; Code; prevailing usage</subject>
+          <subject_class locale="en_US">First Reviser</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Normand</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edward</firstname>
+          <middlename>C. Dickinson And Steven M. S.</middlename>
+          <lastname>Gregory</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2009-04-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First Reviser actions in ornithology: an editorial note</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-26</pages>
+        <date_published>2009-04-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Palaemon &lt;/i&gt;(Crustacea, Decapoda, Palaemonidae) from West Africa, with a re-description of &lt;i&gt;Palaemon maculatus &lt;/i&gt;(Thallwitz, 1892)</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Palaemon,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;powelli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from tropical West Africa. The new species is characterised by the shape and proportions of its chelae, the shape of the rostrum, spacing between dorsal rostral teeth and a poorly developed grooming brush on the fifth pereiopod. &lt;i&gt;Palaemon&lt;/i&gt; &lt;i&gt;maculatus&lt;/i&gt; (Thallwitz, 1892) is redescribed and can be separated from other eastern Atlantic members of the genus by the form of the rostrum, the proportions of the segments of pereiopod 2 and the large number of rows of setae in the grooming brush on the fifth pereiopod.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Palaemonidae; &lt;i&gt;Palaemon&lt;/i&gt;; West Africa</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <middlename>W.</middlename>
+          <lastname>Ashelby</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sammy</firstname>
+          <lastname>De Grave</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-44</pages>
+        <date_published>2009-04-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Calappoidea and Leucosioidea (Crustacea: Decapoda: Brachyura) from Luzon, Philippines, with descriptions of two new species of &lt;i&gt;Mursia&lt;/i&gt;</title>
+        <abstract locale="en_US">Twenty-two species of calappoid and leucosioid crabs were identified among the material collected off Aurora Province, western coast of Luzon, Philippines, in 1987. This includes two new species of calappids, &lt;i&gt;Mursia&lt;/i&gt; &lt;i&gt;aurorae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;steinhardti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Two leucosioid species are new records for the Philippines: &lt;i&gt;Iphiculus&lt;/i&gt; &lt;i&gt;convexus&lt;/i&gt; Ihle, 1918 (Iphiculidae), and &lt;i&gt;Myra&lt;/i&gt; &lt;i&gt;digitata&lt;/i&gt; Galil, 2004 (Leucosiidae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Calappidae; Iphiculidae; Leucosiidae; new species; Philippines</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bella</firstname>
+          <middlename>S.</middlename>
+          <lastname>Galil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-60</pages>
+        <date_published>2009-04-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Glyptothorax ketambe&lt;/i&gt;, a new catfish (Teleostei: Sisoridae) from northern Sumatra</title>
+        <abstract locale="en_US">&lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;ketambe,&lt;/i&gt; a new species of sisorid catfish is described from the Alas River drainage in Nangroe Aceh Darussalam Province, northern Sumatra. &lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;ketambe&lt;/i&gt; can be distinguished from all other Sundaic congeners except &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;schmidti&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;siamensis&lt;/i&gt; in having a color pattern consisting of a dark brown body with yellowish midlateral and mid-dorsal stripes. It differs from &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;schmidti&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;siamensis&lt;/i&gt; in having a combination of: caudal-peduncle depth 7.6–8.9% SL, head width 16.1–17.9% SL, thoracic adhesive apparatus not reaching to the level of the base of the last pectoral-fin ray, and thoracic adhesive apparatus with an almost straight lateral margin. The identity of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;schmidti&lt;/i&gt; is also clarified in this study.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ostariophysi; Alas River; Aceh; Sisoroidea</subject>
+          <subject_class locale="en_US">Ostariophysi</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renny</firstname>
+          <middlename>K.</middlename>
+          <lastname>Hadiaty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

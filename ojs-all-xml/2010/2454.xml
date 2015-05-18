@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2454.1</id>
+    <title locale="en_US">13 May. 2010</title>
+    <volume>2454</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the Brazilian species previously placed in &lt;i&gt;Mantispa &lt;/i&gt;Illiger, 1798 (Neuroptera: Mantispidae), with the description of three new species</title>
+        <abstract locale="en_US">Here we update the status of Brazilian Mantispidae (Neuroptera) species originally placed in the Old World genus &lt;i&gt;Mantispa&lt;/i&gt; Illiger, 1798. We revised 15 species: &lt;i&gt;Buyda&lt;/i&gt; &lt;i&gt;phthisica&lt;/i&gt; (Gerstaecker, 1885), &lt;i&gt;Dicromantispa&lt;/i&gt; &lt;i&gt;debilis&lt;/i&gt; (Gerstaecker, 1888) (= &lt;i&gt;Mantispa&lt;/i&gt; (Mantispilla) &lt;i&gt;lineaticollis&lt;/i&gt; Enderlein, 1910, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.),&lt;/b&gt; &lt;i&gt;Dicromantispa&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (Erichson, 1839), &lt;i&gt;Dicromantispa&lt;/i&gt; &lt;i&gt;hyalina&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Dicromantispa&lt;/i&gt; &lt;i&gt;leucophaea&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Dicromantispa&lt;/i&gt; &lt;i&gt;moulti&lt;/i&gt; (Navás, 1909) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Dicromantispa&lt;/i&gt; &lt;i&gt;synapsis&lt;/i&gt; Hoffman, 2002, &lt;i&gt;Haematomantispa&lt;/i&gt; &lt;i&gt;amazonica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Leptomantispa&lt;/i&gt; &lt;i&gt;ariasi&lt;/i&gt; (Penny, 1982) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Leptomantispa&lt;/i&gt; &lt;i&gt;axillaris&lt;/i&gt; (Navás, 1908) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Leptomantispa&lt;/i&gt; &lt;i&gt;catarinae&lt;/i&gt; Machado &amp; Rafael, 2007, &lt;i&gt;Leptomantispa&lt;/i&gt; &lt;i&gt;chaos&lt;/i&gt; Hoffman, 2002, &lt;i&gt;Leptomantispa&lt;/i&gt; &lt;i&gt;nymphe&lt;/i&gt; Hoffman, 2002, &lt;i&gt;Zeugomantispa&lt;/i&gt; &lt;i&gt;compelens&lt;/i&gt; (Walker, 1860) (=Mantispa &lt;i&gt;parvula&lt;/i&gt; Penny, 1982, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.),&lt;/b&gt; &lt;i&gt;Zeugomantispa&lt;/i&gt; &lt;i&gt;virescens&lt;/i&gt; (Rambur, 1842). We also provide an illustrated key to subfamilies, genera and species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brazil; lacewings; mantis flies; Mantispinae; Neotropical</subject>
+          <subject_class locale="en_US">Brazil</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renato</firstname>
+          <middlename>José Pires</middlename>
+          <lastname>Machado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Albertino</middlename>
+          <lastname>Rafael</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2010-05-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

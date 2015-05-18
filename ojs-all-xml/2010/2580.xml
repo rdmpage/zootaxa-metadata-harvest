@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2580.1</id>
+    <title locale="en_US">31 Aug. 2010</title>
+    <volume>2580</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">World Catalog of Symphyta (Hymenoptera)</title>
+        <abstract locale="en_US">The first complete World Catalog of sawflies (Hymenoptera, suborder Symphyta) for over 100 years is presented. It contains references to the original descriptions and provides brief distributional data for 803 genera, 8353 species (123 with two or more subspecies) and 161 subspecies in addition to the nominal subspecies. 15245 proposed names are treated, including replacement names, infrasubspecific names and nomina nuda, of which only 22 could not be checked in the original publications. Current taxonomic placement of genera and species and occurrence in zoogeographic regions are indicated. The list of names contains 31245 name combinations, variant spellings and family-group names. The authors attempted to consult all publications with taxonomic content referring to Symphyta that have appeared up to 31.12.2009. The 2960 cited references include all those that are known to contain original descriptions of taxa. Short biographical data and portraits of 168 symphytologists as well as images of representatives of extant sawfly taxa are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">sawflies; Anaxyleoidea; Cephoidea; Karatavitoidea; Orussoidea; Pamphilioidea; Siricoidea; Tenthredinoidea; portraits</subject>
+          <subject_class locale="en_US">sawflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andreas</firstname>
+          <lastname>Taeger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Blank</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Liston</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-1064</pages>
+        <date_published>2010-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

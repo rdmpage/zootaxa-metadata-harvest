@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2377.1</id>
+    <title locale="en_US">26 Feb. 2010</title>
+    <volume>2377</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The coelotine spiders from three national parks in Northern Vietnam (Araneae, Amaurobiidae)</title>
+        <abstract locale="en_US">Twenty three coelotine species from Northern Vietnam, including twenty one new species, are described and illustrated: &lt;i&gt;Coelotes&lt;/i&gt; &lt;i&gt;acerbus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;furvus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;perbrevis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;polyedricus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;songae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Draconarius&lt;/i&gt; &lt;i&gt;clavellatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cucphuongensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ellipticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hanoiensis&lt;/i&gt; Wang &amp; Jäger, 2008; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;longissimus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;magicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pseudoclavellatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pseudopumilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pumilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rimatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rotulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;tamdaoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;transparens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;transversus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;volubilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Notiocoelotes&lt;/i&gt; &lt;i&gt;pseudovietnamensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;parvitriangulus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Orumcekia&lt;/i&gt; &lt;i&gt;libo&lt;/i&gt; (Wang, 2003). Photos of all twenty three species are provided. All specimens are deposited in the Institute of Zoology, Chinese Academy of Sciences in Beijing (IZCAS).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; diagnosis; morphology; pitfall traps; leaf-litter sieving</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jie</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dinh-Sac</firstname>
+          <lastname>Pham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-93</pages>
+        <date_published>2010-02-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

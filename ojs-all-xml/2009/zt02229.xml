@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2229.1</id>
+    <title locale="en_US">11 Sep. 2009</title>
+    <volume>2229</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalogue of the primary types of Cerylonidae, Endomychidae and Latridiidae (Coleoptera: Cucujoidea) deposited in the National Museum of Natural History, with additional notes and clarification of the status of several types</title>
+        <abstract locale="en_US">A checklist with critical data is provided for all primary types (n = 48) of the families Cerylonidae, Endomychidae and Latridiidae deposited in the National Museum of Natural History. Of those, 43 holotypes, 3 lectotypes, and 2 neotypes are represented. This tally includes a lectotype for &lt;i&gt;Geoendomychus&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; Arrow (1926) and neotype for &lt;i&gt;Rhymbomicrus&lt;/i&gt; &lt;i&gt;stephani&lt;/i&gt; Pakaluk (1987), both newly designated to promote nomenclatural stability. Fifteen species have at least one paratype, paralectotype, or authoritatively identified non-type specimen associated with the holotype. Type specimens were compared to the original species descriptions to confirm their status, verbatim label data were recorded, and barcode labels were added. In addition to cataloguing the types, notes were made where discrepancies exist between the data labels pinned with the types and the data published with the original species descriptions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cerylonidae; Endomychidae; Latridiidae; USNM types; catalogue</subject>
+          <subject_class locale="en_US">Cerylonidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Floyd</firstname>
+          <middlename>W.</middlename>
+          <lastname>Shockley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalia</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vandenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2009-09-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

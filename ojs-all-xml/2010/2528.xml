@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2528.1</id>
+    <title locale="en_US">6 Jul. 2010</title>
+    <volume>2528</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Argasidae, Ixodidae and Nuttalliellidae (Acari: Ixodida) of the world: a list of valid species names</title>
+        <abstract locale="en_US">This work is intended as a consensus list of valid tick names, following recent revisionary studies, wherein we recognize 896 species of ticks in 3 families. The Nuttalliellidae is monotypic, containing the single entity &lt;i&gt;Nuttalliella&lt;/i&gt; &lt;i&gt;namaqua.&lt;/i&gt; The Argasidae consists of 193 species, but there is widespread disagreement concerning the genera in this family, and fully 133 argasids will have to be further studied before any consensus can be reached on the issue of genus-level classification. The Ixodidae comprises 702 species in 14 genera: &lt;i&gt;Amblyomma&lt;/i&gt; (130 species, of which 17 were formerly included in &lt;i&gt;Aponomma,&lt;/i&gt; a genus that is still considered valid by some authors), &lt;i&gt;Anomalohimalaya&lt;/i&gt; (3), &lt;i&gt;Bothriocroton&lt;/i&gt; (7, all previously included in &lt;i&gt;Aponomma),&lt;/i&gt; &lt;i&gt;Cosmiomma&lt;/i&gt; (1), &lt;i&gt;Cornupalpatum&lt;/i&gt; (1), &lt;i&gt;Compluriscutula&lt;/i&gt; (1), &lt;i&gt;Dermacentor&lt;/i&gt; (34, including the single member of the former genus &lt;i&gt;Anocentor,&lt;/i&gt; which is still considered valid by some authors), &lt;i&gt;Haemaphysalis&lt;/i&gt; (166), &lt;i&gt;Hyalomma&lt;/i&gt; (27), &lt;i&gt;Ixodes&lt;/i&gt; (243), &lt;i&gt;Margaropus&lt;/i&gt; (3), &lt;i&gt;Nosomma&lt;/i&gt; (2), &lt;i&gt;Rhipicentor&lt;/i&gt; (2) and &lt;i&gt;Rhipicephalus&lt;/i&gt; (82, including 5 species from the former genus &lt;i&gt;Boophilus,&lt;/i&gt; which is still considered valid by some authors). We regard six names as invalid: &lt;i&gt;Amblyomma&lt;/i&gt; &lt;i&gt;laticaudae&lt;/i&gt; Warburton, 1933 is a synonym of &lt;i&gt;Amblyomma&lt;/i&gt; &lt;i&gt;nitidum&lt;/i&gt; Hirst &amp; Hirst, 1910; &lt;i&gt;Bothriocroton&lt;/i&gt; &lt;i&gt;decorosum&lt;/i&gt; (Koch, 1867) is a synonym of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;undatum&lt;/i&gt; (Fabricius, 1775); &lt;i&gt;Haemaphysalis&lt;/i&gt; &lt;i&gt;vietnamensis&lt;/i&gt; Hoogstraal &amp; Wilson, 1966 is a synonym of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;colasbelcouri&lt;/i&gt; (Santos Dias, 1958); &lt;i&gt;Haemaphysalis&lt;/i&gt; &lt;i&gt;xinjiangensis&lt;/i&gt; Teng, 1980 is a synonym of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;danieli&lt;/i&gt; Č erný &amp; Hoogstraal, 1977; &lt;i&gt;Hyalomma&lt;/i&gt; &lt;i&gt;erythraeum&lt;/i&gt; Tonelli-Rondelli, 1932 is a synonym of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;impeltatum&lt;/i&gt; Schulze and Schlottke, 1930 and &lt;i&gt;Rhipicephalus&lt;/i&gt; &lt;i&gt;hoogstraali&lt;/i&gt; Kolonin, 2009 was not described according to the rules of the International Code of Zoological Nomenclature.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Argasidae; Ixodidae; Nuttalliellidae; species list</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alberto</firstname>
+          <middlename>A.</middlename>
+          <lastname>Guglielmone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>G.</middlename>
+          <lastname>Robbins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dmitry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Apanaskevich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Trevor</firstname>
+          <middlename>N.</middlename>
+          <lastname>Petney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Agustín</firstname>
+          <lastname>Estrada-Peña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <middlename>G.</middlename>
+          <lastname>Horak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renfu</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>C.</middlename>
+          <lastname>Barker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2010-07-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Fairy shrimps from Asiatic Turkey: Redescription of C&lt;i&gt;hirocephalus tauricus&lt;/i&gt; Pesta, 1921 and descriptions of C&lt;i&gt;hirocephalus algidus &lt;/i&gt;sp. nov. and C&lt;i&gt;hirocephalus brteki &lt;/i&gt;sp. nov. (Crustacea, Branchiopoda, Anostraca)</title>
+        <abstract locale="en_US">A detailed redescription of &lt;i&gt;Chirocephalus&lt;/i&gt; &lt;i&gt;tauricus&lt;/i&gt; Pesta, 1921 is provided, and two new fairy shrimp taxa belonging to the “diaphanus” and “bairdi” groups (Brtek, 1995), &lt;i&gt;Chirocephalus&lt;/i&gt; &lt;i&gt;algidus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brteki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described and discussed. The new species were collected in Turkey, respectively from Alagöl, a temporary pool close to the glacial Lake Karagöl on Mount Bolkar, Taurus, 3100 m a.s.l. (border of Nigde province), and from Lake Alan Gölü, 600 m a.s.l., a shallow lake on the border of Izmir province, close to the village of Bozalan. A number of morphological features (related to the first antenna, mandibles, first maxilla and some notopods) are also illustrated and discussed in relation to their taxonomic and phylogenetic importance.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Anostraca; &lt;i&gt;Chirocephalus&lt;/i&gt;; new species; Turkey</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vezio</firstname>
+          <lastname>Cottarelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cem</firstname>
+          <lastname>Aygen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Graziella</firstname>
+          <lastname>Mura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-52</pages>
+        <date_published>2010-07-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Glyptothorax malabarensis&lt;/i&gt;, a new catfish (Teleostei: Sisoridae) from the Western Ghats of Kerala, India</title>
+        <abstract locale="en_US">&lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;malabarensis,&lt;/i&gt; a new species of the Asian catfish family Sisoridae, is described from a hill stream of an upper tributary of the west-flowing Valappattanam River drainage of Kerala State, India. It is distinguished from its congeners in Peninsular India by the following combination of characters: body depth 19.6–9.9% SL, caudal peduncle length 14.3–14.7% SL and caudal peduncle depth 12.4–12.7% SL (caudal peduncle depth 86.4–88.1% of its length); thoracic adhesive apparatus approximately pentagonal, as long as broad, without a median depression; skin of head and body minutely granulated; and a coloration in life consisting of a black background with three flesh-red or orange transverse bands on body, in preservative changing to dark grey with black mottling and three yellowish-white transverse bands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sisoridae; new species; Valappattanam River; Western Ghats</subject>
+          <subject_class locale="en_US">Sisoridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gopi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2010-07-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Psolus &lt;/i&gt;Oken from Antarctica (Echinodermata: Holothuroidea: Psolidae)</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Psolus&lt;/i&gt; Oken from Antarctica are described: &lt;i&gt;Psolus&lt;/i&gt; &lt;i&gt;byrdae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Marie Byrd Seamount; &lt;i&gt;Psolus&lt;/i&gt; &lt;i&gt;carolineae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from South Georgia; &lt;i&gt;Psolus&lt;/i&gt; &lt;i&gt;lockhartae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the South Orkney Islands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amundsen Sea; Antarctic Peninsula; Scotia Sea; South Georgia; South Orkney Islands; BAS; BIOPEARL; US AMLR</subject>
+          <subject_class locale="en_US">Amundsen Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <middlename>Mark</middlename>
+          <lastname>O’Loughlin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Emily</firstname>
+          <lastname>Whitfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2010-07-06</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

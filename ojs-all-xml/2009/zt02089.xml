@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2089.1</id>
+    <title locale="en_US">4 May. 2009</title>
+    <volume>2089</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of three new caddisfly species from Mayotte Island, Comoros Archipelago (Insecta: Trichoptera)</title>
+        <abstract locale="en_US">We report five new species records from the Comoros Archipelago. Two of the species are known from outside the Archipelago, &lt;i&gt;Hydroptila&lt;/i&gt; &lt;i&gt;cruciata&lt;/i&gt; Ulmer (Hydroptilidae) and &lt;i&gt;Anisocentropus&lt;/i&gt; &lt;i&gt;voeltzkowi&lt;/i&gt; Ulmer (Calamoceratidae), and three species are described as new to science: &lt;i&gt;Pisulia&lt;/i&gt; &lt;i&gt;stoltzei&lt;/i&gt; ,new species (Pisuliidae), and: &lt;i&gt;Chimarra&lt;/i&gt; &lt;i&gt;mayottensis,&lt;/i&gt; new species and &lt;i&gt;Chimarra&lt;/i&gt; &lt;i&gt;koulaeensis,&lt;/i&gt; new species (Philopotamidae). Five species have been previously recorded from the Comoros Islands: &lt;i&gt;Cheumatopsyche&lt;/i&gt; &lt;i&gt;comorina&lt;/i&gt; (Navás), &lt;i&gt;Macrostemum&lt;/i&gt; &lt;i&gt;capense&lt;/i&gt; (Walker), &lt;i&gt;Cheumatopsyche&lt;/i&gt; &lt;i&gt;vala&lt;/i&gt; Malicky (Hydropsychidae), &lt;i&gt;Hydroptila&lt;/i&gt; &lt;i&gt;voticia&lt;/i&gt; Malicky (Hydroptilidae), and &lt;i&gt;Oecetis&lt;/i&gt; &lt;i&gt;atpomarus&lt;/i&gt; Malicky (Leptoceridae). With this report the number of species from the Comoros is doubled. These findings also represent the first records of Trichoptera from Mayotte.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pisuliidae; &lt;i&gt;Pisulia&lt;/i&gt;; Philopotamidae; &lt;i&gt;Chimarra&lt;/i&gt;; taxonomy; new species</subject>
+          <subject_class locale="en_US">Pisuliidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kjell</firstname>
+          <middlename>Arne</middlename>
+          <lastname>Johanson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nathalie</firstname>
+          <lastname>Mary</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-9</pages>
+        <date_published>2009-05-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Neopseustis &lt;/i&gt;(Lepidoptera: Neopseustidae) from China, with description of one new species</title>
+        <abstract locale="en_US">The members of the genus &lt;i&gt;Neopseustis&lt;/i&gt; Meyrick, 1909 from China are reviewed, and a key to the species is given. &lt;i&gt;Neopseustis&lt;/i&gt; &lt;i&gt;moxiensis&lt;/i&gt; Chen &amp; Owada is described as a new species, characterized by the monotonous fuscous hindwings, and by the compressed clavate tegumenal lobes as well as slender uncinate apex of valvae. All the type specimens of new species are deposited in the Department of Entomology, South China Agricultural University, Guangzhou, China. &lt;i&gt;Neopseustis&lt;/i&gt; &lt;i&gt;fanjingshana&lt;/i&gt; Yang, 1988 (type locality: Guizhou) is redescribed on the basis of a male specimen, collected in Hunan. Diagnoses, notes and collecting data are given for &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bicornuta,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;sinensis,&lt;/i&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;meyricki&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;archiphenax.&lt;/i&gt; A checklist of the Neopseustidae (4 genera, 13 species) is provided with their distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Neopseustidae; &lt;i&gt;Neopseustis&lt;/i&gt;; &lt;i&gt;Neopseustis&lt;/i&gt; &lt;i&gt;moxiensis&lt;/i&gt;; &lt;i&gt;Neopseustis&lt;/i&gt; &lt;i&gt;fanjingshana&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Liusheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mamoru</firstname>
+          <lastname>Owada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Min</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yang</firstname>
+          <lastname>Long</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>10-18</pages>
+        <date_published>2009-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic review of the Old World leafhopper genus &lt;i&gt;Changwhania &lt;/i&gt;Kwon (Hemiptera: Cicadellidae: Deltocephalinae: Paralimnini)</title>
+        <abstract locale="en_US">The Old World leafhopper genus &lt;i&gt;Changwhania&lt;/i&gt; Kwon is reviewed and three of its four species are illustrated and male genital characters are provided. One new species from China, &lt;i&gt;Changwhania&lt;/i&gt; &lt;i&gt;digitata&lt;/i&gt; Zhang and Duan, is described. A key to species is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Auchenorrhyncha; grassland; morphology; identification; new species; China</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yani</firstname>
+          <lastname>Duan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-32</pages>
+        <date_published>2009-05-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Studies on neotropical Phasmatodea VIII: Revision of the genus &lt;i&gt;Decidia &lt;/i&gt;Stål, 1875 with the description of a new species from Colombia (Phasmatodea: Pseudophasmatidae: Pseudophasmatinae: Anisomorphini)</title>
+        <abstract locale="en_US">The genus Decidia Stål, 1875 is revised with an updated description of the genus, descriptions of all four known species, illustrations and keys are provided. The male of the type-species Decidia soranus (Westwood, 1859) is described and illustrated for the first time and a re-description of the females is given. Examination of the Colombian Peruphasma doylei (Caudell, 1906) has shown this to belong in Decidia (n. &lt;b&gt;comb.);&lt;/b&gt; the male is re-described and the previously unknown female described and illustrated for the first time. Also Autolyca blapoides Redtenbacher, 1906 from South Ecuador has proven to belong in Decidia and is here transferred (n. &lt;b&gt;comb.)&lt;/b&gt; with the female re-described and unknown male described and illustrated for the first time. These two species show the genus Decidia to contain not only winged but apterous species as well. A very colourful new species, Decidia magnifica &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the central Cordillera of Colombia, is described and illustrated from both sexes. The eggs of Decidia remain as yet unknown. Decidia appears to be restricted to the Andean regions of Central and Southern Colombia and Ecuador above an altitude of 2000 metres, referred to as the biogeographical province Cauca. The genus shows close relation to the Central American Autolyca Stål, 1875 and is hence re-transferred from Pseudophasmatini to the tribe Anisomorphini (rev. &lt;b&gt;stat.).&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phasmatodea; Pseudophasmatidae; Pseudophasmatinae; Anisomorphini; &lt;i&gt;Decidia&lt;/i&gt;; &lt;i&gt;Decidia&lt;/i&gt; &lt;i&gt;blapoides&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Decidia&lt;/i&gt; &lt;i&gt;doylei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Decidia&lt;/i&gt; &lt;i&gt;magnifica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Decidia&lt;/i&gt; &lt;i&gt;soranus&lt;/i&gt;; new species; new combination; descriptions; keys; Colombia; Ecuador</subject>
+          <subject_class locale="en_US">Phasmatodea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Oskar</firstname>
+          <middlename>V.</middlename>
+          <lastname>Conle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <middlename>H.</middlename>
+          <lastname>Hennemann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manuel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Ramírez-Mora</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>A.</middlename>
+          <lastname>Quiróz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-51</pages>
+        <date_published>2009-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Intra- and interspecific analysis of first instar larval morphology in the genus &lt;i&gt;Berberomeloe &lt;/i&gt;Bologna 1989 (Coleoptera: Meloidae)</title>
+        <abstract locale="en_US">The first instar larva of &lt;i&gt;Berberomeloe&lt;/i&gt; &lt;i&gt;insignis&lt;/i&gt; (Charpentier, 1818) is described and figured for the first time and compared to that of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;majalis&lt;/i&gt; (Linnaeus, 1758). Diagnostic larval characters of the genus and of both species are identified. Morphometric data from different populations are analyzed statistically. Results support species differentiation and characters definition. Additionally, analyses also suggest that whereas &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;majalis&lt;/i&gt; is structured in the Iberian Peninsula, there is a lack of differentiation between Iberian and North African populations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">blister beetles; West Mediterranean; populations relationships; morphometry</subject>
+          <subject_class locale="en_US">blister beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chiara</firstname>
+          <lastname>Settanni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrea</firstname>
+          <middlename>Di</middlename>
+          <lastname>Giulio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Grazia</middlename>
+          <lastname>Finoia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bologna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-64</pages>
+        <date_published>2009-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the bromeliad-dwelling final instar larva of &lt;i&gt;Leptagrion andromache &lt;/i&gt;Hagen &lt;i&gt;in &lt;/i&gt;Selys (Zygoptera: Coenagrionidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Javier</firstname>
+          <lastname>Muzón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Soledad</firstname>
+          <middlename>Weigel</middlename>
+          <lastname>Muñoz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Raúl</firstname>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-05-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

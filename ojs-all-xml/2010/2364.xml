@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2364.1</id>
+    <title locale="en_US">19 Feb. 2010</title>
+    <volume>2364</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the Brazilian Atlantic Forest &lt;i&gt;Atractus&lt;/i&gt; (Reptilia: Serpentes: Dipsadidae)</title>
+        <abstract locale="en_US">Dipsadine snakes of the genus &lt;i&gt;Atractus&lt;/i&gt; are endemic to the Neotropical region, occurring from Panama to Argentina. Currently, the taxonomic status of most species of the genus is unclear and previous attempts of taxonomic revisions have been local in scale. In this paper we evaluate the taxonomic status of the Brazilian Atlantic Forest species of &lt;i&gt;Atractus&lt;/i&gt; based on meristic, morphometric, maxillary dentition, and hemipenis characters. Quantitative and qualitative analyses suggest the recognition of one new species (A. &lt;i&gt;caete&lt;/i&gt; sp. nov.) from the state of Alagoas, another (A. &lt;i&gt;francoi&lt;/i&gt; sp. nov.) from the mountainous regions of the states of Rio de Janeiro and São Paulo, and the synonymy of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kangueryensis&lt;/i&gt; with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;thalesdelemai.&lt;/i&gt; Specimens previously assigned to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;taeniatus&lt;/i&gt; in Argentina and Brazil are here considered &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;paraguayensis.&lt;/i&gt; A key to the Atlantic Forest &lt;i&gt;Atractus&lt;/i&gt; is provided and three new species groups are proposed for some cisAndean &lt;i&gt;Atractus,&lt;/i&gt; mainly on the basis of hemipenial morphology: the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;emmeli,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;maculatus,&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pantostictus&lt;/i&gt; species groups.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Atractus&lt;/i&gt;; Atlantic Forest; South America; Morphology; Geographical variation; Taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Atractus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <lastname>Passos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronaldo</firstname>
+          <lastname>Fernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renato</firstname>
+          <middlename>S.</middlename>
+          <lastname>Bérnils</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julio</firstname>
+          <middlename>C.</middlename>
+          <lastname>De Moura-Leite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2010-02-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

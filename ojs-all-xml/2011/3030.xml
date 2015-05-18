@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3030.1</id>
+    <title locale="en_US">16 Sep. 2011</title>
+    <volume>3030</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of &lt;i&gt;Gasteruption &lt;/i&gt;Latreille (Hymenoptera: Gasteruptiidae) in the Neotropical Region ANTONIO CARLOS CRUZ MACEDO</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Order Pdf Buy A Copy Of This Issue Papers Published</middlename>
+          <lastname>In</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2011-09-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2216.1</id>
+    <title locale="en_US">1 Sep. 2009</title>
+    <volume>2216</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of male ants of the Malagasy region (Hymenoptera: Formicidae): Key to genera of the subfamily Proceratiinae</title>
+        <abstract locale="en_US">Male-based keys to the ant genera of Proceratiinae in the Malagasy region (Madagascar, Mauritius, Reunion, Comoros, and Seychelles) are presented. All three extant genera known from the Malagasy region, &lt;i&gt;Discothyrea,&lt;/i&gt; &lt;i&gt;Probolomyrmex,&lt;/i&gt; and &lt;i&gt;Proceratium,&lt;/i&gt; and an undescribed taxon, PRm01 from Seychelles, are included. Diagnoses and remarks on the subfamily Proceratiinae and its four genera, and a character table for these genera, are given. The males of all genera are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Madagascar; Mauritius; Reunion; Comoros; Seychelles; wing; palp; labrum; diagnosis; key; &lt;i&gt;Discothyrea&lt;/i&gt;; &lt;i&gt;Probolomyrmex&lt;/i&gt;; &lt;i&gt;Proceratium&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Madagascar</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masashi</firstname>
+          <lastname>Yoshimura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2009-09-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Biogeography and divergence time estimation of the relict Cape dragonfly genus &lt;i&gt;Syncordulia&lt;/i&gt;: global significance and implications for conservation</title>
+        <abstract locale="en_US">&lt;i&gt;Syncordulia&lt;/i&gt; (Odonata: Anisoptera: Libelluloidea) inhabits mostly cool mountainous streams in the Cape Floristic Region of South Africa. It is found at low densities in geographically restricted areas. &lt;i&gt;Syncordulia&lt;/i&gt; is endemic to South Africa and, until recently, only two species were known, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;venator&lt;/i&gt; (Barnard, 1933) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (Burmeister 1839), both considered Vulnerable by the World Conservation Union (IUCN). Two new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;serendipator&lt;/i&gt; Dijsktra, Samways &amp; Simaika 2007 and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;legator&lt;/i&gt; Dijsktra, Samways &amp; Simaika 2007, were described from previously unrecognized museum specimens and new field collections. Here we corroborate the validity of these two new species using multiple genes and propose intergeneric relationships within &lt;i&gt;Syncordulia.&lt;/i&gt; Molecular data from two independent gene fragments (nuclear 28S and ribosomal and cytochrome oxidase subunit I mitochondrial data) were sequenced and/or downloaded from GenBank for 7 libelluloid families, including 12 &lt;i&gt;Syncordulia&lt;/i&gt; specimens (2 &lt;i&gt;Syncordulia&lt;/i&gt; &lt;i&gt;gracilis,&lt;/i&gt; 4 &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;serendipator,&lt;/i&gt; 2 &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;legator&lt;/i&gt; and 4 &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;venator).&lt;/i&gt; The lower libelluloid group GSI (sensu Ware &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2007), a diverse group of non– corduliine taxa, is strongly supported as monophyletic. &lt;i&gt;Syncordulia&lt;/i&gt; is well supported by both methods of phylogenetic analyses as a monophyletic group deeply nested within the GSI clade. A DIVA biogeographical analysis suggests that the ancestor to the genus &lt;i&gt;Syncordulia&lt;/i&gt; may have arisen consequent to the break–up of Gondwana (&gt;120 Mya). Divergence time estimates suggest that &lt;i&gt;Syncordulia&lt;/i&gt; diverged well after the breakup of Gondwana, approximately 60 million years ago (Mya), which coincides with the divergence of several Cape fynbos taxa, between 86 – 60 Mya. DIVA analyses suggest that the present distributions of &lt;i&gt;Syncordulia&lt;/i&gt; may be the result of dispersal events. We relate these phylogenetic data to the historical biogeography of the genus and to the importance of conservation action.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Syncordulia; Odonata; Biogeography; Divergence Times; Conservation</subject>
+          <subject_class locale="en_US">Syncordulia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jessica</firstname>
+          <middlename>L.</middlename>
+          <lastname>Ware</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>P.</middlename>
+          <lastname>Simaika</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>J.</middlename>
+          <lastname>Samways</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-36</pages>
+        <date_published>2009-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Stegana ornatipes &lt;/i&gt;species group from the Oriental Region (Diptera: Drosophilidae)</title>
+        <abstract locale="en_US">A new species group, the &lt;i&gt;ornatipes&lt;/i&gt; group, is established within the subgenus &lt;i&gt;Steganina&lt;/i&gt; of the genus &lt;i&gt;Stegana,&lt;/i&gt; based on three known and seven new species, all of which are endemic to the Oriental Region: &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;chitouensis&lt;/i&gt; Sidorenko, &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;ornatipes&lt;/i&gt; Wheeler &amp; Takada, &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;vietnamensis&lt;/i&gt; Sidorenko, &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;albiventralis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;angusigena&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;lingnanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;mengla&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;nulliseta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;pilosella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;zhaofengi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to all species of the group is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; &lt;i&gt;ornatipes&lt;/i&gt; group; South China; &lt;i&gt;Stegana&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yu</firstname>
+          <lastname>Cheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jian-Jun</firstname>
+          <lastname>Gao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong-Wei</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-48</pages>
+        <date_published>2009-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Amemboides &lt;/i&gt;Polhemus &amp; Andersen, 1984, stat. nov. (Hemiptera: Heteroptera: Gerromorpha: Gerridae) from Vietnam</title>
+        <abstract locale="en_US">&lt;i&gt;Amemboides&lt;/i&gt; Polhemus &amp; Andersen, 1984, &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is herein recognised as separate genus from &lt;i&gt;Amemboa&lt;/i&gt; Esaki, 1925. This paper describes two new species of &lt;i&gt;Amemboides&lt;/i&gt; from Vietnam: &lt;i&gt;Amemboides&lt;/i&gt; &lt;i&gt;falcatus&lt;/i&gt; and &lt;i&gt;Amemboides&lt;/i&gt; &lt;i&gt;gladiolus.&lt;/i&gt; &lt;i&gt;Amemboides&lt;/i&gt; &lt;i&gt;sexualis&lt;/i&gt; (Polhemus &amp; Andersen, 1984) is recorded from Vietnam for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gerridae; &lt;i&gt;Amemboides&lt;/i&gt;; new species; first record; Vietnam</subject>
+          <subject_class locale="en_US">Gerridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>A.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Tran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>T.</middlename>
+          <lastname>Polhemus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-56</pages>
+        <date_published>2009-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the status of the tribes Orthognathini and Rhinostomini (Coleoptera: Curculionidae: Dryophthorinae)</title>
+        <abstract locale="en_US">A cladistic analysis is performed of the four genera of the tribe Orthognathini of the curculionid subfamily Dryophthorinae, specifically to assess whether the tribe constitutes a monophyletic group or whether the genus &lt;i&gt;Rhinostomus&lt;/i&gt; falls outside it into a separate tribe, as advocated in some classification systems. The analysis based on 27 morphological characters revealed that Orthognathini is indeed a monophyletic group, with the phylogenetic sequence &lt;i&gt;Rhinostomus&lt;/i&gt; (= &lt;i&gt;Yuccaborus),&lt;/i&gt; &lt;i&gt;Sipalinus,&lt;/i&gt; &lt;i&gt;Mesocordylus&lt;/i&gt; and &lt;i&gt;Orthognathus.&lt;/i&gt; The basal position of &lt;i&gt;Rhinostomus&lt;/i&gt; with respect to the other genera may warrant recognition of a separate subtribe, Rhinostomina, for it. Taxonomic synopses of the tribe and subtribes and a key to the genera are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cladistic analysis; classification; phylogeny; &lt;i&gt;Mesocordylus&lt;/i&gt;; &lt;i&gt;Orthognathus&lt;/i&gt;; &lt;i&gt;Rhinostomus&lt;/i&gt;; &lt;i&gt;Sipalinus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">cladistic analysis</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>J.</middlename>
+          <lastname>Morrone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Perla</firstname>
+          <middlename>I.</middlename>
+          <lastname>Cuevas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-63</pages>
+        <date_published>2009-09-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Nemoura &lt;/i&gt;(Plecoptera: Nemouridae) from Central Italy</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Nemoura&lt;/i&gt; from Central Italy is described: &lt;i&gt;Nemoura&lt;/i&gt; &lt;i&gt;sabina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; It belongs to the &lt;i&gt;Nemoura&lt;/i&gt; &lt;i&gt;flexuosa-marginata&lt;/i&gt; species group and had previously been confused with &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;flexuosa.&lt;/i&gt; Its relationship to other species is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Nemouridae; &lt;i&gt;Nemoura&lt;/i&gt;; new species; endemics; Central Italy</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Romolo</firstname>
+          <lastname>Fochetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilles</firstname>
+          <lastname>Vinçon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-09-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

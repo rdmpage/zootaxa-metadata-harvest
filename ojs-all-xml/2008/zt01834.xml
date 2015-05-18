@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1834.1</id>
+    <title locale="en_US">30 Jul. 2008</title>
+    <volume>1834</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the Neotropical blackfly subgenus &lt;i&gt;Chirostilbia &lt;/i&gt;Enderlein (Diptera: Simuliidae) based on adults and pupal morphology</title>
+        <abstract locale="en_US">The species of the subgenus &lt;i&gt;Chirostilbia&lt;/i&gt; are reviewed based on the adult and pupal morphology. All main taxonomic characters are fully illustrated with colour digital images and keys for species identification are given. Taxonomic discussions for each species and summaries of their distribution and biology are also provided. Thirteen species are now considered to be valid in the subgenus &lt;i&gt;Chirostilbia.&lt;/i&gt; Since they are similar morphologically no separation into species groupshas been attempted. Lectotypes are designated for the following species: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;distinctum&lt;/i&gt; Lutz and &lt;i&gt;Trichodagmia&lt;/i&gt; &lt;i&gt;lutziana&lt;/i&gt; Enderlein [= &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pertinax&lt;/i&gt; Kollar]. &lt;i&gt;Simulium&lt;/i&gt; &lt;i&gt;nilesi&lt;/i&gt; Rambajan is transferred from its synonymy with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;perflavum&lt;/i&gt; Roubaud in the subgenus &lt;i&gt;Psilopelmia&lt;/i&gt; Enderlein to &lt;i&gt;Chirostilbia&lt;/i&gt; as a junior synonym of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;subpallidum&lt;/i&gt; Lutz. The thoracic pattern of the male of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;empascae&lt;/i&gt; is described and illustrated for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Simuliidae; black fly; Neotropical region; taxonomy; Brazil; genus &lt;i&gt;Simulium&lt;/i&gt;; subgenus &lt;i&gt;Chirostilbia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Simuliidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>Hernandez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>John</middlename>
+          <lastname>Shelley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>Paulino Andrade</middlename>
+          <lastname>De Luna Dias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marilza</firstname>
+          <lastname>Maia-Herzog</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-100</pages>
+        <date_published>2008-07-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

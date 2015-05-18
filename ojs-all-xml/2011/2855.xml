@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2855.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2855</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A subjective checklist of the Recent, free-living, non-marine Ostracoda (Crustacea) </title>
+        <abstract locale="en_US">We present a subjective list of the Recent, free-living, non-marine ostracods species and genera of the world, with their distribution in the large zoogeographical regions, as well as a list of genera in their present hierarchical taxonomic position. Based on the recognised synonymies, there are at present about 2090 species in c. 209 genera. About half of all species occur in one family, the Cyprididae, which is especially common in the southern Hemisphere. We give three new names for extant homonyms (Cypretta &lt;i&gt;bradyi&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cypria&lt;/i&gt; &lt;i&gt;kliei&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Physocypria&lt;/i&gt; &lt;i&gt;dadayi&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; propose one new combination and one new synonymy and elevate the rank of the tribe Mytilocypridini to that of subfamily (with the same diagnosis).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ostracoda; distribution; biodiversity; taxonomy; nomenclature</subject>
+          <subject_class locale="en_US">Ostracoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Koen</firstname>
+          <lastname>Martens</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sukonthip</firstname>
+          <lastname>Savatenalinton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-79</pages>
+        <date_published>2011-04-29</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

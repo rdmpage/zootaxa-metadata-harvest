@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3280.1</id>
+    <title locale="en_US">26 Apr. 2012</title>
+    <volume>3280</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">FERNANDES, F.A., FORNEL, R. &amp; FREITAS, T.R.O (2012) &lt;i&gt;Ctenomys brasiliensis&lt;/i&gt; Blainville (Rodentia: Ctenomyidae): clarifying the geographic placement of the type species of the genus &lt;i&gt;Ctenomys&lt;/i&gt;. &lt;i&gt;Zootaxa&lt;/i&gt;, 3272, 57–68. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2012-04-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

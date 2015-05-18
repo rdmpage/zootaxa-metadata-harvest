@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2529.1</id>
+    <title locale="en_US">7 Jul. 2010</title>
+    <volume>2529</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the Nearctic, Mexican and West Indian (Greater Antilles) species of &lt;i&gt;Colliuris &lt;/i&gt;Degeer (Coleoptera: Carabidae: Odacanthini)</title>
+        <abstract locale="en_US">The 18 species of the genus &lt;i&gt;Colliuris&lt;/i&gt; occurring in Canada, United States of America, Mexico, and the Greater Antilles are redescribed and information on their distribution and habitat requirements is provided. A key for the separation of these species as well as other ones recorded from Central America is included. The following new synonymies are proposed: &lt;i&gt;Casnonia&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; Chaudoir, 1843, &lt;i&gt;Casnonia&lt;/i&gt; &lt;i&gt;limbata&lt;/i&gt; Waterhouse, 1878, &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; var. &lt;i&gt;extrema&lt;/i&gt; Liebke, 1930, &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; var. &lt;i&gt;concluda&lt;/i&gt; Liebke, 1930 and &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;yucatana&lt;/i&gt; Liebke, 1930 with &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;pensylvanica&lt;/i&gt; (Linné, 1767) and &lt;i&gt;Apiodera&lt;/i&gt; &lt;i&gt;transparens&lt;/i&gt; Motschulsky, 1864 and &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;subdistincta&lt;/i&gt; var. &lt;i&gt;maculata&lt;/i&gt; Liebke, 1930 with &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;subdistincta&lt;/i&gt; (Chaudoir, 1863). &lt;i&gt;Colliuris&lt;/i&gt; &lt;i&gt;caymanensis&lt;/i&gt; Darlington, previously considered a subspecies of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tetrastigma&lt;/i&gt; (Chaudoir), is treated as a species, new status.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Carabidae; Odacanthini; &lt;i&gt;Colliuris&lt;/i&gt;; taxonomy; descriptions; distribution; habitat</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Bousquet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2010-07-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Inocellia crassicornis &lt;/i&gt;species group (Raphidioptera: Inocelliidae) in mainland China, with description of two new species</title>
+        <abstract locale="en_US">Snakeflies of the &lt;i&gt;Inocellia&lt;/i&gt; &lt;i&gt;crassicornis&lt;/i&gt; species group from mainland China are revised. Two new species are described: &lt;i&gt;Inocellia&lt;/i&gt; &lt;i&gt;biprocessus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Inocellia&lt;/i&gt; &lt;i&gt;digitiformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key is provided for the males of all the species of the &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;crassicornis&lt;/i&gt; group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">snakefly; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;crassicornis&lt;/i&gt; species group; taxonomy; East Asia</subject>
+          <subject_class locale="en_US">snakefly</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xingyue</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Horst</firstname>
+          <lastname>Aspöck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulrike</firstname>
+          <lastname>Aspöck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-54</pages>
+        <date_published>2010-07-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes concerning the genus &lt;i&gt;Metataenia &lt;/i&gt;Théry, 1923 (Coleoptera, Buprestidae, Chrysochroina) from Papua New Guinea, with description of a new species and designation of a lectotype</title>
+        <abstract locale="en_US">&lt;i&gt;Metataenia&lt;/i&gt; &lt;i&gt;hauseri&lt;/i&gt; Obenberger, 1928 is redescribed from specimens from Popondetta in eastern Papua New Guinea and compared with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;loriae&lt;/i&gt; Kerremans, 1895. &lt;i&gt;Metataenia&lt;/i&gt; &lt;i&gt;hudsoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Misima Island in the Louisiade Archipelago of southeastern Papua New Guinea and compared with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;capitata&lt;/i&gt; Kerremans, 1903 from Rossel Island. &lt;i&gt;Metataenia&lt;/i&gt; &lt;i&gt;rothschildi&lt;/i&gt; Théry, 1923 is redescribed from the second known specimen. A lectotype is designated for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;capitata.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; Coleoptera; Buprestidae; Chrysochroina; &lt;i&gt;Metataenia&lt;/i&gt;; Oriental region</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulf</firstname>
+          <lastname>Nylander</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2010-07-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

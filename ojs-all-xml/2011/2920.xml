@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2920.1</id>
+    <title locale="en_US">16 Jun. 2011</title>
+    <volume>2920</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Synopsis and keys to the tribes, genera, and species of Miridae (Hemiptera: Heteroptera) of Minas Gerais, Brazil Part I: Bryocorinae</title>
+        <abstract locale="en_US">This paper begins a series of synoptic taxonomic treatments on the Miridae known from Minas Gerais, Brazil, by subfamily, beginning with the Bryocorinae. We provide diagnoses, host-plant information, distribution data, and illustrated keys to four tribes, 24 genera, and 56 species. For most species, illustrations of the adults, selected morphological characters, and male genitalia are provided to facilitate identification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Heteroptera; Miridae; Bryocorinae; Brazil; Minas Gerais; diagnoses; distribution; host plants; keys</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <middlename>Sergio Fiuza</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>J.</middlename>
+          <lastname>Henry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-41</pages>
+        <date_published>2011-06-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the species-group taxa of Taiwanese social wasps (Hymenoptera: Vespidae) described and/or treated by J. Sonan</title>
+        <abstract locale="en_US">Taiwanese social wasps described and/or treated by Jinhaku Sonan are revised based on specimens housed in the Taiwan Agricultural Research Institute. A checklist of the Taiwanese social wasp species is provided, recognizing 13 &lt;i&gt;Polistes,&lt;/i&gt; two &lt;i&gt;Ropalidia,&lt;/i&gt; three &lt;i&gt;Parapolybia,&lt;/i&gt; eight &lt;i&gt;Vespa&lt;/i&gt; and three &lt;i&gt;Vespula&lt;/i&gt; species in the Taiwanese fauna. The lectotypes are designated for &lt;i&gt;Polistes&lt;/i&gt; &lt;i&gt;mandarinus&lt;/i&gt; var. &lt;i&gt;eboshinus&lt;/i&gt; Sonan, 1943, &lt;i&gt;Polistes&lt;/i&gt; &lt;i&gt;shirakii&lt;/i&gt; Sonan, 1943, &lt;i&gt;Polistes&lt;/i&gt; &lt;i&gt;takasagonus&lt;/i&gt; Sonan, 1943 and &lt;i&gt;Vespa&lt;/i&gt; &lt;i&gt;formosana&lt;/i&gt; Sonan, 1927. &lt;i&gt;Parapolybia&lt;/i&gt; &lt;i&gt;takasagona&lt;/i&gt; Sonan, 1944 is treated as a valid species and its status is resurrected. A key to valid species of Taiwanese &lt;i&gt;Polistes&lt;/i&gt; is provided. A record of &lt;i&gt;Vespa&lt;/i&gt; (Provespa) &lt;i&gt;dorylloides&lt;/i&gt; [= &lt;i&gt;Provespa&lt;/i&gt; &lt;i&gt;anomala]&lt;/i&gt; from Taiwan is based on incorrect labeling. The holotypes of &lt;i&gt;Polistes&lt;/i&gt; &lt;i&gt;yamanakai&lt;/i&gt; Sonan, 1937 and &lt;i&gt;Vespa&lt;/i&gt; &lt;i&gt;matsumurai&lt;/i&gt; Sonan, 1935 described from Japan are examined.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Polistes&lt;/i&gt;; &lt;i&gt;Parapolybia&lt;/i&gt; &lt;i&gt;takasagona&lt;/i&gt;; &lt;i&gt;Ropalidia&lt;/i&gt;; &lt;i&gt;Vespa&lt;/i&gt;; &lt;i&gt;Vespula&lt;/i&gt;; lectotype; Taiwan; Japan</subject>
+          <subject_class locale="en_US">&lt;i&gt;Polistes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jun-Ichi</firstname>
+          <lastname>Kojima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fuki</firstname>
+          <lastname>Saito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lien</firstname>
+          <middlename>Thi Phuong</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-64</pages>
+        <date_published>2011-06-16</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Thrips atactus &lt;/i&gt;(Thysanoptera, Thripidae): first records of the male and host plant, intercepted in quarantine at Japan</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masami</firstname>
+          <lastname>Masumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazushige</firstname>
+          <lastname>Minoura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-06-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

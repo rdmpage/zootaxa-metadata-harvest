@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1862.1</id>
+    <title locale="en_US">3 Sep. 2008</title>
+    <volume>1862</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Characterisation of the Larvae of Australian Nacophorini</title>
+        <abstract locale="en_US">The Australian Nacophorini and related taxa are described using 43 larval morphological characters. A selection of these characters were used previously for a morphological phylogeny of the Australian Ennominae together with characters of the ova and adults. The larvae of 67 species are illustrated using photographs and setal maps. On this basis, tentative comparisons are made between the Australian Nacophorini and the world fauna.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Australia; Ennominae; Geometridae; larva; Lepidoptera; morphology; Nacophorini; taxonomy</subject>
+          <subject_class locale="en_US">Australia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Catherine</firstname>
+          <middlename>J.</middlename>
+          <lastname>Young</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-74</pages>
+        <date_published>2008-09-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

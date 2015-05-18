@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1708.1</id>
+    <title locale="en_US">22 Feb. 2008</title>
+    <volume>1708</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Deepwater crabs from seamounts and chemosynthetic habitats off eastern New Zealand (Crustacea: Decapoda: Brachyura)</title>
+        <abstract locale="en_US">Deepwater crabs from seamounts and chemosynthetic habitats off eastern New Zealand are reported. Of the 30 species reported, eight are new to science: &lt;i&gt;Cymonomus&lt;/i&gt; &lt;i&gt;clarki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Cymonomidae), &lt;i&gt;Dicranodromia&lt;/i&gt; &lt;i&gt;delli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Homolodromiidae), &lt;i&gt;Ethusina&lt;/i&gt; &lt;i&gt;castro&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;rowdeni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Dorippidae), &lt;i&gt;Trichopeltarion&lt;/i&gt; &lt;i&gt;janetae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Atelecyclidae), &lt;i&gt;Mathildella&lt;/i&gt; &lt;i&gt;mclayi&lt;/i&gt; (Mathildellidae), &lt;i&gt;Neopilumnoplax&lt;/i&gt; &lt;i&gt;nieli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mathildellidae), and &lt;i&gt;Garthambrus&lt;/i&gt; &lt;i&gt;tani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Parthenopidae). The dorippids, parthenopids and mathidellids reported here are the first members of these families to be described from New Zealand. Three previously described species are recorded for the first time from New Zealand waters: &lt;i&gt;Dicranodromia&lt;/i&gt; &lt;i&gt;spinulata&lt;/i&gt; Guinot, 1995 (Homolodromiidae), &lt;i&gt;Intesius&lt;/i&gt; &lt;i&gt;richeri&lt;/i&gt; Crosnier &amp; Ng, 2004 (Mathildellidae) and &lt;i&gt;Miersiograpsus&lt;/i&gt; &lt;i&gt;australiensis&lt;/i&gt; Türkay, 1978 (Plagusiidae). The majority of brachyurans from New Zealand seamounts and chemosynthetic habitats are ‘typical’ deepwater forms of which thirteen species are presently unique to New Zealand. At species level, 43% of the seamount and cold-seep brachyurans are apparent New Zealand endemics, with strongest affinities with the eastern Australian fauna (37%). At the generic level, however, congeners of most species reported herein occur widely in the Indo-West Pacific (including eastern Australia and New Caledonia), suggesting that the New Zealand seamount and cold-seep brachyuran fauna is an extension of the tropical Indo-West Pacific fauna. Thirty-three percent (10 of 30 species) of the known New Zealand seamount and cold-seep brachyurans have only been recently discovered indicating that species richness is probably strongly underestimated. A key to the Brachyura known from New Zealand seamounts and chemosynthetic habitats is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Crustacea; Brachyura; New Zealand; new species; seamounts; cold seeps; &lt;i&gt;Cymonomus&lt;/i&gt;; &lt;i&gt;Dicranodromia&lt;/i&gt;; &lt;i&gt;Ethusina&lt;/i&gt;; &lt;i&gt;Garthambrus&lt;/i&gt;; &lt;i&gt;Intesius&lt;/i&gt;; &lt;i&gt;Mathildella&lt;/i&gt;; &lt;i&gt;Miersiograpsus&lt;/i&gt;; &lt;i&gt;Neopilumnoplax&lt;/i&gt;; &lt;i&gt;Trichopeltarion&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shane</firstname>
+          <middlename>T.</middlename>
+          <lastname>Ahyong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-72</pages>
+        <date_published>2008-02-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

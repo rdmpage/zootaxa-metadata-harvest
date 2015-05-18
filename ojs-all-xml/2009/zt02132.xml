@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2132.1</id>
+    <title locale="en_US">15 Jun. 2009</title>
+    <volume>2132</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the South African leafhopper genus &lt;i&gt;Drakensbergena &lt;/i&gt;Linnavuori (Hemiptera: Cicadellidae: Drakensbergeninae)</title>
+        <abstract locale="en_US">The leafhopper genus &lt;i&gt;Drakensbergena&lt;/i&gt; is revised. Two species are redescribed: the type-species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;fuscovittata&lt;/i&gt; Linnavuori and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ochracea&lt;/i&gt; Linnavuori. The following 16 species are described as new: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;armstrongi,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;austrina,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bisulca,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;breviata,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cuneifer,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;deorsuspina,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;festucacola,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;gigascutica,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;labeona,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;lobulata,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;longinqua,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;phaeogramma,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;prolixa,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;retrospina,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;simulata&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;spinula.&lt;/i&gt; Keys are provided for the identification of all the species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Auchenorrhyncha; taxonomy; Poaceae; grassland</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Stiller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2009-06-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Lycomorphon &lt;/i&gt;(Coleoptera: Lycidae)</title>
+        <abstract locale="en_US">The Neotropical genus &lt;i&gt;Lycomorphon&lt;/i&gt; Pic, 1922 is revised. Eleven species are classified in the genus, six of them are redescribed, five species (Lycomorphon &lt;i&gt;brasiliense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;amazonicum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;bimaculatum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;bolivianum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;fulvohumeralis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.)&lt;/b&gt; are proposed as new to science. &lt;i&gt;Lycomorphon&lt;/i&gt; &lt;i&gt;elongaticolle&lt;/i&gt; v. &lt;i&gt;diversicolle&lt;/i&gt; Pic, 1926 is raised to species status, and &lt;i&gt;Idiopteron&lt;/i&gt; &lt;i&gt;irregularis&lt;/i&gt; is transferred to the genus &lt;i&gt;Lycomorphon.&lt;/i&gt; The new subgenus &lt;i&gt;Spinolycus&lt;/i&gt; &lt;b&gt;sg.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is proposed within &lt;i&gt;Lycomorphon.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Lycomorphon&lt;/i&gt;; new species; new subgenus; Neotropical Region</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elynton</firstname>
+          <middlename>Alves Do</middlename>
+          <lastname>Nascimento</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Milada</firstname>
+          <lastname>Bocakova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-52</pages>
+        <date_published>2009-06-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New and less known Orthoptera (Insecta) from the island of Socotra (Yemen)</title>
+        <abstract locale="en_US">A list of nine species of Orthoptera collected on Socotra is reported. Three of them were previously unrecorded on the island (Trigonidium &lt;i&gt;cicindeloides,&lt;/i&gt; &lt;i&gt;Paratettix&lt;/i&gt; &lt;i&gt;subpustulatus&lt;/i&gt; and &lt;i&gt;Acrotylus&lt;/i&gt; &lt;i&gt;insubricus)&lt;/i&gt; and one (Ochrilidia &lt;i&gt;socotrae&lt;/i&gt; &lt;b&gt;n.sp.)&lt;/b&gt; was undescribed. Further systematic notes on &lt;i&gt;Glomeremus&lt;/i&gt; &lt;i&gt;pileatus,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;mediopictus,&lt;/i&gt; &lt;i&gt;Pyrgomorpha&lt;/i&gt; &lt;i&gt;conica&lt;/i&gt; &lt;i&gt;tereticornis,&lt;/i&gt; &lt;i&gt;Acrotylus&lt;/i&gt; &lt;i&gt;incarnatus&lt;/i&gt; and &lt;i&gt;Sphingonotus&lt;/i&gt; &lt;i&gt;insularis&lt;/i&gt; are included. The East African &lt;i&gt;Acrotylus&lt;/i&gt; &lt;i&gt;meruensis,&lt;/i&gt; previously considered synonym of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;incarnatus,&lt;/i&gt; is proposed as a valid species, distinct from the latter.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ochrilidia&lt;/i&gt; &lt;i&gt;socotrae&lt;/i&gt; n. sp.; systematic; distribution; new records</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ochrilidia&lt;/i&gt; &lt;i&gt;socotrae&lt;/i&gt; n. sp.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bruno</firstname>
+          <lastname>Massa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-64</pages>
+        <date_published>2009-06-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Eumolpinae (Coleoptera: Chrysomelidae) from the western dry forest of Ecuador</title>
+        <abstract locale="en_US">&lt;i&gt;Australotymnes&lt;/i&gt; &lt;i&gt;jipijapa&lt;/i&gt; new genus, new species (type locality: Ecuador) is described. Adults were collected from vegetation during the rainy season in disturbed and converted dry forest in western Ecuador.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Australotymnes; Eumolpinae; Ecuador</subject>
+          <subject_class locale="en_US">Australotymnes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>Wills</middlename>
+          <lastname>Flowers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-06-15</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

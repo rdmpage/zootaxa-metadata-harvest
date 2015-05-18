@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2872.1</id>
+    <title locale="en_US">9 May. 2011</title>
+    <volume>2872</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Mathesius liaoningensis &lt;/i&gt;gen. et sp. nov. of Jehol Biota, a presumptive relative of the clerid or thaneroclerid branches of Cleroidea (Coleoptera)</title>
+        <abstract locale="en_US">&lt;i&gt;Mathesius&lt;/i&gt; &lt;i&gt;liaoningensis,&lt;/i&gt; a new genus and species of Cleroidea, probably relative of clerid or thaneroclerid branches of the superfamily, is described from the Lower Cretaceous; it belongs among the oldest and the best preserved cleroid fossils that have been known so far. The unique specimen was found in Yixian Formation (ca. 125 Ma) near Huangbanjigou Village, Beipiao City, Liaoning Province, NE China and belongs to the famous Chinese Jehol Biota. A classification of &lt;i&gt;Mathesius&lt;/i&gt; &lt;i&gt;liaoningensis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; et &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; within Cleroidea is based on cucujiform aedeagus with distinct medial apodeme (strut) and probably paired struts of the phallobase, pentamerous mesoand metatarsi, narrowly separated proand mesocoxae, metacoxae extending laterally to meet elytra. A possible relationship with the clerid or thaneroclerid branches is based on predacious mandibles, absence of large spines in tibiae, lobes at least in mesoand metatarsomeres 2–3 (probably 1–4), probably six visible abdominal ventrites, and shape of body. With the exception of the aforementioned features, the well-preserved fossil shows interesting morphological characters which are figured in detail and discussed in the context of morphology of some recent cucujiform families.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Cucujiformia; Cleroidea; Lower Cretaceous; Jehol Biota; China; new genus; new species</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Kolibáč</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Di-Ying</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2011-05-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the Mexican genus &lt;i&gt;Ichthyotettix &lt;/i&gt;Rehn, 1901 with remarks on the tribe Ichthyotettigini (Orthoptera, Caelifera, Pyrgomorphidae)</title>
+        <abstract locale="en_US">Two new species of Pyrgomorphidae of the Mexican endemic genus &lt;i&gt;Ichthyotettix&lt;/i&gt; Rehn, 1901, are described: &lt;i&gt;Ichthyotettix&lt;/i&gt; &lt;i&gt;stricticaudatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (from Oaxaca) and &lt;i&gt;Ichthyotettix&lt;/i&gt; &lt;i&gt;inexpectatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (from Morelos and Michoacan). The identity of the genus &lt;i&gt;Ichthyotettix,&lt;/i&gt; to date considered monotypic, within the tribe Ichthyotettigini is discussed and the type locality of &lt;i&gt;Ichthyotettix&lt;/i&gt; &lt;i&gt;mexicanus&lt;/i&gt; (Saussure, 1859) is examined and restricted to Veracruz state. The two new species are well characterised both for their morphological external characters as well for male genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pyrgomorphidae; &lt;i&gt;Piscacris&lt;/i&gt; &lt;i&gt;affinis&lt;/i&gt; Kevan; Singh et Akbar; 1964; &lt;i&gt;Piscacris&lt;/i&gt; &lt;i&gt;robertsi&lt;/i&gt; Kevan; Singh et Akbar; 1964; &lt;i&gt;Pyrgotettix&lt;/i&gt; &lt;i&gt;pueblensis&lt;/i&gt; Kevan; Singh et Akbar; 1964; &lt;i&gt;Sphenotettix&lt;/i&gt; &lt;i&gt;nobilis&lt;/i&gt; Kevan; Singh et Akbar; 1964; &lt;i&gt;Ichthyotettix&lt;/i&gt; &lt;i&gt;mexicanus&lt;/i&gt; (Saussure; 1859); &lt;i&gt;Ichthyotettix&lt;/i&gt; &lt;i&gt;stricticaudatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Ichthyotettix&lt;/i&gt; &lt;i&gt;inexpectatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Pyrgomorphidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paolo</firstname>
+          <lastname>Fontana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Filippo</firstname>
+          <middlename>Maria</middlename>
+          <lastname>Buzzetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Mariño-Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patricia</firstname>
+          <middlename>Lucero</middlename>
+          <lastname>García-García</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-34</pages>
+        <date_published>2011-05-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of two new Aulacidae (Hymenoptera: Evanioidea) from Japan</title>
+        <abstract locale="en_US">Two Aulacidae, &lt;i&gt;Aulacus&lt;/i&gt; &lt;i&gt;uchidai&lt;/i&gt; Turrisi &amp; Konishi, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Pristaulacus&lt;/i&gt; &lt;i&gt;superbus&lt;/i&gt; Turrisi &amp; Konishi, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; are described and illustrated from females recently collected in Japan. &lt;i&gt;Aulacus&lt;/i&gt; &lt;i&gt;uchidai&lt;/i&gt; is recognizable among the other Palaearctic &lt;i&gt;Aulacus&lt;/i&gt; by the colour pattern, with the metasoma entirely blackish, the weak and not extensive sculpture on upper frons, weakly rugulose-foveolate, the shape of mesosoma with propodeum declivous, the moderately long and slender apical lobe of hind coxa and the ovipositor length, 0.6–0.9× fore wing length. &lt;i&gt;Pristaulacus&lt;/i&gt; &lt;i&gt;superbus&lt;/i&gt; is a large species (length: 15.3–17.3 mm) with a long ovipositor (1.5× fore wing length), readily distinguishable from other Palaearctic &lt;i&gt;Pristaulacus&lt;/i&gt; by the blue to dull green metallic hue on head and mesosoma, the entirely black metasoma and one tooth-like process on each side of hind surface of propodeum. Including the two new species, the number of Japanese Aulacidae is now nine, two species of &lt;i&gt;Aulacus&lt;/i&gt; and seven species of &lt;i&gt;Pristaulacus.&lt;/i&gt; Images of both species are freely available at the web site: http:/ /morphbank.net. A revised key for the identification of the Japanese Aulacidae is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; &lt;i&gt;Aulacus&lt;/i&gt;; &lt;i&gt;Pristaulacus&lt;/i&gt;; new species; Japan</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giuseppe</firstname>
+          <middlename>Fabrizio</middlename>
+          <lastname>Turrisi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazuhiko</firstname>
+          <lastname>Konishi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-48</pages>
+        <date_published>2011-05-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cytotaxonomy of &lt;i&gt;Simulium &lt;/i&gt;(&lt;i&gt;Montisimulium&lt;/i&gt;) &lt;i&gt;ghoomense &lt;/i&gt;(Diptera: Simuliidae) from the Darjeeling Hills, India</title>
+        <abstract locale="en_US">The polytene chromosomes are mapped for a scarce Himalayan simuliid, &lt;i&gt;Simulium&lt;/i&gt; (Montisimulium) &lt;i&gt;ghoomense&lt;/i&gt; Datta, from the Darjeeling area of India. This species has three tightly paired polytene chromosomes with a haploid number of 3. Chromosomes I, II, and III account for 39.6%, 30.3%, and 30.1% of the total complement length, respectively. The centromeres of chromosomes II and III consistently form a putative partial chromocenter. Sex chromosomes are undifferentiated and polymorphisms and sibling species are lacking in a sample of 35 larvae. This is the first chromosomal map for a species in the subgenus &lt;i&gt;Montisimulium&lt;/i&gt; in India.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">black flies; chromosomal map; cytotaxonomy; Himalayas; polytene chromosomes</subject>
+          <subject_class locale="en_US">black flies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Willie</firstname>
+          <lastname>Henry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sachin</firstname>
+          <lastname>Thapa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>H.</middlename>
+          <lastname>Adler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Subrata</firstname>
+          <middlename>Kumar</middlename>
+          <lastname>Dey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rakesh</firstname>
+          <lastname>Varma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-57</pages>
+        <date_published>2011-05-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The larva of &lt;i&gt;Progomphus lambertoi &lt;/i&gt;Novelo-Gutiérrez, 2007 (Odonata: Gomphidae)</title>
+        <abstract locale="en_US">The larva of &lt;i&gt;Progomphus&lt;/i&gt; &lt;i&gt;lambertoi&lt;/i&gt; is described and illustrated; it belongs to the &lt;i&gt;obscurus-group&lt;/i&gt; of &lt;i&gt;Progomphus.&lt;/i&gt; It appears closely related to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;belyshevi&lt;/i&gt; Belle and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;borealis&lt;/i&gt; McLachlan based on stature and size of abdominal dorsal protuberances but is easily separated from these species by abdominal color pattern.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Description; Anisoptera; &lt;i&gt;Progomphus&lt;/i&gt;; Michoacán; Mexico</subject>
+          <subject_class locale="en_US">Description</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodolfo</firstname>
+          <lastname>Novelo-Gutiérrez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Gómez-Anaya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-62</pages>
+        <date_published>2011-05-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of sexuales of &lt;i&gt;Periphyllus singeri &lt;/i&gt;(Börner) (Hemiptera, Aphidoidea: Chaitophorinae)</title>
+        <abstract locale="en_US">The oviparous female and male of the rare aphid, &lt;i&gt;Periphyllus&lt;/i&gt; &lt;i&gt;singeri&lt;/i&gt; (Börner), are described and illustrated for the first time. Notes on distribution and host plants are presented. Keys are provided to known oviparae and males of European species of &lt;i&gt;Periphyllus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aphidoidea; Chaitophorinae; &lt;i&gt;Periphyllus&lt;/i&gt; &lt;i&gt;singeri&lt;/i&gt;; sexuales</subject>
+          <subject_class locale="en_US">Aphidoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karina</firstname>
+          <lastname>Wieczorek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Łukasz</firstname>
+          <lastname>Junkiert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-05-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

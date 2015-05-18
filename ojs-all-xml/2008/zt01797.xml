@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1797.1</id>
+    <title locale="en_US">16 Jun. 2008</title>
+    <volume>1797</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision and systematics of New Guinea and Oceania pygmy water boatmen (Hemiptera: Heteroptera: Corixoidea: Micronectidae)</title>
+        <abstract locale="en_US">The pygmy water boatmen of New Guinea and Oceania are revised. The two genera and ten species occurring throughout the region are described and keyed. &lt;i&gt;Papuanecta&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is erected to accommodate &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;inelryjelnor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;minajerwioides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The following new combinations are proposed in &lt;i&gt;Papuanecta:&lt;/i&gt; &lt;i&gt;Papuanecta&lt;/i&gt; &lt;i&gt;sinistra&lt;/i&gt; (Chen) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;minajerwi&lt;/i&gt; (Tinerella and Polhemus) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Micronecta&lt;/i&gt; &lt;i&gt;ludibunda&lt;/i&gt; &lt;i&gt;graphiptera&lt;/i&gt; Horváth &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ludibunda&lt;/i&gt; &lt;i&gt;langkana&lt;/i&gt; Wróblewski &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are synonymized with the nominate species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ludibunda&lt;/i&gt; Breddin. Following the provision of the International Code of Zoological Nomenclature [article 23.9.2] (ICZN 1999), &lt;i&gt;Sigara&lt;/i&gt; &lt;i&gt;mnotata&lt;/i&gt; Kirkaldy (1897b) is designated &lt;b&gt;&lt;i&gt;nomen&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;oblitum&lt;/i&gt;&lt;/b&gt; and &lt;i&gt;Micronecta&lt;/i&gt; &lt;i&gt;quadristrigata&lt;/i&gt; Breddin (1905a) as &lt;b&gt;&lt;i&gt;nomen&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;protec-&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;tum.&lt;/i&gt;&lt;/b&gt; The Australian species &lt;i&gt;Micronecta&lt;/i&gt; &lt;i&gt;queenslandica&lt;/i&gt; Chen is newly recorded for Papua New Guinea. A total of nine species is recorded from New Guinea and the Solomon Islands. One additional recently described species, &lt;i&gt;Micronecta&lt;/i&gt; &lt;i&gt;jenniferae&lt;/i&gt; Tinerella, is reported for Fiji. All species are illustrated. Discussion and documentation of primary type material are provided, and where available, type specimens are illustrated. Male genitalic structures are illustrated with scan-ning electron micrographs for all species except &lt;i&gt;Papuanecta&lt;/i&gt; &lt;i&gt;sinistra&lt;/i&gt; (Chen). Genitalic structures of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sinistra&lt;/i&gt; are redrawn from Chen (1965) and additional material. Line drawings are included of all other diagnostic features. Color habitus illustrations of each species (male and female) are also included. Distribution maps are presented for all recorded taxa except &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;jenniferae.&lt;/i&gt; Diagnostic morphology and variation, and relationships of New Guinea Micronectidae with other Australasian taxa and world micronectid faunas, are discussed. A cladistic analysis and zoogeographic discussion of New Guinea species relationships are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Corixoidea; Micronectidae; pygmy water boatmen; morphology; biogeography; aquatic insect</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <middlename>P.</middlename>
+          <lastname>Tinerella</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-66</pages>
+        <date_published>2008-06-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

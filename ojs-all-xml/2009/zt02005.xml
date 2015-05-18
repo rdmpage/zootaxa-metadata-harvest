@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2005.1</id>
+    <title locale="en_US">9 Feb. 2009</title>
+    <volume>2005</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the Amphibians and Reptiles of Costa Rica: Additions and nomenclatural revisions</title>
+        <abstract locale="en_US">A list of amphibians and reptiles of Costa Rica is actualized. A total of 425 species (190 amphibians and 235 reptiles) are recognized.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Herpetofauna; diversity; Mesoamerica</subject>
+          <subject_class locale="en_US">Herpetofauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jay</firstname>
+          <middlename>M.</middlename>
+          <lastname>Savage</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Federico</firstname>
+          <lastname>Bolaños</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2009-02-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of three new species of Tardigrada from the Seychelles</title>
+        <abstract locale="en_US">In the context of the project “The Nature Protection Trust of Seychelles”, three species new to science are described: &lt;i&gt;Calcarobiotus&lt;/i&gt; (Calcarobiotus) &lt;i&gt;parvicalcar&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;modestus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;Itaquascon&lt;/i&gt; &lt;i&gt;pisoniae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;i&gt;Calcarobiotus&lt;/i&gt; (Calcarobiotus) &lt;i&gt;parvicalcar&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; differs from the other species of the genus in having very small basal spurs of the claws; from some of them also in lacking eyes or in metric characters of placoids or claws. &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;modestus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; has a very simple buccal armature (only three thin transverse ventral ridges are present and the three dorsal ridges are joined together forming a single transverse dorsal arc), and a long and narrow buccal tube with stylet supports inserted at 67–70 % of its length. It differs from the most similar species, &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;humilis&lt;/i&gt; and &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;madegassus,&lt;/i&gt; in some characteristics of bucco-pharyngeal apparatus and eggs. &lt;i&gt;Itaquascon&lt;/i&gt; &lt;i&gt;pisoniae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; has the buccal tube slightly longer than the pharyngeal tube (pbf index = 54–55), pharyngeal apophyses and placoids are absent, a very faint cuticular bar near the internal claws of the first three pairs of claws, and no cuticular thickenings on the hind legs. It differs from the most similar species of the genus, &lt;i&gt;Itaquascon&lt;/i&gt; &lt;i&gt;placophorum,&lt;/i&gt; in having a smooth cuticle, shorter claws, in lacking placoid and the cuticular bar between the claws of the hind legs. Including this study, 30 species are recorded in the Seychelles, 15 of which are currently considered endemic for that archipelago.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tardigrada; &lt;i&gt;Calcarobiotus&lt;/i&gt; &lt;i&gt;parvicalcar&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;modestus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Itaquascon&lt;/i&gt; &lt;i&gt;pisoniae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Seychelles</subject>
+          <subject_class locale="en_US">Tardigrada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giovanni</firstname>
+          <lastname>Pilato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <lastname>Lisi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-34</pages>
+        <date_published>2009-02-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new large didelphid of the genus &lt;i&gt;Thylophorops &lt;/i&gt;(Mammalia: Didelphimorphia: Didelphidae), from the late Tertiary of the Pampean Region (Argentina)</title>
+        <abstract locale="en_US">We describe &lt;i&gt;Thylophorops&lt;/i&gt; &lt;i&gt;lorenzinii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Marsupialia, Didelphidae), the largest known didelphid opossum, living or extinct. Its type specimen comes from Late Pliocene levels at Punta San Andrés, southeastern Buenos Aires Province, Argentina. With an estimated body mass between 4.8 and 7.4 kg, it obviously surpasses that of the (up to now) largest didelphid, the living &lt;i&gt;Didelphis&lt;/i&gt; &lt;i&gt;virginiana&lt;/i&gt; Kerr. In addition to its larger size, the new species differs from &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;chapalmalensis&lt;/i&gt; Ameghino and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;perplanus&lt;/i&gt; Ameghino in that its lower molars have more labially salient hypoconids and proportionally large hypoconulids which are not antero-posteriorly compressed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Thylophorops&lt;/i&gt; &lt;i&gt;lorenzinii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Didelphidae; Marplatan Stage/Age; Argentina</subject>
+          <subject_class locale="en_US">&lt;i&gt;Thylophorops&lt;/i&gt; &lt;i&gt;lorenzinii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Didelphidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <middlename>J.</middlename>
+          <lastname>Goin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalia</firstname>
+          <lastname>Zimicz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <lastname>De Los Reyes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leopoldo</firstname>
+          <lastname>Soibelzon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2009-02-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the genus &lt;i&gt;Mallinela &lt;/i&gt;(Zodariidae: Araneae) from Yunnan Province, China</title>
+        <abstract locale="en_US">Three new Zodariid spiders of the genus &lt;i&gt;Mallinela&lt;/i&gt; Strand, 1906 are described under the names: &lt;i&gt;Mallinela&lt;/i&gt; &lt;i&gt;bifurcata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Mallinela&lt;/i&gt; &lt;i&gt;kunmingensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Mallinela&lt;/i&gt; &lt;i&gt;biumbonalia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; Distributional data and illustrations of body and genital organs are provided. All type specimens were collected from Yunnan Province, China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Zodariidae; &lt;i&gt;Mallinela&lt;/i&gt;; Gaoligong Mountains</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qiao-Bing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chang-Ming</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <lastname>Griswold</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xian-Jin</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2009-02-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological studies and molecular data on a new marine ciliate, &lt;i&gt;Apokeronopsis sinica &lt;/i&gt;n. sp. (Ciliophora: Urostylida), from the South China Sea</title>
+        <abstract locale="en_US">The morphology of a new marine urostylid ciliate, &lt;i&gt;Apokeronopsis&lt;/i&gt; &lt;i&gt;sinica&lt;/i&gt; n. sp., collected from the Clear Water Bay, Hong Kong, was investigated. Additionally, the SSrRNA gene was sequenced in order to make a comparison at molecular level. Based on both morphological and molecular data, descriptions and comparisons with its congeners are provided. &lt;i&gt;Apokeronopsis&lt;/i&gt; &lt;i&gt;sinica&lt;/i&gt; is characterized by: body size about 150–200 × 50–65 µm &lt;i&gt;in&lt;/i&gt; &lt;i&gt;vivo;&lt;/i&gt; two kinds of cortical granules; about 20 cirri in frontal area which form the non-typical bicorona; 2 frontoterminal, ca. 4 buccal and 10 transverse cirri; midventral complex consists of 21–32 pairs of cirri; on average 35 right and 30 left marginal cirri; about 50 membranelles; invariably 3 dorsal kineties. A key to the identification of the known &lt;i&gt;Apokeronopsis&lt;/i&gt; species was suggested. The small subunit rRNA gene sequence differences between &lt;i&gt;Apokeronopsis&lt;/i&gt; &lt;i&gt;sinica&lt;/i&gt; and its congeners range from 1.64% to 3.72%.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Clear Water Bay; infraciliature; key; protozoa; 18S rRNA</subject>
+          <subject_class locale="en_US">Clear Water Bay; infraciliature; key; protozoa; 18S rRNA</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weiwei</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jiqiu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shan</firstname>
+          <lastname>Gao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chen</firstname>
+          <lastname>Shao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jun</firstname>
+          <lastname>Gong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiaofeng</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongbin</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weibo</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-66</pages>
+        <date_published>2009-02-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of the Madagascar Bullfrog, &lt;i&gt;Laliostoma labrosum&lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heike</firstname>
+          <lastname>Schmidt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Meike</firstname>
+          <lastname>Teschke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2009-02-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

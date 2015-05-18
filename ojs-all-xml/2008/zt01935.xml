@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1935.1</id>
+    <title locale="en_US">17 Nov. 2008</title>
+    <volume>1935</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-11-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalog of the Indo-Malayan/Australasian stingless bees (Hymenoptera: Apidae: Meliponini)</title>
+        <abstract locale="en_US">This catalog of the published literature on stingless bees from the Indo-Malayan/Australasian region was compiled from 520 references and deals with 129 proposed names for species-group taxa of which 89 are considered currently valid. Information is summarized on organisms associated with stingless bee colonies as well as the 225 plants from which the bees have been reported to forage. Lectotypes are designated for &lt;i&gt;Trigona&lt;/i&gt; &lt;i&gt;ornata&lt;/i&gt; described by Rayment and the following species described by Friese: &lt;i&gt;Trigona&lt;/i&gt; &lt;i&gt;anamitica,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;australis,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;borneënsis,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;flaviventris,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;keyensis,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;luteiventris,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;pygmaea,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;reepeni,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sericea,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;versicolor.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Austroplebeia&lt;/i&gt;; &lt;i&gt;Geniotrigona&lt;/i&gt;; &lt;i&gt;Heterotrigona&lt;/i&gt;; &lt;i&gt;Homotrigona&lt;/i&gt;; &lt;i&gt;Lepidotrigona&lt;/i&gt;; &lt;i&gt;Lisotrigona&lt;/i&gt;; &lt;i&gt;Lophotrigona&lt;/i&gt;; &lt;i&gt;Odontotrigona&lt;/i&gt;; &lt;i&gt;Papuatrigona&lt;/i&gt;; &lt;i&gt;Pariotrigona&lt;/i&gt;; &lt;i&gt;Platytrigona&lt;/i&gt;; &lt;i&gt;Sundatrigona&lt;/i&gt;; &lt;i&gt;Tetragonilla&lt;/i&gt;; &lt;i&gt;Tetragonula&lt;/i&gt;; &lt;i&gt;Tetrigona&lt;/i&gt;; &lt;i&gt;Trigona&lt;/i&gt;; bibliography</subject>
+          <subject_class locale="en_US">&lt;i&gt;Austroplebeia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claus</firstname>
+          <lastname>Rasmussen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-80</pages>
+        <date_published>2008-11-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

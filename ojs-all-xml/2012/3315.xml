@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3315.1</id>
+    <title locale="en_US">16 May. 2012</title>
+    <volume>3315</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Caloctenus &lt;/i&gt;(Araneae: Ctenidae) from Colombia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nicolas</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hazzi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diana</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Davila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-05-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

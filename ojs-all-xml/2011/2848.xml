@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2848.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2848</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Serpulidae (Annelida: Polychaeta) from the Suez Canal— From a Lessepsian Migration Perspective (a Monograph) </title>
+        <abstract locale="en_US">Data on Serpulidae collected in the Suez Canal were assembled and analyzed. Five serpulid taxa are reported from the canal for the first time bringing the number of serpulids to at least 16. The Systematic Section compiles revised literature records, confirmed synonymies of the taxa, redescriptions where necessary, photographic studies of taxa and remarks on the populations studied. The possible Indo-West-Pacific or Mediterranean origins of the taxa in the Suez Canal are considered and their chronological records and distributions tracked within the Red Sea, the Gulfs of Aqaba and Suez, the Suez Canal and the Levant Basin based on the compiled literature and our extensive databases. Two Lessepsian migrants, &lt;i&gt;Hydroides&lt;/i&gt; &lt;i&gt;heterocerus&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;homoceros,&lt;/i&gt; show evidence of morphological variability along their migration route; the last also provides an example of a founder effect. Problems of identifying &lt;i&gt;Protula&lt;/i&gt; and &lt;i&gt;Salmacina&lt;/i&gt; taxa are addressed, along with remarks on the “cosmopolitan” designations of some taxa. Various hypotheses concerning Lessepsian migration are discussed, and attributes making Lessepsian migrant serpulid tubeworms successful invasive species are evaluated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Suez Canal; Serpulidae; taphonomy; Lessepsian migrants; alien invasive species; “Yellow Fleet”; historical records; biogeography; morphological variability</subject>
+          <subject_class locale="en_US">Suez Canal</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>Nechama</middlename>
+          <lastname>Ben-Eliahu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <middlename>A. Ten</middlename>
+          <lastname>Hove</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-147</pages>
+        <date_published>2011-04-29</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

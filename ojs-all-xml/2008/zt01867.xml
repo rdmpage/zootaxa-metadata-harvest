@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1867.1</id>
+    <title locale="en_US">3 Sep. 2008</title>
+    <volume>1867</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Micronoctuidae (Lepidoptera: Noctuoidea). Part 2, Taxonomy of the Belluliinae, Magninae, and Parachrostiinae</title>
+        <abstract locale="en_US">This is the second part of a series of papers on the recently described family Micronoctuidae Fibiger, 2005. Part 2 includes the description of three new subfamilies: Belluliinae, Magninae, and Parachrostiinae; six new tribes: Belluliini, Medialini, Magnini, Faeculini, Duplexini, and Parachrostini; seventeen genera (fifteen new): &lt;i&gt;Bellulia,&lt;/i&gt; &lt;i&gt;Mediala,&lt;/i&gt; &lt;i&gt;Melaleucia&lt;/i&gt; Hampson, 1900, &lt;i&gt;Magna,&lt;/i&gt; &lt;i&gt;Basalia,&lt;/i&gt; &lt;i&gt;Palnissa,&lt;/i&gt; &lt;i&gt;Bilinea,&lt;/i&gt; &lt;i&gt;Angustia,&lt;/i&gt; &lt;i&gt;Rustica,&lt;/i&gt; &lt;i&gt;Indieditum,&lt;/i&gt; &lt;i&gt;Faecula,&lt;/i&gt; &lt;i&gt;Duplex,&lt;/i&gt; &lt;i&gt;Parachrostia,&lt;/i&gt; &lt;i&gt;Digita,&lt;/i&gt; &lt;i&gt;Anellus,&lt;/i&gt; &lt;i&gt;Taiwani,&lt;/i&gt; and &lt;i&gt;Mimachrostia&lt;/i&gt; Sugi, 1982;, and two subgenera (one new: &lt;i&gt;Contrasta).&lt;/i&gt; 62 species are treated (50 new). Ten new combinations are proposed. Two genera and twelve previously described species are redescribed. Two new species belonging to the Pollexinae Fibiger, 2007 are described here as additions. All taxa treated in this part occur in eastern, southern, or south-eastern Asia or Indonesia and inhabit tropical, subtropical, or temperate climatic zones.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Micronoctuidae; taxonomy; new subfamilies; new tribes; new genera; new subgenus; new species; redescribed species; new combinations; east; south; south-east Asia; Indonesia.</subject>
+          <subject_class locale="en_US">Micronoctuidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Fibiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-136</pages>
+        <date_published>2008-09-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

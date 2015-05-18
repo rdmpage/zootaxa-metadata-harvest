@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1699.1</id>
+    <title locale="en_US">7 Feb. 2008</title>
+    <volume>1699</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of oak gallwaps from Iran (Hymenoptera: Cynipidae: Cynipini)</title>
+        <abstract locale="en_US">Fourteen new species of oak gallwasps, &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;istvani,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;assarehi,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;schoenroggei,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;csokai,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;chodjaii,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;megatruncicolus,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;coriariformis,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;libani,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;stellatus,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt;&lt;i&gt;pseudoaries,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;sadeghii,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;atkinsonae,&lt;/i&gt; &lt;i&gt;Andricus&lt;/i&gt; &lt;i&gt;pujadevillari&lt;/i&gt; and &lt;i&gt;Dryocosmus&lt;/i&gt; &lt;i&gt;caspiensis&lt;/i&gt; (Hymenoptera: Cynipidae: Cynipini) are described from Iran. Data on the diagnosis, distribution and biology of new species are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cynipidae; oak gallwasp; &lt;i&gt;Andricus&lt;/i&gt;; &lt;i&gt;Dryocosmus&lt;/i&gt;; taxonomy; morphology; distribution; biology</subject>
+          <subject_class locale="en_US">Cynipidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <lastname>Tavakoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <lastname>Melika</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Sadeghi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Z.</firstname>
+          <lastname>Penzes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Assareh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Atkinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Bechtold</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>I.</firstname>
+          <lastname>Miko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Zargaran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Aligolizade</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <lastname>Barimani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Bihari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <lastname>Pirozi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <lastname>Fulop</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <lastname>Somogyi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Challis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <lastname>Preuss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Nicholls</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <middlename>N.</middlename>
+          <lastname>Stone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2008-02-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

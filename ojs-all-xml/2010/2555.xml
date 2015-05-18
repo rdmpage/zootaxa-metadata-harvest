@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2555.1</id>
+    <title locale="en_US">2 Aug. 2010</title>
+    <volume>2555</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New zerconid mites (Acari: Mesostigmata: Zerconidae) from Canada, with a review of the genus &lt;i&gt;Mixozercon &lt;/i&gt;Halašková, 1963</title>
+        <abstract locale="en_US">Three new species of the genus &lt;i&gt;Mixozercon&lt;/i&gt; Halašková, 1963 (Zerconidae) are described from boreal forest sites of the EMEND experimental site in northwestern Alberta, Canada – &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;albertaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;jasoniana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;borealis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The new genus &lt;i&gt;Boreozercon&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described, with type species &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;emendi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Short diagnoses and distributional records are given for &lt;i&gt;Mixozercon&lt;/i&gt; &lt;i&gt;heterosetosus&lt;/i&gt; (Balan 1995), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sellnicki&lt;/i&gt; (Schweizer 1948) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stellifer&lt;/i&gt; (Aoki 1964). Keys are provided for identification of the known species of &lt;i&gt;Mixozercon&lt;/i&gt; and the Nearctic genera of the family Zerconidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Zerconidae; &lt;i&gt;Mixozercon&lt;/i&gt;; &lt;i&gt;Boreozercon&lt;/i&gt;; Canada; EMEND project</subject>
+          <subject_class locale="en_US">Zerconidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Irma</firstname>
+          <lastname>Díaz-Aguilar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zsolt</firstname>
+          <lastname>Ujvári</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2010-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Tanaidacea from Brazil. II. A revision of the subfamily Hemikalliapseudinae (Kalliapseudidae; Tanaidacea; Crustacea) using phylogenetic methods</title>
+        <abstract locale="en_US">Based on recently collected material from Brazil the subfamily Hemikalliapseudinae is revised using phylogenetic methods and including ontogenetic observations. Due to the homoplastic nature of many family or subfamily characters, this analysis includes taxa from the family Kalliapseudidae as well as from other Apseudomorphan families (Apseudidella, Apseudidae, Parapseudidae and Sphyrapodidae). &lt;i&gt;Gigantapseudes&lt;/i&gt; is chosen as an outgroup. According to this analysis the family Kalliapseudidae, the Kalliapseudinae and Hemikalliapseudinae are monophyletic but the subfamily Tanapseudinae is not monophyletic. &lt;i&gt;Thaicungella&lt;/i&gt; currently residing in the Parapseudidae is transferred to Kalliapseudidae on the basis of this analysis. Male, female and manca I of a new species of the genus &lt;i&gt;Acutihumerus,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;petronius,&lt;/i&gt; are described. The species &lt;i&gt;Bacescapseudes&lt;/i&gt; &lt;i&gt;patagoniensis&lt;/i&gt; is restored but moved to genus &lt;i&gt;Acutihumerus.&lt;/i&gt; The genus &lt;i&gt;Longipedis&lt;/i&gt; (Parapseudidae) is removed from &lt;i&gt;Saltipedis&lt;/i&gt; and restored. Comments on the ontogeny of the pereopodal exopod are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Peracarida; Tanaidacea; Apseudomorpha; Kalliapseudidae; Kalliapseudinae; Hemikalliapseudinae; Tanapseudinae; Phylogeny; &lt;i&gt;Acutihumerus&lt;/i&gt;; &lt;i&gt;Longipedis&lt;/i&gt;; &lt;i&gt;Thaicungella&lt;/i&gt;; Pereopod exopod; Brazilian fauna</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Catarina</firstname>
+          <lastname>De L. Araújo-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kim</firstname>
+          <lastname>Larsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-48</pages>
+        <date_published>2010-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records and taxonomic data for 14 species of sand crabs (Crustacea: Anomura: Albuneidae) from localities worldwide</title>
+        <abstract locale="en_US">Specimens representing 12 species of albuneid sand crabs (Albuneidae) are identified and discussed, and new taxonomic information is provided for an additional two species. These mostly new records come from diverse localities including Pacific Mexico (Lepidopa &lt;i&gt;californica&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;deamae),&lt;/i&gt; Atlantic Panama (Albunea &lt;i&gt;paretii&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;catherinae),&lt;/i&gt; Madagascar (Albunea &lt;i&gt;groeningi&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;symmysta,&lt;/i&gt; although the locality data on these species needs verification), India (A. &lt;i&gt;symmysta),&lt;/i&gt; Réunion Island (A. &lt;i&gt;holthuisi),&lt;/i&gt; the Philippines (A. &lt;i&gt;microps),&lt;/i&gt; Guam (A. &lt;i&gt;speciosa&lt;/i&gt; and &lt;i&gt;Paralbunea&lt;/i&gt; &lt;i&gt;dayriti),&lt;/i&gt; Moorea (A. &lt;i&gt;elioti)&lt;/i&gt; and Hawaii (Albunea &lt;i&gt;bulla).&lt;/i&gt; The sole specimen of &lt;i&gt;Albunea&lt;/i&gt; &lt;i&gt;bulla&lt;/i&gt; from Hawaii represents only the third species of albuneid recorded from the island chain. An overlooked misidentification of specimens of “Albunea &lt;i&gt;thurstoni”&lt;/i&gt; from Hawaii (= &lt;i&gt;Albunea&lt;/i&gt; &lt;i&gt;danai)&lt;/i&gt; is also included. The discovery of a population of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;catherinae&lt;/i&gt; in Atlantic Panama is surprising and shows a highly disjunct distribution for the species, which could be the result of ballast water discharge near the Panama Canal Zone. Several specimens studied exhibit morphological characters that differ from typical members of their species and this illustrates the challenges of defining species boundaries from relatively small sample sizes. Discovery of a long overlooked species description reveals that &lt;i&gt;Albunea&lt;/i&gt; &lt;i&gt;scutelloides&lt;/i&gt; Garstang, 1897 is the senior synonym of &lt;i&gt;Albunea&lt;/i&gt; &lt;i&gt;mariellae&lt;/i&gt; Serène, 1973 and is the valid name for the type species of the genus &lt;i&gt;Squillalbunea&lt;/i&gt; Boyko, 2002.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Albuneidae; &lt;i&gt;Lepidopa&lt;/i&gt;; &lt;i&gt;Albunea&lt;/i&gt;; &lt;i&gt;Paralbunea&lt;/i&gt;; &lt;i&gt;Squillalbunea&lt;/i&gt;; invasive species; Hawaii; Panama Canal Zone; Guam; Indo-West Pacific; East Pacific; Atlantic</subject>
+          <subject_class locale="en_US">Albuneidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <middlename>B.</middlename>
+          <lastname>Boyko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-61</pages>
+        <date_published>2010-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and new species of deep-water trapeziid crab (Crustacea: Decapoda: Brachyura: Trapezioidea) from the Ryukyu Islands, Japan </title>
+        <abstract locale="en_US">A new genus and new species of trapeziid crab, &lt;i&gt;Hexagonaloides&lt;/i&gt; &lt;i&gt;bathyalis,&lt;/i&gt; is described from Okinawa, Ryukyu Islands (Okinawa Prefecture), Japan, on the basis of two male specimens collected at a depth of 247 m. The new genus is unique among the Trapeziidae in having a combination of the hexagonal carapace bearing a single lateral spine and a smooth frontal margin and the unarmed anterior margin of the cheliped meri. The symbiotic association of the new taxon remains unknown.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Trapeziidae; new genus; new species; Ryukyu Islands</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Takuo</firstname>
+          <lastname>Higashiji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2010-08-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

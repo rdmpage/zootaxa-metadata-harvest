@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2462.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2462</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A morphological phylogenetic analysis and generic revision of Australian Helicarionidae (Gastropoda: Pulmonata: Stylommatophora), and an assessment of the relationships of the family </title>
+        <abstract locale="en_US">Helicarionidae is a diverse and widely distributed group whose delineation and phylogenetic relationships are poorly understood. We review the helicarionid fauna of Australia (excluding Lord Howe Island and Norfolk Island) and carry out a phylogenetic analysis based on 54 morphological characters. The morphology of 22 Australian helicarionid species from 17 genera is described, including one new genus (Stanisicarion) and two new combinations (Stanisicarion &lt;i&gt;freycineti,&lt;/i&gt; &lt;i&gt;Stanisicarion&lt;/i&gt; &lt;i&gt;virens).&lt;/i&gt; The taxonomic positions of the remaining Australian genera are discussed. In addition, morphological descriptions of 24 taxa closely related to Helicarionidae are presented. Morphological characters indicate that Euconulidae (with subfamilies Euconulinae and Microcystinae), Trochomorphidae and Cystopeltidae can be excluded from Helicarionoidea, supporting recent phylogenies based on molecular data. The Helicarionidae is redefined and most endemic Australian mainland taxa previously assigned to Euconulinae, Durgellinae and Sesarinae can be included within the family as redefined. Five Australian genera (Coneuplecta, &lt;i&gt;Euconulus,&lt;/i&gt; &lt;i&gt;Turrisitala,&lt;/i&gt; &lt;i&gt;Wilhelminaia&lt;/i&gt; and &lt;i&gt;Queridomus)&lt;/i&gt; are moved to Euconulinae, one (Liardetia) to Microcystinae and one (Theskelomensor) to Trochomorphidae, leaving 24 genera and 47 species of mainland Australian Helicarionidae. Our results show poor support for the monophyly of Helicarionidae and no synapomorphies can be identified. Helicarionoidea, which is monophyletic in some other recent morphological and molecular analyses, is supported by the shared presence of a flagellum with glandular walls and an axial filament and the presence of an epiphallic retractor caecum. However, one or both of these characters are missing in some helicarionoid taxa. Morphological characters alone give little support for branching patterns among the Australian taxa. This is partly due to high levels of convergence and loss in the data.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Isabel</firstname>
+          <middlename>T.</middlename>
+          <lastname>Hyman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Winston</firstname>
+          <middlename>F.</middlename>
+          <lastname>Ponder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-148</pages>
+        <date_published>2010-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1901.1</id>
+    <title locale="en_US">15 Oct. 2008</title>
+    <volume>1901</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-10-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phytoseiid mites of the tribe Typhlodromini (Acari: Phytoseiidae) from sub-Saharan Africa</title>
+        <abstract locale="en_US">This is the ninth publication in a series on the taxonomy of phytoseiid mites of sub-Saharan Africa. Sixty-five phytoseiid species of the tribe Typhlodromini Wainstein, all of which are in the genus &lt;i&gt;Typhlodromus&lt;/i&gt; Scheuten are reported in this paper (62 in the subgenus &lt;i&gt;Anthoseius&lt;/i&gt; DeLeon and 3 in the subgenus &lt;i&gt;Typhlodromus&lt;/i&gt; Scheuten). They refer to all species of this tribe known to occur in sub-Saharan Africa. Fifteen new species are described and 41 species are redescribed. Most of the reported species were collected in various habitats in southern Africa and in cassava habitats in tropical Africa. A key is included for the separation of these species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biological control; predator; Phytoseiidae; cassava; taxonomy; &lt;i&gt;Typhlodromus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Biological control</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edward</firstname>
+          <middlename>A.</middlename>
+          <lastname>Ueckermann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ignace</firstname>
+          <middlename>D.</middlename>
+          <lastname>Zannou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anibal</firstname>
+          <middlename>R.</middlename>
+          <lastname>Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rachid</firstname>
+          <lastname>Hanna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>S.</middlename>
+          <lastname>Yaninek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-122</pages>
+        <date_published>2008-10-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3166.1</id>
+    <title locale="en_US">19 Jan. 2012</title>
+    <volume>3166</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new aetosaur genus (Archosauria: Pseudosuchia) from the early Late Triassic of southern Brazil</title>
+        <abstract locale="en_US">We describe the new aetosaur &lt;i&gt;Aetobarbakinoides&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the early Late Triassic (late Carnian-early Norian) Brazilian Santa Maria Formation. The holotype is composed of a partial postcranium including several cer-vical and dorsal vertebrae and ribs, one anterior caudal vertebra, right scapula, right humerus, right tibia, partial right pes,and anterior and mid-dorsal paramedian osteoderms. &lt;i&gt;Aetobarbakinoides&lt;/i&gt; is differentiated from other aetosaurs by the pres-ence of cervical vertebrae with widely laterally extended prezygapophyses, mid-cervical vertebrae with anterior articularfacet width more than 1.2 times wider than the posterior one, anterior caudal vertebrae with extremely anteroposteriorlyshort prezygapophyses, elongated humerus and tibia in relation to the axial skeleton, and paramedian osteoderms with aweakly raised anterior bar. A cladistic analysis recovered the new species as more derived than the South American genera&lt;i&gt;Aetosauroides&lt;/i&gt; (late Carnian-early Norian) and &lt;i&gt;Neoaetosauroides&lt;/i&gt; (late Norian-Rhaetian), and it is nested as the sister-tax-on of an unnamed clade, composed of Typothoracisinae and Desmatosuchinae, due to the absence of a ventral keel in thecervical vertebrae. &lt;i&gt;Aetobarbakinoides&lt;/i&gt; presents a skeletal anatomy previously unknown among South American aetosaurs,with the combination of presacral vertebrae with hyposphene, anteroposteriorly short and unkeeled cervical vertebrae,gracile limbs, and paramedian osteoderms with a weakly raised anterior bar. &lt;i&gt;Aetobarbakinoides&lt;/i&gt; is among the oldest knownaetosaurs together with &lt;i&gt;Aetosauroides&lt;/i&gt; from Argentina and Brazil and &lt;i&gt;Stagonolepis&lt;/i&gt; &lt;i&gt;robertsoni&lt;/i&gt; from Scotland, indicatinga widely distributed early record for the group. In addition, the recognition of a suite of derived features in &lt;i&gt;Aetobarbaki-&lt;/i&gt;&lt;i&gt;noides,&lt;/i&gt; which is one of the oldest known aetosaurs, is in agreement with an older origin for the group, as it is expected by the extensive ghost lineages at the base of the main pseudosuchian clades.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Archosauria; Aetosauria; Late Triassic; Santa Maria Formation; Brazil</subject>
+          <subject_class locale="en_US">Archosauria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julia</firstname>
+          <middlename>B.</middlename>
+          <lastname>Desojo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ezcurra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edio</firstname>
+          <middlename>E.</middlename>
+          <lastname>Kischlat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2012-01-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Suctorian ciliates (Ciliophora, Suctorea) as epibionts of stream-dwelling aquatic beetles (Coleoptera) and water mites (Acari: Hydrachnidia) in the southwestern Palaearctic region</title>
+        <abstract locale="en_US">Based on original data from recent research, numerous new records of the suctorian species living as epibionts on stream-dwelling aquatic beetles (Coleoptera) and water mites (Acari, Hydrachnidia) in the southwestern Palaearctic area are giv-en. The following species are reported for the first time for the national faunas: &lt;i&gt;Setodiscophrya&lt;/i&gt; &lt;i&gt;deplanata&lt;/i&gt; (Matthes, 1954)(Bosnia and Hercegovina, Montenegro, Serbia, Bulgaria, Turkey), &lt;i&gt;Discophrya&lt;/i&gt; &lt;i&gt;helmidis&lt;/i&gt; Matthes, 1954 (Montenegro, Tur-key), &lt;i&gt;Elatodiscophrya&lt;/i&gt; &lt;i&gt;hochi&lt;/i&gt; (Matthes, 1954) (Bosnia and Hercegovina, Turkey), &lt;i&gt;Periacineta&lt;/i&gt; &lt;i&gt;buckei&lt;/i&gt; (Kent, 1881) (Mon-tenegro, Greece), &lt;i&gt;Discophrya&lt;/i&gt; &lt;i&gt;lichtensteinii&lt;/i&gt; (Claparede &amp; Lachmann, 1859) (Turkey, Iran). The characteristics of the suctorians as epibionts of stream-dwelling arthropods are briefly outlined.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">aquatic beetles; water mites; suctorian ciliates; epibiont; lotic ecosystems</subject>
+          <subject_class locale="en_US">aquatic beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Igor</firstname>
+          <lastname>Dovgal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-40</pages>
+        <date_published>2012-01-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Peanut worms of the phylum Sipuncula from the Nha Trang Bay (South China Sea) with a key to species</title>
+        <abstract locale="en_US">Sipunculan worms from the Vietnamese waters are still poorly investigated, while they are well known from Chinese andTaiwanese waters of the South China Sea. During the years 2008–2010, therefore, we collected sipunculans from NhaTrang Bay in South Vietnam. Twenty species of peanut worms representing eleven genera and five families of the phylumSipuncula are recognized from more than one thousand individuals collected from various biotopes. Fifteen species arenew records for Nha Trang Bay with &lt;i&gt;Nephasoma&lt;/i&gt; &lt;i&gt;pellucidum&lt;/i&gt; being a new record for the South China Sea. Species accountsinclude the most important taxonomic characters as well as quantitative characteristics, distributions, and specific biotopedata. All species were illustrated in living conditions with everted introvert and tentacular apparatus. Accordingly, a key up to species level is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sipunculus&lt;/i&gt;; &lt;i&gt;Siphonosoma&lt;/i&gt;; &lt;i&gt;Nephasoma&lt;/i&gt;; &lt;i&gt;Thysanocardia&lt;/i&gt;; &lt;i&gt;Themiste&lt;/i&gt;; &lt;i&gt;Antillesoma&lt;/i&gt;; &lt;i&gt;Apionsoma&lt;/i&gt;; &lt;i&gt;Phascolosoma&lt;/i&gt;; &lt;i&gt;Aspidosiphon&lt;/i&gt;; &lt;i&gt;Lithacrosiphon&lt;/i&gt;; &lt;i&gt;Cloeosiphon&lt;/i&gt;; Vietnam; Indo-West Pacific</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sipunculus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Adrianov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anastassya</firstname>
+          <middlename>S.</middlename>
+          <lastname>Maiorova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-58</pages>
+        <date_published>2012-01-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Alestopetersius &lt;/i&gt;(Characiformes: Alestidae) from the Kwilu River (Kasai basin) of central Africa; with a phylogeny for the genus and synonymy of &lt;i&gt;Duboisialestes&lt;/i&gt;</title>
+        <abstract locale="en_US">A new &lt;i&gt;Alestopetersius&lt;/i&gt; is described from the Kwilu River in the Kasai basin of the Democratic Republic of Congo. &lt;i&gt;Alesto-&lt;/i&gt;&lt;i&gt;petersius&lt;/i&gt; &lt;i&gt;conspectus,&lt;/i&gt; new species, is readily distinguished from all congeners based on attributes of squamation and col-oration. It is distinguished from “Duboisialestes” &lt;i&gt;tumbensis&lt;/i&gt; by tooth morphology and in the possession of a distinctivecaudal-fin pigmentation patterning consisting of a median black band extending to the caudal-fin margin and flanked bydense black bands in both upper and lower fin lobes. “Duboisialestes” &lt;i&gt;bifasciatus,&lt;/i&gt; which shares similar caudal-fin pig-mentation patterning, is distinguished from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;conspectus&lt;/i&gt; by the absence of a broad mid-lateral band on the body, and bytooth morphology. Results from an analysis of the relationships and generic composition of the Alestidae provide supportfor the monophyly for &lt;i&gt;Alestopetersius&lt;/i&gt; inclusive of the members of the genus &lt;i&gt;Duboisialestes,&lt;/i&gt; which are placed into syn-onomy with the former.Une nouvelle espèce de &lt;i&gt;Alestopetersius&lt;/i&gt; est décrite de la rivière Kwilu dans le bassin du Kasai de la RépubliqueDemocratique du Congo. &lt;i&gt;Alestopetersius&lt;/i&gt; &lt;i&gt;conspectus,&lt;/i&gt; nouvelle espèce, se distingue très facilement de tout ses congénèressur les attributs de la squamation et coloration. Cette espèce est distinguée de “Duboisialestes” &lt;i&gt;tumbensis&lt;/i&gt; par la morphol-ogie des dents et par la posséssion d'un type de pigmentation de la nageoire caudale composée d’une bande noire médianes'étendant de la marge de la caudale et flanquée de denses bandes noires dans les deux lobes supérieur et inférieur de lanageoire. “Duboisialestes” &lt;i&gt;bifasciatus&lt;/i&gt; qui partage le même type de pigmentation de la nageoire caudale, se distingue de&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;conspectus&lt;/i&gt; par l'absence d'une large bande mi-latérale sur le corps, et par la morphologie des dents. Les résultats d'uneanalyse des relations et de la composition générique du Alestidae fournissent un soutien pour la monophylie des &lt;i&gt;Alestopetersius&lt;/i&gt; incluant les membres du genre &lt;i&gt;Duboisialestes,&lt;/i&gt; qui sont placés en synonymie avec le genre précèdent.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Alestopetersius&lt;/i&gt; &lt;i&gt;conspectus&lt;/i&gt;; new species; &lt;i&gt;Duboisialestes&lt;/i&gt; synonym of &lt;i&gt;Alestopetersius&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Alestopetersius&lt;/i&gt; &lt;i&gt;conspectus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Justin Mbimbi Mayi</middlename>
+          <lastname>Munene</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Melanie</firstname>
+          <middlename>L. J.</middlename>
+          <lastname>Stiassny</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-01-19</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

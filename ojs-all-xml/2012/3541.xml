@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3541.1</id>
+    <title locale="en_US">6 Nov. 2012</title>
+    <volume>3541</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A Guide to Mongolian Stoneflies (Insecta: Plecoptera)</title>
+        <abstract locale="en_US">Since the early 1900s, efforts have been made to catalogue the stoneflies of Mongolia. Taxonomic work from 1960 to1980 greatly expanded basic lists of stoneflies in Mongolia, but no comprehensive survey or synthesis of this dispersedliterature has been completed. In conjunction with a modern survey of the aquatic insects of Mongolia, we collectedPlecoptera on a series of expeditions to the Selenge (north) and Altai (west) regions of Mongolia. A total of 48 speciesdistributed in 24 genera and 8 families were documented, including 3 of the 5 Mongolian endemics, 2 new species re-cords for Mongolia, and 1 species new to science. The majority of the fauna is representative of the East Palearcticregion. The 800+ specimen records were used to validate historical species lists, document species ranges with georef-erenced localities, and create identification tools to be used by Mongolian and international researchers with a broadrange of taxonomic expertise. These identification tools include a generic-level key to nymphs, species diagnoses, aswell as known species range and predicted species range maps created using Ecological Niche Modeling. These toolsare primarily intended for use by Mongolian scientists, sampling teams, and community water quality monitoringgroups, as well as general use by researchers interested in biogeography, ecology, and water quality applications ofMongolian Plecoptera. With this work, we hope to equip Mongolians with the scientific resources to protect their valuable and vulnerable water resources.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Stoneflies; Plecoptera; Insecta; Mongolia; taxonomy; biogeography; GIS; water quality; biomonitoring</subject>
+          <subject_class locale="en_US">Stoneflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sarah</firstname>
+          <middlename>W.</middlename>
+          <lastname>Judson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>Riley</middlename>
+          <lastname>Nelson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-118</pages>
+        <date_published>2012-11-06</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

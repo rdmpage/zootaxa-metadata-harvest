@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2633.1</id>
+    <title locale="en_US">1 Oct. 2010</title>
+    <volume>2633</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The nematode genus &lt;i&gt;Fergusobia &lt;/i&gt;(Nematoda: Neotylenchidae): molecular phylogeny, descriptions of clades and associated galls, host plants and &lt;i&gt;Fergusonina &lt;/i&gt;fly larvae</title>
+        <abstract locale="en_US">Collection data and biological information is presented on the genus &lt;i&gt;Fergusobia&lt;/i&gt; (Nematoda: Neotylenchidae) from Australasia, India and The Philippines, an emended diagnosis of the genus is presented, and its putative phylogeny is discussed based on molecular and morphological evidence. About 20 clades have been found, and are outlined, including information on nematode and fly morphology; plant host species and distribution. Fly morphology, particularly the structure of the dorsal shield of third stage larvae, is congruent with the clades of nematodes, suggesting coevolution. However, little evidence of coevolution between the fly/nematode association and their host plants is apparent: host-switching appears to have been common, although host-specificity is stringent among most clades. A key to the species and morphospecies of nematodes collected from &lt;i&gt;Corymbia,&lt;/i&gt; &lt;i&gt;Angophora,&lt;/i&gt; &lt;i&gt;Metrosideros,&lt;/i&gt; &lt;i&gt;Syzygium,&lt;/i&gt; narrow-leaved &lt;i&gt;Melaleuca,&lt;/i&gt; and &lt;i&gt;Eucalyptus&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Flies; galls; Myrtaceae; phylogeny; taxonomy; clades; dorsal shields; morphology; key; diagnosis</subject>
+          <subject_class locale="en_US">Flies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kerrie</firstname>
+          <middlename>A.</middlename>
+          <lastname>Davies</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weimin</firstname>
+          <lastname>Ye</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robin</firstname>
+          <middlename>M.</middlename>
+          <lastname>Giblin-Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gary</firstname>
+          <middlename>S.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sonja</firstname>
+          <lastname>Scheffer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <middlename>Kelley</middlename>
+          <lastname>Thomas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-66</pages>
+        <date_published>2010-10-01</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

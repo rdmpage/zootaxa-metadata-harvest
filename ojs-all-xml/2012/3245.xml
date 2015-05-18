@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3245.1</id>
+    <title locale="en_US">23 Mar. 2012</title>
+    <volume>3245</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-03-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Astylosternus &lt;/i&gt;in the Upper Guinea rainforests, West Africa, with the description of a new species (Amphibia: Anura: Arthroleptidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;laticephalus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Rödel, Hillers, Leaché, Kouamé, Ofori-Boateng, Diaz &amp; Sandberger is described fromeastern Ivory Coast and western and central Ghana, and compared to &lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; Parker, 1931 from thewestern part of the Upper Guinea forest zone (western Ivory Coast, Liberia, Guinea and Sierra Leone). Based on a com-prehensive sample, including specimens from the entire range, the latter species is re-described. The new species is char-acterized by a body shape typical for frogs of the genus &lt;i&gt;Astylosternus,&lt;/i&gt; but has an exceptionally broad head, i.e. broaderthan in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;occidentalis.&lt;/i&gt; The basic dorsal pattern of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;laticephalus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; consists of a brownish to brownish red colour-ation with distinct red dots (red dots are only rarely present in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;occidentalis).&lt;/i&gt; The new species has bicoloured eyes withthe lower part of the iris being grey, the upper third of the iris is orange to red (A. &lt;i&gt;occidentalis&lt;/i&gt; always has a uniform greyishiris). Males of the new species lack spines on the throat, belly (always present in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; males), and a layer ofblack nuptial skin in the pectoral region (present in male &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; from western Guinea). &lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;laticephalus&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; by a mean pairwise genetic distance of 3.2% in the investigated part of the mitochon-drial 16S rRNA gene. Genetic divergence to the morphologically most similar Central African species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;diadematus,&lt;/i&gt;was 11.9%. We briefly discuss the phylogenetic position of West African &lt;i&gt;Astylosternus,&lt;/i&gt; hint on the possibility that thegenus might be paraphyletic and discuss the biogeography of West African &lt;i&gt;Astylosternus,&lt;/i&gt; in particular with respect to forest cover fluctuations in the past.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arthroleptidae; &lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;laticephalus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;occidentalis;&lt;/i&gt; biodiversity hotspot; biogeography; Ghana; Ivory Coast.</subject>
+          <subject_class locale="en_US">Arthroleptidae; &lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;laticephalus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Astylosternus&lt;/i&gt; &lt;i&gt;occidentalis;&lt;/i&gt; biodiversity hotspot; biogeography; Ghana; Ivory Coast.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mark-Oliver</firstname>
+          <lastname>Rödel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>F.</middlename>
+          <lastname>Barej</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Annika</firstname>
+          <lastname>Hillers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adam</firstname>
+          <middlename>D.</middlename>
+          <lastname>Leaché</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N’Goran</firstname>
+          <middlename>G.</middlename>
+          <lastname>Kouamé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Caleb</firstname>
+          <lastname>Ofori-Boateng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <middlename>Emmanuel</middlename>
+          <lastname>Assemian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Blayda</firstname>
+          <lastname>Tohé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johannes</firstname>
+          <lastname>Penner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mareike</firstname>
+          <lastname>Hirschfeld</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseph</firstname>
+          <lastname>Doumbia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Legrand</firstname>
+          <middlename>Nono</middlename>
+          <lastname>Gonwouo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joachim</firstname>
+          <lastname>Nopper</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christian</firstname>
+          <lastname>Brede</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Raul</firstname>
+          <lastname>Diaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>K.</middlename>
+          <lastname>Fujita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marlon</firstname>
+          <lastname>Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriel</firstname>
+          <middlename>H.</middlename>
+          <lastname>Segniagbeto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Raffael</firstname>
+          <lastname>Ernst</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laura</firstname>
+          <lastname>Sandberger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of Brazilian Mactridae Lamarck, 1809 (Bivalvia: Cardiida) </title>
+        <abstract locale="en_US">The worldwide distributed family Mactridae Lamarck, 1809, is well represented in the western Atlantic Ocean. An ex-haustive literature research revealed 54 nominal species from the Brazilian coast. The study was done using morphologicalcharacters of shell and in some cases mantle cavity organs. All type material was examined and illustrated. Eleven validliving species are confirmed from the Brazilian littoral and their synonymies and geographic distributions are updated.Redescriptions are provided for &lt;i&gt;Mactrellona&lt;/i&gt; &lt;i&gt;alata&lt;/i&gt; (Spengler, 1802); &lt;i&gt;Mactrotoma&lt;/i&gt; &lt;i&gt;fragilis&lt;/i&gt; (Gmelin, 1791); &lt;i&gt;Mulinia&lt;/i&gt; &lt;i&gt;clery-&lt;/i&gt;&lt;i&gt;ana&lt;/i&gt; (d´Orbigny, 1846) and &lt;i&gt;Anatina&lt;/i&gt; &lt;i&gt;anatina&lt;/i&gt; (Spengler, 1802). The revision of &lt;i&gt;Trinitasia&lt;/i&gt; &lt;i&gt;iheringi&lt;/i&gt; (Dall, 1897) new combination, reveals the presence of a Tertiary genus among the Recent fauna of South America.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Mactrellona&lt;/i&gt;; &lt;i&gt;Mactrotoma&lt;/i&gt;; Taxonomy; &lt;i&gt;Mulinia&lt;/i&gt;; Southwestern Atlantic</subject>
+          <subject_class locale="en_US">&lt;i&gt;Mactrellona&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Javier</firstname>
+          <middlename>H.</middlename>
+          <lastname>Signorelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guido</firstname>
+          <lastname>Pastorino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-53</pages>
+        <date_published>2012-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pseudopataecus carnatobarbatus&lt;/i&gt;, a new species of velvetfish (Teleostei: Scorpaeniformes: Aploactinidae) from the Kimberley coast of Western Australia </title>
+        <abstract locale="en_US">&lt;i&gt;Pseudopataecus&lt;/i&gt; &lt;i&gt;carnatobarbatus,&lt;/i&gt; new species, is described from 12 specimens collected on shallow coastal reefs of northernWestern Australia, between the Monte Bello Islands and Adele Island. It is distinguished from its sole congener, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;taenianotus&lt;/i&gt;Johnson 2004, by branched (versus simple) tips to most fin rays, last soft dorsal-fin ray joined by membrane more fully toupper caudal-fin ray, spinous dorsal fin more distinctly notched, pelvic fins more robust, anterior face of lower lip smooth (ver-sus profusely covered with cirri), and a narrow quadrangular pit on the forehead, bounded by frontal, supraorbital, ocular andpreocular ridges (versus pit and preocular ridge absent). It also has modally fewer anal-fin rays and modally greater numbers ofgill rakers. &lt;i&gt;Pseudopataecus&lt;/i&gt; &lt;i&gt;carnatobarbatus&lt;/i&gt; is found in an extremely high tidal range area of Australia, where movement of upto 11 m occurs during spring tides. Specimens were collected in rocky tide pools with coral rubble and thick stands of brownmacroalgae, especially &lt;i&gt;Padina&lt;/i&gt; species. The new species has been found in intertidal areas up to only 13 m deep, whereas &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;taenianotus&lt;/i&gt; has been collected by trawling soft bottom habitats in depths of 20 to 63 m.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudopataecus&lt;/i&gt; &lt;i&gt;carnatobarbatus&lt;/i&gt;; new species; Aploactinidae; velvetfish; Western Australia; Kimberley coast</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudopataecus&lt;/i&gt; &lt;i&gt;carnatobarbatus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jeffrey</firstname>
+          <middlename>W.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2012-03-23</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Deep-water Ascidiacea from the Sea of Japan </title>
+        <abstract locale="en_US">Four solitary ascidians are recorded in the deep-water material from the Sea of Japan. Two species, &lt;i&gt;Agnezia&lt;/i&gt; &lt;i&gt;orthenteron&lt;/i&gt;and &lt;i&gt;Pelonaia&lt;/i&gt; &lt;i&gt;bursaria&lt;/i&gt; are recorded for the first time since original descriptions, a third species, &lt;i&gt;Styela&lt;/i&gt; &lt;i&gt;squamosa,&lt;/i&gt; is awidely distributed deep-water species not known previously from the Sea of Japan. A fourth species was identified only to a genus level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ascidiacea; Sea of Japan; SoJaBio</subject>
+          <subject_class locale="en_US">Ascidiacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karen</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nadya</firstname>
+          <lastname>Sanamyan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-03-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

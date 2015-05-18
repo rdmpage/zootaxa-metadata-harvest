@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2818.1</id>
+    <title locale="en_US">13 Apr. 2011</title>
+    <volume>2818</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics, biogeography and host plant associations of the lace bug genus &lt;i&gt;Lasiacantha &lt;/i&gt;Stål in Australia (Insecta: Hemiptera: Heteroptera: Tingidae)</title>
+        <abstract locale="en_US">The Australian species of the lace bug genus &lt;i&gt;Lasiacantha&lt;/i&gt; Stål are revised. The previously described species &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;discordis&lt;/i&gt; Drake, 1955 and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;leai&lt;/i&gt; (Hacker, 1928) are redescribed. &lt;i&gt;Tingis&lt;/i&gt; &lt;i&gt;aemula&lt;/i&gt; Drake is transferred to &lt;i&gt;Lasiacantha.&lt;/i&gt; Sixteen species are described as new to science: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;aureolus&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;darwini&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dysmikos&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ephemera&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;eremophila&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gingera&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;graminicola&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;inaquosa&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kosciuszko&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;luritja&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;nipha&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pilbara&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;quilpie&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;serraseta&lt;/i&gt; sp. nov., &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;vittata&lt;/i&gt; sp. nov. and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;windorah&lt;/i&gt; sp. nov. &lt;i&gt;Lasiacantha&lt;/i&gt; &lt;i&gt;compta&lt;/i&gt; Drake is posited as &lt;i&gt;incerte&lt;/i&gt; &lt;i&gt;sedis.&lt;/i&gt; A key to species, phylogenetic analysis, and discussion of biogeography and host plant associations are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Tingidae; &lt;i&gt;Lasiacantha&lt;/i&gt;; new species; new combination; phylogeny; biogeography; host plants; Australia</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gerasimos</firstname>
+          <lastname>Cassis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celia</firstname>
+          <lastname>Symonds</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2011-04-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2603.1</id>
+    <title locale="en_US">6 Sep. 2010</title>
+    <volume>2603</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-09-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new genus and new species of fan worms (Polychaeta: Sabellidae) from Atlantic and Pacific Oceans—the formal treatment of taxon names as explanatory hypotheses</title>
+        <abstract locale="en_US">Members of &lt;i&gt;Parasabella&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; Treadwell, 1941, subsequently moved to &lt;i&gt;Perkinsiana,&lt;/i&gt; were collected during a survey of rocky intertidal polychaetes along the state of São Paulo, Brazil. Additional specimens, which are referred to two new species, were also found in similar habitats from the Bocas del Toro Archipelago, Caribbean Panama, and Oahu Island, Hawaii. A phylogenetic analysis of Sabellinae, including members of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; and the two new species, provided justification for establishing a new generic hypothesis, &lt;i&gt;Sabellomma&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; for these individuals. Formal definitions are also provided for &lt;i&gt;Sabellomma&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;collinae&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;harrisae&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; along with descriptions of individuals to which these hypotheses apply. The generic name &lt;i&gt;Aracia&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is provided to replace &lt;i&gt;Kirkia&lt;/i&gt; Nogueira, López and Rossi, 2004, pre-occupied by a mollusk.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sabellomma&lt;/i&gt;; &lt;i&gt;Aracia&lt;/i&gt;; Sabellinae; Sabellidae; Polychaeta; new genus; systematics; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sabellomma&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>João</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>De Matos Nogueira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kirk</firstname>
+          <lastname>Fitzhugh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maíra</firstname>
+          <middlename>Cappellani Silva</middlename>
+          <lastname>Rossi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2010-09-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular phylogeny of the spoonbills (Aves: Threskiornithidae) based on mitochondrial DNA</title>
+        <abstract locale="en_US">Spoonbills (genus &lt;i&gt;Platalea)&lt;/i&gt; are a small group of wading birds, generally considered to constitute the subfamily Plataleinae (Aves: Threskiornithidae). We reconstructed phylogenetic relationships among the six species of spoonbills using variation in sequences of the mitochondrial genes &lt;i&gt;ND2&lt;/i&gt; and cytochrome &lt;i&gt;b&lt;/i&gt; (total 1796 bp). Topologies of phylogenetic trees reconstructed using maximum likelihood, maximum parsimony, and Bayesian analyses were virtually identical and supported monophyly of the spoonbills. Most relationships within &lt;i&gt;Platalea&lt;/i&gt; received strong support: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;regia&lt;/i&gt; were closely related sister species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;leucorodia&lt;/i&gt; was sister to the &lt;i&gt;minor-regia&lt;/i&gt; clade, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alba&lt;/i&gt; was sister to the &lt;i&gt;minor-regia-leucorodia&lt;/i&gt; clade. Relationships of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ajaja&lt;/i&gt; were less well resolved: these species either formed a clade that was sister to the four-species clade, or were successive sisters to this clade. This phylogeny is consistent with ideas of relatedness derived from spoonbill morphology. Our limited sampling of the Threskiornithinae (ibises), the putative sister group to the spoonbills, indicated that this group is paraphyletic, in agreement with previous molecular data; this suggests that separation of the Threskiornithidae into subfamilies Plataleinae and Threskiornithinae may not be warranted.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">spoonbills; &lt;i&gt;Platalea&lt;/i&gt;; Threskiornithidae; mitochondrial DNA</subject>
+          <subject_class locale="en_US">spoonbills</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>Terry</middlename>
+          <lastname>Chesser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carol</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Yeung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cheng-Te</firstname>
+          <lastname>Yao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiu-Hua</firstname>
+          <lastname>Tian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shou-Hsien</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2010-09-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

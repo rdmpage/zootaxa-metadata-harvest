@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2898.1</id>
+    <title locale="en_US">30 May. 2011</title>
+    <volume>2898</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-05-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Daedalma &lt;/i&gt;Hewitson with the descriptions of twenty new taxa and the immature stages of two species (Lepidoptera: Nymphalidae: Satyrinae) </title>
+        <abstract locale="en_US">The taxonomy of the Andean butterfly genus &lt;i&gt;Daedalma&lt;/i&gt; (Nymphalidae, Satyrinae) is discussed. Generic synapomorphies based on adult morphology are proposed, and the relationships with allied genera of the subtribe Pronophilina are evaluated. The status of &lt;i&gt;Junea&lt;/i&gt; as the sister-genus of &lt;i&gt;Daedalma&lt;/i&gt; is reconsidered, particularly in light of new data on the larval stages. The genus &lt;i&gt;Daedalma&lt;/i&gt; is divided into two presumed monophyletic groups distinguished by a series of morphological and ecological characters. Three species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;eliza&lt;/i&gt; n. sp., &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dognini&lt;/i&gt; n. sp. and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rubroreducta&lt;/i&gt; n. sp., and seventeen new subspecies are described, one new status is proposed, and three lectotypes are designated. Female genitalia of &lt;i&gt;Daedalma&lt;/i&gt; are described for the first time and their taxonomical value is assessed. The early stages of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rubroreducta&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt;&lt;i&gt;dinias&lt;/i&gt; are described, the first larval descriptions for any species of &lt;i&gt;Daedalma.&lt;/i&gt; Distribution and diversity patterns of &lt;i&gt;Daedalma&lt;/i&gt; are discussed. Distribution maps, illustrations of male and female genitalia, and figures of adult butterflies of both sexes are provided for all taxa where possible, with comments on bionomics and adult behaviour for all taxa in the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">altitudinal distribution; Andes; &lt;i&gt;Chusquea&lt;/i&gt;; genitalia; gregarious larvae; &lt;i&gt;Junea&lt;/i&gt;; new taxa</subject>
+          <subject_class locale="en_US">altitudinal distribution</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomasz</firstname>
+          <middlename>W.</middlename>
+          <lastname>Pyrcz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harold</firstname>
+          <middlename>F.</middlename>
+          <lastname>Greeney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Keith</firstname>
+          <middlename>R.</middlename>
+          <lastname>Willmott</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janusz</firstname>
+          <lastname>Wojtusiak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-68</pages>
+        <date_published>2011-05-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

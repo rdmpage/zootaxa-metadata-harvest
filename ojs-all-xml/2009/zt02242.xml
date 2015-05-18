@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2242.1</id>
+    <title locale="en_US">29 Sep. 2009</title>
+    <volume>2242</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Genera &lt;i&gt;Diplocladus &lt;/i&gt;Fairmaire and &lt;i&gt;Strotocera &lt;/i&gt;Schenkling (Coleoptera: Cleridae, Tillinae)</title>
+        <abstract locale="en_US">The genera &lt;i&gt;Diplocladus&lt;/i&gt; Fairmaire and &lt;i&gt;Strotocera&lt;/i&gt; Schenkling are taxonomically revised. Thirty four species are recognized within this revision (11 &lt;i&gt;Diplocladus,&lt;/i&gt; 23 &lt;i&gt;Strotocera).&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;tilloides&lt;/i&gt; Fairmaire, 1887 n. syn., and &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;rhodesianus&lt;/i&gt; Péringuey, 1899 n. syn., are placed in synonymy with &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;louvelii&lt;/i&gt; Spinola, 1844; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;sjoestedti&lt;/i&gt; Schenkling, 1908 n. syn., is synonymized with &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;convexa&lt;/i&gt; Hintz, 1905; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;multisignata&lt;/i&gt; Pic, 1926 n. syn., is synonymized with &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;emerita&lt;/i&gt; Péringuey, 1899; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;orangica&lt;/i&gt; Kuwert, 1893 n. syn., is synonymized with &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;versicolor&lt;/i&gt; Chevrolat, 1842 and &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;unimaculata&lt;/i&gt; Pic, 1953, n. comb., n. syn., is synonymized &lt;i&gt;with&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;discoidalis&lt;/i&gt; Schenkling, 1908. The following species are described as new taxa: &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;arabicus,&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;bipunctatus,&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;compactus,&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;ebureofasciatus,&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;nigrinus,&lt;/i&gt; &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;rufobasalis,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;auratopilosa,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;bartletti,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;brevefasciata,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;chicoi,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;elegantula,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;mawdsleyi,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;minuscula,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;roberti,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;rufoapicalis,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;similis,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;topolinae,&lt;/i&gt; &lt;i&gt;Strotocera&lt;/i&gt; &lt;i&gt;werneri.&lt;/i&gt; The Madagascan &lt;i&gt;Diplocladus&lt;/i&gt; &lt;i&gt;trinotatus&lt;/i&gt; (Pic, 1949) is excluded from &lt;i&gt;Diplocladus&lt;/i&gt; in this revision; a review of the Madagascan tilline genera is required to determine its correct generic placement. &lt;i&gt;Isocymatodera&lt;/i&gt; &lt;i&gt;atricolor&lt;/i&gt; (Pic, 1935) new combination, is here removed from &lt;i&gt;Strotocera.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Afrotropical species; taxonomy; identification key; genital figures; distribution maps</subject>
+          <subject_class locale="en_US">Afrotropical species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roland</firstname>
+          <lastname>Gerstmeier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ingmar</firstname>
+          <lastname>Weiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2009-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of Chinese Isotomidae (Collembola) and a description of a new &lt;i&gt;Subisotoma&lt;/i&gt;</title>
+        <abstract locale="en_US">A review of the historical research of Chinese Isotomidae and a checklist of the 70 species of Isotomidae recorded so far from China are given. &lt;i&gt;Subisotoma&lt;/i&gt; &lt;i&gt;quadrisensillata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Hainan province (South China) and Dong Nai Province (Southern Vietnam) is described and illustrated. The species is characterized by a disproportional set of sensilla on Abd.I–IV which has never been observed in the family Isotomidae so far.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; new species; abdominal sensilla; China; Vietnam</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yan</firstname>
+          <lastname>Gao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan</firstname>
+          <lastname>Xiong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikhail</firstname>
+          <lastname>Potapov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-63</pages>
+        <date_published>2009-09-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New placement of the leafhopper genus &lt;i&gt;Idioceroides &lt;/i&gt;Matsumura (Hemiptera: Cicadellidae: Idiocerinae), with description of a new species</title>
+        <abstract locale="en_US">The leafhopper genus &lt;i&gt;Idioceroides&lt;/i&gt; Matsumura is transferred back to Idiocerinae from Agalliinae where it was erroneously placed. A new species, &lt;i&gt;Idioceroides&lt;/i&gt; &lt;i&gt;sichuanensis&lt;/i&gt; n. sp. is described and illustrated from Sichuan, China. A key is provided to separate the new species from the only other known species, &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;tettigoniformis&lt;/i&gt; Matsumura from Taiwan and the female genitalia for species of the genus are described for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Auchenorrhyncha; morphology; China</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>B.</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Viraktamath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-09-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

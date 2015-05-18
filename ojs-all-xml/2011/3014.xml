@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3014.1</id>
+    <title locale="en_US">5 Sep. 2011</title>
+    <volume>3014</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Platycalymma &lt;/i&gt;Westwood, 1889, and the synonymy of &lt;i&gt;Ichromantis &lt;/i&gt;Paulian, 1957 (Mantodea, Iridopterygidae, Tropidomantinae) </title>
+        <abstract locale="en_US">The endemic Malagasy praying mantis genus &lt;i&gt;Platycalymma&lt;/i&gt; Westwood, 1889, is taxonomically treated with a re-description of the genus and of the type species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;latipennis&lt;/i&gt; Westwood, 1889. The genus &lt;i&gt;Ichromantis&lt;/i&gt; Paulian, 1957, is newly determined as a junior synonym to &lt;i&gt;Platycalymma,&lt;/i&gt; which results in the inclusion of two additional species within the genus, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;befasica&lt;/i&gt; (Paulian, 1957) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dichroica&lt;/i&gt; (Paulian, 1957), both re-described within this study. In addition, we add three new species to the genus described from Madagascar: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;annulicornis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mahafalica&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;viettei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; A key to the six species in English and French is provided for increased accessibility to the people of Madagascar. Illustrations of major features used to diagnose species are provided including the head, pronotum, apex of abdomen and male genitalia. Species distribution is presented and locality coordinates are provided in print as well as being available for download as a KML file viewable in Google Earth.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mantodea; Tropidomantinae; &lt;i&gt;Platycalymma&lt;/i&gt;; revision; classification; taxonomy; Madagascar</subject>
+          <subject_class locale="en_US">Mantodea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <lastname>Roy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gavin</firstname>
+          <middlename>J.</middlename>
+          <lastname>Svenson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2011-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Syringogastridae (Diptera, Acalyptratae) from the Amazon Basin and new records for Brazil </title>
+        <abstract locale="en_US">&lt;i&gt;Syringogaster&lt;/i&gt; &lt;i&gt;papaveroi&lt;/i&gt; Prado, 1969 is redescribed from southeastern Brazil, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;fapeam,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from the upper Rio Negro, state of Amazonas. The known range of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;apiculata&lt;/i&gt; Marshall and Buck, 2009, previously known from Amazonian Peru and Ecuador, is extended for the first time to Brazil. The phylogenetic tree and key of Marshall &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2009 are emended to include the new species and new information on &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;papaveroi.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">key; &lt;i&gt;Syringogaster&lt;/i&gt;; Syringogastridae; Diptera</subject>
+          <subject_class locale="en_US">key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rafael</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>T.</middlename>
+          <lastname>Câmara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>J. A.</middlename>
+          <lastname>Holanda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-34</pages>
+        <date_published>2011-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Marksomyia&lt;/i&gt;, a new subgenus of &lt;i&gt;Culicoides &lt;/i&gt;Latreille (Diptera: Ceratopogonidae) from the Australasian biogeographic region with descriptions of two new species </title>
+        <abstract locale="en_US">&lt;i&gt;Marksomyia&lt;/i&gt; is proposed as a new subgenus of the genus &lt;i&gt;Culicoides&lt;/i&gt; Latreille to embrace six species from Australia and New Guinea. Comparative descriptions of males and females of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;zentae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kayi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; pupae of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;zentae&lt;/i&gt; and redescriptions of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;marksi&lt;/i&gt; Lee &amp; Reye, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dycei&lt;/i&gt; Lee &amp; Reye, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;parvimaculatus&lt;/i&gt; Lee &amp; Reye and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pseudostigmaticus&lt;/i&gt; Tokunaga are presented together with distributional data and keys for their specific determination. The designated type species of the subgenus is &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;marksi.&lt;/i&gt; &lt;i&gt;Marksomyia&lt;/i&gt; is further subdivided into three species complexes based on the shape and sclerotisation of the spermathecae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biting midges; Australasia; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;marksi&lt;/i&gt;; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;dycei&lt;/i&gt;; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;parvimaculatus&lt;/i&gt;; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;pseudostigmaticus&lt;/i&gt;; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;zentae&lt;/i&gt;; &lt;i&gt;Culicoides&lt;/i&gt; &lt;i&gt;kayi&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Biting midges</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Glenn</firstname>
+          <lastname>Bellis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alan</firstname>
+          <lastname>Dyce</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-58</pages>
+        <date_published>2011-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species and record of &lt;i&gt;Bactrocera &lt;/i&gt;Macquart (Diptera,Tephritidae) from China </title>
+        <abstract locale="en_US">One new species of the genus &lt;i&gt;Bactrocera&lt;/i&gt; Macquart (Diptera,Tephritidae), &lt;i&gt;B&lt;/i&gt; &lt;i&gt;(B.)&lt;/i&gt; &lt;i&gt;paradiospyri&lt;/i&gt; Chen, Zhou et Li, sp. nov. and one new record species, &lt;i&gt;B&lt;/i&gt; &lt;i&gt;(Z.)&lt;/i&gt; &lt;i&gt;incisa&lt;/i&gt; (Walker, 1861), of this genus from China are described and illustrated. The examined specimens attracted to Cue lure. The type is deposited in Institute of Zoology, Chinese Academy of Sciences, Beijing (IZCAS).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tephritidae; &lt;i&gt;Bactrocera&lt;/i&gt;; new species; new record species; Yunnan; China</subject>
+          <subject_class locale="en_US">Tephritidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaolin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Libing</firstname>
+          <lastname>Zhou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shaojun</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhiwen</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jie</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2011-09-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

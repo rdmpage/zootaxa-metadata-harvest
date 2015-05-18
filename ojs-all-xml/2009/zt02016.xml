@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2016.1</id>
+    <title locale="en_US">20 Feb. 2009</title>
+    <volume>2016</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-02-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Antarctic holothuroids from the Bellingshausen Sea, with descriptions of new species (Echinodermata: Holothuroidea)</title>
+        <abstract locale="en_US">Three new species of holothuroids from the Antarctic Peninsula and Bellingshausen Sea are described, with O’Loughin &amp; Manjón-Cabeza as authors: dendrochirotids &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;dudexa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Psolicrux&lt;/i&gt; &lt;i&gt;iuvenilesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; myriotrochid &lt;i&gt;Myriotrochus&lt;/i&gt; &lt;i&gt;hesperides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Parathyonidium&lt;/i&gt; &lt;i&gt;incertum&lt;/i&gt; Heding is discussed. Two synonymies for Antarctic holothuroids are formalised: &lt;i&gt;Caespitugo&lt;/i&gt; &lt;i&gt;citriformis&lt;/i&gt; Gutt is a junior synonym of &lt;i&gt;Thyone&lt;/i&gt; &lt;i&gt;scotiae&lt;/i&gt; Vaney; &lt;i&gt;Caespitugo&lt;/i&gt; &lt;i&gt;diversipes&lt;/i&gt; Gutt is a junior synonym of &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;psolidiformis&lt;/i&gt; Vaney. &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;armata&lt;/i&gt; Vaney is removed from inclusion in the &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;georgiana&lt;/i&gt; (Lampert) group, and is a junior synonym of &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;psolidiformis&lt;/i&gt; Vaney. A synonymy of &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;aspera&lt;/i&gt; Vaney with &lt;i&gt;Psolidium&lt;/i&gt; &lt;i&gt;(Cucumaria)&lt;/i&gt; &lt;i&gt;coatsi&lt;/i&gt; Vaney is rejected; &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;aspera&lt;/i&gt; Vaney is referred to the &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;georgiana&lt;/i&gt; (Lampert) group. &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;conspicua&lt;/i&gt; Vaney is removed from synonymy with &lt;i&gt;Psolidium&lt;/i&gt; &lt;i&gt;(Cucumaria)&lt;/i&gt; &lt;i&gt;coatsi&lt;/i&gt; Vaney, and is a junior synonym of &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;psolidiformis&lt;/i&gt; Vaney. &lt;i&gt;Thyone&lt;/i&gt; &lt;i&gt;scotiae&lt;/i&gt; Vaney is referred to &lt;i&gt;Crucella&lt;/i&gt; Gutt. &lt;i&gt;Caespitugo&lt;/i&gt; Gutt is a junior synonym of &lt;i&gt;Crucella&lt;/i&gt; Gutt. A new genus &lt;i&gt;Cucamba&lt;/i&gt; O’Loughlin is erected; &lt;i&gt;Cucumaria&lt;/i&gt; &lt;i&gt;psolidiformis&lt;/i&gt; Vaney is referred to &lt;i&gt;Cucamba&lt;/i&gt; O’Loughlin. A synonymy of &lt;i&gt;Staurocucumis&lt;/i&gt; &lt;i&gt;grandis&lt;/i&gt; (Vaney) with &lt;i&gt;Staurocucumis&lt;/i&gt; &lt;i&gt;turqueti&lt;/i&gt; (Vaney) is confirmed. The referral of &lt;i&gt;Pseudocolochirus&lt;/i&gt; &lt;i&gt;mollis&lt;/i&gt; Ludwig &amp; Heding to &lt;i&gt;Psolidiella&lt;/i&gt; Mortensen is confirmed. Lists of contemporary synonymies for Antarctic holothuroid species and generic referrals for Antarctic dendrochirotid species are provided. A table of holothuroid species collected from the Antarctic Peninsula and Bellingshausen Sea by the Spanish BENTART–2003 and BENTART–2006 cruises is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bentart; Dendrochirotida; Myriotrochidae; new genus; new species; synonymies; generic referrals</subject>
+          <subject_class locale="en_US">Bentart</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P.</firstname>
+          <middlename>Mark</middlename>
+          <lastname>OLoughlin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Eugenia</middlename>
+          <lastname>Manjón-Cabeza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francina</firstname>
+          <middlename>Moya</middlename>
+          <lastname>Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2009-02-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the &lt;i&gt;Thyropygus allevatus &lt;/i&gt;group. Part 1: the &lt;i&gt;T. opinatus &lt;/i&gt;subgroup (Diplopoda: Spirostreptida: Harpagophoridae)</title>
+        <abstract locale="en_US">The &lt;i&gt;Thyropygus&lt;/i&gt; &lt;i&gt;opinatus&lt;/i&gt; subgroup of the &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;allevatus&lt;/i&gt; group is revised. The &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;opinatus&lt;/i&gt; subgroup corresponds to the genus &lt;i&gt;Cornugonus&lt;/i&gt; Demange, 1961, which is formally synonymized under &lt;i&gt;Thyropygus.&lt;/i&gt; Eight new species are described from Thailand: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bearti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;brachyacanthus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;loxia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Suratthani province, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bispinus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Uthaithani and Phrae provinces, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bispinispatula&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Chumphon province, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;chelatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Nakhonsrithammarat province, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cristagalli&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Phang Nga province and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;erectus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from Satun province. The other species of the &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;opinatus&lt;/i&gt; subgroup, viz., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;opinatus&lt;/i&gt; (Karsch, 1881), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;floweri&lt;/i&gt; (Demange, 1961), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;implicatus&lt;/i&gt; (Demange, 1961), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;inflexus&lt;/i&gt; (Demange, 1989), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; are redescribed. New records are given for &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;opinatus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;implicatus&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;floweri.&lt;/i&gt; The type locality of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;floweri&lt;/i&gt; is shown to be in Thailand rather than Malaysia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">millipede; taxonomy; new species; Thailand</subject>
+          <subject_class locale="en_US">millipede</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Piyatida</firstname>
+          <lastname>Pimvichai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henrik</firstname>
+          <lastname>Enghoff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Somsak</firstname>
+          <lastname>Panha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-50</pages>
+        <date_published>2009-02-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Speleonectes kakuki&lt;/i&gt;, a new species of Remipedia (Crustacea) from anchialine and sub-seafloor caves on Andros and Cat Island, Bahamas </title>
+        <abstract locale="en_US">A new species of the crustacean class Remipedia is described, illustrated and compared to closely related taxa. &lt;i&gt;Speleonectes&lt;/i&gt; &lt;i&gt;kakuki&lt;/i&gt; n. sp. inhabits at least four widely separated anchialine cave systems on the Great Bahama Bank. A total of ten specimens were collected from caves on Andros and Cat Island. &lt;i&gt;Speleonectes&lt;/i&gt; &lt;i&gt;kakuki&lt;/i&gt; can be distinguished from other species of remipedes by the presence of heteromorphic sternal bars and comparatively robust and pilose prehensile cephalic limbs. It is the first remipede to be collected from an offshore cave, whereas as all previously known remipede habitats are inland sites. The presence of remipedes in sub-seafloor caves is highly significant in that it suggests the anchialine habitat is much more extensive than previously thought and may extend for hundreds of kilometers beneath the shallow waters of limestone banks to link widely separated inland caves.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Remipedia; Speleonectidae; sub-seefloor cave; anchialine caves; Bahamas</subject>
+          <subject_class locale="en_US">Remipedia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jana</firstname>
+          <lastname>Daenekas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>M.</middlename>
+          <lastname>Iliffe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jill</firstname>
+          <lastname>Yager</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefan</firstname>
+          <lastname>Koenemann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-66</pages>
+        <date_published>2009-02-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the tadpole of &lt;i&gt;Hylarana aurantiaca&lt;/i&gt; ( Anura:Ranidae) from Sri Lanka</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kanishka</firstname>
+          <middlename>D. B.</middlename>
+          <lastname>Ukuwela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2009-02-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

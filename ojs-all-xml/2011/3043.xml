@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3043.1</id>
+    <title locale="en_US">28 Sep. 2011</title>
+    <volume>3043</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Geographical distribution of &lt;i&gt;Discocyrtus prospicuus &lt;/i&gt;(Arachnida: Opiliones: Gonyleptidae): Is there a pattern? </title>
+        <abstract locale="en_US">The environmental constraints determining the distribution of the harvestman &lt;i&gt;Discocyrtus&lt;/i&gt; &lt;i&gt;prospicuus&lt;/i&gt; in Argentina and Uruguay are addressed. Habitat observations across the entire range (Río de la Plata-Atlantic coast area; Córdoba sierras; northwestern Argentina) are provided. Previous published localities (verified for accuracy), new records and bioclimatic predictors were used to characterize the species bioclimatic profile and to build predictive distributional models with BIOCLIM and MAXENT algorithms. Relative importance of each bioclimatic variable in the final models is assessed. It was determined that &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;prospicuus&lt;/i&gt; is primarily a gallery forest dweller, with preferred climate temperate to temperate-cold; variables related to thermic uniformity rank among the most influential. Results consistently support the alleged yungasMesopotamian disjunction; but the link between the Río de la Plata and Córdoba sierras areas shows disagreement between methods (predicted continuous with BIOCLIM, separate with MAXENT). It is suggested that the need for constant air humidity (favored in the core area by its proximity to large rivers and the seacoast) and competitive exclusion with congener &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;testudineus&lt;/i&gt; may represent additional limiting factors. Some observations on the species tolerance to human activity are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical Region; disjunction; habitat; ecological niche modeling; bioclimatic variables; MAXENT; BIOCLIM</subject>
+          <subject_class locale="en_US">Neotropical Region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>E.</middlename>
+          <lastname>Acosta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elián</firstname>
+          <middlename>L.</middlename>
+          <lastname>Guerrero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2011-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Lynceus &lt;/i&gt;(Crustacea: Branchiopoda: Laevicaudata) from Patagonia, with comments on laevicaudatan systematics </title>
+        <abstract locale="en_US">&lt;i&gt;Lynceus&lt;/i&gt; &lt;i&gt;mallinensis,&lt;/i&gt; a new species of laevicaudatan clam shrimp is described from a single temporary pool in Chubut province, Patagonia, Argentina. The form of the male rostrum necessitates a reevaluation of rostral characters for the genus. This species differs from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;rotundirostris,&lt;/i&gt; the only known &lt;i&gt;Lynceus&lt;/i&gt; from Patagonia, by the absence of a distinct umbo. &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mallinensis&lt;/i&gt; is the fourth species of this genus and the fifth laevicaudatan to be reported from South America. The systematical position of the Laevicaudata is discussed in the Introduction.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Clam Shrimp; Lynceidae; Argentina</subject>
+          <subject_class locale="en_US">Clam Shrimp</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <lastname>Pessacq</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>B.</middlename>
+          <lastname>Epele</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Christopher</middlename>
+          <lastname>Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-32</pages>
+        <date_published>2011-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Amphisbaena uroxena &lt;/i&gt;Mott, Rodrigues, De Freitas and Silva 2008 (Squamata, Amphisbaenidae) shows sexual dimorphism in precloacal pores </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tamí</firstname>
+          <lastname>Mott</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>Trefaut</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <middlename>Antônio</middlename>
+          <lastname>De Freitas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-34</pages>
+        <date_published>2011-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the subgenus &lt;i&gt;Minuspio &lt;/i&gt;(Polychaeta: Spionidae: &lt;i&gt;Prionospio&lt;/i&gt;) from the southern coast of Turkey (Levantine Sea, eastern Mediterranean), with the description of two new species </title>
+        <abstract locale="en_US">Three species belonging to the subgenus &lt;i&gt;Minuspio&lt;/i&gt; are described from the southern coast of Turkey. &lt;i&gt;Prionospio&lt;/i&gt; (Minuspio) &lt;i&gt;anatolica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Prionospio&lt;/i&gt; (Minuspio) &lt;i&gt;maciolekae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are new to science and &lt;i&gt;P.&lt;/i&gt; (M.) &lt;i&gt;pulchra&lt;/i&gt; is a new report for the marine fauna of the Levantine and Black Sea coasts of Turkey. &lt;i&gt;Prionospio&lt;/i&gt; (M.) &lt;i&gt;anatolica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; differs from all other &lt;i&gt;Prionospio&lt;/i&gt; (M.) species by the shape of the prostomium, branchiae, and the absence of eyes. This species has 7 pairs of long, apinnate branchiae on chaetigers 2 to 8. &lt;i&gt;Prionospio&lt;/i&gt; (M.) &lt;i&gt;maciolekae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; differs from other &lt;i&gt;Prionospio&lt;/i&gt; (M.) species in having short, densely ciliated branchiae and distinct dorsal crests on chaetigers 10–28. The examination of older materials deposited at the Museum of Ege University (ESFM) revealed that &lt;i&gt;Prionospio&lt;/i&gt; (M.) &lt;i&gt;pulchra,&lt;/i&gt; an alien invasive species, also occurred in the Aegean and Black Seas since 2000. In the Mediterranean, this species seems to be first noticed from the Italian waters (Tyrrhenian Sea, Lago di Sabaudia) and misidentified as &lt;i&gt;Prionospio&lt;/i&gt; &lt;i&gt;cirrifera.&lt;/i&gt; These species were encountered on a variety of biotopes in the region. In addition, two specimens of &lt;i&gt;P.&lt;/i&gt; (M.) &lt;i&gt;multibranchiata&lt;/i&gt; collected near the type locality (Bazan Bay, Pacific coast of Canada) were examined and a redescription of this species was made. The morphology, ecology and distribution of these species are given together with a taxonomic key to all valid species of the subgenus &lt;i&gt;Minuspio.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spionidae; &lt;i&gt;Prionospio&lt;/i&gt; (Minuspio) &lt;i&gt;anatolica&lt;/i&gt;; &lt;i&gt;Prionospio&lt;/i&gt; (Minuspio) &lt;i&gt;maciolekae&lt;/i&gt; new species; alien species; eastern Mediterranean Sea</subject>
+          <subject_class locale="en_US">Spionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ertan</firstname>
+          <lastname>Dagli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Melih</firstname>
+          <middlename>Ertan</middlename>
+          <lastname>Çinar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-53</pages>
+        <date_published>2011-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new bromeligenous species of the &lt;i&gt;Scinax perpusillus &lt;/i&gt;group from the hills of the State of Rio de Janeiro, Brazil (Anura, Hylidae) </title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Scinax&lt;/i&gt; &lt;i&gt;insperatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; of the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;perpusillus&lt;/i&gt; group is described based on specimens collected in the Municipality of Miguel Pereira, State of Rio de Janeiro, Brazil (22 º 13’ 14.6” S and 43 º 26’ 02.1” W). The new species is easily distinguishable from all other species of the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;perpusillus&lt;/i&gt; group, except &lt;i&gt;Scinax&lt;/i&gt; &lt;i&gt;belloni&lt;/i&gt; Faivovich, Gasparini, &amp; Haddad, 2010, by lacking yellow markings in the inguinal region and hidden surfaces of limbs. From &lt;i&gt;Scinax&lt;/i&gt; &lt;i&gt;belloni,&lt;/i&gt; the new species differs by having dark, metallic-beige colored tubercles on the dorsal surfaces; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;belloni&lt;/i&gt; lacks any markings on dorsum, hind limbs, and hidden surfaces, and by lacking inguinal glands. In addition, the tadpoles of the new species are unique among those known for the group in having fins with yellow colored spots in later stages of development.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic forest; Bromeliad; reproductive behavior; Southeastern Brazil; Tadpole</subject>
+          <subject_class locale="en_US">Atlantic forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Helio</firstname>
+          <middlename>Ricardo</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Alves-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2011-09-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

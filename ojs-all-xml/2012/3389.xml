@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3389.1</id>
+    <title locale="en_US">16 Jul. 2012</title>
+    <volume>3389</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Salina &lt;/i&gt;(Collembola: Paronellidae) from Anhui Province, China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yitong</firstname>
+          <lastname>Ma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-40</pages>
+        <date_published>2012-07-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Formation of family group names using the stem of -gaster, with special reference to names based on &lt;i&gt;Miscogaster &lt;/i&gt;and &lt;i&gt;Sphegigaster &lt;/i&gt;(Hymenoptera: Chalcidoidea: Pteromalidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <middlename>A.</middlename>
+          <lastname>Burks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2012-07-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

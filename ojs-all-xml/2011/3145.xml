@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3145.1</id>
+    <title locale="en_US">23 Dec. 2011</title>
+    <volume>3145</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Sub-brachypterous Ricaniidae (Hemiptera: Fulgoromorpha) of Madagascar with morphological notes for these taxa</title>
+        <abstract locale="en_US">Four new genera of sub-brachypterous Ricaniidae are described from Madagascar. &lt;i&gt;Globularica&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for a single species, &lt;i&gt;Globularica&lt;/i&gt; &lt;i&gt;diversicolorata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Coniunctivena&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for four species: &lt;i&gt;Coniunctivena&lt;/i&gt; &lt;i&gt;antsignyensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;epaulettea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;montuosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;synavei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Nasatus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for two species: &lt;i&gt;Nasatus&lt;/i&gt; &lt;i&gt;sparsus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;davidouvrardi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Cyamosa&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is established for four species: &lt;i&gt;Cyamosa&lt;/i&gt; &lt;i&gt;adelinae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;camelouca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pauliani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;splendens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Isobium&lt;/i&gt; &lt;i&gt;gibbosum&lt;/i&gt; Melichar, 1906 is redescribed and transferred from the Issidae to the Ricaniidae. Photographs, drawings and maps of distribution for all mentioned species are presented. Discussion is provided on antennal plate organs, tegminal sub-brachypterism, and female bursa copulatrix structure, for these sub-brachypterous Ricaniidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Madagascar; Ricaniinae; morphology; taxonomy; antennal plate organs; brachypterism; bursa copulatrix.</subject>
+          <subject_class locale="en_US">Madagascar</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adam</firstname>
+          <lastname>Stroiński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <middlename>M.</middlename>
+          <lastname>Gnezdilov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thierry</firstname>
+          <lastname>Bourgoin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-70</pages>
+        <date_published>2011-12-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1972.1</id>
+    <title locale="en_US">7 Jan. 2009</title>
+    <volume>1972</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-01-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Baetis zdenkae &lt;/i&gt;sp. nov., a new representative of the &lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;buceratus&lt;/i&gt; species-group (Ephemeroptera: Baetidae) from Rhodos (Greece) with notes to species-grouping of the subgenus &lt;i&gt;Baetis&lt;/i&gt; Leach, 1815 s. str.</title>
+        <abstract locale="en_US">The male and female imago (subimago of both sexes unknown), and larva of a new species belonging to the &lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;buceratus&lt;/i&gt; species-group, namely &lt;i&gt;Baetis&lt;/i&gt; (Baetis) &lt;i&gt;zdenkae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Rhodos Island are described and illustrated in detail. Substantial diagnostic characters of males and larvae of the whole &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;buceratus&lt;/i&gt; species-group are summarized and its position relative to other species groups is discussed. Critical characters distinguishing &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;zdenkae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from all other representatives of the &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;buceratus&lt;/i&gt; species-group are emphasized and a discussion of 22 characters of the remaining 6 European species-groups of the subgenus &lt;i&gt;Baetis&lt;/i&gt; Leach, 1815 s. str. and their relationships is offered. Available data on the biology of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;zdenkae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (vertical distribution, habitat, current and substrate preference, abundance and density, possible life cycle type, and mating flight and oviposition patterns) and distribution with respect to possible endemism are given. Basic data on biology and area of distribution of Westpalaearctic species &lt;i&gt;Baetis&lt;/i&gt; (Baetis) &lt;i&gt;buceratus&lt;/i&gt; Eaton, 1870, &lt;i&gt;B.&lt;/i&gt; (B.) &lt;i&gt;nexus&lt;/i&gt; Navás, 1918 and &lt;i&gt;B.&lt;/i&gt; (B.) &lt;i&gt;spei&lt;/i&gt; Thomas &amp; Dia, 1985 known only from Lebanon are summarized and compared to those of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;zdenkae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ephemeroptera; Baetidae; Rhodos; new species; &lt;i&gt;Baetis&lt;/i&gt; &lt;i&gt;buceratus&lt;/i&gt; species-group; taxonomy; biology; distribution</subject>
+          <subject_class locale="en_US">Ephemeroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomá</firstname>
+          <lastname>Soldán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roman</firstname>
+          <middlename>J.</middlename>
+          <lastname>Godunko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2009-01-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Orthomus&lt;/i&gt; Chaudoir, 1838 (Coleoptera: Carabidae) from Madeira island (Macaronesia) and notes on related species</title>
+        <abstract locale="en_US">The present study describes a new ground-beetle species (Coleoptera, Carabidae) from Madeira island (type localities: FANAL and RIBEIRO BONITO), &lt;i&gt;Orthomus&lt;/i&gt; (Nesorthomus) &lt;i&gt;susanae&lt;/i&gt; Serrano &amp; Borges, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Adults were sampled by means of pitfall traps. This work provides diagnostic characters, in particular the structure of male genitalia, and the distribution of this new species. Affinities to putative relatives and a key for the identification of males of the eight &lt;i&gt;Orthomus&lt;/i&gt; (Nesorthomus) species of the Madeira island are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Carabidae; &lt;i&gt;Orthomus&lt;/i&gt;; &lt;i&gt;Nesorthomus&lt;/i&gt;; new species; Madeira</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artur</firstname>
+          <middlename>R. M.</middlename>
+          <lastname>Serrano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>A. S.</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mário</firstname>
+          <middlename>C.</middlename>
+          <lastname>Boieiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>A. V.</middlename>
+          <lastname>Borges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carla</firstname>
+          <lastname>Rego</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Isabel</firstname>
+          <middlename>R.</middlename>
+          <lastname>Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sérvio</firstname>
+          <middlename>P.</middlename>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Pereira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-34</pages>
+        <date_published>2009-01-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the grassland leafhopper subgenus &lt;i&gt;Leofa &lt;/i&gt;(&lt;i&gt;Prasutagus&lt;/i&gt;) Distant (Hemiptera: Cicadellidae: Deltocephalinae: Chiasmini)</title>
+        <abstract locale="en_US">The grassland leafhopper subgenus &lt;i&gt;Leofa&lt;/i&gt; (Prasutagus) is reviewed. Five species are dealt with in this paper, including two new species from China: &lt;i&gt;Leofa&lt;/i&gt; (Prasutagus) &lt;i&gt;forcipatus&lt;/i&gt; Duan &amp; Zhang &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Leofa&lt;/i&gt; (Prasutagus) &lt;i&gt;yangae&lt;/i&gt; Duan &amp; Zhang &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and a key to species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; morphology; identification; new species; China</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yani</firstname>
+          <lastname>Duan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-43</pages>
+        <date_published>2009-01-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Five new leafhopper species of the genus &lt;i&gt;Typhlocyba&lt;/i&gt; Germar (Hemiptera: Cicadellidae: Typhlocybinae) from China</title>
+        <abstract locale="en_US">Five species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;napoensis,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;bilaminata,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;serrata,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;triannulata&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;tubercula&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; of genus &lt;i&gt;Typhlocyba&lt;/i&gt; Germar from China are described and illustrated. A key to males of Chinese &lt;i&gt;Typhlocyba&lt;/i&gt; species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; key; description; distribution; illustration</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Min</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ya-Lin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-52</pages>
+        <date_published>2009-01-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Pseudogaurax &lt;/i&gt;Malloch (Diptera: Chloropidae) reared from dobsonfly egg-masses (Megaloptera: Corydalidae) in Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Pseudogaurax&lt;/i&gt; &lt;i&gt;idiogenes&lt;/i&gt; Wheeler &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (type locality: Iporanga, São Paulo, Brazil) is described from specimens reared from the egg masses of dobsonflies (Corydalidae) in southern Brazil. This is only the second record of &lt;i&gt;Pseudogaurax&lt;/i&gt; larvae feeding on Megaloptera eggs (first from the Neotropical region). Larvae of most species of &lt;i&gt;Pseudogaurax&lt;/i&gt; are predators of spider eggs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chloropidae; Neotropical; Megaloptera; ecology; aquatic insects; stream; egg predation</subject>
+          <subject_class locale="en_US">Chloropidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adriano</firstname>
+          <middlename>S.</middlename>
+          <lastname>Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Terry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Wheeler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-58</pages>
+        <date_published>2009-01-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Basilia&lt;/i&gt; Miranda-Ribeiro (Diptera: Nycteribiidae) from Honduras, parasite of &lt;i&gt;Bauerus dubiaquercus&lt;/i&gt; (Van Gelder) (Chiroptera: Vespertilionidae: Antrozoinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Basilia&lt;/i&gt; &lt;i&gt;(Basilia)&lt;/i&gt; &lt;i&gt;dubiaquercus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Diptera: Nycteribiidae) is described. The new species was collected from the bat &lt;i&gt;Bauerus&lt;/i&gt; &lt;i&gt;dubiaquercus&lt;/i&gt; (Van Gelder) (Chiroptera: Vespertilionidae) in Honduras. The habitus, abdomen, and male terminalia are figured. Placement of the new species among established species groups of &lt;i&gt;Basilia&lt;/i&gt; &lt;i&gt;(Basilia),&lt;/i&gt; as well as the conservation status of the species, is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Basilia&lt;/i&gt;; Bat Fly; &lt;i&gt;Bauerus&lt;/i&gt;; Endangered; Taxonomy; Vulnerable.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Basilia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gustavo</firstname>
+          <lastname>Graciolli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carl</firstname>
+          <middlename>W.</middlename>
+          <lastname>Dick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2009-01-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Proposed conservation of the name &lt;i&gt;Penthe&lt;/i&gt; Newman, 1838 (Coleoptera: Tetratomidae: Penthinae) threatened by the discovery of an older available name</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrice</firstname>
+          <lastname>Bouchard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darren</firstname>
+          <middlename>A.</middlename>
+          <lastname>Pollock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-01-07</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

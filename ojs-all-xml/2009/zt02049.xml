@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2049.1</id>
+    <title locale="en_US">23 Mar. 2009</title>
+    <volume>2049</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Complicated histories: three new species of poison frogs of the genus &lt;i&gt;Ameerega&lt;/i&gt; (Anura: Dendrobatidae) from north-central Peru</title>
+        <abstract locale="en_US">We describe three new species of poison frogs discovered on recent expeditions throughout Central Peru. Two of these were discovered from the Serranía de Contamana, a small mountain range near the town of Contamana on the Río Ucayali in Central Peru. The first of these species is similar in appearance to &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;petersi,&lt;/i&gt; but the two species differ in call and size, have allopatric distributions, and are not close relatives according to a Bayesian phylogeny. This species is also similar morphologically to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pongoensis,&lt;/i&gt; although the latter lacks flash marks above the groin and has a distinct advertisement call. Our phylogenetic data suggest that this species is closely related to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bassleri,&lt;/i&gt; a species which is much larger and usually possesses a brightly-colored yellow or orange dorsum. The second new species has a red dorsum and is similar in appearance to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bassleri,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cainarachi,&lt;/i&gt; and the third new species described herein, but can be distinguished by its unusual advertisement call. The third new species in this paper was discovered in the upper Huallaga Valley near the towns of Tocache and Juanjui. This species resembles certain populations of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bassleri&lt;/i&gt; and the second new species (mentioned above), but can be diagnosed by its advertisement call which is significantly slower than its closest relatives; approximately one-half the speed of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bassleri&lt;/i&gt; and one-quarter the speed of the second new species. Finally, we discuss the biogeography of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bassleri&lt;/i&gt; clade in light of these new discoveries. The biogeography of this clade is consistent with the disturbance-vicariance hypothesis, and climatic fluctuations were likely a major driver in the divergence and speciation of this group. We also present a phylogeny with increased sampling in the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;petersi&lt;/i&gt; clade and discuss the taxonomy of the group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;ignipedis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;pepperi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;yoshina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; coalescence; Contamana; Dendrobatid frogs; disturbance-vicariance hypothesis; incomplete lineage sorting; introgressive hybridization; new species; Peru; poison frogs; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;ignipedis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;pepperi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;yoshina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; coalescence</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jason</firstname>
+          <middlename>L.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evan</firstname>
+          <lastname>Twomey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic review of the genera &lt;i&gt;Boonea&lt;/i&gt;, &lt;i&gt;Chrysallida&lt;/i&gt;, &lt;i&gt;Parthenina&lt;/i&gt;, &lt;i&gt;Ivara&lt;/i&gt;, &lt;i&gt;Fargoa&lt;/i&gt;, &lt;i&gt;Mumiola&lt;/i&gt;, &lt;i&gt;Odostomella &lt;/i&gt;and &lt;i&gt;Trabecula &lt;/i&gt;(Gastropoda, Pyramidellidae, Odostomiinae) from Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandre</firstname>
+          <middlename>Dias</middlename>
+          <lastname>Pimenta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Absalão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cintia</firstname>
+          <lastname>Miyaji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-66</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erythrocyte size as diagnostic character for the identification of live cryptic &lt;i&gt;Odontophrynus americanus &lt;/i&gt;and &lt;i&gt;O. cordobae &lt;/i&gt;(Anura: Cycloramphidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Grenat</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Salas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <lastname>E.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martino</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>L.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

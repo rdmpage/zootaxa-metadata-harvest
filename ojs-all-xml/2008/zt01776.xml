@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1776.1</id>
+    <title locale="en_US">26 May. 2008</title>
+    <volume>1776</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-05-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <id type="zoobank">urn:lsid:zoobank.org:pub:89520102-E082-4212-889D-5FCF0B24FEC2</id>
+        <title locale="en_US">Revision of world species of the genus &lt;i&gt;Heptascelio&lt;/i&gt; Kieffer (Hymenoptera: Platygastroidea, Platygastridae)</title>
+        <abstract locale="en_US">The world species of the genus &lt;i&gt;Heptascelio&lt;/i&gt; Kieffer (Hymenoptera: Platygastroidea, Platygastridae) are revised. The generic concept is expanded and the genus is redescribed. Eighteen species are recognized, of which only two were described previously: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;lugens&lt;/i&gt; Kieffer (Philippines) and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;striatosternus&lt;/i&gt; Narendran &amp; Ramesh Babu (India, Sri Lanka, Nepal, Madagascar). Both species are redescribed, and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;punctisternus&lt;/i&gt; Narendran &amp; Ramesh Babu is considered a junior synonym of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;striatosternus&lt;/i&gt; (new &lt;b&gt;synonymy).&lt;/b&gt; The following species are described as new: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;albipes&lt;/i&gt; Masner, van Noort &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Cameroon, Gabon, Uganda); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;anthonyi&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Zimbabwe); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;aquilinus&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (South Africa); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;bivius&lt;/i&gt; Johnson &amp; Masner, &lt;b&gt;n.sp.&lt;/b&gt; (Indonesia); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;castor&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Indonesia, Malaysia); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;dayi&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Indonesia); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Botswana, Namibia, South Africa); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;hamatus&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Thailand, Laos, Vietnam, Malaysia, Indonesia, Taiwan); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; Johnson, van Noort &amp; Masner (Central African Republic, Gabon); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;noyesi&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Madagascar); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;orarius&lt;/i&gt; Johnson &amp; Masner, &lt;b&gt;n.sp.&lt;/b&gt; (Madagascar); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;paralugens&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Philippines); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sicarius&lt;/i&gt; Johnson &amp; Musetti, &lt;b&gt;n.sp.&lt;/b&gt; (Madagascar), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;strigatus&lt;/i&gt; Masner, Johnson &amp; van Noort, &lt;b&gt;n.sp.&lt;/b&gt; (Gabon, Central African Republic); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;teres&lt;/i&gt; Johnson &amp; Masner, &lt;b&gt;n.sp.&lt;/b&gt; (Madagascar), and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;watshami&lt;/i&gt; Masner &amp; Johnson, &lt;b&gt;n.sp.&lt;/b&gt; (Democratic Republic of Congo, Kenya, Malawi, Zimbabwe). &lt;i&gt;Heptascelio&lt;/i&gt; &lt;i&gt;watshami&lt;/i&gt; has been reared from the eggs of &lt;i&gt;Plagiotriptus&lt;/i&gt; &lt;i&gt;pinivorus&lt;/i&gt; Descamps (Orthoptera: Thericleidae), a pest of pine. An electronic version of the identification key is available at WaspWeb at http://www.waspweb.org/ Platygastroidea/Keys/. The electronic version of this document has been formatted with embedded links to additional resources available online via the internet both to enhance the content and as a demonstration of the utility of international standards for biodiversity informatics.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Norman</firstname>
+          <middlename>F.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lubomir</firstname>
+          <lastname>Masner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luciana</firstname>
+          <lastname>Musetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Simon</firstname>
+          <lastname>Van Noort</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rajmohana</firstname>
+          <lastname>K.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Christopher</middlename>
+          <lastname>Darling</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonia</firstname>
+          <lastname>Guidotti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <lastname>Polaszek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-51</pages>
+        <date_published>2008-05-26</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the tribe Diglottini from South America with description of &lt;i&gt;Diglotta brasiliensis &lt;/i&gt;n. sp. (Coleoptera, Staphylinidae, Aleocharinae)</title>
+        <abstract locale="en_US">The tribe Diglottini Eichelbaum, 1909 comprises two halophilous rove beetle genera &lt;i&gt;Diglotta&lt;/i&gt; Champion, 1899, and &lt;i&gt;Paradiglotta&lt;/i&gt; Ashe &amp; Ahn, 2004. The tribe contains eight known species distributed in the Nearctic and West-Palaearctic regions, and also Fiji Islands and New Zealand. This tribe is recorded for the first time from South America with the description of a new species, &lt;i&gt;Diglotta&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from southern Brazil (Paraná). Characters of the mouthparts, aedeagus and spermatheca of the new species are illustrated and compared with other &lt;i&gt;Diglotta&lt;/i&gt; species. Sexual dimorphism is reported for the first time in the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brazil; Neotropical region; Diglottini; &lt;i&gt;Diglotta&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Brazil</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edilson</firstname>
+          <lastname>Caron</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cibele</firstname>
+          <middlename>Stramare</middlename>
+          <lastname>Ribeiro-Costa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-58</pages>
+        <date_published>2008-05-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Hainokisaruzo&lt;/i&gt; Yoshitake &amp; Colonnelli from China, with a checklist of the species of the genus (Coleoptera: Curculionidae: Ceutorhynchinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Hainokisaruzo&lt;/i&gt; &lt;i&gt;wuyishanensis&lt;/i&gt; Huang, Yoshitake &amp; Zhang, sp. n., and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;fulvus&lt;/i&gt; Huang, Yoshitake &amp; Zhang, sp. n., are described from the Wuyishan Mountains of Fujian Province, southeastern China. &lt;i&gt;Hainokisaruzo&lt;/i&gt; &lt;i&gt;wuyishanensis&lt;/i&gt; is characterized by a slender rostrum, narrow brownish scales covering the elytra, three white bands of narrow scales, large apical mucrones on the mid and hind tibiae in the male, and a large, deep, semicircular concavity on the male ventrite V. In addition, the female pygidium lacks a carina, the spiculum gastrale is robust and bent leftward in dorsal view and the aedeagal body is roundly broadened before the apex and then constricts rapidly and projects acutely apicad. &lt;i&gt;Hainokisaruzo&lt;/i&gt; &lt;i&gt;fulvus&lt;/i&gt; is characterized by a stouter rostrum, narrow black scales covering the elytra, three white bands of elliptical scales, large apical mucrones on the middle and hind tibiae in the male, shallowly concave pygidia in both sexes, a large, deep, transverse, kidney-shaped concavity on the male ventrite V, a slender spiculum gastrale that is bent rightward in dorsal view and an aedeagal body that is gradually constricted and bluntly projected toward the apex. A checklist of the genus is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Curculionidae; Ceutorhynchinae; &lt;i&gt;Hainokisaruzo&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Curculionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Junhao</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiraku</firstname>
+          <lastname>Yoshitake</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Runzhi</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Motomi</firstname>
+          <lastname>Ito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2008-05-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

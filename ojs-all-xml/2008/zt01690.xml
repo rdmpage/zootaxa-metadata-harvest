@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1690.1</id>
+    <title locale="en_US">25 Jan. 2008</title>
+    <volume>1690</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Mesamphisopus&lt;/i&gt;, an endemic South African freshwater isopod genus (Isopoda: Phreatoicidea: Mesamphisopidae)</title>
+        <abstract locale="en_US">Isopoda of the suborder Phreatoicidea are represented in Africa by a single genus, &lt;i&gt;Mesamphisopus,&lt;/i&gt; including four known species (M. &lt;i&gt;abbreviatus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;capensis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;penicillatus).&lt;/i&gt; Six new species are described here, i.e. &lt;i&gt;Mesamphisopus&lt;/i&gt; &lt;i&gt;albidus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;baccatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;kensleyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;paludosus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;setosus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tsitsikamma&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; These taxa are distinguished from each other and from the existing species using a combination of features of the antennae, mouthparts, pleopods, pleotelson and uropods, and by colouration and setation. The distinguishing features and presumed affinities of the species are presented and discussed. A dichotomous key to the species of the genus is also provided. With recent cladistic analyses suggesting that re-arrangements are necessary at the familial level, the removal of &lt;i&gt;Eophreatoicus&lt;/i&gt; resulting in a monotypic Mesamphisopidae is considered.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Isopoda; Phreatoicidea; Mesamphisopidae; Western Cape; South Africa; &lt;i&gt;Mesamphisopus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gavin</firstname>
+          <lastname>Gouws</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2008-01-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1975.1</id>
+    <title locale="en_US">12 Jan. 2009</title>
+    <volume>1975</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-01-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics and preliminary phylogeny of Bornellidae (Mollusca: Nudibranchia: Dendronotina) based on morphological characters with description of four new species</title>
+        <abstract locale="en_US">In this study all available species of the nudibranch family Bornellidae (Bornella Gray, 1850, &lt;i&gt;Pseudobornella&lt;/i&gt; Baba, 1932) are re-examined anatomically and their status re-evaluated. Of these, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hancockana&lt;/i&gt; Kelaart, 1859 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;arborescens&lt;/i&gt; Pease, 1871 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;caledonica&lt;/i&gt; Crosse, 1875a &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;marmorata&lt;/i&gt; Collingwood, 1881 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are considered to be new synonyms of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;stellifer&lt;/i&gt; (Adams and Reeve in Adams, 1848), and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; Baba, 1949 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is considered to be a new synonym of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hermanni&lt;/i&gt; Angas, 1864. Two species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;excepta&lt;/i&gt; Bergh, 1884 and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt; Eliot, 1904, are at present unrecognizable, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;semperi&lt;/i&gt; Crosse 1875b is here considered a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;nudum,&lt;/i&gt; and four new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;dotoides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pele&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;valdae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;johnsonorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are proposed. These are compared with a further four recognized species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;calcarata&lt;/i&gt; Mörch, 1863, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;anguilla&lt;/i&gt; Johnson, 1984, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;sarape&lt;/i&gt; Bertsch, 1980 and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;irvingi&lt;/i&gt; Edmunds and Preece, 1996. The presence of an unpaired oral gland in &lt;i&gt;Bornella&lt;/i&gt; is reported for the first time. The reproductive system is diaulic, and the morphology of the penis and the arrangement of the penial spines are considered diagnostic for most species. The monotypic genus &lt;i&gt;Pseudobornella&lt;/i&gt; is re-examined for the first time. A comparative table for all recognized species is also provided. The review of the morphological differences within the family provides the basis for a phylogenetic analysis of the group. &lt;i&gt;Bornella&lt;/i&gt; is shown to represent a monophyletic clade while the monophyly of the family Bornellidae is not supported.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Bornella&lt;/i&gt;; Dendronotina; New species; Nudibranchia; Phylogeny; &lt;i&gt;Pseudobornella&lt;/i&gt;; Taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Bornella&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marta</firstname>
+          <lastname>Pola</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>William</firstname>
+          <middlename>B.</middlename>
+          <lastname>Rudman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Terrence</firstname>
+          <middlename>M.</middlename>
+          <lastname>Gosliner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-57</pages>
+        <date_published>2009-01-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Trachycephalus&lt;/i&gt; (Amphibia, Anura, Hylidae) from the State of Goiás, Brazil</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Trachycephalus&lt;/i&gt; is described for the Cerrado biome of Goiás, Brazil. &lt;i&gt;Trachycephalus&lt;/i&gt; &lt;i&gt;mambaiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is distinguished from the other ten species of the genus by the skin co-ossified with the skull, heavy cranial ossification, frontoparietal that fails to articulate with squamosal, absence of a crista occipitalis and secreting glands of milky and viscous substances. The skull of the new species shows an intermediary condition between species of &lt;i&gt;Trachycephalus&lt;/i&gt; with a well ossified skull (Casque-headed frogs) and those without cranial ossification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cerrado; taxonomy; &lt;i&gt;Trachycephalus&lt;/i&gt;; new species; osteology</subject>
+          <subject_class locale="en_US">Cerrado</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>Eduardo Domingos</middlename>
+          <lastname>Cintra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hélder</firstname>
+          <middlename>Lúcio Rodrigues</middlename>
+          <lastname>Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nelson</firstname>
+          <middlename>Jorge</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>Christiano</middlename>
+          <lastname>De Anchietta Garcia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hussam</firstname>
+          <lastname>Zaher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2009-01-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

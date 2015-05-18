@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2816.1</id>
+    <title locale="en_US">12 Apr. 2011</title>
+    <volume>2816</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the freshwater fishes of the Kimberley region of Western Australia</title>
+        <abstract locale="en_US">This paper provides an overview of the freshwater fishes of the remote and sparsely populated Kimberley region of Western Australia, an area that has been subject to minimal scientific surveys, most of which have occurred in the last 30 years. A total of 49 freshwater fish species are reported from the region, but this number will likely grow as a result of future discoveries. It is an endemic hotspot, with ~40% of the species found nowhere else; many of which are known from only a few localities. The fauna is dominated by members of the Terapontidae (10 species) and Eleotridae (10 species), followed by the Plotosidae (five species), Melanotaeniidae (five species), Atherinidae (four species) and Ambassidae (four species). Additionally, in terms of freshwater fishes of the Kimberley, there are two species each in the Toxotidae and Ariidae, and a single species from each of the Anguillidae, Clupeidae, Hemiramphidae, Belonidae, Apogonidae, Gobiidae and Soleidae. There are currently no introduced fishes found in any major catchments of the Kimberley, however, there are records of the Eastern Mosquitofish (Gambusia &lt;i&gt;holbrooki)&lt;/i&gt; from Cape Leveque (Morgan &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2004c) and the Redclaw Crayfish (Cherax &lt;i&gt;quadquicarinatus),&lt;/i&gt; which have recently been found within the Ord River basin (Doupé &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2004).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Western Australia; fish community; endemism; catchment</subject>
+          <subject_class locale="en_US">Western Australia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>L.</middlename>
+          <lastname>Morgan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerald</firstname>
+          <middlename>R.</middlename>
+          <lastname>Allen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bradley</firstname>
+          <middlename>J.</middlename>
+          <lastname>Pusey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Damien</firstname>
+          <middlename>W.</middlename>
+          <lastname>Burrows</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-64</pages>
+        <date_published>2011-04-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

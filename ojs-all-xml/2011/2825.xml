@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2825.1</id>
+    <title locale="en_US">20 Apr. 2011</title>
+    <volume>2825</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of stalked crinoids from the northeastern Pacific in the genera &lt;i&gt;Gephyrocrinus &lt;/i&gt;and &lt;i&gt;Ptilocrinus &lt;/i&gt;(Echinodermata, Crinoidea, Hyocrinidae). Effects of ontogeny and variability on hyocrinid taxonomy</title>
+        <abstract locale="en_US">Two new species of deep-sea stalked crinoids belonging to the family Hyocrinidae were collected in the northeastern Pacific. The descriptions contain detailed information on character variations and ontogeny. The five specimens of &lt;i&gt;Gephyrocrinus&lt;/i&gt; &lt;i&gt;messingi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; lived at depths ranging from 1,777 m to 2,110 m off British Columbia and California. This new species is the first record of the genus &lt;i&gt;Gephyrocrinus&lt;/i&gt; in the Pacific Ocean, which was previously known from only a single species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;grimaldii,&lt;/i&gt; from the northeastern Atlantic at the same depth range. The two species illustrate opposing phenotypes within the same genus. Fifty-eight specimens of the second new species, &lt;i&gt;Ptilocrinus&lt;/i&gt; &lt;i&gt;clarki&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; were dredged off British Columbia close to the type-locality of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pinnatus,&lt;/i&gt; the type species of the genus &lt;i&gt;Ptilocrinus,&lt;/i&gt; but at shallower depths ranging from 1,178 to 1,986 m. This exceptional collection provides significant data on intraspecific variation in the main morphological characters, especially arm pattern. The ontogeny of stalk articulations and the main traits of adoral plate differentiation are described in detail. A complementary investigation on &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pinnatus&lt;/i&gt; was conducted using specimens collected by the “Albatross” expedition at a depth of 2,906 m. Despite similarities in external morphology, tegmen and cover plates, the two ptilocrinid species display significant differences in pinnule architecture, aboral cup and stalk articulations. From comparison with &lt;i&gt;Gephyrocrinus&lt;/i&gt; &lt;i&gt;messingi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Ptilocrinus&lt;/i&gt; &lt;i&gt;clarki&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;grimaldii&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pinnatus&lt;/i&gt; are interpreted as the result of heterochronic development by paedomorphy after ecological or geographic isolation. Pinnule architecture in the two new species suggests first steps in an evolutionary trend toward a rigid box which protects gonad</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michel</firstname>
+          <lastname>Roux</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philip</firstname>
+          <lastname>Lambert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2011-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Africorchestia &lt;/i&gt;a new genus of sand-hoppers (Crustacea: Amphipoda: Talitridae) from western Africa and south-western Europe</title>
+        <abstract locale="en_US">&lt;i&gt;Africorchestia,&lt;/i&gt; a new genus of coastal sand-hoppers (Amphipoda, Talitridae), is described from western Africa and southwestern Europe. &lt;i&gt;Africorchestia&lt;/i&gt; includes five species: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fischeri&lt;/i&gt; (H. Milne Edwards, 1830); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;quadrispinosa&lt;/i&gt; (K.H. Barnard, 1916); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;skoogi&lt;/i&gt; (Stebbing, 1922); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;spinifera&lt;/i&gt; (Mateus, 1962); and A. &lt;i&gt;tricornuta&lt;/i&gt; (Shoemaker, 1920).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Talitridae; Africa; Europe; taxonomy; new genus; &lt;i&gt;Africorchestia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>Oliver</middlename>
+          <lastname>Coleman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2011-04-20</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2305.1</id>
+    <title locale="en_US">7 Dec. 2009</title>
+    <volume>2305</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Six new species of &lt;i&gt;Aculus &lt;/i&gt;Keifer from Tibet Autonomous Region, China (Acari: Eriophyoidea: Eriophyidae: Phyllocoptinae)</title>
+        <abstract locale="en_US">Six new species of &lt;i&gt;Aculus&lt;/i&gt; Keifer from China are described and illustrated. They are &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;vignaus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Vigna&lt;/i&gt; &lt;i&gt;vexillata&lt;/i&gt; (L.) Rich. (Fabaceae); &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;jasmini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Jasminum&lt;/i&gt; &lt;i&gt;humile&lt;/i&gt; L. (Oleaceae); &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;sorbariae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Sorbaria&lt;/i&gt; &lt;i&gt;sorbifolia&lt;/i&gt; (L.) A. Br. (Rosaceae); &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;tibetsalicinus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Salix&lt;/i&gt; sp. (Salicaceae); &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;lhasasorbariae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Sorbaria&lt;/i&gt; sp. (Rosaceae) and &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;cheilophilanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Salix&lt;/i&gt; &lt;i&gt;cheilophila&lt;/i&gt; Schneid (Salicaceae). All the eriophyoid mite species described here are vagrants on the undersurface of host leaves. A key to the Chinese &lt;i&gt;Aculus&lt;/i&gt; species is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;&lt;i&gt;Aculus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;in&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;&lt;i&gt;Aculus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;in&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Yue</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2009-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The marsh crab, &lt;i&gt;Sartoriana rokitanskyi &lt;/i&gt;(Pretzmann, 1971) (Decapoda, Brachyura, Gecarcinucidae) from southern Iran</title>
+        <abstract locale="en_US">The marsh crab, &lt;i&gt;Sartoriana&lt;/i&gt; &lt;i&gt;rokitanskyi&lt;/i&gt; (Pretzmann, 1971) (Brachyura, Gecarcinucidae), is recorded from near a hot spring in Geno, southern Iran. The taxonomy of the species, including differences with the allied &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;blanfordi&lt;/i&gt; (Alcock, 1909), is discussed. Notes on its ecology are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Freshwater crabs; Iran; Gecarcinucidae; &lt;i&gt;Sartoriana&lt;/i&gt;; taxonomy; ecology</subject>
+          <subject_class locale="en_US">Freshwater crabs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ehsan</firstname>
+          <lastname>Kamrani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mehrnoush</firstname>
+          <lastname>Mirzadeh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sahar</firstname>
+          <lastname>Nakhodai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-32</pages>
+        <date_published>2009-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Sphaeromopsis &lt;/i&gt;(Crustacea: Isopoda: Sphaeromatidae) from the Persian Gulf</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Sphaeromopsis&lt;/i&gt; (Sphaeromatidae: Isopoda) from Iran are described based on light and electronmicroscope study: &lt;i&gt;Sphaeromopsis&lt;/i&gt; &lt;i&gt;sarii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the coasts of Kish and Qeshm Islands, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;persikolpos&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Kish Island, Qeshm Islands and the southern coasts of Iran. The two species are sympatric in most areas. &lt;i&gt;Sphaeromopsis&lt;/i&gt; &lt;i&gt;sarii&lt;/i&gt; is distinct among other species in the genus for having a pleotelson with a faint dorsomedial furrow and a broadly rounded apex. &lt;i&gt;Sphaeromopsis&lt;/i&gt; &lt;i&gt;persikolpos&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is unique for the single suture at either side of the posterior margin of the pleon, a narrow pleotelsonic apex, and the uropodal exopod extensions that reach well beyond the pleotelsonic apex.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Isopoda; Sphaeromatidae; &lt;i&gt;Sphaeromopsis&lt;/i&gt;; SEM; Persian Gulf; Iran</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valiallah</firstname>
+          <lastname>Khalaji-Pirbalouty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johann-Wolfgang</firstname>
+          <lastname>Wägele</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-50</pages>
+        <date_published>2009-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First report of the sac spider genus &lt;i&gt;Systaria &lt;/i&gt;Simon (Araneae: Clubionidae) from China: &lt;i&gt;Systaria hainanensis &lt;/i&gt;sp. nov. and &lt;i&gt;Systaria mengla &lt;/i&gt;(Song &amp; Zhu, 1994) comb. nov.</title>
+        <abstract locale="en_US">The cylindrical, non-armoured spider genus &lt;i&gt;Systaria&lt;/i&gt; Simon, 1897, belonging to the subfamily Systariinae DeelemanReinhold, 2001 (Clubionidae Wagner, 1887) is reported from China for the first time, its genus characters are reviewed in detail, and its taxonomic position, between the Clubionidae and Miturgidae Simon, 1886, is discussed. A new &lt;i&gt;Systaria&lt;/i&gt; species from Hainan Island is diagnosed, described and illustrated under the name of &lt;i&gt;Systaria&lt;/i&gt; &lt;i&gt;hainanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; In addition, the species &lt;i&gt;Itatsina&lt;/i&gt; &lt;i&gt;mengla&lt;/i&gt; Song &amp; Zhu, 1994 is transferred from &lt;i&gt;Itatsina&lt;/i&gt; Kishida, 1930 (Liocranidae Simon, 1897) to &lt;i&gt;Systaria,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;mengla&lt;/i&gt; (Song &amp; Zhu, 1994) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spider; taxonomy; &lt;i&gt;Systaria&lt;/i&gt;; new record; new species; new combination</subject>
+          <subject_class locale="en_US">Spider</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jianying</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mingsheng</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-60</pages>
+        <date_published>2009-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species limits in antbirds (Aves: Passeriformes: Thamnophilidae): an evaluation of &lt;i&gt;Frederickena unduligera &lt;/i&gt;(Undulated Antshrike) based on vocalizations</title>
+        <abstract locale="en_US">The Undulated Antshrike, &lt;i&gt;Frederickena&lt;/i&gt; &lt;i&gt;unduligera,&lt;/i&gt; a resident of lowland humid forests of western Amazonia, is somewhat poorly known as a result of its low population density and retiring habits. In recent years, vocalizations of &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;unduligera&lt;/i&gt; have been recorded sufficiently to permit geographic analysis. Vocalizations supply valuable measures of species limits for antbirds, whose vocalizations are thought not to be learned. Based on vocalizations, we found that populations of the Undulated Antshrike are more appropriately considered as two biological species. Three populations considered subspecies of &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;unduligera&lt;/i&gt; await further evaluation pending the acquisition of additional vocal recordings, specimens, and tissue for genetic analysis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">speciation; Neotropics; &lt;i&gt;Frederickena&lt;/i&gt;; systematics; vocalizations; Thamnophilidae</subject>
+          <subject_class locale="en_US">speciation</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Morton</firstname>
+          <middlename>L.</middlename>
+          <lastname>Isler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Phyllis</firstname>
+          <middlename>R.</middlename>
+          <lastname>Isler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bret</firstname>
+          <middlename>M.</middlename>
+          <lastname>Whitney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>J.</middlename>
+          <lastname>Zimmer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <lastname>Whittaker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-12-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

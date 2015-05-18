@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2412.1</id>
+    <title locale="en_US">29 Mar. 2010</title>
+    <volume>2412</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cryptotendipes &lt;/i&gt;Lenz from Manitoba, Canada, with keys to known immatures of the genus (Diptera: Chironomidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Cryptotendipes&lt;/i&gt; &lt;i&gt;tuberosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Southern Indian Lake, Manitoba, Canada, is described in all stages and both sexes. Five additional species of &lt;i&gt;Cryptotendipes&lt;/i&gt; Kieffer are recorded from Lake Winnipeg, and two from South Indian Lake. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ariel&lt;/i&gt; (Sublette) is shown to be a senior synonym of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;darbyi&lt;/i&gt; (Sublette). The pupae and larvae of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;emorsus&lt;/i&gt; (Townes), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;casuarius&lt;/i&gt; (Townes), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;darbyi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pseudotener&lt;/i&gt; (Goetghebuer) are described or redescribed. The female of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;emorsus&lt;/i&gt; is described and additional information given on other male and female imagines. Keys are given to known pupae and larvae of &lt;i&gt;Cryptotendipes.&lt;/i&gt; The distribution of &lt;i&gt;Cryptotendipes&lt;/i&gt; in Lake Winnipeg is mapped and discussed. The separation of larval instars is shown approximately to follow Dyar’s rule.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; &lt;i&gt;Cryptotendipes&lt;/i&gt;; new species; keys to immatures; Lake Winnipeg; Southern Indian Lake</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2010-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Thysanoptera of Great Britain: A revised and updated checklist</title>
+        <abstract locale="en_US">An annotated list is presented of 176 species of the Order Thysanoptera that have been recorded from Great Britain; of these, 19 species are known only as non-established incursions (isolated populations, usually in glasshouses, known only to have survived for a short time). A list of a further 52 non-native species that have been found by the plant health authorities of England and Wales during quarantine inspections on imported plant material is also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Thysanoptera; Great Britain; checklist; non-established incursions; quarantine interceptions</subject>
+          <subject_class locale="en_US">Thysanoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dominique</firstname>
+          <middlename>W.</middlename>
+          <lastname>Collins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-41</pages>
+        <date_published>2010-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Thitarodes namnai &lt;/i&gt;sp. nov. and &lt;i&gt;T. caligophilus &lt;/i&gt;sp. nov. (Lepidoptera: Hepialidae), hosts of the economically important entomopathogenic fungus &lt;i&gt;Ophiocordyceps sinensis &lt;/i&gt;in Bhutan</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Thitarodes&lt;/i&gt; Viette (Lepidoptera: Hepialidae) are described from specimens collected in alpine grassland habitats of north-west Bhutan. The new species are compared with their closest relatives from Nepal and neighbouring parts of China and Japan. Male and female adults and genitalia are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cordyceps&lt;/i&gt;; Ghost moth; grassland; Himalaya; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cordyceps&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Norbert</firstname>
+          <lastname>Maczey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kuenzang</firstname>
+          <lastname>Dhendup</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>Cannon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nigel</firstname>
+          <lastname>Hywel-Jones</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tek</firstname>
+          <middlename>Bahadur</middlename>
+          <lastname>Rai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-52</pages>
+        <date_published>2010-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogeny and biogeography of the genus &lt;i&gt;Piezura &lt;/i&gt;Rondani (Diptera: Fanniidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Piezura&lt;/i&gt;; Fanniidae; phylogeny; biogeography; new status; new synonym</subject>
+          <subject_class locale="en_US">&lt;i&gt;Piezura&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ming-Fu</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hu</firstname>
+          <lastname>Ao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-62</pages>
+        <date_published>2010-03-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new Platystictidae (Odonata: Zygoptera) from Sarawak, Malaysian Borneo</title>
+        <abstract locale="en_US">Two new members of the Platystictidae are described from Sarawak: &lt;i&gt;Drepanosticta&lt;/i&gt; &lt;i&gt;sbong,&lt;/i&gt; holotype male: Malaysia, Sarawak, Kapit division, Sungai Sbong, 11–II–2008; and &lt;i&gt;Protosticta&lt;/i&gt; &lt;i&gt;tubau,&lt;/i&gt; holotype male: Malaysia, Sarawak, Bintulu division, Planted Forest Zone, Tubau area, block E2K, 16–VIII–2009; both to be deposited in the RMNH Leiden, The Netherlands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Odonata; Zygoptera; Platystictidae; new species; &lt;i&gt;Drepanosticta&lt;/i&gt;; &lt;i&gt;Protosticta&lt;/i&gt;; Borneo; Sarawak; Malaysia</subject>
+          <subject_class locale="en_US">Odonata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rory</firstname>
+          <middlename>A.</middlename>
+          <lastname>Dow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-03-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

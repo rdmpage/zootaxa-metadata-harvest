@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2407.1</id>
+    <title locale="en_US">23 Mar. 2010</title>
+    <volume>2407</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-03-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Contributions towards a review of the genus &lt;i&gt;Rhynchelmis &lt;/i&gt;Hoffmeister (Clitellata: Lumbriculidae)</title>
+        <abstract locale="en_US">Morphological characters for several Palearctic taxa attributed by recent authors to the genus &lt;i&gt;Rhynchelmis&lt;/i&gt; Hoffmeister, 1843 were reviewed using new or previously studied museum specimens. The genus &lt;i&gt;Rhynchelmis&lt;/i&gt; s. lat. was supported, and the Palearctic subgenus &lt;i&gt;Rhynchelmis&lt;/i&gt; (Rhynchelmis) was proposed, based on several probable synapomorphies: longitudinal muscles with lateral margins curled; strong dorsolateral-transverse muscles; vasa deferentia with thickened, glandular epithelium; spermathecal ampullae with anterior, sacciform diverticulum; accessory organ often present in preatrial segment. The Japanese &lt;i&gt;Rhynchelmis&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; Yamaguchi, 1936 was redescribed using new material, and had none of the abovementioned characters. The separation of other potential subgenera, the &lt;i&gt;Rhynchelmoides&lt;/i&gt; and &lt;i&gt;Sutroa&lt;/i&gt; groups, is still subject to review of those primarily Nearctic taxa. Attribution by Kaygorodova &amp; Liventseva (2007) of several Lake Baikal species to &lt;i&gt;Pseudorhynchelmis&lt;/i&gt; Hrabě (1982) was supported, and &lt;i&gt;Rhynchelmis&lt;/i&gt; &lt;i&gt;paraolchonensis&lt;/i&gt; Giani &amp; Martinez-Ansemil, 1984 may also belong in &lt;i&gt;Pseudorhynchelmis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Clitellata; Oligochaeta; Lumbriculidae; &lt;i&gt;Rhynchelmis&lt;/i&gt;; &lt;i&gt;Pseudorhynchelmis&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Clitellata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Steven</firstname>
+          <middlename>V.</middlename>
+          <lastname>Fend</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ralph</firstname>
+          <middlename>O.</middlename>
+          <lastname>Brinkhurst</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2010-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The taxonomic status of some spiny-backed treefrogs, genus &lt;i&gt;Osteocephalus&lt;/i&gt; (Amphibia: Anura: Hylidae)</title>
+        <abstract locale="en_US">A reassessment of some Amazonian spiny-backed treefrogs (Osteocephalus) either considered to be junior synonyms or not associated yet with &lt;i&gt;Osteocephalus&lt;/i&gt; reveals that &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;cabrerai&lt;/i&gt; (Cochran and Goin, 1970) from lowland Colombia and Peru is distinct from a frog previously used to revalidate the species, that &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;festae&lt;/i&gt; (Peracca, 1904) is a valid species from the foothills of the Andes in Ecuador, and that &lt;i&gt;Hyla&lt;/i&gt; &lt;i&gt;inframaculata&lt;/i&gt; Boulenger, 1882, from the lower Amazon in Brazil, is a member of this genus. The oldest available name for &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;elkejungingerae&lt;/i&gt; (Henle, 1981) from the Andean foothills in Peru is &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mimeticus&lt;/i&gt; (Melin, 1941). Another Melin (1941) species, &lt;i&gt;Hyla&lt;/i&gt; &lt;i&gt;vilarsi&lt;/i&gt; from the Rio Negro watershed in Brazil, is also an &lt;i&gt;Osteocephalus&lt;/i&gt; revalidated from the synonymies of several other frogs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazonia; Amphibia; Anura; Brazil; Colombia; Ecuador; Hylidae; &lt;i&gt;Osteocephalus&lt;/i&gt;; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;cabrerai&lt;/i&gt;; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;elkejungingerae&lt;/i&gt;; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;festae&lt;/i&gt; nov. comb.; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;inframaculatus&lt;/i&gt; nov. comb.; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;mimeticus&lt;/i&gt;; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;vilarsi&lt;/i&gt; nov. comb.; Peru; revalidation; taxonomy</subject>
+          <subject_class locale="en_US">Amazonia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karl-Heinz</firstname>
+          <lastname>Jungfer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-50</pages>
+        <date_published>2010-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pycnoclavella stolonialis &lt;/i&gt;n. sp. (Tunicata: Ascidiacea), with phylogenetic and distributional remarks on the genus in Europe</title>
+        <abstract locale="en_US">Morphological and molecular data based on the COI gene were used to describe a new species of the colonial ascidian genus &lt;i&gt;Pycnoclavella.&lt;/i&gt; The new species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stolonialis,&lt;/i&gt; is widespread sublittorally in the Irish Sea and also occurs on the western Irish coast, Wales and eastern England and may be locally common. It has been commonly known as the ‘pin head’ sea squirt since first recorded from Northern Ireland in 1984 but has not yet been formally described. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stolonialis&lt;/i&gt; is the only described species of &lt;i&gt;Pycnoclavella&lt;/i&gt; combining the presence of stolons, peribranchial incubation mode and a larva lacking an otolith. In addition, it features ca. 10% sequence divergence with the closest species of the genus in our phylogenetic trees. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stolonialis&lt;/i&gt; showed intermediate characters between two groups of &lt;i&gt;Pycnoclavella;&lt;/i&gt; the &lt;i&gt;stanleyi&lt;/i&gt; and the &lt;i&gt;aurilucens&lt;/i&gt; groups. Larval morphology and molecular data supported the inclusion of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stolonialis&lt;/i&gt; within the &lt;i&gt;aurilucens&lt;/i&gt; group, but the stolonial colony structure is characteristic of the &lt;i&gt;stanleyi&lt;/i&gt; group. This implies that colony structure may not be a good character for separating these two groups. New information on distribution is given for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;atlantica,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;aurilucens&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;communis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Colonial ascidians; larval morphology; COI; biogeography; biological cycles; &lt;i&gt;“pin&lt;/i&gt; head” sea squirt</subject>
+          <subject_class locale="en_US">Colonial ascidians</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <lastname>Pérez-Portela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Goodwin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Picton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>X.</firstname>
+          <lastname>Turon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-66</pages>
+        <date_published>2010-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;New Zealand Coastal Marine Invertebrates 1&lt;/i&gt;―an illustrated compendium edited by S. Cook (2010)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dennis</firstname>
+          <middlename>P.</middlename>
+          <lastname>Gordon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2010-03-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2126.1</id>
+    <title locale="en_US">5 Jun. 2009</title>
+    <volume>2126</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-06-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Phyxioschema &lt;/i&gt;(Araneae, Dipluridae), I: species from Thailand</title>
+        <abstract locale="en_US">&lt;i&gt;Phyxioschema&lt;/i&gt; &lt;i&gt;suthepium&lt;/i&gt; Raven &amp; Schwendinger, 1989 is revised and additional taxonomic characters and localities are given. Males and females of five new species are described: &lt;i&gt;Phyxioschema&lt;/i&gt; &lt;i&gt;erawan&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;(northern&lt;/b&gt; and western central Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;huberi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;(southern&lt;/b&gt; Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sayamense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;(southern&lt;/b&gt; Thailand), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;eripnastes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (southern Thailand) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spelaeum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (southern Thailand). Notes are given on habitat, phenology and reproductive behaviour of all these species. Taxonomic characters are discussed and considerable variation in the genitalia of some species is shown. An hypothesis on the relationships between the currently known &lt;i&gt;Phyxioschema&lt;/i&gt; species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mygalomorphae; Euagrinae; Euagrini; variation; biogeography; biology</subject>
+          <subject_class locale="en_US">Mygalomorphae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>J.</middlename>
+          <lastname>Schwendinger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2009-06-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Mountain Viscacha (Chinchillidae: &lt;i&gt;Lagidium &lt;/i&gt;Meyen) from the Ecuadorean Andes</title>
+        <abstract locale="en_US">A new species of mountain viscacha, &lt;i&gt;Lagidium&lt;/i&gt; &lt;i&gt;ahuacaense,&lt;/i&gt; is described based on a specimen and a mitochondrial cytochrome &lt;i&gt;b&lt;/i&gt; (cyt &lt;i&gt;b)&lt;/i&gt; sequence obtained from a second individual from Cerro El Ahuaca, Loja Province, Ecuador. In several external and craniodental measurements, the new species differed significantly from the three congeneric species (greatest length of skull, basilar, nasal length, palatilar length, length of diastema, least interorbital breadth, breadth of rostrum and skull height). The &lt;i&gt;cyt&lt;/i&gt; &lt;i&gt;b&lt;/i&gt; sequence of the Ecuadorean viscacha differed by 14 exclusive nucleotide substitutions from all other sequences of &lt;i&gt;Lagidium&lt;/i&gt; examined. Kimura 2-parameter (K2P) genetic distances of the Ecuadorean sequence were 8.1–11.0% to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;peruanum,&lt;/i&gt; 7.9–9.9% to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;viscacia&lt;/i&gt; and 9.7% to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;wolffsohni.&lt;/i&gt; The single known population of the newly described species may not comprise more than a few dozen individuals and warrants urgent conservation actions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andes; Ecuador; Hystricomorpha; phylogenetics; Rodentia; systematics; viscacha</subject>
+          <subject_class locale="en_US">Andes; Ecuador; Hystricomorpha; phylogenetics; Rodentia; systematics; viscacha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karim</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ledesma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Florian</firstname>
+          <middlename>A.</middlename>
+          <lastname>Werner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angel</firstname>
+          <middlename>E.</middlename>
+          <lastname>Spotorno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>H.</middlename>
+          <lastname>Albuja</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-57</pages>
+        <date_published>2009-06-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Eupsophus nahuelbutensis &lt;/i&gt;(Anura: Neobatrachia): external morphology, chondrocranium, and comments on its natural history</title>
+        <abstract locale="en_US">The tadpole of the endemic Chilean frog &lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;nahuelbutensis&lt;/i&gt; is described. The description includes external morphology, chondrocranium, and comments on natural history and systematics. This tadpole is endotrophic-nidicolous and unpigmented, resembling other larvae of the genus. In spite of its endotrophy and some typical traits of nidicolous tadpoles, the larva of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nahuelbutensis&lt;/i&gt; does not differ significantly from a generalized exotrophic larvae. In addition, ecomorphological and biological characteristics of the tadpole of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nahuelbutensis&lt;/i&gt; are discussed and compared with other members of &lt;i&gt;Eupsophus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;nahuelbutensis&lt;/i&gt;; nidicolous tadpole; systematics; Alsodinae; Chile</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;nahuelbutensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>J.</middlename>
+          <lastname>Nuñez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carmen</firstname>
+          <middlename>A.</middlename>
+          <lastname>Úbeda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2009-06-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

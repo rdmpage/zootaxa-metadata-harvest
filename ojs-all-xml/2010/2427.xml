@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2427.1</id>
+    <title locale="en_US">15 Apr. 2010</title>
+    <volume>2427</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-04-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Early larval morphology of the armed nylon shrimp &lt;i&gt;Heterocarpus ensifer ensifer &lt;/i&gt;A. Milne-Edwards, 1881 (Decapoda, Caridea, Pandalidae) from laboratory culture</title>
+        <abstract locale="en_US">The first four zoeal stages of the shrimp &lt;i&gt;Heterocarpus&lt;/i&gt; &lt;i&gt;ensifer&lt;/i&gt; &lt;i&gt;ensifer&lt;/i&gt; were obtained under laboratory conditions. The morphology of each larval stage was described and illustrated in detail. The &lt;i&gt;Heterocarpus’s&lt;/i&gt; larval features fit into the characteristics of the family Pandalidae, and indicate a close relationship with the genus &lt;i&gt;Plesionika.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Pandalidae; &lt;i&gt;Heterocarpus&lt;/i&gt; &lt;i&gt;ensifer&lt;/i&gt; &lt;i&gt;ensifer&lt;/i&gt;; zoeal stages</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>María</middlename>
+          <lastname>Landeira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Lozano-Soldevilla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <lastname>Almansa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>Ignacio</middlename>
+          <lastname>González-Gordillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-14</pages>
+        <date_published>2010-04-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Geometric morphometrics uncovers a new species of ponyfish (Teleostei: Leiognathidae: &lt;i&gt;Equulites&lt;/i&gt;), with comments on the taxonomic status of &lt;i&gt;Equula berbis &lt;/i&gt;Valenciennes</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Equulites&lt;/i&gt; is revealed using geometric morphometric techniques and is herein described. Based on features recovered in recent comparative analyses, members of &lt;i&gt;Equulites&lt;/i&gt; have been diagnosed on the basis of internal and external male-specific traits related to their light-organ system (LOS; Sparks &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2005; Sparks, 2006; Sparks and Chakrabarty, 2007; Chakrabarty and Sparks, 2008). These sexually-dimorphic traits are hypothesized to allow males to signal to conspecific females in photic sexual displays using bacterially-generated luminescence (Woodland &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2002; Sasaki &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2003; Wada &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2005). The holotype and sole name-bearing type of &lt;i&gt;Equulites&lt;/i&gt; &lt;i&gt;leuciscus&lt;/i&gt; (BMNH 1858.4.21.243, 104.9 mm SL) is an adult female, and therefore lacks the diagnostic external feature of the LOS, a large, translucent flank patch, used to identify species in this genus. Geometric morphometric shape analysis of individuals ascribed to &lt;i&gt;Equulites&lt;/i&gt; &lt;i&gt;leuciscus,&lt;/i&gt; a traditionally widespread, “catch-all” taxon, reveals two discrete shape groups. Based on the results presented below, members of one of these groups correspond to a morphological variant that represents the new species (Equulites &lt;i&gt;absconditus&lt;/i&gt; Chakrabarty &amp; Sparks) described herein, whereas the other group corresponds to traditional &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;leuciscus.&lt;/i&gt; In addition, the taxonomic status of &lt;i&gt;Equula&lt;/i&gt; &lt;i&gt;berbis&lt;/i&gt; Valenciennes, to which many female and poorly preserved specimens of the new species have erroneously been attributed, is reviewed and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;berbis&lt;/i&gt; is concluded to be a nomen dubium of uncertain placement beyond the family level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Indo-West Pacific; leiognathids; &lt;i&gt;Photoplagios&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Indo-West Pacific</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Prosanta</firstname>
+          <lastname>Chakrabarty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeanette</firstname>
+          <lastname>Chu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luthfun</firstname>
+          <lastname>Nahar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>S.</middlename>
+          <lastname>Sparks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>15-24</pages>
+        <date_published>2010-04-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">High-resolution X-ray computed tomography of an extant new &lt;i&gt;Donuea &lt;/i&gt;(Araneae: Liocranidae) species in Madagascan copal</title>
+        <abstract locale="en_US">A new extant &lt;i&gt;Donuea&lt;/i&gt; (Liocranidae) species is described from Madagascar, from both alcohol preserved fresh material and also as a subfossil in copal from the Sambava area. X-ray micro computed tomography was used to visualise minute details of the male palp of the copal specimen in order to confirm conspecificity. This is the first time a new spider species discovered in Madagascan copal can immediately be demonstrated as belonging to an extant species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">subfossil resin; Dionycha; palp structure; &lt;i&gt;collustrata&lt;/i&gt;; &lt;i&gt;decorsei&lt;/i&gt;; extant; extinct; fauna; palaeontology</subject>
+          <subject_class locale="en_US">subfossil resin</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Bosselaers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manuel</firstname>
+          <lastname>Dierick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Veerle</firstname>
+          <lastname>Cnudde</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bert</firstname>
+          <lastname>Masschaele</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luc</firstname>
+          <lastname>Van Hoorebeke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patric</firstname>
+          <lastname>Jacobs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-35</pages>
+        <date_published>2010-04-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Multitestis &lt;/i&gt;Manter 1931 (Digenea: Lepocreadiidae) in ephippid and chaetodontid fishes (Perciformes) in the south-western Pacific Ocean and the Indian Ocean off Western Australia</title>
+        <abstract locale="en_US">Five species of the genus &lt;i&gt;Multitestis&lt;/i&gt; are described, figured or discussed: &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;pyriformis&lt;/i&gt; from &lt;i&gt;Platax&lt;/i&gt; &lt;i&gt;orbicularis&lt;/i&gt; off Lizard Island, northern Great Barrier Reef, Australia and &lt;i&gt;Platax&lt;/i&gt; &lt;i&gt;teira&lt;/i&gt; off New Caledonia; &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;coradioni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (syn. &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;pyriformis&lt;/i&gt; Machida, 1963 of Bray &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (1994)) from &lt;i&gt;Coradion&lt;/i&gt; &lt;i&gt;chrysozonus&lt;/i&gt; off Heron Island, which differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pyriformis&lt;/i&gt; in its oval body-shape, the more posteriorly situated testicular fields and larger eggs, &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;elongatus&lt;/i&gt; from &lt;i&gt;Platax&lt;/i&gt; &lt;i&gt;pinnatus&lt;/i&gt; off Lizard Island, &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;magnacetabulum&lt;/i&gt; from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;teira&lt;/i&gt; off Heron Island, southern Great Barrier Reef, Australia, and New Caledonia, &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;paramagnacetabulum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;orbicularis&lt;/i&gt; off Ningaloo Reef, Western Australia, which differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;magnacetabulum&lt;/i&gt; in the more posteriorly situated testicular fields.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Digenea; Lepocreadiidae; &lt;i&gt;Multitestis&lt;/i&gt;; &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;coradioni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Multitestis&lt;/i&gt; &lt;i&gt;paramagnacetabulum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Great Barrier Reef; New Caledonia; Ningaloo Reef; &lt;i&gt;Platax&lt;/i&gt;; &lt;i&gt;Coradion&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Digenea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodney</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bray</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cribb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Lou</firstname>
+          <lastname>Justine</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-46</pages>
+        <date_published>2010-04-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new cave species of &lt;i&gt;Cryphiops &lt;/i&gt;(Crustacea: Decapoda: Palaemonidae) from Southern Mexico</title>
+        <abstract locale="en_US">The second cave species of the genus &lt;i&gt;Cryphiops&lt;/i&gt; from Chiapas, Mexico is described. &lt;i&gt;Cryphiops&lt;/i&gt; &lt;i&gt;sbordonii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is similar to &lt;i&gt;Cryphiops&lt;/i&gt; &lt;i&gt;luscus&lt;/i&gt; in exhibiting reduced eyes, and an enlargement of ambulatory appendages. It differs from this species in ornamentation of the rostrum, proportions of the articles of the first and the second pereiopods, and proportion between the length of the appendix masculina and the length of the appendix interna, as well as the disposition and the number of the setae on the appendix masculina. &lt;i&gt;Cryphiops&lt;/i&gt; &lt;i&gt;sbordonii&lt;/i&gt; new species occurs in the Cueva Chamburro, a cave located in the Margaritas Region of Chiapas, southern Mexico.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cryphiops&lt;/i&gt;; Stygobitic Shrimps; Mexico</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cryphiops&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabiola</firstname>
+          <lastname>Baldari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>M.</middlename>
+          <lastname>Mejía-Ortíz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marilú</firstname>
+          <lastname>López-Mejía</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-54</pages>
+        <date_published>2010-04-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Linking operational clustered taxonomic units (OCTUs) from parallel ultra sequencing (PUS) to nematode species</title>
+        <abstract locale="en_US">DNA-sequence-based approaches such as single nematode PCR and sequencing have been successfully used in nematode species diagnostics. Here, we use SSU rDNA sequences generated from an artificially-assembled community of nematodes of known identity and relative abundance to assess a relationship between nematode species and operationally clustered taxonomic units (OCTUs). OCTUs that formed at 95% similarity underestimated species richness by &lt;i&gt;ca&lt;/i&gt; 30%, and all expected species were recovered only at 99% OCTU similarity. Although the number of OCTUs formed at 99% similarity was considerably higher than the actual number of nematode species, a pattern of the distribution of OCTUs within each species allowed an assignment of OCTUs to specific species. The pattern was highly predictable and helped to discern rather than obscure species recognition. The patterns and parameters that emerged from the control nematode dataset were then used to test our approach on environmental samples of nematodes obtained from a tropical rainforest in Costa Rica.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; DNA barcoding; high-throughput sequencing; metagenetic; nematode</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dorota</firstname>
+          <middlename>L</middlename>
+          <lastname>Porazinska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robin</firstname>
+          <middlename>M</middlename>
+          <lastname>Giblin-Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Way</firstname>
+          <lastname>Sung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W</firstname>
+          <middlename>Kelley</middlename>
+          <lastname>Thomas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-63</pages>
+        <date_published>2010-04-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the identity of &lt;i&gt;Basigona lucasii &lt;/i&gt;Silvestri, 1896, a poorly known millipede from Tunisia, with notes on the North African Chordeumatida (Diplopoda: Chordeumatida: Chamaesomatidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nesrine</firstname>
+          <lastname>Akkari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henrik</firstname>
+          <lastname>Enghoff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pavel</firstname>
+          <lastname>Stoev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Paul</firstname>
+          <lastname>Mauriès</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2010-04-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

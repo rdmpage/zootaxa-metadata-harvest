@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1784.1</id>
+    <title locale="en_US">6 Jun. 2008</title>
+    <volume>1784</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Bryophryne&lt;/i&gt; (Anura: Strabomantidae) from southern Peru</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Bryophryne&lt;/i&gt; from southern Peru (Cusco Region) is described. Specimens were found in the leaf litter of cloud forest at elevations of 2350–3215 m. The new species has a maximum snout-vent length of 21.9 mm in adult females, 18.9 mm in adult males and is the smallest species of the genus. It lacks a tympanum and dentigerous processes of vomers, has dorsolateral folds, and males without vocal slits and without nuptial pads. The new species is most similar to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bustamantei&lt;/i&gt; but differs in being smaller, having discontinuous dorsolateral folds, the males lacking vocal slits, and an overall darker ventral coloration. &lt;i&gt;Bryophryne&lt;/i&gt; contains three species all of which lack a tympanum. The deep valley of the Río Apurímac as a distributional barrier separating &lt;i&gt;Phrynopus&lt;/i&gt; from &lt;i&gt;Bryophryne&lt;/i&gt; is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andes; biogeography; &lt;i&gt;Bryophryne&lt;/i&gt; &lt;i&gt;cophites&lt;/i&gt;; &lt;i&gt;Bryophryne&lt;/i&gt; &lt;i&gt;bustamantei&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Andes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edgar</firstname>
+          <lastname>Lehr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <lastname>Catenazzi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-10</pages>
+        <date_published>2008-06-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of leaflitter frogs from the upper Amazon forests: cryptic diversity within &lt;i&gt;Pristimantis&lt;/i&gt; "ockendeni" (Anura: Strabomantidae) in Ecuador</title>
+        <abstract locale="en_US">We describe three new species of &lt;i&gt;Pristimantis&lt;/i&gt; leaflitter frogs from the upper Amazon basin of Ecuador: &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;achuar,&lt;/i&gt; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;altamnis,&lt;/i&gt; and &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;kichwarum.&lt;/i&gt; Each of these new species was previously considered to be part of a single species, formerly known as &lt;i&gt;Eleutherodactylus&lt;/i&gt; &lt;i&gt;ockendeni&lt;/i&gt; (Boulenger) morph B. However, analysis of DNA sequences together with examination of the morphology of more than 600 specimens from Ecuador reveals that multiple species were confused under the same name. The morphological differences among the three new species are subtle but consistent: presence or absence of a black canthal stripe and/or supratympanic ridge, snout-vent length, and ventral colouration. The three species are generally allopatric and geographically restricted, although at some localities two of the species occur sympatrically.Describimos tres especies nuevas de ranas del sotobosque de la cuenca Amazónica Ecuatoriana: &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;achuar,&lt;/i&gt; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;altamnis&lt;/i&gt; y &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;kichwarum.&lt;/i&gt; Estas especies fueron consideradas antes como una sola especie bajo el nombre &lt;i&gt;Eleutherodactylus&lt;/i&gt; &lt;i&gt;ockendeni&lt;/i&gt; (Boulenger) morfo B. Sin embargo, el análisis de secuencias de ADN y la examinación de la morfología de más que 600 especímenes Ecuatorianos indican que en realidad existen tres especies. Sus diferencias morfológicas son sutiles pero constantes: presencia o ausencia de una raya cantal negra y/o de un pliegue supratimpánico y su coloración ventral. Las tres especies tienen distribuciones alopátricas y distintas aunque en algunas localidades se puede encontrar dos de las tres especies juntas.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; new species; terrestrial frog; South America; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;achuar;&lt;/i&gt; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;altamnis;&lt;/i&gt; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;kichwarum&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Anura; new species; terrestrial frog; South America; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;achuar;&lt;/i&gt; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;altamnis;&lt;/i&gt; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;kichwarum&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kathryn</firstname>
+          <middlename>R.</middlename>
+          <lastname>Elmer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>C.</middlename>
+          <lastname>Cannatella</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>11-38</pages>
+        <date_published>2008-06-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New and noteworthy records of Rodentia (Erethizontidae, Sciuridae, and Cricetidae) from Paraguay</title>
+        <abstract locale="en_US">Extensive field work conducted in Paraguay since 1995 allowed us to present the first records for this country of the family Sciuridae (Sciurus &lt;i&gt;urucumus),&lt;/i&gt; the genus &lt;i&gt;Bibimys&lt;/i&gt; (B. &lt;i&gt;chacoensis),&lt;/i&gt; and the species &lt;i&gt;Akodon&lt;/i&gt; &lt;i&gt;paranaensis,&lt;/i&gt; in addition to the first formal mention of &lt;i&gt;Oxymycterus&lt;/i&gt; &lt;i&gt;misionalis,&lt;/i&gt; and noteworthy records of &lt;i&gt;Cerradomys&lt;/i&gt; &lt;i&gt;maracajuensis,&lt;/i&gt; &lt;i&gt;Pseudoryzomys&lt;/i&gt; &lt;i&gt;simplex,&lt;/i&gt; and &lt;i&gt;Sphiggurus&lt;/i&gt; &lt;i&gt;spinosus.&lt;/i&gt; These records demonstrate that the mammal fauna of the Paraguayan Oriental Region is more similar in species richness and composition to that of adjacent regions of Argentina and Brazil than previously realized.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Akodon&lt;/i&gt;; Atlantic forest; &lt;i&gt;Bibimys&lt;/i&gt;; &lt;i&gt;Cerradomys&lt;/i&gt;; Chaco; &lt;i&gt;Oxymycterus&lt;/i&gt;; &lt;i&gt;Pseudoryzomys&lt;/i&gt;; &lt;i&gt;Sciurus&lt;/i&gt;; Sigmodontinae; &lt;i&gt;Sphiggurus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Akodon&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guillermo</firstname>
+          <lastname>D'elia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ismael</firstname>
+          <lastname>Mora</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Phil</firstname>
+          <lastname>Myers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>D.</middlename>
+          <lastname>Owen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-57</pages>
+        <date_published>2008-06-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Axinyssa&lt;/i&gt; Lendenfeld, 1897 (Demospongiae, Halichondrida) from the East Pacific Ocean, with the description of &lt;i&gt;Axinyssa isabela&lt;/i&gt; sp. nov.</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Axinyssa&lt;/i&gt; Lendenfeld, 1897 (Halichondriidae, Halichondrida) is described from the Mexican Pacific Ocean, which constitutes the first record of the genus in the Eastern Pacific Ocean. &lt;i&gt;Axinyssa&lt;/i&gt; &lt;i&gt;isabela&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is an incrusting to massive cushion-shaped yellow sponge without ectosomal skeleton. The ectosome is simply a thin, translucent, partly detachable collagen layer. The collagen is also abundant in the choanosome, while spicular density is relatively low. The choanosomal skeleton is confused with ascending single spicules or spicules grouped in tracts. The tracts become slightly more organized towards the periphery, protruding on the surface in spicule bundles or in single spicules. Spicules are oxeas and derivates (styles and strongyles), 200 to 780 µm long and 3 to 15 µm thick. So far, despite the sampling of a large number of localities along the Mexican Pacific Coast during the last years, &lt;i&gt;Axinyssa&lt;/i&gt; &lt;i&gt;isabela&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has been found only at National Park “Isla Isabel” (Nayarit, Mexico), where it is relatively common, in vertical walls, small caves and overhangs at depths between 4 and 20 m.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Porifera; Sponges; Halichondrida; &lt;i&gt;Axinyssa&lt;/i&gt;; East Pacific Ocean; Mexico; natural products</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jose</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Carballo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jose</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Cruz-Barraza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2008-06-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

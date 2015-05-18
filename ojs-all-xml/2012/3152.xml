@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3152.1</id>
+    <title locale="en_US">6 Jan. 2012</title>
+    <volume>3152</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-01-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Spionidae (Annelida) from shallow waters around the British Islands: an identification guide for the NMBAQC Scheme with an overview of spionid morphology and biology</title>
+        <abstract locale="en_US">This is the third guide in a series aimed to help in the identification of northern European samples through the NationalMarine Biological Analytical Quality Control (NMBAQC) Scheme. A review is presented of general morphology andbiology of one of the most common groups in marine and estuarine communities worldwide, spionid polychaetes(Annelida: Spionidae). An identification key to 20 genera and a list of 80 species likely to occur in waters around Britainand Ireland are provided based on the taxonomic literature, collection records and the author’s examination of various collections. The names are updated but some records need verification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">morphology; ecology; reproductive biology; polychaetes; key to genera</subject>
+          <subject_class locale="en_US">morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vasily</firstname>
+          <middlename>I.</middlename>
+          <lastname>Radashevsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the blennioid fish family Tripterygiidae (Perciformes) in the Red Sea, with description of &lt;i&gt;Enneapterygius qirmiz&lt;/i&gt;, and reinstatement of &lt;i&gt;Enneapterygius altipinnis &lt;/i&gt;Clark, 1980</title>
+        <abstract locale="en_US">The fishes of the blennioid family Tripterygiidae of the Red Sea are reviewed. Twelve species are recognised: &lt;i&gt;Norfolkia&lt;/i&gt;&lt;i&gt;brachylepis,&lt;/i&gt; &lt;i&gt;Helcogramma&lt;/i&gt; &lt;i&gt;obtusirostris,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;steinitzi&lt;/i&gt; and nine species of &lt;i&gt;Enneapterygius.&lt;/i&gt; &lt;i&gt;Enneapterygius&lt;/i&gt; &lt;i&gt;qirmiz&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;is described for a species originally described, but not named, by Clark (1980), of which the specimens on which she hadbased her description had become lost. Clark’s (1980) &lt;i&gt;Enneapterygius&lt;/i&gt; &lt;i&gt;altipinnis&lt;/i&gt; is re-instated as a valid species, and itsinclusion as one of a complex of several species is discussed. &lt;i&gt;Enneapterygius&lt;/i&gt; &lt;i&gt;ventermaculus&lt;/i&gt; reported as first record forthe Red Sea. Detailed colour descriptions are given for all species, including their colour underwater where possible, as many of the species are cryptic and difficult to identify.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Red Sea; Tripterygiidae; &lt;i&gt;Enneapterygius&lt;/i&gt; &lt;i&gt;altipinnis&lt;/i&gt;; &lt;i&gt;Enneapterygius&lt;/i&gt; &lt;i&gt;qirmiz&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Red Sea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wouter</firstname>
+          <lastname>Holleman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Bogorodsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-60</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Sparisoma choati&lt;/i&gt;, a new species of Parrotfish (Labridae: Scarinae) from the tropical eastern Atlantic</title>
+        <abstract locale="en_US">The parrotfish &lt;i&gt;Sparisoma&lt;/i&gt; &lt;i&gt;choati&lt;/i&gt; is described from the tropical eastern Atlantic Ocean. It is genetically unique and alsodiffers from its congeners by coloration as follows: initial phase individuals and females greyish brown to greyish red,with chin and belly paler and reddish brown scales irregularly distributed along flanks resulting in a general mottled ap-pearance; terminal phase individuals with brownish red head and upper half of anterior two-thirds of body, ventral portionof central third of body bright yellow-green, posterior third of body dark greenish gray and dark spot on upper fifth ofpectoral fin base. The new species is found in rocky reefs along the coast and oceanic islands off West Africa, from Cape Verde and Senegal south to the islands of São Tomé and Príncipe and Angola.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; biodiversity; Perciformes; West Africa</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luiz</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alberto</firstname>
+          <lastname>Brito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Ross</middlename>
+          <lastname>Robertson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-67</pages>
+        <date_published>2012-01-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: YU, X. &amp; BU, W.-J. (2011) Chinese damselflies of the genus &lt;i&gt;Coenagrion &lt;/i&gt;(Zygoptera: Coenagrionidae). &lt;i&gt;Zootaxa&lt;/i&gt;, 2808, 31–40. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2012-01-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2103.1</id>
+    <title locale="en_US">11 May. 2009</title>
+    <volume>2103</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the systematics, morphology and distribution of Malagasy dwarf geckos, genera &lt;i&gt;Lygodactylus &lt;/i&gt;and &lt;i&gt;Microscalabotes &lt;/i&gt;(Squamata: Gekkonidae)</title>
+        <abstract locale="en_US">The Malagasy species of the dwarf gecko genera &lt;i&gt;Lygodactylus&lt;/i&gt; Gray and &lt;i&gt;Microscalabotes&lt;/i&gt; Boulenger have been largely neglected in recent studies on the herpetofauna of Madagascar. Since the historically earliest taxonomic description of &lt;i&gt;Lygodactylus&lt;/i&gt; &lt;i&gt;tolampyae&lt;/i&gt; in 1872, studies have mainly dealt with the systematics of these lizards, yet many taxonomic issues and the validity of several species is unclear. Some species have been described on the basis of immature specimens, or based on a low specimen number from single sites, and there are no assessments of geographic variation. In this paper we provide a review of Malagasy &lt;i&gt;Lygodactylus&lt;/i&gt; and &lt;i&gt;Microscalabotes&lt;/i&gt; based on preserved material from a number of major natural history museums, including types of most species, and on own collections. For each species we provide morphological diagnoses, standardized descriptions of up to 24 morphological characters, a list of localities, and discussions of geographical variation if it was apparent from the specimens examined. All except three Malagasy &lt;i&gt;Lygodactylus&lt;/i&gt; species are assigned to a total of four phenetic species groups of which at least some may also represent monophyletic units. Hemipenial morphology is described for 11 species and provides a valuable source of characters to distinguish species groups, especially the &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;madagascariensis&lt;/i&gt; group that differs from other Malagasy species by their lack of hemipenial serrated ridges with pointed papillae, short pedicel and poorly defined lobes. &lt;i&gt;Lygodactylus&lt;/i&gt; &lt;i&gt;praecox&lt;/i&gt; Pasteur, 1995 is considered as a junior synonym of &lt;i&gt;Lygodactylus&lt;/i&gt; &lt;i&gt;klemmeri&lt;/i&gt; Pasteur, 1964. One new species, &lt;i&gt;Lygodactylus&lt;/i&gt; &lt;i&gt;roavolana,&lt;/i&gt; is described based on a unique combination of morphological characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata; Gekkonidae; &lt;i&gt;Lygodactylus&lt;/i&gt;; &lt;i&gt;Millotisaurus&lt;/i&gt;; &lt;i&gt;Domerguella&lt;/i&gt;; &lt;i&gt;Microscalabotes&lt;/i&gt;; Madagascar; taxonomy; identification key; systematics; biogeography.</subject>
+          <subject_class locale="en_US">Squamata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marta</firstname>
+          <lastname>Puente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Vieites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-76</pages>
+        <date_published>2009-05-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

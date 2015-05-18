@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1820.1</id>
+    <title locale="en_US">9 Jul. 2008</title>
+    <volume>1820</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of European Damaeidae (Acari: Oribatida) I. &lt;i&gt;Kunstidamaeus&lt;/i&gt; Miko, 2006, with comments on &lt;i&gt;Damaeus&lt;/i&gt; sensu lato</title>
+        <abstract locale="en_US">The diagnosis of the genus &lt;i&gt;Kunstidamaeus&lt;/i&gt; Miko, 2006 is given and a new generic concept within &lt;i&gt;Damaeus&lt;/i&gt; sensu lato is proposed. &lt;i&gt;Epidamaeus,&lt;/i&gt; &lt;i&gt;Kunstidamaeus&lt;/i&gt; and &lt;i&gt;Spatiodamaeus&lt;/i&gt; are given generic status, whereas &lt;i&gt;Adamaeus,&lt;/i&gt; &lt;i&gt;Paradamaeus&lt;/i&gt; and the nominal subgenus &lt;i&gt;Damaeus&lt;/i&gt; s. stricto are considered to be subgenera of the genus &lt;i&gt;Damaeus.&lt;/i&gt; The type species &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;lengersdorfi&lt;/i&gt; (Willmann, 1932) including the immature stases is redescribed and its geographic distribution and ecology is discussed. The neotype of &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;lengersdorfi&lt;/i&gt; is designated. Together with the type species, the genus &lt;i&gt;Kunstidamaeus&lt;/i&gt; includes seven known European species: &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;tenuipes&lt;/i&gt; (Michael, 1885), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;tecticola&lt;/i&gt; (Michael, 1888), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;nivalis&lt;/i&gt; (Kulczynski, 1902), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;nidicola&lt;/i&gt; (Willmann, 1936), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;diversipilis&lt;/i&gt; (Willmann, 1951), &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;granulatus&lt;/i&gt; (Willmann, 1951), and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;longisetosus&lt;/i&gt; (Willmann, 1953).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">type species; redescription; neotype; taxonomy; ontogeny; chaetotaxy; troglophilous species</subject>
+          <subject_class locale="en_US">type species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ladislav</firstname>
+          <lastname>Miko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Mourek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2008-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the waspfish genus &lt;i&gt;Liocranium&lt;/i&gt; (Scorpaeniformes: Tetrarogidae), with restoration of &lt;i&gt;L. pleurostigma&lt;/i&gt; (Weber)</title>
+        <abstract locale="en_US">A taxonomic review of the waspfish genus &lt;i&gt;Liocranium&lt;/i&gt; Ogilby, 1903 (Tetrarogidae) resulted in two species of the genus being regarded as valid: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;praepositum&lt;/i&gt; Ogilby, 1903 (type species of the genus) and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pleurostigma&lt;/i&gt; (Weber, 1913) (previously regarded as a junior synonym of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;praepositum).&lt;/i&gt; &lt;i&gt;Liocranium&lt;/i&gt; &lt;i&gt;pleurostigma&lt;/i&gt; is distinguished from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;praepositum&lt;/i&gt; by colour pattern, gill-raker counts and several morphometrics, including upper-jaw length, depth of the posterior margin of the maxilla, length of the longest anal-fin soft ray, and position of the spine tip of the depressed pelvic fin. Lectotypes of the two nominal species are herein designated. &lt;i&gt;Liocranium&lt;/i&gt; &lt;i&gt;pleurostigma&lt;/i&gt; is distributed off the northwestern coast of Australia (east to Torres Strait), New Guinea and the Philippines, whereas &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;praepositum&lt;/i&gt; occurs off the northeastern coast of Australia (north to about Hinchinbrook Island). Comments on the biogeography of &lt;i&gt;Liocranium&lt;/i&gt; are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Waspfish; Tetrarogidae; &lt;i&gt;Liocranium&lt;/i&gt;; &lt;i&gt;Liocranium&lt;/i&gt; &lt;i&gt;pleurostigma&lt;/i&gt;; &lt;i&gt;Liocranium&lt;/i&gt; &lt;i&gt;praepositum&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Waspfish</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeffrey</firstname>
+          <middlename>W.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-40</pages>
+        <date_published>2008-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Confocal microscopy applied to water mite taxonomy with the description of a new genus of Axonopsinae (Acari, Parasitengona, Hydrachnidia) from Central America</title>
+        <abstract locale="en_US">&lt;i&gt;Vagabundia&lt;/i&gt; &lt;i&gt;sci&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; of the subfamily Axonopsinae is proposed and described. Confocal Laser Scanning Microscopy, not previously applied to water mite taxonomy, allowed the acquisition and posterior processing of clean optical slices. The new species is compared to other mites that have been described as ‘Axonopsella-like’. &lt;i&gt;Vagabundia&lt;/i&gt; &lt;i&gt;sci&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is named after the Science Citation Index, a sociological tool that, as explained in the text, has done more harm than good to the population of taxonomists.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Vagabundia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; interstitial water mite; confocal optical slicing</subject>
+          <subject_class locale="en_US">&lt;i&gt;Vagabundia&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; interstitial water mite</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Valdecasas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-48</pages>
+        <date_published>2008-07-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new frog species (Strabomantidae: &lt;i&gt;Pristimantis&lt;/i&gt;) from the High Andes of Southeastern Ecuador</title>
+        <abstract locale="en_US">We describe &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;gagliardoi,&lt;/i&gt; a new medium sized (SVL 19.06–33.64 mm) &lt;i&gt;Pristimantis&lt;/i&gt; species from the Andean forests of southeastern Ecuador. This species is referred to the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;unistrigatus&lt;/i&gt; group. It differs from other members in the &lt;i&gt;unistrigatus&lt;/i&gt; group by the presence of large conical tubercles on the eyelid and heel, small conical ulnar and tarsal tubercles, suprascapular dermal ridges, and bronze iris.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anura; Strabomantidae; Ecuador; Mazar Reserve; new species; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;gagliardoi&lt;/i&gt;; &lt;i&gt;Pristimantis&lt;/i&gt; &lt;i&gt;unistrigatus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Anura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <middlename>R.</middlename>
+          <lastname>Bustamante</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseph</firstname>
+          <middlename>R.</middlename>
+          <lastname>Mendelson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2008-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and two new species of &lt;i&gt;Saurodocus&lt;/i&gt; (Crustacea: Amphipoda: Melitidae) from Lizard Island, Queensland, Australia</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Saurodocus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and two new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;hobbit&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minimarenus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from Lizard Island, Queensland, Australia, collected from coarse coral sands with coral rubble in shallow water. &lt;i&gt;Saurodocus&lt;/i&gt; belongs to the &lt;i&gt;Ceradocus&lt;/i&gt; group — a group of genera within the Melitidae allied to &lt;i&gt;Ceradocus&lt;/i&gt; Costa, 1853, united by a widened triangular inner plate on maxilla 2 and setation on the inner margin of the inner plates of both maxillae. The combination of an un-produced anteroventral corner on coxa 1, lack of posteroventral lobe on coxa 4 and a deeply cleft telson separates &lt;i&gt;Saurodocus&lt;/i&gt; from all other genera in the &lt;i&gt;Ceradocus&lt;/i&gt; group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Melitidae; &lt;i&gt;Saurodocus&lt;/i&gt; &lt;i&gt;hobbit&lt;/i&gt;; &lt;i&gt;Saurodocus&lt;/i&gt; &lt;i&gt;minimarenus&lt;/i&gt;; new genus; new species; taxonomy</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michelle</firstname>
+          <middlename>N.</middlename>
+          <lastname>Yerman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Traudl</firstname>
+          <lastname>Krapp-Schickel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-66</pages>
+        <date_published>2008-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">"Frog Search": Synonymy of &lt;i&gt;Phrynobatrachus nigripes&lt;/i&gt; Pickersgill, 2007, plus other comments and corrections </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <lastname>Pickersgill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2008-07-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

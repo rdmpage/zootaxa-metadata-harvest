@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2376.1</id>
+    <title locale="en_US">26 Feb. 2010</title>
+    <volume>2376</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Contribution to the systematic rearrangement of the Palaearctic Peritelini. VI. A synthesis of the Spanish Peritelini (Coleoptera: Curculionidae: Entiminae)</title>
+        <abstract locale="en_US">A synthesis of the present knowledge of the Spanish Peritelini is presented. Two new genera are separated from &lt;i&gt;Peritelus&lt;/i&gt; &lt;i&gt;auctt.:&lt;/i&gt; &lt;i&gt;Euplister&lt;/i&gt; (type species: &lt;i&gt;Peritelus&lt;/i&gt; &lt;i&gt;susanae&lt;/i&gt; Seidlitz, 1866) and &lt;i&gt;Pseudoperitelus&lt;/i&gt; (type species: &lt;i&gt;Peritelus&lt;/i&gt; &lt;i&gt;globulicollis&lt;/i&gt; Seidlitz, 1862). Thirteen new species are described from Spain: &lt;i&gt;Meira&lt;/i&gt; &lt;i&gt;gerundana,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;medae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tarraconensis,&lt;/i&gt; &lt;i&gt;Pseudomeira&lt;/i&gt; &lt;i&gt;baetica,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;eremita,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lepida,&lt;/i&gt; &lt;i&gt;Euplister&lt;/i&gt; &lt;i&gt;andalusicus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;frater,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;megalophthalmus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mimus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;moroderi,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;trifolii,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;velazquezi.&lt;/i&gt; New combinations are: &lt;i&gt;Euplister&lt;/i&gt; &lt;i&gt;susanae&lt;/i&gt; (Seidlitz, 1866), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hybridus&lt;/i&gt; (Seidlitz, 1871), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;setabensis&lt;/i&gt; (Hustache, 1921), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;magnicollis&lt;/i&gt; (Desbrochers, 1896), &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;coniceps&lt;/i&gt; (Desbrochers, 1897), &lt;i&gt;Pseudoperitelus&lt;/i&gt; &lt;i&gt;senex&lt;/i&gt; (Boheman, 1834), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;globulicollis&lt;/i&gt; (Seidlitz, 1871), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;espanoli&lt;/i&gt; (Roudier, 1958) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lopezi&lt;/i&gt; (Hoffmann, 1961), and one new synonym is proposed: &lt;i&gt;Simo&lt;/i&gt; &lt;i&gt;cremieri&lt;/i&gt; (Boheman, 1842) = &lt;i&gt;Peritelus&lt;/i&gt; &lt;i&gt;maroccanus&lt;/i&gt; Pic, 1920, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; One genus, &lt;i&gt;Meira&lt;/i&gt; Jacquelin du Val, 1853, and two species, &lt;i&gt;Gymnomorphus&lt;/i&gt; &lt;i&gt;nigrans&lt;/i&gt; (Fairmaire, 1862) and &lt;i&gt;Meirella&lt;/i&gt; &lt;i&gt;florentina&lt;/i&gt; (Stierlin, 1884), are newly recorded from Spain, bringing the total number of Peritelini known from Iberia to ten genera and thirtysix species. Diagnoses, detailed descriptions and data on distribution and ecology, mostly unpublished, are provided for each species, and a catalogue, identification keys, distribution maps and figures of key anatomical characters are added for the Iberian species. &lt;i&gt;Caenopsis&lt;/i&gt; Bach, 1854 is excluded from Peritelini and confirmed as belonging in Trachyphloeini.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Curculionidae; Entiminae; Peritelini; Spain; new genera; new species; weevils</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Helio</firstname>
+          <lastname>Pierotti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cesare</firstname>
+          <lastname>Bellò</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Alonso-Zarazaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-96</pages>
+        <date_published>2010-02-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

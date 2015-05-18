@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1974.1</id>
+    <title locale="en_US">9 Jan. 2009</title>
+    <volume>1974</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-01-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Scirtes &lt;/i&gt;(Coleoptera: Scirtidae: Scirtinae) of Micronesia</title>
+        <abstract locale="en_US">Six new species of &lt;i&gt;Scirtes,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;micronesianus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tinianensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;palauensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;gressitti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;babeldaobensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;albotaeniatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; are described from Micronesia. These species are assigned to five species groups.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Scirtes&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Micronesia&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Scirtes&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Micronesia&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Yoshitomi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2009-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Jurassic carnivorous cockroach (Insecta, Blattaria, Raphidiomimidae) from the Inner Mongolia in China</title>
+        <abstract locale="en_US">&lt;i&gt;Fortiblatta&lt;/i&gt; &lt;i&gt;cuspicolor&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a carnivorous cockroach of the family Raphidiomimidae Vishniakova, 1973, is described from the Middle Jurassic Jiulongshan Formation of Daohugou, Eastern Inner Mongolia, China. Fifty complete specimens reveal morphological details, including prognathous head and distinct, protected eyes. Internalized outer valves of female ovipositor suggest that their reproduction was advanced, with eggs laid in conglomerates. The wide abdominal segments, long palps, and wing characteristics support their origin from representatives of the family Caloblattinidae. The asymmetrical long wings (different shape, length, width and number of veins in a pair of wings of the same individual) and low coefficient of venation variability of forewing (7.70) indicate the new species was active but not excellent flyer.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">fossil cockroach; Blattaria (=Blattodea); Raphidiomimidae; predation; variability; new genus; new species; Daohugou; Middle Jurassic; Jiulongshan Formation</subject>
+          <subject_class locale="en_US">fossil cockroach</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jun-Hui</firstname>
+          <lastname>Liang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>VrAnsku</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chungkun</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-30</pages>
+        <date_published>2009-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A key to species of the genus &lt;i&gt;Hylaeus&lt;/i&gt; (Hymenoptera: Colletidae) from mainland of China with descriptions of new species and new records</title>
+        <abstract locale="en_US">The subgenus &lt;i&gt;Hylaeus&lt;/i&gt; (Dentigera) Popov is recorded from East Asia for the first time based on a new species, &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;luna&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Hubei, China, herein described. &lt;i&gt;Hylaeus&lt;/i&gt; &lt;i&gt;concinnus&lt;/i&gt; Cockerell, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;dolichocephalus&lt;/i&gt; Morawitz, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; Bridwell and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;paulus&lt;/i&gt; Bridwell are recorded from China, as well as &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;dorni&lt;/i&gt; Dathe whose female is described. A key to all species of &lt;i&gt;Hylaeus&lt;/i&gt; known to occur in mainland China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Colletidae; &lt;i&gt;Hylaeus&lt;/i&gt;; &lt;i&gt;Dentigera&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Colletidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xuan</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Huanli</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-50</pages>
+        <date_published>2009-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of &lt;i&gt;Margattea&lt;/i&gt; Shelford, 1911 from China (Dictyoptera: Blattaria: Blattellidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Margattea&lt;/i&gt; &lt;i&gt;spinifera&lt;/i&gt; Bey-Bienko, 1958, and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;limbata&lt;/i&gt; Bey-Bienko, 1954, are redescribed and illustrated, and four new species: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;producta,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;multipunctata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mckittrickae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;concava,&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Blattaria, Blattellidae), are described from Xizang Zang Autonomous Region, Guangxi Zhuang Autonomous Region, Yunnan and Hainan province, China. A key to the males is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Blattaria; Blattellidae; Pseudophyllodrominae; &lt;i&gt;Margattea&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Blattaria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zong-Qing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Li</firstname>
+          <lastname>Che</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jin-Jun</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-63</pages>
+        <date_published>2009-01-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic study on &lt;i&gt;Scotiophyes&lt;/i&gt; Diakonoff from China, with the description of a new species (Lepidoptera: Tortricidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Scotiophyes&lt;/i&gt; &lt;i&gt;subtriangulata,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described and illustrated. The new species is similar to &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;faeculosa&lt;/i&gt; from which it can distinguished by the following: basal blotch and median fascia distinct; uncus subtriangular, narrowed gradually apically; sacculus smooth ventrally near base; arms of gnathos thick and short; and aedeagus slender. Photographs of adults and genitalia of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;faeculosa&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;subtriangulata&lt;/i&gt; are provided. A key to the known species of the genus is included. The type specimen of the new species is deposited in the Insect Collection of Nankai University, China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Tortricidae; &lt;i&gt;Scotiophyes&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xin-Pu</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-01-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

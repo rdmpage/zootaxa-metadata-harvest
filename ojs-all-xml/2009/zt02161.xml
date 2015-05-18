@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2161.1</id>
+    <title locale="en_US">17 Jul. 2009</title>
+    <volume>2161</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New mite species of the genus &lt;i&gt;Cunaxa &lt;/i&gt;(Acari: Prostigmata: Cunaxidae) from the Crimea, Ukraine</title>
+        <abstract locale="en_US">Six new mite species of the genus &lt;i&gt;Cunaxa&lt;/i&gt; Von Heyden, 1826 from the Crimean Peninsula (Ukraine), viz. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gordeevae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;guanotoleranta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;papuliphora&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;violaphila&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;yaylensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described and figured. A key to species of &lt;i&gt;Cunaxa&lt;/i&gt; from the Crimea, all having a single dorsal propodosomal plate in the female, is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cunaxidae; new species; Crimea; taxonomy; key</subject>
+          <subject_class locale="en_US">Cunaxidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <middlename>L.</middlename>
+          <lastname>Sergeyenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2009-07-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the &lt;i&gt;Cyrtodactylus irregularis &lt;/i&gt;complex (Squamata: Gekkonidae) from southern Vietnam</title>
+        <abstract locale="en_US">We describe a new species of the genus &lt;i&gt;Cyrtodactylus&lt;/i&gt; from southern Vietnam, based on voucher specimens collected from Dong Nai and Ba Ria – Vung Tau provinces. &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;cattienensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is distinguished from the remaining Indochinese bent-toed geckos by a combination of the following characters: size small, with a maximum SVL of 69 mm; neck band present, extending to the posterior margin of the eye; trunk, tail and limbs bearing irregularly shaped bands: 4–6 light bands on trunk and 4–12 white bands on tail; 16–22 irregular longitudinal rows of dorsal tubercles; 28–42 longitudinal rows of ventrals at midbody; lateral folds weakly developed or absent, without enlarged tubercles; tail not depressed, not enlarged at base, scales arranged in whorls; males with 6–8 precloacal pores in angular continuous series; a patch of enlarged precloacal scales present in both sexes; 3–8 slightly enlarged femoral scales on each hind limb in both sexes; femoral pores absent; precloacal groove absent; subcaudal scales small, not transversely enlarged.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;cattienensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Dong Nai and Ba Ria – Vung Tau Provinces; southern Vietnam; natural history; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;cattienensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Dong Nai and Ba Ria – Vung Tau Provinces</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Geissler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roman</firstname>
+          <lastname>Nazarov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikolai</firstname>
+          <middlename>L.</middlename>
+          <lastname>Orlov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Böhme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Trung</firstname>
+          <middlename>My</middlename>
+          <lastname>Phung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Truong</firstname>
+          <middlename>Quang</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Ziegler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-32</pages>
+        <date_published>2009-07-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Eumeces &lt;/i&gt;(Sauria: Scincidae) from Pakistan</title>
+        <abstract locale="en_US">A new species of skink, &lt;i&gt;Eumeces&lt;/i&gt; &lt;i&gt;cholistanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from a very remote area of Cholistan Desert, Bahawalpur district, Punjab Province of Pakistan. The major diagnostic characters of the new species include the presence of 7 dark brown stripes separated by alternating light narrower stripes, extending on to the tail, two azygous postmentals, 54–57 rows of paired, widened middorsal scales, 64–67 scales from postmental to anal scale, absence of postnasal and intercalary scales between subdigital lamellae. This skink, being striped, is sharply different from all of its congeners in several morphological characteristics, a reason that warrants its recognition as a separate species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scincidae; &lt;i&gt;Eumeces&lt;/i&gt; &lt;i&gt;cholistanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; new species; taxonomy; Cholistan; Pakistan</subject>
+          <subject_class locale="en_US">Scincidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rafaqat</firstname>
+          <lastname>Masroor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-46</pages>
+        <date_published>2009-07-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Noblella &lt;/i&gt;(Amphibia: Strabomantidae) from the western slopes of the Andes of Ecuador</title>
+        <abstract locale="en_US">We describe a new species of &lt;i&gt;Noblella&lt;/i&gt; from the western slope of the Ecuadorian Andes. The new taxon is distinguished from all other species in the genus by lacking dorsal marks (i.e., interobital bar, scapular and sacral chevrons) and by having a bright orange venter. The new species and &lt;i&gt;Noblella&lt;/i&gt; &lt;i&gt;heyeri&lt;/i&gt; are the only species of &lt;i&gt;Noblella&lt;/i&gt; reported in the Pacific Andean versant. We provide an osteological description of the new species and a key for the species in &lt;i&gt;Noblella.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andes; Ecuador; &lt;i&gt;Noblella&lt;/i&gt;; osteology; &lt;i&gt;Phyllonastes&lt;/i&gt;; Strabomantidae</subject>
+          <subject_class locale="en_US">Andes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Guayasamin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrea</firstname>
+          <lastname>Terán-Valdez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-59</pages>
+        <date_published>2009-07-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Circumvitellatrema momota &lt;/i&gt;n. gen., n. sp. (Digenea: Cyclocoelidae: Cyclocoelinae) from a captive-hatched blue-crowned motmot, &lt;i&gt;Momotus momota &lt;/i&gt;(Momotidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Circumvitellatrema&lt;/i&gt; &lt;i&gt;momota&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; was found in the air sacs of a captive-hatched blue-crowned motmot, &lt;i&gt;Momotus&lt;/i&gt; &lt;i&gt;momota&lt;/i&gt; (Momotidae), that was being maintained in quarantine at the Animal Health Center of the Philadelphia Zoo in Philadelphia, Pennsylvania, U.S.A. This bird apparently became infected at the Audubon Zoo, New Orleans, Louisiana, U.S.A. where it was maintained for several years prior to being sent to the Philadelphia Zoo. In the new genus, the ovary is intertesticular, forming a triangle with the testes and the genus is assigned to Cyclocoelinae. It can be distinguished from the other 3 genera currently assigned to this subfamily (Cyclocoelum, &lt;i&gt;Psophiatrema,&lt;/i&gt; and &lt;i&gt;Selfcoelum)&lt;/i&gt; by having the vitelline fields confluent at both the anterior and posterior ends of the body forming a continuous loop. This new species was likely introduced into the Audubon Zoo through the importation of species of exotic birds.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Audubon Zoo; blue-crowned motmot; &lt;i&gt;Circumvitellatrema&lt;/i&gt; &lt;i&gt;momota&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Coraciiformes; Cyclocoelidae; Cyclocoelinae; Digenea; Louisiana; Momotidae; &lt;i&gt;Momotus&lt;/i&gt; &lt;i&gt;momota&lt;/i&gt;; New Orleans; Pennsylvania; Philadelphia Zoo; Trematoda; U.S.A.</subject>
+          <subject_class locale="en_US">Audubon Zoo</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Norman</firstname>
+          <middlename>O.</middlename>
+          <lastname>Dronen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ellis</firstname>
+          <middlename>C.</middlename>
+          <lastname>Greiner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donna</firstname>
+          <middlename>M.</middlename>
+          <lastname>Ialeggio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>J.</middlename>
+          <lastname>Nolan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2009-07-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

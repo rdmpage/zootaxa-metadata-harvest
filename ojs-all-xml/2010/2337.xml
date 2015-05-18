@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2337.1</id>
+    <title locale="en_US">18 Jan. 2010</title>
+    <volume>2337</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-01-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Allobates &lt;/i&gt;(Anura: Aromobatidae) from Paleovárzea Forest in Amazonas, Brazil</title>
+        <abstract locale="en_US">Numerous species of aromobatid frogs in the genus &lt;i&gt;Allobates&lt;/i&gt; from the Amazonian region of Brazil have been described in recent years. Herein, we describe a new &lt;i&gt;Allobates&lt;/i&gt; from the state of Amazonas. This species is allopatric with three other species of &lt;i&gt;Allobates,&lt;/i&gt; two of which we have described previously. The new species inhabits streams in small remnants of paleovárzea forest along margins of a small river, the Paraná do Castanho. Paleovárzeas are ancient floodplains of the Amazon River and its tributaries. Paleovárzea forests are transitional between terra firme forests, which are never flooded, and várzeas, which are seasonally flooded. Males and females of the new species are similar in size; males average 20.1 mm, females 19.8. Tadpoles have a distinct dark brown bar extending from the snout through the eye to midbody. The call of this species consists of quickly repeated groups of single notes and is unique compared to known species of &lt;i&gt;Allobates.&lt;/i&gt; Courtship includes cephalic amplexus. Eggs are deposited on the forest floor in cup-shaped leaves in the litter. Unlike other species of &lt;i&gt;Allobates,&lt;/i&gt; egg capsules in this species are opaque instead of clear.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Allobates&lt;/i&gt;; &lt;i&gt;Colostethus&lt;/i&gt;; Dendrobatidae; Aromobatidae; Amazon forest; Paleovárzea forest</subject>
+          <subject_class locale="en_US">&lt;i&gt;Allobates&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Albertina</firstname>
+          <middlename>P.</middlename>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janalee</firstname>
+          <middlename>P</middlename>
+          <lastname>Caldwell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Graziela</firstname>
+          <lastname>Biavati</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anelise</firstname>
+          <lastname>Montanarin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2010-01-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New taxa in the Eriophyidae (Acari, Prostigmata) from forest trees in southern Brazil</title>
+        <abstract locale="en_US">Two new genera and five new species of Eriophyidae from forest trees in southern Brazil are described, namely: &lt;i&gt;Juxtacolopodacus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;i&gt;Juxtacolopodacus&lt;/i&gt; &lt;i&gt;phalakros&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;Mollinedia&lt;/i&gt; &lt;i&gt;clavigera&lt;/i&gt; Tul. (Monimiaceae); &lt;i&gt;Procalacarus&lt;/i&gt; &lt;i&gt;perporosus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from &lt;i&gt;Randia&lt;/i&gt; &lt;i&gt;armata&lt;/i&gt; (Sw.) (Rubiaceae); &lt;i&gt;Scolotosus&lt;/i&gt; Flechtmann &amp; Keifer, &lt;b&gt;n.gen.,&lt;/b&gt; &lt;i&gt;Scolotosus&lt;/i&gt; &lt;i&gt;centrolobii&lt;/i&gt; Flechtmann &amp; Keifer, &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from &lt;i&gt;Centrolobium&lt;/i&gt; &lt;i&gt;robustum&lt;/i&gt; Mart. (Leguminosae); &lt;i&gt;Scolotosus&lt;/i&gt; &lt;i&gt;hartfordi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from &lt;i&gt;Centrolobium&lt;/i&gt; &lt;i&gt;tomentosum&lt;/i&gt; Guill. (Leguminosae), and &lt;i&gt;Metaculus&lt;/i&gt; &lt;i&gt;tanythrix&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from &lt;i&gt;Dicksonia&lt;/i&gt; &lt;i&gt;sellowiana&lt;/i&gt; Hook. (Dicksoniaceae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Eriophyidae; forest trees; taxonomy</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>H. W.</middlename>
+          <lastname>Flechtmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dalva</firstname>
+          <middlename>L.</middlename>
+          <lastname>De Queiroz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-30</pages>
+        <date_published>2010-01-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Type and non-type specimens of &lt;i&gt;Aegla &lt;/i&gt;(Decapoda: Anomura: Aeglidae) housed in the Museo de La Plata, Argentina</title>
+        <abstract locale="en_US">The present contribution deals with the type and non-type material of the species of &lt;i&gt;Aegla&lt;/i&gt; (Decapoda: Anomura: Aeglidae) deposited in the Invertebrate Collection of Museo de La Plata, Argentina. One hundred and thirty-four lots are included, of which 10 lots are type specimens. The material examined includes 11 of the 13 species known from Argentina. Among the studied lots, those examined by Ringuelet (1948, 1960) and by Bond-Buckup &amp; Buckup (1994) stand out. Also, several lots from different regions of Argentina were identified. Type specimens examined were compared with the original descriptions; photographs of the specimens are given in the present report. For each lot the following information is provided: georeferenced locality of collection, collector and collecting date, bibliographical references, category, number of collection according to the rules of the Museo de La Plata, label data (precise transcription), remarks and map of the locations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Catalogue; &lt;i&gt;Aegla&lt;/i&gt; spp.; Museo de La Plata Collection</subject>
+          <subject_class locale="en_US">Catalogue</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Inés</firstname>
+          <middlename>I.</middlename>
+          <lastname>César</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristina</firstname>
+          <lastname>Damborenea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-46</pages>
+        <date_published>2010-01-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Uca jocelynae &lt;/i&gt;sp. nov., a new species of fiddler crab (Crustacea: Brachyura: Ocypodidae) from the Western Pacific</title>
+        <abstract locale="en_US">A new species of fiddler crab, &lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;jocelynae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; belonging to the &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;vocans&lt;/i&gt; complex, is described from the islands in Western Pacific on the basis of morphological and molecular data. The new species was previously identified with &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;neocultrimana&lt;/i&gt; (Bott, 1973) (= &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;vocans&lt;/i&gt; &lt;i&gt;pacificensis&lt;/i&gt; Crane, 1975). The two species can be readily distinguished by characters of the male major chelae, carapace features, and the form of the vulvae. The molecular data of parts of the mitochondrial 16S rRNA and cytochrome oxidase I (COI) genes support that both are sister taxa but nevertheless distinct enough to be regarded as separate species. &lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;jocelynae&lt;/i&gt; is widely distributed from the islands in the Western Pacific, while &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;neocultrimana&lt;/i&gt; occurs in Fiji and eastwards.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;jocelynae&lt;/i&gt;; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;neocultrimana&lt;/i&gt;; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;vocans&lt;/i&gt; complex; Western Pacific islands; 16S rRNA; cytochrome oxidase I; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;jocelynae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hsi-Te</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-62</pages>
+        <date_published>2010-01-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Mud shrimp associated with burrows from the Oligocene Ashiya Group, northern Kyushu, Japan, with description of a new species of &lt;i&gt;Upogebia&lt;/i&gt; (Decapoda: Gebiidea)</title>
+        <abstract locale="en_US">&lt;i&gt;Upogebia&lt;/i&gt; &lt;i&gt;hibiki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Gebiidea: Upogebiidae) is described from the Oligocene of northern Kyushu, Japan. The new species closely resembles &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;mizunamiensis&lt;/i&gt; Karasawa 1989, but differs in having an arched ridge on the dorso-distal mesial surface of the palm of pereiopod 1. Additionally, the new species has a triangular rostrum and a narrow gastric region. The specimens are associated with fossil burrows assigned to the ichnogenus &lt;i&gt;Psilonichnus&lt;/i&gt; Fürsich, 1981. Therefore, &lt;i&gt;Psilonichnus&lt;/i&gt; described herein is thought to be formed by &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;hibiki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mud shrimp; &lt;i&gt;Upogebia&lt;/i&gt; &lt;i&gt;hibiki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Burrow morphology; &lt;i&gt;Psilonichnus&lt;/i&gt;; Paleoecology</subject>
+          <subject_class locale="en_US">Mud shrimp</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yusuke</firstname>
+          <lastname>Ando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroaki</firstname>
+          <lastname>Karasawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-01-18</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

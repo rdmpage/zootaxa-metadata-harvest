@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2769.1</id>
+    <title locale="en_US">21 Feb. 2011</title>
+    <volume>2769</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New tanaidomorph Tanaidacea (Crustacea: Peracarida) from submarine mud-volcanoes in the Gulf of Cadiz (North-east Atlantic)</title>
+        <abstract locale="en_US">Faunal collections from mud-volcano sites in the Gulf of Cadiz, at depths between 355 and 3061 m, have revealed a high diversity (and in some cases high density) of tanaidaceans. The present study reports on nine new tanaidomorph species from eight different genera from this material. These include representatives of genera known elsewhere from non-ventassociated deep-sea habitats, but notably only the second and third (respectively) representatives of two genera, &lt;i&gt;Coalecerotanais&lt;/i&gt; and &lt;i&gt;Cristatotanais,&lt;/i&gt; known previously from cold-seep-habitats in the Gulf of Mexico. The genus &lt;i&gt;Spinitanaopsis&lt;/i&gt; is synonymized with &lt;i&gt;Cristatotanais.&lt;/i&gt; The tanaidacean records to date from hydrothermal vents or cold seeps are collated as a context for the present material. The possibilities of habitat-endemism in tanaidacean taxa associated with reducing environments and their biogeography are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mud volcanoes; Gulf of Cadiz; deep-sea; &lt;i&gt;Araphura&lt;/i&gt;; &lt;i&gt;Coalecerotanais&lt;/i&gt;; &lt;i&gt;Cristatotanais&lt;/i&gt;; &lt;i&gt;Haplocope&lt;/i&gt;; &lt;i&gt;Mesotanais&lt;/i&gt;; &lt;i&gt;Pseudotanais&lt;/i&gt;; &lt;i&gt;Spinitanaopsis&lt;/i&gt;; &lt;i&gt;Torquella&lt;/i&gt;; &lt;i&gt;Typhlotanais&lt;/i&gt;</subject>
+          <subject_class locale="en_US">mud volcanoes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Magdalena</firstname>
+          <lastname>Błażewicz-Paszkowycz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <middlename>N</middlename>
+          <lastname>Bamber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marina</firstname>
+          <middlename>R</middlename>
+          <lastname>Cunha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-53</pages>
+        <date_published>2011-02-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A synopsis of the subterranean asellids of Maryland, U.S.A., with description of &lt;i&gt;Caecidotea alleghenyensis&lt;/i&gt;, new species (Crustacea: Isopoda: Asellota)</title>
+        <abstract locale="en_US">Nine species of asellid isopods are reported from groundwater habitats in Maryland. Three of these species are habitually found in springs: &lt;i&gt;Lirceus&lt;/i&gt; &lt;i&gt;brachyurus,&lt;/i&gt; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;kenki,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;alleghenyensis,&lt;/i&gt; n. sp. The latter, described herein, is a member of the &lt;i&gt;hobbsi&lt;/i&gt; group known only from the Allegheny Mountains in Garrett Co. Six species are obligate inhabitants of subterranean waters and are found primarily in Appalachian caves, although some have broad ranges that span noncavernous areas. The obligate subterranean species are &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;pricei,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;franzi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;holsingeri,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mausi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vandeli&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nordeni.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Asellidae; &lt;i&gt;Lirceus&lt;/i&gt; &lt;i&gt;brachyurus&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;kenki&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;franzi&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;holsingeri&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;mausi&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;vandeli&lt;/i&gt;; &lt;i&gt;Caecidotea&lt;/i&gt; &lt;i&gt;nordeni&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Asellidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julian</firstname>
+          <middlename>J.</middlename>
+          <lastname>Lewis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>E.</middlename>
+          <lastname>Bowman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>J.</middlename>
+          <lastname>Feller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-64</pages>
+        <date_published>2011-02-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Tucetona &lt;/i&gt;(Bivalvia: Glycymerididae) from Mexico</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <lastname>Valentich-Scott</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elizabeth</firstname>
+          <middlename>A. R.</middlename>
+          <lastname>Garfinkle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-02-21</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

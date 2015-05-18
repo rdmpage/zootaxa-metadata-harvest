@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1711.1</id>
+    <title locale="en_US">22 Feb. 2008</title>
+    <volume>1711</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-02-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Mexican and Central American species of &lt;i&gt;Mortoniella&lt;/i&gt; (Trichoptera: Glossosomatidae: Protoptilinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Mexitrichia&lt;/i&gt; Mosely, 1937 (27 described species) is synonymized with &lt;i&gt;Mortoniella&lt;/i&gt; Ulmer, 1906 (22 described species) and a revised generic description is provided for the genus. These species are placed in 4 recognized species groups. Mexican and Central American species of &lt;i&gt;Mortoniella&lt;/i&gt; are revised to include 6 species formerly placed in &lt;i&gt;Mexitrichia&lt;/i&gt; and 22 new species from Costa Rica, Panama, and Mexico. New species combinations for these regional species include: &lt;i&gt;Mortoniella&lt;/i&gt; &lt;i&gt;florica&lt;/i&gt; (Flint, 1974), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leroda&lt;/i&gt; (Mosely, 1937), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;meralda&lt;/i&gt; (Mosely, 1954), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pacuara&lt;/i&gt; (Flint, 1974), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rancura&lt;/i&gt; (Mosely, 1954), and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rovira&lt;/i&gt; (Flint, 1974). New species of &lt;i&gt;Mortoniella&lt;/i&gt; described here (followed by the country of provenance) include &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;akantha&lt;/i&gt; (Costa Rica) &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;anakantha&lt;/i&gt; (Costa Rica) &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;aviceps&lt;/i&gt; (Costa Rica, Panama) &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;brachyrhachos&lt;/i&gt; (Mexico), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;buenoi&lt;/i&gt; (Mexico), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;carinula&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;caudicula&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;falcicula&lt;/i&gt; (Mexico), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; (Mexico) &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;munozi&lt;/i&gt; (Costa Rica, Panama), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;opinionis&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;panamensis&lt;/i&gt; (Panama), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;papillata&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pectinella&lt;/i&gt; (Panama), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;propinqua&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;redunca&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rodmani&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sicula&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stilula&lt;/i&gt; (Costa Rica), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tapanti&lt;/i&gt; (Costa Rica, Panama), &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;taurina&lt;/i&gt; (Costa Rica, Panama), and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;umbonata&lt;/i&gt; (Panama). Males of all known Mexican and Central American species are illustrated or reillustrated and a key is provided for males of the species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trichoptera; Glossosomatidae; Protoptilinae; &lt;i&gt;Mexitrichia&lt;/i&gt;; &lt;i&gt;Mortoniella&lt;/i&gt;; new synonymy; new species; new combination; caddisfly; revision; neotropics; Central America</subject>
+          <subject_class locale="en_US">Trichoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <middlename>J.</middlename>
+          <lastname>Blahnik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ralph</firstname>
+          <middlename>W.</middlename>
+          <lastname>Holzenthal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-72</pages>
+        <date_published>2008-02-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

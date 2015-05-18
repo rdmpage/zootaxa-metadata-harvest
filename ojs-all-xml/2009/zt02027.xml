@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2027.1</id>
+    <title locale="en_US">4 Mar. 2009</title>
+    <volume>2027</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New data on soft corals (Cnidaria: Octocorallia: Alcyonacea) from Nha Trang Bay, South China Sea</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Eleutherobia&lt;/i&gt; is described, enlarging the &lt;i&gt;Eleutherobia&lt;/i&gt; species group that lack sclerites in the anthocodiae. The Octocorallia of the South-China Sea are poorly known, and the data that is presented provides a new record of the genus for Vietnam. The original description of &lt;i&gt;Sinularia&lt;/i&gt; &lt;i&gt;manaarensis&lt;/i&gt; Verseveldt, 1980 was based on a single incomplete colony fragment collected in 1902 near Ceylon (Verseveldt, 1980, Pl. 16, Fig. 3). Here we present data on both living and preserved &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;manaarensis&lt;/i&gt; colonies that were found in Nha Trang Bay (South China Sea) in 2006. The club-shaped surface sclerites with wide flattened handles are characteristic of the species. Images of live colonies are given along with a biogeographical discussion. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;arctium&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is also described. It has a remarkable assortment of sclerites, which includes both &lt;i&gt;leptoclados-&lt;/i&gt; like clubs and warty clubs with a distinct central wart.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eleutherobia&lt;/i&gt; &lt;i&gt;nezdoliyi&lt;/i&gt;; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;grayi&lt;/i&gt;; &lt;i&gt;Sinularia&lt;/i&gt; &lt;i&gt;arctium&lt;/i&gt;; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;manaarensis&lt;/i&gt;; new records; Nha Trang Bay; South China Sea; Cnidaria; Octocorallia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eleutherobia&lt;/i&gt; &lt;i&gt;nezdoliyi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tatyana</firstname>
+          <middlename>N.</middlename>
+          <lastname>Dautova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oleg</firstname>
+          <middlename>V.</middlename>
+          <lastname>Savinkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2009-03-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular phylogenetics and taxonomy of leaf-toed geckos (Phyllodactylidae: &lt;i&gt;Phyllodactylus&lt;/i&gt;) inhabiting the peninsula of Baja California</title>
+        <abstract locale="en_US">Herein we assess the phylogenetic relationships and taxonomy of geckos of the genus &lt;i&gt;Phyllodactylus&lt;/i&gt; inhabiting the peninsula of Baja California, Mexico using five mitochondrial and two nuclear genes. Phylogenetic analysis using maximum parsimony (MP) and Bayesian inference (BI) recovered three distinct peninsular clades with high statistical support. Sequence divergence estimates between peninsular taxa approached 13%. Two of the species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;unctus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;xanti&lt;/i&gt; are Cape Region endemics, whereas &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nocticolus&lt;/i&gt; is widespread throughout much of the peninsula and extreme southern California. Monophyly of the peninsular taxa was strongly supported. In the MP analysis, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;unctus&lt;/i&gt; rooted at the base of the peninsular clade, resolving &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;xanti&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nocticolus&lt;/i&gt; as sister taxa. Conversely, BI placed &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nocticolus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;unctus&lt;/i&gt; as sister taxa. These data provide further evidence for a trans-peninsular seaway near the Isthmus of La Paz, severing the Cape Region from the rest of the peninsula. The analysis also supports the validity of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nocticolus&lt;/i&gt; as a distinct species and suggests a single invasion to the peninsula from mainland Mexico, presumably during tectonic activity during the Miocene.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeography; cryptic species; Gekkota; phylogeny; speciation</subject>
+          <subject_class locale="en_US">biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <lastname>Blair</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fausto</firstname>
+          <middlename>R. Méndez</middlename>
+          <lastname>De La Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andre</firstname>
+          <lastname>Ngo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johan</firstname>
+          <lastname>Lindell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amy</firstname>
+          <lastname>Lathrop</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>W.</middlename>
+          <lastname>Murphy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-42</pages>
+        <date_published>2009-03-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Crotonia &lt;/i&gt;(Acari: Oribatida) from Tasmania Rainforest, and the habitat preferences of Crotoniidae</title>
+        <abstract locale="en_US">Two new species of oribatid mite belonging to the genus &lt;i&gt;Crotonia&lt;/i&gt; are described from tree trunks and their associated bryophytes in callidendrous rainforest, dominated by &lt;i&gt;Nothofagus&lt;/i&gt; &lt;i&gt;cunninghami,&lt;/i&gt; in Northeastern Tasmanian: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tasmaniana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pyemaireneri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Holonothrus&lt;/i&gt; &lt;i&gt;ryszardi&lt;/i&gt; Łochyńska, 2008 is designated the junior subjective synonym of &lt;i&gt;Crotonia&lt;/i&gt; &lt;i&gt;ovata&lt;/i&gt; Olszanowski, 2000, and a supplementary description of the latter species is provided. The apparent arboreal habitat preferences of crotoniid mites are considered. In Tasmanian rainforest, the frequency of occurrence of these mites in moss on bark is higher than in terrestrial habitats, but not significantly so. High rainfall, a closed canopy, a low mean annual temperature and a consequent extensive corticolous and terricolous cover of bryophytes presents a continuum for these mites between ground and above-ground habitats.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mite; taxonomy; Oribatida; Crotoniidae; morphology; systematics; Gondwana; relict; Tasmania; conservation; corticolous; habitat preference; arboreal</subject>
+          <subject_class locale="en_US">Mite</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>J.</middlename>
+          <lastname>Colloff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2009-03-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of &lt;i&gt;Ophthalmolycus andersoni &lt;/i&gt;sp. nov. (Pisces, Zoarcidae) from the Antarctic Ocean</title>
+        <abstract locale="en_US">A new species of zoarcid fish is described on the basis of three specimens collected from the Antarctic Peninsula, Antarctic Ocean. The new species can be distinguished from its congeners by its body shape and pigment pattern, and by the following combination of characters: 6 branchiostegal rays; pectoral-fin origin well below midbody, pectoral base extending ventrally to abdomen; lateral line double with ventral and medio-lateral branches; oral valve not reaching anterior edge of vomer; gill slit extending ventrally well below end of pectoral fin base; vertebrae asymmetrical 22+7074=92-96; dorsal fin origin associated with vertebrae 4 or 5 with no supraneurals; pectoral fin rays 16 or 17; 2 postorbital pores (positions 1 &amp; 4) and 2 well developed pyloric caeca. The relationships of the new species with its congeners are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Antarctic Peninsula; eelpout; new species; taxonomy</subject>
+          <subject_class locale="en_US">Antarctic Peninsula</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jesús</firstname>
+          <lastname>Matallanas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2009-03-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hurleytrematoides justinei &lt;/i&gt;n. sp. (Digenea: Monorchiidae) from Valentinnis sharpnose puffer, &lt;i&gt;Canthigaster valentini &lt;/i&gt;(Bleeker) (Tetraodontiformes: Tetraodontidae) from Heron Island, Queensland, Australia</title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Hurleytrematoides&lt;/i&gt; &lt;i&gt;justinei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from Valentinni’s sharpnose puffer, &lt;i&gt;Canthigaster&lt;/i&gt; &lt;i&gt;valentini,&lt;/i&gt; from Heron Island, Queensland, Australia. It is characterized within the genus by a sinistral genital pore opening anterior to the posterior margin of the ventral sucker, a spiny ejaculatory duct ranging from 34 to 61 µm in length, and vitelline follicles extending from about the anterior margin of the testis to the posterior margin of the ventral sucker. Monorchiids are rare in the tetraodontids. This is the third species reported from the family and the first from the genus &lt;i&gt;Canthigaster.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Monorchiidae; Digenea; &lt;i&gt;Hurleytrematoides;&lt;/i&gt; &lt;i&gt;Hurleytrematoides&lt;/i&gt; &lt;i&gt;justinei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Canthigaster&lt;/i&gt; &lt;i&gt;valentine&lt;/i&gt;; Tetraodontidae: Valentinni’s sharpnose puffer; Australia; Heron Island; Great Barrier Reef</subject>
+          <subject_class locale="en_US">Monorchiidae; Digenea; &lt;i&gt;Hurleytrematoides;&lt;/i&gt; &lt;i&gt;Hurleytrematoides&lt;/i&gt; &lt;i&gt;justinei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Canthigaster&lt;/i&gt; &lt;i&gt;valentine&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marissa</firstname>
+          <middlename>K. A.</middlename>
+          <lastname>Mcnamara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cribb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2009-03-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2859.1</id>
+    <title locale="en_US">29 Apr. 2011</title>
+    <volume>2859</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An updated checklist of the scale insects (Hemiptera: Coccoidea) of the Margarodidae &lt;i&gt;sensu lato &lt;/i&gt;group </title>
+        <abstract locale="en_US">This article is an update (closing-date December 2010) of the Margarodidae &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato&lt;/i&gt; catalogue (Ben-Dov, 2005a). The 457 species and subspecies placed among 73 genera of scale insects are classified in 11 families. The geographical distribution and host plants are given for each species and subspecies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Callipappidae; Coelostomidiidae; Kuwaniidae; Marchalinidae; Margarodidae; Matsucoccidae; Monophlebidae; Pityococcidae; Steingeliidae; Stigmacoccidae; Xylococcidae; systematics</subject>
+          <subject_class locale="en_US">Callipappidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Y.</firstname>
+          <lastname>Ben-Dov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-62</pages>
+        <date_published>2011-04-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

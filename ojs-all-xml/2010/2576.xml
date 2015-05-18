@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2576.1</id>
+    <title locale="en_US">25 Aug. 2010</title>
+    <volume>2576</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-08-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision and redescription of the rock gecko &lt;i&gt;Cnemaspis siamensis &lt;/i&gt;(Taylor 1925) (Squamata: Gekkonidae) from Peninsular Thailand with descriptions of seven new species</title>
+        <abstract locale="en_US">A taxonomic revision of &lt;i&gt;Cnemaspis&lt;/i&gt; &lt;i&gt;siamensis&lt;/i&gt; (Smith 1925) revealed it to be a complex composed of four species: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;siamensis&lt;/i&gt; (Smith 1925) which occurs on Ko Tao Island, Surat Thani Province and on the peninsula ranges from Khao Mod, Surat Thani Province in the south, northward east of the Tenasserim Mountains to Kaeng Krachan National Park, Phetchaburi Province; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;chanardi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ranging from Tai Rom Yen National Park, Surat Thani Province in the north, southward through the western foothills of the Nakhon Si Thammarat and Sankalakhiri Mountains to Phuphaphet Cave, Satun Province and westward to Khlong Thom District, Krabi Province; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vandeventeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ranging from Kapur District, Ranong Province southward to at least Khlong Had Sompen, District, Ranong Province west of the Tenasserim and Phuket Mountains and possibly all the way to Phuket Island; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kamolnorranathi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; restricted to the northwestern section of the Itshmus of Kra, ranging from Tham Khao Sonk, Thachana District, Surat Thani Province southward to Tai Rom Yen National Park, Surat Thani Province. These species are easily separated from one another on the basis of their unique combination of having or lacking precloacal pores, dark gular markings, a series of lightly colored bars on the flanks, and a lightly colored, prescapular crescent as well as other aspects of squamation. Four additional new species from western and southern Thailand are also described: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;huaseesom&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Sai Yok National Park, Kanchanaburi Province; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;punctatonuchalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Thap Sakae District, Prachuap Khiri Khan Province; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;narathiwatensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ranging from Waeng District, Narathiwat Province south to Bang Lang, Yala Province; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;niyomwanae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Thum Khao Ting, Palean District, Trang Province, Thailand. These species are differentiated from each other and all other &lt;i&gt;Cnemaspis&lt;/i&gt; on the basis of their unique combinations of color pattern and squamation characters. This brings the total number of species of &lt;i&gt;Cnemaspis&lt;/i&gt; in Thailand from five to 12 and continues to illustrate that the unrealized diversity in this group is a function of unfocused collecting efforts coupled with poor taxonomy.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata; Gekkonidae; &lt;i&gt;Cnemaspis&lt;/i&gt;; Thailand; new species</subject>
+          <subject_class locale="en_US">Squamata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Montri</firstname>
+          <lastname>Sumontha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Cota</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Erry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olivier</firstname>
+          <middlename>S. G.</middlename>
+          <lastname>Pauwels</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kirati</firstname>
+          <lastname>Kunya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-55</pages>
+        <date_published>2010-08-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new endemic rock Gecko &lt;i&gt;Cnemaspis &lt;/i&gt;Strauch 1887 (Squamata: Gekkonidae) from Gunung Jerai, Kedah, northwestern Peninsular Malaysia</title>
+        <abstract locale="en_US">A new species of endemic &lt;i&gt;Cnemaspis&lt;/i&gt; is described from Gunung Jerai (also known as Kedah Peak) in the northwestern state of Kedah, Peninsular Malaysia. &lt;i&gt;Cnemaspis&lt;/i&gt; &lt;i&gt;harimau&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from all other Sundaland congeners except &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;affinis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;biocellata,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kumpoli,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mcguirei,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pseudomcguirei,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;shahruli&lt;/i&gt; in having a black shoulder patch with a white or yellow ocellus anteriorly located. It is most similar in appearance to its sister species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;affinis,&lt;/i&gt; but differs by having a smaller maximum SVL of 40.7 mm vs. 50.8 mm; three vs. five postmentals; caudal tubercles encircling vs. not encircling tail; lateral caudal tubercles on anterior 25% of tail highly spinose and protruding vs. slightly spinose; and an overall higher degree of scale keeling (most prominent on the tail). The discovery of another montane endemic once again highlights the understudied nature of Peninsular Malaysia’s extensive mountain ranges.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cnemaspis&lt;/i&gt; &lt;i&gt;harimau&lt;/i&gt;; Gunung Jerai; herpetofauna; Kedah Peak; new species; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cnemaspis&lt;/i&gt; &lt;i&gt;harimau&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chan</firstname>
+          <middlename>Kin</middlename>
+          <lastname>Onn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shahrul</firstname>
+          <lastname>Anuar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evan</firstname>
+          <lastname>Quah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohd</firstname>
+          <middlename>Abdul</middlename>
+          <lastname>Muin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anna</firstname>
+          <middlename>E.</middlename>
+          <lastname>Savage</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norhayati</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana-Caroline</firstname>
+          <lastname>Remigio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lee</firstname>
+          <middlename>F.</middlename>
+          <lastname>Greer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2010-08-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

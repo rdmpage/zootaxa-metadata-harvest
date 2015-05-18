@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2449.1</id>
+    <title locale="en_US">7 May. 2010</title>
+    <volume>2449</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic guide to the Echinodermata of the South Atlantic Bight, USA: 1. Sea cucumbers (Echinodermata: Holothuroidea)</title>
+        <abstract locale="en_US">A summary account is given of the 33 holothurian species known from the South Atlantic Bight, from Cape Hatteras, North Carolina, to Cape Canaveral, Florida, from the shore to a depth of 200 meters. Four of the six known orders of holothurians are represented in the study area. Each species is diagnosed and illustrated; citations of informative literature and brief discussions of distribution and general biology are included. Also included are dichotomous keys to aid in identification to the species level. A new genus is erected to accommodate &lt;i&gt;Pseudocolochirus&lt;/i&gt; &lt;i&gt;mysticus&lt;/i&gt; Deichmann, 1930. &lt;i&gt;Ocnus&lt;/i&gt; &lt;i&gt;pygmaeus&lt;/i&gt; (Théel, 1886b) and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;surinamensis&lt;/i&gt; (Semper, 1868) are referred to the genus &lt;i&gt;Aslia&lt;/i&gt; Rowe, 1970.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Holothurians; sea cucumbers; South Atlantic Bight; SERTC</subject>
+          <subject_class locale="en_US">Holothurians</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>L.</middlename>
+          <lastname>Pawson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Doris</firstname>
+          <middlename>J.</middlename>
+          <lastname>Pawson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rachael</firstname>
+          <middlename>A.</middlename>
+          <lastname>King</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2010-05-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Western Atlantic sea lily in the family Septocrinidae (Echinodermata: Crinoidea: Bourgueticrinida)</title>
+        <abstract locale="en_US">&lt;i&gt;Rouxicrinus&lt;/i&gt; &lt;i&gt;vestitus&lt;/i&gt; new genus, new species, collected during submersible dives at depths of 421–887 m near Barbados, Colombia and the Bahamas is described, and notes on ecology are included. It is referred to the family Septocrinidae Mironov, 2000, which now comprises three genera, &lt;i&gt;Zeuctocrinus&lt;/i&gt; A.M. Clark, 1973, &lt;i&gt;Septocrinus&lt;/i&gt; Mironov, 2000, and &lt;i&gt;Rouxicrinus&lt;/i&gt; new genus. This new genus differs significantly from both &lt;i&gt;Septocrinus&lt;/i&gt; and &lt;i&gt;Zeuctocrinus&lt;/i&gt; in having numerous low columnals in the proxistele, which tapers toward the crown, first pinnule arising more proximally, thorns on brachials and pinnulars, and a thick covering of soft tissue on arms and pinnules.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Rouxicrinus&lt;/i&gt; &lt;i&gt;vestitus&lt;/i&gt;; Caribbean Sea; taxonomy; Crinoidea; Bourgueticrinida; Septocrinidae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Rouxicrinus&lt;/i&gt; &lt;i&gt;vestitus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandr</firstname>
+          <middlename>N.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>L.</middlename>
+          <lastname>Pawson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-68</pages>
+        <date_published>2010-05-07</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

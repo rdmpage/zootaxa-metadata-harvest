@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1950.1</id>
+    <title locale="en_US">5 Dec. 2008</title>
+    <volume>1950</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-12-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Actual usage of biological nomenclature and its implications for data integrators; a national, regional and global perspective</title>
+        <abstract locale="en_US">Biological names play an important role in resource identification and as anchors for all sorts of associated information. This is borne out in ever-expanding online resources but the ways in which names are stored and presented give rise to challenges and pitfalls that can lead to missed or misinterpreted information. These resources must serve a variety of users and keep abreast of changes in nomenclature and systematics. Observations on the use of biological names are presented and some solutions to the challenges are offered.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biodiversity; Digital data bases; Nomenclators</subject>
+          <subject_class locale="en_US">Biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Charles</firstname>
+          <lastname>Hussey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yde</firstname>
+          <lastname>De Jong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Remsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>5-8</pages>
+        <date_published>2008-12-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Linnean foundations of zoological and botanical nomenclature</title>
+        <abstract locale="en_US">In contrast to primary taxonomic research, nomenclature is a tool to be used in information retrieval and with the aim of ensuring world-wide understanding. Radical changes to its guiding principles would be counterproductive as they would produce disorder in a system of internationally accepted conventions that have developed and matured over decades. Classifications are ordering systems. They are even more utilitarian in function and should not be constantly adapted to potentially ephemeral phylogenies. In principle, the Linnaean foundations of nomenclature and classification survive. Attempts to introduce fundamental changes or even alternatives were proposed a century too late to get enforced; they therefore failed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Classification; History of systematics; Linnaean hierarchy; Nomenclature</subject>
+          <subject_class locale="en_US">Classification</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Otto</firstname>
+          <lastname>Kraus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>9-20</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Zoological vs. botanical nomenclature: a forgotten BioCode experiment from the times of the Strickland Code</title>
+        <abstract locale="en_US">A code intended to apply to both zoological and botanical nomenclature was drafted in 1842–43 by a commission appointed by the fourth Congress of Italian Scientists on request of the zoologist Carlo Luciano Bonaparte, as a reaction to the recently published Strickland Code (1842). Large excerpts from the latter document and an English translation of documents related to the Italian initiative are presented in appendices.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bonaparte (Carlo Luciano); Congresses of Italian scientists; History of nomenclature; Italian zoology</subject>
+          <subject_class locale="en_US">Bonaparte (Carlo Luciano)</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alessandro</firstname>
+          <lastname>Minelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-38</pages>
+        <date_published>2008-12-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">ZooBank: Developing a nomenclatural tool for unifying 250 years of biological information</title>
+        <abstract locale="en_US">Nomenclature represents the backbone upon which virtually all biological information is organized. However, the practice of zoological nomenclature has changed relatively little since its start in 1758. As modern technology changes the paradigm under which modern scientists exchange information, there is increasing need to capitalize on these same technologies to fortify nomenclature. ZooBank has been proposed as the official registry of names and nomenclatural acts, in zoology, as well as associated published works and their authors, and type specimens. Having a coordinated registry of zoological names, integrated with the existing Code of Zoological Nomenclature, will allow increased efficiency of communication among biologists, and enhanced stability of names. Such a registry would encompass two distinct realms, each with their own set of challenges. Retrospective registration involves the monumental task of aggregating and validating two and a half centuries of existing names, whereas prospective registration must be tightly integrated with the future paradigm in which scientific names are created and managed under new models of publication. The prototype of ZooBank has been hosted at Bishop Museum during its initial development phase. Following the lead of standard-setting bodies in biodiversity informatics, Life Science Identifiers (LSIDs) have been selected for use as the globally unique identifiers for ZooBank registration entries. The first ZooBank LSIDs were issued on January 1 st , 2008, and included five new fish species described in a work published that same day, as well as all 4,819 names established in the 10 th Edition of Linnaeus’ &lt;i&gt;Systema&lt;/i&gt; &lt;i&gt;Naturae.&lt;/i&gt; Three alternate scenarios for implementing mandatory registration in ZooBank have been articulated, each incorporating different degrees of coordination between published works and registration events. A robust discussion involving a broad spectrum of practicing zoological taxonomists is required over the next several years to define the specific implementation aspects of ZooBank.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Linnaeus; Prospective registration; Registration of names and acts; Retrospective registration; &lt;i&gt;Systema&lt;/i&gt; &lt;i&gt;Naturae&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Linnaeus</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Pyle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ellinor</firstname>
+          <lastname>Michel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2008-12-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic hypotheses, taxa and nomina in zoology</title>
+        <abstract locale="en_US">Taxonomic paradigms have changed several times during the history of taxonomy, yet a single nomenclatural system, socalled Linnaean, has remained in force all along. It is theory-free regarding taxonomy as it relies on ostensional allocation of nomina to taxa, rather than on intensional definitions of nomina (e.g., “phylogenetic definitions”). Nomina are not descriptions, definitions or theories but simple labels designating taxa. Both for theoretical and practical reasons, this system should be maintained for the allocation and validity of nomina under a cladistic taxonomic paradigm. Whereas taxa can be cladistically defined by &lt;i&gt;apognoses&lt;/i&gt; or &lt;i&gt;cladognoses,&lt;/i&gt; nomina should remain attached to taxa through onomatophores, combined in some cases with a Principle of Coordination. Under such a system, the allocation of nomina to taxa is automatic, unambiguous and universal, and nomenclature does not infringe upon taxonomic freedom. However, to avoid misunderstandings and to solve some current problems, the current &lt;i&gt;Code&lt;/i&gt; of zoological nomenclature should be improved in several respects. The distinction should be made clear between &lt;i&gt;taxonomic&lt;/i&gt; &lt;i&gt;categories,&lt;/i&gt; which have biological definitions, and &lt;i&gt;nomenclatural&lt;/i&gt; &lt;i&gt;ranks,&lt;/i&gt; which do not, as they give only a position in a nomenclatural hierarchy: if used consistently under a cladistic paradigm, they simply allow to express hypotheses about successive branchings and sistertaxa relationships. Taxa referred to a given rank in different groups cannot therefore be considered equivalent by any biological criterion. The nomenclatural rules should cover the whole taxonomic hierarchy, which is currently not the case in zoology. The recent strong increase in the number of higher taxa which results from cladistic analyses may quickly lead to chaos and problems in communication if the nomina of these taxa continue to be based on personal tastes and opinions. There is an urgent need for the zoological &lt;i&gt;Code&lt;/i&gt; to cover these nomina with automatic and stringent rules leaving no place to subjective interpretation. Just like for those currently covered by the &lt;i&gt;Code,&lt;/i&gt; the status of these nomina should be established in their first publication (nomenclatural &lt;i&gt;founder&lt;/i&gt; &lt;i&gt;effect).&lt;/i&gt; The &lt;i&gt;Code&lt;/i&gt; should be protected against alternative nomenclatural systems by rejecting as unavailable all nomina and nomenclatural acts published without respecting the basic Linnaean system of nomenclatural hierarchy of ranks.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Allocation of nomina to taxa; Apognoses; Cladistic hypotheses; Cladognoses; &lt;i&gt;Code&lt;/i&gt;; Definitions of taxa; Diagnoses; Equivalence between taxa; Hypotheses; Linnaean nomenclatural hierarchy; Monosemy; Nomenclatural founder effect; Nomenclatural parsimony; Nomenclatural ranks; Nomenclature; Nomina; Onomatophores; Polysemy; Principle of Coordination; Redundancy; Taxa; Taxonomic categories; Taxonomy</subject>
+          <subject_class locale="en_US">Allocation of nomina to taxa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-86</pages>
+        <date_published>2008-12-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Anatomical nomenclature: homology, standardization and datasets</title>
+        <abstract locale="en_US">Strictly homology-based character names have the benefit of a consistent, evolutionary basis but must overcome practical problems in terms of the function that names serve as tools for communication. Character names should be fixed at the level of primary (rather than secondary) homology in order to maintain nomenclatural stability between competing phylogenies and to allow characters to potentially re-optimize with the addition of data. Inconsistent rules determine the priority of names for anatomical structures, in marked contrast to the stability and clarity provided by Codes for taxonomic nomenclature. Standardized anatomical nomenclature is amenable to a web-based, ontology-driven framework. Imagery and associated metadata linked to phylogenetic datasets facilitate character documentation, nomenclatural stability, and repeatability without requiring a formal process of typification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Primary homology; Priority; Secondary homology; Standardized nomenclature; Typification</subject>
+          <subject_class locale="en_US">Primary homology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gregory</firstname>
+          <middlename>D.</middlename>
+          <lastname>Edgecombe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>87-95</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological nomenclature, between patterns and processes: segments and segmentation as a paradigmatic case</title>
+        <abstract locale="en_US">The words we use for describing biological systems and their transformations through development and evolution can recurrently perform as ‘conceptual traps’, i.e. as representations that limit the possibilities of improving our understanding of the very processes they are called to describe. The main focus of this contribution is on the paradigmatic case of segmentation. Limits and drawbacks of the concept of ‘segment’ are critically discussed. Its value as a descriptive unit does not entitle it as a sensible unit for other uses, as for instance investigating the evolution of the developmental process of segmentation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arthropods; Development; Evo-devo; Evolution; Parasegments; Re-segmentation; Segmental mismatch</subject>
+          <subject_class locale="en_US">Arthropods</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giuseppe</firstname>
+          <lastname>Fusco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>96-102</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Plant structure ontology: How should we label plant structures with doubtful or mixed identities? </title>
+        <abstract locale="en_US">This paper discusses problems with labelling plant structures in the context of attempts to create a unified Plant Structure Ontology. Special attention is given to structures with mixed, or doubtful identities that are difficult or even impossible to label with a single term. In various vascular plants (and some groups of animals) the structural categories for the description of forms are less distinct than is often supposed. Thus, there are morphological misfits that do not fit exactly into one or the other category and to which it is difficult, or even impossible, to apply a categorical name. After presenting three case studies of intermediate organs and organs whose identity is in doubt, we review five approaches to categorizing plant organs, and evaluate the potential of each to serve as a general reference system for gene annotations. The five approaches are (1) standardized vocabularies, (2) labels based on developmental genetics, (3) continuum morphology, (4) process morphology, (5) character cladograms. While all of these approaches have important domains of applicability, we conclude that process morphology is the one most suited to gene annotation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Character cladogram; Continuum; Evo-devo; Flower; Flowering plants; Gene ontology; Intermediate organs; Leaf; Morphological nomenclature; Organ identity; Plant ontology; Plant structure ontology; Root</subject>
+          <subject_class locale="en_US">Character cladogram</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bruce</firstname>
+          <middlename>K.</middlename>
+          <lastname>Kirchoff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evelin</firstname>
+          <lastname>Pfeifer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rolf</firstname>
+          <lastname>Rutishauser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>103-122</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Learning from Linnaeus: towards developing the foundation for a general structure concept for morphology</title>
+        <abstract locale="en_US">Morphology has fundamental problems regarding aperspectival objectivity of its data—morphological terminology is often based on homology assumptions, lacks standardization, and has problems with comparability, reproducibility, and transparency. This is astonishing given that with his sexual system Linnaeus had already established a high degree of aperspectival objectivity in morphology that unfortunately has been lost subsequently. In the first part of the article a brief introduction to the history of classification is given that provides an answer to the question why morphology only initially has been gripped by the general trend towards objectification that started in the seventeenth century. The conceptual shortcomings of Aristotle’s concept of essences and its link to the definition of species and taxa in natural philosophy play an important part in this development. The only solution to the problem of essences was to link it to the evolutionary concept of homology, which explains why morphological terminology today often rests on homology assumptions. By taking a closer look at Linnaeus’ sexual system, basic principles for developing a general structure concept for morphology are discussed, which would provide the conceptual basis for establishing a high degree of aperspectival objectivity for morphological data. The article concludes with discussing the role of data bases and ontologies for developing a data standard in morphology. A brief introduction to the basic principles of Resource Description Framework (RDF) ontologies is given. A morphological ontology has high potential for establishing a general morphological structure concept if it is developed on grounds of the following principles: morphological terms and concepts must be defined taxon-independently, homology-free, preferably purely anatomically, and if functionally only by clearly indicating the trait’s active participation in a specific biological process.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aperspectival objectivity; Bio-ontology; Essentialism; Morphological data; Linguistic problem of morphology; RDF; Standardization</subject>
+          <subject_class locale="en_US">Aperspectival objectivity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lars</firstname>
+          <lastname>Vogt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>123-152</pages>
+        <date_published>2008-12-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Principles for a names-based cyberinfrastructure to serve all of biology</title>
+        <abstract locale="en_US">The rapidly growing amount of biological data on the internet and the increasing need for large-scale analyses mandate improvements to the management of taxon-centric information. This information, traditionally managed by taxonomists, is now transforming into a web-based infrastructure. The complexity and narrative quality of the biological sciences require an information management framework that is sensitive to the scale, richness, character, and heterogeneity of the discipline. Given that the names of organisms offer us a nearly universal system for indexing biological data objects, a names-based cyberinfrastructure has the capacity to index the totality of available biological information and to aggregate taxon-centric data over a broad scale. In order to serve its role, this infrastructure should incorporate thirteen principles that are proposed here.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biodiversity informatics; Taxonomic intelligence; Encyclopedia of Life; Data management; Taxonomy</subject>
+          <subject_class locale="en_US">Biodiversity informatics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>J.</middlename>
+          <lastname>Patterson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <lastname>Faulwetter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexey</firstname>
+          <lastname>Shipunov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>153-163</pages>
+        <date_published>2008-12-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

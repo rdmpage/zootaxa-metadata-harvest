@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2150.1</id>
+    <title locale="en_US">6 Jul. 2009</title>
+    <volume>2150</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics of &lt;i&gt;Sparganothoides &lt;/i&gt;Lambert and Powell, 1986 (Lepidoptera: Tortricidae: Sparganothini)</title>
+        <abstract locale="en_US">The New World genus &lt;i&gt;Sparganothoides&lt;/i&gt; Lambert and Powell, 1986 is reviewed and revised. The genus ranges from the mid-Atlantic and southern United States through Central America to Venezuela. Greatest species richness is documented from the middle elevations of central and southern Mexico south through Costa Rica. Thirty-two species are treated, of which 23 are described as new: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;aciculana&lt;/i&gt; (Juchitepec, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;amitana&lt;/i&gt; (Río Verde, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;arcuatana&lt;/i&gt; (Mendoza, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;audentiana&lt;/i&gt; (Gómez Farias, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;broccusana&lt;/i&gt; (Potrerillos, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;calthograptana&lt;/i&gt; (Jocala, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;canities&lt;/i&gt; (Tepalcates, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;canorisana&lt;/i&gt; (Coatepec, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;capitiornata&lt;/i&gt; (Volcán Santa María, Guatemala), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;carycrosana&lt;/i&gt; (Potrerillos, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;coloratana&lt;/i&gt; (Sierra Alta Tarahumara, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cornutana&lt;/i&gt; (San Cristóbal de Las Casas, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;laderana&lt;/i&gt; (Iguala, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;licrosana&lt;/i&gt; (Potrerillos, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ocrisana&lt;/i&gt; (Monteverde, Costa Rica), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;plemmelana&lt;/i&gt; (Baleu, Guatemala), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;polymitariana&lt;/i&gt; (Río Jaba, Costa Rica), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;probolosana&lt;/i&gt; (El Salto, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;prolesana&lt;/i&gt; (Monteverde, Costa Rica), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;silaceana&lt;/i&gt; (Villa Mills, Costa Rica), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;torusana&lt;/i&gt; (Río Metlec, Mexico), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;umbosana&lt;/i&gt; (El Palmito, Mexico), and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;xenopsana&lt;/i&gt; (Esperanza, Mexico). One new combination, &lt;i&gt;Sparganothoides&lt;/i&gt; &lt;i&gt;teratana&lt;/i&gt; (Zeller), is proposed; and two species, &lt;i&gt;Epagoge&lt;/i&gt; &lt;i&gt;schausiana&lt;/i&gt; Walsingham and &lt;i&gt;Epagoge&lt;/i&gt; &lt;i&gt;spadicea&lt;/i&gt; Walsingham, formerly included in &lt;i&gt;Sparganothoides,&lt;/i&gt; are excluded. A hypothesis of phylogenetic relationships among the species is provided, a classification based on species groups is proposed, and a key to the species based primarily on features of the male genitalia is presented. We recognize six monophyletic species groups: Hydeana Group (8 species); Teratana Group (6 species); Ocrisana Group (8 species); Lentiginosana Group (1 species); Morata Group (5 species); and Aciculana Group (4 species). Male and female genitalia are illustrated for each species where known; ten species are represented by males only. Biological and life history data are summarized based mainly on laboratory rearings from eggs produced by confined females of eight species, representing five of the six species groups.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Costa Rica; early stages; dead leaf-feeders; Lepidoptera; Mexico; morphology; Neotropics; new species; phylogeny</subject>
+          <subject_class locale="en_US">Costa Rica</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>J.</middlename>
+          <lastname>Kruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Powell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-78</pages>
+        <date_published>2009-07-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

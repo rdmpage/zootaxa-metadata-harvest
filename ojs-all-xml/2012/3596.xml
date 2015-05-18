@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3596.1</id>
+    <title locale="en_US">21 Dec. 2012</title>
+    <volume>3596</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">literature review of the Polychaeta of the Caribbean Sea</title>
+        <abstract locale="en_US">A list of all known polychaete species reported in the primary literature is presented for the Caribbean Sea. The most spe-cies-rich polychaete faunas are those of Cuba in the North Caribbean ecoregion and Trinidad-Tobago and Colombia in theSouth Caribbean ecoregion while the ecoregion with the greatest number of species is the Greater Antilles. While part ofthe explanation for these higher diversity areas may be due to collection effort, these areas may also be higher in speciesnumber as a result of being ecotones between the Gulf of Mexico in the north and the northern South American region tothe south. The most species-rich families are the Syllidae, Eunicidae, Nereididae, Polynoidae, Sabellidae, Serpulidae, Ter-ebellidae, and Spionidae. A brief discussion of the history of polychaete research identified many of the more importantworkers in the characterization of the polychaete fauna of the region. An analysis of the species-record accumulation curvefor polychaetes indicated that this fauna has not yet been fully characterized. One portion of the polychaete fauna identified as being especially poorly known is that from the deep-water areas of the Caribbean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeography; species richness; taxonomy</subject>
+          <subject_class locale="en_US">biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Harlan</firstname>
+          <middlename>K.</middlename>
+          <lastname>Dean</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-86</pages>
+        <date_published>2012-12-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

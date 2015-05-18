@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3019.1</id>
+    <title locale="en_US">9 Sep. 2011</title>
+    <volume>3019</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-09-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Descriptions of mature larvae and pupae of the genus &lt;i&gt;Larinus &lt;/i&gt;(Coleoptera: Curculionidae, Lixinae) </title>
+        <abstract locale="en_US">Descriptions of mature larvae of four species of the genus &lt;i&gt;Larinus&lt;/i&gt; Dejean, 1821 are given: larvae of &lt;i&gt;L.&lt;/i&gt; (Larinomesius) &lt;i&gt;obtusus&lt;/i&gt; Gyllenhal, 1835 and &lt;i&gt;L.&lt;/i&gt; (Phyllonomeus) &lt;i&gt;turbinatus&lt;/i&gt; Gyllenhal, 1836 are described for the first time, and larvae of &lt;i&gt;L.&lt;/i&gt; (s. str.) &lt;i&gt;pollinis&lt;/i&gt; (Laicharting, 1781) and &lt;i&gt;L.&lt;/i&gt; (Phyllonomeus) &lt;i&gt;sturnus&lt;/i&gt; (Schaller, 1783) are described for the first time in detail. A revised identification key for the mature larvae and a new key for pupae are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; morphology; larva; pupa; chaetotaxy; key; Coleoptera; Curculionidae; Lixinae; &lt;i&gt;Larinus&lt;/i&gt;; Palaearctic region</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rafał</firstname>
+          <lastname>Gosik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jiří</firstname>
+          <lastname>Skuhrovec</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2011-09-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Thalassodes &lt;/i&gt;and related taxa of emerald moths in China (Geometridae, Geometrinae) HONGXIANG HAN &amp; DAYONG XUE (P.R. China)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Preview</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Full</firstname>
+          <middlename>Article Open</middlename>
+          <lastname>Access</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-50</pages>
+        <date_published>2011-09-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The true &lt;i&gt;Dythemis multipunctata &lt;/i&gt;Kirby, 1894, from the West Indies and proposed new taxonomic status (Odonata: Anisoptera: Libellulidae) </title>
+        <abstract locale="en_US">The true &lt;i&gt;Dythemis&lt;/i&gt; &lt;i&gt;multipunctata&lt;/i&gt; Kirby is illustrated and the female is described for the first time based on specimens from the type locality, St. Vincent (Lesser Antilles). The taxonomic status of the species is discussed, and notes on behavior, habitat, and range distribution are provided. &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;multipunctata&lt;/i&gt; is to be considered a subspecies of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sterilis&lt;/i&gt; (Hagen), and mainland populations previously known as &lt;i&gt;multipunctata&lt;/i&gt; are now to be called &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt; Martin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Odonata; dragonfly; Libellulidae; &lt;i&gt;Dythemis&lt;/i&gt; &lt;i&gt;multipunctata&lt;/i&gt;; &lt;i&gt;Dythemis&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt;; &lt;i&gt;Dythemis&lt;/i&gt; &lt;i&gt;sterilis&lt;/i&gt;; description; taxonomy; West Indies</subject>
+          <subject_class locale="en_US">Odonata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>François</firstname>
+          <lastname>Meurgey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celine</firstname>
+          <lastname>Poiron</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2011-09-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new group of species of &lt;i&gt;Edessa &lt;/i&gt;Fabricius, 1803 (Hemiptera: Heteroptera: Pentatomidae) </title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Edessa&lt;/i&gt; (E. &lt;i&gt;metallica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;preclara&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;splendens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; are described which form a distinct species group. The &lt;b&gt;&lt;i&gt;metallica&lt;/i&gt;&lt;/b&gt; group is characterized by a metallic blue or green dorsal color. &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;preclara&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;splendens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; have an Andean distribution, having been collected above 1000 meters in Ecuador and Colombia respectively. &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;metallica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has been collected in Panama. Illustrations of the metasternal process and male and female external genitalia, photographs of the habitus, and descriptions are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Edessinae; &lt;b&gt;&lt;i&gt;metallica&lt;/i&gt;&lt;/b&gt; group; Neotropical region; new species; taxonomy</subject>
+          <subject_class locale="en_US">Edessinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Antônio Marin</middlename>
+          <lastname>Fernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lourival</firstname>
+          <middlename>Dias</middlename>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-09-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

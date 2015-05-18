@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2756.1</id>
+    <title locale="en_US">3 Feb. 2011</title>
+    <volume>2756</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-02-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Empria longicornis &lt;/i&gt;species group: taxonomic revision with notes on phylogeny and ecology (Hymenoptera, Tenthredinidae)</title>
+        <abstract locale="en_US">The &lt;i&gt;Empria&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; species group (Hymenoptera, Tenthredinidae) is revised. &lt;i&gt;Empria&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; Heidemaa &amp; Prous, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Japan. The lectotypes of &lt;i&gt;Empria&lt;/i&gt; &lt;i&gt;gussakovskii&lt;/i&gt; Dovnar-Zapolskij, 1929, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;konowi&lt;/i&gt; Dovnar-Zapolskij, 1929, &lt;i&gt;Poecilosoma&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; Thomson, 1871, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mongolica&lt;/i&gt; Konow, 1895, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tridens&lt;/i&gt; Konow, 1896 are designated. &lt;i&gt;Empria&lt;/i&gt; &lt;i&gt;konowi&lt;/i&gt; Dovnar-Zapolskij, 1929 (syn. &lt;b&gt;nov.)&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;gussakovskii&lt;/i&gt; Dovnar-Zapolskij, 1929 (syn. &lt;b&gt;nov.)&lt;/b&gt; are synonymized with &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tridens&lt;/i&gt; (Konow, 1896), and &lt;i&gt;Empria&lt;/i&gt; &lt;i&gt;waldstaetterense&lt;/i&gt; Liston, 1980 (syn. &lt;b&gt;nov.)&lt;/b&gt; with &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;alector&lt;/i&gt; Benson, 1938. &lt;i&gt;Empria&lt;/i&gt; &lt;i&gt;alpina&lt;/i&gt; Benson, 1938 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; Lindqvist, 1968, earlier misidentified as &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;gussakovskii,&lt;/i&gt; are treated as valid species. Nine species are confirmed to belong in the &lt;i&gt;longicornis-group:&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;alector,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;alpina,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;basalis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;japonica,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;loktini,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;longicornis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;minuta,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mongolica,&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tridens.&lt;/i&gt; Distributional data of the species and a key to the imagines are provided. &lt;i&gt;Ex&lt;/i&gt; &lt;i&gt;ovo&lt;/i&gt; rearings of the four most common and often misidentified species in the group (E. &lt;i&gt;alector,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;basalis,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;longicornis,&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tridens)&lt;/i&gt; were carried out to verify their host plants and male conspecifics. External morphology, morphometrics (geometric and traditional), and DNA sequences (mitochondrial COI and nuclear ITS1 and ITS2) are used to delimit species within the group and to assess their phylogenetic relationships. Mitochondrial DNA sequences analyzed are mostly regarded as unsuitable for species circumscription, DNA barcoding and for reconstructing species phylogeny within the group. In this regard, analyses of the ITS sequences yielded more concordant results.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sawflies; nomenclature; taxonomy; new species; new synonymy; lectotype; mitonuclear discordance; DNA barcoding; cytochrome c oxidase I; internal transcribed spacer</subject>
+          <subject_class locale="en_US">Sawflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marko</firstname>
+          <lastname>Prous</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikk</firstname>
+          <lastname>Heidemaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Villu</firstname>
+          <lastname>Soon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2011-02-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Oedematopus &lt;/i&gt;(Diptera, Dolichopodidae) with the description of a new genus and a key to the Neotropical genera of Hydrophorinae</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Oedematopus&lt;/i&gt; Van Duzee is revised. &lt;i&gt;Oedematopus&lt;/i&gt; &lt;i&gt;shannoni&lt;/i&gt; Van Duzee, 1930 and &lt;i&gt;Oedematopus&lt;/i&gt; &lt;i&gt;transversus&lt;/i&gt; Van Duzee, 1930 are synonymized with &lt;i&gt;Oedematopus&lt;/i&gt; &lt;i&gt;vidua&lt;/i&gt; (Becker, 1922), and &lt;i&gt;Oedematopus&lt;/i&gt; &lt;i&gt;moraviensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is newly described. The closely related new genus &lt;i&gt;Oedematopiella,&lt;/i&gt; including &lt;i&gt;Oedematopiella&lt;/i&gt; &lt;i&gt;sarae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Oedematopiella&lt;/i&gt; &lt;i&gt;nathaliae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is established. &lt;i&gt;Oedematopiella&lt;/i&gt; differs from &lt;i&gt;Oedematopus&lt;/i&gt; mainly by wing venation and the male postadomen. Keys to tribes and genera of Neotropical Hydrophorinae and to species of &lt;i&gt;Oedematopus&lt;/i&gt; and &lt;i&gt;Oedematopiella&lt;/i&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dolichopodidae; Hydrophorinae; &lt;i&gt;Oedematopus&lt;/i&gt;; &lt;i&gt;Oedematopiella&lt;/i&gt;; revision; new genus; new species; Neotropical Region</subject>
+          <subject_class locale="en_US">Dolichopodidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Naglis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-52</pages>
+        <date_published>2011-02-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of four hitherto unknown or little-known morphs of Siphini (Hemiptera, Aphidoidea: Chaitophorinae)</title>
+        <abstract locale="en_US">The oviparous female of &lt;i&gt;Atheroides&lt;/i&gt; &lt;i&gt;brevicornis&lt;/i&gt; is re-described, and alate viviparous females of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;persianus,&lt;/i&gt; &lt;i&gt;Sipha&lt;/i&gt; (Sipha) &lt;i&gt;littoralis&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; (Rungsia) &lt;i&gt;taurica&lt;/i&gt; are described and illustrated for the first time. Keys to oviparae of &lt;i&gt;Atheroides&lt;/i&gt; and to alate viviparae of &lt;i&gt;Atheroides&lt;/i&gt; and &lt;i&gt;Sipha&lt;/i&gt; are provided and notes on distributions and host plants are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Aphidoidea; Chaitophorinae; Siphini; taxonomy</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Karina</firstname>
+          <lastname>Wieczorek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2011-02-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Tomocerus &lt;/i&gt;(Collembola: Tomoceridae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yitong</firstname>
+          <lastname>Ma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2011-02-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the larva of &lt;i&gt;Archilestes exoletus &lt;/i&gt;(Hagen in Selys) (Odonata: Lestidae)</title>
+        <abstract locale="en_US">The larva of &lt;i&gt;Archilestes&lt;/i&gt; &lt;i&gt;exoletus&lt;/i&gt; (Hagen in Selys, 1862) is described and illustrated based on exuviae of reared larvae collected in Cascavel, State of Paraná, Brazil. The larva of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;exoletus&lt;/i&gt; can be distinguished from other species of &lt;i&gt;Archilestes&lt;/i&gt; of which the larva has been described by the absence of a lateral spine at the margin of the 4 th abdominal segment and having the cleft of the ligula closed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Zygoptera; immatures; morphology; systematics</subject>
+          <subject_class locale="en_US">Zygoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marina</firstname>
+          <middlename>Schmidt</middlename>
+          <lastname>Dalzochio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marciel</firstname>
+          <middlename>Elio</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2011-02-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

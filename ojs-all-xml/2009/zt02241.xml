@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2241.1</id>
+    <title locale="en_US">28 Sep. 2009</title>
+    <volume>2241</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-09-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New water mites species (Acariformes: Hydrachnidia) from the Far East of Russia</title>
+        <abstract locale="en_US">Illustrated descriptions of five water mite species, &lt;i&gt;Sperchon&lt;/i&gt; (Hispidosperchon) &lt;i&gt;nevelskoii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Teutonia&lt;/i&gt; (Subteutonia) &lt;i&gt;minor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Lebertia&lt;/i&gt; (Mixolebertia) &lt;i&gt;sokolowi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Mixobates&lt;/i&gt; &lt;i&gt;amurensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Feltria&lt;/i&gt; (Feltria) &lt;i&gt;orientalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from running and standing waters of the Far East of Russia are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; Sperchonidae; &lt;i&gt;Sperchon&lt;/i&gt;; Teutoniidae; &lt;i&gt;Teutonia&lt;/i&gt;; Lebertiidae; &lt;i&gt;Lebertia&lt;/i&gt;; Hygrobatidae; &lt;i&gt;Mixobates&lt;/i&gt;; Feltriidae; &lt;i&gt;Feltria&lt;/i&gt;; new species; Far East of Russia</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <middlename>V.</middlename>
+          <lastname>Tuzovskij</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ksenia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Semenchenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2009-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematics of the Common Kingsnake (&lt;i&gt;Lampropeltis getula&lt;/i&gt;; Serpentes: Colubridae) and the burden of heritage in taxonomy</title>
+        <abstract locale="en_US">We present a systematic revision of the &lt;i&gt;Lampropeltis&lt;/i&gt; &lt;i&gt;getula&lt;/i&gt; group, based on a recent range-wide phylogeographic analysis. We define our theoretical and operational concepts of species delimitation, and provide diagnoses based on mitochondrial DNA evidence, ecological niche modeling, morphology, and historical precedence. We find support for the recognition of five distinct species, which bear the name of the nominate subspecies found primarily within the range of each phylogeographic lineage: the Eastern lineage (Lampropeltis &lt;i&gt;getula,&lt;/i&gt; Eastern Kingsnake), the Mississippi lineage (L. &lt;i&gt;nigra,&lt;/i&gt; Black Kingsnake), the Central lineage (L. &lt;i&gt;holbrooki,&lt;/i&gt; Speckled Kingsnake), the Desert lineage (L. &lt;i&gt;splendida,&lt;/i&gt; Desert Kingsnake), and the Western lineage (L. &lt;i&gt;californiae,&lt;/i&gt; California Kingsnake). Interestingly, all of these taxa had originally been described as distinct species and recognized as such for up to 101 years (in the case of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;californiae)&lt;/i&gt; before being demoted to subspecies. We discuss the impact that increasingly detailed genetic information from phylogeographic analyses may have on traditional taxonomy.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">classification; &lt;i&gt;Lampropeltis&lt;/i&gt; &lt;i&gt;getula&lt;/i&gt;; North America; phylogeography; subspecies; taxonomy</subject>
+          <subject_class locale="en_US">classification</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>Alexander</middlename>
+          <lastname>Pyron</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <middlename>T.</middlename>
+          <lastname>Burbrink</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-32</pages>
+        <date_published>2009-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New familial assignments for three species of Neotropical harvestmen based on cladistic analysis (Arachnida: Opiliones: Laniatores)</title>
+        <abstract locale="en_US">We herein propose transfer of the two monotypic genera &lt;i&gt;Globibunus&lt;/i&gt; (type-species &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;rubrofemoratus&lt;/i&gt; Roewer, 1912) and &lt;i&gt;Rivetinus&lt;/i&gt; (type-species &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt; Roewer, 1919) to the subfamily Zamorinae (Agoristenidae) and &lt;i&gt;Ramonus&lt;/i&gt; (typespecies &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;conifrons&lt;/i&gt; Roewer, 1956), previous placed in Agoristenidae, to the Prostygninae (Cranaidae) based on several characteristics of male genitalia. These transfers are corroborated by a cladistic analysis, which also recovered the three currently recognized agoristenid subfamilies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematics; taxonomy; Neotropical fauna; Agoristenidae; Cranaidae</subject>
+          <subject_class locale="en_US">Systematics; taxonomy; Neotropical fauna; Agoristenidae; Cranaidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Pinto-Da-Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <middlename>Ryotaro</middlename>
+          <lastname>Hara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-46</pages>
+        <date_published>2009-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Dactylogyrids (Platyhelminthes: Monogenea) from the gills of the African carp, &lt;i&gt;Labeo coubie &lt;/i&gt;Rüppell (Cyprinidae), from Senegal, with descriptions of three new species of &lt;i&gt;Dactylogyrus &lt;/i&gt;and the redescription of &lt;i&gt;Dactylogyrus cyclocirrus&lt;/i&gt; Paperna, 1973</title>
+        <abstract locale="en_US">The results of a systematic survey of monogeneans collected from the gills of the African carp, &lt;i&gt;Labeo&lt;/i&gt; &lt;i&gt;coubie&lt;/i&gt; (Cyprinidae) from the Gambia River basins in the Niokolo-Koba National Park, Senegal, are presented. The following 11 previously described species belonging to &lt;i&gt;Dactylogyrus&lt;/i&gt; and &lt;i&gt;Dogielius&lt;/i&gt; (Dactylogyridae) are reported: &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;retroversus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1988, &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;titus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1988, &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;falcilocus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1988, &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;decaspirus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1988, &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;oligospirophallus&lt;/i&gt; Paperna, 1973, &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;jaculus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1988, &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;anthocolpos&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1989, &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;clavipenis&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1989, &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;harpagatus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1989, &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;complicitus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1989, and &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;flagellatus&lt;/i&gt; Guégan, Lambert &amp; Euzet, 1989. Three new species of &lt;i&gt;Dactylogyrus&lt;/i&gt; with 2 haptoral bars are described as follows: &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;yassensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;dembae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;leonis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The sclerotized structures of type and voucher specimens of &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;cyclocirrus&lt;/i&gt; Paperna, 1973, &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;omega&lt;/i&gt; Guégan &amp; Lambert, 1991, and &lt;i&gt;Dactylogyrus&lt;/i&gt; cf &lt;i&gt;labeous&lt;/i&gt; Paperna, 1979 are illustrated for comparative purposes. The type specimens indicate that &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cyclocirrus&lt;/i&gt; is based on specimens of two different species, among which the lectotype is designated from the syntypes collected from &lt;i&gt;Labeo&lt;/i&gt; &lt;i&gt;cylindricus.&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;cyclocirrus&lt;/i&gt; of Guégan &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (1988) and &lt;i&gt;D.&lt;/i&gt; cf &lt;i&gt;labeous&lt;/i&gt; Paperna, 1979 are considered senior subjective synonyms of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;yassensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;dembae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; respectively.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dactylogyridae; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;retroversus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;titus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;falcilocus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;decaspirus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;oligospirophallus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;omega;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;jaculus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; cf &lt;i&gt;labeous;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;cyclocirrus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;yassensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;dembae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;leonis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;anthocolpos;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;clavipenis;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;harpagatus;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;complicitus;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;flagellatus;&lt;/i&gt; Africa; Gambia River; Niokolo-Koba National Park; Senegal; African carp; Cyprinidae; &lt;i&gt;Labeo&lt;/i&gt; &lt;i&gt;coubie&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Dactylogyridae; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;retroversus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;titus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;falcilocus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;decaspirus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;oligospirophallus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;omega;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;jaculus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; cf &lt;i&gt;labeous;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;cyclocirrus;&lt;/i&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;yassensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;dembae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Dactylogyrus&lt;/i&gt; &lt;i&gt;leonis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.;&lt;/b&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;anthocolpos;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;clavipenis;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;harpagatus;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;complicitus;&lt;/i&gt; &lt;i&gt;Dogielius&lt;/i&gt; &lt;i&gt;flagellatus;&lt;/i&gt; Africa; Gambia River; Niokolo-Koba National Park; Senegal; African carp</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Naďa</firstname>
+          <lastname>Musilová</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eva</firstname>
+          <lastname>Řehulková</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Milan</firstname>
+          <lastname>Gelnar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-68</pages>
+        <date_published>2009-09-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

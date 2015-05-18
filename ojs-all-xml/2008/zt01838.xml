@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1838.1</id>
+    <title locale="en_US">30 Jul. 2008</title>
+    <volume>1838</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Nearctic species of the caddisfly genus &lt;i&gt;Wormaldia &lt;/i&gt;McLachlan (Trichoptera: Philopotamidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Wormaldia&lt;/i&gt; McLachlan 1865 (Trichoptera: Philopotamidae: Philopotaminae) is one of eight Philopotamidae genera found in the New World. In the Nearctic Region five genera are reported: &lt;i&gt;Chimarra,&lt;/i&gt; &lt;i&gt;Dolophilodes,&lt;/i&gt; &lt;i&gt;Fumonta,&lt;/i&gt; &lt;i&gt;Sisko,&lt;/i&gt; and &lt;i&gt;Wormaldia.&lt;/i&gt; This last genus is diverse and widely distributed from Canada to South America; for the Nearctic Region the following species are reported: &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;anilla&lt;/i&gt; (Ross, 1941), Canada, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;arizonensis&lt;/i&gt; (Ling, 1938), Mexico, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;gabriella&lt;/i&gt; (Banks, 1930), Canada, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;gesugta&lt;/i&gt; Schmid, 1968, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;hamata&lt;/i&gt; Denning, 1951, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;lacerna&lt;/i&gt; Denning, 1958, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;laona&lt;/i&gt; Denning, 1989, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;moesta&lt;/i&gt; (Banks, 1914), Canada, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;mohri&lt;/i&gt; (Ross, 1948), USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;occidea&lt;/i&gt; (Ross, 1938), Canada, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;oconee&lt;/i&gt; Morse, 1989, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;pachita&lt;/i&gt; Denning, 1956, USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;planae&lt;/i&gt; Ross and King, 1956, USA, &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;shawnee&lt;/i&gt; (Ross, 1938), USA; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;strota&lt;/i&gt; (Ross, 1938), USA; and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;thyria&lt;/i&gt; Denning, 1950, USA. Diagnoses, redescriptions, and illustrations of the forewing, the hind wing, and the male genitalia of the 16 species are provided. New state distribution records are given for &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;anilla,&lt;/i&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;gabriella,&lt;/i&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;occidea,&lt;/i&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;planae,&lt;/i&gt; and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;shawnee.&lt;/i&gt; Two undescribed Nearctic species are diagnosed, described, and illustrated: &lt;i&gt;Wormaldia&lt;/i&gt; &lt;i&gt;birneyi,&lt;/i&gt; new species, from USA (California) and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;clauseni,&lt;/i&gt; new species, from Canada (British Columbia). A key for identification of males of these 18 species of &lt;i&gt;Wormaldia&lt;/i&gt; is provided, as well as maps of their Nearctic distributions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">aquatic insects; new species; descriptions; identification key; distribution</subject>
+          <subject_class locale="en_US">aquatic insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>J.</middlename>
+          <lastname>Munoz-Quesada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ralph</firstname>
+          <middlename>W.</middlename>
+          <lastname>Holzenthal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-75</pages>
+        <date_published>2008-07-30</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

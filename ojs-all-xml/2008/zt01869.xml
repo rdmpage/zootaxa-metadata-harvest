@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1869.1</id>
+    <title locale="en_US">3 Sep. 2008</title>
+    <volume>1869</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Type specimens of bats (Chiroptera: Mammalia) in the collections of the Museum für Naturkunde, Berlin</title>
+        <abstract locale="en_US">The present catalogue documents all the chiropteran type specimens found in the collections of the Zoological Museum of the Humboldt-University, Museum für Naturkunde, Berlin (ZMB). Due to insufficient labeling at the time of receipt and description, many types have until now remained unrecognized, labelled with synonymous or incorrect names. From more than 13,000 specimens examined, we identified 540 types (86 holotypes, 249 syntypes, 22 lectotypes, 168 paratypes or paralectotypes, 5 of ambiguous status, 10 missing). These types belong to 218 described bat species, of which 116 are currently accepted (valid) species names. Lectotypes were designated for the original descriptions of &lt;i&gt;Chilonycteris&lt;/i&gt; &lt;i&gt;Boothi,&lt;/i&gt; &lt;i&gt;Chiroderma&lt;/i&gt; &lt;i&gt;villosum,&lt;/i&gt; &lt;i&gt;Molossus&lt;/i&gt; &lt;i&gt;ferox,&lt;/i&gt; &lt;i&gt;Phyllorhina&lt;/i&gt; &lt;i&gt;bicornis,&lt;/i&gt; &lt;i&gt;Phyllostomus&lt;/i&gt; &lt;i&gt;spiculatus,&lt;/i&gt; &lt;i&gt;Rhinolophus&lt;/i&gt; &lt;i&gt;capensis,&lt;/i&gt; &lt;i&gt;Vespertilio&lt;/i&gt; &lt;i&gt;Bocagii,&lt;/i&gt; &lt;i&gt;Vespertilio&lt;/i&gt; &lt;i&gt;Schreibersii&lt;/i&gt; and &lt;i&gt;Vesperus&lt;/i&gt; &lt;i&gt;cubanus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"></subject>
+          <subject_class locale="en_US"></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hendrik</firstname>
+          <lastname>Turni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Kock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-82</pages>
+        <date_published>2008-09-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

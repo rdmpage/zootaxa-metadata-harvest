@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1800.1</id>
+    <title locale="en_US">16 Jun. 2008</title>
+    <volume>1800</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-06-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A monographic catalogue on the systematics and phylogeny of the South American iguanian lizard family Liolaemidae (Squamata, Iguania)</title>
+        <abstract locale="en_US">Iguanian lizards comprise two of the most species-rich vertebrate genera on Earth (Anolis and &lt;i&gt;Liolaemus).&lt;/i&gt; Therefore, studies with the aim of understanding their diversity and phylogenetic relationships may have major significance for ecological and evolutionary research. However, difficulties are often associated with these diverse groups. For example, adaptive radiations may lead to the evolution of conspicuous patterns of intraspecific (interpopulational) variation in response to local environmental conditions, in the absence of real speciation events. This can lead to the taxonomic recognition of new species in the absence of true reproductive isolation. In addition, although diverse taxa are appropriate models to evaluate comparatively the effects of selection on ecological and life-history traits, it is often a major challenge to gather all the available information on the distribution of these characteristics across species. This necessitates the development of synthetic works. Here we present a monographic catalogue of the diversity and phylogenetic structure of the entire South American iguanian family Liolaemidae, based on previously published studies. We also provide a complete table to summarize the distribution by country, elevational range, diet and reproductive mode of each species for which this information is available. The Liolaemidae family currently consists of a total of 229 species and subspecies belonging to the genera &lt;i&gt;Ctenoblepharys,&lt;/i&gt; &lt;i&gt;Liolaemus&lt;/i&gt; and &lt;i&gt;Phymaturus.&lt;/i&gt; Remarkably, the genus &lt;i&gt;Liolaemus&lt;/i&gt; alone comprises 209 of these taxa, consisting of 200 species, five of them polytypic, and recognized on the basis of 14 subspecies. &lt;i&gt;Liolaemus&lt;/i&gt; species occur in Argentina, Bolivia, Brazil, Chile, Paraguay, Peru and Uruguay, representing the widest range of environments occupied by a single lizard genus. In contrast, the genus &lt;i&gt;Ctenoblepharys&lt;/i&gt; is monotypic (Ctenoblepharys &lt;i&gt;adspersa)&lt;/i&gt; and endemic to Peru, while 19 species of &lt;i&gt;Phymaturus&lt;/i&gt; are distributed in Argentina and Chile. In these lizards, plant consumption and viviparity are strikingly common. Among &lt;i&gt;Liolaemus,&lt;/i&gt; dietary information was available for 153 taxa. We found that 76 are arthropofagous, 71 omnivorous and six strictly herbivorous. Reproductive information was gathered for 136 species of this genus: 73 are viviparous and 63 oviparous. In &lt;i&gt;Phymaturus,&lt;/i&gt; all species are viviparous and dietary information for 17 species revealed that 16 are herbivorous and only one omnivorous. &lt;i&gt;Ctenoblepharys&lt;/i&gt; &lt;i&gt;adspersa&lt;/i&gt; is arthropofagous and oviparous. As previously supported both theoretically and empirically, plant consumption and viviparity are associated with high latitudes and elevations. Finally, we suggest that the recently proposed species &lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;dorsimaculatus&lt;/i&gt; Lobo &amp; Quinteros is conspecific to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;vociferator&lt;/i&gt; Pincheira-Donoso, from which the former taxon does not differ in morphology, coloration, patterns of sexual dimorphism or geographical distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Systematics; taxonomic inflation; phylogeny; diet; oviparity; viviparity; lizards; Liolaemidae; &lt;i&gt;Ctenoblepharys&lt;/i&gt;; &lt;i&gt;Liolaemus&lt;/i&gt;; &lt;i&gt;Phymaturus&lt;/i&gt;; South America</subject>
+          <subject_class locale="en_US">Systematics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <lastname>Pincheira-Donoso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Alejandro</middlename>
+          <lastname>Scolaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Piotr</firstname>
+          <lastname>Sura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-85</pages>
+        <date_published>2008-06-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

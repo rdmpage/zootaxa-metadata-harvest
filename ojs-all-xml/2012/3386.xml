@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3386.1</id>
+    <title locale="en_US">12 Jul. 2012</title>
+    <volume>3386</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the western Atlantic members of the &lt;i&gt;Alpheus armillatus &lt;/i&gt;H. Milne Edwards, 1837 species complex (Decapoda, Alpheidae), with description of seven new species</title>
+        <abstract locale="en_US">The western Atlantic members of the &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;armillatus&lt;/i&gt; H. Milne Edwards, 1837 species complex, which includes someof the largest and most common intertidal snapping shrimps, are revised based on extensive fresh material collected in theCaribbean Sea, Florida, Gulf of Mexico, Brazil, as well as some older museum material. &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;armillatus&lt;/i&gt; (sensu H.Milne Edwards 1837 and Coutière 1899) is redescribed based primarily on the Caribbean material and a neotype fromAruba is designated. &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;lancirostris&lt;/i&gt; Rankin, 1900 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;verrilli&lt;/i&gt; (Schmitt, 1924) are resurrected from the synonymyof &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;armillatus&lt;/i&gt; and rediagnosed. &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;angulosus&lt;/i&gt; McClure, 2002 is redefined and reported from several new localities;its presence in Brazil is confirmed. Seven species are described as new: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;amarillo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Caribbean, southern Florida,Gulf of Mexico), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;punctatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Caribbean, southern Florida), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tampensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (western Florida), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;carlae&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Caribbean, Florida, Brazil), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mathewsae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Caribbean, Florida), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brasileiro&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Brazil), and &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;nuno&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mexico). In addition, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;viridari&lt;/i&gt; (Armstrong, 1949), a close relative and presumed sister lineage of the &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;armillatus&lt;/i&gt; complex, is rediagnosed and its distinguishing features are highlighted. All species are abundantly illustrated,including variation of some morphological features and colour patterns. A character table and a key to the western Atlantic species of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;armillatus&lt;/i&gt; complex are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Alpheidae; &lt;i&gt;Alpheus&lt;/i&gt;; snapping shrimp; cryptic speciation; new species; West Atlantic; Caribbean; Florida; Brazil</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-109</pages>
+        <date_published>2012-07-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

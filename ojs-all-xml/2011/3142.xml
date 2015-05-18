@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3142.1</id>
+    <title locale="en_US">23 Dec. 2011</title>
+    <volume>3142</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision of the family Kalliapseudidae (Crustacea: Tanaidacea)</title>
+        <abstract locale="en_US">Kalliapseudidae is a family of shallow burrow–dwelling and fossorial marine and estuarine tanaidaceans. There are currently 39 known species in 12 genera and three subfamilies. They are distributed throughout the world’s tropical, subtropical, and temperate coastal waters and, with a few known exceptions, are restricted to depths of less than 200 m. The phylogeny of Kalliapseudidae is assessed to test the monophyly of currently accepted subfamilies and genera, based largely on examination of material loaned from various museums and institutions. Multiple exemplars from other apseudomorph families were also included in the ingroup to test the monophyly of the family. Parsimony analyses included 41 terminal taxa and 64 binary and multistate morphological characters. Analyses based on successive weighting resulted in 20 most parsimonious trees. The strict consensus tree of these most parsimonious trees supported Kalliapseudidae, Kalliapseudinae, &lt;i&gt;Tanapseudes,&lt;/i&gt; &lt;i&gt;Cristapseudes,&lt;/i&gt; and &lt;i&gt;Mesokalliapseudes&lt;/i&gt; as monophyletic. The genus &lt;i&gt;Kalliapseudes&lt;/i&gt; could not be resolved, but constraining it to be monophyletic resulted in a significantly worse tree. The subfamilies Hemikalliapseudinae and Tanapseudinae were recovered as polyphyletic and paraphyletic, respectively, but without support. Constraining them to be monophyletic did not result in a significantly worse tree. Results indicated high levels of homoplasy in three morphological characteristics traditionally used to differentiate groups. &lt;i&gt;Alokalliapseudes&lt;/i&gt; &lt;i&gt;macsweenyi&lt;/i&gt; is transferred back to the genus &lt;i&gt;Mesokalliapseudes,&lt;/i&gt; rendering &lt;i&gt;Alokalliapseudes&lt;/i&gt; a junior subjective synonym. Nine new taxa, including six species of &lt;i&gt;Kalliapseudes&lt;/i&gt; and one species of the genus &lt;i&gt;Cristapseudes,&lt;/i&gt; and one new genus (Phoxokalliapseudes) and species (P. &lt;i&gt;singaporensis)&lt;/i&gt; were discovered and described. Two species of &lt;i&gt;Kalliapseudes&lt;/i&gt; (K. &lt;i&gt;gobinae&lt;/i&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;multiarticulus)&lt;/i&gt; are transferred to &lt;i&gt;Phoxokalliapseudes&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; Neotypes are designated for &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;magnus,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;omercooperi&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;schubarti,&lt;/i&gt; and a lectotype is designated for &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;mauritanicus.&lt;/i&gt; Distribution maps, illustrated keys to the subfamilies, genera and species, and preliminary remarks on biogeographic history are also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Kalliapseudidae; revision; new genus; new species; new combinations; cladistic analysis</subject>
+          <subject_class locale="en_US">Kalliapseudidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>T.</middlename>
+          <lastname>Drumm</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>W.</middlename>
+          <lastname>Heard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-172</pages>
+        <date_published>2011-12-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

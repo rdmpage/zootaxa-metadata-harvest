@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2303.1</id>
+    <title locale="en_US">3 Dec. 2009</title>
+    <volume>2303</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of Peruvian Ichneumonidae (Insecta, Hymenoptera)</title>
+        <abstract locale="en_US">A checklist of the Peruvian Ichneumonidae (Hymenoptera) is provided. A total of 391 species, in 134 genera and 20 subfamilies, are reported. Of these, 139 species are only known from Peru, and 48 represent undescribed species. This work reports nearly 53% more taxa than the checklist compiled by Francisco Carrasco (1972), representing a much needed update of that work. The checklist is updated to September 2009.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazonia; Andes; Parasitoids; Peru; South America; Taxonomy</subject>
+          <subject_class locale="en_US">Amazonia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexander</firstname>
+          <lastname>Rodríguez-Berrío</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Santiago</firstname>
+          <lastname>Bordera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ilari</firstname>
+          <middlename>E.</middlename>
+          <lastname>Sääksjärvi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2009-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additions to the description of &lt;i&gt;Yunnaniata konstantinovi &lt;/i&gt;Lopatin, 2009, and its classification in the section Capulites (Coleoptera: Chrysomelidae: Galerucinae: Hylaspini)</title>
+        <abstract locale="en_US">The taxonomic position of the genus &lt;i&gt;Yunnaniata&lt;/i&gt; Lopatin, 2009 is discussed based on material from Yunnan. In our opinion, the genus &lt;i&gt;Yunnaniata&lt;/i&gt; should be classified in the section Capulites Ogloblin, 1936, and is very close to the genus &lt;i&gt;Capula&lt;/i&gt; Jacobson, 1925. The description of &lt;i&gt;Yunnaniata&lt;/i&gt; &lt;i&gt;konstantinovi&lt;/i&gt; Lopatin, 2009 is extended including the description of the sexual dimorphism. The spermatheca is illustrated. A list of species classified in Capulites and an identification key to genera of Capulites are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Coleoptera; Chrysomelidae; Galerucinae; Capulites; &lt;i&gt;Yunnaniata&lt;/i&gt; &lt;i&gt;konstantinovi&lt;/i&gt;; Yunnan; China</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Bezděk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ron</firstname>
+          <lastname>Beenen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-52</pages>
+        <date_published>2009-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the antlion genus &lt;i&gt;Euroleon &lt;/i&gt;Esben-Petersen from China (Neuroptera: Myrmeleontidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weiguang</firstname>
+          <lastname>Ao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xubo</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Levente</firstname>
+          <lastname>Ábrahám</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xili</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-56</pages>
+        <date_published>2009-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Ambrosiodmus &lt;/i&gt;(Hopkins, 1915) (Coleoptera: Curculionidae, Scolytinae) in Europe</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Massimo</firstname>
+          <lastname>Faccoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriella</firstname>
+          <lastname>Frigimelica</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicola</firstname>
+          <lastname>Mori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edoardo</firstname>
+          <middlename>Petrucco</middlename>
+          <lastname>Toffolo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <lastname>Vettorazzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauro</firstname>
+          <lastname>Simonato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-60</pages>
+        <date_published>2009-12-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

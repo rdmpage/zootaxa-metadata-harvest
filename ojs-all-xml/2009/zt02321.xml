@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2321.1</id>
+    <title locale="en_US">22 Dec. 2009</title>
+    <volume>2321</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-12-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalogue of family-group names in Cerambycidae (Coleoptera) </title>
+        <abstract locale="en_US">Family-group names proposed for beetles belonging to the family Cerambycidae are catalogued and their availability is determined using the rules of the current International Code of Zoological Nomenclature. A synoptic classification of the family summarizes the validity of the names. Type genera of all family-group names are listed and the type species and stems of genera of available family-group names are included. A new family-group name, Elytracanthinini Bousquet (type genus: &lt;i&gt;Elytracanthina&lt;/i&gt; Monn, 2005, a replacement name for &lt;i&gt;Elytracantha&lt;/i&gt; Lane, 1955) is proposed for Elytracanthinae Lane, 1955. &lt;i&gt;Ichthyosoma&lt;/i&gt; &lt;i&gt;armatum&lt;/i&gt; Montrouzier, 1855 is designated as type species of &lt;i&gt;Icthyosoma&lt;/i&gt; Boisduval, 1835. Reversal of precedence is used to preserve the validity of the following family-group names: Anaglyptides Lacordaire, 1868 (over Anaglyptisidae Gistel, 1848 [Buprestidae]); Dryobiini Arnett, 1962 (over Dryobiadae Gistel, 1856 [Ptinidae]); Hemilophitae Thomson, 1868 (over Amphionychitae Thomson, 1860) and Hétéropsides Lacordaire, 1869 (over Dichophyiaeidae Gistel, 1848). The following family-group names, although junior synonyms, are preserved as valid until an application is submitted to the International Commission on Zoological Nomenclature; in these cases a reversal of precedence could not be applied: Eurypodini Gahan, 1906 (over Zaracinae Pascoe, 1869); Macronides Lacordaire, 1868 (over Enchapteritae Thomson, 1861); Pyresthides Lacordaire, 1868 (over Pseudolepturitae Thomson, 1861 and Erythrinae Pascoe, 1866) and Stenoderinae Pascoe, 1867 (over Syllitae Thomson, 1864). A total of 238 valid cerambycid family-group names (413 available names) are recognized in the following 13 subfamilies: Vesperinae (1 valid family-group name), Oxypeltinae (1), Disteniinae (4), Anoplodermatinae (3), Philinae (1), Parandrinae (2), Prioninae (24), Spondylidinae (5), Necydalinae (1), Lepturinae (8), Lamiinae (80), Dorcasominae (1), and Cerambycinae (107).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">longhorned beetles; nomenclature; classification; type genera; type species; stem</subject>
+          <subject_class locale="en_US">longhorned beetles; nomenclature; classification; type genera; type species; stem</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Bousquet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>J.</middlename>
+          <lastname>Heffern</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrice</firstname>
+          <lastname>Bouchard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eugenio</firstname>
+          <middlename>H.</middlename>
+          <lastname>Nearns</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-80</pages>
+        <date_published>2009-12-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

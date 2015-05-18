@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3429.1</id>
+    <title locale="en_US">20 Aug. 2012</title>
+    <volume>3429</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Asian species of the genera &lt;i&gt;Anahita &lt;/i&gt;Karsch 1879, &lt;i&gt;Ctenus &lt;/i&gt;Walckenaer 1805 and &lt;i&gt;Amauropelma &lt;/i&gt;Raven, Stumkat &amp; Gray 2001(Arachnida: Araneae: Ctenidae)</title>
+        <abstract locale="en_US">Specimens of the spider family Ctenidae from South, East and Southeast Asia were examined. Thirteen new species aredescribed: &lt;i&gt;Anahita&lt;/i&gt; &lt;i&gt;jinsi&lt;/i&gt; spec. nov. (male, female; China, Sichuan); &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;martensi&lt;/i&gt; spec. nov. (male; Nepal), &lt;i&gt;Ctenus&lt;/i&gt;&lt;i&gt;cladarus&lt;/i&gt; spec. nov. (male; Burma), &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;theodorianum&lt;/i&gt; spec. nov. (male, female; Laos, Oudomxai), &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;lishuqiang&lt;/i&gt;spec. nov. (female; China, Sichuan), &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;holthoffi&lt;/i&gt; spec. nov. (male, female; Laos, Champasak), &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;bayeri&lt;/i&gt; spec.nov. (male; Laos, Champasak); &lt;i&gt;Amauropelma&lt;/i&gt; &lt;i&gt;beyersdorfi&lt;/i&gt; spec. nov. (male; India, Himachal Pradesh), &lt;i&gt;Amauropelma&lt;/i&gt;&lt;i&gt;staschi&lt;/i&gt; spec. nov. (male; India, Uttar Pradesh), &lt;i&gt;Amauropelma&lt;/i&gt; &lt;i&gt;ekeftys&lt;/i&gt; spec. nov. (male, ?female; India, Meghalaya),&lt;i&gt;Amauropelma&lt;/i&gt; &lt;i&gt;hoffmanni&lt;/i&gt; spec. nov. (male, female; Laos, Luang Nam Tha), &lt;i&gt;Amauropelma&lt;/i&gt; &lt;i&gt;jagelkii&lt;/i&gt; spec. nov. (male,female; Laos, Luang Prabang), &lt;i&gt;Amauropelma&lt;/i&gt; &lt;i&gt;annegretae&lt;/i&gt; spec. nov. (male, female; Laos, Luang Prabang). &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt;Thorell 1897 (Luang Prabang, Vientiane) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; Thorell 1897 (Luang Nam Tha, Luang Prabang) are recordedfor the first time from Laos, and the female of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt; is described for the first time. &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;ramosus&lt;/i&gt; Thorell 1887, &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;robustus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;palembangensis&lt;/i&gt; Strand 1906 as well as internal copulatory structures of &lt;i&gt;Anahita&lt;/i&gt; &lt;i&gt;fauna&lt;/i&gt; Karsch 1879 areillustrated for the first time. &lt;i&gt;Anahita&lt;/i&gt; &lt;i&gt;feai&lt;/i&gt; (F.O. Pickard-Cambridge 1902) comb. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;jucunda&lt;/i&gt; (Thorell 1897) comb.nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;denticulata&lt;/i&gt; (Simon 1884) comb. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;smythiesi&lt;/i&gt; (Simon 1897) comb. nov. and &lt;i&gt;Amauropelma&lt;/i&gt; &lt;i&gt;fungifer&lt;/i&gt; (Thorell1890) comb. nov. are transferred from the genus &lt;i&gt;Ctenus.&lt;/i&gt; The nomina nova “Ctenus &lt;i&gt;karschi”&lt;/i&gt; and “Ctenus &lt;i&gt;tamerlani”&lt;/i&gt; proposed by Roewer (1951) are recognised as unavailable and thus invalid names.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; systematics; revision; first records; transfers; Laos; India; Burma; Malaysia; Sumatra</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Jäger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-63</pages>
+        <date_published>2012-08-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

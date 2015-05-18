@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3375.1</id>
+    <title locale="en_US">4 Jul. 2012</title>
+    <volume>3375</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy and distribution of sea anemones (Cnidaria: Actiniaria and Corallimorpharia) from deep water of the northeastern Pacific</title>
+        <abstract locale="en_US">Sea anemones &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato&lt;/i&gt; (members of cnidarian orders Actiniaria and Corallimorpharia) occurring in water of thenortheastern Pacific Ocean greater than 1,000 m (to the abyssal plain) are poorly known. Based on the literature andspecimens we examined in the four largest collections of animals from this area, we estimate that approximately 35 speciesoccur in these deep-water habitats and fewer than half have been documented there. Of the largest and most abundantepibenthic species, based on morphology, we identified two species of Corallimorpharia (both previously known) and 12of Actiniaria (three new). Half the sea anemone species are widely distributed: &lt;i&gt;Actinauge&lt;/i&gt; &lt;i&gt;verrillii&lt;/i&gt; McMurrich, 1893,&lt;i&gt;Actinoscyphia&lt;/i&gt; &lt;i&gt;groendyki&lt;/i&gt; n. sp., &lt;i&gt;Actinostola&lt;/i&gt; &lt;i&gt;faeculenta&lt;/i&gt; (McMurrich, 1893), &lt;i&gt;Bathyphellia&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; Dunn, 1983, &lt;i&gt;Liponema&lt;/i&gt;&lt;i&gt;brevicorne&lt;/i&gt; (McMurrich, 1893), &lt;i&gt;Metridium&lt;/i&gt; &lt;i&gt;farcimen&lt;/i&gt; (Brandt, 1835), and &lt;i&gt;Monactis&lt;/i&gt; &lt;i&gt;vestita&lt;/i&gt; (Gravier, 1918). The others areknown only from the northeastern Pacific Ocean: &lt;i&gt;Corallimorphus&lt;/i&gt; &lt;i&gt;pilatus&lt;/i&gt; Fautin, White, and Pearson, 2002,&lt;i&gt;Corallimorphus&lt;/i&gt; &lt;i&gt;denhartogi&lt;/i&gt; Fautin, White, and Pearson, 2002, &lt;i&gt;Anthosactis&lt;/i&gt; &lt;i&gt;nomados&lt;/i&gt; White, Wakefield Pagels, and Fautin,1999, &lt;i&gt;Bolocera&lt;/i&gt; &lt;i&gt;kensmithi&lt;/i&gt; n. sp., &lt;i&gt;Paraphelliactis&lt;/i&gt; &lt;i&gt;pabista&lt;/i&gt; Dunn, 1982, &lt;i&gt;Sagartiogeton&lt;/i&gt; &lt;i&gt;californicus&lt;/i&gt; (Carlgren, 1940) (forwhich we designate a neotype), and &lt;i&gt;Sicyonis&lt;/i&gt; &lt;i&gt;careyi&lt;/i&gt; n. sp. A naturally occurring oxygen minimum zone (OMZ) off Oregonis expanding, and the marine life living within its virtually anoxic areas is threatened. Nine of the species we examined occur within the current depth range of the OMZ and may be threatened if the OMZ continues to strengthen and expand.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biogeography; Coelenterata; Hexacorallia; Bathyal; Abyssal</subject>
+          <subject_class locale="en_US">Biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wendy</firstname>
+          <middlename>E.</middlename>
+          <lastname>Eash-Loucks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daphne</firstname>
+          <middlename>G.</middlename>
+          <lastname>Fautin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-80</pages>
+        <date_published>2012-07-04</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

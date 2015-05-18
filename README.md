@@ -8,3 +8,11 @@ The code parses HTML scrapped from the http://mapress.com web site, and suppleme
 
 ## Open Access
 The test for open access is simply whether accessing the URL for the complete PDF returns a HTTP 200 OK (open access) or HTTP/1.1 401 Authorization Required (behind paywall).
+
+## ZIP file
+
+To create an archive of all OJS XML files copy them to ohs-all-xml then:
+
+   zip -r ojs.zip *.xml 2006 2007 2008 2009 2010 2011 2012
+
+

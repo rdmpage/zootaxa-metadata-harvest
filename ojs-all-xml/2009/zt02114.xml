@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2114.1</id>
+    <title locale="en_US">22 May. 2009</title>
+    <volume>2114</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-05-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A survey of Mysida from the Lizard Island area, Great Barrier Reef, Australia, Subfamily Siriellinae (Crustacea, Mysida, Mysidae)</title>
+        <abstract locale="en_US">Ten species of Siriellinae mysids including &lt;i&gt;Siriella&lt;/i&gt; &lt;i&gt;lacertilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and one Rhopalophthalminae mysid are reported from the Lizard Island area of the Great Barrier Reef, Australia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mysinae; &lt;i&gt;Siriella&lt;/i&gt;; &lt;i&gt;Hemisiriella&lt;/i&gt;; &lt;i&gt;Rhopalophthalmus&lt;/i&gt;; new species; taxonomy</subject>
+          <subject_class locale="en_US">Mysinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>Suzette</middlename>
+          <lastname>Talbot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of &lt;i&gt;Gnathia maculosa &lt;/i&gt;and a new record of &lt;i&gt;Gnathia trimaculata&lt;/i&gt; (Crustacea, Isopoda, Gnathiidae), ectoparasites of elasmobranchs from Okinawan coastal waters</title>
+        <abstract locale="en_US">&lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;maculosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from males reared in a laboratory from larvae that were collected as ectoparasites on elasmobranchs, caught off Okinawa Island in the Ryukyu Archipelago, southwestern Japan. The species is most similar to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;trimaculata&lt;/i&gt; but it is distinguished from &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;trimaculata&lt;/i&gt; by deeper and narrower dorsal sulcus, a narrower body, and the wider pylopod. &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;trimaculata,&lt;/i&gt; previously recorded from Great Barrier Reef, Australia, was also collected from elasmobranchs caught off Okinawa Island. The record of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;trimaculata&lt;/i&gt; from Okinawa indicates a wide range of the distribution of the gnathiids inhabiting elasmobranchs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gnathiids; new species; ectoparasite; elasmobranchs; distribution range</subject>
+          <subject_class locale="en_US">Gnathiids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuzo</firstname>
+          <lastname>Ota</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Euichi</firstname>
+          <lastname>Hirose</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-60</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Australian hygrobatids (Acari: Hydrachnidia: Hygrobatidae), with the description of two new genera and three new species</title>
+        <abstract locale="en_US">Two new genera of the water mite family Hygrobatidae (Acari: Hydrachnidia) are described from Australia, &lt;i&gt;Ioannibates&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Pseudoaustraliobates&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; In addition, three new species are described, &lt;i&gt;Ioannibates&lt;/i&gt; &lt;i&gt;papillosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pseudoaustraliobates&lt;/i&gt; &lt;i&gt;flindersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and the second species of the genus &lt;i&gt;Declinobates&lt;/i&gt; K.O. Viets, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;tasmanicus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Hydrachnidia; Hygrobatidae; Australia; new species.</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2009-05-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

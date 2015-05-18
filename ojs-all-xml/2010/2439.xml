@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2439.1</id>
+    <title locale="en_US">28 Apr. 2010</title>
+    <volume>2439</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-04-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Ranitomeya &lt;/i&gt;(Anura: Dendrobatidae) from eastern Amazonian Peru</title>
+        <abstract locale="en_US">We describe two new species of &lt;i&gt;Ranitomeya&lt;/i&gt; (family Dendrobatidae), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;yavaricola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cyanovittata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Peru. &lt;i&gt;Ranitomeya&lt;/i&gt; &lt;i&gt;yavaricola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is morphologically similar to certain other species of &lt;i&gt;Ranitomeya&lt;/i&gt; (in particular &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;flavovittata),&lt;/i&gt; but the new species can be easily distinguished from all other species of &lt;i&gt;Ranitomeya&lt;/i&gt; based on its unique limb coloration: solid bronze without black markings. Despite having searched in numerous localities throughout this region, we have found the new species at only a single locality near the confluence of the Yavarí and Yavari-Mirin rivers. Based on acoustic and molecular data, the new species is a member of the &lt;i&gt;vanzolinii&lt;/i&gt; group, and is sister to the second new species, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;cyanovittata.&lt;/i&gt; &lt;i&gt;Ranitomeya&lt;/i&gt; &lt;i&gt;cyanovittata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is only known from a single locality in the Sierra del Divisor in Amazonian Peru. This species can be easily distinguished from the other species of &lt;i&gt;Ranitomeya&lt;/i&gt; by a unique coloration pattern that consists of just two colors: black background with blue lines or reticulations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazonia; &lt;i&gt;cyanovittata&lt;/i&gt;; Dendrobatidae; new species; Peru; &lt;i&gt;Ranitomeya&lt;/i&gt;; Sierra del Divisor; &lt;i&gt;yavaricola&lt;/i&gt;; Rio Yavarí</subject>
+          <subject_class locale="en_US">Amazonia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pedro</firstname>
+          <middlename>E.</middlename>
+          <lastname>Perez-Peña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>German</firstname>
+          <lastname>Chavez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evan</firstname>
+          <lastname>Twomey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jason</firstname>
+          <middlename>L.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2010-04-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Csiromedusa medeopolis&lt;/i&gt;: a remarkable Tasmanian medusa (Cnidaria: Hydrozoa: Narcomedusae) comprising a new family, genus and species</title>
+        <abstract locale="en_US">An unusual new species of narcomedusa from Tasmania is described. It differs from all other species of narcomedusae in having two whorls of tentacles, as well as a beveled opening in the apical surface containing peculiar ‘sky-scraper-like’ protruding structures, which we have interpreted as gonads. We place this unusual form in its own family, the Csiromedusidae fam. nov. Knowledge about its basic biology and ecology is currently lacking. We provide a comparative table of features of the families of Narcomedusae, as well as a summary of characters observed in known juvenile and larval stages of species of Narcomedusae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cnidaria; Hydrozoa; Narcomedusae; Tasmania; jellyfish; taxonomy; morphology; anatomy; new family; new genus; new species</subject>
+          <subject_class locale="en_US">Cnidaria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lisa-Ann</firstname>
+          <lastname>Gershwin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Zeidler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-34</pages>
+        <date_published>2010-04-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Niphargus &lt;/i&gt;Schiödte, 1849 (Amphipoda, fam. Niphargidae) from the Frasassi cave system in Central Italy</title>
+        <abstract locale="en_US">Two new subterranean species of the genus &lt;i&gt;Niphargus&lt;/i&gt; Schiödte, 1849 (Niphargus &lt;i&gt;montanarius,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;frasassianus,&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Crustacea, Amphipoda, Gammaridea, Niphargidae) from the Frasassi cave system in Genga, the Marches, Italy, are described and figured, and their taxonomic status within the genus &lt;i&gt;Niphargus&lt;/i&gt; is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; &lt;i&gt;Niphargus&lt;/i&gt;; taxonomy; subterranean waters</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gordan</firstname>
+          <middlename>S.</middlename>
+          <lastname>Karaman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Betty</firstname>
+          <lastname>Borowsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sharmishtha</firstname>
+          <lastname>Dattagupta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-52</pages>
+        <date_published>2010-04-28</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Tropidophorus &lt;/i&gt;Duméril &amp; Bibron, 1839 (Squamata: Sauria: Scincidae) from Vietnam</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Tropidophorus&lt;/i&gt; is described from Hoang Lien Mountain, Sa Pa and Van Ban districts, Lao Cai Province, northern Vietnam. &lt;i&gt;Tropidophorus&lt;/i&gt; &lt;i&gt;boehmei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized by the combination of the following features: size relatively large (maximum SVL 103.5 mm); upper head scales smooth; frontonasal undivided; prefrontals very small, widely separated; loreals 2, anterior loreal undivided; supralabials 6; supraciliaries 7–8, supraciliary row completed along the entire length of the lateral edge of supraoculars; external ear opening present, tympanum superficial, tympanum diameter smaller than eye length; midbody scales in 30–32 rows; dorsal and lateral scales on body and tail smooth; paravertebral scales 60–69, not widened; scale rows at position of tenth subcaudal 17–18; ventral scales 56–66; medial subcaudals divided from first to fifth, remaining ones about 1.5 times wider than neighboring scales; 16–19 smooth lamellae under fourth toe; dorsum and tail base dark grey with light transverse bands and two dorsolateral rows of white dots from neck to tail base; body sides dark grey with irregular small white dots from behind the eye to tail base. In addition, previous records of &lt;i&gt;Tropidophorus&lt;/i&gt; &lt;i&gt;berdmorei&lt;/i&gt; from northern Vietnam are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Tropidophorus&lt;/i&gt; &lt;i&gt;boehmei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;berdmorei&lt;/i&gt;; taxonomy; phylogeny; Vietnam: Lao Cai Province: Hoang Lien Mountain</subject>
+          <subject_class locale="en_US">&lt;i&gt;Tropidophorus&lt;/i&gt; &lt;i&gt;boehmei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;berdmorei&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Truong</firstname>
+          <middlename>Quang</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tao</firstname>
+          <middlename>Thien</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Schmitz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikolai</firstname>
+          <middlename>L.</middlename>
+          <lastname>Orlov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Ziegler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2010-04-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

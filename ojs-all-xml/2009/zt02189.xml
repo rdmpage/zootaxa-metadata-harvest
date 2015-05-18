@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2189.1</id>
+    <title locale="en_US">6 Aug. 2009</title>
+    <volume>2189</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">George Brettingham Sowerby, I, II &amp; III: their conchological publications and Molluscan taxa</title>
+        <abstract locale="en_US">Several members of the Sowerby family were artists and authors of natural history works in the 19 th Century. Three of them, George Brettingham Sowerby, his son, and his grandson (I, II &amp; III respectively) are especially known for their molluscan publications. The first to bear the name is best known for his &lt;i&gt;Genera&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;recent&lt;/i&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;fossil&lt;/i&gt; &lt;i&gt;shells&lt;/i&gt; and for initiating the &lt;i&gt;Thesaurus&lt;/i&gt; &lt;i&gt;Conchyliorum,&lt;/i&gt; the latter work being finished by his son and grandson. He was also primarilyresponsible for the &lt;i&gt;Conchological&lt;/i&gt; &lt;i&gt;Illustrations&lt;/i&gt; for which his son produced the plates and several monographs. In addition to the &lt;i&gt;Illustrations&lt;/i&gt; and much of the &lt;i&gt;Thesaurus,&lt;/i&gt; G. B. Sowerby II is known for his &lt;i&gt;Manual&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;Conchology&lt;/i&gt; and for the final volumes of Reeve’s &lt;i&gt;Conchologia&lt;/i&gt; &lt;i&gt;Iconica.&lt;/i&gt; The third generation of this line finished the &lt;i&gt;Thesaurus&lt;/i&gt; and published an enlarged edition of his father’s &lt;i&gt;Illustrated&lt;/i&gt; &lt;i&gt;Index&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;British&lt;/i&gt; &lt;i&gt;Shells.&lt;/i&gt; He published numerous papers in journals and is best known for a series of papers on mollusks of South Africa. Complete molluscan bibliographies for all three G. B. Sowerbys are compiled and collated and a list of their molluscan taxa is here given for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">G. B. Sowerby; bibliography; compilation; collation; list of taxa; &lt;i&gt;Genera&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;Recent&lt;/i&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;Fossil&lt;/i&gt; &lt;i&gt;Shells&lt;/i&gt;; &lt;i&gt;Tankerville&lt;/i&gt; &lt;i&gt;Catalogue&lt;/i&gt;; &lt;i&gt;Conchological&lt;/i&gt; &lt;i&gt;Manual&lt;/i&gt;; &lt;i&gt;Zoology&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;Beechey’s&lt;/i&gt; &lt;i&gt;Voyage&lt;/i&gt;; &lt;i&gt;Thesauruus&lt;/i&gt; &lt;i&gt;Conchyliorum&lt;/i&gt;; &lt;i&gt;Conchologia&lt;/i&gt; &lt;i&gt;Iconica&lt;/i&gt;; dates of publication; Mollusca.</subject>
+          <subject_class locale="en_US">G. B. Sowerby</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Richard</firstname>
+          <middlename>E.</middlename>
+          <lastname>Petit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-218</pages>
+        <date_published>2009-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

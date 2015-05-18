@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1947.1</id>
+    <title locale="en_US">1 Dec. 2008</title>
+    <volume>1947</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-12-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New feather mites of the subfamily Pterodectinae (Acari: Astigmata: Proctophyllodidae) from passerines (Aves: Passeriformes) in Mato Grosso do Sul, Brazil</title>
+        <abstract locale="en_US">Four new species of the genus &lt;i&gt;Pterodectes&lt;/i&gt; Robin, 1877 and three new monotypic genera of the feather mite subfamily Pterodectinae (Astigmata: Proctophyllodidae) are described from various passerines captured in Mato Grosso do Sul (Brazil). The following new species are described: &lt;i&gt;Pterodectes&lt;/i&gt; &lt;i&gt;paroariae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Paroaria&lt;/i&gt; &lt;i&gt;capitata&lt;/i&gt; (Orbigney et Lafresnaye, 1837) (Emberizidae), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tangarae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Tangara&lt;/i&gt; &lt;i&gt;cayana&lt;/i&gt; (Linnaeus, 1766) (Thraupidae), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;molothrus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Molothrus&lt;/i&gt; &lt;i&gt;bonariensis&lt;/i&gt; (Gmelin, 1789) (Icteridae), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pitangi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Pitangus&lt;/i&gt; &lt;i&gt;sulphuratus&lt;/i&gt; (Linnaeus, 1766) (Tyrannidae), &lt;i&gt;Tyrannidectes&lt;/i&gt; &lt;i&gt;berlai&lt;/i&gt; gen. n., &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Myiarchus&lt;/i&gt; &lt;i&gt;tyrannulus&lt;/i&gt; (Muller, 1776) (type host) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ferox&lt;/i&gt; (Gmelin, 1789) (Tyrannidae), &lt;i&gt;Metapterodectes&lt;/i&gt; &lt;i&gt;furnarius&lt;/i&gt; gen. n., &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Furnarius&lt;/i&gt; &lt;i&gt;rufus&lt;/i&gt; (Gmelin, 1788) (Furnariidae), and &lt;i&gt;Nanodectes&lt;/i&gt; &lt;i&gt;formicivorae&lt;/i&gt; gen. n., &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from &lt;i&gt;Formicivora&lt;/i&gt; &lt;i&gt;rufa&lt;/i&gt; (Thamnophilidae). Brief comments on the taxonomic structure of the subfamily Pterodectinae and species content of the genus &lt;i&gt;Pterodectes&lt;/i&gt; are given. The two newly described genera, &lt;i&gt;Tyrannidectes&lt;/i&gt; gen. n. and &lt;i&gt;Metapterodectes&lt;/i&gt; gen. n., are close to the genus &lt;i&gt;Pterodectes.&lt;/i&gt; The genus &lt;i&gt;Tyrannidectes&lt;/i&gt; gen. n. differs from the latter genus by loss of setae &lt;i&gt;sR&lt;/i&gt; on trochanters III, and &lt;i&gt;Metapterodectes&lt;/i&gt; gen. n. differs by loss of setae &lt;i&gt;sR&lt;/i&gt; on trochanters III and Solenidion σ &lt;i&gt;1&lt;/i&gt; on genua III. In &lt;i&gt;Pterodectes,&lt;/i&gt; setae &lt;i&gt;sRIII&lt;/i&gt; and solenidion σ &lt;i&gt;1&lt;/i&gt; are present on legs III. The genus &lt;i&gt;Nanodectes&lt;/i&gt; gen. n. is close to &lt;i&gt;Proterothrix&lt;/i&gt; Gaud, 1968 and differs from that genus by the loss of idiosomal setae &lt;i&gt;d1,&lt;/i&gt; &lt;i&gt;d2,&lt;/i&gt; &lt;i&gt;e2,&lt;/i&gt; &lt;i&gt;f2&lt;/i&gt; that is a unique combination of lost setae among all pterodectines; in closely related &lt;i&gt;Proterothrix,&lt;/i&gt; only idiosomal setae &lt;i&gt;c1&lt;/i&gt; may be absent.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Astigmata; feather mites; Proctophyllodidae; systematics; Aves; Passeriformes; Brazil</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <lastname>Literak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miroslav</firstname>
+          <lastname>Čapek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2008-12-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of narrow-mouthed frog of the genus &lt;i&gt;Chiasmocleis&lt;/i&gt; Méhelÿ 1904 (Anura, Microhylidae) from the Amazonian rainforest of Brazil</title>
+        <abstract locale="en_US">A new species of microhylid frog of the genus &lt;i&gt;Chiasmocleis&lt;/i&gt; from the Amazonian rainforest of northern Brazil, in the states of Amazonas, Mato Grosso, Pará and Rondônia, is described and illustrated. The new species is characterized by the combination of: large size for the genus; robust body; finger I well developed; toe I developed; toes of males extensively webbed, of females basally webbed; toes fringed; dermal spines on the anterior portion of chin in males. An osteological description and brief notes on natural history are also given. Tadpole and advertisement call are unknown. The species was found in several herpetological collections misidentified as &lt;i&gt;Chiasmocleis&lt;/i&gt; &lt;i&gt;bassleri,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;shudikarensis&lt;/i&gt; or &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ventrimaculata,&lt;/i&gt; and a comparison with those species and comments on the taxonomy of the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; taxonomy; osteology; dermal spines; natural history</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pedro</firstname>
+          <middlename>Luiz Vieira</middlename>
+          <lastname>Peloso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>José</middlename>
+          <lastname>Sturaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-52</pages>
+        <date_published>2008-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Trachycephalus&lt;/i&gt; (Anura: Hylidae) from the Atlantic Rain Forest in southern Brazil</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Trachycephalus&lt;/i&gt; is described from the &lt;i&gt;Araucaria&lt;/i&gt; plateau of northern Rio Grande do Sul and western Santa Catarina states, southern Brazil, where it occurs in forests from about 550 to 950 m a.s.l. The new species was previously confused with &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;imitatrix&lt;/i&gt; and might also occur in adjacent regions of Paraná state and Misiones province, Argentina. It is a large sized hylid (mean SVL 77.6 mm in females, 57.2 mm in males) with greenish to olive or brown dorsal coloration in life, conspicuous dorsal pattern of dark ocelli and spots, and broad, black and white-edged transverse bands on limbs. The yellow iris has a characteristic black reticulated pattern forming a radial symmetric network of four light, petal-like spots. The advertisement call consists of a long series of multi-pulsed notes with duration between 470– 760 ms, note intervals between 0.8–3.0 s and note repetition rates of 24–36 per s. The dominant frequency spectrum ranges between 1100 and 1800 Hz, with a peak at about 1550 Hz.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Trachycephalus&lt;/i&gt; &lt;i&gt;dibernardoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; taxonomy; vocalization; Rio Grande do Sul; Santa Catarina; Brazil</subject>
+          <subject_class locale="en_US">&lt;i&gt;Trachycephalus&lt;/i&gt; &lt;i&gt;dibernardoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Axel</firstname>
+          <lastname>Kwet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mirco</firstname>
+          <lastname>Solé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-67</pages>
+        <date_published>2008-12-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">ErratumDuellman, W. E. &amp; Chaparro, J. C. (2008) Zootaxa, 1918, 1225. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2008-12-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

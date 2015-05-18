@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2271.1</id>
+    <title locale="en_US">22 Oct. 2009</title>
+    <volume>2271</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-10-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the &lt;i&gt;Caligus productus &lt;/i&gt;species group, with the description of a new species, new synonymies and supplementary descriptions</title>
+        <abstract locale="en_US">The &lt;i&gt;productus-group&lt;/i&gt; within the sea lice genus &lt;i&gt;Caligus&lt;/i&gt; Müller, 1785 is characterised by the loss of two and the reduction or loss of the third of the three plumose setae normally carried on the posterior margin of the distal exopodal segment of the first swimming leg. We describe a new species, &lt;i&gt;Caligus&lt;/i&gt; &lt;i&gt;lethrinicola&lt;/i&gt; &lt;b&gt;n.sp.,&lt;/b&gt; from a lethrinid host collected in New Caledonia. We review the group and recognize 15 species as valid, including the new species. The type material of the three varieties of &lt;i&gt;Caligus&lt;/i&gt; &lt;i&gt;mauritanicus&lt;/i&gt; Brian, 1924 is re-examined and the var. &lt;i&gt;temnodontis&lt;/i&gt; is here recognized as a distinct species, &lt;i&gt;Caligus&lt;/i&gt; &lt;i&gt;temnodontis&lt;/i&gt; Brian, 1924. The typical and &lt;i&gt;miniscula&lt;/i&gt; varieties are recognised as synonyms of &lt;i&gt;Caligus&lt;/i&gt; &lt;i&gt;dakari&lt;/i&gt; van Beneden, 1892 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;haemulonis&lt;/i&gt; Krøyer, 1863 respectively. Additional synonymies are proposed within the group. Supplementary observations are presented on the morphology of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dakari,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;haemulonis&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;temnodontis.&lt;/i&gt; A brief differential diagnosis is presented for each of the 14 previously described valid species and a key to species has been constructed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sea lice; parasite; taxonomy; new species; new synonyms; key to species</subject>
+          <subject_class locale="en_US">Sea lice</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Geoff</firstname>
+          <middlename>A</middlename>
+          <lastname>Boxshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hoda</firstname>
+          <middlename>H.</middlename>
+          <lastname>El-Rashidy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2009-10-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Mecistocephalus guildingii &lt;/i&gt;Newport, 1843, a tropical centipede with amphi-Atlantic distribution (Chilopoda: Geophilomorpha)</title>
+        <abstract locale="en_US">&lt;i&gt;Mecistocephalus&lt;/i&gt; &lt;i&gt;guildingii&lt;/i&gt; Newport, 1843 (Chilopoda: Geophilomorpha: Mecistocephalidae) is redescribed, and its geographical distribution revised and updated, after examination of 28 specimens from different localities together with critical assessment of published accounts and records. &lt;i&gt;Mecistocephalus&lt;/i&gt; &lt;i&gt;guildingii&lt;/i&gt; Newport, 1843 (= &lt;i&gt;Mecistocephalus&lt;/i&gt; &lt;i&gt;punctilabratus&lt;/i&gt; Newport, 1845, n. syn.; = &lt;i&gt;Lamnonyx&lt;/i&gt; &lt;i&gt;leonensis&lt;/i&gt; Cook, 1896, n. syn.; = &lt;i&gt;Mecistocephalus&lt;/i&gt; &lt;i&gt;maxillaris&lt;/i&gt; &lt;i&gt;guadeloupensis&lt;/i&gt; Demange and Pereira, 1985, n. syn.) is distinguished from other &lt;i&gt;Mecistocephalus&lt;/i&gt; species, with which it has been often confused, mainly in head elongation and some features of the clypeus. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;guildingii&lt;/i&gt; has been reported hitherto from less than two dozen sites on the eastern side of tropical Americas, however it is actually established in islands and coastal sites on both sides of the tropical part of the Atlantic ocean: on the American side from Bermuda through the Antilles to southern Brazil; on the African side in the Cape Verde archipelago and from Gambia to Liberia. It is also established in a locality on the Pacific coast of Mexico, and has been found occasionally inland in Brazil and in European hothouses and other disturbed anthropic sites.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Mecistocephalus&lt;/i&gt; &lt;i&gt;guildingii&lt;/i&gt;; Mecistocephalidae; geographical distribution; amphi-Atlantic distribution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Mecistocephalus&lt;/i&gt; &lt;i&gt;guildingii&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lucio</firstname>
+          <lastname>Bonato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Cupul-Magaña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <lastname>Minelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-42</pages>
+        <date_published>2009-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Barrier skink &lt;i&gt;Oligosoma judgei &lt;/i&gt;n. sp. (Reptilia: Scincidae) from the Darran and Takitimu Mountains, South Island, New Zealand</title>
+        <abstract locale="en_US">A new species of alpine skink, &lt;i&gt;Oligosoma&lt;/i&gt; &lt;i&gt;judgei,&lt;/i&gt; is described from the Darran and Takitimu Mountains, South Island, New Zealand. This species is diagnosed on the basis of morphological, ecological, and genetic differentiation from the following congeners: &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pikitanga,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;acrinasum,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;infrapunctatum,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;otagense,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;taumakae,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;waimatense&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;grande.&lt;/i&gt; The new species is characterized by a black base colour with bright green or yellow dorsal speckles, a white belly with occasional black speckles, and distinctive head scalation. The conservation status of the new taxon appears secure due to the altitude and extensive habitat in the Darran Mountains and apparently wide range extending to the Takitimu Mountains.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Oligosoma&lt;/i&gt; &lt;i&gt;judgei&lt;/i&gt; n. sp.; Barrier skink; Scincidae; Reptilia; taxonomy; morphology; genetics; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pikitanga;&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;acrinasum;&lt;/i&gt; Darran Mountains; Takitimu Mountains; Fiordland; New Zealand</subject>
+          <subject_class locale="en_US">&lt;i&gt;Oligosoma&lt;/i&gt; &lt;i&gt;judgei&lt;/i&gt; n. sp.; Barrier skink; Scincidae; Reptilia; taxonomy; morphology; genetics; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pikitanga;&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;acrinasum;&lt;/i&gt; Darran Mountains; Takitimu Mountains; Fiordland</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Geoff</firstname>
+          <middlename>B</middlename>
+          <lastname>Patterson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Trent</firstname>
+          <middlename>P</middlename>
+          <lastname>Bell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-56</pages>
+        <date_published>2009-10-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Platycephalus orbitalis&lt;/i&gt;, a new species of flathead (Teleostei: Platycephalidae) collected from western Australia</title>
+        <abstract locale="en_US">A new plataycephalid, &lt;i&gt;Platycephalus&lt;/i&gt; &lt;i&gt;orbitalis,&lt;/i&gt; is described on the basis of specimens collected in the Indian Ocean off the coast of Western Australia at depths of 50–144 m. The new species had been mistakenly identified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;marmoratus,&lt;/i&gt; which is now known to be restricted to eastern Australia. Several morphological characters (e.g, 65–68 pored scales in lateral line, snout and interorbit naked, and caudal fin blackish with white posterior margin) can separate &lt;i&gt;Platycephalus&lt;/i&gt; &lt;i&gt;orbitalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;marmoratus&lt;/i&gt; from the other 14 congeners. In addition, &lt;i&gt;Platycephalus&lt;/i&gt; &lt;i&gt;orbitalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;marmoratus&lt;/i&gt; in having the margin of the interopercle scalloped, skinny sensory tubes on the infraorbitals, the preopercle well developed and mostly covering the cheek region, and the body and head lacking distinct large spots and bands dorsally.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Platycephalus&lt;/i&gt; &lt;i&gt;orbitalis&lt;/i&gt;; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Platycephalus&lt;/i&gt; &lt;i&gt;marmoratus&lt;/i&gt;; Platycephalidae; western Australia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Platycephalus&lt;/i&gt; &lt;i&gt;orbitalis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hisashi</firstname>
+          <lastname>Imamura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leslie</firstname>
+          <middlename>W.</middlename>
+          <lastname>Knapp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-63</pages>
+        <date_published>2009-10-22</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Briggsia hastingsi&lt;/i&gt;, a new genus and species of clingfish from Oman</title>
+        <abstract locale="en_US">&lt;i&gt;Briggsia&lt;/i&gt; &lt;i&gt;hastingsi&lt;/i&gt; is described as a new genus and species of gobiesocid fish from a single specimen, 22 mm in standard length, collected in 2 m depth on the southeastern coast of Oman. The genus differs principally from other aspasmine genera in having fewer dorsaland anal-fin rays (4 each) and a shorter head (head length 2.5 in standard length).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gobiesocidae; Aspasminae; &lt;i&gt;Briggsia&lt;/i&gt;; Oman</subject>
+          <subject_class locale="en_US">Gobiesocidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>T.</middlename>
+          <lastname>Craig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>E.</middlename>
+          <lastname>Randall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2009-10-22</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

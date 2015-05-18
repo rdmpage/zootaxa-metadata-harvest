@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2188.1</id>
+    <title locale="en_US">6 Aug. 2009</title>
+    <volume>2188</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Milichiella &lt;/i&gt;Giglio-Tos (Diptera, Milichiidae) </title>
+        <abstract locale="en_US">The species of &lt;i&gt;Milichiella&lt;/i&gt; Giglio-Tos are revised and assigned to species groups revealed by a phylogenetic analysis. 69 new species are described: &lt;i&gt;Milichiella&lt;/i&gt; &lt;i&gt;abditoargentea,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;acantha,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;aeroplana,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;aldabrae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;angolae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;anterogrisea,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;argenteidorsa,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;argentinae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;asiatica,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;badia,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bella,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bermaguiensis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;boliviana,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;booloombae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;breviarista,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;brevirostris,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;bruneiensis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cavernae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;chilensis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;chocolata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;christmas,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cochiseae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;conventa,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;cooloolae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dominicae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;faviformis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flavilunulae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flaviventris,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;formosae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;fusciventris,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;griseomacula,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;inbio,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;jamaicensis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;laselvae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lasuizae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longirostris,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;maculatiradii,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;madagascarensis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mathisi,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;metallica,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mexicana,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mojingae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;mollis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;multisetae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;novateutoniae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;opuntiae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pachycerei,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;peyotei,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;plaumanni,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;proclinata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pseudopuntiae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;punctata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;quintargentea,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rufa,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rugosistyla,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rutila,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;santacatalinae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sculpta,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sterkstrooma,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;striata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;triangula,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;trisetae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;turrialbae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;ugandae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;variata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;villarricae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;virginae,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;weejasperensis&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;zaiziksensis.&lt;/i&gt; &lt;i&gt;Milichia&lt;/i&gt; &lt;i&gt;aethiops&lt;/i&gt; Malloch is combined with &lt;i&gt;Milichiella,&lt;/i&gt; the genus &lt;i&gt;Ulia&lt;/i&gt; Becker is synonymized with &lt;i&gt;Milichiella,&lt;/i&gt; five species within &lt;i&gt;Milichiella&lt;/i&gt; are synonymized and 19 lectotypes are designated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">key; phylogenetic analysis; &lt;i&gt;Ulia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Irina</firstname>
+          <lastname>Brake</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-166</pages>
+        <date_published>2009-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

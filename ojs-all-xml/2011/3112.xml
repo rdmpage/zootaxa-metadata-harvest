@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3112.1</id>
+    <title locale="en_US">29 Nov. 2011</title>
+    <volume>3112</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-11-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Bees of the genus &lt;i&gt;Panurginus &lt;/i&gt;in Siberia, Far East of Russia, and Allied Areas (Hymenoptera: Andrenidae, Panurginae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Panurginus&lt;/i&gt; Nylander of the Asian part of Palearctic is revised for the first time. 14 species are listed for Siberia, the Far East of Russia, Kazakhstan, Mongolia, and Northern China. Lectotypes for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alticolus&lt;/i&gt; F. Morawitz, 1876, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;herzi&lt;/i&gt; F. Morawitz, 1891 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;labiatus&lt;/i&gt; Eversmann, 1852 are designated. &lt;i&gt;Panurginus&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; Nylander, 1848, the type species of the genus, was studied for the first time after it was described. &lt;i&gt;Panurginus&lt;/i&gt; &lt;i&gt;dubius&lt;/i&gt; Osytchnjuk, 1995 is a junior synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; Nylander, 1848. &lt;i&gt;Panurginus&lt;/i&gt; &lt;i&gt;alticolus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;crawfordi&lt;/i&gt; Cockerell, 1914, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;herzi&lt;/i&gt; F. Morawitz, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;labiatus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;romani&lt;/i&gt; Aurivillius, 1914, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigripes&lt;/i&gt; F. Morawitz, 1880, are redescribed and seven new species are described: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alpotanini,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;arsenievi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kozlovi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;kropotkini,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mikhno,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;muraviovi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;obruchevi.&lt;/i&gt; In Russia, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alticolus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;labiatus&lt;/i&gt; are first recorded for Siberia; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alticolus&lt;/i&gt; is a new record, and one species is newly described from Kazakhstan; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;niger&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;herzi&lt;/i&gt; are first recorded, and two species described from Mongolia. A key to the 14 species with 118 illustrations, and annotated list along with data on types, synonymies, general geographical distribution, the material examined and descriptions for all species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; type; solitary bees; Russia; Ukraine; Kazakhstan; China; Mongolia; Far East; Siberia; new record; &lt;i&gt;alticolus&lt;/i&gt;; &lt;i&gt;alpotanini&lt;/i&gt;; &lt;i&gt;arsenievi&lt;/i&gt;; &lt;i&gt;crawfordi&lt;/i&gt;; &lt;i&gt;dubius&lt;/i&gt;; &lt;i&gt;herzi&lt;/i&gt;; &lt;i&gt;labiatus&lt;/i&gt;; &lt;i&gt;kozlovi&lt;/i&gt;; &lt;i&gt;kropotkini&lt;/i&gt;; &lt;i&gt;mikhno&lt;/i&gt;; &lt;i&gt;muraviovi&lt;/i&gt;; &lt;i&gt;niger&lt;/i&gt;; &lt;i&gt;nigripes&lt;/i&gt;; &lt;i&gt;obruchevi&lt;/i&gt;; &lt;i&gt;romani&lt;/i&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tatiana</firstname>
+          <middlename>G.</middlename>
+          <lastname>Romankova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yulia</firstname>
+          <middlename>V.</middlename>
+          <lastname>Astafurova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>01-35</pages>
+        <date_published>2011-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Fergusonina &lt;/i&gt;Malloch gall-flies (Diptera: Fergusoninidae) from terminal leaf bud galls on &lt;i&gt;Eucalyptus &lt;/i&gt;(Myrtaceae) in south-eastern Australia</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Fergusonina&lt;/i&gt; (Diptera: Fergusoninidae) flies are described from terminal leaf bud galls on &lt;i&gt;Eucalyptus&lt;/i&gt; L'Hér. from south eastern Australia. &lt;i&gt;Fergusonina&lt;/i&gt; &lt;i&gt;omlandi&lt;/i&gt; Nelson and Yeates &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is the first species of fly from the genus &lt;i&gt;Fergusonina&lt;/i&gt; to be described from the &lt;i&gt;Eucalyptus&lt;/i&gt; &lt;i&gt;pauciflora&lt;/i&gt; Sieb. ex Spreng. (Snow Gum) species complex; although another two species occur in sympatry on this host at higher elevations. &lt;i&gt;Fergusonina&lt;/i&gt; &lt;i&gt;omlandi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from the latter by differences in adult size and markings on the mesonotum and morphology of the dorsal shield of the larva. The other new species, &lt;i&gt;Fergusonina&lt;/i&gt; &lt;i&gt;williamensis&lt;/i&gt; Nelson and Yeates &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Fergusonina&lt;/i&gt; &lt;i&gt;thornhilli&lt;/i&gt; Nelson and Yeates &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are the first flies to be described from &lt;i&gt;Eucalyptus&lt;/i&gt; &lt;i&gt;baxteri&lt;/i&gt; (Benth.) Maiden &amp; Blakely and &lt;i&gt;Eucalyptus&lt;/i&gt; &lt;i&gt;dalrympleana&lt;/i&gt; Maiden, respectively. These two species can be distinguished from all other described &lt;i&gt;Fergusonina&lt;/i&gt; by host specificity, adult colour and setation and morphology of the dorsal shield.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Fergusonina&lt;/i&gt;; Fergusoninidae; Diptera; mutualism; nematode; &lt;i&gt;Eucalyptus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Fergusonina&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Leigh</firstname>
+          <middlename>A.</middlename>
+          <lastname>Nelson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sonja</firstname>
+          <middlename>J.</middlename>
+          <lastname>Scheffer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>K.</middlename>
+          <lastname>Yeates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-48</pages>
+        <date_published>2011-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Repeatability and precision in proboscis length measurements for long proboscid flies</title>
+        <abstract locale="en_US">Methods for measuring proboscides in long-tongued fly pollinators are examined with respect to fly morphology and behavior. Most ecological studies aim to measure the functional proboscis length as a response or predictor variable. Here I suggest a proxy for this, the Maximum Functional Length (MFL), obtained by combining the lengths of the prementum and labrum. I also quantify errors in proboscis measurements due to a lack of consideration of the extensible ventral rostral membrane (VRM). Results show that naïve measurements allow for substantial unrepeatable variation (mean: 7mm; maximum 14mm).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Proboscis; long-tongued fly; Tabanidae; Nemestrinidae; measurement; morphology; co-divergence; pollination ecology</subject>
+          <subject_class locale="en_US">Proboscis</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shelah</firstname>
+          <middlename>I.</middlename>
+          <lastname>Morita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2011-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of the microcaddisfly genus &lt;i&gt;Alisotrichia &lt;/i&gt;Flint (Trichoptera: Hydroptilidae) from southeastern Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Alisotrichia&lt;/i&gt; Flint, 1964 is an exclusively New World genus of microcaddisflies (Hydroptilidae), currently assigned to Leucotrichiini. Until now, this genus contained 51 species, of which only 1 has been described from Brazil. In this paper, 4 new species are described from Southern Brazil, 3 in the A. orophila Group (A. &lt;i&gt;holzenthali&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;macae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nessimiani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and one in the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hirudopsis&lt;/i&gt; Group (A. &lt;i&gt;ubatuba&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; The new species are separated by features of the terminal abdominal segments and structures of the male genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">microcaddisflies; &lt;i&gt;Alisotrichia&lt;/i&gt; &lt;i&gt;holzenthali&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Alisotrichia&lt;/i&gt; &lt;i&gt;ubatuba&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Alisotrichia&lt;/i&gt; &lt;i&gt;macae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Alisotrichia&lt;/i&gt; &lt;i&gt;nessimiani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Atlantic Forest</subject>
+          <subject_class locale="en_US">microcaddisflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Allan</firstname>
+          <middlename>Paulo Moreira</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2011-11-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

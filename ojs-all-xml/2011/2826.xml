@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2826.1</id>
+    <title locale="en_US">20 Apr. 2011</title>
+    <volume>2826</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Annotated checklist and distribution of the Socotran Archipelago Herpetofauna (Reptilia)</title>
+        <abstract locale="en_US">We update the knowledge on the 30 terrestrial reptile species of Socotra, an archipelago well known for its highly endemic flora and fauna. We use the records obtained during several surveys throughout all the islands of the archipelago, carried out between 2007 and 2010, as well as the bibliographic records. We recorded all the known species of terrestrial reptiles for the islands (Chamaeleo &lt;i&gt;monachus,&lt;/i&gt; &lt;i&gt;Haemodracon&lt;/i&gt; &lt;i&gt;riebeckii,&lt;/i&gt; &lt;i&gt;Haemodracon&lt;/i&gt; &lt;i&gt;trachyrhinus,&lt;/i&gt; &lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;dracaenacolus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;granti,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;homoeolepis,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;flaviviridis,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;forbesi,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;inintellectus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;oxyrhinus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;robustus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pumilio,&lt;/i&gt; &lt;i&gt;Pristurus&lt;/i&gt; &lt;i&gt;abdelkuri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guichardi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;obsti,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;insignoides,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;insignis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sokotranus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;samhaensis,&lt;/i&gt; &lt;i&gt;Mesalina&lt;/i&gt; &lt;i&gt;balfouri,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;kuri,&lt;/i&gt; &lt;i&gt;Hakaria&lt;/i&gt; &lt;i&gt;simonyi,&lt;/i&gt; &lt;i&gt;Trachylepis&lt;/i&gt; &lt;i&gt;socotrana,&lt;/i&gt; &lt;i&gt;Pachycalamus&lt;/i&gt; &lt;i&gt;brevis,&lt;/i&gt; &lt;i&gt;Leptotyphlops&lt;/i&gt; &lt;i&gt;filiformis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;macrurus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;wilsoni,&lt;/i&gt; &lt;i&gt;Typhlops&lt;/i&gt; &lt;i&gt;socotranus,&lt;/i&gt; &lt;i&gt;Ditypophis&lt;/i&gt; &lt;i&gt;vivax,&lt;/i&gt; &lt;i&gt;Hemerophis&lt;/i&gt; &lt;i&gt;socotrae).&lt;/i&gt; We report for the first time the occurrence of &lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;robustus&lt;/i&gt; in Samha Island. &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;homoeolepis&lt;/i&gt; is excluded from the fauna of Abd al-Kuri Island.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Socotra; Yemen; reptiles; distribution</subject>
+          <subject_class locale="en_US">Socotra</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edoardo</firstname>
+          <lastname>Razzetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roberto</firstname>
+          <lastname>Sindaco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristina</firstname>
+          <lastname>Grieco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francesca</firstname>
+          <lastname>Pella</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ugo</firstname>
+          <lastname>Ziliani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabio</firstname>
+          <lastname>Pupin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elisa</firstname>
+          <lastname>Riservato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniele</firstname>
+          <lastname>Pellitteri-Rosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luca</firstname>
+          <lastname>Butikofer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ahmed</firstname>
+          <middlename>Saeed</middlename>
+          <lastname>Suleiman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Badar</firstname>
+          <middlename>Awadh</middlename>
+          <lastname>Al-Aseily</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Caterina</firstname>
+          <lastname>Carugati</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eleonora</firstname>
+          <lastname>Boncompagni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauro</firstname>
+          <lastname>Fasola</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2011-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Hormonal induction of males as a method for studying tropical cladocerans: description of males of four chydorid species (Cladocera: Anomopoda: Chydoridae)</title>
+        <abstract locale="en_US">Methyl farnesoate, a crustacean juvenile hormone, successfully induced male development in several littoral cladocerans from Thailand in short-term multispecies cultures. Male morphology is fully described in four species of Chydoridae— &lt;i&gt;Oxyurella&lt;/i&gt; &lt;i&gt;singalensis&lt;/i&gt; Daday, 1898, &lt;i&gt;Leberis&lt;/i&gt; &lt;i&gt;diaphanus&lt;/i&gt; (King, 1853), &lt;i&gt;Leydigia&lt;/i&gt; cf. &lt;i&gt;ciliata&lt;/i&gt; Gauthier, 1939, &lt;i&gt;Disparalona&lt;/i&gt; cf. &lt;i&gt;hamata&lt;/i&gt; (Birge, 1910). Males of the latter two taxa from Thailand differ from these from the other localities, suggesting the presence of sibling-species in the Indochina region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cladocera; methyl farnesoate; male induction; short-term cultures; Chydoridae; Thailand</subject>
+          <subject_class locale="en_US">cladocera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artem</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Sinev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>La-Orsri</firstname>
+          <lastname>Sanoamuang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2011-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new cryptic species of &lt;i&gt;Ameerega &lt;/i&gt;(Anura: Dendrobatidae) from Brazilian Cerrado</title>
+        <abstract locale="en_US">A new cryptic species of poison frog is described from Central Brazil and included in the &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; group. &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;berohoka&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; occurs in cerrado sensu stricto and gallery forest phytophysiognomies in the Cerrado biome in areas drained by the Araguaia River basin, State of Goiás, Brazil. The new species differs from the other species in the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; group by adult morphology, such as dorsal coloration, hand length, nostril shape, and features of advertisement call. Uncorrected p-distances of a fragment of the 16S mitochondrial rRNA gene revealed high divergence among other &lt;i&gt;Ameerega&lt;/i&gt; species. The new species seems to be genetically most similar to &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;flavopicta&lt;/i&gt; (ca. 5.3%).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;berohoka&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; group; poison frog; advertisement call; DNA barcoding</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;berohoka&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Ameerega&lt;/i&gt; &lt;i&gt;picta&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wilian</firstname>
+          <lastname>Vaz-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natan</firstname>
+          <middlename>Medeiros</middlename>
+          <lastname>Maciel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2011-04-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

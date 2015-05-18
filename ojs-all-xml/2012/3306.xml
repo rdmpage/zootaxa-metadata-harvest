@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3306.1</id>
+    <title locale="en_US">9 May. 2012</title>
+    <volume>3306</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Australian Sabellariidae (Polychaeta) and description of eight new species</title>
+        <abstract locale="en_US">The family Sabellariidae is represented in Australian waters by eleven species belonging to five genera, including eight of themnew to Science: &lt;i&gt;Idanthyrsus&lt;/i&gt; &lt;i&gt;nesos&lt;/i&gt; n. sp., &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;willora&lt;/i&gt; n. sp., &lt;i&gt;Lygdamis&lt;/i&gt; &lt;i&gt;wambiri&lt;/i&gt; n. sp., &lt;i&gt;Phalacrostemma&lt;/i&gt; &lt;i&gt;maloga&lt;/i&gt; n. sp., &lt;i&gt;Sabellaria&lt;/i&gt;&lt;i&gt;kooraltha&lt;/i&gt; n. sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lungalla&lt;/i&gt; n. sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pyramis&lt;/i&gt; n. sp., and &lt;i&gt;Tetreres&lt;/i&gt; &lt;i&gt;terribilis&lt;/i&gt; n. sp. Three genera, &lt;i&gt;Phalocrostemma,&lt;/i&gt; &lt;i&gt;Sabellaria&lt;/i&gt; and&lt;i&gt;Tetreres,&lt;/i&gt; are newly recorded from Australia. Descriptions of all species are given, acompanied by detailed illustrations, includingdrawings, photographs and scanning electron micrographs, tables summarising specific diagnostic characters of all species ofeach genus, and distribution maps within Australia. A key to all genera worldwide and Australian species is given. Maximumparsimony analyses based on morphological features have been performed to assess the position of the new species and relation-ships with other Sabellariidae. For this purpose, the Australian species, the type species of each genus and some others species,representing the variability within each group, were incorporated into the analyses. Some of the species were recovered withinmonophyletic genera (Phalacrostemma and &lt;i&gt;Tetreres),&lt;/i&gt; while others have been considered as member of previously recognised genera (Idanthyrsus, &lt;i&gt;Lygdamis&lt;/i&gt; and &lt;i&gt;Sabellaria)&lt;/i&gt; have not been assessed as monophyletic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sabellariidae; Polychaeta; systematics; Australia; new species; new records</subject>
+          <subject_class locale="en_US">Sabellariidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pat</firstname>
+          <lastname>Hutchings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <lastname>Capa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rachael</firstname>
+          <lastname>Peart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-60</pages>
+        <date_published>2012-05-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

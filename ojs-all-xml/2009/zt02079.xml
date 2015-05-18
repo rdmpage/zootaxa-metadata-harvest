@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2079.1</id>
+    <title locale="en_US">22 Apr. 2009</title>
+    <volume>2079</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-04-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The anatomy and phylogenetic position of the Triassic dinosaur &lt;i&gt;Staurikosaurus pricei &lt;/i&gt;Colbert, 1970</title>
+        <abstract locale="en_US">We redescribe the holotype of the saurischian dinosaur &lt;i&gt;Staurikosaurus&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; Colbert, 1970 from Late Triassic Santa Maria Formation (southern Brazil), following additional preparation that revealed new anatomical features. A revised diagnosis is proposed and the published synapomorphies for Dinosauria and less inclusive clades (e.g. Saurischia) are evaluated for this species. Some characters previously identified as present in the holotype, including the intramandibular joint, hyposphene-hypantrum articulations in dorsal vertebrae, and a cranial trochanter and trochanteric shelf on the femur, cannot be confirmed due to poor preservation or are absent in the available material. In addition, postcranial characters support a close relationship between &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; and &lt;i&gt;Herrerasaurus&lt;/i&gt; &lt;i&gt;ischigualastensis&lt;/i&gt; Reig, 1963 (Late Triassic, Argentina), forming the clade Herrerasauridae. Several pelvic and vertebral characters support the placement of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; as a saurischian dinosaur. Within Saurischia, characters observed in the holotype, including the anatomy of the dentition and caudal vertebrae, support theropod affinities. However, the absence of some characters observed in the clades Theropoda and Sauropodomorpha suggests that &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; is not a member of Eusaurischia. Most morphological characters discussed in previous phylogenetic studies cannot be assessed for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; because of the incompleteness of the holotype and only known specimen. The phylogenetic position of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pricei&lt;/i&gt; is constrained by that of its sister taxon &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;ischigualastensis,&lt;/i&gt; which is known from much more complete material.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dinosauria; Saurischia; Santa Maria Formation; Late Triassic; Brazil</subject>
+          <subject_class locale="en_US">Dinosauria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jonathas</firstname>
+          <lastname>De Souza Bittencourt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>Wilhelm Armin</middlename>
+          <lastname>Kellner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-56</pages>
+        <date_published>2009-04-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A re-appraisal of the systematics of the African genus &lt;i&gt;Chamaeleo&lt;/i&gt; (Reptilia: Chamaeleonidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Chamaeleo,&lt;/i&gt; currently subdivided into two sub-genera, &lt;i&gt;Chamaeleo&lt;/i&gt; &lt;i&gt;(Chamaeleo)&lt;/i&gt; and &lt;i&gt;Chamaeleo&lt;/i&gt; &lt;i&gt;(Trioceros)&lt;/i&gt; (Klaver &amp; Böhme 1986), is reviewed from both a morphological and genetic basis and it is concluded that the two subgenera are sufficiently distinct as to warrant their formal elevation to seperate and distinct genera. Evaluation of the soft anatomy and several other characters provide sufficient basis for making this distinction. The proposed change is supported by the demonstration of monophyletic groupings (based on two mitochondrial and one nuclear gene) consistent with distinct genera.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Chamaeleo&lt;/i&gt;; &lt;i&gt;Trioceros&lt;/i&gt;; Taxonomic review; Taxonomy; Reptilia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Chamaeleo&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Colin</firstname>
+          <middlename>R.</middlename>
+          <lastname>Tilbury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Krystal</firstname>
+          <middlename>A.</middlename>
+          <lastname>Tolley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2009-04-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

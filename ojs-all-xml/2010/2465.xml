@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2465.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2465</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A redescription of &lt;i&gt;Metopa &lt;/i&gt;species (Amphipoda, Stenothoidae) based on the type material. 3. Natural History Museum, Oslo (NHM) </title>
+        <abstract locale="en_US">This paper presents redescriptions of 14 species of the genus &lt;i&gt;Metopa&lt;/i&gt; (Stenothoidae) based on the type-collections at the Natural History Museum in Oslo. Type (syntype/holotype) material of &lt;i&gt;Metopa&lt;/i&gt; &lt;i&gt;aequicornis,&lt;/i&gt; &lt;i&gt;M.borealis,&lt;/i&gt; &lt;i&gt;M.leptocarpa,&lt;/i&gt; &lt;i&gt;M.palmata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;propinqua,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pusilla,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;robusta&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tenuimana&lt;/i&gt; was dissected and examined morphologically. Material from the original authors of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;affinis,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;boeckii,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;invalida,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longicornis&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sinuata&lt;/i&gt; was also examined morphologically, in addition to Sars’ material of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;alderi,&lt;/i&gt; including his type material of the later synonymized &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;spectabilis.&lt;/i&gt; All species are redescribed using line drawings, and comparisons with the original texts and figures. For the species &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;invalida,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;palmata,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;robusta&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sinuata&lt;/i&gt; there are morphologic characters that indicate that they in fact do not belong to the &lt;i&gt;Metopa&lt;/i&gt; s str, but any possible changes in classification are postponed pending a phylogenetic analysis of the genera &lt;i&gt;Metopa&lt;/i&gt; and &lt;i&gt;Stenula&lt;/i&gt; has been performed. A summary of the other species having earlier been designed to &lt;i&gt;Metopa&lt;/i&gt; in the Oslo collections is given, with a list of their present taxonomic placing.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; &lt;i&gt;Metopa&lt;/i&gt;; redescription; Natural History Museum Oslo</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anne</firstname>
+          <middlename>Helene S.</middlename>
+          <lastname>Tandberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-94</pages>
+        <date_published>2010-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1881.1</id>
+    <title locale="en_US">22 Sep. 2008</title>
+    <volume>1881</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-09-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Cilliba&lt;/i&gt; von Heyden (Acari: Uropodina: Cillibidae)</title>
+        <abstract locale="en_US">We review the systematics, biogeography, ecology, and phylogeny of the genus &lt;i&gt;Cilliba&lt;/i&gt; von Heyden (Acari: Uropodina: Cillibidae). The genus includes eight species, all from Europe. Keys are provided for identification of the females, males, and deutonymphs. Re-descriptions are given for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;athiasae&lt;/i&gt; (Hirschmann &amp; Zirngiebl-Nicol), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cassidoidea&lt;/i&gt; (Hirschmann &amp; Zirngiebl-Nicol), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;erlangensis&lt;/i&gt; (Hirschmann &amp; Zirngiebl-Nicol), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sellnicki&lt;/i&gt; (Hirschmann &amp; ZirngieblNicol) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;stammeri&lt;/i&gt; (Hirschmann &amp; Zirngiebl-Nicol). The only other genus in the family Cillibidae is &lt;i&gt;Australocilliba&lt;/i&gt; Athias-Binche &amp; B»oszyk, which occurs in Australia and South America. Most species of &lt;i&gt;Cilliba&lt;/i&gt; are bisexual and probably arrhenotokous, but &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;erlangensis&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rafalskii&lt;/i&gt; B»oszyk &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; appear to be thelytokous.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Cillibidae; &lt;i&gt;Cilliba&lt;/i&gt;; revision; morphology; biogeography</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcin</firstname>
+          <lastname>Stachowiak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bruce</firstname>
+          <lastname>Halliday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerzy</firstname>
+          <lastname>Bloszyk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2008-09-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of the Decapods (Crustacea) from the Fernando de Noronha Archipelago, Brazil</title>
+        <abstract locale="en_US">This work presents a list of crustacean decapods species collected around Fernando de Noronha Archipelago, between November 1991 and August 1993, and also January 2000. This report lists others species reported in the area from records in the literature as well as those collected during the Almirante Saldanha Expedition. A total of 133 species are recorded belonging to 45 families from the Suborder Dendrobranchiata and the Infraorders Stenopodidea, Caridea, Astacidea, Thalassinidea, Palinura, Anomura and Brachyura of the Suborder Pleocyemata.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Checklist; Crustacea; Decapods; Fernando de Noronha Archipelago</subject>
+          <subject_class locale="en_US">Checklist</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <lastname>De Lourdes Alves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marilena</firstname>
+          <lastname>Ramos-Porto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Girlene</firstname>
+          <middlename>Fábia Segundo</middlename>
+          <lastname>Viana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-68</pages>
+        <date_published>2008-09-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

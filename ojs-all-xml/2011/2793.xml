@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2793.1</id>
+    <title locale="en_US">17 Mar. 2011</title>
+    <volume>2793</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematics of the genus &lt;i&gt;Syringophilopsis &lt;/i&gt;Kethley, 1970 (Acari: Prostigmata: Syringophilidae) with description of three new species from North American passerines</title>
+        <abstract locale="en_US">Three new species of the genus &lt;i&gt;Syringophilopsis&lt;/i&gt; collected from the United States are described and figured: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;certhiae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Certhia&lt;/i&gt; &lt;i&gt;americana&lt;/i&gt; Bonaparte (Certhiidae) from California, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sittae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Sitta&lt;/i&gt; &lt;i&gt;carolinensis&lt;/i&gt; Latham (Sittidae) also from California, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sturnellus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ex &lt;i&gt;Sturnella&lt;/i&gt; &lt;i&gt;neglecta&lt;/i&gt; Audubon (Icteridae) from Arizona. Additionally, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;passerinae&lt;/i&gt; (Clark, 1964) is redescribed based on the material from the type host species, &lt;i&gt;Passerina&lt;/i&gt; &lt;i&gt;cyanea&lt;/i&gt; (Linnaeus) (Cardinalidae). New host species for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;icteri&lt;/i&gt; Bochkov &amp; Mironov, 2001 and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;passerinae&lt;/i&gt; are added. The world fauna of &lt;i&gt;Syringophilopsis&lt;/i&gt; is summarized and keyed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; quill mites; ectoparasites; birds; North America</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hendricks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Greg</firstname>
+          <middlename>S.</middlename>
+          <lastname>Spicer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2011-03-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Lanocira &lt;/i&gt;Hansen, 1890 (Corallanidae: Isopoda: Crustacea) in tropical Australian waters</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Lanocira&lt;/i&gt; Hansen, 1890 is recorded from the southwestern Pacific for the first time. &lt;i&gt;Lanocira&lt;/i&gt; &lt;i&gt;grebarree&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Great Barrier Reef is described, and &lt;i&gt;Lanocira&lt;/i&gt; &lt;i&gt;gardineri&lt;/i&gt; Stebbing, 1904 and &lt;i&gt;Lanocira&lt;/i&gt; sp. cf. &lt;i&gt;anasicula&lt;/i&gt; Jones, 1982 are recorded from the Great Barrier Reef and Hibernia Reef, in the Timor Sea off Western Australia, respectively. &lt;i&gt;Lanocira&lt;/i&gt; &lt;i&gt;grebarree&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be identified by the anteriorly rounded, upturned and short rostral process in males in combination with the lack of stiff setae on the dorsal surface of the pleotelson. The similar &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gardineri&lt;/i&gt; Stebbing, 1904 is distinguished from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;grebarree&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; by the presence of stiff hyaline setae on the dorsal surface of the pleotelson. A key is provided to the Australian species of &lt;i&gt;Lanocira.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; Corallanidae; &lt;i&gt;Lanocira&lt;/i&gt;; coral reefs; Great Barrier Reef; Western Australia; Timor Sea</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Niel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bruce</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Conni</firstname>
+          <lastname>Sidabalok</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-34</pages>
+        <date_published>2011-03-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">On &lt;i&gt;Potamocypris compressa &lt;/i&gt;(Crustacea, Ostracoda) from temporary rock pools in Utah, USA, with notes on the taxonomic harmonisation of North American and European ostracod faunas</title>
+        <abstract locale="en_US">We report the abundant occurrence of a species of the ostracod genus &lt;i&gt;Potamocypris&lt;/i&gt; in temporary freshwater rock pools in Utah, USA. It is identified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;compressa&lt;/i&gt; Furtos, 1933, a species hitherto considered to be only a variety or subspecies of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;smaragdina&lt;/i&gt; (Vávra, 1891) but here established as a valid species for the first time. The biogeographical implications of this taxonomic revision are considered in the context of a metadatabase of northern hemisphere nonmarine ostracods for palaeoclimate applications.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Ostracoda; freshwater; morphology; zoogeography; metadatabase</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>J.</middlename>
+          <lastname>Horne</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Merlijn</firstname>
+          <lastname>Jocque</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luc</firstname>
+          <lastname>Brendonck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Koen</firstname>
+          <lastname>Martens</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2011-03-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new orb-weaving spider species representing the first record of &lt;i&gt;Novaranea &lt;/i&gt;in Australia (Araneae: Araneidae: Araneinae)</title>
+        <abstract locale="en_US">The orb-weaving spider genus &lt;i&gt;Novaranea&lt;/i&gt; Court &amp; Forster, 1988, previously known only from New Zealand, is here reported from Australia for the first time with the description of a new species. Generic affinities, here based on characteristic shapes of the median and terminal apophyses of the male pedipalp, remain somewhat ambiguous as some of the endemic New Zealand araneine genera remain to be tested within a rigorous phylogenetic analysis. &lt;i&gt;Novaranea&lt;/i&gt; &lt;i&gt;courti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is found in the southeastern parts of Australia, including New South Wales, Victoria and Tasmania. Mature spiders are generally found between January and March, although some specimens were collected in April, June and November. &lt;i&gt;Novaranea&lt;/i&gt; &lt;i&gt;courti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; appears to prefer forest habitats (e.g. Southern Beech (Nothofagus) forest and &lt;i&gt;Eucalyptus/Casuarina&lt;/i&gt; woodland), but was also found in more open areas such as grassand heathland.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cryptaranea&lt;/i&gt;; &lt;i&gt;Araneus&lt;/i&gt;; New Zealand; Gondwana</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cryptaranea&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Volker</firstname>
+          <middlename>W.</middlename>
+          <lastname>Framenau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-55</pages>
+        <date_published>2011-03-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Silurichthys ligneolus&lt;/i&gt;, a new catfish (Teleostei: Siluridae) from southern Borneo, Indonesia</title>
+        <abstract locale="en_US">&lt;i&gt;Silurichthys&lt;/i&gt; &lt;i&gt;ligneolus,&lt;/i&gt; a new species of silurid catfish, is described from blackwater habitats in southern Borneo. The new species can be distinguished from congeners in having a combination of: body depth at anus 9.1–11.0% SL, caudal peduncle depth 4.7–5.5% SL, eye diameter 6.7–9.8% HL, pelvic fins present, 44–45 anal-fin rays, 3–4 principal rays on the lower caudal-fin lobe, lower lobe of caudal fin indistinct, 46–48 vertebrae, one gill raker on the first branchial arch, and body uniformly brown. Based on the morphology of its caudal fin, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ligneolus&lt;/i&gt; is hypothesized to be the sister taxon of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sanguineus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ostariophysi; Siluriformes; Kalimantan Tengah</subject>
+          <subject_class locale="en_US">Ostariophysi</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heok</firstname>
+          <middlename>Hui</middlename>
+          <lastname>Tan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-62</pages>
+        <date_published>2011-03-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Ecnomiohyla sukia &lt;/i&gt;Savage &amp; Kubicki, 2010 (Amphibia: Hylidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heinz</firstname>
+          <lastname>Hoffmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <lastname>Kubicki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-66</pages>
+        <date_published>2011-03-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A generic name for some sparrows (Aves: Emberizidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <lastname>Klicka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>C.</middlename>
+          <lastname>Banks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2011-03-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

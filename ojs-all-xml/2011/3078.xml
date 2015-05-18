@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3078.1</id>
+    <title locale="en_US">28 Oct. 2011</title>
+    <volume>3078</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-10-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic review of the Leucothoidae (Crustacea: Amphipoda)</title>
+        <abstract locale="en_US">The taxonomy of the amphipod family Leucothoidae has been reviewed and changes are proposed. Currently, there are 139 described species of leucothoids in two clades. The anamixid clade contains 39 species and the leucothoid clade contains 100 species. For the first time in a single work, diagnoses, distributions, and available host data are presented for all extant species of the Leucothoidae. The genus &lt;i&gt;Leucothoella&lt;/i&gt; has been suppressed based on morphological similarities to the genus &lt;i&gt;Leucothoe.&lt;/i&gt; The genera &lt;i&gt;Anamixis&lt;/i&gt; and &lt;i&gt;Paranamixis&lt;/i&gt; need revision, as the major defining character of &lt;i&gt;Paranamixis&lt;/i&gt; (absence of gnathopod 1) is likely developmental. However, due to lack of available data, the genera currently remain separate. Identification keys are provided for all but five poorly described species in the family.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Anamixis&lt;/i&gt;; &lt;i&gt;Nepanamixis&lt;/i&gt;; &lt;i&gt;Paranamixis&lt;/i&gt;; &lt;i&gt;Leucothoe&lt;/i&gt;; &lt;i&gt;Leucothoella&lt;/i&gt;; &lt;i&gt;Paraleucothoe&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Anamixis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kristine</firstname>
+          <middlename>N.</middlename>
+          <lastname>White</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-113</pages>
+        <date_published>2011-10-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2780.1</id>
+    <title locale="en_US">1 Mar. 2011</title>
+    <volume>2780</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogenetic analysis of the &lt;i&gt;Pantomorus-Naupactus &lt;/i&gt;complex (Coleoptera: Curculionidae: Entiminae) from North and Central America</title>
+        <abstract locale="en_US">We undertook the first cladistic analysis of the &lt;i&gt;Pantomorus-Naupactus&lt;/i&gt; complex (Coleoptera: Curculionidae) from North and Central America, based on 35 species and 61 morphological characters, plus 1151 bp of the mtDNA COI and Cyt b genes. The morphological and the combined matrices analyzed with TNT yielded a single most parsimonious cladogram that allows recognition of two main lineages within the &lt;i&gt;Pantomorus-Naupactus&lt;/i&gt; complex in North and Central America. One is represented by the species formerly placed in &lt;i&gt;Phacepholis&lt;/i&gt; and the &lt;i&gt;Pantomorus&lt;/i&gt; species group II &lt;i&gt;sensu&lt;/i&gt; Sharp, ranging along the Pacific coast of Central America and Mexico and reaching the Great Plains of North America in the United States, yet not occurring in South America. The other lineage is represented by the species of &lt;i&gt;Naupactus&lt;/i&gt; and &lt;i&gt;Pantomorus&lt;/i&gt; species group I, with closer relationships to the South American species of these genera. The &lt;i&gt;Pantomorus&lt;/i&gt; group I includes the type species of the genus (P. &lt;i&gt;albosignatus&lt;/i&gt; Boheman) whereas the &lt;i&gt;Pantomorus&lt;/i&gt; group II includes the type species of &lt;i&gt;Athetetes&lt;/i&gt; Pascoe, 1886 (A. &lt;i&gt;globicollis&lt;/i&gt; Pascoe). Based on the results of our phylogenetic analysis, we recommend retaining the name &lt;i&gt;Pantomorus&lt;/i&gt; Schoenherr for most species of the &lt;i&gt;Pantomorus&lt;/i&gt; group I, except &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;stupidus&lt;/i&gt; (Boheman) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;femoratus&lt;/i&gt; Sharp which should be transferred to &lt;i&gt;Naupactus&lt;/i&gt; Dejean. Moreover, we enlarge the previous concept of &lt;i&gt;Phacepholis&lt;/i&gt; to include most species of the &lt;i&gt;Pantomorus&lt;/i&gt; group II, and we establish the synonymy of &lt;i&gt;Athetetes&lt;/i&gt; Pascoe, 1886 with &lt;i&gt;Phacepholis&lt;/i&gt; Horn, 1876, being the latter the valid name, by priority.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeography; classification; phylogenetics; Naupactini; Central America; Mexico; North America</subject>
+          <subject_class locale="en_US">biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>María</firstname>
+          <middlename>V.</middlename>
+          <lastname>Rosas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>J.</middlename>
+          <lastname>Morrone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Guadalupe</middlename>
+          <lastname>Del Río</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Analía</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lanteri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2011-03-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Downeshelea &lt;/i&gt;Wirth &amp; Grogan and a redescription of the male of &lt;i&gt;Downeshelea cebacoi &lt;/i&gt;(Lane &amp; Wirth) (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US">A new species of predaceous midge, &lt;i&gt;Downeshelea&lt;/i&gt; &lt;i&gt;lanei&lt;/i&gt; Felippe-Bauer &amp; Borkent, is described and illustrated based on male and female specimens from the Amazonian Region of Brazil. The male of &lt;i&gt;Downeshelea&lt;/i&gt; &lt;i&gt;cebacoi&lt;/i&gt; (Lane &amp; Wirth) is redescribed and illustrated and the distribution of this species is now restricted to Panama and Costa Rica.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">predaceous midges; Neotropical Region; Amazonas; Pará; new species</subject>
+          <subject_class locale="en_US">predaceous midges</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <middlename>Luiza</middlename>
+          <lastname>Felippe-Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tiago</firstname>
+          <middlename>Do Nascimento</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enaly</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Art</firstname>
+          <lastname>Borkent</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-28</pages>
+        <date_published>2011-03-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the Holarctic species of &lt;i&gt;Dilyta &lt;/i&gt;Förster (Hymenoptera: Figitidae: Charipinae) with descriptions of four new species from the eastern Palaearctic</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Dilyta,&lt;/i&gt; and the known species of this genus present in the Holarctic, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;subclavata&lt;/i&gt; Förster from Europe and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;rathmanae&lt;/i&gt; Menke and Evenhuis from USA, are redescribed. Four new species of &lt;i&gt;Dilyta&lt;/i&gt; are described from the eastern Palaearctic region: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;aleevae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Kazakhstan, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Japan, and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;longinqua&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;sinica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from China. All six species have an ∩ -shaped carina on the apex of the scutellum; this character differentiates these species from the Afrotropical species, which instead have two small symmetrical and parallel carinae. A key to the species of &lt;i&gt;Dilyta&lt;/i&gt; in the Holarctic is provided. &lt;i&gt;Apocharips&lt;/i&gt; &lt;i&gt;talitzkii&lt;/i&gt; (Belizin) is synonymyzed with &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;subclavata.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hymenoptera; Figitidae; Charipinae; &lt;i&gt;Dilyta&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Hymenoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jordi</firstname>
+          <lastname>Paretas-Martínez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mar</firstname>
+          <lastname>Ferrer-Suay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oleg</firstname>
+          <lastname>Kovalev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <lastname>Melika</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesús</firstname>
+          <lastname>Selfa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juli</firstname>
+          <lastname>Pujade-Villar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-38</pages>
+        <date_published>2011-03-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The mtDNA control region structure and preliminary phylogenetic relationships of the genus &lt;i&gt;Gampsocleis &lt;/i&gt;(Orthoptera: Tettigoniidae)</title>
+        <abstract locale="en_US">The mitochondrial DNA control region (mtDNA CR) has been cloned and sequenced from 56 individuals representing five species of the genus &lt;i&gt;Gampsocleis.&lt;/i&gt; The Neighbor-Joining (NJ) tree under the Kimura 2-parameter (K2P) model, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sedakovii&lt;/i&gt; haplotypes cluster into two distinct clades A and B. It suggests there may be more than one species within this group. The macropterous species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; grouped among &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ussuriensis.&lt;/i&gt; Two brachypterous species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gratiosa&lt;/i&gt; grouped as sibling species. Individuals of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;carinata&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;gratiosa&lt;/i&gt; grouped together in distinct clades, even when collected from different localities. MtDNA CR structural analysis found two conserved motifs in the primary sequences “(TA)n” and poly-A stretch in the twelve ensiferan species examined, which may be involved in mtDNA transcription or replication control.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Gampsocleis&lt;/i&gt;; Mitochondrial DNA control region; Haplotype; genetic diversity</subject>
+          <subject_class locale="en_US">&lt;i&gt;Gampsocleis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yan-Xia</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhi-Jun</firstname>
+          <lastname>Zhou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Lin</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Ru</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-47</pages>
+        <date_published>2011-03-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the Iberian endemic subgenus &lt;i&gt;Lathromene &lt;/i&gt;Koch (Coleoptera: Staphylinidae: Paederinae): description of the first hypogean &lt;i&gt;Domene &lt;/i&gt;Fauvel, 1872 from Portugal</title>
+        <abstract locale="en_US">&lt;i&gt;Domene&lt;/i&gt; &lt;i&gt;(Lathromene)&lt;/i&gt; &lt;i&gt;lusitanica&lt;/i&gt; n. sp. from Sicó karstic massif in Portugal is described and compared with other species of the subgenus, representing the first hypogean rove beetle from mainland Portugal. A comparison between &lt;i&gt;Domene&lt;/i&gt; &lt;i&gt;lusitanica&lt;/i&gt; n. sp. and the other species of the Iberian endemic subgenus &lt;i&gt;Lathromene&lt;/i&gt; is made using diagnostic characters. An identification key for the males of &lt;i&gt;Lathromene&lt;/i&gt; species is presented, and biogeographical and ecological comments are also included. The species of &lt;i&gt;Domene&lt;/i&gt; known from the Iberian Peninsula are listed and their distributions are mapped.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rove-beetle; new species; troglobiont; subterranean; cave; karst; Iberian Peninsula</subject>
+          <subject_class locale="en_US">Rove-beetle</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>A.</firstname>
+          <middlename>S. P. S.</middlename>
+          <lastname>Reboleira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Oromí</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-56</pages>
+        <date_published>2011-03-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Andraegoidus &lt;/i&gt;Aurivillius: new species, synonymies and key to the species (Insecta: Coleoptera: Cerambycidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;translucidus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Bolivia (Santa Cruz). The following synonyms are proposed: &lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;homoplatus&lt;/i&gt; &lt;i&gt;hassenteufeli&lt;/i&gt; Fuchs, 1958 = &lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;homoplatus&lt;/i&gt; (Dupont, 1838), and &lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;lacordairei&lt;/i&gt; &lt;i&gt;punctipennis&lt;/i&gt; Hüdepohl, 1985 = &lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;lacordairei&lt;/i&gt; (Dupont, 1838). A key to the species of this genus is provided. The geographical distribution of &lt;i&gt;Andraegoidus&lt;/i&gt; &lt;i&gt;lacordairei&lt;/i&gt; is now widened to Trinidad and Tobago (Talparo).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cerambycinae; Trachyderini; new species; synonymies</subject>
+          <subject_class locale="en_US">Cerambycinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>Pablo Botero</middlename>
+          <lastname>R.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcela</firstname>
+          <middlename>L.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2011-03-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Symbiopsocus &lt;/i&gt;Li (Psocoptera: Psocidae), with a new species from China </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Symbiopsocus&lt;/i&gt; is reviewed and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described from China. The biogeography of 10 Chinese species is discussed briefly, and a distribution map provided. An updated key to the 13 world species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Psocoptera; Psocidae; &lt;i&gt;Symbiopsocus&lt;/i&gt;; distribution; new species; key; China</subject>
+          <subject_class locale="en_US">Psocoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luxi</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fasheng</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhiqi</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-03-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

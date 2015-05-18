@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.1677.1</id>
+    <title locale="en_US">11 Jan. 2008</title>
+    <volume>1677</volume>
+    <number>1</number>
+    <year>2008</year>
+    <date_published>2008-01-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revised checklist of the tiger moths of the Continental United States and Canada</title>
+        <abstract locale="en_US">The checklist of the Arctiinae (generally treated as the Arctiidae previously) of the continental United States and Canada is revised, incorporating a number of corrections and changes to publication dates and nomenclature as presented in the recent checklist of Ferguson and Opler (2006). &lt;i&gt;Clemensia&lt;/i&gt; &lt;i&gt;patella&lt;/i&gt; (Druce) is revised to synonomy under &lt;i&gt;Clemensia&lt;/i&gt; &lt;i&gt;albata&lt;/i&gt; Packard, &lt;i&gt;Holoarctia&lt;/i&gt; &lt;i&gt;sordida&lt;/i&gt; (McDunnough) is raised from synonomy under &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;cervini&lt;/i&gt; (Fallou), and &lt;i&gt;Arachnis&lt;/i&gt; &lt;i&gt;apachea&lt;/i&gt; Clarke is transferred from synonomy under &lt;i&gt;Arachnis&lt;/i&gt; &lt;i&gt;verna&lt;/i&gt; Barnes &amp; McDunnough to &lt;i&gt;Arachnis&lt;/i&gt; &lt;i&gt;citra&lt;/i&gt; Neumögen &amp; Dyar. &lt;i&gt;Palearctia&lt;/i&gt; Ferguson is synonomized under &lt;i&gt;Holarctia&lt;/i&gt; M. E. Smith. The North American taxa previously treated as the tribe Arctiini are segregated into the subtribes Arctiina and Spilosomina. The genera &lt;i&gt;Kodiosoma&lt;/i&gt; Stretch and &lt;i&gt;Euerythra&lt;/i&gt; Harvey, previously treated as Arctiini, are transferred to the subtribe Phaegopterina.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Checklist; tiger moths; United States; Canada</subject>
+          <subject_class locale="en_US">Checklist</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>B.</firstname>
+          <middlename>Christian</middlename>
+          <lastname>Schmidt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>A.</middlename>
+          <lastname>Opler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2008-01-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Australian ants of the genus &lt;i&gt;Aphaenogaster&lt;/i&gt; (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">The Australian species of the myrmicine ant genus &lt;i&gt;Aphaenogaster&lt;/i&gt; Mayr are revised. Eight species are recognised, four of which are described as new. The species include &lt;i&gt;barbara&lt;/i&gt; sp. n., &lt;i&gt;barbigula&lt;/i&gt; Wheeler (for which a lectotype is designated), &lt;i&gt;kimberleyensis&lt;/i&gt; sp. n., &lt;i&gt;longiceps&lt;/i&gt; (Smith) (with its newly recognised synonym, &lt;i&gt;flava&lt;/i&gt; Emery), &lt;i&gt;mediterrae&lt;/i&gt; sp. n., &lt;i&gt;poultoni&lt;/i&gt; Crawley, &lt;i&gt;pythia&lt;/i&gt; Forel (for which a neotype is designated) and &lt;i&gt;reichelae&lt;/i&gt; sp. n. &lt;i&gt;Aphaenogaster&lt;/i&gt; is widely distributed across eastern and southern Australia (except Tasmania), with isolated populations in northern Northern Territory and northern Western Australia. Species occur in a range of habitats from rainforests through open woodlands and can be of significant economic importance because of damage caused by their nests.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Australia; Formicidae; Hymenoptera; new species; lectotype; neotype; &lt;i&gt;Aphaenogaster&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Australia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Steven</firstname>
+          <middlename>O</middlename>
+          <lastname>Shattuck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-45</pages>
+        <date_published>2008-01-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the alderfly genus &lt;i&gt;Indosialis&lt;/i&gt; Lestage (Megaloptera: Sialidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Indosialis&lt;/i&gt; Lestage is a small Asian genus of alderflies. Herein, we describe a new species, &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;indicus,&lt;/i&gt; and revise the three species in the genus. A key to males and a discussion of the phylogeny and biogeography of the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sialidae; &lt;i&gt;Indosialis&lt;/i&gt;; new species; Asia</subject>
+          <subject_class locale="en_US">Sialidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xingyue</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oliver</firstname>
+          <middlename>S.</middlename>
+          <lastname>Flint</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2008-01-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Nesidiorchestes&lt;/i&gt; &lt;i&gt;hawaiiensis&lt;/i&gt; Kirkaldy: new tribal assignment and lectotype designation (Hemiptera: Heteroptera: Miridae: Orthotylinae: Orthotylini)</title>
+        <abstract locale="en_US">The preponderance of documented morphological evidence presented for &lt;i&gt;Nesidiorchestes&lt;/i&gt; &lt;i&gt;hawaiiensis&lt;/i&gt; Kirkaldy, 1902 argues for its tribal reassignment to the Orthotylini from the Halticini. A lectoype is designated for a male syntype maintained in the Natural History Museum, London.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Hemiptera; Miridae; Taxonomy; Hawaii</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <middlename>D.</middlename>
+          <lastname>Schwartz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikolai</firstname>
+          <lastname>Tatarnic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2008-01-11</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

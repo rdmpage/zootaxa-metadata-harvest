@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3229.1</id>
+    <title locale="en_US">9 Mar. 2012</title>
+    <volume>3229</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-03-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Towards addressing the current state of confusion within the Hexabothriidae Price, 1942 (1908): &lt;i&gt;Callorhynchocotyle &lt;/i&gt;Suriano &amp; Incorvaia, 1982 (Monogenea: Hexabothriidae) re-visited, with the preliminary evaluation of novel parameters for measuring haptoral armature of hexabothriids</title>
+        <abstract locale="en_US">The monogenean family, Hexabothriidae Price, 1942 (1908), currently consists of 15 valid genera parasitic on the gills ofchondrichthyan fishes. The hexabothriid literature is littered with inconsistencies, ambiguity and editorial errors whichhampers the progress and the development of investigations after the significant treatment of the family by Boeger &amp;Kritsky (1989). A lack of consistency in the measurement protocol for the haptoral armature of hexabothriids is highlight-ed and discussed. The preliminary results of a new measurement protocol incorporating existing and novel parameterswere explored for the first time using statistical analyses. Character variables were investigated for their utility as poten-tially useful discriminators using univariate and multivariate analyses. The elimination of age-associated variance in suck-er sclerites was performed by ratio-transformation of the data to an age-dependant variable. Character variables with ahigh coefficient of variance after accounting for age were disqualified for use in the subsequent analyses. A coefficient ofvariance exceeding a conservative 10% limit was considered the result of measurement error resulting from the small sizesof these variables and therefore may also reflect the limitations of hardware and software in making small but accuratemeasurements. The proposed protocol is tested on representatives of &lt;i&gt;Callorhynchocotyle&lt;/i&gt; and a &lt;i&gt;Rajonchocotyle&lt;/i&gt; species totest the utility of character variables in separating species. Principle Component Analysis of the combination of the sucker-sclerites and the hamulus provided a preliminary level of robustness in separating &lt;i&gt;Callorhynchocotyle&lt;/i&gt; species with theexception of &lt;i&gt;Callorhynchocotyle&lt;/i&gt; &lt;i&gt;hydrolagi&lt;/i&gt; for which there were insufficient data. Results confirm the importance of thehamulus in providing valuable diagnostic significance but the shape of the sucker sclerites as a function of total length anddiameter may also provide significant potential. &lt;i&gt;Callorhynchocotyle&lt;/i&gt; is revisited with the addition of new specimens for 3of the species. The new data resulting from the measurement protocol are included in the redescription of &lt;i&gt;Callorhynchoc-&lt;/i&gt;&lt;i&gt;otyle&lt;/i&gt; &lt;i&gt;marplatensis,&lt;/i&gt; &lt;i&gt;Callorhynchocotyle&lt;/i&gt; &lt;i&gt;callorhynchi&lt;/i&gt; and &lt;i&gt;Callorhynchocotyle&lt;/i&gt; &lt;i&gt;amatoi.&lt;/i&gt; Supplemental information is provided for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hydrolagi&lt;/i&gt; and &lt;i&gt;Callorhynchocotyle&lt;/i&gt; &lt;i&gt;sagamiensis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hexabothriidae Price; 1942 (1908); &lt;i&gt;Callorhynchocotyle&lt;/i&gt; Suriano &amp; Incorvaia; 1982; morphometrics; novel parameters; Monogenea</subject>
+          <subject_class locale="en_US">Hexabothriidae Price</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <lastname>Vaughan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <lastname>Christison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-03-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Troglodrilus jugeti &lt;/i&gt;n. sp. (Annelida, Clitellata, Tubificinae), a new stygobiont oligochaete species from south-western Europe </title>
+        <abstract locale="en_US">We use a morphological approach focused on characters of the reproductive organs to assess the taxonomic status of thestygobiont oligochaete species &lt;i&gt;Troglodrilus&lt;/i&gt; &lt;i&gt;galarzai&lt;/i&gt; (Giani and Rodriguez, 1988). After the evaluation of 23 characters,diagnostic differences in the spermathecal vestibule, the penial sac and the penial sheath are observed between northernIberian Peninsula populations and south-eastern France populations. Recent molecular analyses based on mitochondrialgene data have revealed a high genetic variation in &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;galarzai.&lt;/i&gt; Given that both molecular and morphological data supportthe presence of two species within &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;galarzai,&lt;/i&gt; we propose the specific status for the French populations under the name&lt;i&gt;Troglodrilus&lt;/i&gt; &lt;i&gt;jugeti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; As a result, the type species of the genus, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;galarzai,&lt;/i&gt; is now restricted to the Iberian Peninsula.A possible paleogeographic scenario is hypothesised for the evolution of &lt;i&gt;Troglodrilus&lt;/i&gt; during the Para-Tethys regression in the Neogene stage.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">groundwater; oligochaete; cryptic speciation; new species</subject>
+          <subject_class locale="en_US">groundwater</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ainara</firstname>
+          <lastname>Achurra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <middlename>Creuze Des</middlename>
+          <lastname>Chatelliers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pilar</firstname>
+          <lastname>Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2012-03-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of scincid lizard in the genus &lt;i&gt;Caledoniscincus &lt;/i&gt;(Reptilia: Scincidae) from northwest New Caledonia </title>
+        <abstract locale="en_US">A new species of skink in the genus &lt;i&gt;Caledoniscincus&lt;/i&gt; is described from the northwest region of New Caledonia. It is knownfrom two locations, one on the coast at Pointe de Vavouto north of Koné, the other on the slopes of the Massif d’Oua-zangou, an isolated mountain 30 km to the north. Typical of all members of the genus, adult males and females of the newspecies are sexually dichromatic. The new species, &lt;i&gt;Caledoniscincus&lt;/i&gt; &lt;i&gt;constellatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has a bold, white midlateralstripe, a feature which distinguishes it from most other species of &lt;i&gt;Caledoniscincus&lt;/i&gt; except the regionally sympatric &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hap-&lt;/i&gt;&lt;i&gt;lorhinus&lt;/i&gt; (Günther) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;austrocaledonicus&lt;/i&gt; (Bavay), from which it can be distinguished by a unique pattern of contactbetween the pale midlateral stripe and the ear. DNA sequence data for the ND2 mitochondrial gene identifies a high levelof genetic differentiation between the new species and all other &lt;i&gt;Caledoniscincus,&lt;/i&gt; further supporting its distinctiveness asan independent evolutionary lineage. The species is of high conservation concern given its restricted distribution in a re-gion that has been, and will continue to be, heavily impacted by human occupation, and would be ranked as Critically Endangered under IUCN criteria.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New Caledonia; Scincidae; Endangered</subject>
+          <subject_class locale="en_US">New Caledonia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ross</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sadlier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tony</firstname>
+          <lastname>Whitaker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Perry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aaron</firstname>
+          <middlename>M.</middlename>
+          <lastname>Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-57</pages>
+        <date_published>2012-03-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery of &lt;i&gt;Pseudophilautus semiruber&lt;/i&gt;, a diminutive shrub frog (Rhacophoridae: &lt;i&gt;Pseudophilautus&lt;/i&gt;) from Sri Lanka </title>
+        <abstract locale="en_US">&lt;i&gt;Ixalus&lt;/i&gt; &lt;i&gt;semiruber&lt;/i&gt; Annandale, a diminutive (12-mm snout-vent length) frog originally described from the highlands of Sri Lankain 1913, has not been recorded in the succeeding century and is treated as Data Deficient for conservation purposes. Here wereport its rediscovery in Agra-Bopath, a sub-montane forest reserve. &lt;i&gt;Pseudophilautus&lt;/i&gt; &lt;i&gt;semiruber&lt;/i&gt; is distinguished by a combina-tion of the following characters: size 12.0–13.4 mm SVL; canthal edges rounded; tympanum distinct; vomerine ridge absent;supratympanic fold feebly defined; throat, chest, belly and underside of thigh smooth. It is a high-elevation (1,750 m a.s.l.) diurnal species that inhabits heavily-shaded leaf litter.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; conservation; phylogenetics; Rhacophorinae; taxonomy</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Madhava</firstname>
+          <lastname>Meegaskumbura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kelum</firstname>
+          <lastname>Manamendra-Arachchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gayan</firstname>
+          <lastname>Bowatte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Suyama</firstname>
+          <lastname>Meegaskumbura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2012-03-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

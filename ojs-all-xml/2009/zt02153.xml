@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2153.1</id>
+    <title locale="en_US">9 Jul. 2009</title>
+    <volume>2153</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-07-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of cryptic taxa within the &lt;i&gt;Alpheus bouvieri &lt;/i&gt;A. Milne-Edwards, 1878 and &lt;i&gt;A. hebes &lt;/i&gt;Kim and Abele, 1988 species complexes (Crustacea: Decapoda: Alpheidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;bouvieri&lt;/i&gt; A. Milne-Edwards, 1878 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hebes&lt;/i&gt; Kim and Abele, 1988 are reviewed based on morphological and genetic data. &lt;i&gt;Alpheus&lt;/i&gt; &lt;i&gt;bouvieri,&lt;/i&gt; previously believed to be distributed in the eastern Pacific and Atlantic, is restricted to the Atlantic populations; the eastern Pacific populations (A. &lt;i&gt;bouvieri&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; Kim and Abele 1988) are assigned to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;javieri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; A second new species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; closely related to the eastern Pacific &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hebes,&lt;/i&gt; is described based on recently collected specimens from the eastern Atlantic (São Tomé, Cape Verde) and western Atlantic (Atol das Rocas off northeastern Brazil). The absence of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (or any other representative of the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hebes&lt;/i&gt; clade) in the Caribbean Sea is likely due to a relatively recent (~1–2 my) extinction. Genetic data (COI sequences) indicates that &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bouvieri&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;javieri&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hebes&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; diverged approximately 6 and 7.5 mya, respectively, i.e., around 3 my before the final closure of the Isthmus of Panama.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Alpheus&lt;/i&gt;; snapping shrimp; Alpheidae; eastern Pacific; western Atlantic; color pattern; transisthmian species; new species; extinction; Caribbean; molecular phylogeny; barcode; COI</subject>
+          <subject_class locale="en_US">&lt;i&gt;Alpheus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carla</firstname>
+          <lastname>Hurt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <lastname>Knowlton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2009-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Notoraja sapphira &lt;/i&gt;sp. nov. (Rajoidei: Arhynchobatidae), a new deepwater skate from the slopes of the Norfolk Ridge (South-West Pacific)</title>
+        <abstract locale="en_US">A new arhynchobatid skate of the genus &lt;i&gt;Notoraja&lt;/i&gt; is described from five specimens collected on the slopes of the Norfolk Ridge between 1195 and 1313 m depth. The new species is distinct from its sibling species from southern Australian waters, the Blue Skate (N. &lt;i&gt;azurea),&lt;/i&gt; by its smaller size, several morphometric and meristic characters, thorn pattern and dorsal and ventral coloration.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arhynchobatidae; skate; new species; &lt;i&gt;Notoraja&lt;/i&gt; &lt;i&gt;sapphira&lt;/i&gt;; South-West Pacific</subject>
+          <subject_class locale="en_US">Arhynchobatidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bernard</firstname>
+          <lastname>Séret</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-34</pages>
+        <date_published>2009-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Differentiation between two epilittoral species, &lt;i&gt;Scutovertex arenocolus &lt;/i&gt;spec. nov. and &lt;i&gt;Scutovertex pilosetosus &lt;/i&gt;Polderman (Acari: Oribatida) from different European coasts</title>
+        <abstract locale="en_US">&lt;i&gt;Scutovertex&lt;/i&gt; &lt;i&gt;arenocolus&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; living in the sandy shore of the Baltic coast is described. Additionally, a closely related species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pilosetosus,&lt;/i&gt; occurring in marsh habitats of the North Sea coast, is redescribed in detail. Both species show a similar habitus. &lt;i&gt;Scutovertex&lt;/i&gt; &lt;i&gt;arenocolus&lt;/i&gt; differs from &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pilosetosus&lt;/i&gt; in the length of body, cusps and notogastral setae, in the ridge on mentum as well as in a different exochorion structure of the eggs. A morphometric analysis of 14 morphological characters confirmed distinctly shorter cusps and notogastral setae in &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;arenocolus.&lt;/i&gt; Additionally, a principal component analysis performed with 17 morphological traits provided a clear separation of these two species and of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minutus.&lt;/i&gt; The results of these analyses lead to the conclusion that earlier reports of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt; in the coastal zone of the Atlantic, the Baltic and the North Sea should be assigned to the one or the other of these two littoral species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Scutovertex&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt;; morphology; morphometry; PCA; exochorion</subject>
+          <subject_class locale="en_US">&lt;i&gt;Scutovertex&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tobias</firstname>
+          <lastname>Pfingstl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sylvia</firstname>
+          <lastname>Schäffer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ernst</firstname>
+          <lastname>Ebermann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guenther</firstname>
+          <lastname>Krisper</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-54</pages>
+        <date_published>2009-07-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Interrelationships and history of the slit-eared skinks (&lt;i&gt;Gongylomorphus, &lt;/i&gt;Scincidae) of the Mascarene islands, based on mitochondrial DNA and nuclear gene sequences</title>
+        <abstract locale="en_US">The scincid lizard genus &lt;i&gt;Gongylomorphus&lt;/i&gt; is endemic to the western Mascarene islands of Mauritius and Réunion in the southwest Indian Ocean, where its range was greatly reduced in the Nineteenth century, probably by an introduced southern Asian wolf snake (Lycodon &lt;i&gt;aulicus&lt;/i&gt; &lt;i&gt;capucinus)&lt;/i&gt; and perhaps other exotics. A phylogenetic analysis of the single recognised species of &lt;i&gt;Gongylomorphus&lt;/i&gt; was conducted using 1473 bp of combined recent mtDNA and nuclear sequence (cytochrome &lt;i&gt;b&lt;/i&gt; 714 bp, 12SrRNA 388 bp, c-mos 371 bp) from 40 individual &lt;i&gt;Gongylomorphus&lt;/i&gt; and members of 13 scincid genera used as outgroups. The three recognised subspecies form monophyletic lineages that diverge by 7% for mtDNA and 0.8% for c-mos and, as they also differ in morphology, they are raised to species status here. &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;fontenayi&lt;/i&gt; occurs in relict montane forest in southwest Mauritius and on neighbouring Flat Island; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bojerii&lt;/i&gt; on this and other offshore islands north and southeast of Mauritius; and the sister of this last species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;borbonicus&lt;/i&gt; was found on Réunion where it became extinct by about 1840. Phylogenetic topology suggests the ancestor of &lt;i&gt;Gongylomorphus&lt;/i&gt; originated in Madagascar or possibly Africa, colonising Mauritius from the west and speciating there as long as 3Ma, before a propagule from the &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bojerii&lt;/i&gt; lineage invaded Réunion &lt; 2.1Ma to produce &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;borbonicus.&lt;/i&gt; On and around Mauritius, moderate mtDNA variation exists within and between populations. Extant &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bojerii&lt;/i&gt; have two main haplogroups differing by ~ 1.7%: one on the northern offshore islands (Gunners Quoin, Flat, Gabriel, Round and Serpent islands, and Pigeon House Rock) and the other in the southeast (Ilot Vacoas). But homologous sequence from a recently extinct population on Ile aux Fouquets and subfossil bones from at least one mainland site indicates that members of both haplogroups originally occurred together in the southeast. Although the &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bojerii&lt;/i&gt; population on Serpent Island is morphologically distinct, it is genetically undifferentiated from neighbouring populations. In &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;fontenayi,&lt;/i&gt; a more robust orange-tailed population occurs on Flat Island over 60 km away from the remaining ones in the southwestern mountains of Mauritius but diverges from these by only 1.7% in mtDNA sequence. Subfossil material in the intervening area appears to represent intermediate haplotypes and confirms original continuity. These examples show that relict and limited material can mislead about the distinctness of allopatric populations.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Gongylomorphus&lt;/i&gt;; Mascarenes; 12SrRNA; cytochrome b; c-mos</subject>
+          <subject_class locale="en_US">&lt;i&gt;Gongylomorphus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>J.</middlename>
+          <lastname>Austin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <middlename>N.</middlename>
+          <lastname>Arnold</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>G.</middlename>
+          <lastname>Jones</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2009-07-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2820.1</id>
+    <title locale="en_US">14 Apr. 2011</title>
+    <volume>2820</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-04-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On the recent Cyclocypridinae (Podocopida, Candonidae) with description of two new genera and one new species</title>
+        <abstract locale="en_US">The recent representatives of the subfamily Cyclocypridinae Kaufmann, 1900 are revised here, based on some newly collected Australian material, as well as an extensive study of type material of already described species deposited in various museums. The following two new genera are proposed: &lt;i&gt;Kempfcyclocypris&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Keysercypria&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The genus &lt;i&gt;Kempfcyclocypris&lt;/i&gt; is erected to include single new species from subterranean waters of New South Wales, Australia. &lt;i&gt;Kempfcyclocypris&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from other members of the subfamily by the following characters: 6-segmented antennula, absence of the sexual bristles on antenna, weakly asymmetrical prehensile palps, absence of the basal seta on the second thoracopod, and the long distal seta on the penultimate segment of the third thoracopod. &lt;i&gt;Keysercypria&lt;/i&gt; is erected to include some South American species previously described in the genera &lt;i&gt;Physocypria&lt;/i&gt; Vávra, 1897 or &lt;i&gt;Cypria&lt;/i&gt; Zenker, 1854. The main characters of this genus are: rather globular carapace, with or without marginal tubercles; very short setae on endopodal segments of the third thoracopod; unequally long setae “h1” and “h2” on the terminal segment of the same appendage; and the presence of the basal seta on the second thoracopod. &lt;i&gt;Keysercypria&lt;/i&gt; &lt;i&gt;affinis&lt;/i&gt; (Klie, 1933) comb. nov. is chosen as the type species and, together with &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;deformis&lt;/i&gt; (Klie, 1940) comb. nov., &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;longiseta&lt;/i&gt; (Klie, 1930) comb. nov., &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;obtusa&lt;/i&gt; (Klie, 1940) comb. nov., and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;pellucida&lt;/i&gt; (Sars, 1901), redescribed in the present paper and lectotype and paralectotype are designated. After examining and redescribing the type species of the genus &lt;i&gt;Physocypria&lt;/i&gt; Vávra, 1897, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bullata&lt;/i&gt; Vávra, 1897, the genus &lt;i&gt;Mecynocypria&lt;/i&gt; Rome, 1962 is synonymised with &lt;i&gt;Physocypria.&lt;/i&gt; Lectotype of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bullata&lt;/i&gt; is here designated. For each valid genus a diagnosis, a key to species and a distribution map are provided. A list of six genera and 87 species, currently belonging to the subfamily Cyclocypridinae, is given at the end of the paper, along with their synonyms. Twenty four species are not included in the keys due to lack of data; these are also listed at the end of the paper.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ostracoda; revision; zoogeography; stygofauna</subject>
+          <subject_class locale="en_US">Ostracoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ivana</firstname>
+          <lastname>Karanovic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-61</pages>
+        <date_published>2011-04-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

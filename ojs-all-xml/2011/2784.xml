@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2784.1</id>
+    <title locale="en_US">7 Mar. 2011</title>
+    <volume>2784</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-03-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Ipodoryctes &lt;/i&gt;Granger, 1949 (Hymenoptera: Braconidae, Doryctinae) from China</title>
+        <abstract locale="en_US">The Chinese &lt;i&gt;Ipodoryctes&lt;/i&gt; Granger, 1949 from the Parasitic Hymenoptera Collection of Zhejiang University were studied and twelve species recognized, with seven new species proposed, namely &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;brevivenus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;guizhouensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;hebeiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;liui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;rugosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;rutilans&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;wuyiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and four records new to China, i.e., &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;annulicornis&lt;/i&gt; Belokobylskij, &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;longi&lt;/i&gt; Belokobylskij, &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;rugosiscutum&lt;/i&gt; Belokobylskij, and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;tamdaoensis&lt;/i&gt; Belokobylskij. A key to the Chinese species of &lt;i&gt;Ipodoryctes&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rhaconotini; Afrotropical; Oriental</subject>
+          <subject_class locale="en_US">Rhaconotini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pu</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lan-Lan</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jun-Hua</firstname>
+          <lastname>He</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2011-03-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of the subgenus &lt;i&gt;Sinoropeza &lt;/i&gt;Alexander, with a key to world species (Diptera, Tipulidae, &lt;i&gt;Dolichopeza&lt;/i&gt;)</title>
+        <abstract locale="en_US">The following four new species of the subgenus &lt;i&gt;Sinoropeza&lt;/i&gt; Alexander from China are described: &lt;i&gt;Dolichopeza&lt;/i&gt; (Sinoro- &lt;i&gt;peza)&lt;/i&gt; &lt;i&gt;apicalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; (S.) &lt;i&gt;hamulifera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; (S.) &lt;i&gt;cuspidigera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; (S.) &lt;i&gt;furcellatusa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the world species of the subgenus &lt;i&gt;Sinoropeza&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Tipulidae; &lt;i&gt;Dolichopeza&lt;/i&gt;; &lt;i&gt;Sinoropeza&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qifei</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-32</pages>
+        <date_published>2011-03-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Rhagovelia &lt;/i&gt;in the &lt;i&gt;armata &lt;/i&gt;group from Colombia (Hemiptera: Heteroptera: Veliidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Rhagovelia&lt;/i&gt; &lt;i&gt;quilichaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Santander de Quilichao Municipality, Cauca Department, Colombia, and placed in the &lt;i&gt;armata&lt;/i&gt; group. A key to the species of &lt;i&gt;Rhagovelia&lt;/i&gt; species in the &lt;i&gt;armata&lt;/i&gt; group from Colombia is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; aquatic insects; tropical South America; key to species; Colombia</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dora</firstname>
+          <middlename>N.</middlename>
+          <lastname>Padilla-Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-38</pages>
+        <date_published>2011-03-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Prochetostoma expandens &lt;/i&gt;(Diptera: Tephritidae) sp. n., a fruit parasite of &lt;i&gt;Ilex integra &lt;/i&gt;Thunberg (Aquifoliaceae) in Japan</title>
+        <abstract locale="en_US">The third species of the genus &lt;i&gt;Prochetostoma,&lt;/i&gt; developing in the fruits of &lt;i&gt;Ilex&lt;/i&gt; &lt;i&gt;integra&lt;/i&gt; Thunberg, has been reported six times in Japan since 1985 but has not been described. We here describe adults and immatures of this species as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;expandens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Based on the adult morphological characters, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;expandens&lt;/i&gt; is suggested to be the sister species of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bhutanicum&lt;/i&gt; Han. Two possible morphological synapomorphies of these two species are proposed. We also investigated a large number of larvae of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;expandens&lt;/i&gt; collected from fruits of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;integra.&lt;/i&gt; Detailed information about the life history is presented: oviposition takes place under the skin of immature fruits of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;integra&lt;/i&gt; in spring; larvae consume fruit tissue in summer and autumn; single fully matured larva escapes from the fruit and drops down to the ground for pupation; and adults emerge in the subsequent spring.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chetostomatina; life history; phylogeny; taxonomy; Trypetini</subject>
+          <subject_class locale="en_US">Chetostomatina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masahiro</firstname>
+          <lastname>Sueyoshi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ho-Yeon</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2011-03-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Platycleis galvagnii&lt;/i&gt;, a peculiar new bushcricket from Sardinia (Italy) (Insecta, Orthoptera, Tettigoniidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Platycleis&lt;/i&gt; &lt;i&gt;galvagnii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from Sardinia (Italy) is described. In general habitus the new taxon is close to &lt;i&gt;Platycleis&lt;/i&gt; sensu strictu, albeit very small in size. When looking at other characters the species does not seem to fit within one of the groups recognised within &lt;i&gt;Platycleis&lt;/i&gt; s.l., but for the moment the species is placed in &lt;i&gt;Platycleis&lt;/i&gt; s.s.. The species is characterised by a range of morphological and bioacoustic characters. Its real affiliations with other species within the &lt;i&gt;Platycleis&lt;/i&gt; complex need to be established further. For the moment the species is known only from the type locality, Gennargentu mountain in the central part of Sardinia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Platycleis&lt;/i&gt; &lt;i&gt;galvagnii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; bioacoustics; Gennargentu; Sardinia; Italia</subject>
+          <subject_class locale="en_US">&lt;i&gt;Platycleis&lt;/i&gt; &lt;i&gt;galvagnii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; bioacoustics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paolo</firstname>
+          <lastname>Fontana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Filippo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Buzzetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roy</firstname>
+          <middlename>M. J. C.</middlename>
+          <lastname>Kleukers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Baudewijn</firstname>
+          <lastname>Odé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2011-03-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of new species of the genus &lt;i&gt;Woznessenskia &lt;/i&gt;(Orthoptera: Gryllacrididae: Gryllacridinae) from China</title>
+        <abstract locale="en_US">Three new species of the genus &lt;i&gt;Woznessenskia&lt;/i&gt; Gorochov, 2002 from China are described in this paper, i.e. &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;arcoida&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;brevisa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;bimacula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; A key to the species of the genus &lt;i&gt;Woznessenskia&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gryllacrididae; Gryllacridinae; &lt;i&gt;Woznessenskia&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Gryllacrididae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Li-Ying</firstname>
+          <lastname>Guo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2011-03-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

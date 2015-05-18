@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2525.1</id>
+    <title locale="en_US">2 Jul. 2010</title>
+    <volume>2525</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-07-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On the distinction of &lt;i&gt;Harmothoe globifera &lt;/i&gt;(G.O. Sars, 1873) and some other easily confused polynoids in the NE Atlantic, with the description of a new species of &lt;i&gt;Acanthicolepis &lt;/i&gt;Norman in McIntosh, 1900 (Polychaeta, Polynoidae)</title>
+        <abstract locale="en_US">In the Northeast Atlantic several polynoid species have been confused in the past due to similarities in their elytral characters: &lt;i&gt;Harmothoe&lt;/i&gt; &lt;i&gt;globifera&lt;/i&gt; (G.O.Sars, 1873), &lt;i&gt;Eunoe&lt;/i&gt; &lt;i&gt;nodosa&lt;/i&gt; (M. Sars, 1861), &lt;i&gt;Eunoe&lt;/i&gt; &lt;i&gt;oerstedi&lt;/i&gt; Malmgren, 1866, &lt;i&gt;Leucia&lt;/i&gt; &lt;i&gt;nivea&lt;/i&gt; (M. Sars, 1863), and &lt;i&gt;Acanthicolepis&lt;/i&gt; &lt;i&gt;zibrowii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; a new species from deep cold-water corals. The five species are redescribed and figured based on type and additional material. An identification key allowing also the identification of juveniles and anterior fragments and a synoptic table listing the major distinguishing characters of the species covered are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; identification key; deep water; cold-water corals</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ruth</firstname>
+          <lastname>Barnich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Fiege</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2010-07-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Marine fish diversity: history of knowledge and discovery (Pisces) </title>
+        <abstract locale="en_US">A new monotypic genus, &lt;i&gt;Bloszykiella&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mesostigmata: Uropodina: Uropodidae) is described on the basis of two females and one deutonymph found in soil samples from Tanzania. The new genus is unusual among Uropodina in having large strongly dentate chelicerae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Uropodina; new genus; new species; taxonomy; Tanzania</subject>
+          <subject_class locale="en_US">Uropodina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>N.</middlename>
+          <lastname>Eschmeyer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronald</firstname>
+          <lastname>Fricke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jon</firstname>
+          <middlename>D.</middlename>
+          <lastname>Fong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dennis</firstname>
+          <middlename>A.</middlename>
+          <lastname>Polack</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-50</pages>
+        <date_published>2010-07-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular analysis of &lt;i&gt;Acanthemblemaria macrospilus &lt;/i&gt;(Teleostei: Chaenopsidae) with description of a new species from the Gulf of California, Mexico</title>
+        <abstract locale="en_US">Molecular analysis of the chaenopsid tube blenny, &lt;i&gt;Acanthemblemaria&lt;/i&gt; &lt;i&gt;macrospilus&lt;/i&gt; Brock, reveals species-level differentiation and the existence of a new species, described here as &lt;i&gt;Acanthemblemaria&lt;/i&gt; &lt;i&gt;hastingsi,&lt;/i&gt; using molecular and morphological data. This new species is a member of the &lt;i&gt;hancocki&lt;/i&gt; species group and is limited to the Gulf of California. It is distinguishable from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;macrospilus&lt;/i&gt; by mitochondrial gene sequences of cytochrome C oxidase I and D-loop region as well as by coloration. This differentiation is also supported to a lesser extent by the nuclear ribosomal protein S7 first intron. There is no geographic overlap in the ranges of these species, as they occur exclusively on either side of the Sinaloan Gap.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acanthemblemaria&lt;/i&gt; &lt;i&gt;hastingsi&lt;/i&gt;; Blennioidei; COI; D-loop region; S7-1; Tropical Eastern Pacific</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acanthemblemaria&lt;/i&gt; &lt;i&gt;hastingsi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hsiu-Chin</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Grantly</firstname>
+          <middlename>R.</middlename>
+          <lastname>Galland</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2010-07-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Bloszykiella africana &lt;/i&gt;gen. nov., sp. nov., a new mite genus from East Africa (Acari: Mesostigmata: Uropodidae)</title>
+        <abstract locale="en_US">A new monotypic genus, &lt;i&gt;Bloszykiella&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mesostigmata: Uropodina: Uropodidae) is described on the basis of two females and one deutonymph found in soil samples from Tanzania. The new genus is unusual among Uropodina in having large strongly dentate chelicerae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Uropodina; new genus; new species; taxonomy; Tanzania</subject>
+          <subject_class locale="en_US">Uropodina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jenő</firstname>
+          <lastname>Kontschán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2010-07-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

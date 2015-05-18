@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3121.1</id>
+    <title locale="en_US">7 Dec. 2011</title>
+    <volume>3121</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision of &lt;i&gt;Thaumastocoris &lt;/i&gt;Kirkaldy (Hemiptera: Heteroptera: Thaumastocoridae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Thaumastocoris&lt;/i&gt; is revised. Nine new species are described (T. &lt;i&gt;busso,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;freomooreae,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;kalaako,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;majeri,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nadeli,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;ohallorani,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;roy,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;safordi,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;slateri)&lt;/i&gt; and the five previously described species are redescribed. A diagnostic key to species is provided, supported with illustrations of key character systems and maps depicting their distributional range. Host plants are tabulated, and biology and host plant associations are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; key to species; new species; host; biology; distribution; invasive species</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ann</firstname>
+          <middlename>E.</middlename>
+          <lastname>Noack</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerasimos</firstname>
+          <lastname>Cassis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harley</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rose</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>01-60</pages>
+        <date_published>2011-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The correct publication date for mecopteran insects (Choristidae, Bittacidae, and Panorpidae) described by John Obadiah Westwood, resurrecting &lt;i&gt;Panorpa confusa &lt;/i&gt;Westwood, 1841, the confused scorpionfly</title>
+        <abstract locale="en_US">I correct the publication dates for one genus and 14 species of Mecoptera (1 choristid, 4 bittacids, and 9 panorpids), and resurrect &lt;i&gt;Panorpa&lt;/i&gt; &lt;i&gt;confusa&lt;/i&gt; Westwood, 1841. Additionally, I provide a nomenclatural and taxonomic summary for these taxa, and a publication history for all of Westwood’s related publications.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mecoptera; &lt;i&gt;Panorpa&lt;/i&gt; &lt;i&gt;rufescens&lt;/i&gt;; &lt;i&gt;Euphania&lt;/i&gt;; &lt;i&gt;Chorista&lt;/i&gt;; &lt;i&gt;Neopanorpa&lt;/i&gt;; &lt;i&gt;Bittacus&lt;/i&gt;; nomenclature; synonyms</subject>
+          <subject_class locale="en_US">Mecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Louis</firstname>
+          <middlename>A.</middlename>
+          <lastname>Somma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-65</pages>
+        <date_published>2011-12-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

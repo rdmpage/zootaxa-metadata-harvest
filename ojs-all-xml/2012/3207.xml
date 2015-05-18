@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3207.1</id>
+    <title locale="en_US">27 Feb. 2012</title>
+    <volume>3207</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-02-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Pseudolycoriella&lt;/i&gt; Menzel &amp; Mohrig (Diptera, Sciaridae) in New Caledonia, with the description of thirteen new species </title>
+        <abstract locale="en_US">The following species of the genus &lt;i&gt;Pseudolycoriella&lt;/i&gt; Menzel &amp; Mohrig, 1998 are recognized from New Caledonia, allnewly described: &lt;i&gt;Pseudolycoriella&lt;/i&gt; &lt;i&gt;acicula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bisulca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;capillosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;latiflagellata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pallidula&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;senticosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spicata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tenuis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tribulosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;trispicata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tumidior&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;villosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; A key to the species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Sciaridae; &lt;i&gt;Pseudolycoriella&lt;/i&gt;; new species; New Caledonia</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pekka</firstname>
+          <lastname>Vilkamaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heikki</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Werner</firstname>
+          <lastname>Mohrig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An annotated catalogue of the Iranian Tingidae (Hemiptera: Heteroptera) </title>
+        <abstract locale="en_US">An updated list of Iranian Tingidae Laporte is presented and discussed in this paper. For Iranian fauna, there are recordsof 74 species and subspecies of tingids distributed in 20 genera and subgenera, of which 72 of them belong to the subfam-ily Tinginae and 2 species to the subfamily Cantacaderinae (tribe Cantacaderini). In some species we list host plants, in Iran.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Tingidae; catalogue; Iran; Palaearctic region</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hassan</firstname>
+          <lastname>Ghahari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sara</firstname>
+          <middlename>I.</middlename>
+          <lastname>Montemayor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pierre</firstname>
+          <lastname>Moulet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Auno</firstname>
+          <middlename>E.</middlename>
+          <lastname>Linnavuori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-39</pages>
+        <date_published>2012-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Acrodactyla&lt;/i&gt; Haliday (Hymenoptera: Ichneumonidae: Pimplinae) from Vietnam, with descriptions of six new species </title>
+        <abstract locale="en_US">Six new &lt;i&gt;Acrodactyla&lt;/i&gt; species are described and illustrated from Vietnam based on the Ichneumonidae collection depositedat the Netherlands Centre for Biodiversity, Naturalis, Netherlands and the Osaka Museum of Natural History, Japan: &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;maiphuquyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;shawi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tami&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; collected from Lao Cai Province at anelevation of 1,700–2,320 m a.s.l; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lachryma&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; collected from Chu Mom Ray NP, Kon Tum Province at an eleva-tion of 700–900 m a.s.l; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;phuthoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; collected from Xuan Son NP, Phu Tho Province at an elevation of350–400 m a.s.l. &lt;i&gt;Acrodactyla&lt;/i&gt; &lt;i&gt;maiphuquyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tami&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; belong to the &lt;i&gt;degener&lt;/i&gt; group; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lachryma&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;phuthoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;shawi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; belong to the &lt;i&gt;quadrisculpta&lt;/i&gt; group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Polysphincta&lt;/i&gt; genus-group; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Polysphincta&lt;/i&gt; genus-group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nhi</firstname>
+          <middlename>Thi</middlename>
+          <lastname>Pham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gavin</firstname>
+          <middlename>R.</middlename>
+          <lastname>Broad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rikio</firstname>
+          <lastname>Matsumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Böhme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-53</pages>
+        <date_published>2012-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of the genus &lt;i&gt;Ensiferella&lt;/i&gt; Andersson from China, with a key to world species (Diptera, Chloropidae) </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Ensiferella&lt;/i&gt; Andersson is newly recorded from China. The following two species are described as new to sci-ence: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;elongata&lt;/i&gt; sp. nov. and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;longispina&lt;/i&gt; sp. nov. The male of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sabroskyi&lt;/i&gt; Nartshuk is described for the first time. Twospecies, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;kanmiyai&lt;/i&gt; Nartshuk and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;sabroskyi&lt;/i&gt; Nartshuk, are newly recorded from China. A key to the world species of genus &lt;i&gt;Ensiferella&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chloropidae; &lt;i&gt;Ensiferella&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoyan</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2012-02-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Idahelops alpagutae&lt;/i&gt; (Coleoptera: Tenebrionidae: Helopini): a new genus and species from the Aegean region of Turkey </title>
+        <abstract locale="en_US">&lt;i&gt;Idahelops&lt;/i&gt; &lt;i&gt;alpagutae,&lt;/i&gt; a new genus and species, is described from Aegean region of Turkey (Balikesir and Izmir provinces).&lt;i&gt;Idahelops&lt;/i&gt; belongs to the cylindrinotoid group of the subtribe Cylindrinotina. The genus is close to &lt;i&gt;Armenohelops&lt;/i&gt; Nabo-zhenko, 2002, from which it differs in the presence of large granules on the elytral intervals, the epipleural carina raisedand reaching the elytal apex (the apical part of the elytra of &lt;i&gt;Armenohelops&lt;/i&gt; is sloping, without a horizontal platform), and the completely pubescent body (Armenohelops is without pubescence).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Tenebrionidae; Helopini; new genus; new species; Western Turkey</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bekir</firstname>
+          <lastname>Keskin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maxim</firstname>
+          <middlename>V.</middlename>
+          <lastname>Nabozhenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-67</pages>
+        <date_published>2012-02-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

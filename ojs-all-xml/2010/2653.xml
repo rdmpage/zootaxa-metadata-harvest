@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2653.1</id>
+    <title locale="en_US">21 Oct. 2010</title>
+    <volume>2653</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-10-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Rhinocylapus&lt;/i&gt;-group (Hemiptera: Heteroptera: Miridae: Cylapinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Mycetocylapus&lt;/i&gt; Poppius, &lt;i&gt;Proamblia&lt;/i&gt; Bergroth, &lt;i&gt;Rhinocylapidius&lt;/i&gt; Poppius, and &lt;i&gt;Rhinocylapus&lt;/i&gt; Poppius are revised. Three new species of &lt;i&gt;Rhinocylapus:&lt;/i&gt; &lt;i&gt;Rh.&lt;/i&gt; &lt;i&gt;kmentii,&lt;/i&gt; &lt;i&gt;Rh.&lt;/i&gt; &lt;i&gt;pallescens,&lt;/i&gt; and &lt;i&gt;Rh.&lt;/i&gt; &lt;i&gt;redeii&lt;/i&gt; spp. nov. are described from the Malaysia, Philippines, and Indonesian Borneo, respectively. &lt;i&gt;Rhinocylapidius&lt;/i&gt; &lt;i&gt;velocipedoides&lt;/i&gt; Poppius is restored to its original genus. The lectotype for &lt;i&gt;Proamblia&lt;/i&gt; &lt;i&gt;cunealis&lt;/i&gt; (Poppius) is designated. Dorsal habitus color photographs of all species, scanning electron micrographs of the species of each genus, and pictures of male genitalia are provided. Keys to all the taxa are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; &lt;i&gt;Rhinocylapidius&lt;/i&gt;; &lt;i&gt;Proamblia&lt;/i&gt;; &lt;i&gt;Mycetocylapus&lt;/i&gt;; taxonomy; keys; Oriental Region; Australian Region</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrzej</firstname>
+          <lastname>Wolski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2010-10-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Type designations of Diptera (Insecta) in the &lt;i&gt;Encyclopaedia Metropolitana&lt;/i&gt;</title>
+        <abstract locale="en_US">Previously overlooked type designations for genus-group names of Diptera given in the &lt;i&gt;Encyclopaedia&lt;/i&gt; &lt;i&gt;Metropolitana&lt;/i&gt; are presented. The encyclopedia is described and its volumes dated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; nomenclature; encyclopedias; Diptera</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-50</pages>
+        <date_published>2010-10-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hydrolutos breweri &lt;/i&gt;sp. n., a new aquatic Lutosini species (Orthoptera: Anostostomatidae) from Churí-tepui (Chimantá Massif, Venezuela)</title>
+        <abstract locale="en_US">&lt;i&gt;Hydrolutos&lt;/i&gt; &lt;i&gt;breweri,&lt;/i&gt; a new species of Lutosini (Orthoptera: Anostostomatidae) from Cueva Charles Brewer (Churí-tepui, Guyana Highlands, Venezuela) is described and figured. Inhabiting aquatic environment it represents an unusual orthopteran with sternal and pleural area covered by fine microtrichia forming a plastron.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthoptera; Anostostomatidae; &lt;i&gt;Hydrolutos&lt;/i&gt;; aquatic; Venezuela; tepui</subject>
+          <subject_class locale="en_US">Orthoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomáš</firstname>
+          <lastname>Derka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Fedor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2010-10-21</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Angarotipula &lt;/i&gt;Savchenko, with a key to world species (Diptera, Tipulidae)</title>
+        <abstract locale="en_US">The following two new species of the genus &lt;i&gt;Angarotipula&lt;/i&gt; Savchenko from China are described: &lt;i&gt;Angarotipula&lt;/i&gt; &lt;i&gt;aspina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;biprocessa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the world species of the genus &lt;i&gt;Angarotipula&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Tipulidae; &lt;i&gt;Angarotipula&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qifei</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2010-10-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2050.1</id>
+    <title locale="en_US">23 Mar. 2009</title>
+    <volume>2050</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-03-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the African redflanked skinks of the &lt;i&gt;Lygosoma fernandi &lt;/i&gt;(BURTON, 1836) species group (Squamata: Scincidae) and the role of climate change in their speciation</title>
+        <abstract locale="en_US">We present an analysis of the morphometric and genetic variability of &lt;i&gt;Lygosoma&lt;/i&gt; &lt;i&gt;fernandi.&lt;/i&gt; Geographical variation and taxonomic consequences are discussed and &lt;i&gt;Lepidothyris&lt;/i&gt; Cope, 1892 is resurrected as genus for the &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;fernandi&lt;/i&gt; species group. The results show that &lt;i&gt;Lepidothyris&lt;/i&gt; &lt;i&gt;fernandi&lt;/i&gt; sensu lato is a species complex, which comprises an eastern and a western species. Each of them has a further subspecies of its own, and a third distinct species is present in southwestern Central Africa. The morphological and genetic differences between these taxa are analyzed resulting in the description of two new taxa, and the resurrection of two more taxa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata: Scincidae: &lt;i&gt;Tiliqua&lt;/i&gt;; &lt;i&gt;Lygosoma&lt;/i&gt;; &lt;i&gt;Riopa&lt;/i&gt;; &lt;i&gt;Mochlus&lt;/i&gt;; &lt;i&gt;Lepidothyris&lt;/i&gt; &lt;i&gt;fernandi&lt;/i&gt;; &lt;i&gt;Lepidothyris&lt;/i&gt; &lt;i&gt;fernandi&lt;/i&gt; &lt;i&gt;harlani&lt;/i&gt;; &lt;i&gt;Lepidothyris&lt;/i&gt; &lt;i&gt;striatus&lt;/i&gt;; &lt;i&gt;Lepidothyris&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Africa; taxonomy; zoogeography</subject>
+          <subject_class locale="en_US">Squamata: Scincidae: &lt;i&gt;Tiliqua&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philipp</firstname>
+          <lastname>Wagner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfgang</firstname>
+          <lastname>Böhme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olivier</firstname>
+          <middlename>S. G.</middlename>
+          <lastname>Pauwels</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Schmitz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Hyalomma &lt;/i&gt;Koch, 1844. VIII. Redescription of three &lt;i&gt;Hyalommina&lt;/i&gt; Schulze, 1919 species (Acari: Ixodidae) from South Asia with notes on their biology</title>
+        <abstract locale="en_US">The South Asian ticks &lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;brevipunctata&lt;/i&gt; Sharif, 1928, &lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;hussaini&lt;/i&gt; Sharif, 1928 and &lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;kumari&lt;/i&gt; Sharif, 1928, are morphologically fairly similar. The males can be distinguished from each other by size, color and their punctation patterns. The females are easily distinguished by the shape of the genital aperture and its preatrial fold, and they also differ in size, color and punctation patterns. The immature stages can be distinguished by the measurements of various characteristics and the ratios of these, the shape of the scutum, gnathosoma and hypostome, number of denticles on the hypostome and size of the spurs on coxae. All parasitic stages of the three species are illustrated and redescribed here. Their distributions are restricted to South Asia, although there are some records from Central Asia. Large and medium-sized ungulates are the principal hosts of the adults, whereas the immature stages infest various species of small mammals. All are three-host species. Data on their disease relationships are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;brevipunctata&lt;/i&gt;; &lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;hussaini&lt;/i&gt;; &lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;kumari&lt;/i&gt;; male; female; nymph; larva; systematics</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hyalomma&lt;/i&gt; (Hyalommina) &lt;i&gt;brevipunctata&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dmitry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Apanaskevich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <middlename>G.</middlename>
+          <lastname>Horak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Geevarghese</firstname>
+          <lastname>Geevarghese</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-55</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Cryptocellus &lt;/i&gt;(Arachnida, Ricinulei) from the Kofán Territory in southwestern Colombia</title>
+        <abstract locale="en_US">&lt;i&gt;Cryptocellus&lt;/i&gt; &lt;i&gt;luisedieri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from a male specimen obtained from leaf litter in the Kofán Territory, southwestern Colombia. The new species exhibits a series of interesting morphological features including the presence of cuticular pits and a unique shape of the male copulatory apparatus. The new species, which is the first ricinuleid found in the southern Colombian Andes, brings to seven the number of species of &lt;i&gt;Cryptocellus&lt;/i&gt; Westwood, 1874 known to occur in Colombia and to 66 the number of extant species of this rare arachnid order. A male-based key to the identification of the Colombian ricinuleid species and a map showing their known distribution are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Cryptocellus&lt;/i&gt; &lt;i&gt;luisedieri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Nariño Department</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Botero-Trujillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-64</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Neocrangon orientalis&lt;/i&gt;, a new caridean shrimp species (Crustacea, Decapoda, Crangonidae) from the East China Sea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qingxi</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xinzheng</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2009-03-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

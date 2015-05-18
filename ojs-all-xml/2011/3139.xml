@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3139.1</id>
+    <title locale="en_US">21 Dec. 2011</title>
+    <volume>3139</volume>
+    <number>1</number>
+    <year>2011</year>
+    <date_published>2011-12-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Horistonotus &lt;/i&gt;Candèze from Brazil (Coleoptera, Elateridae, Cardiophorinae)</title>
+        <abstract locale="en_US">Eight species of &lt;i&gt;Horistonotus&lt;/i&gt; Candèze (1860), from states of Alagoas and Sergipe, are described and illustrated and a provisional identification key for all Brazilian species of this genus is provided. The described species were collected in the Caatinga, semi-desert tropical woodland, in the Northeastern Region of Brazil. The genus &lt;i&gt;Horistonotus&lt;/i&gt; is very numerous with more than a hundred species, distributed throughout of North, Central and South America.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caatinga; descriptions; key; Neotropical; taxonomy</subject>
+          <subject_class locale="en_US">Caatinga</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sônia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Casari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2011-12-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Steleops &lt;/i&gt;(Psocodea: ‘Psocoptera’: Psocidae) from Brazil, Colombia, Mexico and Peru</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ranulfo</firstname>
+          <middlename>González</middlename>
+          <lastname>Obando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfonso</firstname>
+          <middlename>N. García</middlename>
+          <lastname>Aldrete</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <middlename>Soraya</middlename>
+          <lastname>Carrejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-54</pages>
+        <date_published>2011-12-21</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New resin bee species in the genus &lt;i&gt;Mielkeanthidium &lt;/i&gt;Urban (Hymenoptera, Megachilinae)</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Mielkeanthidium&lt;/i&gt; are described and illustrated: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;albertinoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dissimile&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tucumanum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Generic characters are discussed and a key to species of the genus is provided. &lt;i&gt;Mielkeanthidium&lt;/i&gt; is reported for the first time from Argentina (Tucumán).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anthidiini; South America; taxonomy; Megachilidae; Apidae</subject>
+          <subject_class locale="en_US">Anthidiini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniele</firstname>
+          <middlename>R.</middlename>
+          <lastname>Parizotto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Danúncia</firstname>
+          <lastname>Urban</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2011-12-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Rhithrogena sartorii&lt;/i&gt;, a new mayfly species (Ephemeroptera: Heptageniidae) from North Africa</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sonia</firstname>
+          <lastname>Zrell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <lastname>Sartori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mustapha</firstname>
+          <lastname>Bejaoui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Moncef</firstname>
+          <lastname>Boumaiza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2011-12-21</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2215.1</id>
+    <title locale="en_US">31 Aug. 2009</title>
+    <volume>2215</volume>
+    <number>1</number>
+    <year>2009</year>
+    <date_published>2009-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New and revised species of the aulacopleurid trilobite &lt;i&gt;Maurotarion &lt;/i&gt;from the Lower Devonian (Pragian) of Nevada</title>
+        <abstract locale="en_US">Deep water silicified trilobite faunas occur in argillaceous limestones of the Lower Devonian (Pragian) Wenban Limestone in the Cortez Mountains, Eureka County, central Nevada, USA. Trilobites occur as a stratigraphic series of three low diversity assemblages, including the odontopleurids &lt;i&gt;Nevadaprusia&lt;/i&gt; Adrain, Chatterton, and Kloc, 2008, and &lt;i&gt;Kettneraspis&lt;/i&gt; Prantl and Přibyl, 1949, the phacopids &lt;i&gt;Paciphacops&lt;/i&gt; Maksimova, 1972, and an unnamed new genus, undetermined dalmanitids, a tropidocoryphid, and the brachymetopid &lt;i&gt;Mystrocephala&lt;/i&gt; Whittington, 1960. Aulacopleurids are common elements of all three assemblages and, unusually, are represented by multiple articulated silicified specimens, permitting a complete assessment of the holaspid morphology of some of the species. All belong to the genus &lt;i&gt;Maurotarion&lt;/i&gt; Alberti, 1969, and new species are &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;chrysion,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;fooi,&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;wenbanense.&lt;/i&gt; &lt;i&gt;Maurotarion&lt;/i&gt; &lt;i&gt;periergum&lt;/i&gt; (Haas, 1969) was described on the basis of a few fragmentary sclerites but is now represented by multiple articulated dorsal exoskeletons.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trilobita; silicified; Aulacopleuridae; &lt;i&gt;Maurotarion&lt;/i&gt;; Devonian</subject>
+          <subject_class locale="en_US">Trilobita</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jonathan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Adrain</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2009-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Identification of the larval and juvenile stages of the Cubera Snapper, &lt;i&gt;Lutjanus&lt;/i&gt; &lt;i&gt;cyanopterus&lt;/i&gt;, using DNA barcoding</title>
+        <abstract locale="en_US">The larvae and newly-settled juveniles of the Cubera Snapper, &lt;i&gt;Lutjanus&lt;/i&gt; &lt;i&gt;cyanopterus,&lt;/i&gt; are identified by DNA barcoding. Four larvae and three small juveniles of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;cyanopterus&lt;/i&gt; were detected among a large collection of pelagic larvae and a smaller collection of settled juveniles from the Caribbean coast of Panama. The mtDNA COI barcode sequences from the larvae and juveniles were virtually identical to sequences from adults sampled from the spawning aggregation in St. Thomas, USVI. Barcode sequences for the eleven regional species of &lt;i&gt;Lutjanus&lt;/i&gt; species (sensu &lt;i&gt;lato)&lt;/i&gt; were obtained and they exhibited deep interspecific divergences that allowed for efficient discrimination among the western Atlantic snapper species. The nearest neighbor species, the Mutton Snapper &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;analis,&lt;/i&gt; was more than 11% divergent from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;cyanopterus.&lt;/i&gt; Cubera Snapper larvae are characterized by prominent melanophores along the outer spinous-dorsal-fin membranes and along the outer third of the longer pelvic-fin membranes. They are morphologically distinct from the late-stage larvae of the other regional snappers by their relatively wider caudal peduncle and their relative dorsal-spine lengths. Juveniles retain the black outer portion of the dorsal and pelvic-fin membranes and have a smaller body-depth than other regional snapper juveniles. The size at settlement is about 18 mm SL, relatively large for lutjanids. Daily otolith increments from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;cyanopterus&lt;/i&gt; larvae and juveniles indicate a pelagic larval duration of about 29 days with backcalculated spawning and settlement dates around the new moon. Although smaller adult Cubera Snappers can appear very similar to the Gray Snapper, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;griseus,&lt;/i&gt; the larvae and juveniles are quite different. In this case, the early life history stages reflect the deep genetic divergence between the two species while the adult forms converge in appearance.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">snapper; Cubera; Lutjanidae; &lt;i&gt;Lutjanus&lt;/i&gt;; &lt;i&gt;cyanopterus&lt;/i&gt;; larvae; juvenile; identification; DNA barcoding; BOLD; fish; phylogenetics; pelagic larval duration; PLD; pargo; gray; &lt;i&gt;griseus&lt;/i&gt;; Caribbean; western Atlantic; otoliths</subject>
+          <subject_class locale="en_US">snapper</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Benjamin</firstname>
+          <middlename>C.</middlename>
+          <lastname>Victor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Hanner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mahmood</firstname>
+          <lastname>Shivji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <lastname>Hyde</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chris</firstname>
+          <lastname>Caldow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-36</pages>
+        <date_published>2009-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Osteocephalus &lt;/i&gt;(Anura: Hylidae) from Amazonian Bolivia: first evidence of tree frog breeding in fruit capsules of the Brazil nut tree</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Osteocephalus&lt;/i&gt; is described from lowland Amazonia of the Departamento Pando, northern Bolivia. The new species is most similar to &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;planiceps&lt;/i&gt; but differs by its smaller size (SVL 47.8–51.3 mm in males, 47.7–63.3 mm in females), absence of vocal slits, lack of sexual dimorphism in dorsal tubercles, single distal subarticular tubercle on the fourth finger, absence of dark spots on flanks, and by bicoloured iris with fine dark reticulate to radiate lines. The new species inhabits terra firme rainforest, breeds in water-filled fruit capsules of the Brazil nut tree and has oophagous tadpoles. Estimations of phylogenetic relationships within &lt;i&gt;Osteocephalus&lt;/i&gt; based on mitochondrial DNA sequences show that the new species is closely related to &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;planiceps&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;deridens.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Anura; Bolivia; Hylidae; Molecular Phylogeny; New Species; Oophagy; &lt;i&gt;Osteocephalus&lt;/i&gt; &lt;i&gt;castaneicola&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Moravec</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <lastname>Aparicio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <lastname>Guerrero-Reinhard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gonzalo</firstname>
+          <lastname>Calderón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karl-Heinz</firstname>
+          <lastname>Jungfer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Václav</firstname>
+          <lastname>GvoDík</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-54</pages>
+        <date_published>2009-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of two new species of the Corophiidae (Amphipoda, Crustacea) and register of &lt;i&gt;Laticorophium baconi &lt;/i&gt;(Shoemaker, 1934) from Brazilian waters</title>
+        <abstract locale="en_US">This study comprises the description of two new species of Corophiidae from Brazilian coast. &lt;i&gt;Apocorophium&lt;/i&gt; &lt;i&gt;curumim&lt;/i&gt; sp. nov. is characterized by male antenna 1, peduncle article 1 with 1 distal and 1 proximomedial robust setae on ventral margin and 1 robust seta on proximal dorsomedial margin; male antenna 2 pediform, peduncular article 4, distal ventromedial corner with 1 short and 1 long acute process, article 5 with distal flange and 1 acute process on dorsomedial margin; female antenna 1 with 3–4 proximal robust setae on proximal dorsomedial margin; female antenna 2 peduncle article 3 with 2 robust setae on ventrodistal corner, article 4 with 4 robust setae on ventral margin and 6 on dorsomedial margin, article 5 with 1 distal robust seta on ventral margin; male gnathopod 1 dactylus tip little exceeding palm, with 1 tooth on flexor margin; female gnathopod 1 dactylus without tooth on flexor margin; male gnathopod 2 dactylus with 2 teeth unequal in length in flexor margin and uropod 2 rami outer margin with robust setae. Monocorophium &lt;i&gt;josei&lt;/i&gt; sp. nov. is characterized by rostrum short; female antenna 1 peduncular article 1 with 1 distal and 1 proximal robust setae on ventral margin, proximal dorsomedial margin with 2 robust setae; male antenna 1 proximal dorsomedial margin with 1 spine; female antenna 2 peduncular article 4 with 1 single short acute process on distoventral corner; male antenna 2 peduncular article 4, ventrodistal margin with 1 large and 1 small spine, peduncular article 5 with small proximal process on ventroanterior margin; gnatopod 1 on female with dactylus reaching to corner of palm, but in gnathopod 1 of male distinctly exceeding the palm; gnathopod 2 dactylus with 3 spines on posterior margin; pereopod 4 basis distinctly broader than pereopod 3 basis and uropod 2 inner ramus outer margin with 1 medial robust seta. Another species, &lt;i&gt;Laticorophium&lt;/i&gt; &lt;i&gt;baconi&lt;/i&gt; &lt;i&gt;(Shoemaker,&lt;/i&gt; 1934) is herein first recorded from the Southwestern Atlantic Ocean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Corophiidae; &lt;i&gt;Monocorophium&lt;/i&gt;; &lt;i&gt;Apocorophium&lt;/i&gt;; new species; Brazilian coast</subject>
+          <subject_class locale="en_US">Corophiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <middlename>Teresa</middlename>
+          <lastname>Valério-Berardo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Maria Thiago</middlename>
+          <lastname>De Souza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2009-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

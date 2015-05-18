@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2460.1</id>
+    <title locale="en_US">14 May. 2010</title>
+    <volume>2460</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphology of terebelliform polychaetes (Annelida: Polychaeta: Terebelliformia), with a focus on Terebellidae</title>
+        <abstract locale="en_US">The morphology of terebelliform polychaetes was investigated for a phylogenetic study focused on Terebellidae. For this study, specimens belonging to 147 taxa, preferably type material or specimens from type localities or areas close to them, were examined under stereo, light and scanning electron microscopes. The taxa examined were 1 Pectinariidae, 2 Ampharetidae, 2 Alvinellidae, 8 Trichobranchidae, and 134 Terebellidae, which included 8 Polycirrinae, 15 Thelepodinae, and 111 Terebellinae. A comparison of the morphology, including prostomium, peristomium, anterior segments and lobes, branchiae, glandular venter, nephridial and genital papillae, notopodia and notochaetae, neuropodia and neurochaetae, and posterior end, was made of all the currently recognized families of terebelliform polychaetes, with special emphasis on Terebellidae. A discussion of the characters useful to distinguish between genera is given. This character set will be used in a subsequent phylogenetic study (Nogueira &amp; Hutchings in prep.)A morfologia de poliquetas terebeliformes foi analisada para um estudo filogenético focado em Terebellidae. Para esse estudo, foram examinados espécimes pertencentes a 147 táxons, sob estereomicroscópio, microscópio óptico e microscópio eletrônico de varredura, preferencialmente material tipo ou espécimes das localidades tipo, ou de suas proximidades. Os táxons examinados foram 1 Pectinariidae, 2 Ampharetidae, 2 Alvinellidae, 8 Trichobranchidae e 134 Terebellidae, dos quais 8 Polycirrinae, 15 Thelepodinae e 111 Terebellinae. Para este estudo, foi feita a comparação entre a morfologia das famílias de poliquetas terebeliformes atualmente reconhecidas, com especial ênfase em Terebellidae, em relação ao prostômio, peristômio, segmentos anteriores e lobos, brânquias, superfície glandular ventral, papilas nefridiais e genitais, notopódios e notocerdas, neuropódios e neurocerdas, e extremidade posterior. Uma discussão dos caracteres úteis para distinguir os gêneros é fornecida. Este conjunto de caracteres será utilizado para um estudo filogenético subseqüente (Nogueira &amp; Hutchings em preparação).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Terebelliformia; Pectinariidae; Ampharetidae; Alvinellidae; Terebellidae; Trichobranchidae; morphology</subject>
+          <subject_class locale="en_US">Terebelliformia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>João</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>De Matos Nogueira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pat</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hutchings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>Veronesi</middlename>
+          <lastname>Fukuda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-185</pages>
+        <date_published>2010-05-14</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

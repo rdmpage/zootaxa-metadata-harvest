@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2617.1</id>
+    <title locale="en_US">20 Sep. 2010</title>
+    <volume>2617</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-09-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the water mites (Acari: Hydrachnidia) of India, with new records and description of one new species</title>
+        <abstract locale="en_US">Using published records and original data from recent research, a checklist was compiled of the water mite (Acari: Hydrachnidia) fauna of India. It includes 275 species in 70 genera and 25 families of water mites. The new records of 23 water mite species are reported; one species &lt;i&gt;Wuria&lt;/i&gt; &lt;i&gt;indica&lt;/i&gt; is described as new for science; a first description of the male is given for &lt;i&gt;Wuria&lt;/i&gt; &lt;i&gt;sumatrensis&lt;/i&gt; K. Viets, 1935. The present state of knowledge of the Indian water mite fauna is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; Checklist; new species; India</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tapas</firstname>
+          <lastname>Chatterjee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sabitry</firstname>
+          <lastname>Bordoloi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2010-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Ischnocnema &lt;/i&gt;from highlands of the Atlantic Forest, Southeastern Brazil (Terrarana, Brachycephalidae)</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Ischnocnema&lt;/i&gt; is described from Serra da Mantiqueira, Municipality of Campos do Jordão, State of São Paulo, Brazil. The new species is a member of the &lt;i&gt;Ischnocnema&lt;/i&gt; &lt;i&gt;lactea&lt;/i&gt; Species Series. The new species differs from other species in the &lt;i&gt;Ischnocnema&lt;/i&gt; &lt;i&gt;lactea&lt;/i&gt; Species Series by its small size, snout sub-elliptical in dorsal view and acuminate-rounded in lateral view, and advertisement call. Descriptions of the dorsal coloration, advertisement call, and natural history are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; &lt;i&gt;Ischnocnema;&lt;/i&gt; Brachycephalidae; Southeastern Brazil</subject>
+          <subject_class locale="en_US">New species; &lt;i&gt;Ischnocnema;&lt;/i&gt; Brachycephalidae; Southeastern Brazil</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Itamar</firstname>
+          <middlename>A.</middlename>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Célio</firstname>
+          <middlename>F. B.</middlename>
+          <lastname>Haddad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-65</pages>
+        <date_published>2010-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Xantharia &lt;/i&gt;from China (Araneae: Clubionidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chao</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jianying</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2010-09-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

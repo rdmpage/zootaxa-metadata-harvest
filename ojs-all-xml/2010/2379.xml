@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.2379.1</id>
+    <title locale="en_US">26 Feb. 2010</title>
+    <volume>2379</volume>
+    <number>1</number>
+    <year>2010</year>
+    <date_published>2010-02-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On the subfamily Cypricercinae McKenzie, 1971 (Crustacea, Ostracoda) from Thailand, with the description of six new species</title>
+        <abstract locale="en_US">Species of the subfamily Cypricercinae collected from Thailand, mainly from the Northern Provinces, are here reported and/or (re-) described. Nineteen species, belonging to seven genera were found. Six new species, &lt;i&gt;Strandesia&lt;/i&gt; &lt;i&gt;hornei&lt;/i&gt; sp. nov., &lt;i&gt;Strandesia&lt;/i&gt; &lt;i&gt;sanoamuangae&lt;/i&gt; sp. nov., &lt;i&gt;Pseudostrandesia&lt;/i&gt; &lt;i&gt;gaetani&lt;/i&gt; sp. nov., &lt;i&gt;Pseudostrandesia&lt;/i&gt; &lt;i&gt;ovata&lt;/i&gt; sp. nov., &lt;i&gt;Pseudostrandesia&lt;/i&gt; &lt;i&gt;phetchabunensis&lt;/i&gt; sp. nov. and &lt;i&gt;Pseudostrandesia&lt;/i&gt; &lt;i&gt;thailandensis&lt;/i&gt; sp. nov., are described. A species list of the Cypricercinae in Southeast Asia is given and the general distribution and ecology of the Cypricercinae from Thailand is briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Biodiversity; Distribution; Cypricercinae; Thailand</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sukonthip</firstname>
+          <lastname>Savatenalinton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Koen</firstname>
+          <lastname>Martens</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-77</pages>
+        <date_published>2010-02-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>
