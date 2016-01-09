@@ -1,3 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3335.1</id>
+    <title locale="en_US">6 Jun. 2012</title>
+    <volume>3335</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genera &lt;i&gt;Interrhodeus&lt;/i&gt;, &lt;i&gt;Pennarhodeus &lt;/i&gt;and &lt;i&gt;Poropodalius&lt;/i&gt; (Acari: Rhodacaridae)</title>
+        <abstract locale="en_US">The genera &lt;i&gt;Interrhodeus&lt;/i&gt; Karg, &lt;i&gt;Pennarhodeus&lt;/i&gt; Karg and &lt;i&gt;Poropodalius&lt;/i&gt; Karg are redescribed on the basis of one species of&lt;i&gt;Interrhodeus,&lt;/i&gt; four species of &lt;i&gt;Pennarhodeus&lt;/i&gt; and five species of &lt;i&gt;Poropodalius,&lt;/i&gt; including the type species of each genus.All species are redescribed on the basis of the type specimens, and keys for the separation of the species of the latter twogenera are provided. Re-examination of these species shows that these three genera are correctly placed in the family Rhodacaridae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rhodacaroidea; soil mites; taxonomy</subject>
+          <subject_class locale="en_US">Rhodacaroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Raphael</firstname>
+          <middlename>C.</middlename>
+          <lastname>Castilho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bruce</firstname>
+          <lastname>Halliday</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-06-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Recent Ostracoda (Arthropoda, Crustacea) from São Pedro-São Paulo Archipelago, Brazil: a preliminary approach</title>
+        <abstract locale="en_US">The present study analyses ostracods from sedimentary samples collected in the São Pedro-São Paulo Archipelago, a small setof remote rock islands located Northeastern to the Brazilian coast. Thirteen species were identified, and their zoogeographicaldistribution was studied. An emendation for &lt;i&gt;Keijcyoidea&lt;/i&gt; &lt;i&gt;praecipua&lt;/i&gt; (Bold, 1963) is proposed in this paper. The distribution ofthe species which occur in the archipelago varies significantly: &lt;i&gt;Triebelina&lt;/i&gt; &lt;i&gt;sertata&lt;/i&gt; Triebel, 1948, is a cosmopolitan species;&lt;i&gt;Loxoconcha&lt;/i&gt; (Loxocorniculum) &lt;i&gt;tricornata&lt;/i&gt; is assumed to occur from the Caribbean Sea to the tropical portion of the Braziliancoast and Western Africa. &lt;i&gt;Keijcyoidea&lt;/i&gt; &lt;i&gt;praecipua&lt;/i&gt; is recorded through the Pacific and Atlantic coasts of Central America andNortheastern Brazil. &lt;i&gt;Xestoleberis&lt;/i&gt; &lt;i&gt;toni?&lt;/i&gt; Wouters, 2003 and &lt;i&gt;Triebelina&lt;/i&gt; cf. &lt;i&gt;intermedia&lt;/i&gt; Witte, 1993 are known from the Africancoast. &lt;i&gt;Neonesidea&lt;/i&gt; &lt;i&gt;tenera?&lt;/i&gt; (Brady, 1886) &lt;i&gt;emend.&lt;/i&gt; Maddocks, 1969 is found along the Indian and Pacific oceans. The species&lt;i&gt;Pontocypris&lt;/i&gt; (Ekpontocypris) &lt;i&gt;pirifera?&lt;/i&gt; (Müller, 1894) is also present in the western European coast and the Mediterranean Sea.Six species are probably new and have not been observed elsewhere: &lt;i&gt;Aurila&lt;/i&gt; sp. 1, &lt;i&gt;Paradoxostoma&lt;/i&gt; sp. 1, &lt;i&gt;Paradoxostoma&lt;/i&gt; sp. 2, &lt;i&gt;Xestoleberis&lt;/i&gt; sp. 1, &lt;i&gt;Xestoleberis&lt;/i&gt; sp. 2 and &lt;i&gt;Xestoleberis?&lt;/i&gt; sp. 3.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; zoogeography; oceanic islands; South Atlantic Ocean</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lucas</firstname>
+          <middlename>Silveira</middlename>
+          <lastname>Antonietto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cláudia</firstname>
+          <middlename>Pinto</middlename>
+          <lastname>Machado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dermeval</firstname>
+          <middlename>Aparecido Do</middlename>
+          <lastname>Carmo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Wilson Correa</middlename>
+          <lastname>Rosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-53</pages>
+        <date_published>2012-06-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Discovery of &lt;i&gt;Metacrangonyx &lt;/i&gt;in inland groundwaters of Oman (Amphipoda: Gammaridea: Metacrangonyctidae)</title>
+        <abstract locale="en_US">A new species of metacrangonyctid amphipod crustacean is described from the Salalah coastal plain aquifer in south-westernOman. This is the easternmost record of the group, with representatives previously thought to span from Hispaniola in theCaribbean to the Sinai Peninsula in Egypt. &lt;i&gt;Metacrangonyx&lt;/i&gt; &lt;i&gt;dhofarensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is unique among metacrangonyctids in the dis-play of a sexually dimorphic armature on pereiopod IV. In addition, its hypertrophied coxal plate IV, reduced plates I-III, coxalplate VII lacking anteroventral lobe, and telson longer than broad are also distinctive. The same holds for the proximal segmentof peduncle of antennule, provided with two hypertrophied robust setae on dorsolateral margin. The mandibles of the new spe-cies are devoid of palp, a feature shared only with &lt;i&gt;Metacrangonyx&lt;/i&gt; &lt;i&gt;antennatus&lt;/i&gt; Messouli, El Alami, Coineau &amp; Boutin, 2008.The presence of metacrangonyctids on the coasts of the Arabian Peninsula is probably the result of a vicariant event rather thanof an episode of trans-Arabian continental dispersal by a Middle East ancestor. This is in accord with the presumed marine ori-gin of the family and with the existence of a shallow water marine continuum between the current south-western Omani coast and the peri-Mediterranean area −where most species of metacrangonyctids are located − until approximately 16 Ma.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gammaridea; Metacrangonyctidae; stygofauna; subterranean waters; Arabian Peninsula</subject>
+          <subject_class locale="en_US">Gammaridea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Damià</firstname>
+          <lastname>Jaume</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronald</firstname>
+          <lastname>Vonk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2012-06-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

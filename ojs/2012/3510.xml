@@ -2,6 +2,189 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3510.1</id>
+    <title locale="en_US">9 Oct. 2012</title>
+    <volume>3510</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision of the genera &lt;i&gt;Geckobiella &lt;/i&gt;Hirst, 1917 and &lt;i&gt;Hirstiella &lt;/i&gt;Berlese, 1920 (Acari: Prostigmata: Pterygosomatidae) with description of a new genus for American species parasites on geckos formerly placed in &lt;i&gt;Hirstiella &lt;/i&gt;</title>
+        <abstract locale="en_US">A cladistic analysis based on 274 morphological characters was performed including the 13 previously recognized speciesof the scale mite genus &lt;i&gt;Hirstiella,&lt;/i&gt; 2 new species, 5 species in closely related genera, and 3 more distant out-group species.An analysis based on 148 informative characters resulted in one most parsimonious tree (L = 400, CI = 0.57 and RI =0.79). According to this, the genus &lt;i&gt;Hirstiella&lt;/i&gt; in its current concept is a polyphyletic taxon whose member species belongto three different clades. The first lineage (Bremer support and jackknife values 2 and 78%) includes the type species &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;trombidiiformis&lt;/i&gt; and seven additional species of &lt;i&gt;Hirstiella&lt;/i&gt; that are parasites on iguanian lizards. The genus &lt;i&gt;Geckobiella&lt;/i&gt; isincluded in this lineage, and the latter taxon name has priority over &lt;i&gt;Hirstiella;&lt;/i&gt; therefore, the genus &lt;i&gt;Hirstiella&lt;/i&gt; is considereda synonym of &lt;i&gt;Geckobiella&lt;/i&gt; and no longer valid. For the second lineage (Bremer support and jackknife values of 2 and 73%)we propose the name &lt;i&gt;Bertrandiella&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; it includes &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;tenuipes,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;otophila,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;jimenezi&lt;/i&gt; and &lt;i&gt;Bertrandiella&lt;/i&gt; &lt;i&gt;chame-&lt;/i&gt;&lt;i&gt;laensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The third lineage, and sister taxon of &lt;i&gt;Bertrandiella,&lt;/i&gt; is a clade comprising &lt;i&gt;Pimeliaphilus&lt;/i&gt; and the species&lt;i&gt;H.&lt;/i&gt; &lt;i&gt;sharifi&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;insignis.&lt;/i&gt; The latter taxa are transferred back to &lt;i&gt;Pimeliaphilus&lt;/i&gt; (Bremer support and jackknife values &gt;4and 100%). Updated diagnoses are provided for the genera &lt;i&gt;Geckobiella&lt;/i&gt; sensu nov. (including a new species &lt;i&gt;Geckobiella&lt;/i&gt;&lt;i&gt;donnae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and &lt;i&gt;Bertrandiella&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and for all their species, as well as for the genera &lt;i&gt;Pimeliaphilus&lt;/i&gt; sensu nov.and &lt;i&gt;Tequisistlana,&lt;/i&gt; based on the results of the phylogenetic analyses. The analyses support the hypothesis that lizards arethe ancestral hosts for Pterygosomatidae; associations with arthropods (in &lt;i&gt;Pimeliaphilus)&lt;/i&gt; appear to be secondary, the result of host switching from lizards.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Bertrandiella&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pimeliaphilus&lt;/i&gt;; &lt;i&gt;Bertrandiella&lt;/i&gt; &lt;i&gt;chamelaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Geckobiella&lt;/i&gt; &lt;i&gt;donnae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; phylogeny; serial homology</subject>
+          <subject_class locale="en_US">&lt;i&gt;Bertrandiella&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pimeliaphilus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Paredes-León</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hans</firstname>
+          <lastname>Klompen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tila</firstname>
+          <middlename>M.</middlename>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2012-10-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Paramesotriton &lt;/i&gt;(Caudata: Salamandridae) from Guizhou Province, China </title>
+        <abstract locale="en_US">In this study, we describe a new species of salamander, &lt;i&gt;Paramesotriton&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from the MaolanNational Nature Reserve, Libo County, Guizhou Province, China. The new species is placed in the genus&lt;i&gt;Paramesotriton&lt;/i&gt; based on morphological characteristics and molecular data. It differs from all other members of thegenus in a number of morphological characteristics, especially in its much larger body size, absence of granularwarts from head and body, largely reduced external eyes and peculiar shape of epibranchia in hyoid apparatus. Weexamined the relationships of nuclear POMC haplotypes between and within the new species and six recognizedspecies. POMC variation and published mitochondrial data suggested that the new species’ closest known relativesare &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;longliensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;zhijinensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;caudopunctatus,&lt;/i&gt; and it should be placed into the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;caudopunctatus&lt;/i&gt; species group or subgenus &lt;i&gt;Allomesotriton.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caudata; Salamandridae; nuclear DNA; new species; &lt;i&gt;Paramesotriton&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Caudata; Salamandridae; nuclear DNA; new species; &lt;i&gt;Paramesotriton&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoming</firstname>
+          <lastname>Gu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rongrong</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yingzhou</firstname>
+          <lastname>Tian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Song</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jingcheng</firstname>
+          <lastname>Ran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2012-10-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A detailed account of the reproductive strategy and developmental stages of &lt;i&gt;Nasikabatrachus sahyadrensis &lt;/i&gt;(Anura: Nasikabatrachidae), the only extant member of an archaic frog lineage </title>
+        <abstract locale="en_US">Novel and significant data on the breeding biology and tadpole morphology of &lt;i&gt;Nasikabatrachus&lt;/i&gt; &lt;i&gt;sahyadrensis&lt;/i&gt; expands ourunderstanding of this unusual frog and clarifies some data in other reports. Nonpigmented eggs are laid in arrays or clumpsin small shaded rocky pools in the bedrock of torrential streams, as they are charged by early monsoon rains. The suctorialtadpole adapted to rheophilic habitats, has a strongly depressed body, dorsal eyes, complete marginal papillae, a labialtooth row formula of 2/3 or 2/3(1), and a medial vent with unusual flaps subtending the vent and limb buds. Tadpoles meta-morphose in about 100 days. Additional site records and issues relating to the conservation of this frog and its habitat in the southern Western Ghats of India are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Nasikabatrachus&lt;/i&gt;; tadpole; breeding; development; morphology; India</subject>
+          <subject_class locale="en_US">&lt;i&gt;Nasikabatrachus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anil</firstname>
+          <lastname>Zachariah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robin</firstname>
+          <middlename>Kurian</middlename>
+          <lastname>Abraham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sandeep</firstname>
+          <lastname>Das</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Jayan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ronald</firstname>
+          <lastname>Altig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-64</pages>
+        <date_published>2012-10-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval morphology and ontogeny of &lt;i&gt;Nasikabatrachus sahyadrensis &lt;/i&gt;Biju &amp; Bossuyt, 2003 (Anura, Nasikabatrachidae) from Western Ghats, India </title>
+        <abstract locale="en_US">The external, oral and buccopharyngeal morphologies of &lt;i&gt;Nasikabatrachus&lt;/i&gt; &lt;i&gt;sahyadrensis&lt;/i&gt; tadpoles were studied using ste-reoscopic and scanning electron microscopy. Using DNA barcodes, taxonomic identity of the tadpoles was establishedand tadoples of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;sahyadrensis&lt;/i&gt; were reared in semi-natural conditions. Development in the species from hatching tometamorph was prolonged and it took about 100 days for the freshly hatched larvae to metamorphose. The tadpoles areexotrophic, torrent dwelling with a large ventral suctorial oral disc, broadly rounded snout, cylindrical body, and a funnelshaped vent tube opening medially. During development external and buccopharyngeal characters show extensive changes. During metamorphosis developmental asynchrony was observed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Rheophilous tadpoles; Western Ghats; developmental stages; Scanning Electron Microscopy</subject>
+          <subject_class locale="en_US">Rheophilous tadpoles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Prudhvi</firstname>
+          <lastname>Raj</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karthikeyan</firstname>
+          <lastname>Vasudevan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Deepak</firstname>
+          <lastname>V.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richa</firstname>
+          <lastname>Sharma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shashi</firstname>
+          <lastname>Singh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ramesh</firstname>
+          <middlename>K.</middlename>
+          <lastname>Aggarwal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sushil</firstname>
+          <middlename>K.</middlename>
+          <lastname>Dutta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-76</pages>
+        <date_published>2012-10-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Validation and new synonymies proposed for &lt;i&gt;Cheiracanthium &lt;/i&gt;species from South and Southeast Asia (Araneae, Clubionidae) </title>
+        <abstract locale="en_US">The primary types of &lt;i&gt;Cheiracanthium&lt;/i&gt; species from South and Southeast Asia were examined. &lt;i&gt;Cheiracanthium&lt;/i&gt; &lt;i&gt;insigne&lt;/i&gt; O.P.–Cambridge, 1874 is considered a senior synonym of &lt;i&gt;Eutittha&lt;/i&gt; &lt;i&gt;gracilipes&lt;/i&gt; Thorell, 1895 (male). &lt;i&gt;Eutittha&lt;/i&gt; &lt;i&gt;truncata&lt;/i&gt; Thorell,1895 (female) is not a conspecific female of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;gracilipes,&lt;/i&gt; provisionally threated as a separate species and proposed hereas a valid taxon because it does not resemble the female of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;insigne.&lt;/i&gt; &lt;i&gt;Cheiracanthium&lt;/i&gt; &lt;i&gt;rupicolum&lt;/i&gt; (Thorell, 1897) is re-garded as a senior synonym of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gyirongense&lt;/i&gt; Hu &amp; Li, 1987. The Himalaya form of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;triviale&lt;/i&gt; (Thorell, 1895), whichwas mentioned and illustrated in Gravely (1931), was misidentified and belongs to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rupicolum.&lt;/i&gt; &lt;i&gt;Cheiracanthium&lt;/i&gt; &lt;i&gt;insu-&lt;/i&gt;&lt;i&gt;lanum&lt;/i&gt; (Thorell, 1878) bears strong resemblance to that of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;melanostomum&lt;/i&gt; (Thorell, 1895); they probably belong to the same species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eutichurinae; spider; validation; new synonymy; misidentification; Burma; Thailand; India; China</subject>
+          <subject_class locale="en_US">Eutichurinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pakawin</firstname>
+          <lastname>Dankittipakul</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janet</firstname>
+          <lastname>Beccaloni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-86</pages>
+        <date_published>2012-10-09</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa..1</id>
     <title locale="en_US">PublishDate</title>
     <volume></volume>

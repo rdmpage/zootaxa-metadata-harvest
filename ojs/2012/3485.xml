@@ -1,3 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3485.1</id>
+    <title locale="en_US">17 Sep. 2012</title>
+    <volume>3485</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the soft coral genus, &lt;i&gt;Eunephthya &lt;/i&gt;Verrill, 1869 (Anthozoa: Octocorallia: Nephtheidae), with a description of four new species from South Africa </title>
+        <abstract locale="en_US">Based on the results of morphological and molecular phylogenetic analyses of newly collected material, we reinstate thesoft coral genus &lt;i&gt;Eunephthya&lt;/i&gt; Verrill, 1869 for a group of species endemic to South Africa. &lt;i&gt;Eunephthya&lt;/i&gt; is morphologicallyand phylogenetically distinct from the zooxanthellate, tropical genus &lt;i&gt;Capnella&lt;/i&gt; Gray, 1869 with which it had been synon-ymized. In &lt;i&gt;Eunephthya&lt;/i&gt; the polyp sclerites include unilaterally spinose or leaf spindles, and the sclerites of the stalk surfaceand interior (when present) are small radiates and spheroids. In contrast, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;imbricata,&lt;/i&gt; the type species of &lt;i&gt;Capnella,&lt;/i&gt; hasleaf clubs and leaf-capstans in the polyps and stalk surface, and large ovals and irregular forms in the interior. We describefour new species of &lt;i&gt;Eunephthya&lt;/i&gt; from Algoa Bay, South Africa—E. &lt;i&gt;celata,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;ericius,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;granulata,&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;shirleyae—&lt;/i&gt; and propose a new combination, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;susanae.&lt;/i&gt;&lt;b&gt;Keywords.&lt;/b&gt; Molecular phylogenetics, &lt;i&gt;Capnella,&lt;/i&gt; mtMutS, COI, 28S rDNA, endemism</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Catherine</firstname>
+          <middlename>S.</middlename>
+          <lastname>Mcfadden</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leen</firstname>
+          <middlename>P.</middlename>
+          <lastname>Van Ofwegen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Sibon &lt;/i&gt;(Squamata: Colubroidea: Dipsadidae) from the Cordillera Central of western Panama, with comments on other species of the genus in the area </title>
+        <abstract locale="en_US">We describe &lt;i&gt;Sibon&lt;/i&gt; &lt;i&gt;noalamina&lt;/i&gt; sp. nov. from the Caribbean versant of the Cordillera Central, in the Comarca Ngöbe-Bugléand the province of Veraguas of western Panama. Due to its coral snake-like, bicolored pattern, the new species superfi-cially resembles &lt;i&gt;Sibon&lt;/i&gt; &lt;i&gt;anthracops,&lt;/i&gt; &lt;i&gt;Dipsas&lt;/i&gt; &lt;i&gt;articulata,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;bicolor,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;temporalis,&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;viguieri.&lt;/i&gt; It differs from these spe-cies, and from all its congeners, by having only five supralabials, by the unique shape of the posterior supralabial, and bya slight keeling on some dorsal rows in adults. We discuss its conservation perspectives, and provide new distributional records for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;annulatus&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;longifrenis,&lt;/i&gt; as well as an updated key to the Lower Central American species of &lt;i&gt;Sibon.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">snail-eater; &lt;i&gt;Dipsas&lt;/i&gt;; Chiriquí; Comarca Ngöbe-Buglé; Bocas del Toro; Veraguas; conservation; distribution extension; morphology</subject>
+          <subject_class locale="en_US">snail-eater</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sebastian</firstname>
+          <lastname>Lotzkat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Hertz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gunther</firstname>
+          <lastname>Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-40</pages>
+        <date_published>2012-09-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Leipsuropus &lt;/i&gt;(Crustacea: Amphipoda: Podoceridae) from Japanese and Korean waters </title>
+        <abstract locale="en_US">Two new species of the amphipod genus &lt;i&gt;Leipsuropus&lt;/i&gt; Stebbing, 1899 are described. &lt;i&gt;Leipsuropus&lt;/i&gt; &lt;i&gt;astericolus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;was collected from the surface of a starfish in Japanese waters and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;hongi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the bottom in Korean waters.Both species have distinct projections on dorsal and lateral surfaces of head, pereonites 1–7 and pleonites 1, 2, and theprojections were acute in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;astericolus&lt;/i&gt; and blunt in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;hongi.&lt;/i&gt; These new species are quite different from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;parasiticus&lt;/i&gt;(Haswell, 1879) in Australian waters which has only dorsal rugae on pereonites 1–5. They are also distinguishable from&lt;i&gt;L.&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; Ren, 2012 in Chinese waters in their sinuate palms of the male gnathopod 2. A key to species of the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Podoceridae; &lt;i&gt;Leipsuropus&lt;/i&gt;; Japan; Korea; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Ariyama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-55</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the species of &lt;i&gt;Perkinsiana &lt;/i&gt;(Polychaeta: Sabellidae) from Antarctica with the description of &lt;i&gt;P. brigittae &lt;/i&gt;sp. nov. </title>
+        <abstract locale="en_US">Nine nominal species are known from Antarctica and adjacent waters that have been assigned to the genus &lt;i&gt;Perkinsiana&lt;/i&gt;(Polychaeta: Sabellidae). Taxonomic notes for these species are provided. Currently, only six species are considered valid:&lt;i&gt;Perkinsiana&lt;/i&gt; &lt;i&gt;antarctica&lt;/i&gt; (Kinberg), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;decorata&lt;/i&gt; (Rullier), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;borsibrunoi&lt;/i&gt; Giangrande and Gambi, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magalhaensis&lt;/i&gt;(Kinberg), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;milae&lt;/i&gt; Giangrande and Gambi and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; (Johansson); &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;antarctica&lt;/i&gt; (Gravier) is &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis;&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;littoralis&lt;/i&gt;(Hartman) is a suggested synonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magalhaensis&lt;/i&gt; (Kinberg) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;antarctica&lt;/i&gt; (Gravier), while &lt;i&gt;Potamilla&lt;/i&gt; &lt;i&gt;antarctica&lt;/i&gt;&lt;i&gt;christenseni&lt;/i&gt; Augener probably belongs to the genus &lt;i&gt;Notaulax.&lt;/i&gt; &lt;i&gt;Perkinsiana&lt;/i&gt; is amended based on the presence of a palmatemembrane and radiolar flanges, and three types of abdominal chaetae. The new species &lt;i&gt;Perkinsiana&lt;/i&gt; &lt;i&gt;brigittae&lt;/i&gt; sp. nov. ishere described from collections taken by the U. S. Antarctic Research Program (USARP) at Wilkes Station. A taxonomic key for species of &lt;i&gt;Perkinsiana&lt;/i&gt; from Antarctica is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Antarctica; Sabellidae; &lt;i&gt;Perkinsiana&lt;/i&gt;; symbiosis.</subject>
+          <subject_class locale="en_US">Antarctica</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>María</firstname>
+          <middlename>Ana</middlename>
+          <lastname>Tovar-Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Beatriz</firstname>
+          <lastname>Yáñez-Rivera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Giangrande</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Cristina</middlename>
+          <lastname>Gambi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">East African odontopygid millipedes 1: Five new species of &lt;i&gt;Xystopyge &lt;/i&gt;(Attems, 1909) and a proposal for a new gonopod terminology (Diplopoda; Spirostreptida; Odontopygidae) </title>
+        <abstract locale="en_US">Five new species of the endemic East African genus &lt;i&gt;Xystopyge&lt;/i&gt; are described: &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;pelecys,&lt;/i&gt; &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;frontieri,&lt;/i&gt; &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;proplicatus,&lt;/i&gt; &lt;i&gt;X.&lt;/i&gt;&lt;i&gt;biacanthus,&lt;/i&gt; and &lt;i&gt;X.&lt;/i&gt; &lt;i&gt;zanzibarensis.&lt;/i&gt; Three are from the Eastern Arc Mountains, Tanzania, two are from the UsambaraMtns. and one is from the Uluguru Mtns. One further species is from the Kenyan lowland bordering Tanzania, and onefrom the island of Zanzibar, Tanzania. &lt;i&gt;Xystopyge&lt;/i&gt; &lt;i&gt;robusta&lt;/i&gt; &lt;i&gt;hoffmani&lt;/i&gt; Vandenspiegel &amp; Pierrard, 2004, is elevated to fullspecies status: &lt;i&gt;Xystopyge&lt;/i&gt; &lt;i&gt;hoffmani&lt;/i&gt; &lt;b&gt;n.stat.&lt;/b&gt; A new gonopod terminology for Odontopygidae, adapted from Hoffman’s(2008) terminology for the related family Spirostreptidae, is used for the descriptions of the new species. New records of previsously described &lt;i&gt;Xystopyge&lt;/i&gt; species are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sara</firstname>
+          <middlename>B.</middlename>
+          <lastname>Frederiksen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henrik</firstname>
+          <lastname>Enghoff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-82</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Zoanthid housekeeping: some nomenclatural notes on the Zoantharia (Cni-daria: Anthozoa: Hexacorallia) </title>
+        <abstract locale="en_US">The identities, authorship and/or spellings of three genusand three family-group names in the order Zoantharia (=Zoanthidea), are clarified. &lt;i&gt;Palythoa&lt;/i&gt; &lt;i&gt;axinellae&lt;/i&gt; Schmidt, 1862, is designated as the type species of &lt;i&gt;Heterozoanthus&lt;/i&gt; Verrill,1870, making this genus-group name an objective synonym of &lt;i&gt;Parazoanthus&lt;/i&gt; Haddon &amp; Shackleton, 1891, with prevailingusage of the latter maintained by a reversal of precedence. The family-group name Heterozoanthidae was inadvertentlyestablished by Pax &amp; Müller (1956), and is a junior objective synonym of Parazoanthidae Delage &amp; Hérouard, 1901. Thegenusand family-groups names &lt;i&gt;Mardoell&lt;/i&gt; and Mardoellidae (both established by Danielssen 1890) are respectivesynonyms of &lt;i&gt;Epizoanthus&lt;/i&gt; Gray, 1867, and Epizoanthidae Delage &amp; Hérouard, 1901, with prevailing usage of the last-named family-group conserved by a reversal of precedence. The genus-group name &lt;i&gt;Mardoellia&lt;/i&gt; Blanchard, 1893, is anunjustified emendation and objective synonym of &lt;i&gt;Mardoell&lt;/i&gt; Danielssen, 1890. Rafinesque (1815) and not Gray (1832, 1840) is the author of the family-group name Zoanthidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Zoantharia; Zoanthidea; type species designation; Article 23.9; ICZN; nomenclature.</subject>
+          <subject_class locale="en_US">Zoantharia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>Davis</middlename>
+          <lastname>Reimer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

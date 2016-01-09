@@ -1,3 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3431.1</id>
+    <title locale="en_US">21 Aug. 2012</title>
+    <volume>3431</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Aipysurus mosaicus, &lt;/i&gt;a new species of egg-eating sea snake (Elapidae: Hydrophiinae), with a redescription of &lt;i&gt;Aipysurus eydouxii &lt;/i&gt;(Gray, 1849)</title>
+        <abstract locale="en_US">We describe a new species of egg-eating sea snake, &lt;i&gt;Aipysurus&lt;/i&gt; &lt;i&gt;mosaicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from northern Australia and southernNew Guinea. This species was previously considered to be an allopatric population of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;eydouxii,&lt;/i&gt; which occursthroughout the Sunda Shelf and in New Guinea. Molecular analyses reveal these two species to be sister lineages withfixed nucleotide substitutions at three independent mitochondrial and nuclear loci, and a deep phylogenetic divergenceexceeding that of all other sampled species pairs in &lt;i&gt;Aipysurus.&lt;/i&gt; &lt;i&gt;Aipysurus&lt;/i&gt; &lt;i&gt;mosaicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is also distinguished from &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;eydouxii&lt;/i&gt; by morphological characters relating to scalation (e.g. number of ventral scales), colour pattern (e.g. number andshape of transverse body bands), internal soft anatomy (e.g. position of heart in relation to ventral scales), and skeletalmorphology (e.g. shape of nasal and caudal neural spines). Additional sampling is needed to clarify the extent ofgeographic contact between &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;eydouxii&lt;/i&gt; and the new species in New Guinea where they appear to be sympatric. It is likelythat the boundaries between these taxa will be mirrored in other coastal sea snakes with ranges spanning the deep watersof the Timor Trench; discovery of such cryptic species will have important implications for conservation of this highly diverse but relatively poorly studied group of marine vertebrates.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">anonymous nuclear; Hydrophiinae; Indo-Australia; marine; mitochondrial; morphology</subject>
+          <subject_class locale="en_US">anonymous nuclear</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kate</firstname>
+          <middlename>L.</middlename>
+          <lastname>Sanders</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arne</firstname>
+          <middlename>R.</middlename>
+          <lastname>Rasmussen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johan</firstname>
+          <lastname>Elmberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mumpuni</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Guinea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Blias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>S. Y.</middlename>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bryan</firstname>
+          <middlename>G.</middlename>
+          <lastname>Fry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2012-08-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Homonota &lt;/i&gt;(Reptilia: Squamata: Gekkota: Phyllodactylidae) from the Ventania mountain range, Southeastern Pampas, Buenos Aires Province, Argentina</title>
+        <abstract locale="en_US">A new species of lizard genus &lt;i&gt;Homonota&lt;/i&gt; from southern Buenos Aires Province, Argentina is described. &lt;i&gt;Homonota&lt;/i&gt; &lt;i&gt;wil-&lt;/i&gt;&lt;i&gt;liamsii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was previously considered as part of the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;darwinii&lt;/i&gt; species, but differs by a combination of charactersfrom the nominal species and from other species of the genus. Its geographic distribution is restricted to an isolated mountain system not connected with other habitats suitable for &lt;i&gt;Homonota&lt;/i&gt; &lt;i&gt;darwinii&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">South America; Reptiles; Gecko; &lt;i&gt;Homonota&lt;/i&gt; &lt;i&gt;darwinii;&lt;/i&gt; new mountain species; Ventana Mountains.</subject>
+          <subject_class locale="en_US">South America; Reptiles; Gecko</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luciano</firstname>
+          <middlename>Javier</middlename>
+          <lastname>Avila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristian</firstname>
+          <middlename>Hernan Fulvio</middlename>
+          <lastname>Perez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ignacio</firstname>
+          <lastname>Minoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mariana</firstname>
+          <lastname>Morando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-36</pages>
+        <date_published>2012-08-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ant-like sac spiders from Jinyun Mountain Natural Reserve of Chongqing, China (Araneae: Corinnidae)</title>
+        <abstract locale="en_US">Eight corinnid species were collected from the Jinyun Mountain Natural Reserve: &lt;i&gt;Corinnomma&lt;/i&gt; &lt;i&gt;severum&lt;/i&gt; (Thorell, 1877)(male, female), &lt;i&gt;Otacilia&lt;/i&gt; &lt;i&gt;komurai&lt;/i&gt; (Yaginuma, 1952) (male, female), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;longituba&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;taiwanica&lt;/i&gt;(Hayashi &amp; Yoshida, 1993) (male, female), &lt;i&gt;Phrurolithus&lt;/i&gt; &lt;i&gt;hamatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;zongxu&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male,female), &lt;i&gt;Trachelas&lt;/i&gt; &lt;i&gt;japonicus&lt;/i&gt; Bösenberg &amp; Strand, 1906 (male, female) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; Chen, Peng &amp; Zhao, 1995 (female). Morphological illustrations and photos of all species and descriptions of new species are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; taxonomy; morphology; photo; illustration</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lu-Yu</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhi-Sheng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-53</pages>
+        <date_published>2012-08-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new small &lt;i&gt;Phrynobatrachus &lt;/i&gt;(Amphibia: Anura: Phrynobatrachidae) from southern Cameroon</title>
+        <abstract locale="en_US">We describe a new small &lt;i&gt;Phrynobatrachus&lt;/i&gt; species from southern Cameroon. The new species exhibits a combination ofunique morphological characters and a distinctive colour pattern consisting of a black lateral face mask, a black throat inmales, a white throat with uniform black lower mandibles in females and a white belly in both sexes. Morphologically itis characterized by small size, absence of an eyelid cornicle, presence of black spines on anterior part of vocal sac in males,spines on flanks, presence of discs on toe and finger tips, distinct webbing, absence of nuptial pads on male thumbs andscapular ridges converging in a straight line. Analysis of mitochondrial 16S rRNA revealed that the new species differsfrom 34 other West and Central African species of the genus by a minimum distance of 4.5% and is most similar to several&lt;i&gt;Phrynobatrachus&lt;/i&gt; species which are almost all endemic to the Cameroon volcanic line or parts of it, i.e. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chukuchuku&lt;/i&gt;(4.9%), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;werneri&lt;/i&gt; (5.1%), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;steindachneri&lt;/i&gt; (5.2%), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;schioetzi&lt;/i&gt; (5.6%), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;batesii&lt;/i&gt; (5.9%), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cricogaster&lt;/i&gt; (5.5%), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;danko&lt;/i&gt;(6.1%), and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;manengoubensis&lt;/i&gt; (6.1%), respectively. The new species is most similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;batesii,&lt;/i&gt; which was describedfrom forests close to the type locality of the new species. Morphologically the new species differs from &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;batesii&lt;/i&gt; by muchsmaller size (&lt; 20 mm &lt;i&gt;vs.&lt;/i&gt; 25-31 mm), shape of scapular ridges, belly colour, shorter shanks, absence of nuptial pads and presence of gular spines in breeding males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phrynobatrachus&lt;/i&gt; &lt;i&gt;batesii&lt;/i&gt;; &lt;i&gt;Phrynobatrachus&lt;/i&gt; &lt;i&gt;ruthbeateae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Central Africa; Dja Biosphere Reserve; Lower Guinea Forest; rainforest</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phrynobatrachus&lt;/i&gt; &lt;i&gt;batesii&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mark-Oliver</firstname>
+          <lastname>Rödel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Doherty-Bone</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcel</firstname>
+          <middlename>Talla</middlename>
+          <lastname>Kouete</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Janzen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Katherine</firstname>
+          <lastname>Garrett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Browne</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nono</firstname>
+          <middlename>Legrand</middlename>
+          <lastname>Gonwouo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>F.</middlename>
+          <lastname>Barej</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laura</firstname>
+          <lastname>Sandberger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-68</pages>
+        <date_published>2012-08-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

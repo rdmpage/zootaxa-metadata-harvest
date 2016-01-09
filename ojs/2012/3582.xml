@@ -1,3 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3582.1</id>
+    <title locale="en_US">12 Dec. 2012</title>
+    <volume>3582</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Phyllocnistis &lt;/i&gt;Zeller (Lepidoptera: Gracillariidae) from southern Brazil, with life-history description and genetic comparison to congeneric species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosângela</firstname>
+          <lastname>Brito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gislene</firstname>
+          <middlename>L.</middlename>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hector</firstname>
+          <middlename>A.</middlename>
+          <lastname>Vargas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilson</firstname>
+          <middlename>R. P.</middlename>
+          <lastname>Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-12-12</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of &lt;i&gt;Rhopalopsole magnicerca &lt;/i&gt;group (Plecoptera: Leuctridae) from China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-32</pages>
+        <date_published>2012-12-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new biting midges of the subfamily &lt;i&gt;Forcipomyiinae &lt;/i&gt;Lenz (Diptera: Ceratopogonidae) from China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Haiying</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yangqing</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yixin</firstname>
+          <lastname>Yu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-36</pages>
+        <date_published>2012-12-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Donda &lt;/i&gt;Moore, 1882 with description of two species from East Asia (Lepidoptera, Noctuidae: Pantheinae). Revision of Pantheinae, contribution V </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Behounek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-47</pages>
+        <date_published>2012-12-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A systematic study of the genus &lt;i&gt;Paragavialidium &lt;/i&gt;Zheng (Orthoptera: Tetrigoidea: Scelimeninae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weian</firstname>
+          <lastname>Deng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhemin</firstname>
+          <lastname>Zheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shizhen</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Minping</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-56</pages>
+        <date_published>2012-12-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Agalliini from China (Hemiptera, Cicadellidae, Megophthalminae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Zhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-63</pages>
+        <date_published>2012-12-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Sieblosiidae from the Middle Miocene of Germany (Odonata: Epiproctophora) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gunther</firstname>
+          <lastname>Fleck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-12-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

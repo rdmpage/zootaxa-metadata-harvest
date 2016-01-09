@@ -1,3 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3580.1</id>
+    <title locale="en_US">11 Dec. 2012</title>
+    <volume>3580</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of spatially disjunct alpine &lt;i&gt;Teleiopsis albifemorella &lt;/i&gt;s. lat. (Lepidoptera: Gelechiidae) revealed by molecular data and morphology —how many species are there? </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Huemer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marko</firstname>
+          <lastname>Mutanen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Comparative larval morphology of &lt;i&gt;Platydracus &lt;/i&gt;and &lt;i&gt;Staphylinus &lt;/i&gt;(Staphylinidae: Staphylinini: Staphylinina) with notes on their biology and redescription of the pupa of &lt;i&gt;Staphylinus &lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ewa</firstname>
+          <lastname>Pietrykowska-Tudruj</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernard</firstname>
+          <lastname>Staniec</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-42</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of the genus &lt;i&gt;Onconeura &lt;/i&gt;Andersen &lt;i&gt;et &lt;/i&gt;Sæther (Diptera: Chironomidae) from Argentina with a cladistic analysis of the genus </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mariano</firstname>
+          <lastname>Donato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Augusto</firstname>
+          <lastname>Siri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Melina</firstname>
+          <lastname>Mauad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-55</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the genus &lt;i&gt;Eupithecia &lt;/i&gt;Curtis (Lepidoptera, Geometridae, Larentii-nae) from Iran </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulrich</firstname>
+          <lastname>Ratzel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Studies of True Bugs of Xinjiang, Western China. II. Cimicomorpha: Lace Bugs (Hemiptera: Heteroptera: Tingidae: Tinginae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Victor</firstname>
+          <middlename>B.</middlename>
+          <lastname>Golub</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhaohui</firstname>
+          <lastname>Luo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikolai</firstname>
+          <middlename>N.</middlename>
+          <lastname>Vinokurov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-82</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new cicada species of the genus &lt;i&gt;Purana &lt;/i&gt;Distant, 1905 (Hemiptera: Cicadidae), with a key to the &lt;i&gt;Purana &lt;/i&gt;species from Vietnam </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hong-Thai</firstname>
+          <lastname>Pham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marieke</firstname>
+          <lastname>Schouten</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeng-Tze</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

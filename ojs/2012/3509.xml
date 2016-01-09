@@ -1,3 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3509.1</id>
+    <title locale="en_US">8 Oct. 2012</title>
+    <volume>3509</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revised classification of the jumping plant-lice (Hemiptera: Psylloidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <lastname>Burckhardt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Ouvrard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-10-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New leafhopper genera and species (Hemiptera: Cicadellidae) which feed on Velloziaceae from Southern Africa, with a discussion of their trophobiosis </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <lastname>Stiller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-54</pages>
+        <date_published>2012-10-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New genus and three new species of the subfamily Xyleninae (Lepidoptera, Noctuidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <lastname>Babics</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Saldaitis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2012-10-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Paracerella &lt;/i&gt;Imadaté (Protura: Acerentomidae, Nipponentominae) with identification key and description of a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julia</firstname>
+          <lastname>Shrubovych</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jerzy</firstname>
+          <lastname>Smykla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-76</pages>
+        <date_published>2012-10-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Scanning electron microscopy of eggs of &lt;i&gt;Ochlerotatus taeniorhynchus &lt;/i&gt;(Diptera: Culicidae, Aedini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>Brisola</middlename>
+          <lastname>Marcondes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerson</firstname>
+          <middlename>Azulim</middlename>
+          <lastname>Müller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jacenir</firstname>
+          <lastname>Santos-Mallet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jeronimo</firstname>
+          <lastname>Alencar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juliana</firstname>
+          <middlename>Soares</middlename>
+          <lastname>Sarmento</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudiney</firstname>
+          <middlename>Biral Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Helder</firstname>
+          <middlename>Ricas</middlename>
+          <lastname>Rezende</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-80</pages>
+        <date_published>2012-10-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A New Species of &lt;i&gt;Oocyclus &lt;/i&gt;Sharp From Southeastern China (Coleoptera: Hydrophilidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fenglong</firstname>
+          <lastname>Jia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jason</firstname>
+          <middlename>F.</middlename>
+          <lastname>Maté</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-84</pages>
+        <date_published>2012-10-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Connectivus&lt;/i&gt;, a new genus of bamboo-feeding leafhoppers from China (Hemiptera: Cicadellidae: Deltocephalinae: Paralimnini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ji-Chun</firstname>
+          <lastname>Xing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Zhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>85-88</pages>
+        <date_published>2012-10-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

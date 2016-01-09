@@ -1,3 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3411.1</id>
+    <title locale="en_US">7 Aug. 2012</title>
+    <volume>3411</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the Colombian species of &lt;i&gt;Urosigalphus &lt;/i&gt;Ashmead (Hymenoptera: Braconidae)</title>
+        <abstract locale="en_US">The Colombian species of parasitoid wasp &lt;i&gt;Urosigalphus&lt;/i&gt; are revised for the first time, based on specimens deposited inmuseums. Almost all the material was collected by Malaise trap in the understory stratum of the seasonally flooded forest(varzea), submontane forest, and lowland forest, located in protected areas. 23 new species are described and illustrated:&lt;i&gt;U.&lt;/i&gt; &lt;i&gt;aliuslongitudinis&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;amandae&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;carinaverticis&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt;&lt;i&gt;cavusscuti&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;colombiensis&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;colordissimilis&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt;&lt;i&gt;faciescarinae&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;fimbriaeplanae&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;frequens&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;inaequalis&lt;/i&gt;Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;macarenaensis&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;margo&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;metanotuminsignum&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;notauliremoti&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;ocellivicini&lt;/i&gt; Arias-Penna, n. sp.,&lt;i&gt;U.&lt;/i&gt; &lt;i&gt;ordoincompositus&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;sharkeyi&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;singularis&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;taniae&lt;/i&gt;Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;tredecimantennae&lt;/i&gt; Arias-Penna, n. sp., &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;triacarinae&lt;/i&gt; Arias-Penna, n. sp., and &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;whitfieldi&lt;/i&gt; AriasPenna, n. sp. An updated key to the known South American species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Inventory; Neotropics; parasitoid wasps; protected areas; South America</subject>
+          <subject_class locale="en_US">Inventory</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arias-Penna</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diana</firstname>
+          <lastname>Carolina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Whitfield</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <lastname>B.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2012-08-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Supplement for the genus &lt;i&gt;Phlugiolopsis &lt;/i&gt;Zeuner, 1940 (Orthoptera: Tettigoniidae: Meconematinae) from China</title>
+        <abstract locale="en_US">During curation of some species from Guangxi, China and discovered 2 new species, as: &lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;damingshanis&lt;/i&gt;Bian, Shi &amp; Chang &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;huangi&lt;/i&gt; Bian, Shi &amp; Chang &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; Therefore, this paper is a supplement for &lt;i&gt;Phlugiolopsis&lt;/i&gt; (Bian, Shi &amp; Chang, 2012). The type specimens are deposited in the Museum of Hebei University.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phlugiolopsis&lt;/i&gt;; Meconematinae; Tettigoniidae; new species; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phlugiolopsis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xun</firstname>
+          <lastname>Bian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Lin</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2012-08-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the apterous Carventinae genus &lt;i&gt;Comorocoris &lt;/i&gt;Heiss, 1985 from Madagascar (Hemiptera: Heteroptera: Aradidae)</title>
+        <abstract locale="en_US">The monobasic genus &lt;i&gt;Comorocoris&lt;/i&gt; Heiss, 1985 was erected for the peculiar apterous species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;testudiformis&lt;/i&gt; fromMoheli Island [= Mwali] of the Comoro Archipelago. Recent forest litter sifting in Madagascar unexpectedly brought to light two new species belonging to this genus which are described and illustrated. A key to the three species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Heteroptera; Aradidae; Carventinae; apterous; new species; &lt;i&gt;Comorocoris&lt;/i&gt;; Madagascar</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ernst</firstname>
+          <lastname>Heiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petr</firstname>
+          <lastname>Baňař</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lalao</firstname>
+          <middlename>Sahondra</middlename>
+          <lastname>Rahanitriniaina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-08-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

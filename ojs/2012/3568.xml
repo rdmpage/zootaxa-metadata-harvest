@@ -1,3 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3568.1</id>
+    <title locale="en_US">29 Nov. 2012</title>
+    <volume>3568</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the cicada genus &lt;i&gt;Mogannia &lt;/i&gt;Amyot &amp; Serville from China, with descriptions of three new species (Hemiptera: Cicadidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mingsheng</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cong</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The aquatic Heteroptera (Insecta: Hemiptera) of the "Foreste Casentinesi, Monte Falterona e Campigna" National Park (Central Italy) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <lastname>Cianferoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Giuseppe</firstname>
+          <lastname>Mazza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-52</pages>
+        <date_published>2012-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Agriotes &lt;/i&gt;(Coleoptera: Elateridae) from Mexico with a key to species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <middlename>Leonel</middlename>
+          <lastname>Zurita-Garcia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Santiago</firstname>
+          <middlename>Zaragoza</middlename>
+          <lastname>Caballero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Helga</firstname>
+          <middlename>Ochoterena</middlename>
+          <lastname>Booth</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-64</pages>
+        <date_published>2012-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the leafhopper genus &lt;i&gt;Pedionis &lt;/i&gt;Hamilton (Hemiptera: Cicadellidae: Macropsinae) from China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ren-Huai</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-73</pages>
+        <date_published>2012-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Flea weevils of the genus &lt;i&gt;Synorchestes &lt;/i&gt;Voss (Coleoptera, Curculionidae, Curculioninae, Rhamphini), with description of a second species from India </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shaloo</firstname>
+          <lastname>Ayri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroaki</firstname>
+          <lastname>Kojima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Ramamurthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>74-80</pages>
+        <date_published>2012-11-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Delgadobius amazonensis&lt;/i&gt;—a new genus and species of the subtribe Philonthina from Amazonia (Coleoptera: Staphylinidae: Staphylininae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mariana</firstname>
+          <lastname>Chani-Posse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guy</firstname>
+          <lastname>Couturier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-88</pages>
+        <date_published>2012-11-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

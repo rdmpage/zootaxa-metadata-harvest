@@ -1,3 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3565.1</id>
+    <title locale="en_US">28 Nov. 2012</title>
+    <volume>3565</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New records of bathyal Leptolida (Cnidaria: Hydrozoa: Leptothecata) from the Bay of Biscay and the northwestern Iberian Peninsula (northeastern Atlantic) </title>
+        <abstract locale="en_US">Four uncommon bathyal thecate hydroids, &lt;i&gt;Plicatotheca&lt;/i&gt; &lt;i&gt;anitae&lt;/i&gt; Calder &amp; Vervoort, 1986, &lt;i&gt;Zygophylax&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; Stechow,1923, &lt;i&gt;Nemertesia&lt;/i&gt; &lt;i&gt;falcicula&lt;/i&gt; (Ramil &amp; Vervoort, 1992a) and &lt;i&gt;Pseudoplumaria&lt;/i&gt; &lt;i&gt;marocana&lt;/i&gt; (Billard, 1930), were collectedduring benthic surveys of the Cantabrian Sea and the Galicia Bank (Spain, northeastern Atlantic). Northern ranges of allfour are extended in the Atlantic Ocean. Elsewhere in the northeastern Atlantic, &lt;i&gt;Plicatotheca&lt;/i&gt; &lt;i&gt;anitae&lt;/i&gt; is known only fromthe Azores, while the nearest records of &lt;i&gt;Nemertesia&lt;/i&gt; &lt;i&gt;falcicula&lt;/i&gt; and &lt;i&gt;Pseudoplumaria&lt;/i&gt; &lt;i&gt;marocana&lt;/i&gt; are the Strait of Gibraltarand from a station northwest off Cape San Vicente in the south of Portugal, respectively. &lt;i&gt;Zygophylax&lt;/i&gt; &lt;i&gt;africana,&lt;/i&gt; known onlyfrom South Africa and Japan, is new to the European fauna and was obtained at an unusual depth. Each of the four species is described and illustrated, and their distributions and bathymetric ranges are revised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hydrozoa; &lt;i&gt;Plicatotheca&lt;/i&gt;; &lt;i&gt;Zygophylax&lt;/i&gt;; &lt;i&gt;Pseudoplumaria&lt;/i&gt;; &lt;i&gt;Nemertesia&lt;/i&gt;; deep-sea; Galicia Bank; Avilés Canyon System; Bay of Biscay; Spain</subject>
+          <subject_class locale="en_US">Hydrozoa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Álvaro</firstname>
+          <lastname>Altuna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2012-11-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Aplidium &lt;/i&gt;(Ascidiacea, Polyclinidae) in central coast, Brazil </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Aplidium&lt;/i&gt; comprises a large number of species, seldom reported from Brazil. Here we describe some species inthis genus, collected between 1999 and 2012, in coastal waters of the states of Bahia and Espírito Santo, in eastern centralBrazil. Natural and artificial substrates were sampled by scuba diving at 5 to 23 m depths. Four species comprise the 16samples. We propose synonymy of the species &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lobatum&lt;/i&gt; Savigny, 1816 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;quinquesulcatum&lt;/i&gt; Millar, 1977, both pre-viously known from Brazil. The other species are &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;antillense&lt;/i&gt; (first record for the Brazilian coast), and two new species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elongatum&lt;/i&gt; n. sp. and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;selenium&lt;/i&gt; n. sp.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brazil; Tunicata; South Atlantic; taxonomy; biodiversity; antillense; lobatum; elongatum and selenium</subject>
+          <subject_class locale="en_US">Brazil</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosana</firstname>
+          <middlename>Moreira</middlename>
+          <lastname>Da Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>Antunes</middlename>
+          <lastname>Gamba</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thais</firstname>
+          <middlename>Bastos</middlename>
+          <lastname>Zanata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-30</pages>
+        <date_published>2012-11-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Trichonotus &lt;/i&gt;(Perciformes: Trichonotidae) from Somalia and redescription of &lt;i&gt;Trichonotus cyclograptus &lt;/i&gt;(Alcock, 1890) with designation of a lectotype </title>
+        <abstract locale="en_US">A new sand diver &lt;i&gt;Trichonotus&lt;/i&gt; &lt;i&gt;somaliensis&lt;/i&gt; n. sp. (Trichonotidae) is described on the basis of 13 specimens collected offthe coast of Somalia at a depth of 38−78m. The new species is most similar to &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;arabicus&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cyclograptus&lt;/i&gt; in lackingelongated anterior dorsal-fin spines and having dark markings on the lateral body surface in males. However, the new spe-cies differs from the others in having the following characters: lateral-line scales 54−57; gill rakers on first arch5−6+18−24; 12–14 blotches on upper half of body in both sexes; first dorsal-fin soft ray length in males 19–28% of stan-dard length; and no free dorsal pterygiophores. &lt;i&gt;Trichonotus&lt;/i&gt; &lt;i&gt;cyclograptus,&lt;/i&gt; a poorly known species, is redescribed on the basis of the newly-designated lectotype and paralectotypes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trichonotidae; &lt;i&gt;Trichonotus&lt;/i&gt; &lt;i&gt;cyclograptus&lt;/i&gt;; &lt;i&gt;Trichonotus&lt;/i&gt; &lt;i&gt;somaliensis&lt;/i&gt;; new species; sand diver; redescription; Somalia</subject>
+          <subject_class locale="en_US">Trichonotidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eri</firstname>
+          <lastname>Katayama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiromitsu</firstname>
+          <lastname>Endo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-43</pages>
+        <date_published>2012-11-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new montane species of &lt;i&gt;Cercosaura &lt;/i&gt;(Squamata: Gymnophthalmidae) from Colombia, with notes on the distribution of the genus </title>
+        <abstract locale="en_US">The gymnophthalmid genus &lt;i&gt;Cercosaura&lt;/i&gt; is distributed throughout South America and southern Panama. &lt;i&gt;Cercosaura&lt;/i&gt;&lt;i&gt;hypnoides&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was discovered from Meta, Colombia and differs from all other species by possessing threesupraoculars, a single palpebral scale, five supralabials and infralabials, hexagonal, keeled dorsal scales arranged intransverse and oblique rows, small lateral scales, six longitudinal rows of ventrals, 8–12 femoral pores per hindlimb,18–22 subdigital lamellae on the fourth toe, overlapping limbs when adpressed against the body, and the pattern of twodorsolateral and two lateral stripes throughout the head, body, and tail. The description of the new species increases the known number of &lt;i&gt;Cercosaura&lt;/i&gt; species to 13, with five species occurring in Colombia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cercosaura&lt;/i&gt; &lt;i&gt;hypnoides&lt;/i&gt;; Colombia; Gymnophthalmidae; lizard; Meta; new species; South America; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cercosaura&lt;/i&gt; &lt;i&gt;hypnoides&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tiffany</firstname>
+          <middlename>M.</middlename>
+          <lastname>Doan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>William</firstname>
+          <middlename>W.</middlename>
+          <lastname>Lamar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-54</pages>
+        <date_published>2012-11-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Parabeloniscus &lt;/i&gt;(Opiliones: Laniatores: Epedanidae) from China </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Parabeloniscus&lt;/i&gt; Suzuki, 1967, which was originally unique to Japan, is newly recorded from China by a newspecies: &lt;i&gt;Parabeloniscus&lt;/i&gt; &lt;i&gt;corneus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; collected from leaf litter in Wuyi Mountain, Fujian Province, China. The newspecies is diagnosed among other characteristics by the free tergite II with a single lateral spine on each side; the free terg-ite III with a remarkable median spine; the femur, patella, tibia and metatarsus of leg IV with conspicuous rows of spines in male; and the penis with a horny stylus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; harvestmen; taxonomy; &lt;i&gt;Parabeloniscus&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chao</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2012-11-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the exotic isopod &lt;i&gt;Sphaeroma serratum &lt;/i&gt;(Crustacea: Isopoda) from Uruguayan waters (southwestern Atlantic) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brenda</firstname>
+          <lastname>Doti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evangelina</firstname>
+          <lastname>Schwindt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabrizio</firstname>
+          <lastname>Scarabino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68-68</pages>
+        <date_published>2012-11-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

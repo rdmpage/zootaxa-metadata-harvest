@@ -1,3 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3595.1</id>
+    <title locale="en_US">21 Dec. 2012</title>
+    <volume>3595</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The lineages of Stylocellidae (Arachnida: Opiliones: Cyphophthalmi) </title>
+        <abstract locale="en_US">The taxonomy of the Southeast Asian mite harvestman family Stylocellidae is updated in light of new molecular and mor-phometric phylogenies, examinations of type specimens, and a new species from Thailand. A new genus, &lt;i&gt;Giribetia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt;&lt;b&gt;nov.,&lt;/b&gt; is erected, and &lt;i&gt;Fangensis&lt;/i&gt; &lt;i&gt;insulanus&lt;/i&gt; Schwendinger &amp; Giribet, 2005, recombined in it as &lt;i&gt;Giribetia&lt;/i&gt; &lt;i&gt;insulana&lt;/i&gt; &lt;b&gt;new&lt;/b&gt;&lt;b&gt;comb.&lt;/b&gt; All species in the genus &lt;i&gt;Stylocellus&lt;/i&gt; have been recombined in &lt;i&gt;Miopsalis&lt;/i&gt; and &lt;i&gt;Leptopsalis,&lt;/i&gt; except for the type species,&lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sumatranus&lt;/i&gt; Westwood, 1874, and a new species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lornei,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; described here. The new recombinations of former&lt;i&gt;Stylocellus&lt;/i&gt; species are as follows: &lt;i&gt;Leptopsalis&lt;/i&gt; &lt;i&gt;pangrango&lt;/i&gt; (Shear, 1993), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Leptopsalis&lt;/i&gt; &lt;i&gt;sedgwicki&lt;/i&gt; (Shear, 1979),&lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Leptopsalis&lt;/i&gt; &lt;i&gt;laevichelis&lt;/i&gt; (Roewer, 1942), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Miopsalis&lt;/i&gt; &lt;i&gt;globosa&lt;/i&gt; (Schwendinger &amp; Giribet, 2004), &lt;b&gt;new&lt;/b&gt;&lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Miopsalis&lt;/i&gt; &lt;i&gt;kinabalu&lt;/i&gt; (Shear, 1993), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Miopsalis&lt;/i&gt; &lt;i&gt;leakeyi&lt;/i&gt; (Shear, 1993), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Miopsalis&lt;/i&gt; &lt;i&gt;mulu&lt;/i&gt;(Shear, 1993), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;Miopsalis&lt;/i&gt; &lt;i&gt;pocockii&lt;/i&gt; (Hansen &amp; Sørensen, 1904), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt; “Stylocellus” &lt;i&gt;spinifrons&lt;/i&gt;Roewer, 1942 is now designated as &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;dubium,&lt;/i&gt; as the sole type specimen has been found to be a juvenile. Two newsubfamilies are proposed, each with two genera: Fangensinae &lt;b&gt;subfam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; containing &lt;i&gt;Fangensis&lt;/i&gt; and &lt;i&gt;Giribetia,&lt;/i&gt; and Lep-topsalinae &lt;b&gt;subfam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; containing &lt;i&gt;Leptopsalis&lt;/i&gt; and &lt;i&gt;Miopsalis.&lt;/i&gt; The subfamily &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;strictu&lt;/i&gt; Stylocellinae contains the remaining two genera: &lt;i&gt;Stylocellus&lt;/i&gt; and &lt;i&gt;Meghalaya&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeography; Borneo; harvestman; Sibumasu; Southeast Asia; Sundaland</subject>
+          <subject_class locale="en_US">biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ronald</firstname>
+          <middlename>M.</middlename>
+          <lastname>Clouse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-12-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Further studies on the fairy shrimp genus &lt;i&gt;Branchinella &lt;/i&gt;(Crustacea: Anostraca: Thamnocephalidae) in Australia, with descriptions of five new species </title>
+        <abstract locale="en_US">&lt;i&gt;Branchinella&lt;/i&gt; is the most speciose anostracan genus in Australia and is one of a few speciose fairy shrimp genera in theworld. Two new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;erosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hearnii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; live in hyposaline waters in western Western Australiaand three new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;herrodi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;anatinorhyncha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;minmina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from freshwaters in northern Queensland. &lt;i&gt;Branchinella&lt;/i&gt; &lt;i&gt;clandestina&lt;/i&gt; is synonymised with &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;affinis,&lt;/i&gt; so that the total Australian spe-cies of &lt;i&gt;Branchinella&lt;/i&gt; is now 39. Significant new distribution records are given for &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;affinis,&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;compacta&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;simplex.&lt;/i&gt;New morphological data is provided for &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;compacta&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;wellardi&lt;/i&gt; to differentiate them from &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hearnii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt;&lt;i&gt;herrodi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; respectively. &lt;i&gt;Branchinella&lt;/i&gt; &lt;i&gt;compacta&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;hearnii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; may demonstrate lock and key amplexus, while multiple tumidities on female &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;erosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; suggest possible sensory selection by males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">speciose genera; frontal appendage; tumidities; lock and key amplexus; Western Australia; north Queensland</subject>
+          <subject_class locale="en_US">speciose genera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brian</firstname>
+          <middlename>V</middlename>
+          <lastname>Timms</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-60</pages>
+        <date_published>2012-12-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An unusual new basal iguanodont (Dinosauria: Ornithopoda) from the Lower Cretaceous of Teruel, Spain </title>
+        <abstract locale="en_US">We describe a new basal iguanodont, &lt;i&gt;Proa&lt;/i&gt; &lt;i&gt;valdearinnoensis,&lt;/i&gt; from the Lower Cretaceous (lower Albian) EscuchaFormation of Teruel Province, Spain. The new taxon is known from abundant cranial and postcranial material belongingto several individuals, and is distinguished by an autapomorphy (predentary comes to a point at its rostral margin, withdivergent lateral processes) and a unique combination of characters. &lt;i&gt;Proa&lt;/i&gt; fills part of an otherwise lengthy temporal gap(early Aptian–Santonian) in the European fossil record of basal iguanodonts. A preliminary phylogenetic analysis places&lt;i&gt;Proa&lt;/i&gt; in a polytomy with &lt;i&gt;Iguanodon&lt;/i&gt; &lt;i&gt;bernissartensis&lt;/i&gt; and more derived iguanodontians (Hadrosauroidea). &lt;i&gt;Proa&lt;/i&gt; is morebasal than the Valanginian &lt;i&gt;Hypselospinus&lt;/i&gt; and late Barremian-early Aptian &lt;i&gt;Mantellisaurus,&lt;/i&gt; suggesting a long ghost lineage leading to &lt;i&gt;Proa.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Proa&lt;/i&gt; &lt;i&gt;valdearinnoensis&lt;/i&gt; gen. et sp. nov.; Iguanodontia; Early Cretaceous; Escucha Formation; Spain</subject>
+          <subject_class locale="en_US">&lt;i&gt;Proa&lt;/i&gt; &lt;i&gt;valdearinnoensis&lt;/i&gt; gen. et sp. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>T.</middlename>
+          <lastname>Mcdonald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <lastname>Espílez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <lastname>Mampel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>I.</middlename>
+          <lastname>Kirkland</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <lastname>Alcalá</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-76</pages>
+        <date_published>2012-12-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new chiggers of the genus &lt;i&gt;Xinjiangsha &lt;/i&gt;(Acari: Trombiculidae) and a key to species of the genus </title>
+        <abstract locale="en_US">Two new chigger mites &lt;i&gt;Xinjiangsha&lt;/i&gt; &lt;i&gt;rychliki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Xinjiangsha&lt;/i&gt; &lt;i&gt;stekolnikovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Acari: Trombiculidae) aredescribed on the basis of single specimens. The larva of &lt;i&gt;Xinjiangsha&lt;/i&gt; &lt;i&gt;rychliki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was captured by pitfall trap in Turkey(host unknown) and &lt;i&gt;Xinjiangsha&lt;/i&gt; &lt;i&gt;stekolnikovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was collected from the ears of &lt;i&gt;Chionomys&lt;/i&gt; &lt;i&gt;gud&lt;/i&gt; (Satunin) in Caucasus. The key to the known &lt;i&gt;Xinjiangsha&lt;/i&gt; species is also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">chigger mites; key; larvae; new species</subject>
+          <subject_class locale="en_US">chigger mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stanislav</firstname>
+          <lastname>Kalúz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ján</firstname>
+          <lastname>Kováčik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-88</pages>
+        <date_published>2012-12-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

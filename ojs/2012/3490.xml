@@ -1,3 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3490.1</id>
+    <title locale="en_US">19 Sep. 2012</title>
+    <volume>3490</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">On the identity of the type species of &lt;i&gt;Sphenomorphus &lt;/i&gt;(Squamata: Scincidae): &lt;i&gt;Lygosoma melanopogon &lt;/i&gt;Duméril and Bibron 1839, with a note on a new scalation character of the pes in &lt;i&gt;Sphenomorphus &lt;/i&gt;</title>
+        <abstract locale="en_US">The type series of &lt;i&gt;Lygosoma&lt;/i&gt; &lt;i&gt;melanopogon&lt;/i&gt; Duméril and Bibron 1839, the type species of the scincid lizard genus&lt;i&gt;Sphenomorphus&lt;/i&gt; Fitzinger 1843, consists of four specimens representing three species, all of which have available juniorsynonyms. A lectotype is designated, and &lt;i&gt;Lygosoma&lt;/i&gt; &lt;i&gt;melanopogon&lt;/i&gt; becomes a senior synonym of &lt;i&gt;Lygosoma&lt;/i&gt; &lt;i&gt;florense&lt;/i&gt;Weber 1891 (= &lt;i&gt;Sphenomorphus&lt;/i&gt; &lt;i&gt;florensis)&lt;/i&gt; and that species is redefined based on specimens from throughout itsdistribution for the first time. Based on a lack of consistent differences in morphology and coloration, previously namedsubspecies of &lt;i&gt;Sphenomorphus&lt;/i&gt; &lt;i&gt;florensis&lt;/i&gt; are placed in synonymy, leaving a single wide-ranging species &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melanopogon.&lt;/i&gt;&lt;i&gt;Lygosoma&lt;/i&gt; &lt;i&gt;Kühnei&lt;/i&gt; Roux 1910 is also placed in the synonymy of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melanopogon,&lt;/i&gt; and the nomenclatural status of the name&lt;i&gt;Scincus&lt;/i&gt; &lt;i&gt;naevius&lt;/i&gt; Duméril and Bibron 1839 resolved. &lt;i&gt;Lygosoma&lt;/i&gt; &lt;i&gt;Meyeri&lt;/i&gt; Doria 1874 is raised from synonymy to becomethe name for the New Guinean &lt;i&gt;Sphenomorphus&lt;/i&gt; species to which the name &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melanopogon&lt;/i&gt; has sometimes previously beenapplied, and &lt;i&gt;Hinulia&lt;/i&gt; &lt;i&gt;papuensis&lt;/i&gt; Macleay 1877 synonymised with it. &lt;i&gt;Sphenomorphus&lt;/i&gt; &lt;i&gt;melanopogon&lt;/i&gt; is identified as amember of a group of &lt;i&gt;Sphenomorphus&lt;/i&gt; species which show an extension of the imbricate dorsal scalation onto the solar surface of the pes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sphenomorphus&lt;/i&gt;; Indonesia; New Guinea; taxonomy; nomenclature; foot morphology</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sphenomorphus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Glenn</firstname>
+          <middlename>M.</middlename>
+          <lastname>Shea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-09-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Gelasimus splendidus &lt;/i&gt;Stimpson, 1858 (Crustacea: Brachyura: Ocypodidae), a valid species of fiddler crab from the northern South China Sea and Taiwan Strait </title>
+        <abstract locale="en_US">The fiddler crab, &lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt; (Stimpson, 1858) has been synonymized under &lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;crassipes&lt;/i&gt; (White, 1847) since Crane(1975). Studies of specimens from the Hong Kong type locality and adjacent areas of China, Taiwan and Vietnam showthat &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt; is a valid species, with a characteristic suite of carapace and gonopod features as well as a distinctcytochrome oxidase I (COI) signature. Genetic work shows that &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt; belongs to a well-supported clade and is thesister species of &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;crassipes.&lt;/i&gt; The distribution of &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt; is restricted to continental East and continental SoutheastAsia, in contrast to the oceanic distribution of &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;crassipes.&lt;/i&gt; Both species, however, are sympatric in Penghu Islands, western Taiwan and Dongsha Island (=Pratas Island).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt;; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;crassipes&lt;/i&gt;; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;chlorophthalmus&lt;/i&gt;; South China Sea; Taiwan Strait; cytochrome oxidase I; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Uca&lt;/i&gt; &lt;i&gt;splendida&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hsi-Te</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kingsley</firstname>
+          <middlename>J. H.</middlename>
+          <lastname>Wong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Benny</firstname>
+          <middlename>K. K.</middlename>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-47</pages>
+        <date_published>2012-09-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Danielita &lt;/i&gt;Ng, Clark &amp; Tan, 2010 (Crustacea: Decapoda: Brachyura: Ocypodoidea: Camptandriidae), preoccupied by &lt;i&gt;Danielita &lt;/i&gt;Kiriakoff, 1970 (Lepidoptera: Glossata: Heteroneura: Noctuoidea: Notodontidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>F.</middlename>
+          <lastname>Clark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-48</pages>
+        <date_published>2012-09-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the giant mud worm &lt;i&gt;Paraleonnates uschakovi &lt;/i&gt;Khlebovich and Wu, 1962 (Polychaeta: Nereididae) with special reference to the synonymy of &lt;i&gt;Periserrula leucophryna &lt;/i&gt;Paik, 1977 and the difference from &lt;i&gt;Paraleonnates bolus &lt;/i&gt;(Hutchings and Reid, 1991) </title>
+        <abstract locale="en_US">There has been a long-standing taxonomic confusion over the name of a giant nereidid worm living in Asian intertidalmud flats. To clear up the confusion, we examined the type specimens of &lt;i&gt;Paraleonnates&lt;/i&gt; &lt;i&gt;uschakovi&lt;/i&gt; Khlebovich and Wu,1962 described from China as well as &lt;i&gt;Periserrula&lt;/i&gt; &lt;i&gt;leucophryna&lt;/i&gt; Paik, 1977 described from Korea (Polychaeta: Nereididae),together with additional non-type materials newly collected from Korea, China, Taiwan, and Thailand. Our results con-firmed that &lt;i&gt;Periserrula&lt;/i&gt; &lt;i&gt;leucophryna&lt;/i&gt; should be reduced to a junior synonym of &lt;i&gt;Paraleonnates&lt;/i&gt; &lt;i&gt;uschakovi&lt;/i&gt; as previouslynoted, and that this species is widely distributed in Asia, newly recorded from Taiwan and Thailand. We also present newinformation about the arrangement of three kinds of chaetae in the parapodia as a characteristic of this species. We alsocompared this species with &lt;i&gt;Paraleonnates&lt;/i&gt; &lt;i&gt;bolus&lt;/i&gt; (Hutchings and Reid, 1991) described from Australia and concluded thatthese are different species. Based on our examination, we propose the amended diagnosis of the genus &lt;i&gt;Paraleonnates&lt;/i&gt;Khlebovich and Wu, 1962. &lt;i&gt;Paraleonnates&lt;/i&gt; Amoureux, 1985 erected as a monotypic genus for &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guadalupensis&lt;/i&gt; Amoureux,1985 was judged as a junior homonym of &lt;i&gt;Paraleonnates&lt;/i&gt; Khlebovich and Wu, 1962, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;guadalupensis&lt;/i&gt; is transferred to the genus &lt;i&gt;Leonnates&lt;/i&gt; Kinberg, 1865.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Annelida; &lt;i&gt;Leonnates&lt;/i&gt;; taxonomy; synonym; homonym; China; Korea; Asia; Australia</subject>
+          <subject_class locale="en_US">Annelida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jae-Sang</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Byung-Mee</firstname>
+          <lastname>Choi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aki</firstname>
+          <lastname>Kubo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masanori</firstname>
+          <lastname>Sato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-62</pages>
+        <date_published>2012-09-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new pygmy chameleon (Chamaeleonidae: &lt;i&gt;Brookesia&lt;/i&gt;) from central Madagascar </title>
+        <abstract locale="en_US">We describe a new &lt;i&gt;Brookesia&lt;/i&gt; species from a forest fragment located 13 km south of Ambalavao in the southern part ofMadagascar's central high plateau. &lt;i&gt;Brookesia&lt;/i&gt; &lt;i&gt;brunoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is one of the few arid-adapted &lt;i&gt;Brookesia&lt;/i&gt; species inhabitingdeciduous forests on the western slope of the central high plateau of the island (around 950 m a.s.l.). So far the species hasonly been observed in the private Anja Reserve. The species belongs to the &lt;i&gt;Brookesia&lt;/i&gt; &lt;i&gt;decaryi&lt;/i&gt; group formed by arid-adapt-ed &lt;i&gt;Brookesia&lt;/i&gt; species of western Madagascar: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bonsi&lt;/i&gt; Ramanantsoa, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;perarmata&lt;/i&gt; (Angel), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;brygooi&lt;/i&gt; Raxworthy &amp;Nussbaum and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;decaryi&lt;/i&gt; Angel. &lt;i&gt;Brookesia&lt;/i&gt; &lt;i&gt;brunoi&lt;/i&gt; differs from the other four species of the group by a genetic divergenceof more than 17.6% in the mitochondrial ND2 gene, and by a combination of morphological characters: (1) nine pairs oflaterovertebral pointed tubercles, (2) absence of enlarged pointed tubercles around the vent, (3) presence of poorly definedlaterovertebral tubercles along the entire tail, (4) by the configuration of its cephalic crest, and (5) hemipenial morphology.Based on our molecular phylogeny this species is sister to a clade containing &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;brygooi,&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;decaryi,&lt;/i&gt; and probably &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bonsi&lt;/i&gt;for which no ND2 sequences were available. Our molecular data also confirm the presence of a divergent mitochondriallineage in the Tsingy de Bemaraha, which might be assigned to either &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bonsi&lt;/i&gt; or &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;decaryi,&lt;/i&gt; and point to the need of more research on this population.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata; Chamaeleonidae; &lt;i&gt;Brookesia&lt;/i&gt;; new species; central Madagascar; Ambalavao; Anja Reserve</subject>
+          <subject_class locale="en_US">Squamata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Angelica</firstname>
+          <lastname>Crottini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aurélien</firstname>
+          <lastname>Miralles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>James</middlename>
+          <lastname>Harris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandra</firstname>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-74</pages>
+        <date_published>2012-09-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ampharetidae (Annelida: Polychaeta) from Japan. Part I: The genus &lt;i&gt;Ampharete &lt;/i&gt;Malmgren, 1866, along with a discussion of several taxonomic characters of the family and the introduction of a new identification tool </title>
+        <abstract locale="en_US">Five species of &lt;i&gt;Ampharete&lt;/i&gt; are reported from Japan. Two species, &lt;i&gt;Ampharete&lt;/i&gt; &lt;i&gt;ampullata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Ampharete&lt;/i&gt;&lt;i&gt;cinnamomea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are newly described, and &lt;i&gt;Ampharete&lt;/i&gt; &lt;i&gt;falcata,&lt;/i&gt; is newly recorded from the North Pacific. Severalmorphological characters are reviewed and their value for taxonomy and systematics is discussed. A schematic diagram of the anterior end of ampharetid polychaetes, which may serve as the species’ “ID card”, is introduced.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; new record; taxonomy; distribution</subject>
+          <subject_class locale="en_US">New species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Minoru</firstname>
+          <lastname>Imajima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>G.</middlename>
+          <lastname>Reuscher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Fiege</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>75-88</pages>
+        <date_published>2012-09-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

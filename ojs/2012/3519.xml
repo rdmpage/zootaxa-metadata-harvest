@@ -1,3 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3519.1</id>
+    <title locale="en_US">17 Oct. 2012</title>
+    <volume>3519</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An Annotated Catalog of the Iranian Coreidae, Rhopalidae, and Stenocephalidae (Hemiptera: Heteroptera: Pentatomomorpha: Coreoidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hassan</firstname>
+          <lastname>Ghahari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pierre</firstname>
+          <lastname>Moulet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rauno</firstname>
+          <middlename>E.</middlename>
+          <lastname>Linnavuori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hadi</firstname>
+          <lastname>Ostovan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Neuroleon &lt;/i&gt;Navás of West Africa with descriptions of four new species (Neuroptera, Myrmeleontidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bruno</firstname>
+          <lastname>Michel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Massouroudini</firstname>
+          <lastname>Akoudjin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-52</pages>
+        <date_published>2012-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nine new species of Neotropical spittlebugs (Hemiptera: Cercopidae: Ischnorhininae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andressa</firstname>
+          <lastname>Paladini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jason</firstname>
+          <middlename>R.</middlename>
+          <lastname>Cryan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2012-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Biroia &lt;/i&gt;Szépligeti, 1900 (Hymenoptera, Braconidae, Agathidinae) in China, with description of two new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pu</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhen</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-76</pages>
+        <date_published>2012-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Dolichomitus &lt;/i&gt;Smith (Hymenoptera: Ichneumonidae: Pimplinae) from Vietnam, with description of one new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nhi</firstname>
+          <middlename>Thi</middlename>
+          <lastname>Pham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gavin</firstname>
+          <middlename>R.</middlename>
+          <lastname>Broad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kees</firstname>
+          <middlename>Zwakhals (The</middlename>
+          <lastname>Netherlands)</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-84</pages>
+        <date_published>2012-10-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Taphaeus &lt;/i&gt;Wesmael, 1835 (Hymenoptera: Braconidae: Helconinae) from China with description of a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cheng-Jin</firstname>
+          <lastname>Yan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Van</firstname>
+          <lastname>Achterberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>85-88</pages>
+        <date_published>2012-10-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

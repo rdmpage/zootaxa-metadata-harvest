@@ -1,3 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3349.1</id>
+    <title locale="en_US">18 Jun. 2012</title>
+    <volume>3349</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Addenda to the insects found in birds’ nests from the Neotropical Region and Neotropical immigrants in the Nearctic Region, with a discussion of the probable transmission mechanism of &lt;i&gt;Ornithocoris toledoi &lt;/i&gt;(Hemiptera: Cimicidae)</title>
+        <abstract locale="en_US">The present work adds some records to the insect fauna in birds’ nests from the Neotropical Region and Neotropical im-migrants in the Nearctic Region. Unpublished records of Triatominae (Hemiptera: Reduviidae) prior to 2005 are includedhere, especially the localities of some specimens from the collection of Antonio Martínez. According to new data recentlypublished, the probable transmission mechanism of &lt;i&gt;Ornithocoris&lt;/i&gt; &lt;i&gt;toledoi&lt;/i&gt; (Hemiptera: Cimicidae) is presented here and discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insects; birds’ nests; Neotropical region; Cimicidae; transmission mechanism</subject>
+          <subject_class locale="en_US">Insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Osvaldo</firstname>
+          <middlename>Di</middlename>
+          <lastname>Iorio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paola</firstname>
+          <lastname>Turienzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2012-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Crematogaster brevis &lt;/i&gt;complex in Asia (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">The &lt;i&gt;Crematogaster&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; complex is revised and seven species and one subspecies, including one new species, are recognized.Two species groups are established based on the worker caste. The &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; group contains two species: &lt;i&gt;brevis&lt;/i&gt; Emery, 1887;and &lt;i&gt;overbecki&lt;/i&gt; Viehmeyer, 1916. The &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;treubi&lt;/i&gt; group contains five species and one subspecies: &lt;i&gt;bouvardi&lt;/i&gt; Santschi, 1920. &lt;b&gt;stat.&lt;/b&gt;&lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;kojimai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;treubi&lt;/i&gt; Emery, 1896; &lt;i&gt;treubi&lt;/i&gt; &lt;i&gt;apilis&lt;/i&gt; Forel, 1913; &lt;i&gt;walshi&lt;/i&gt; Forel, 1902; and &lt;i&gt;yappi&lt;/i&gt; Forel, 1901. The followingnew synonymies are proposed: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;treubi&lt;/i&gt; Emery, 1896 = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;millardi&lt;/i&gt; Forel, 1902 = &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;treubi&lt;/i&gt; &lt;i&gt;vastatrix&lt;/i&gt; Forel, 1911. A key to the species based on the worker caste is given. &lt;i&gt;Crematogaster&lt;/i&gt; &lt;i&gt;jacobsoni&lt;/i&gt; Forel, 1911 is transferred to the subgenus &lt;i&gt;Crematogaster.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Formicidae; &lt;i&gt;Crematogaster&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;treubi&lt;/i&gt;; &lt;i&gt;Mesocrema&lt;/i&gt;; taxonomy; Asia; new species</subject>
+          <subject_class locale="en_US">Formicidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Shingo</firstname>
+          <lastname>Hosoishi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kazuo</firstname>
+          <lastname>Ogata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-30</pages>
+        <date_published>2012-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Metreletus &lt;/i&gt;Demoulin, 1951 from the far eastern region of Russia (Ephemeroptera: Ameletidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Metreletus&lt;/i&gt; &lt;i&gt;omelkoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female imagines and male, female subimagines, larvae and egg) is described from the fareastern region of Russia. The genus &lt;i&gt;Metreletus&lt;/i&gt; Demoulin, 1951 has a trans-Palaearctic distribution and includes two species:the West-European mountain species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;balcanicus&lt;/i&gt; Ulmer, 1920, and the Far-Eastern species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;micus&lt;/i&gt; Bajkova, 1976. &lt;i&gt;Metre-&lt;/i&gt;&lt;i&gt;letus&lt;/i&gt; &lt;i&gt;omelkoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is the second species from Far-Eastern Russia and the third globally. The larvae of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;omelkoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;differ from the other species in their genus by the size of gill I (M. &lt;i&gt;micus)&lt;/i&gt; and the form of gills II–VII (M. &lt;i&gt;balcanicus).&lt;/i&gt; The male imago of the new species can be distinguished from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;balcanicus&lt;/i&gt; by shape, the penis lobes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mayflies; &lt;i&gt;Metreletus&lt;/i&gt;; taxonomy; morphology; egg; Asia</subject>
+          <subject_class locale="en_US">Mayflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tatiana</firstname>
+          <middlename>M.</middlename>
+          <lastname>Tiunova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-39</pages>
+        <date_published>2012-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Coelindroma &lt;/i&gt;Kramer (Hemiptera: Cicadellidae: Neocoelidiinae) from Brazil: description of two new species and new record of &lt;i&gt;C. fungosa&lt;/i&gt;</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Coelindroma&lt;/i&gt; Kramer,1967: &lt;i&gt;Coelindroma&lt;/i&gt; &lt;i&gt;cornuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Coelindroma&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; aredescribed and illustrated. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cornuta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from the other species of the genus by the aedeaguswith pair of long apical divergent processes; while &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished by the aedeagus with pairof short apical convergent processes. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fungosa&lt;/i&gt; Kramer, 1967 is recorded from Brazil and an identification key to males of the species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">leafhoppers; Amazon Region; identification key</subject>
+          <subject_class locale="en_US">leafhoppers; Amazon Region; identification key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Clayton</firstname>
+          <middlename>Correa</middlename>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Paula</middlename>
+          <lastname>Marques-Costa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rosaly</firstname>
+          <lastname>Ale-Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-47</pages>
+        <date_published>2012-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The bat bugs (Hemiptera: Cimicidae) from Argentina: geographic distributions, hosts, and new records</title>
+        <abstract locale="en_US">Three species of bat bugs (Hemiptera: Cimicidae) are known from Argentina: &lt;i&gt;Latrocimex&lt;/i&gt; &lt;i&gt;spectans&lt;/i&gt; (Lent, 1941) [Corrientes] inthe subfamily Latrocimicinae Usinger, 1966; &lt;i&gt;Cimex&lt;/i&gt; &lt;i&gt;lectularius&lt;/i&gt; Linnaeus, 1758 [Jujuy; Salta; Tucumán; Catamarca; Chaco;Córdoba; Buenos Aires]; and &lt;i&gt;Propicimex&lt;/i&gt; &lt;i&gt;tucmatiani&lt;/i&gt; (Wygodzinsky, 1951) [Salta; Tucumán; Santiago del Estero], both in thesubfamily Cimicinae Latreille, 1802. The finding of bat bugs in the province of Buenos Aires extends 867.5 km southeast in a straight line the previous southermost locality given in Santiago del Estero province.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">bat bugs; Cimicidae; Hemiptera; Argentina</subject>
+          <subject_class locale="en_US">bat bugs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Osvaldo</firstname>
+          <middlename>Di</middlename>
+          <lastname>Iorio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-55</pages>
+        <date_published>2012-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Eremiothrips &lt;/i&gt;(Thysanoptera: Thripidae) in Iran, with one new species</title>
+        <abstract locale="en_US">&lt;i&gt;Eremiothrips&lt;/i&gt; &lt;i&gt;bhattii&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; is described from Fars province, Iran. Three other species of this genus that have previously beenrecorded from other parts of Iran, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; Bhatti, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;taghizadehi&lt;/i&gt; (zur Strassen) and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;varius&lt;/i&gt; (Bhatti) are reported from Fars province for the first time. A key is provided for identification of the Iranian &lt;i&gt;Eremiothrips&lt;/i&gt; species based on males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eremiothrips&lt;/i&gt; &lt;i&gt;bhattii&lt;/i&gt;; Fars province; new record; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eremiothrips&lt;/i&gt; &lt;i&gt;bhattii&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kambiz</firstname>
+          <lastname>Minaei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-62</pages>
+        <date_published>2012-06-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hyptia deansi &lt;/i&gt;sp. nov., the first record of Evaniidae (Hymenoptera) from Mexican amber</title>
+        <abstract locale="en_US">&lt;i&gt;Hyptia&lt;/i&gt; &lt;i&gt;deansi&lt;/i&gt; sp. nov. represents the first record of Evaniidae (Hymenoptera) from Lower Miocene to Upper Oligocene Mexi-can amber, Simojovel, Chiapas, Mexico and is described based on a well preserved female specimen. Phylogenetically relevantmorphological characters are discussed with reference to fossil and extant genera of Evaniidae. The new fossil is placed in theextant New World genus &lt;i&gt;Hyptia&lt;/i&gt; Illiger 1807, based on the presence of just a single fore wing cell, the absence of tubular veins M+CU, 1CUa, 1Cub, and the presence of 11 flagellomeres.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">amber; fossil; Lower Miocene; Upper Oligocene; Mexico; systematic palaeontology; Evanioidea</subject>
+          <subject_class locale="en_US">amber</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>T.</middlename>
+          <lastname>Jennings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lars</firstname>
+          <lastname>Krogmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steven</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mew</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-06-18</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

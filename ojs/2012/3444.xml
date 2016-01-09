@@ -1,3 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3444.1</id>
+    <title locale="en_US">29 Aug. 2012</title>
+    <volume>3444</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phalangopsidae crickets from the Indian Region (Orthoptera, Grylloidea), with the descriptions of new taxa, diagnoses for genera, and a key to Indian genera</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laure</firstname>
+          <lastname>Desutter-Grandcolas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ranjana</firstname>
+          <lastname>Jaiswara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2012-08-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the ant genus &lt;i&gt;Probolomyrmex &lt;/i&gt;(Hymenoptera: Formicidae: Proceratiinae) in Australia and Melanesia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>O.</middlename>
+          <lastname>Shattuck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Gunawardene</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <lastname>Heterick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-50</pages>
+        <date_published>2012-08-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Lepidoptera of White Sands National Monument 5: Two new species of Cochylini (Lepidoptera, Tortricidae, Tortricinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eric</firstname>
+          <middlename>H.</middlename>
+          <lastname>Metzler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gregory</firstname>
+          <middlename>S.</middlename>
+          <lastname>Forbes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-60</pages>
+        <date_published>2012-08-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Validation of four species of &lt;i&gt;Poecilimon &lt;/i&gt;Fischer (Orthoptera: Tettigoniidae: Phaneropterinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mustafa</firstname>
+          <lastname>Ünal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-64</pages>
+        <date_published>2012-08-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An overlooked earlier name for the bird blow fly genus &lt;i&gt;Protocalliphora &lt;/i&gt;Hough (Diptera: Calliphoridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-08-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

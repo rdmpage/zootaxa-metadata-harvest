@@ -1,3 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3521.1</id>
+    <title locale="en_US">18 Oct. 2012</title>
+    <volume>3521</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genera &lt;i&gt;Anilaroides &lt;/i&gt;Théry, 1934, stat. nov. and &lt;i&gt;Tetragonoschema &lt;/i&gt;Thomson, 1857 (Coleoptera: Buprestidae: Buprestinae: Anthaxiini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Svatopluk</firstname>
+          <lastname>Bílý</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Records and descriptions of some Aphelinidae (Hymenoptera: Chalcidoidea) from India </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <lastname>Hayat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and five new species of the Meconematini (Orthoptera: Tettigoniidae: Meconematinae) </title>
+        <abstract locale="en_US">In the present paper, one new genus &lt;i&gt;Allocyrtopsis&lt;/i&gt; gen. nov. and 5 new species including 1 new in the genus &lt;i&gt;Neocyrtopsis&lt;/i&gt;are described. A key to genera and species are provided. All type specimens are deposited in the SEM (Shanghai Entomological Museum, CAS).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;genera&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;species&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;genera&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;species&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hanqiang</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xianwei</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan</firstname>
+          <lastname>Fang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-58</pages>
+        <date_published>2012-10-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Condylostylus &lt;/i&gt;Bigot from Vietnam with description of a new species and a key to Vietnamese species (Diptera: Dolichopodidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xuankun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-66</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Isophya nagyi&lt;/i&gt;, a new phaneropterid bush-cricket (Orthoptera: Tettigonioidea) from the Eastern Carpathians (Caliman Mountains, North Romania) </title>
+        <abstract locale="en_US">This study describes &lt;i&gt;Isophya&lt;/i&gt; &lt;i&gt;nagyi&lt;/i&gt; sp. n. from the Caliman Mountains (Eastern Carpathians, Romania). This species wasdiscovered on the basis of the special rhythmic pattern of its male calling song. Regarding morphology &lt;i&gt;Isophya&lt;/i&gt; &lt;i&gt;nagyi&lt;/i&gt; issimilar to the species of the &lt;i&gt;Isophya&lt;/i&gt; &lt;i&gt;camptoxypha&lt;/i&gt; species-group (I. &lt;i&gt;ciucasi,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;sicula,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;posthumoidalis,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;camptoxypha),&lt;/i&gt;however the male stridulatory file contains more stridulatory pegs (105–130) compared to the other members of thespecies group (50–80 pegs). Calling males produce a long sequence of evenly repeated syllables (repetition rate variesbetween 60–80 syllables at 21–24o C), and most importantly syllables are composed of three characteristic impulse groupscontrary to songs of the other species where syllables are composed of two elements or the song consists of two syllabletypes. Besides the description of the basic morphological features and pair-forming acoustic signals of the new species, a calling song based key is given for the &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;camptoxypha&lt;/i&gt; species group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">oscillogram; spectrogram; male calling song; female reply latency; stridulatory file</subject>
+          <subject_class locale="en_US">oscillogram</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Szövényi</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gergely</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Puskás</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gellért</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Orci</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kirill</firstname>
+          <lastname>Márk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-79</pages>
+        <date_published>2012-10-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Probittacomorpha brisaci &lt;/i&gt;n. sp. (Ptychopteridae, Bittacomorphinae) from the Late Miocene of Montagne d’Andance, Saint Bauzile, Ardèche (France) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wiesław</firstname>
+          <lastname>Krzeminski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Iwona</firstname>
+          <lastname>Kania</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>80-88</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

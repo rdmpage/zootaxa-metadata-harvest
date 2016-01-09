@@ -1,3 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3352.1</id>
+    <title locale="en_US">20 Jun. 2012</title>
+    <volume>3352</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Redescription and neotype designation of &lt;i&gt;Lobogynium sudhiri &lt;/i&gt;(Datta) (Acari: Diplogyniidae), a mite associated with beetles of the genus &lt;i&gt;Atholus &lt;/i&gt;(Thomson) (Coleoptera: Histeridae) in the Palaearctic region</title>
+        <abstract locale="en_US">&lt;i&gt;Ophiocelaeno&lt;/i&gt; &lt;i&gt;sudhiri&lt;/i&gt; Datta, 1985 (family Diplogyniidae) is transferred to the genus &lt;i&gt;Lobogynium&lt;/i&gt; Trägårdh, 1950 and rede-scribed from specimens collected in close association with histerid beetles of the genus &lt;i&gt;Atholus&lt;/i&gt; (Thomson) in Europe and Asia.The genus &lt;i&gt;Lobogynium&lt;/i&gt; is redefined and a key to the species is presented. The first description of the female, detailed redescrip-tion of the male and the new combination &lt;i&gt;Lobogynium&lt;/i&gt; &lt;i&gt;sudhiri&lt;/i&gt; (Datta, 1985) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are given. A neotype is designated forthis species, because the holotype is lost. A strongly sclerotised antero-lateral circum-anal area appears to be an autapomorphicfeature of this species. &lt;i&gt;Lobogynium&lt;/i&gt; &lt;i&gt;sudhiri&lt;/i&gt; is widely distributed in the Palaearctic region, and is probably a sapro-coprophilous species that completes its life-cycle in dung and other decaying organic matter.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diplogyniidae; &lt;i&gt;Ophiocelaeno&lt;/i&gt;; &lt;i&gt;Lobogynium&lt;/i&gt;; neotype; Histeridae; &lt;i&gt;Atholus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Diplogyniidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Massimo</firstname>
+          <lastname>Plumari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shahrooz</firstname>
+          <lastname>Kazemi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-06-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery and phylogenetic placement of the endemic Malagasy cichlid &lt;i&gt;Ptychochromoides itasy &lt;/i&gt;(Teleostei: Cichlidae: Ptychochrominae)</title>
+        <abstract locale="en_US">&lt;i&gt;Ptychochromoides&lt;/i&gt; &lt;i&gt;itasy&lt;/i&gt; Sparks, 2004, known locally in Madagascar as the &lt;i&gt;trondro&lt;/i&gt; &lt;i&gt;mainty&lt;/i&gt; or &lt;i&gt;marakely&lt;/i&gt; &lt;i&gt;à&lt;/i&gt; &lt;i&gt;bosse,&lt;/i&gt; a robustjet black cichlid with a pronounced nuchal hump in both sexes, had not been collected in the wild for several decades andwas presumed to be extinct. Recently, a relict population of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;itasy&lt;/i&gt; was discovered in a tributary of the Tsiribihina Riverin the central highlands, to the west of the capital, Antananarivo. We report on the rediscovery, and present DNA sequenceevidence to both confirm the identity of the species as a member of &lt;i&gt;Ptychochromoides&lt;/i&gt; and to resolve the placement of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;itasy&lt;/i&gt; within the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">extinct; Lake Itasy; Madagascar; phylogeny; Trondro Mainty; Tsiribihina River</subject>
+          <subject_class locale="en_US">extinct</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>S.</middlename>
+          <lastname>Sparks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>V.</middlename>
+          <lastname>Loiselle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zachary</firstname>
+          <middlename>H.</middlename>
+          <lastname>Baldwin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-24</pages>
+        <date_published>2012-06-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of the genus &lt;i&gt;Ischnothyreus &lt;/i&gt;from Hainan Island, China (Araneae, Oonopidae)</title>
+        <abstract locale="en_US">Four new species of the genus &lt;i&gt;Ischnothyreus&lt;/i&gt; are reported from Hainan Island, China: &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;auritus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;spineus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;xui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;yuanyeae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; morphology; type; diagnosis; goblin spider</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anfeng</firstname>
+          <lastname>Tong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-39</pages>
+        <date_published>2012-06-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and new species of leucosiid crab (Crustacea: Decapoda: Brachyura) from coral reefs in the Indo-West Pacific</title>
+        <abstract locale="en_US">A new genus and new species of leucosiid crab, &lt;i&gt;Coralliocryptus&lt;/i&gt; &lt;i&gt;caementa&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from Indo-West Pacific coralreefs in the Ryukyu Islands (Japan), Vanuatu, and Comoros. Although the new genus exhibits superficial resemblance to theIphiculidae in having prominent vertical spiniform teeth on the cutting edges of the chela and the female abdomen consisting offreely articulated somites, the deeply excavated female sterno-abdominal cavity, which is completely covered by the abdomen,unambiguously places this unique taxon in the Leucosiidae. The highly eroded, coral-rubble mimic carapace suggests somedegree of relationship between &lt;i&gt;Coralliocryptus&lt;/i&gt; and some other ebaliinine genera, e.g., &lt;i&gt;Alox&lt;/i&gt; Tan &amp; Ng, 1995, &lt;i&gt;Oreophorus&lt;/i&gt; Rüppel, 1830, &lt;i&gt;Oreotlos&lt;/i&gt; Ihle, 1918.Key words: Crustacea, Decapoda, Brachyura, Leucosiidae, new genus, new species, Indo-West Pacific</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-50</pages>
+        <date_published>2012-06-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ahamulina &lt;/i&gt;n. gen. (Cestoda: Diphyllidea) from the polkadot catshark, &lt;i&gt;Scyliorhinus besnardi &lt;/i&gt;(Carcharhiniformes: Scyliorhinidae), off Brazil</title>
+        <abstract locale="en_US">A new genus and species of diphyllidean, &lt;i&gt;Ahamulina&lt;/i&gt; &lt;i&gt;catarina&lt;/i&gt; n. gen. n. sp., is described from the polkadot catshark, &lt;i&gt;Scyliorhi-&lt;/i&gt;&lt;i&gt;nus&lt;/i&gt; &lt;i&gt;besnardi,&lt;/i&gt; from Santa Catarina, Brazil. The new genus exhibits apical organ armature that is unique among diphyllideans inthe arrangement and shape of the apical hooks as well as in the lack of lateral hooklets. The taxon also exhibits a bipartite cirrussac. This is the seventh diphyllidean reported from a shark, and the third reported from a catshark suggesting that the dearth of cestode data for these particular sharks belies the true extent of diphyllidean diversity they host.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; elasmobranch; Southwestern Atlantic; tapeworm; taxonomy</subject>
+          <subject_class locale="en_US">new species; elasmobranch; Southwestern Atlantic; tapeworm; taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>P. L.</middlename>
+          <lastname>Marques</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kirsten</firstname>
+          <lastname>Jensen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janine</firstname>
+          <middlename>N.</middlename>
+          <lastname>Caira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2012-06-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Trichomycterus argos &lt;/i&gt;(Teleostei: Siluriformes: Trichomycteridae), a new species from the Doce River Basin, Eastern Brazil</title>
+        <abstract locale="en_US">&lt;i&gt;Trichomycterus&lt;/i&gt; &lt;i&gt;argos,&lt;/i&gt; new species, is described from the Rio Doce basin, situated in the Serra do Brigadeiro (part of theSerra da Mantiqueira) range, southeastern Brazil. The new species is diagnosed by the following characteristics: presenceof six branched rays in the pectoral fin; presence of pelvic fins; tip of nasal barbels extending to posterior border of oper-cular plate of odontodes; presence of a large &lt;i&gt;foramen&lt;/i&gt; &lt;i&gt;for&lt;/i&gt; &lt;i&gt;ramus&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; &lt;i&gt;accessorius&lt;/i&gt; &lt;i&gt;facialis,&lt;/i&gt; visible in dorsal view, in theparietosupraoccipital bone; transverse and straight border between the parietosupraoccipital and frontal bones; pectoral-fin ray prolonged as a filament; body covered with spots that seldom attain eye diameter; pelvic-fin origin placed one or two ocular diameters anterior to dorsal-fin origin; abscence of spots fused as elongated marks on dorsum or flank.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">catfishes; freshwaters; Neotropical Region; Serra do Brigadeiro</subject>
+          <subject_class locale="en_US">catfishes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antônio</firstname>
+          <middlename>Queiroz</middlename>
+          <lastname>Lezama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauro</firstname>
+          <middlename>L.</middlename>
+          <lastname>Triques</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrícia</firstname>
+          <middlename>S.</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-06-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

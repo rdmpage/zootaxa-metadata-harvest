@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3354.1</id>
+    <title locale="en_US">21 Jun. 2012</title>
+    <volume>3354</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Fijian &lt;i&gt;Chimarra &lt;/i&gt;(Trichoptera, Philopotamidae) with description of 24 new species</title>
+        <abstract locale="en_US">The philopotamid genus &lt;i&gt;Chimarra&lt;/i&gt; (Trichoptera) of Fiji is revised. The previously described species &lt;i&gt;Chimarra&lt;/i&gt; &lt;i&gt;nervosa&lt;/i&gt;(Brauer, 1867) is considered a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;dubium.&lt;/i&gt; &lt;i&gt;Chimarra&lt;/i&gt; &lt;i&gt;indigota&lt;/i&gt; Mosely, 1941, is synonymized with &lt;i&gt;Chimarra&lt;/i&gt; &lt;i&gt;manni&lt;/i&gt;Banks, 1924. The following 24 new &lt;i&gt;Chimarra&lt;/i&gt; species are described: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vanuensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;macuatensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;schlingeri,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nath-&lt;/i&gt;&lt;i&gt;ani,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;braueri,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vitiensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;karoyanitensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tokotaai,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;vuda,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;naitasirensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;veisarensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fijiana,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;abacen-&lt;/i&gt;&lt;i&gt;sis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cakaudrovensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;cartwrighti,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kimminsi,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kadavuensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lavensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;devoensis,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;helomyzida,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tipulida,&lt;/i&gt;&lt;i&gt;C.&lt;/i&gt; &lt;i&gt;psychodida,&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;levuensis,&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;malickyi.&lt;/i&gt; &lt;i&gt;Chimarra&lt;/i&gt; &lt;i&gt;signata&lt;/i&gt; Banks, 1936, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;manni&lt;/i&gt; Banks, 1924, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;obscurella&lt;/i&gt; Banks, 1924, are re-described based on type material.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">caddisflies; Chimarrinae; re-descriptions; Southwest Pacific</subject>
+          <subject_class locale="en_US">caddisflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kjell</firstname>
+          <middlename>Arne</middlename>
+          <lastname>Johanson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>János</firstname>
+          <lastname>Oláh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-58</pages>
+        <date_published>2012-06-21</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Paravelia &lt;/i&gt;Breddin, 1898 and distributional notes concerning the Veliidae from Minas Gerais State, Brazil (Insecta: Hemiptera: Heteroptera: Gerromorpha)</title>
+        <abstract locale="en_US">&lt;i&gt;Paravelia&lt;/i&gt; &lt;i&gt;lanemeloi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nieseri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described. &lt;i&gt;Microvelia&lt;/i&gt; &lt;i&gt;inannana,&lt;/i&gt; &lt;i&gt;Oiovelia&lt;/i&gt; &lt;i&gt;brasiliensis,&lt;/i&gt; &lt;i&gt;Rhagovelia&lt;/i&gt;&lt;i&gt;modesta,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;novana,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;sooretama,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;teresa,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;vaniniae,&lt;/i&gt; &lt;i&gt;and&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;zela&lt;/i&gt; are recorded for the first time from Minas GeraisState. Additional records are presented for &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;longipes,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pulchella,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;aiuruoca,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;hambletoni,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;macta,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;robusta,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;sabrina,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;triangula,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;trianguloides,&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;turmalis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aquatic insects; Neotropics; taxonomy</subject>
+          <subject_class locale="en_US">Aquatic insects</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Felipe</firstname>
+          <middlename>Ferraz Figueiredo</middlename>
+          <lastname>Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julianna</firstname>
+          <middlename>Freires</middlename>
+          <lastname>Barbosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-06-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

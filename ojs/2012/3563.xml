@@ -1,3 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3563.1</id>
+    <title locale="en_US">26 Nov. 2012</title>
+    <volume>3563</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy and natural history of arboreal microhylid frogs (&lt;i&gt;Platypelis&lt;/i&gt;) from the Tsaratanana Massif in northern Madagascar, with description of a new species </title>
+        <abstract locale="en_US">We review the taxonomic status of microhylid frogs of the genus &lt;i&gt;Platypelis&lt;/i&gt; occurring on the Tsaratanana mountain rangein northern Madagascar. Two species have originally been described from the region, &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;alticola&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;tsaratananaensis.&lt;/i&gt; We found &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;alticola&lt;/i&gt; at elevations from 1589–2429 m, with the population at 1589 m being geneticallydivergent (pairwise sequence divergence in the 16S rRNA gene fragment 3.8%). The species was mainly found in bamboosegments accessible via small holes, and its vocalization was a tonal single-note call repeated in long regular series. Theidentity of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tsaratananaensis&lt;/i&gt; was uncertain for many years. Based on comparisons with the type material we concludethat the name should be applied to a common species in the Tsaratanana region morphologically similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pollicaris&lt;/i&gt;but distinguished by a double-note advertisement call, repeated in long series in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tsaratananaensis&lt;/i&gt; (vs. single-note in &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;pollicaris),&lt;/i&gt; relative length of toes, and size of the prepollex in males (larger in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pollicaris).&lt;/i&gt; Populations of &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;tsaratananaensis&lt;/i&gt; from several nearby forests were genetically similar to those from the main Tsaratanana Massif. Thespecies is nidicolous with 1–27 embryos and non-feeding larvae in waterfilled bamboo segments. Oocyte number iscorrelated with female size, and larger adult specimens were found in bamboo segments situated higher above the ground.A new species, &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;olgae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from two sites at ca. 2500 m elevation on the Tsaratanana, based onits genetic and morphological differentiation. It differs from other &lt;i&gt;Platypelis&lt;/i&gt; by small body size (adult snout-vent length20–22 mm) the absence or rudimentary state of vomerine teeth, green to yellow ventral color, and absence of contrastingand sharply delimited symmetrical dark dorsal patches. &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;alticola,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tsaratananaensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;olgae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; were regularly parasitized by mites probably of the genus &lt;i&gt;Endotrombicula.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Anura; Microhylidae; Cophylinae; &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;alticola;&lt;/i&gt; &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;tsaratananaensis;&lt;/i&gt; &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;pollicaris;&lt;/i&gt; &lt;i&gt;Platypelis&lt;/i&gt; &lt;i&gt;olgae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Tsaratanana Massif; taxonomy; phylogeny; phytotelmic breeding; bamboo.</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andolalao</firstname>
+          <lastname>Rakotoarison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Vieites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Noromalala</firstname>
+          <middlename>R.</middlename>
+          <lastname>Raminosoa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-11-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identity of &lt;i&gt;Sertularia reptans &lt;/i&gt;Linnaeus, 1758 (Bryozoa, Candidae) </title>
+        <abstract locale="en_US">This paper includes a reassessment of &lt;i&gt;Scrupocellaria&lt;/i&gt; &lt;i&gt;reptans&lt;/i&gt; (Linnaeus, 1758) (basionym &lt;i&gt;Sertularia&lt;/i&gt; &lt;i&gt;reptans),&lt;/i&gt; thelectotype of which is selected and figured from among herbarium-sheet specimens held at the Linnean Society of London.Material previously assigned to &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;reptans&lt;/i&gt; was examined, providing morphological characteristics to distinguish&lt;i&gt;Scrupocellaria&lt;/i&gt; &lt;i&gt;ellisi&lt;/i&gt; n. sp. &lt;i&gt;Scrupocellaria&lt;/i&gt; &lt;i&gt;reptans&lt;/i&gt; has a geographically limited distribution in the United Kingdom, while &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ellisi&lt;/i&gt; is more widespread in the North Sea, Northeast Atlantic, Adriatic and Tasmania.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">bryozoans; lectotype; redescription; taxonomy; &lt;i&gt;Scrupocellaria&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">bryozoans</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Leandro</firstname>
+          <middlename>M.</middlename>
+          <lastname>Vieira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mary</firstname>
+          <middlename>E. Spencer</middlename>
+          <lastname>Jones</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-42</pages>
+        <date_published>2012-11-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Mites of the genus &lt;i&gt;Passeroptes &lt;/i&gt;Fain (Acariformes: Dermationidae) from passerines (Aves: Passeriformes) of North-Western Russia </title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Passeroptes&lt;/i&gt; Fain, 1964 are recorded from passerine birds (Passeriformes) of North-WesternRussia: &lt;i&gt;Passeroptes&lt;/i&gt; &lt;i&gt;hippolais&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Hippolais&lt;/i&gt; &lt;i&gt;icterina&lt;/i&gt; (Vieillot) (Acrocephalidae) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;sylviae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from&lt;i&gt;Sylvia&lt;/i&gt; &lt;i&gt;communis&lt;/i&gt; (Latham) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;curruca&lt;/i&gt; (Linnaeus) (Sylviidae). &lt;i&gt;Passeroptes&lt;/i&gt; &lt;i&gt;gaudi&lt;/i&gt; (Vassilev and Kolebinova, 1965)&lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Sturnus&lt;/i&gt; &lt;i&gt;vulgaris&lt;/i&gt; (Linnaeus) (Sturnidae) is transferred from the genus &lt;i&gt;Rivoltasia&lt;/i&gt; Canestrini, 1894;&lt;i&gt;Passeroptes&lt;/i&gt; &lt;i&gt;sturninus&lt;/i&gt; Arutunjan and Mironov, 1983 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is synonymised with this species. The female of&lt;i&gt;Passeroptes&lt;/i&gt; &lt;i&gt;gaudi&lt;/i&gt; is redescribed. &lt;i&gt;Passeroptes&lt;/i&gt; &lt;i&gt;dermicola&lt;/i&gt; (Trouessart, 1886) is for the first time recorded from &lt;i&gt;Parus&lt;/i&gt; &lt;i&gt;major&lt;/i&gt; Linnaeus (Paridae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dermationidae; North West Russia; feather mites; Passeriformes; &lt;i&gt;Passeroptes&lt;/i&gt;; systematics</subject>
+          <subject_class locale="en_US">Dermationidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andre</firstname>
+          <middlename>V.</middlename>
+          <lastname>Bochkov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-57</pages>
+        <date_published>2012-11-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Trechalea &lt;/i&gt;Thorell, 1869 (Araneae: Lycosoidea: Trechaleidae: Trechaleinae) from Costa Rica, with notes on its natural history and ecology </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Estevam</firstname>
+          <middlename>L. Cruz</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Witold</firstname>
+          <lastname>Lapinski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-64</pages>
+        <date_published>2012-11-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New synonymies in the order Urodela Duméril, 1805 (Amphibia, Batrachia), with comments on the use of the formula "new taxon" to designate new nomina </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-11-26</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

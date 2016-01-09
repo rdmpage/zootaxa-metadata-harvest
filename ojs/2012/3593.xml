@@ -1,3 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3593.1</id>
+    <title locale="en_US">20 Dec. 2012</title>
+    <volume>3593</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Species diversity of &lt;i&gt;Strigamia &lt;/i&gt;Gray, 1843 (Chilopoda: Linotaeniidae): a preliminary synthesis </title>
+        <abstract locale="en_US">The centipede genus &lt;i&gt;Strigamia&lt;/i&gt; Gray (Chilopoda: Geophilomorpha: Linotaeniidae) is revised with regards to morpholog-ical diagnosis, composition in known species, taxonomic nomenclature, major characters differentiating species, and geo-graphical distribution. Published information has been integrated and reinterpreted after direct examination of more thanhalf of the known species. The genus &lt;i&gt;Strigamia&lt;/i&gt; is distinguished from similar genera (Agathothus Bollman, &lt;i&gt;Araucania&lt;/i&gt;Chamberlin, &lt;i&gt;Damothus&lt;/i&gt; Chamberlin, &lt;i&gt;Zantaenia&lt;/i&gt; Chamberlin) mainly by the conspicuous basal denticle of the forcipulartarsungulum, the paired ventral pore areas on the posterior part of trunk segments, and the remarkably swollen ultimatepair of legs in adult males. At least 32 distinct species are known and another 12 are recognized provisionally, whereas 21names are rejected as synonyms. Of all other nominal species that have been referred to &lt;i&gt;Strigamia&lt;/i&gt; or its synonyms in thepast, 16 are shown not to actually belong to &lt;i&gt;Strigamia&lt;/i&gt; and another 4 remain uncertain as to their generic assignment. Spe-cies of &lt;i&gt;Strigamia&lt;/i&gt; differ mainly in the shape of the forcipular tarsungulum and denticle, average number of legs (overallrange from 31 to 83 pairs, possibly to 91), aspect of pleuropretergite and shape of metasternite of the ultimate leg-bearingsegment, and the arrangement of coxal pores. &lt;i&gt;Strigamia&lt;/i&gt; as a whole inhabits the most part of the temperate Holarctic, butreaches southwards to the Indochinese region. The following new synonymies are introduced: &lt;i&gt;Leptodampius&lt;/i&gt; Chamberlin,1938 = &lt;i&gt;Korynia&lt;/i&gt; Chamberlin, 1941 = &lt;i&gt;Strigamia&lt;/i&gt; Gray, 1843; &lt;i&gt;Scolioplanes&lt;/i&gt; &lt;i&gt;engadinus&lt;/i&gt; &lt;i&gt;banaticus&lt;/i&gt; Verhoeff, 1935 = &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;acum-&lt;/i&gt;&lt;i&gt;inata&lt;/i&gt; (Leach, 1815); &lt;i&gt;Scolioplanes&lt;/i&gt; &lt;i&gt;mediterraneus&lt;/i&gt; Verhoeff, 1928 = &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;crassipes&lt;/i&gt; (C.L. Koch, 1835). The following newcombinations are introduced: &lt;i&gt;Strigamia&lt;/i&gt; &lt;i&gt;auxa&lt;/i&gt; (Chamberlin, 1954), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;carmela&lt;/i&gt; (Chamberlin, 1941), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;texensis&lt;/i&gt; (Chamber-lin, 1941), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tripora&lt;/i&gt; (Chamberlin, 1941), all from &lt;i&gt;Korynia;&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;exul&lt;/i&gt; (Meinert, 1886), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sacolinensis&lt;/i&gt; (Meinert, 1870), &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;sibirica&lt;/i&gt; (Seliwanoff, 1881), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sulcata&lt;/i&gt; (Seliwanoff, 1881), all from &lt;i&gt;Scolioplanes&lt;/i&gt; Bergsøe &amp; Meinert; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;fusata&lt;/i&gt; (Attems,1903) from &lt;i&gt;Diplochora&lt;/i&gt; Attems; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lampra&lt;/i&gt; (Chamberlin, 1938) from &lt;i&gt;Leptodampius;&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;munda&lt;/i&gt; (Chamberlin, 1952) from&lt;i&gt;Linotaenia&lt;/i&gt; C.L. Koch; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;svenhedini&lt;/i&gt; (Verhoeff, 1933) from &lt;i&gt;Paraplanes&lt;/i&gt; Verhoeff; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;urania&lt;/i&gt; (Crabill, 1954) from &lt;i&gt;Tomotaenia&lt;/i&gt; Cook, 1895.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Geophilomorpha; morphology; taxonomy; distribution; identification</subject>
+          <subject_class locale="en_US">Geophilomorpha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lucio</firstname>
+          <lastname>Bonato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>László</firstname>
+          <lastname>Dányi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>Augusto</middlename>
+          <lastname>Socci</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <lastname>Minelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2012-12-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the systematics of the Triaenonychinae from Madagascar with description of a new species of &lt;i&gt;Acumontia &lt;/i&gt;Loman (Opiliones: Laniatores) </title>
+        <abstract locale="en_US">&lt;i&gt;Acumontia&lt;/i&gt; &lt;i&gt;succinea&lt;/i&gt; sp. nov. is described from the Parc national de la Montagne d'Ambre, in the former Antsiranana Pro-vince, Madagascar. Detailed illustrations from all views of the male genitalia of a species of &lt;i&gt;Acumontia&lt;/i&gt; are provided forthe first time. Complementary illustrations are provided of the types of the five valid species of &lt;i&gt;Acumontia&lt;/i&gt; described by Pocock in the beginning of the 20th century, two of which had never been illustrated before.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Afrotropical; Arachnida; Insidiatores; Taxonomy</subject>
+          <subject_class locale="en_US">Afrotropical</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amanda</firstname>
+          <middlename>C.</middlename>
+          <lastname>Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriano</firstname>
+          <middlename>B.</middlename>
+          <lastname>Kury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-58</pages>
+        <date_published>2012-12-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Update to the catalogue of South Australian freshwater fishes (Petromyzontida &amp; Actinopterygii) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michael</firstname>
+          <middlename>P.</middlename>
+          <lastname>Hammer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <lastname>Adams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ralph</firstname>
+          <lastname>Foster</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-74</pages>
+        <date_published>2012-12-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Papillacarus &lt;/i&gt;(Acari: Oribatida: Lohmanniidae) from caves of Southern Vietnam </title>
+        <abstract locale="en_US">An annotated checklist of oribatid mite taxa from three caves of Dong Nai Biosphere Reserve (Southern Vietnam) is pro-vided. We recorded 33 species, 29 genera and 16 families, of which 10 species, five genera and two families were foundin Vietnam for the first time. Three species, &lt;i&gt;Malaconothrus&lt;/i&gt; &lt;i&gt;variosetosus,&lt;/i&gt; &lt;i&gt;Discoppia&lt;/i&gt; &lt;i&gt;cylindrica&lt;/i&gt; and &lt;i&gt;Machuella&lt;/i&gt; &lt;i&gt;lineata,&lt;/i&gt; arefor the first time recorded from the Oriental region. Two new cave species of the genus &lt;i&gt;Papillacarus&lt;/i&gt; are described. &lt;i&gt;Papil-&lt;/i&gt;&lt;i&gt;lacarus&lt;/i&gt; &lt;i&gt;indistinctus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is morphologically most similar to &lt;i&gt;Papillacarus&lt;/i&gt; &lt;i&gt;polygonatus&lt;/i&gt; Ermilov &amp; Anichkin, however,it differs from the latter by the types of neotrichal setae, length of notogastral setae, morphology of some genital setae,epimeral setal formula, number of subcapitular setae &lt;i&gt;m&lt;/i&gt; and palptarsal setae. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;polysetosus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is morphologicallymost similar to &lt;i&gt;Papillacarus&lt;/i&gt; &lt;i&gt;jinggangshanensis&lt;/i&gt; Chen, Yang &amp; Liang and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;konglinensis&lt;/i&gt; Chen &amp; Yang, but differs fromboth by body size, body surface, length of certain notogastral setae, number of subcapitular setae &lt;i&gt;m,&lt;/i&gt; and epimeral setal formula. An identification key to the Vietnamese species of &lt;i&gt;Papillacarus&lt;/i&gt; is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">oribatid mites; fauna; checklist; Lohmanniidae; &lt;i&gt;Papillacarus&lt;/i&gt;; new species; new record; key; Dong Nai Biosphere Reserve; cave; Vietnam</subject>
+          <subject_class locale="en_US">oribatid mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>G.</middlename>
+          <lastname>Ermilov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>E.</middlename>
+          <lastname>Anichkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donghui</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>75-88</pages>
+        <date_published>2012-12-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

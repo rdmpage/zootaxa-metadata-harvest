@@ -1,3 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3415.1</id>
+    <title locale="en_US">9 Aug. 2012</title>
+    <volume>3415</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Nematodes from galls on Myrtaceae. II. &lt;i&gt;Fergusobia/Fergusonina&lt;/i&gt; from small axillary bud (‘stem’) and leaf (‘pea’) galls in Australia, with descriptions of two new species</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Fergusobia,&lt;/i&gt; collected from small multilocular axillary vegetative bud (‘stem’) and unilocular leaf‘pea’ galls on, respectively, &lt;i&gt;Eucalyptus&lt;/i&gt; &lt;i&gt;camaldulensis&lt;/i&gt; from South Australia, and an unknown species of &lt;i&gt;Corymbia&lt;/i&gt;growing in sub-coastal north-eastern NSW, Australia, are described. &lt;i&gt;Fergusobia&lt;/i&gt; &lt;i&gt;camaldulensae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Davies ischaracterized morphologically by an almost straight to open-C shaped parthenogenetic female with a broadly conoid tail,an arcuate infective female with a hemispherical tail tip, and males of varying shape with weakly sclerotised angularspicules and bursa arising at mid-body length. &lt;i&gt;Fergusobia&lt;/i&gt; &lt;i&gt;rileyi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; Davies is characterized morphologically by thecombination of an almost straight to arcuate parthenogenetic female with a broadly conoid tail, an arcuate infective femalewith relatively narrow tail with a pointed tip, and arcuate males with arcuate spicules, a relatively slender tail, and longpeloderan bursa. These species are associated with larvae of undescribed fly species having dorsal shields of the‘transverse bars’ form or lacking. Other apparently related forms of &lt;i&gt;Fergusobia/Fergusonina&lt;/i&gt; associations from small‘stem’ and ‘shoot’ galls and unilocular leaf ‘pea’ galls are reported, the larval shield morphology of their associatedmutualistic fly species is discussed where known, and their possible relationships are outlined. DNA sequence analysesof the domain 2 and 3 segments of the large subunit rDNA gene (D2/D3) and mitochondrial DNA cytochrome oxidasesubunit 1 (mtCOI) supported the new species status and their phylogenetic relationships with other sequenced species in &lt;i&gt;Fergusobia.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematoda; Neotylenchidae; galls; &lt;i&gt;Corymbia&lt;/i&gt;; &lt;i&gt;Eucalyptus&lt;/i&gt;; Fergusoninidae; flies; morphology; taxonomy; DNA sequencing; molecular phylogeny</subject>
+          <subject_class locale="en_US">Nematoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kerrie</firstname>
+          <lastname>Davies</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robin</firstname>
+          <lastname>Giblin-Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weimin</firstname>
+          <lastname>Ye</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gary</firstname>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kelley</firstname>
+          <lastname>Thomas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2012-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Leptobrachium &lt;/i&gt;from Myanmar (Anura: Megophryidae)</title>
+        <abstract locale="en_US">The faunal composition of the Myanmar populations of frogs in the genus &lt;i&gt;Leptobrachium&lt;/i&gt; has been confused historically.The secretive nature of these frogs in combination with few systematic surveys throughout Myanmar has meant that sam-pling is sparse, not allowing for robust examination of morphological variation. Recent survey efforts in conjunction withhistorical collections have yielded for the first time a chance to evaluate the diversity of the genus &lt;i&gt;Leptobrachium&lt;/i&gt; withinMyanmar. While three allopatric populations of &lt;i&gt;Leptobrachium&lt;/i&gt; species were discovered and all are distinguishable basedon morphological differences, genetic analyses support that only one is distinct. A new species with a red and black bicolored iris with a blue scleral arc is described herein. In addition to the new species, a new country record is also reported.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Asia; Megophryidae; Myanmar; Burma</subject>
+          <subject_class locale="en_US">Asia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guinevere</firstname>
+          <middlename>O. U.</middlename>
+          <lastname>Wogan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-36</pages>
+        <date_published>2012-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Sinopoda &lt;/i&gt;Jäger, 1999 in Laos with discovery of the first eyeless huntsman spider species (Sparassidae: Heteropodinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Sinopoda&lt;/i&gt; Jäger, 1999 is recorded for the first time in Laos. Nine new species are described: &lt;i&gt;Sinopoda&lt;/i&gt; &lt;i&gt;steineri&lt;/i&gt;&lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female; Luang Nam Tha), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tham&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female; Oudomxai), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sitkao&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female; LuangPrabang), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;taa&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female; Luang Prabang), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;suang&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female; Huaphan), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;peet&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female;Huaphan), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;guap&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female; Khammuan), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;soong&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female; Khammuan), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;scurion&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;(female; Khammuan). All species have been collected from caves. &lt;i&gt;Sinopoda&lt;/i&gt; &lt;i&gt;scurion&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; represents the first recordof an eyeless huntsman spider, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;guap&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; exhibits only small lenses of six eyes (AME lacking), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;soong&lt;/i&gt; &lt;b&gt;spec.&lt;/b&gt;&lt;b&gt;nov.&lt;/b&gt; has only two small eye lenses. Four immature individuals (Sinopoda sp. indet. A–D) exhibited a reduced size or number of eyes, they are listed including their localities although they could not be identified to species level.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; systematics; new species; troglomorphy</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Jäger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-57</pages>
+        <date_published>2012-08-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Bokermannohyla ibitipoca &lt;/i&gt;(Caramaschi &amp; Feio, 1990) (Anura, Hylidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Felipe</firstname>
+          <lastname>De Medeiros Magalhães</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matheus</firstname>
+          <lastname>De Oliveira Neves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Emanuel</firstname>
+          <middlename>Masiero</middlename>
+          <lastname>Da Fonseca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rose</firstname>
+          <middlename>Marie Hoffmann</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-62</pages>
+        <date_published>2012-08-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new sinistral turriform gastropod (Conoidea: Mangeliidae) from Taiwan</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>A.</firstname>
+          <lastname>Bonfitto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Morassi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-08-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

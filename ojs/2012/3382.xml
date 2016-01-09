@@ -1,3 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3382.1</id>
+    <title locale="en_US">9 Jul. 2012</title>
+    <volume>3382</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Hoplasoma &lt;/i&gt;(Coleoptera: Chrysomelidae: Galerucinae) of the Philippines, with descriptions of five new species</title>
+        <abstract locale="en_US">The species of &lt;i&gt;Hoplasoma&lt;/i&gt; Jacoby, 1884, of the Philippines are revised. Eight species, including five new, are treated: &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;bakeri&lt;/i&gt; Bezděk, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Sibuyan), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;konstantinovi&lt;/i&gt; Bezděk, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mindoro), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;magellani&lt;/i&gt; Bezděk, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mind-anao, Sulu, Samar, Panaon), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;mcgregori&lt;/i&gt; Bezděk, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Negros), &lt;i&gt;Hoplasoma&lt;/i&gt; &lt;i&gt;mindanense&lt;/i&gt; Medvedev, 2002 (Mindan-ao), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;philippinense&lt;/i&gt; Jacoby, 1894 (Luzon), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;picifemora&lt;/i&gt; Allard, 1888 (= &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;luzonica&lt;/i&gt; Medvedev, 2002, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt;(Luzon) and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;semperi&lt;/i&gt; Bezděk, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (“Philippines”). Lectotypes are designated for &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;philippinense&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;picifemora.&lt;/i&gt; Photographs of the type specimen, male abdomen, female last ventrite and drawings of male genitalia are presented for all the species. A key to the species of the Philippines is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Chrysomelidae; Galerucinae; &lt;i&gt;Hoplasoma&lt;/i&gt;; taxonomy; new species; synonymy; lectotype; Philippines; key</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Bezděk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The water skater genus &lt;i&gt;Gerris &lt;/i&gt;Fabricius (Hemiptera: Heteroptera: Gerridae) in Vietnam, with the description of a new species</title>
+        <abstract locale="en_US">The water skater genus &lt;i&gt;Gerris&lt;/i&gt; of Vietnam is reviewed, with a key to species provided. &lt;i&gt;Gerris&lt;/i&gt; (s.str.) &lt;i&gt;curvus&lt;/i&gt; sp. n. fromsouthern Vietnam is described. The discovery of this species greatly extends the southernmost distributional range of the genus. Two other species, &lt;i&gt;Gerris&lt;/i&gt; (s.str.) &lt;i&gt;latiabdominis&lt;/i&gt; and &lt;i&gt;Gerris&lt;/i&gt; (Macrogerris) &lt;i&gt;gracilicornis,&lt;/i&gt; are first records for Vietnam.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gerridae; &lt;i&gt;Gerris&lt;/i&gt;; new species; first records; Vietnam</subject>
+          <subject_class locale="en_US">Gerridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tran</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>D.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>T.</middlename>
+          <lastname>Polhemus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-28</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of the genus &lt;i&gt;Zaretis &lt;/i&gt;Hübner, [1819], with taxonomic notes on &lt;i&gt;Z. itys &lt;/i&gt;and &lt;i&gt;Z. itylus, &lt;/i&gt;stat. rev. (Lepidoptera: Nymphalidae: Charaxinae) and illustration of a gynandromorph</title>
+        <abstract locale="en_US">This paper provides description for a new species from the Amazon basin, &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;falcis,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; taxonomic accounts on some spe-cies of the genus &lt;i&gt;Zaretis&lt;/i&gt; Hübner, [1819] with notes on the taxonomy of &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;itys&lt;/i&gt; (Cramer, 1777) and &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;itylus&lt;/i&gt; (Westwood, 1850),&lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; and the designation of the lectotype for &lt;i&gt;Zaretes&lt;/i&gt; [sic] &lt;i&gt;pseuditys&lt;/i&gt; Fruhstorfer, 1909. Additionally, a mixed gynandromorph is illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anaeini; &lt;i&gt;itylus&lt;/i&gt;; &lt;i&gt;itys&lt;/i&gt;; &lt;i&gt;pseuditys&lt;/i&gt;; &lt;i&gt;pythagoras&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Anaeini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>Maia Silva</middlename>
+          <lastname>Dias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mirna</firstname>
+          <middlename>Martins</middlename>
+          <lastname>Casagrande</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olaf</firstname>
+          <middlename>Hermann Hendrik</middlename>
+          <lastname>Mielke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-40</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic and bionomic notes on &lt;i&gt;Arma chinensis &lt;/i&gt;(Fallou)</title>
+        <abstract locale="en_US">The male genitalia and other important morphological characters of &lt;i&gt;Arma&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt; are redescribed and illustrated. Some bio-logical characters of this stink bug, such as the predatory behavior, mating, oviposition, hatching, molting, emergence, colonization, and cannibalism are noted.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Arma&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt;; Pentatomidae; taxonomy; bionomics</subject>
+          <subject_class locale="en_US">&lt;i&gt;Arma&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Deyu</firstname>
+          <lastname>Zou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mengqing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lisheng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ying</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiaojun</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongyin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Chrysosoma &lt;/i&gt;from Vietnam, with description of a new species and a key to Vietnamese species (Diptera: Dolichopodidae)</title>
+        <abstract locale="en_US">Six species of &lt;i&gt;Chrysosoma&lt;/i&gt; Guérin-Méneville are recorded from Vietnam, including &lt;i&gt;Chrysosoma&lt;/i&gt; &lt;i&gt;vietnamense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the species of the genus from Vietnam is given for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;males&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Chrysosoma&lt;/i&gt;&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Vietnam&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;males&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Chrysosoma&lt;/i&gt;&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Vietnam&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jinjing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lili</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-58</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ancyronyx jaechi &lt;/i&gt;sp.n. from Sri Lanka, the first record of the genus &lt;i&gt;Ancyronyx&lt;/i&gt; Erichson, 1847 (Insecta: Coleoptera: Elmidae) from the Indian Subcontinent, and a world checklist of species</title>
+        <abstract locale="en_US">&lt;i&gt;Ancyronyx&lt;/i&gt; &lt;i&gt;jaechi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Kegalle District, Sabaragamuwa Province, Sri Lanka is described. The new species is rec-ognized by a unique combination of the elytral colour pattern, as well as the shape and size of the male sternite IX, theaedeagus, the female ovipositor, and the secondary sexual characters. An updated world checklist of the species of &lt;i&gt;Ancy-&lt;/i&gt;&lt;i&gt;ronyx&lt;/i&gt; Erichson, 1847 including authority clarification for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;montanus&lt;/i&gt; Freitag &amp; Balke, 2011 is provided. The distributional area of the genus and its diagnostic characters are discussed. The habitats of &lt;i&gt;Ancyronyx&lt;/i&gt; species are briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Spider Water Beetle; Ceylon; &lt;i&gt;Ancyronyx&lt;/i&gt; &lt;i&gt;jaechi&lt;/i&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hendrik</firstname>
+          <lastname>Freitag</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-65</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Thaia &lt;/i&gt;Ghauri (Hemiptera: Cicadellidae: Typhlocybinae) from China, with a key to Chinese species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;males&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Thaia&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;males&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Thaia&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;China&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yue-Hua</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Zhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-07-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

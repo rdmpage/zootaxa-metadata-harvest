@@ -1,3 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3487.1</id>
+    <title locale="en_US">18 Sep. 2012</title>
+    <volume>3487</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Triatominae (Hemiptera: Heteroptera: Reduviidae) of Veracruz, Mexico: geographic distribution, taxonomic redescriptions, and a key </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>César</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Sandoval-Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <lastname>Cervantes-Peredo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fredy</firstname>
+          <middlename>Severo</middlename>
+          <lastname>Mendoza-Palmero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <lastname>Ibáñez-Bernal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic studies on some little known genera of Palearctic Eulophidae and Pteromalidae (Hymenoptera: Chalcidoidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Burks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-40</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the immature stages of &lt;i&gt;Sigara (Tropocorixa) schadei &lt;/i&gt;(Hungerford) (Hemiptera: Heteroptera: Corixidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Susana</firstname>
+          <middlename>Amanda</middlename>
+          <lastname>Konopko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-57</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Australia-New Zealand connection re-visited, with two new species of &lt;i&gt;Cartomothrips &lt;/i&gt;(Thysanoptera, Phlaeothripinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Annette</firstname>
+          <middlename>K.</middlename>
+          <lastname>Walker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-64</pages>
+        <date_published>2012-09-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">About &lt;i&gt;Macrophya parvula &lt;/i&gt;and larvae of several Central European &lt;i&gt;Macrophya &lt;/i&gt;(Hymenoptera: Tenthredinidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Macek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-76</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural changes and redescriptions in &lt;i&gt;Plateros &lt;/i&gt;Bourgeois, 1879 (Coleoptera: Lycidae) from Neotropical region </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elynton</firstname>
+          <middlename>Alves Do</middlename>
+          <lastname>Nascimento</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Milada</firstname>
+          <lastname>Bocakova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-84</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the identity of &lt;i&gt;Bithoracochaeta sociabilis &lt;/i&gt;Blanchard (Diptera: Muscidae): a new synonym of &lt;i&gt;Atherigona orientalis &lt;/i&gt;Schiner </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luciano</firstname>
+          <middlename>Damián</middlename>
+          <lastname>Patitucci</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>Ricardo</middlename>
+          <lastname>Mulieri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>Carlos</middlename>
+          <lastname>Mariluis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>85-88</pages>
+        <date_published>2012-09-18</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3343.1</id>
+    <title locale="en_US">12 Jun. 2012</title>
+    <volume>3343</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic study of the &lt;i&gt;protecta&lt;/i&gt;-group in the genus &lt;i&gt;Pagaronia &lt;/i&gt;Ball (Hemiptera, Cicadellidae, Evacanthinae) from Japan</title>
+        <abstract locale="en_US">Seven species, including three new species, of the &lt;i&gt;protecta-group&lt;/i&gt; in the genus &lt;i&gt;Pagaronia&lt;/i&gt; Ball are recognized from Honshu,Japan. &lt;i&gt;Pagaronia&lt;/i&gt; &lt;i&gt;totoumiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dichotoma&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lanceolata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from central Honshu.Some intraspecific morphological variations of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;protecta&lt;/i&gt; Okada, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;tridens&lt;/i&gt; M.Hayashi &amp; Arai and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spinosa&lt;/i&gt; Y.Hori are analyzed. Additional localities for all the described species of this species-group are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; Pagaroniini; new species; taxonomy; morphology; intraspecific variation</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Satoshi</firstname>
+          <lastname>Kamitani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Toshiyuki</firstname>
+          <lastname>Higuchi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shigeru</firstname>
+          <lastname>Okudera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-15</pages>
+        <date_published>2012-06-12</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic notes on the leafwing butterflies &lt;i&gt;Memphis leonida &lt;/i&gt;(Stoll) and &lt;i&gt;Memphis editha &lt;/i&gt;(Comstock), stat. nov. (Lepidoptera: Nymphalidae: Charaxinae)</title>
+        <abstract locale="en_US">The taxonomy of &lt;i&gt;Memphis&lt;/i&gt; &lt;i&gt;leonida&lt;/i&gt; (Stoll) is revised and an assessment of the names currently considered synonyms or subspe-cies are presented. Lectotypes of &lt;i&gt;Papilio&lt;/i&gt; &lt;i&gt;leonida&lt;/i&gt; Stoll and &lt;i&gt;Paphia&lt;/i&gt; &lt;i&gt;porphyrio&lt;/i&gt; Bates are designated, and one new status is pro-posed for &lt;i&gt;Memphis&lt;/i&gt; &lt;i&gt;editha&lt;/i&gt; (Comstock), &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; a species currently regarded as a subspecies of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leonida.&lt;/i&gt; Genitalic andwing shape and pattern characters suggest that &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;leonida,&lt;/i&gt; occurring in the Amazon basin and the Guyanas, and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;editha,&lt;/i&gt;occurring in the Atlantic rain forest, are distinct species. Redescriptions, taxonomic notes, illustrations of male and female genitalia, and up-to-date distribution maps for the taxa are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anaeini; taxonomy; &lt;i&gt;Piper&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Anaeini; taxonomy; &lt;i&gt;Piper&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>Maia Silva</middlename>
+          <lastname>Dias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mirna</firstname>
+          <middlename>Martins</middlename>
+          <lastname>Casagrande</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olaf</firstname>
+          <middlename>Hermann Hendrik</middlename>
+          <lastname>Mielke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>16-30</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Araucnephia &lt;/i&gt;(Diptera: Simuliidae) from the Northeast Region of Brazil</title>
+        <abstract locale="en_US">We describe and illustrate the pupa, larva, and both adults of a new species in the genus &lt;i&gt;Araucnephia&lt;/i&gt; Wygodzinsky &amp;Coscarón, 1973 (A. &lt;i&gt;cearensis&lt;/i&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;sp.).&lt;/b&gt; The species was found in a highland area in Ceará State, Northeast Brazil. The pupa canbe separated from those of other &lt;i&gt;Araucnephia&lt;/i&gt; pupae based on the number of gill filaments, which range from 25 to 35 branches(versus 9 or 14), and by it being completely encased by the cocoon. The larva can be separated from those of other &lt;i&gt;Araucnephia&lt;/i&gt;based on the presence of a median accessory anal sclerite. Adults are typical of the genus. This species extends the northern range of the genus &lt;i&gt;Araucnephia,&lt;/i&gt; which is postulated to be Gondwanan in origin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic forest; Neotropical black fly; Semi-arid area</subject>
+          <subject_class locale="en_US">Atlantic forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Felipe</firstname>
+          <middlename>Arley Costa</middlename>
+          <lastname>Pessoa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudia</firstname>
+          <middlename>María</middlename>
+          <lastname>Ríos-Velásquez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Victor</firstname>
+          <lastname>Py-Daniel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-44</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Braconinae (Hymenoptera: Braconidae) of Turkey, with new locality records and descriptions of two new species of &lt;i&gt;Bracon &lt;/i&gt;Fabricius, 1804</title>
+        <abstract locale="en_US">Two new species, namely &lt;i&gt;Bracon&lt;/i&gt; (Bracon) &lt;i&gt;bachtiae&lt;/i&gt; Beyarslan sp. n. and &lt;i&gt;Bracon&lt;/i&gt; (Glabrobracon) &lt;i&gt;dersimensis&lt;/i&gt; Beyarslan sp. n.(Braconinae) collected from Kastamonu and Tunceli provinces of Turkey, are described and compared with related species.Records of 60 Braconinae species collected in different parts of Turkey, especially from the Central and Eastern Anatoliaregions between the years 1980 and 2009, are listed. Thirty-two species are reported as new to Turkey, and new distributional data is added for almost all species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Braconinae; &lt;i&gt;Bracon&lt;/i&gt;; Anatolia; Turkey; new records</subject>
+          <subject_class locale="en_US">Braconinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ahmet</firstname>
+          <lastname>Beyarslan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Özlem</firstname>
+          <middlename>Çetin</middlename>
+          <lastname>Erdoğan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-56</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">DNA barcoding and morphology support the division of &lt;i&gt;Elachista nuraghella&lt;/i&gt; sensu auctorum (Lepidoptera: Elachistidae: Elachistinae) into two vicariant species</title>
+        <abstract locale="en_US">&lt;i&gt;Elachista&lt;/i&gt; &lt;i&gt;nuraghella&lt;/i&gt; sensu auct. (Lepidoptera, Elachistidae) is shown to display a striking division of haplotype groups in theDNA barcode sequence, one widely distributed in the western Mediterranean region, the other in the east: Bulgaria, Greece andTurkey. The haplotypes correspond with constant differences in both male and female genitalia, and generally also in outerappearance. &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;nuraghella&lt;/i&gt; Amsel is thus considered to consist of two species displaying a vicariant distribution pattern. The eastern taxon is described as &lt;i&gt;Elachista&lt;/i&gt; &lt;i&gt;grotenfelti&lt;/i&gt; Kaila sp. nov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">barcodes; taxonomy; Elachistinae; &lt;i&gt;Elachista&lt;/i&gt;; &lt;i&gt;Aphelosetia&lt;/i&gt;; vicariant biogeography</subject>
+          <subject_class locale="en_US">barcodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lauri</firstname>
+          <lastname>Kaila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marko</firstname>
+          <lastname>Mutanen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

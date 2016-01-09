@@ -1,3 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3557.1</id>
+    <title locale="en_US">21 Nov. 2012</title>
+    <volume>3557</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revalidation of &lt;i&gt;Oliera &lt;/i&gt;Brèthes (Lepidoptera: Cecidosidae) based on a redescription of &lt;i&gt;O. argentinana &lt;/i&gt;and DNA analysis of Neotropical cecidosids </title>
+        <abstract locale="en_US">Larvae of &lt;i&gt;Oliera&lt;/i&gt; &lt;i&gt;argentinana,&lt;/i&gt; Brèthes 1916 (Lepidoptera: Cecidosidae) were rediscovered inducing spindle-shaped gallsenclosed within swollen stems of &lt;i&gt;Schinus&lt;/i&gt; (Anacardiaceae) in central Argentina and Rio Grande do Sul, the southernmoststate of Brazil. Male, female, immature stages, and plant galls of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;argentinana&lt;/i&gt; are redescribed, using optical andscanning electron microscopy. The genus &lt;i&gt;Oliera&lt;/i&gt; Brèthes, 1916, previously a junior synonym of &lt;i&gt;Cecidoses&lt;/i&gt; Curtis, 1835,is revalidated, by comparing morphological characteristics within the family and through an analysis of mitochondrial(COI) DNA sequences, including putative members of the four Neotropical cecidosid genera. Information on preliminary Cecidosidae phylogeny and taxonomy is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gall moths; &lt;i&gt;Schinus&lt;/i&gt;; Anacardiaceae; Neotropics</subject>
+          <subject_class locale="en_US">Gall moths</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gilson</firstname>
+          <middlename>R. P.</middlename>
+          <lastname>Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gislene</firstname>
+          <middlename>L.</middlename>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>P.</middlename>
+          <lastname>Eltz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Germán</firstname>
+          <lastname>San Blas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donald</firstname>
+          <middlename>R.</middlename>
+          <lastname>Davis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2012-11-21</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two New Species of the Genus &lt;i&gt;Atrichopogon &lt;/i&gt;Kieffer (Diptera: Ceratopogonidae) from Mexico </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Herón</firstname>
+          <lastname>Huerta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <lastname>Dzul</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-30</pages>
+        <date_published>2012-11-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species of &lt;i&gt;Bittacomorphella &lt;/i&gt;Alexander from China with descriptions of two new species (Diptera: Ptychopteridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zehui</firstname>
+          <lastname>Kang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Junchao</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-39</pages>
+        <date_published>2012-11-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Octocollis&lt;/i&gt;, a new genus and &lt;i&gt;Octocollis setosus&lt;/i&gt;, a new species of Cetoniinae (Coleoptera: Scarabaeidae) from Queensland, Australia </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christian</firstname>
+          <middlename>H.</middlename>
+          <lastname>Moeseneder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>M.</middlename>
+          <lastname>Hutchinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-48</pages>
+        <date_published>2012-11-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Caenocrepis &lt;/i&gt;Thomson (Hymenoptera: Pteromalidae) in the Afrotropical region, with a key to world species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mircea-Dan</firstname>
+          <lastname>Mitroiu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-55</pages>
+        <date_published>2012-11-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Lathrobium &lt;/i&gt;Gravenhorst (Coleoptera: Staphylinidae: Paederinae) from Yulongxueshan Mountain, Southwest China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhong</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li-Zhen</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mei-Jun</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-58</pages>
+        <date_published>2012-11-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genera &lt;i&gt;Tropidozineus &lt;/i&gt;Monné &amp; Martins, 1976 and &lt;i&gt;Ozineus &lt;/i&gt;Bates, 1863 in Bolivia (Coleoptera: Cerambycidae: Lamiinae): six new species and a new synonym </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miguel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcela</firstname>
+          <middlename>L.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-11-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy and morphology of plant-parasitic nematodes associated with turfgrasses in North and South Carolina, USA</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yongsan</firstname>
+          <lastname>Zeng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weimin</firstname>
+          <lastname>Ye</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lane</firstname>
+          <lastname>Tredway</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samuel</firstname>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matt</firstname>
+          <lastname>Martin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3452.1</id>
+    <title locale="en_US">4 Sep. 2012</title>
+    <volume>3452</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Brasileirinidae, a new isopod family (Crustacea: Isopoda) from the cave in Bahia (Brazil) with a discussion on its taxonomic position</title>
+        <abstract locale="en_US">The aquatic troglobiont &lt;i&gt;Brasileirinho&lt;/i&gt; &lt;i&gt;cavaticus&lt;/i&gt; (Crustacea: Isopoda: Calabozoidea), new genus and species is describedfrom the karst cave of the State of Bahia, Brazil. Based on its unique pleonal features i.e. the total absence of femalepleopods I–II, uniramous male pleopods I–II, minute, uniramous respiratory pleopods III–V in both sexes and pleotelsonnot exceeding 45% of the pleon length, a new family, Brasileirinidae, is created. Some biological, ecological andbehavioral data for the species are provided together with the nature conservation issues. Additionally, an assignment ofthe new species to the suborder Calabozoidea is discussed through comparison with the other two calabozoid species,&lt;i&gt;Calabozoa&lt;/i&gt; &lt;i&gt;pellucida&lt;/i&gt; and &lt;i&gt;Pongycarcinia&lt;/i&gt; &lt;i&gt;xiphidiourus.&lt;/i&gt; For the latter species, some previously missing morphologicaldetails, as well as a new locality record, are provided. According to the updated morphological evidence, the previously assumed relationships of Calabozoidea are discussed and, consequently, the diagnostic characters of some taxa emended.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Brasileirinho&lt;/i&gt; &lt;i&gt;cavaticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; morphology; biology; Calabozoidea; nature conservation; troglobiont</subject>
+          <subject_class locale="en_US">&lt;i&gt;Brasileirinho&lt;/i&gt; &lt;i&gt;cavaticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Simona</firstname>
+          <lastname>Prevorčnik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>Lopes</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Boris</firstname>
+          <lastname>Sket</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-65</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The correct name for the Siberian Black-billed Capercaillie is &lt;i&gt;Tetrao&lt;/i&gt; &lt;i&gt;urogalloides &lt;/i&gt;(Aves: Tetraonidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Mlíkovský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

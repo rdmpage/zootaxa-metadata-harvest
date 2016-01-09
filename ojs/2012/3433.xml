@@ -1,3 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3433.1</id>
+    <title locale="en_US">22 Aug. 2012</title>
+    <volume>3433</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The false spider mites of the genus &lt;i&gt;Cenopalpus &lt;/i&gt;Pritchard &amp; Baker (Acari: Tenuipalpidae) from Iran</title>
+        <abstract locale="en_US">Four new species of the genus &lt;i&gt;Cenopalpus&lt;/i&gt; Pritchard and Baker are described from Iran, namely: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rubusi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;collected from salmonberry bushes, &lt;i&gt;Rubus&lt;/i&gt; &lt;i&gt;persicae&lt;/i&gt; L. (Rosaceae), Sanandaj, Kurdistan province; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;prunusi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;from plum trees, &lt;i&gt;Prunus&lt;/i&gt; &lt;i&gt;domestica&lt;/i&gt; L. (Rosaceae), Hamedan, Hamedan province; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;khosrowshahii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Sophora&lt;/i&gt;&lt;i&gt;alopecuroides&lt;/i&gt; L. (Fabaceae), Hamedan, Hamedan province; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;quercusi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from oak trees, &lt;i&gt;Quercus&lt;/i&gt;&lt;i&gt;castaneifolia&lt;/i&gt; C.A. Mey. (Fagaceae), Robat Namaki, Lorestan province. Six species are re-described: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;saryabiensis&lt;/i&gt;Akbar and Chaudhri, 1985, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lanceolatisetae&lt;/i&gt; (Attiah, 1956), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;irani&lt;/i&gt; Dosse, 1971, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;abaii&lt;/i&gt; Khosrowshahi and Arbabi,1997, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bakeri&lt;/i&gt; Düzgünes, 1967 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;crataegi&lt;/i&gt; Dosse, 1971. Of these species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;irani&lt;/i&gt; reaches high population density and is widespread. A key to all known Iranian species of the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Tenuipalpidae; &lt;i&gt;Cenopalpus&lt;/i&gt;; false spider mite; new species; re-description; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masoumeh</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alireza</firstname>
+          <lastname>Saboori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Owen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Seeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-59</pages>
+        <date_published>2012-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Melitidae (Crustacea: Amphipoda: Hadzioidea) from Brazilian waters</title>
+        <abstract locale="en_US">A new genus and species of the &lt;i&gt;Eriopisella&lt;/i&gt; &lt;i&gt;group&lt;/i&gt; are described from Brazilian waters. The new genus is monotypic andclosely related to the melitid genus &lt;i&gt;Netamelita&lt;/i&gt; Barnard, 1962, but is distinguishable from the latter by the propodus ofgnathopods 1 and 2 that is wedge-shaped, subtriangular and has the palm longer than posterior margin. This is the first amphipod of the &lt;i&gt;Eriopisella&lt;/i&gt; group reported from Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; &lt;i&gt;Eriopisella&lt;/i&gt; group; GEDIP Project; habitats project; Brazil</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <middlename>R.</middlename>
+          <lastname>Senna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristiana</firstname>
+          <middlename>S.</middlename>
+          <lastname>Serejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-08-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

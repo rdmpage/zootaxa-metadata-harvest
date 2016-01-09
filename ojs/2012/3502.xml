@@ -1,3 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3502.1</id>
+    <title locale="en_US">1 Oct. 2012</title>
+    <volume>3502</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Unravelling cryptic species diversity in eastern Nearctic paper wasps, &lt;i&gt;Polistes &lt;/i&gt;(&lt;i&gt;Fuscopolistes&lt;/i&gt;), using male genitalia, morphometrics and DNA barcoding, with descriptions of two new species (Hymenoptera: Vespidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthias</firstname>
+          <lastname>Buck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tyler</firstname>
+          <middlename>P.</middlename>
+          <lastname>Cobb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julie</firstname>
+          <middlename>K.</middlename>
+          <lastname>Stahlhut</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>H.</middlename>
+          <lastname>Hanner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2012-10-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The collembolan fauna of Maestrazgo caves (Teruel, Spain) with description of three new species </title>
+        <abstract locale="en_US">Three new species of cavernicolous Collembola belonging to genera &lt;i&gt;Pygmarrhopalites&lt;/i&gt; and &lt;i&gt;Oncopodura&lt;/i&gt; from five cavesat El Maestrazgo (Teruel, Spain) are described: &lt;i&gt;Pygmarrhopalites&lt;/i&gt; &lt;i&gt;maestrazgoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cantavetulae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and&lt;i&gt;Oncopodura&lt;/i&gt; &lt;i&gt;fadriquei&lt;/i&gt; Jordana &amp; Baquero &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; In addition five other species have been found in the same caves:&lt;i&gt;Heteromurus&lt;/i&gt; &lt;i&gt;nitidus&lt;/i&gt; (Templeton, 1836), &lt;i&gt;Pseudosinella&lt;/i&gt; &lt;i&gt;encrusae&lt;/i&gt; Gisin &amp; Gama, 1969 (second record of the species),&lt;i&gt;Megalothorax&lt;/i&gt; &lt;i&gt;minimus&lt;/i&gt; Willem, 1900, &lt;i&gt;Protaphorura&lt;/i&gt; &lt;i&gt;aconae&lt;/i&gt; Arbea &amp; Jordana 1994 (second record of the species), and&lt;i&gt;Schaefferia&lt;/i&gt; &lt;i&gt;decemoculata&lt;/i&gt; (Stach, 1939) (sensu: Thibaud 1970). The explorations of cave fauna in these cavities has beencarried out by the "Associació Catalana de Bioespeleologia” under the sponsorship of CEMAT (Centro de Estudios del Maestrazgo Turolense).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Collembola; Arrhopalitidae; &lt;i&gt;Pygmarrhopalites&lt;/i&gt;; Oncopoduridae; &lt;i&gt;Oncopodura&lt;/i&gt;; biospeleology; taxonomy</subject>
+          <subject_class locale="en_US">Collembola</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rafael</firstname>
+          <lastname>Jordana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Floren</firstname>
+          <lastname>Fadrique</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enrique</firstname>
+          <lastname>Baquero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-71</pages>
+        <date_published>2012-10-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of seasonal polyphenism in the Symphyta (Hymenoptera), exemplified by &lt;i&gt;Pristiphora leucopus &lt;/i&gt;(Hellén, 1948) (Tenthredinidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>John</middlename>
+          <lastname>Grearson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Liston</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>72-88</pages>
+        <date_published>2012-10-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

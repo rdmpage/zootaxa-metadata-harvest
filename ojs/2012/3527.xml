@@ -1,3 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3527.1</id>
+    <title locale="en_US">26 Oct. 2012</title>
+    <volume>3527</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Deep-water Raphitomidae (Mollusca, Gastropoda, Conoidea) from the Campos Basin, southeast Brazil </title>
+        <abstract locale="en_US">During the program “Environmental Characterization of the Campos Basin, RJ, Brazil”, carried out from 2001 to 2003,117 stations were sampled on the continental slope of the Campos Basin off southeast Brazil, by the Research Vessel“Astro-Garoupa”. The samples were taken on soft bottoms at depths from 700 to 1950 m, with a 0.25 m2 box corer or bydredging with a Charcot dredge. Mollusks were present at all of the stations, and among the Gastropoda the Conoideashowed the highest diversity. Here we present the results obtained for the most abundant family, Raphitomidae. We found21 species in eight genera: &lt;i&gt;Famelica,&lt;/i&gt; &lt;i&gt;Eubela,&lt;/i&gt; &lt;i&gt;Xanthodaphne,&lt;/i&gt; &lt;i&gt;Magnella,&lt;/i&gt; &lt;i&gt;Gymnobela,&lt;/i&gt; &lt;i&gt;Pleurotomella,&lt;/i&gt; &lt;i&gt;Aliceia&lt;/i&gt; and&lt;i&gt;Neopleurotomoides.&lt;/i&gt; The last two genera are reported here for the first time in the South Atlantic Ocean. Among the 21species two had been previously reported for this region: &lt;i&gt;Magnella&lt;/i&gt; &lt;i&gt;malmii&lt;/i&gt; (Dall, 1889) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;extensa&lt;/i&gt; (Dall, 1881).Three species had been reported for Brazil, but the new finds expand their known geographical distribution: &lt;i&gt;Eubela&lt;/i&gt;&lt;i&gt;limacina&lt;/i&gt; (Dall, 1881), &lt;i&gt;Famelica&lt;/i&gt; &lt;i&gt;mirmidina&lt;/i&gt; (Dautzenberg &amp; Fischer, 1986) and &lt;i&gt;Pleurotomella&lt;/i&gt; &lt;i&gt;cala&lt;/i&gt; (Watson, 1885).Twelve species are reported for the first time in the South Atlantic: &lt;i&gt;Aliceia&lt;/i&gt; &lt;i&gt;aenigmatica&lt;/i&gt; Dautzenberg &amp; Fischer, 1897,&lt;i&gt;Xanthodaphne&lt;/i&gt; &lt;i&gt;dalmasi&lt;/i&gt; (Dautzenberg &amp; Fischer, 1897), &lt;i&gt;Xanthodaphne&lt;/i&gt; &lt;i&gt;araneosa&lt;/i&gt; (Watson, 1881), &lt;i&gt;Magnella&lt;/i&gt; &lt;i&gt;watsoni&lt;/i&gt;(Dautzenberg, 1889), &lt;i&gt;Gymnobela&lt;/i&gt; &lt;i&gt;chyta&lt;/i&gt; (Watson, 1881), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;atypha&lt;/i&gt; (Bush, 1893), &lt;i&gt;Gymnobela&lt;/i&gt; &lt;i&gt;bairdii&lt;/i&gt; (Verrill &amp; Smith,1884), &lt;i&gt;Gymnobela&lt;/i&gt; &lt;i&gt;blakeana&lt;/i&gt; Dall, 1881, &lt;i&gt;Pleurotomella&lt;/i&gt; &lt;i&gt;perpauxilla&lt;/i&gt; (Watson, 1881), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bureaui&lt;/i&gt; (Dautzenberg &amp; Fischer,1897), &lt;i&gt;P.&lt;/i&gt; cf. &lt;i&gt;anceyi&lt;/i&gt; (Dautzenberg &amp; Fischer, 1897) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;coelorhaphe&lt;/i&gt; (Dautzenberg &amp; Fischer, 1896). Four species arenew to science and are described here: &lt;i&gt;Neopleurotomoides&lt;/i&gt; &lt;i&gt;aembe,&lt;/i&gt; &lt;i&gt;Xanthodaphne&lt;/i&gt; &lt;i&gt;pichi,&lt;/i&gt; &lt;i&gt;Gymnobela&lt;/i&gt; &lt;i&gt;xaioca&lt;/i&gt; and &lt;i&gt;Pleurotomella&lt;/i&gt; &lt;i&gt;ybessa.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Conoidea; Taxonomy; continental slope</subject>
+          <subject_class locale="en_US">Conoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Raquel</firstname>
+          <middlename>Medeiros Andrade</middlename>
+          <lastname>Figueira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Absalão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Bokermannohyla &lt;/i&gt;(Anura: Hylidae) from highlands of Central Brazil </title>
+        <abstract locale="en_US">We describe a new species of hylid frog, &lt;i&gt;Bokermannohyla&lt;/i&gt; &lt;i&gt;sapiranga&lt;/i&gt; sp. nov., from Central Brazil (15°55’49” S,47°52’59” W, 1110m asl). The species is characterized by medium size (males snout-vent length 45.6±4.7mm, N=13; fe-males 46.9±6.2, N=4) for the &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pseudopseudis&lt;/i&gt; group and by iris color varying from orange to reddish. The advertisementcall is similar in some aspects to calls of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pseudopseudis,&lt;/i&gt; but differs mainly by structure and spectral features, but alsotemporal ones such as call length, note duration, and number of notes per call. The new species uses streams with muddybeds in gallery forests as well as rocky bed streams in the highlands of Goiás State and Distrito Federal. The new speciesis tentatively included in the &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pseudopseudis&lt;/i&gt; group based on shared morphological features, ecology, and behavior. Mor-phometric analysis of size-independent variables indicated that &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;sapiranga&lt;/i&gt; differs from &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pseudopseudis&lt;/i&gt; mostly in head length and width, interorbital distance, and diameter of the fourth toe disc.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Advertisement call; &lt;i&gt;Bokermannohyla&lt;/i&gt; &lt;i&gt;pseudopseudis&lt;/i&gt; group; &lt;i&gt;Bokermannohyla&lt;/i&gt; &lt;i&gt;sapiranga&lt;/i&gt; sp. nov.; Brazilian Cerrado</subject>
+          <subject_class locale="en_US">Advertisement call</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Reuber</firstname>
+          <middlename>Albuquerque</middlename>
+          <lastname>Brandão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <middlename>Félix</middlename>
+          <lastname>De Magalhães</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adrian</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Garda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leandro</firstname>
+          <middlename>Abrósio</middlename>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <lastname>Sebben</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natan</firstname>
+          <middlename>Medeiros</middlename>
+          <lastname>Maciel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-42</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Medusoids in the life cycle of &lt;i&gt;Dentitheca dendritica &lt;/i&gt;(Nutting, 1900) and &lt;i&gt;Nemalecium gracile &lt;/i&gt;sp. nov. (Cnidaria: Hydrozoa) </title>
+        <abstract locale="en_US">Gonothecae of both sexes and the non-released medusoids of &lt;i&gt;Dentitheca&lt;/i&gt; &lt;i&gt;dendritica&lt;/i&gt; (Nutting, 1900) are described for the firsttime. The genus &lt;i&gt;Nemalecium&lt;/i&gt; Bouillon, 1986 is enriched through the discovery of a second species, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;gracile&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; inMartinique, Lesser Antilles. Morphological data and comparison with material provisionally assigned to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lighti&lt;/i&gt; (Hargitt,1924) are provided. The monoor dioecious colonies of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;gracile&lt;/i&gt; produce a swimming cryptomedusoid gonophore. Thecnidome of &lt;i&gt;Nemalecium&lt;/i&gt; is shown to comprise not only pseudostenoteles and microbasic mastigophores, but also two additional nematocyst types unreported so far.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">hydroid; thecate; new species; Caribbean; Martinique</subject>
+          <subject_class locale="en_US">hydroid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Horia</firstname>
+          <middlename>R.</middlename>
+          <lastname>Galea</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Romain</firstname>
+          <lastname>Ferry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Marie</firstname>
+          <lastname>Bertot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Messoracarus &lt;/i&gt;(Acari: Mesostigmata: Aenictequoidea: Messoracaridae) from Laos </title>
+        <abstract locale="en_US">A new species of the ant-associated family Messoracaridae, &lt;i&gt;Messoracarus&lt;/i&gt; &lt;i&gt;schwendingeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described on thebasis of one female and two males from Laos. A short review of the family is also presented, and a key for identification of its our species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Antennophorina; Trigynaspida; new species; taxonomy; Southeast Asia</subject>
+          <subject_class locale="en_US">Antennophorina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jenő</firstname>
+          <lastname>Kontschán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Owen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Seeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of annual fish, &lt;i&gt;Hypsolebias tocantinensis &lt;/i&gt;sp.n. (Cyprinodontiformes:Rivulidae) from the rio Tocantins basin, northeastern Brazil </title>
+        <abstract locale="en_US">&lt;i&gt;Hypsolebias&lt;/i&gt; &lt;i&gt;tocantinensis&lt;/i&gt; n. sp. is described from a temporary pool located in the rio Tocantins basin, Maranhão stateBrazil. &lt;i&gt;Hypsolebias&lt;/i&gt; &lt;i&gt;tocantinensis&lt;/i&gt; belongs the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;flammeus&lt;/i&gt; species-group. It is the first occurrence of genus &lt;i&gt;Hypsolebias&lt;/i&gt;in Maranhão state. This new species differs from all other species of that group, except &lt;i&gt;Hypsolebias&lt;/i&gt; &lt;i&gt;flammeus&lt;/i&gt; (Costa,1989), &lt;i&gt;Hypsolebias&lt;/i&gt; &lt;i&gt;multiradiatus&lt;/i&gt; (Costa &amp;Brasil, 1994) and &lt;i&gt;Hypsolebias&lt;/i&gt; &lt;i&gt;brunoi&lt;/i&gt; (Costa, 2003), by male color pattern andby the presence of a metallic blue sheen surrounding the black spots in the female. It differs from &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;flammeus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;multi-&lt;/i&gt;&lt;i&gt;radiatus&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;brunoi&lt;/i&gt; by the shape of the dorsal and anal fins (rounded &lt;i&gt;vs.&lt;/i&gt; pointed) and by the orientation of the reddishbrown bars in males (diagonal &lt;i&gt;vs.&lt;/i&gt; vertical). &lt;i&gt;Hypsolebias&lt;/i&gt; &lt;i&gt;tocantinensis&lt;/i&gt; differs from all other &lt;i&gt;Hypsolebias&lt;/i&gt; by the presenceof, in females, irregular light brown stains on the anal fins and by the pattern of the metallic blue sheen around the blackspots (completely surrounding the black spots while in congeners this blue sheen is either absent or present in vertical bars).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Annual fishes; Neotropical region; temporary pools</subject>
+          <subject_class locale="en_US">Annual fishes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dalton</firstname>
+          <middlename>Tavares Bressane</middlename>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Carlos</middlename>
+          <lastname>Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arsênio</firstname>
+          <middlename>Caldeira Baptista</middlename>
+          <lastname>Junior</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-71</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Hemicycla (Hemicycla) fuenterroquensis &lt;/i&gt;(Gastropoda: Helicoidea: Helicidae), a new species from La Palma, Canary Islands </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Castro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yurena</firstname>
+          <lastname>Yanes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>R.</middlename>
+          <lastname>Alonso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Ibáñez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>72-78</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the male, redescription of the female and new records of &lt;i&gt;Odo patricius &lt;/i&gt;Simon, 1900 (Araneae: Zoridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andres</firstname>
+          <lastname>Taucare-Rios</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-82</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First stage larva of the lobster shrimp &lt;i&gt;Allaxius princeps &lt;/i&gt;(Boas, 1880) (Decapoda: Axiidea: Axiidae) obtained in the laboratory </title>
+        <abstract locale="en_US">First stage larva of the lobster shrimp &lt;i&gt;Allaxius&lt;/i&gt; &lt;i&gt;princeps&lt;/i&gt; (Boas, 1880) (Decapoda: Axiidea: Axiidae) obtained from theovigerous female is described and illustrated for the first time. It is the first description of the larva of lobster shrimp fromWest Pacific. Zoea I of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;princeps&lt;/i&gt; is characterized by the presence of four dorsal spines on the pleonal somites 2–5 andby the shape of the telson with a deep cleft but without a median process. Under these characters, zoea I of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;princeps&lt;/i&gt; is similar to the first larva of &lt;i&gt;Axiopsis&lt;/i&gt; &lt;i&gt;serratifrons.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Axiidea; Axiidae; &lt;i&gt;Allaxius&lt;/i&gt;; larva; zoea; Peter the Great Bay; Sea of Japan</subject>
+          <subject_class locale="en_US">Axiidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kornienko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olga</firstname>
+          <middlename>M.</middlename>
+          <lastname>Korn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-87</pages>
+        <date_published>2012-10-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The generic position of &lt;i&gt;Rhinella skuki &lt;/i&gt;Caramaschi, 2012 (Anura, Bufonidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulisses</firstname>
+          <lastname>Caramaschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>88-88</pages>
+        <date_published>2012-10-26</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

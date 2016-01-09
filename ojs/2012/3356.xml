@@ -1,3 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3356.1</id>
+    <title locale="en_US">25 Jun. 2012</title>
+    <volume>3356</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New subgenus and new species of marine benthic ostracods of genus &lt;i&gt;Doloria&lt;/i&gt; (Ostracoda; Myodocopina) from the Southern Ocean</title>
+        <abstract locale="en_US">The project ANDEEP was designed to fill gaps in the knowledge of the biodiversity of the Southern Ocean deep sea. Threeoceanographic cruises (ANDEEP I, II and III) were undertaken in 2002 and 2005 in the Atlantic Sector of the SouthernOcean. Hundreds of samples were collected from 40 stations with water depths ranging from 748 to 6,348 m. Investiga-tions were carried out on a broad range of taxa, including bacteria, meio-, macroand megafauna. Approximately 5000ostracods were collected, which included 29 specimens of &lt;i&gt;Doloria&lt;/i&gt; (Dolorietta) subgen. nov.The subdivision of the genus &lt;i&gt;Doloria&lt;/i&gt; Skogsberg, 1920 into two subgenera, &lt;i&gt;Doloria&lt;/i&gt; (Doloria) and the novel subgenus&lt;i&gt;Doloria&lt;/i&gt; (Dolorietta), is based on differences in the structures of the fifth limb, the armature of the sensory bristle on the5th segment of the antennula, and the number of bristles on the 4th endite of the sixth limb. Four new species in the newsubgenus were identified from the ANDEEP samples. The new subgenus and the four novel species are described andillustrated. Two of these new species are named &lt;i&gt;Doloria&lt;/i&gt; (Dolorietta) &lt;i&gt;antarctica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Doloria&lt;/i&gt; (Dolorietta) &lt;i&gt;sextafiliformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; but the other two species are left in open nomenclature (i.e. &lt;i&gt;Doloria&lt;/i&gt; (Dolorietta) &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; 1 and &lt;i&gt;Doloria&lt;/i&gt;(Dolorietta) &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; 2) because only juveniles were found in our material. Keys to the subgenera and species of &lt;i&gt;Doloria&lt;/i&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">benthos; Myodocopina; Cypridinidae; taxonomy; morphology; ANDEEP Project; Antarctica</subject>
+          <subject_class locale="en_US">benthos</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>G.</middlename>
+          <lastname>Chavtur</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Simone</firstname>
+          <middlename>N.</middlename>
+          <lastname>Brandão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>G.</middlename>
+          <lastname>Bashmanov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-46</pages>
+        <date_published>2012-06-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular taxonomic reassessment of the Cloud Forest’s &lt;i&gt;Bolitoglossa&lt;/i&gt; salamanders (Caudata: Plethodontidae) from Cordillera de Mérida (Mérida state, Venezuela)</title>
+        <abstract locale="en_US">Salamanders found at different localities nearby Mérida city, Venezuela, are thus far reported as &lt;i&gt;Bolitoglossa&lt;/i&gt; &lt;i&gt;orestes&lt;/i&gt; or &lt;i&gt;B.&lt;/i&gt;&lt;i&gt;spongai.&lt;/i&gt; However, morphological ambiguities among individuals from several populations of both putative species, besidestheir reported disparate geographical distributions, prompted us to clarify the specific identity of these bolitoglossines throughthe sequence analysis of their corresponding 16S rRNA genes. Seventeen specimens belonging to the vertebrates collection ofUniversidad de Los Andes (CVULA), collected at separated cloud forests in Sierra La Culata (San Eusebio, Macho Capaz andSan Javier del Valle) and Sierra Nevada de Mérida (La Mucuy), were used to extract DNA upon tissue digestion. Sequenceanalysis of the 16S rRNA gene supports a biogeographical scenario where, so far, there is only one salamander species for eachsierra: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;orestes,&lt;/i&gt; which is widely distributed in Sierra La Culata, and a so far undescribed species of a Venezuelan bolitogloss-ine apparently restricted to Sierra Nevada de Mérida. Based on our molecular results and an examination of morphological evidence, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;spongai&lt;/i&gt; should be considered a synonym of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;orestes.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;B.&lt;/i&gt; &lt;i&gt;orestes&lt;/i&gt;; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;spongai&lt;/i&gt;; Sierra La Culata; Sierra Nevada de Mérida</subject>
+          <subject_class locale="en_US">&lt;i&gt;B.&lt;/i&gt; &lt;i&gt;orestes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gustavo</firstname>
+          <lastname>Fermin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Javier</firstname>
+          <lastname>García-Gutiérrez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Moisés</firstname>
+          <lastname>Escalona</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrés</firstname>
+          <lastname>Mora</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amelia</firstname>
+          <lastname>Díaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2012-06-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Neoseiulus &lt;/i&gt;Hughes, with records of seven species of predatory mites associated with date palm in Saudi Arabia (Acari: Phytoseiidae)</title>
+        <abstract locale="en_US">Eight species of phytoseiid mites are reported from date palm orchards in Saudi Arabia. Seven of them were first records forthis country: &lt;i&gt;Neoseiulus&lt;/i&gt; &lt;i&gt;bicaudus&lt;/i&gt; (Wainstein), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;conterminus&lt;/i&gt; (Kolodochka), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;makuwa&lt;/i&gt; (Ehara), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;rambami&lt;/i&gt; (Swirski &amp;Amitai), &lt;i&gt;Proprioseiopsis&lt;/i&gt; &lt;i&gt;asetus&lt;/i&gt; (Chant), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;messor&lt;/i&gt; (Wainstein), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ovatus&lt;/i&gt; (Garman). &lt;i&gt;Neoseiulus&lt;/i&gt; &lt;i&gt;makuwa&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;asetus&lt;/i&gt; arerecorded from the Middle East and North Africa for the first time. One new species is described from Bermuda grass, &lt;i&gt;Neoseiu-&lt;/i&gt;&lt;i&gt;lus&lt;/i&gt; &lt;i&gt;saudiensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; The new species is most similar to &lt;i&gt;Neoseiulus&lt;/i&gt; &lt;i&gt;alpinus&lt;/i&gt; (Schweizer) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;marginatus&lt;/i&gt; (Wainstein). A key for identification of the included species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Mesostigmata; Phytoseiidae; biological control; predatory mites; &lt;i&gt;Neoseiulus&lt;/i&gt; &lt;i&gt;saudiensis&lt;/i&gt;; Saudi Arabia.</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohamed</firstname>
+          <middlename>W.</middlename>
+          <lastname>Negm</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fahad</firstname>
+          <middlename>J.</middlename>
+          <lastname>Alatawi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yousif</firstname>
+          <middlename>N.</middlename>
+          <lastname>Aldryhim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-64</pages>
+        <date_published>2012-06-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural notes on the East Asian form of the Mew Gull &lt;i&gt;Larus canus&lt;/i&gt; Linnaeus, 1758 (Aves: Laridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Mlíkovský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-06-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

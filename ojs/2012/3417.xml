@@ -1,3 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3417.1</id>
+    <title locale="en_US">10 Aug. 2012</title>
+    <volume>3417</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of Mesitiinae (Hymenoptera, Bethylidae) from Madagascar, with description of eleven new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Diego</firstname>
+          <middlename>N.</middlename>
+          <lastname>Barbosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Celso</firstname>
+          <middlename>O.</middlename>
+          <lastname>Azevedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2012-08-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of &lt;i&gt;Micardia &lt;/i&gt;Butler, 1878 from China (Lepidoptera, Noctuidae, Eustrotiinae)</title>
+        <abstract locale="en_US">Six species of the genus &lt;i&gt;Micardia&lt;/i&gt; Butler, 1878 are recognized from China. Three new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pallens,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;distincta&lt;/i&gt;and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;minuta,&lt;/i&gt; closely allied to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pulcherrima&lt;/i&gt; (Moore, 1867), are described. The adults and the genitalia are illustrated for all examined species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Micardia&lt;/i&gt;; Eustrotiinae; Noctuidae; Lepidoptera; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Micardia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fuqiang</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dayong</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-52</pages>
+        <date_published>2012-08-10</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of a fossil larva of Hemerobiidae (Neuroptera) from Baltic amber</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>N.</middlename>
+          <lastname>Makarkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sonja</firstname>
+          <lastname>Wedmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Weiterschan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-63</pages>
+        <date_published>2012-08-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Reassessment of the Jurassic damsel-dragonfly genus &lt;i&gt;Karatawia&lt;/i&gt; (Odonata: Campterophlebiidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yong-Jun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bing-Lan</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong</firstname>
+          <lastname>Pang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-08-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

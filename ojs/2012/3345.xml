@@ -1,3 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3345.1</id>
+    <title locale="en_US">13 Jun. 2012</title>
+    <volume>3345</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Cerviniella &lt;/i&gt;Smirnov, 1946 (Copepoda: Harpacticoida) from the Arctic</title>
+        <abstract locale="en_US">Considered one of the most common harpacticoid families in deep-sea benthos, the Aegisthidae can be found in varioustypes of marine sediments and at different depths. During the fourth leg of the ninth expedition of RV &lt;i&gt;Polarstern&lt;/i&gt; in theArctic Ocean (ARK-IX/4) in September 1993, three new representatives of the genus &lt;i&gt;Cerviniella&lt;/i&gt; were collected in mul-ticorer samples from the Laptev Sea at depths of 760-2017 m. The new species have a close relationship, as indicated by thecombination of shared characters: distal segment of antennule with aesthetasc, antennary endopod with two setae and one spinelaterally, and four spines and three setae apically; and the same number of armature elements on the maxillula and maxilla.&lt;i&gt;Cerviniella&lt;/i&gt; &lt;i&gt;danae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hitoshii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be easily distinguished from their congeners primarily by the reductionof the antennules to only five segments, which is common to both species but unique in &lt;i&gt;Cerviniella.&lt;/i&gt; &lt;i&gt;Cerviniella&lt;/i&gt; &lt;i&gt;danae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;is most readily separated from other described species by the armature of the antennule and maxilliped, and the spine and setaformulae of the swimming legs. For &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;hitoshii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; major diagnostic differences are found in the maxilliped, segmentationand setation of P3 and P4 endopods, and P6 represented by three setae. &lt;i&gt;Cerviniella&lt;/i&gt; &lt;i&gt;arctica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is unique in the combinationof the following characters: caudal rami extremely elongated, armature of the antennules and mandible, and the spine and setaformulae of the swimming legs. Based on a review of the literature, an updated listing of the P1-P4 armature and a key to species of the genus are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aegisthidae; deep-sea; Laptev Sea; meiobenthos; meiofauna; taxonomy</subject>
+          <subject_class locale="en_US">Aegisthidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Terue</firstname>
+          <middlename>C.</middlename>
+          <lastname>Kihara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <middlename>Martínez</middlename>
+          <lastname>Arbizu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2012-06-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the ciliate genus &lt;i&gt;Zosterodasys &lt;/i&gt;Deroux, 1978 (Protista: Ciliophora: Synhymeniida)</title>
+        <abstract locale="en_US">The ciliate genus &lt;i&gt;Zosterodasys&lt;/i&gt; was established with &lt;i&gt;Z.&lt;/i&gt; &lt;i&gt;agamalievi&lt;/i&gt; as the type species by Deroux (1978). &lt;i&gt;Zosterodasys&lt;/i&gt; ischaracterized by (i) an obovoidal to ellipsoidal body which is not differentiated into a rostrum anteriorly; (ii) a conspicuouscyrtos, i.e., an obconical cytopharyngeal apparatus; and (iii) a special thickly ciliated structure, the so-called synhymenium,extending obliquely from the left to the right dorsal cell surface across the ventral side and thus interrupting all ventral ciliaryrows and some dorsal ones. Altogether 31 nominal species were originally described or subsequently combined with&lt;i&gt;Zosterodasys.&lt;/i&gt; However, we recognize only nine of them as reliable &lt;i&gt;Zosterodasys&lt;/i&gt; species, eleven represent nomenclaturalsynonyms, one is a junior primary homonym, five are classified as &lt;i&gt;species&lt;/i&gt; &lt;i&gt;inquirendae,&lt;/i&gt; and five belong to other genera. Weprovide the following data for each reliable &lt;i&gt;Zosterodasys&lt;/i&gt; species: author, date, and journal page of the original description; listof synonyms; diagnosis; type locality; type material; etymology; and remarks. Based on the morphologic and morphometriccharacters, we prepared an illustrated taxonomic key, containing all &lt;i&gt;Zosterodasys&lt;/i&gt; species considered identifiable in this revision. Further, we discuss characters that have been used in the morphological taxonomy of the genus &lt;i&gt;Zosterodasys.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">freshwater and marine ciliates; identification key; morphology; synonymy</subject>
+          <subject_class locale="en_US">freshwater and marine ciliates</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <lastname>Vďačný</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eva</firstname>
+          <lastname>Tirjaková</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-58</pages>
+        <date_published>2012-06-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pristolepis rubripinnis&lt;/i&gt;, a new species of fish from southern India (Teleostei: Percomorpha: Pristolepididae)</title>
+        <abstract locale="en_US">&lt;i&gt;Pristolepis&lt;/i&gt; &lt;i&gt;rubripinnis,&lt;/i&gt; new species, from the Pamba and Chalakudy rivers in Kerala, India, is distinguished from all otherspecies of the genus by its colour pattern, which includes orange-red soft dorsal, soft anal and caudal fins, and a yellow toorange pelvic fin. It differs further from its southern Indian congener &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;marginata&lt;/i&gt; in having 4 or 5 scales above the lateral line (vs. 3) and 10 scales below it (vs. 9)</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; freshwater fish; Western Ghats and Sri Lanka Biodiversity Hotspot</subject>
+          <subject_class locale="en_US">Taxonomy; freshwater fish; Western Ghats and Sri Lanka Biodiversity Hotspot</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralf</firstname>
+          <lastname>Britz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Krishna</firstname>
+          <lastname>Kumar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fibin</firstname>
+          <lastname>Baby</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-06-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

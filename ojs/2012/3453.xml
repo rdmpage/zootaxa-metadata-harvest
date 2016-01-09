@@ -1,3 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3453.1</id>
+    <title locale="en_US">5 Sep. 2012</title>
+    <volume>3453</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phytoseiidae of Thailand (Acari: Mesostigmata), with a key for their identification</title>
+        <abstract locale="en_US">Little has been published about the phytoseiid mite fauna of Thailand. This paper presents information about themorphology and distribution of phytoseiid mites collected in Thailand between 1991 and 2011 on different plant species,a list of the species presently known from that country, and a key for their identification. Twenty six species belonging to11 genera were collected and identified in this study, six of which are reported for the first time from Thailand. In total,38 species of phytoseiid species of 13 genera are reported, 29 of Amblyseiinae, seven of Phytoseiinae and two of Typhlodrominae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; predatory mites; biological control; diversity</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>C.</middlename>
+          <lastname>Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vatana</firstname>
+          <lastname>Charanasri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manita</firstname>
+          <lastname>Kongchuensin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ploychompoo</firstname>
+          <lastname>Konvipasruang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angsumarn</firstname>
+          <lastname>Chandrapatya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>J.</middlename>
+          <lastname>De Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Re-evaluation of &lt;i&gt;Pseudoparasitus &lt;/i&gt;(&lt;i&gt;Gymnolaelaps&lt;/i&gt;) &lt;i&gt;annectans &lt;/i&gt;(Womersley): a new genus and two new species (Acari: Mesostigmata: Laelapidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Pseudoparasitus&lt;/i&gt; (Gymnolaelaps) &lt;i&gt;annectans&lt;/i&gt; (Womersley) and two new species are assigned to a new genus, &lt;i&gt;Nidilaelaps.&lt;/i&gt;&lt;i&gt;Nidilaelaps&lt;/i&gt; has a number of important differences from &lt;i&gt;Pseudoparasitus&lt;/i&gt; and other genera that &lt;i&gt;Nidilaelaps&lt;/i&gt; &lt;i&gt;annectans&lt;/i&gt; hasbeen previously assigned to, but shares characters with Australopapuan vertebrate-associated taxa, particularly the“Androlaelaps” &lt;i&gt;ulysses&lt;/i&gt; species group and &lt;i&gt;Laelapsella&lt;/i&gt; Womersley. &lt;i&gt;Nidilaelaps&lt;/i&gt; &lt;i&gt;annectans&lt;/i&gt; is common in a variety ofmammal and bird nests and also in forest litter. The two new species (N. &lt;i&gt;holdsworthi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lisae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; arerecorded from mammals, birds, or their nests in Papua New Guinea or Australia. &lt;i&gt;Nidilaelaps&lt;/i&gt; is inferred to be endemic tothe Australopapuan region. The presence of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;annectans&lt;/i&gt; in other regions is suggested to be due to relatively recent colonisation, facilitated by its many phoretic associations, particularly with synanthropic rodents.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">phoresy; nidicole; Australopapuan distribution; mite; introduced species</subject>
+          <subject_class locale="en_US">phoresy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Shaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-42</pages>
+        <date_published>2012-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of riffle minnow, &lt;i&gt;Alburnoides holciki&lt;/i&gt;, from the Hari River basin in Afghanistan and Iran (Actinopterygii: Cyprinidae)</title>
+        <abstract locale="en_US">A new species of riffle minnow, &lt;i&gt;Alburnoides&lt;/i&gt; &lt;i&gt;holciki&lt;/i&gt; (Cyprinidae), is described from northwestern Afghanistan andnortheastern Iran. It is distinguished from related species by a combination of characters including a well-defined, sharp,scaleless or only slightly scaled ventral keel; a short, slightly pointed snout; a terminal mouth with the tip of the mouthcleft, on a level with the upper half of the pupil; a large eye (orbit width about equal to interorbital width); (46)47–51(55)lateralline scales to posterior margin of hypurals; 2.5–4.2 pharyngeal teeth; usually 8½ branched dorsal-fin rays; usually13–16½ branched anal-fin rays; 40–42, usually 41, total vertebrae; caudal vertebral region longer than abdominal region(most frequent vertebral formulae 20+21, 20+22 and 19+21); and usually 13 or 14 predorsal vertebrae. A comparison with&lt;i&gt;Alburnoides&lt;/i&gt; species from rivers of the South Caspian Sea, the northern slope of the Kopetdag Mountains and the Amu Darya basin is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Alburnoides&lt;/i&gt;; Cyprinidae; freshwater fishes; new species; Afghanistan; Iran</subject>
+          <subject_class locale="en_US">&lt;i&gt;Alburnoides&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brian</firstname>
+          <middlename>W.</middlename>
+          <lastname>Coad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nina</firstname>
+          <middlename>G.</middlename>
+          <lastname>Bogutskaya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-55</pages>
+        <date_published>2012-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Confocal laser scanning microscopy technique for the study of internal genitalia and external morphology of eriophyoid mites (Acari: Eriophyoidea)</title>
+        <abstract locale="en_US">Confocal laser scanning microscopy (CLSM) is a modern powerful technique that can be used for studying the externaland internal anatomy of arthropods. CLSM has seldom been used in acarology and very rarely for studying eriophyoidmites. It allows the capture of precise digital images of the fine details of external and internal chitinous structures, whichcan be further analysed using various computer programs. CLSM can serve as an effective tool for comparing closelyrelated and/or cryptic species, correcting diagnoses of poorly described taxa, studying immature instars, and particularly,for studying the structures and the functioning of the internal genitalia of adult females and males. In this paper, thepotential use of CLSM for the study of eriophyoids is demonstrated using specimens of 13 mite species and eight generafrom the families Phytoptidae Murray 1877 and Eriophyidae Nalepa 1898. This study showed that freshly mountedspecimens on microscope slides appeared to be the most appropriate for CLSM as older specimens tended to have reducedautofluorescence. The best choice for studying the external morphology and internal genital apparatus of eriophyoid mitesappeared to be the blue laser. Green and light blue wavelengths (488 nm and 532 nm) were found to be less useful. Thequality of CLSM images depended on the slide-mounting medium used. Among those compared, Hoyer’s medium wasfound to be the most appropriate whereas Heinze medium and media including Iodium gave poorer results. The empodiaand proximal parts of setae were shown to have very weak autofluorescence signals, but they reflected red (635 nm) and blue (405 nm) laser light, which could be detected with CLSM.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">CLSM; apodemes; spermatheca; Phytoptidae; Eriophyidae</subject>
+          <subject_class locale="en_US">CLSM</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philipp</firstname>
+          <middlename>E.</middlename>
+          <lastname>Chetverikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2012-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Origin of species diversity in the catfish genus &lt;i&gt;Hypostomus &lt;/i&gt;(Siluriformes: Loricariidae) inhabiting the Paraná river basin, with the description of a new species</title>
+        <abstract locale="en_US">Within the Loricariidae, the genus &lt;i&gt;Hypostomus&lt;/i&gt; is one of the most diversified freshwater catfish groups. Using new se-quence data from the mitochondrial Control Region (D-loop) we examined the phylogeny of this genus. Our phylogeneticanalyses suggest that, in the Paraná river basin, species diversity in the genus &lt;i&gt;Hypostomus&lt;/i&gt; has been shaped by two proc-esses: 1) by inter-basin diversification, generating groups of species that inhabit different basins, as a result of dispersalevents; and 2) via intra-basin speciation as a result of basin fragmentation due to past marine transgressions, which pro-duced groups of species within a basin. Using the D-loop as a molecular clock, each event of diversification was datedand linked with documented hydrological events or sea level changes. We also assessed the possible dispersal routes be-tween the Paraná and Uruguay rivers, in addition to the obvious dispersal route via the Río de la Plata estuary. Finally, wedescribe a new species of &lt;i&gt;Hypostomus&lt;/i&gt; inhabiting Middle Paraná river, &lt;i&gt;Hypostomus&lt;/i&gt; &lt;i&gt;arecuta&lt;/i&gt; n. sp. This species can be sep-arated from all other &lt;i&gt;Hypostomus&lt;/i&gt; by having light roundish dots on a darker background and by number of premaxillary/ dentary teeth.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Armored catfish; Control Region; phylogeny; Paraná river.</subject>
+          <subject_class locale="en_US">Armored catfish; Control Region; phylogeny; Paraná river.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yamila</firstname>
+          <middlename>P.</middlename>
+          <lastname>Cardoso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Almirón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jorge</firstname>
+          <lastname>Casciotta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Danilo</firstname>
+          <lastname>Aichino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marta</firstname>
+          <middlename>S.</middlename>
+          <lastname>Lizarralde</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>I.</middlename>
+          <lastname>Montoya-Burgos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-83</pages>
+        <date_published>2012-09-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Epigonus exodon&lt;/i&gt;, a new species of deepwater cardinalfish (Teleostei: Perciformes: Epigonidae) from Réunion, western Indian Ocean</title>
+        <abstract locale="en_US">A new species of deepwater cardinalfish, &lt;i&gt;Epigonus&lt;/i&gt; &lt;i&gt;exodon,&lt;/i&gt; is described based on two specimens, 97.0–60.2 mm standardlength, from Réunion (depth 450–480 m), western Indian Ocean. &lt;i&gt;Epigonus&lt;/i&gt; &lt;i&gt;exodon&lt;/i&gt; belongs the &lt;i&gt;Epigonus&lt;/i&gt; &lt;i&gt;oligolepis&lt;/i&gt; group,defined as having seven spines on the first dorsal fin, one spine and 10 soft rays on the second dorsal fin, 35–37 poredlateral-line scales to the end of the hypural and lacking an opercular spine and ribs on the last abdominal vertebra. It differsfrom other members of the group in having a narrow tongue, a shallow V-shaped tooth patch on rear two-thirds of tongue, anteriorly projecting teeth on each side of the symphysis of lower jaw, and 26–28 total gill rakers.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; &lt;i&gt;Epigonus&lt;/i&gt;; new species; &lt;i&gt;Epigonus&lt;/i&gt; &lt;i&gt;oligolepis&lt;/i&gt; group; Réunion</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Makoto</firstname>
+          <lastname>Okamoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Motomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>84-88</pages>
+        <date_published>2012-09-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

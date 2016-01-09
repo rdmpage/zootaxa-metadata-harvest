@@ -1,3 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3405.1</id>
+    <title locale="en_US">1 Aug. 2012</title>
+    <volume>3405</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The external larval morphology of aquatic and terrestrial Luciolinae fireflies (Coleoptera: Lampyridae)</title>
+        <abstract locale="en_US">The external morphology of aquatic, semiaquatic and terrestrial lucioline larvae was investigated in order to provide anoverview of what traits constitute the extremely ecologically diverse Luciolinae (Coleoptera: Lampyridae). The aquaticspecies, &lt;i&gt;Aquatica&lt;/i&gt; &lt;i&gt;ficta&lt;/i&gt; (Olivier), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;leii&lt;/i&gt; (Fu &lt;i&gt;et&lt;/i&gt; Ballantyne), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hydrophila&lt;/i&gt; (Jeng &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.),&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; (Motschulsky), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;wu-&lt;/i&gt;&lt;i&gt;hana&lt;/i&gt; Fu &lt;i&gt;et&lt;/i&gt; Ballantyne, &lt;i&gt;Luciola&lt;/i&gt; &lt;i&gt;cruciata&lt;/i&gt; Motschulsky and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;owadai&lt;/i&gt; Satô &lt;i&gt;et&lt;/i&gt; Kimura cannot swim, but instead crawl onthe substrate. They have soft bodies, lateral abdominal tracheal gills and glands on eversible structures that secrete repel-lent substances. The back-swimming species, &lt;i&gt;Luciola&lt;/i&gt; &lt;i&gt;substriata&lt;/i&gt; Gorham and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;aquatilis&lt;/i&gt; Thancharoen, which inhabit thesurface of ponds, have hardened exoskeletons, and lack gills and eversible glands. Unlike the crawling species, the back-swimmers have sense organs along the ventral surface of the apical maxillary and labial palpomeres, and are metapneusticin their later instars. The larval morphology of the aquatic species is contrasted with &lt;i&gt;Pygoluciola&lt;/i&gt; &lt;i&gt;qingyu&lt;/i&gt; Fu &lt;i&gt;et&lt;/i&gt; Ballantyne, whose larvae are semiaquatic and lack gills, and with the terrestrial larvae of &lt;i&gt;Asymmetricata&lt;/i&gt; &lt;i&gt;circumdata&lt;/i&gt; (Motsch.) (newly</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xinhua</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lesley</firstname>
+          <lastname>Ballantyne</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christine</firstname>
+          <lastname>Lambkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-08-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of treehoppers of Panama (Hemiptera: Membracidae) with a list of checklists and keys to the Nearctic and Neotropical fauna</title>
+        <abstract locale="en_US">A checklist of treehoppers (Hemiptera: Membracidae) of Panama is provided with known province distribution data. The worldcatalogue of Membracoidea, through 1996, lists 68 genera, 162 species, and 1 subspecies from Panama (McKamey, 1998).New research in Panama has documented range extensions for 29 genera, 107 species, and 1 subspecies previously unknownfrom Panama. With these adjustments and additions, the total treehopper fauna from Panama includes 97 genera, 269 species, and 2 subspecies. Tables listing published checklists and keys for Nearctic and Neotropical treehoppers are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Membracidae; treehoppers; checklist; Panama; nearctic checklist citations; neotropical checklist citations</subject>
+          <subject_class locale="en_US">Membracidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dawn</firstname>
+          <middlename>J.</middlename>
+          <lastname>Flynn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-63</pages>
+        <date_published>2012-08-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Emmallodera &lt;/i&gt;Blanchard, 1842 (Coleoptera: Tenebrionidae) from western Argentina</title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Emmallodera&lt;/i&gt; Blanchard (Tenebrioninae: Scotobiini) from western Argentina are described,&lt;i&gt;Emmallodera&lt;/i&gt; &lt;i&gt;rugosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from the Patagonian steppe and &lt;i&gt;Emmallodera&lt;/i&gt; &lt;i&gt;telteca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from lowlands in the Men-doza province. Distributional data, habitat records, and photographs of habitus and pronota for these two new species are included, with comparisons to other known species of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tenebrionidae; Scotobiini; &lt;i&gt;Emmallodera&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Tenebrionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Violeta</firstname>
+          <middlename>A.</middlename>
+          <lastname>Silvestro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>E.</middlename>
+          <lastname>Flores</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-08-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

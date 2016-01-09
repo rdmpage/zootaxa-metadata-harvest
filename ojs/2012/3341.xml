@@ -1,3 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3341.1</id>
+    <title locale="en_US">11 Jun. 2012</title>
+    <volume>3341</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the Malagasy endemic genus &lt;i&gt;Adetomyrma&lt;/i&gt; (Hymenoptera: Formicidae: Amblyoponinae)</title>
+        <abstract locale="en_US">The species-rank taxonomy of the genus &lt;i&gt;Adetomyrma&lt;/i&gt; Ward, 1994 is revised. Nine species are distinguished with eightdescribed as new: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;aureocuprea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bressleri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;caputleae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cassis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;caudapinniger&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cilium&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;clarivida&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;goblin&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Worker-male associations are identified for all worker-basedspecies: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bressleri,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;caputleae,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;goblin&lt;/i&gt; along with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;venatrix&lt;/i&gt; Ward, 1994 from which the male is described for the firsttime. Five new species are described only from males. An ergatoid queen of &lt;i&gt;Adetomyrma&lt;/i&gt; is described for the first time. Keys to species for workers and males are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Male; worker; queen; ergatoid; Malagasy region; Madagascar; Malaise trap; key to species; morphological characters; genitalia; Amblyoponini; &lt;i&gt;aureocuprea&lt;/i&gt;; &lt;i&gt;bressleri&lt;/i&gt;; &lt;i&gt;caputleae&lt;/i&gt;; &lt;i&gt;cassis&lt;/i&gt;; &lt;i&gt;caudapinniger&lt;/i&gt;; &lt;i&gt;cilium&lt;/i&gt;; &lt;i&gt;clarivida&lt;/i&gt;; &lt;i&gt;goblin&lt;/i&gt;; &lt;i&gt;venatrix&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Male</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masashi</firstname>
+          <lastname>Yoshimura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>L.</middlename>
+          <lastname>Fisher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-06-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of two troglobiotic species of the genus &lt;i&gt;Pseudosinella &lt;/i&gt;Schäffer, 1897 (Collembola, Entomobryidae) from the Western Carpathians</title>
+        <abstract locale="en_US">Two troglobiotic species of the genus &lt;i&gt;Pseudosinella&lt;/i&gt; Schäffer, 1897 from the Western Carpathians are redescribed, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ag-&lt;/i&gt;&lt;i&gt;gtelekiensis&lt;/i&gt; (Stach, 1929) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;paclti&lt;/i&gt; Rusek, 1961. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;aggtelekiensis&lt;/i&gt; has endemic distribution restricted to the Slovak-Aggtelek Karst region in Slovakia and Hungary. It shows higher level of troglomorphy (elongation of antennae, basal dis-placement of ungual teeth concurrent with their reduction) probably representing a descendant of the older phyletic &lt;i&gt;Lep-&lt;/i&gt;&lt;i&gt;idocyrtus-Pseudosinella&lt;/i&gt; lineage. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;paclti,&lt;/i&gt; distributed in caves of several karstic regions in central Slovakia, is characteristic with medium level of troglomorphy.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cave fauna; troglomorphy; Slovak-Aggtelek Karst; Slovakia; Hungary</subject>
+          <subject_class locale="en_US">cave fauna</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ľubomír</firstname>
+          <middlename>Kováč (Slovak</middlename>
+          <lastname>Republic)</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Josef</firstname>
+          <lastname>Rusek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-45</pages>
+        <date_published>2012-06-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the subgenus &lt;i&gt;Eudactylocladius &lt;/i&gt;(Diptera: Chironomidae) from China</title>
+        <abstract locale="en_US">The subgenus &lt;i&gt;Eudactylocladius&lt;/i&gt; Thienemann of the genus &lt;i&gt;Orthocladius&lt;/i&gt; van der Wulp from China is reviewed. Three newspecies, &lt;i&gt;O.&lt;/i&gt; (E.) &lt;i&gt;brevis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; (E.) &lt;i&gt;fengensis&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; (E.) &lt;i&gt;intectus&lt;/i&gt; are described and illustrated as adult males, and &lt;i&gt;O.&lt;/i&gt; (E.) &lt;i&gt;mus-&lt;/i&gt;&lt;i&gt;ester&lt;/i&gt; Sæther, 2004, &lt;i&gt;O.&lt;/i&gt; (E.) &lt;i&gt;priomixtus&lt;/i&gt; Sæther, 2004 and &lt;i&gt;O.&lt;/i&gt; (E.) &lt;i&gt;subletteorum&lt;/i&gt; Cranston, 1999 are recorded from China for the first time and annotated. A key to the Chinese males of the subgenus is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chironomidae; &lt;i&gt;Orthocladius&lt;/i&gt;; &lt;i&gt;Eudactylocladius&lt;/i&gt;; new species; key; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fanqing</firstname>
+          <lastname>Kong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xinhua</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-53</pages>
+        <date_published>2012-06-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic notes on &lt;i&gt;Amemboa lyra &lt;/i&gt;Paiva and &lt;i&gt;Amemboa riparia&lt;/i&gt; Polhemus &amp; Andersen (Hemiptera: Heteroptera: Gerridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Amemboa&lt;/i&gt; &lt;i&gt;ripiaria&lt;/i&gt; Polhemus &amp; Andersen, 1984 was recognised as junior synonym of &lt;i&gt;Amemboa&lt;/i&gt; &lt;i&gt;lyra&lt;/i&gt; (Paiva, 1918) byZettel &amp; Chen (1996). After examination of a series of &lt;i&gt;Amemboa&lt;/i&gt; specimens from Myanmar, we now determine that thesetwo names are not synonymous and thus re-establish &lt;i&gt;Amemboa&lt;/i&gt; &lt;i&gt;riparia.&lt;/i&gt; These species can be separated from each other by the structures of the male’s fore leg, and the apical part of the pygophore.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gerridae; &lt;i&gt;Amemboa&lt;/i&gt;; synonym</subject>
+          <subject_class locale="en_US">Gerridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>T.</middlename>
+          <lastname>Polhemus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>D.</middlename>
+          <lastname>Tran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-58</pages>
+        <date_published>2012-06-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of Hawaiian moths from Kahoolawe island (Lepidoptera: Crambidae &amp; Coleophoridae)</title>
+        <abstract locale="en_US">Three new species of Hawaiian Lepidoptera are described herein: &lt;i&gt;Pigritia&lt;/i&gt; &lt;i&gt;uuku&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Coleophoridae: Blastobasinae), &lt;i&gt;Orthomecyna&lt;/i&gt; &lt;i&gt;keoniae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Crambidae), and &lt;i&gt;Tamsica&lt;/i&gt; &lt;i&gt;kawikae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Crambidae) from Kahoolawe Island.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Blastobasini; endemic species; Hawai'i; Kaho'olawe; morphology; taxonomy</subject>
+          <subject_class locale="en_US">Blastobasini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>J</middlename>
+          <lastname>Medeiros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Adamski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-63</pages>
+        <date_published>2012-06-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the larva and redescription of the adult male of &lt;i&gt;Diamphipnoa helgae &lt;/i&gt;Illies, 1960 (Plecoptera: Diamphipnoidae)</title>
+        <abstract locale="en_US">Based on specimens reared &lt;i&gt;in&lt;/i&gt; &lt;i&gt;situ&lt;/i&gt; in the National Park “Los Alerces,” Chubut Province, Argentinean Patagonia, we describe the larvae and redescribe the adult male of &lt;i&gt;Diamphipnoa&lt;/i&gt; &lt;i&gt;helgae&lt;/i&gt; Illies 1960.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; &lt;i&gt;Diamphipnoa&lt;/i&gt;; &lt;i&gt;Patagonia&lt;/i&gt;; &lt;i&gt;Argentina.&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <lastname>Pessacq</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <middlename>H.</middlename>
+          <lastname>Omad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-06-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

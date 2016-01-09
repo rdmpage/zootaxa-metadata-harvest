@@ -1,3 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3393.1</id>
+    <title locale="en_US">19 Jul. 2012</title>
+    <volume>3393</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Iphiplateia &lt;/i&gt;(Crustacea, Amphipoda, Phliantidae) from Australia</title>
+        <abstract locale="en_US">The new species &lt;i&gt;Iphiplateia&lt;/i&gt; &lt;i&gt;marleneae,&lt;/i&gt; &lt;i&gt;Iphiplateia&lt;/i&gt; &lt;i&gt;jakei&lt;/i&gt; and &lt;i&gt;Iphiplateia&lt;/i&gt; &lt;i&gt;verenaae&lt;/i&gt; are described and the similar taxon&lt;i&gt;Iphiplateia&lt;/i&gt; &lt;i&gt;whiteleggei&lt;/i&gt; is redescribed. &lt;i&gt;Iphiplateia&lt;/i&gt; &lt;i&gt;marleneae&lt;/i&gt; differs from &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;whiteleggei&lt;/i&gt; in the subcircular body shape, theslender articles 4–5 of the peduncle of antenna 2, the medially expanded maxilliped palp articles 2 and 3, notches on themerus of all pereopods and pereopod 7 basis is drawn out into a subacute angle. Both &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;jakei&lt;/i&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;verenaae&lt;/i&gt; differ from&lt;i&gt;I.&lt;/i&gt; &lt;i&gt;marleneae&lt;/i&gt; and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;whiteleggei&lt;/i&gt; in having a dorsal pereon keel. &lt;i&gt;Iphiplateia&lt;/i&gt; &lt;i&gt;verenaae&lt;/i&gt; can be distinguished from &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;jakei&lt;/i&gt; by its significantly smaller basis of pereopod 7.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; revision; new species; coral rubble; algae; shallow water</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ch.</firstname>
+          <middlename>Oliver</middlename>
+          <lastname>Coleman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-07-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery and redescription of a sponge-associated axiid shrimp, &lt;i&gt;Eiconaxius acutifrons &lt;/i&gt;Bate, 1888 (Crustacea: Decapoda: Axiidea)</title>
+        <abstract locale="en_US">A poorly known deep-water axiid shrimp, &lt;i&gt;Eiconaxius&lt;/i&gt; &lt;i&gt;acutifrons&lt;/i&gt; Bate, 1888, the type species of the genus, is redescribedon the basis of the two type specimens (lectotype and paralectotype, designated herein) from the Banda Sea, Indonesia,and three recently collected specimens from the Myojin Knoll, Izu Islands, Japan. Diagnostic characters of this speciesare reassessed, and the comparison with closely allied congeneric species is made. Previous records referred to &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;acutifrons&lt;/i&gt; are reviewed. It has been confirmed that none of the subsequent records under the name represent the true &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;acutifrons.&lt;/i&gt; We found that &lt;i&gt;Eiconaxius&lt;/i&gt; &lt;i&gt;albatrossae&lt;/i&gt; Kensley, 1996 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;faxoni&lt;/i&gt; Sakai, 2011 were based on the same seriesof material from the eastern Pacific, referred to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;acutifrons&lt;/i&gt; by Faxon (1895), but the Sakai’s (2011) taxon name is unavailable because of the lack of an explicit type fixation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Axiidea; Axiidae; &lt;i&gt;Eiconaxius&lt;/i&gt;; redescription; new record; synonym</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shinji</firstname>
+          <lastname>Tsuchida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-40</pages>
+        <date_published>2012-07-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval morphology of &lt;i&gt;Atractides ildensis &lt;/i&gt;Tuzovskij, 2005, &lt;i&gt;A. moniezi &lt;/i&gt;(Motaş, 1927), and &lt;i&gt;A. graecus &lt;/i&gt;Viets, 1950 (Acari: Hydrachnidia: Hygrobatidae)</title>
+        <abstract locale="en_US">First illustrated descriptions of the larvae of three water mite species of the genus &lt;i&gt;Atractides&lt;/i&gt; are presented: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ildensis&lt;/i&gt; Tuzovskij, 2005, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;moniezi&lt;/i&gt; (Motaş, 1927), and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;graecus&lt;/i&gt; Viets, 1950.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; Hygrobatidae; &lt;i&gt;Atractides&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ildensis&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;moniezi&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;graecus&lt;/i&gt;; morphology; larva</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <middlename>V.</middlename>
+          <lastname>Tuzovskij</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2012-07-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Correct name for the Asian Brown Flycatcher (Aves: Muscicapidae, &lt;i&gt;Muscicapa&lt;/i&gt;)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Mlíkovský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-56</pages>
+        <date_published>2012-07-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Calappa karenae&lt;/i&gt;, a new species of box crab from Guam (Crustacea: Decapoda: Brachyura: Calappidae)</title>
+        <abstract locale="en_US">A new deep-water species of box crab, &lt;i&gt;Calappa&lt;/i&gt; &lt;i&gt;karenae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Brachyura: Calappidae) is described from Guam. Thenew species differs from its congeners by its distinctive colouration and conspicuously wide carapace. It is one of the largest &lt;i&gt;Calappa&lt;/i&gt; species known from the Indo-West Pacific.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Calappa&lt;/i&gt; &lt;i&gt;karenae&lt;/i&gt;; new species; Guam; deep water; Calappidae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Calappa&lt;/i&gt; &lt;i&gt;karenae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joelle</firstname>
+          <middlename>C. Y.</middlename>
+          <lastname>Lai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-65</pages>
+        <date_published>2012-07-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Corrigenda of &lt;i&gt;Zootaxa, 3154: 1–20 &lt;/i&gt;Redescriptions of three &lt;i&gt;Milnesium &lt;/i&gt;Doyère, 1840 taxa (Tardigrada: Eutardigrada: Milnesiidae), including the nominal species for the genus</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Łukasz</firstname>
+          <lastname>Michalczyk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weronika</firstname>
+          <lastname>Wełnicz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcus</firstname>
+          <lastname>Frohme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Łukasz</firstname>
+          <lastname>Kaczmarek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-07-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

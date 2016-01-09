@@ -1,3 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3530.1</id>
+    <title locale="en_US">30 Oct. 2012</title>
+    <volume>3530</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the phyline plant bug tribe Auricillocorini from Asia, with descriptions of a new genus and nine new species from Japan, Nepal and Thailand (Hemiptera: Heteroptera: Miridae: Phylinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomohide</firstname>
+          <lastname>Yasunaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two Eocene species of &lt;i&gt;Culiseta &lt;/i&gt;(Diptera: Culicidae) from the Kishenehn Formation in Montana </title>
+        <abstract locale="en_US">&lt;i&gt;Culiseta&lt;/i&gt; &lt;i&gt;kishenehn,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Cs.&lt;/i&gt; &lt;i&gt;lemniscata,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Diptera: Culicidae: Culisetini) are described from compression fos-sils from the 46 million year old Kishenehn shale deposits in Montana, USA. The new species appear to share featureswith extant species of subgenera &lt;i&gt;Climacura&lt;/i&gt; and &lt;i&gt;Culicella,&lt;/i&gt; respectively. The antiquity of &lt;i&gt;Culiseta&lt;/i&gt; is examined and previ-ously described Eocene fossil species are discussed. &lt;i&gt;Eoaedes&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Aetheapnomyia&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are established for &lt;i&gt;Aedes&lt;/i&gt; &lt;i&gt;damzeni&lt;/i&gt; Podėnas and &lt;i&gt;Ae.&lt;/i&gt; &lt;i&gt;hoffeinsorum&lt;/i&gt; Szadziewski, two Eocene fossil species in Baltic amber.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aetheapnomyia&lt;/i&gt; gen. n.; compression fossils; &lt;i&gt;Culiseta&lt;/i&gt; &lt;i&gt;kishenehn&lt;/i&gt; sp. n.; &lt;i&gt;Cs.&lt;/i&gt; &lt;i&gt;lemniscata&lt;/i&gt; sp. n.; &lt;i&gt;Eoaedes&lt;/i&gt; gen. n.; mosquitoes</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aetheapnomyia&lt;/i&gt; gen. n.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ralph</firstname>
+          <middlename>E.</middlename>
+          <lastname>Harbach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dale</firstname>
+          <lastname>Greenwalt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-34</pages>
+        <date_published>2012-10-30</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the genus &lt;i&gt;Psix &lt;/i&gt;Kozlov &amp; Lê (Hymenoptera: Platygastridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Longjam</firstname>
+          <middlename>Roni Kumar</middlename>
+          <lastname>Singh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norman</firstname>
+          <middlename>F.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Ramamurthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-42</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new iassine leafhopper genera from Ecuador (Hemiptera: Cicadellidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sindhu</firstname>
+          <middlename>M.</middlename>
+          <lastname>Krishnankutty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christopher</firstname>
+          <middlename>H.</middlename>
+          <lastname>Dietrich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-50</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Cryptonura &lt;/i&gt;Cassagnau, 1979 (Collembola: Neanuridae: Neanurinae) in Iran </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrian</firstname>
+          <lastname>Smolis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Asghar</firstname>
+          <lastname>Falahati</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dariusz</firstname>
+          <lastname>Skarżyński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-58</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Chewing lice (Phthiraptera: Amblycera, Ischnocera) from wild passerines (Aves: Passeriformes) in northern Vietnam, with descriptions of three new species </title>
+        <abstract locale="en_US">Thirteen species of chewing lice (Insecta: Phthiraptera) were found on 46 wild passerines of 10 species in Cuc PhuongNational Park in northern Vietnam. Three new species of the genera &lt;i&gt;Myrsidea&lt;/i&gt; and &lt;i&gt;Brueelia&lt;/i&gt; are described; they and theirtype hosts are: &lt;i&gt;Myrsidea&lt;/i&gt; &lt;i&gt;annae&lt;/i&gt; ex &lt;i&gt;Schoeniparus&lt;/i&gt; &lt;i&gt;rufogularis&lt;/i&gt; (Mandelli, 1873), &lt;i&gt;Brueelia&lt;/i&gt; &lt;i&gt;hrabali&lt;/i&gt; ex &lt;i&gt;Macronous&lt;/i&gt; &lt;i&gt;gularis&lt;/i&gt;(Horsfield, 1822) and &lt;i&gt;Brueelia&lt;/i&gt; &lt;i&gt;neodaumae&lt;/i&gt; ex &lt;i&gt;Zoothera&lt;/i&gt; &lt;i&gt;dauma&lt;/i&gt; (Latham, 1790). First records of chewing lice from &lt;i&gt;Seril-&lt;/i&gt;&lt;i&gt;ophus&lt;/i&gt; &lt;i&gt;lunatus&lt;/i&gt; (Gould, 1834), &lt;i&gt;Stachyris&lt;/i&gt; &lt;i&gt;nigriceps&lt;/i&gt; Blyth, 1844, &lt;i&gt;Niltava&lt;/i&gt; &lt;i&gt;davidi&lt;/i&gt; La Touche, 1907 and &lt;i&gt;Alcippe&lt;/i&gt; &lt;i&gt;morrisonia&lt;/i&gt; Swinhoe, 1863, and a new host record for &lt;i&gt;Menacanthus&lt;/i&gt; &lt;i&gt;nogoma&lt;/i&gt; Uchida, 1926 are also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phthiraptera; lice; &lt;i&gt;Brueelia&lt;/i&gt;; &lt;i&gt;Myrsidea&lt;/i&gt;; &lt;i&gt;Philopterus&lt;/i&gt;; &lt;i&gt;Menacanthus&lt;/i&gt;; new species; birds; new records; Vietnam</subject>
+          <subject_class locale="en_US">Phthiraptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomas</firstname>
+          <lastname>Najer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oldrich</firstname>
+          <lastname>Sychra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nguyen</firstname>
+          <middlename>Manh</middlename>
+          <lastname>Hung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miroslav</firstname>
+          <lastname>Capek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petr</firstname>
+          <lastname>Podzemny</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <lastname>Literak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-73</pages>
+        <date_published>2012-10-30</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Lesteva &lt;/i&gt;Latreille (Coleoptera, Staphylinidae, Omaliinae) from Zhejiang, East China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wen-Li</firstname>
+          <lastname>Ma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li-Zhen</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>74-76</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Scirtes &lt;/i&gt;(Coleoptera: Scirtidae) from southern Florida and the Caribbean </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Epler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-82</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on &lt;i&gt;Prosthecarthron &lt;/i&gt;Raffray, with description of &lt;i&gt;P&lt;/i&gt;. &lt;i&gt;insulanus&lt;/i&gt;, sp. n. (Coleoptera, Staphylinidae, Pselaphinae) from Qi’ao Island, South China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shao-Bin</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Kang</firstname>
+          <lastname>Gu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-10-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

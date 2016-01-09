@@ -1,3 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3590.1</id>
+    <title locale="en_US">18 Dec. 2012</title>
+    <volume>3590</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the "&lt;i&gt;Belciana&lt;/i&gt;" &lt;i&gt;kala &lt;/i&gt;Prout, 1924 species group with description of a new genus and two new species (Lepidoptera, Noctuidae: Pantheinae) from East Asia. Revision of Pantheinae, contribution VI </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Behounek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-15</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of the tribe Apameini from the Russian Far East (Lepidoptera, Noctuidae: Xyleninae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>Ju.</middlename>
+          <lastname>Матоv</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>16-22</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Stylogaster &lt;/i&gt;Macquart, 1835 (Diptera: Conopidae) from Northeastern Brazil: new records and two new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Leonardo</firstname>
+          <middlename>Silvestre Gomes</middlename>
+          <lastname>Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cátia</firstname>
+          <middlename>Antunes</middlename>
+          <lastname>De Mello-Patiu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-36</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the "&lt;i&gt;Belciana&lt;/i&gt;" &lt;i&gt;viridipicta &lt;/i&gt;(Hampson, 1902) species group with description of a new genus and two new species from East Asia (Lepidoptera, Noctuidae: Pantheinae). Revision of Pantheinae, Contribution VII </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Behounek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-50</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the &lt;i&gt;Xestia &lt;/i&gt;(&lt;i&gt;Radddea&lt;/i&gt;) &lt;i&gt;alexis &lt;/i&gt;(Kozhanchikov, 1928) species-group with a checklist of subgenus &lt;i&gt;Raddea &lt;/i&gt;Alphéraky, 1892 and description of brachipterous females (Lepidoptera, Noctuidae, Noctuinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anton</firstname>
+          <middlename>V.</middlename>
+          <lastname>Volynkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexei</firstname>
+          <middlename>Yu.</middlename>
+          <lastname>Matov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Euglossa (Glossura) bazinga &lt;/i&gt;sp. n. (Hymenoptera: Apidae: Apinae, Apini, Euglossina), a new orchid bee from western Brazil, and designation of a lectotype for &lt;i&gt;Euglossa (Glossura) ignita &lt;/i&gt;Smith, 1874 </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Nemésio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <middlename>R.</middlename>
+          <lastname>Ferrari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-72</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An interesting new species of &lt;i&gt;Nososticta &lt;/i&gt;Hagen from southern New Guinea (Odonata, Disparoneuridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <lastname>Michalski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <lastname>Richards</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gunther</firstname>
+          <lastname>Theischinger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>73-78</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Tephritis azari&lt;/i&gt;, a New Fruit Fly (Diptera: Tephritidae) from Iran and Azerbaijan, with a Key to the &lt;i&gt;Tephritis maccus &lt;/i&gt;Species Group </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Saeed</firstname>
+          <middlename>Mohamadzade</middlename>
+          <lastname>Namin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Severyn</firstname>
+          <middlename>V.</middlename>
+          <lastname>Korneyev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-85</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the collection of fungus gnats left by the late Prof. Galina Petrovna Ostroverkhova with a new specific synonymy in the genus &lt;i&gt;Mycetophila &lt;/i&gt;Meigen (Diptera: Mycetophilidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <lastname>Subbotina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olavi</firstname>
+          <lastname>Kurina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>86-88</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

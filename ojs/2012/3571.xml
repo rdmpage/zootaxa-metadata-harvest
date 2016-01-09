@@ -1,3 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3571.1</id>
+    <title locale="en_US">4 Dec. 2012</title>
+    <volume>3571</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A Checklist of the Moths of Alaska </title>
+        <abstract locale="en_US">This article represents the first published complete checklist of the moth taxa, resident and occasional, recorded to datefor Alaska. Seven-hundred and ten species are listed. General species distribution ranges within the state are included.Three North American records are listed for the first time: &lt;i&gt;Cydia&lt;/i&gt; &lt;i&gt;cornucopiae&lt;/i&gt; (Tengström); &lt;i&gt;Eucosma&lt;/i&gt; &lt;i&gt;hohenwartiana&lt;/i&gt; ([D. &amp; S.]); &lt;i&gt;Acronicta&lt;/i&gt; &lt;i&gt;menyanthidis&lt;/i&gt; (Vieweg).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alaska; checklist; Lepidoptera; moths; North America</subject>
+          <subject_class locale="en_US">Alaska</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Clifford</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ferris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>J.</middlename>
+          <lastname>Kruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Donald</middlename>
+          <lastname>Lafontaine</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kenelm</firstname>
+          <middlename>W.</middlename>
+          <lastname>Philip</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>Christian</middlename>
+          <lastname>Schmidt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Derek</firstname>
+          <middlename>S.</middlename>
+          <lastname>Sikes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-12-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist and comments on the jumping plant-lice (Hemiptera: Psylloidea) from Brazil </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <lastname>Burckhardt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dalva</firstname>
+          <middlename>Luiz</middlename>
+          <lastname>De Queiroz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-48</pages>
+        <date_published>2012-12-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematics and Phylogeny of &lt;i&gt;Ulmeritus&lt;/i&gt;-&lt;i&gt;Ulmeritoides &lt;/i&gt;revisited (Ephemeroptera: Leptophlebiidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Salles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <lastname>Domínguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-65</pages>
+        <date_published>2012-12-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New genera and species of Neotropical Rhinotragini (Coleoptera, Cerambycidae, Cerambycinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <lastname>Santos-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Larry</firstname>
+          <middlename>G.</middlename>
+          <lastname>Bezark</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ubirajara</firstname>
+          <middlename>R.</middlename>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-80</pages>
+        <date_published>2012-12-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Annotated Catalog of Iranian Aradidae (Hemiptera: Heteroptera: Pentatomomorpha: Aradoidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hassan</firstname>
+          <lastname>Ghahari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ernst</firstname>
+          <lastname>Heiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-86</pages>
+        <date_published>2012-12-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Bathrips &lt;/i&gt;in China (Thysanoptera: Thripidae), with a new record and new synonym </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Majid</firstname>
+          <lastname>Mirab-Balou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shu-Lan</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Li</firstname>
+          <lastname>Tong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>87-88</pages>
+        <date_published>2012-12-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

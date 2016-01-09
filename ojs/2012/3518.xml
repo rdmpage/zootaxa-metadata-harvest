@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3518.1</id>
+    <title locale="en_US">16 Oct. 2012</title>
+    <volume>3518</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic assessment of &lt;i&gt;Diporiphora &lt;/i&gt;(Reptilia: Agamidae) dragon lizards from the western arid zone of Australia </title>
+        <abstract locale="en_US">Members of the genus &lt;i&gt;Diporiphora&lt;/i&gt; are slender perching agamid lizards from Australasia, with a conservative morphologyand some outstanding taxonomic issues. Here we assess morphological variation in the morphologically similar &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pin-&lt;/i&gt;&lt;i&gt;dan,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;valens,&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;winneckei&lt;/i&gt; from the western deserts of Australia. A reassessment of morphological differences thatincluded the presence or absence of a gular fold, revealed &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pindan&lt;/i&gt; to be much more widely distributed than previouslythought, occurring as far south as the northern Pilbara and east to the Tanami Desert. Examination of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;valens&lt;/i&gt; specimensrevealed a north-south split within the Pilbara, with specimens conspecific with the types from the Hamersley Range inthe southern Pilbara, whereas recently collected specimens from the Chichester and Roebourne regions in the northernPilbara differ morphologically, and are described as a new species. Examination of the type of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;winneckei&lt;/i&gt; and topotypicmaterial indicates that populations referable to this species are confined to the eastern arid zone. The isolated far westernpopulation of ‘D. &lt;i&gt;winneckei’&lt;/i&gt; from the Carnarvon Basin differs in morphology from the eastern arid zone &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;winneckei&lt;/i&gt; andis described as a new species. The western arid zone ‘D. &lt;i&gt;winneckei’&lt;/i&gt; is also morphologically distinctive from the easternarid zone &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;winneckei&lt;/i&gt; and is described as a new species. We also redescribe &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pindan,&lt;/i&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;valens,&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;winneckei,&lt;/i&gt; and return &lt;i&gt;Caimanops&lt;/i&gt; &lt;i&gt;amphiboluroides&lt;/i&gt; to &lt;i&gt;Diporiphora&lt;/i&gt; based on the results of previous genetic studies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Caimanops&lt;/i&gt; &lt;i&gt;amphiboluroides&lt;/i&gt;; &lt;i&gt;Diporiphora&lt;/i&gt; &lt;i&gt;adductus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Diporiphora&lt;/i&gt; &lt;i&gt;paraconvergens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Caimanops&lt;/i&gt; &lt;i&gt;amphiboluroides&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paul</firstname>
+          <lastname>Doughty</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luke</firstname>
+          <lastname>Kealley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jane</firstname>
+          <lastname>Melville</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-10-16</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Uropodina mites from India (Acari: Mesostigmata) </title>
+        <abstract locale="en_US">Six new species of Uropodina are described and illustrated on the basis of specimens collected in India. The new speciesare &lt;i&gt;Uroseius&lt;/i&gt; (Apionseius) &lt;i&gt;durjadhanai&lt;/i&gt; sp. nov., &lt;i&gt;Trichouropoda&lt;/i&gt; &lt;i&gt;arjunai&lt;/i&gt; sp. nov., &lt;i&gt;Uropoda&lt;/i&gt; &lt;i&gt;bengalica&lt;/i&gt; sp. nov., &lt;i&gt;Uropoda&lt;/i&gt; &lt;i&gt;lawrencei&lt;/i&gt; sp. nov., &lt;i&gt;Uropoda&lt;/i&gt; &lt;i&gt;karnai&lt;/i&gt; sp. nov. and &lt;i&gt;Discourella&lt;/i&gt; &lt;i&gt;pandui&lt;/i&gt; sp. nov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Mesostigmata; Uropodina; new species; India</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jenő</firstname>
+          <lastname>Kontschán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-44</pages>
+        <date_published>2012-10-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematics and ecology of species of the &lt;i&gt;Polydora&lt;/i&gt;-complex (Polychaeta: Spionidae) of the Black Sea </title>
+        <abstract locale="en_US">The taxonomic, morphological, biological, behavioural and ecological characteristics of three species of spionid poly-chaetes from the Black Sea belonging to the &lt;i&gt;Polydora-complex&lt;/i&gt; are summarised and discussed on the basis of the author′scollections along Romanian coasts as well as on material from other parts of the Black Sea. It is apparent that at least twospecies have been included under the name′&lt;i&gt;Polydora&lt;/i&gt; &lt;i&gt;ciliata′&lt;/i&gt; in the Black Sea literature. All previous records of &lt;i&gt;Polydora&lt;/i&gt;that bore into calcareous substrates are most likely &lt;i&gt;Polydora&lt;/i&gt; &lt;i&gt;websteri.&lt;/i&gt; The individuals building muddy tubes on all typesof substrata at depths less than 20 m, previously identified as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ciliata&lt;/i&gt; or &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;limicola,&lt;/i&gt; are &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cornuta.&lt;/i&gt; The presence of true&lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ciliata&lt;/i&gt; in the Black Sea is questionable and older records must be re-evaluated. &lt;i&gt;Dipolydora&lt;/i&gt; &lt;i&gt;quadrilobata&lt;/i&gt; is a new recordfor the Romanian coast of the Black Sea, and has established dense populations in deeper (&gt;30 m) soft bottom sediments.Descriptions and figures of these species, as well as a key to actual species of the &lt;i&gt;Polydora-complex&lt;/i&gt; occurring in the Black Sea, are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Polydora&lt;/i&gt; &lt;i&gt;cornuta&lt;/i&gt;; &lt;i&gt;Polydora&lt;/i&gt; &lt;i&gt;websteri&lt;/i&gt;; &lt;i&gt;Dipolydora&lt;/i&gt; &lt;i&gt;quadrilobata&lt;/i&gt;; identification key; non-native species; cryptogenic species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Polydora&lt;/i&gt; &lt;i&gt;cornuta&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Victor</firstname>
+          <lastname>Surugiu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-65</pages>
+        <date_published>2012-10-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A strikingly polychromatic new species of &lt;i&gt;Gonatodes &lt;/i&gt;(Squamata: Sphaerodactylidae) from northern Venezuela </title>
+        <abstract locale="en_US">We describe a new species of diurnal gecko, &lt;i&gt;Gonatodes&lt;/i&gt; &lt;i&gt;rozei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from tropical and premontane humid forests ofnorth central Venezuela. The new species can be distinguished from other congeners by a combination of large size, sub-caudal pattern B (1’1’1’’), three or four lateral scale rows on the digits, males with blue iris, scalation of the gular area,and aspects of color pattern in males and females. The new species is strongly sexually dichromatic and up to four different color morphs are observed in males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">gecko; lizard; reptile; taxonomy; polymorphic .</subject>
+          <subject_class locale="en_US">gecko</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <lastname>Rivero-Blanco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Walter</firstname>
+          <middlename>E.</middlename>
+          <lastname>Schargel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-78</pages>
+        <date_published>2012-10-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new flat mite species of the genus &lt;i&gt;Aegyptobia &lt;/i&gt;Sayed, 1950 (Acari: Trombidiformes: Tenuipalpidae) from Iran </title>
+        <abstract locale="en_US">Two new flat mite species (Acari: Trombidiformes: Tenuipalpidae) are described: &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;jiroftiensis&lt;/i&gt; sp. nov. from &lt;i&gt;Convolvulus&lt;/i&gt; &lt;i&gt;polygonum&lt;/i&gt; (Convolvulaceae) and &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;hormozgani&lt;/i&gt; sp. nov. from &lt;i&gt;Artemisia&lt;/i&gt; &lt;i&gt;siberia&lt;/i&gt; (Asteraceae).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Tenuipalpidae; new species; leg chaetotaxy; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sadegh</firstname>
+          <lastname>Farzan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mahdieh</firstname>
+          <lastname>Asadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edward</firstname>
+          <lastname>Ueckermann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Asghar</firstname>
+          <lastname>Shirvani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-88</pages>
+        <date_published>2012-10-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

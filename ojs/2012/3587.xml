@@ -1,3 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3587.1</id>
+    <title locale="en_US">17 Dec. 2012</title>
+    <volume>3587</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Faunal study of velvet ants (Hymenoptera: Mutillidae) and their activity pat-terns and habitat preference at Ash Meadows National Wildlife Refuge, Nye County, Nevada, USA </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nicole</firstname>
+          <middlename>F.</middlename>
+          <lastname>Boehme</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>A.</middlename>
+          <lastname>Tanner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <middlename>A.</middlename>
+          <lastname>Williams</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>P.</middlename>
+          <lastname>Pitts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-45</pages>
+        <date_published>2012-12-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A generic level review of &lt;i&gt;Eupithecia &lt;/i&gt;Curtis and some closely related genera based on the Palaearctic, Nearctic and Oriental fauna (Lepidoptera, Geometridae, Larentiinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>G.</middlename>
+          <lastname>Mironov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Galsworthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-64</pages>
+        <date_published>2012-12-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Immatures of &lt;i&gt;Dicrepidius &lt;/i&gt;Eschscholtz, 1829 and &lt;i&gt;Dipropus &lt;/i&gt;Germar, 1839 (Elateridae, Elaterinae, Ampedini: Dicrepidiina) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sônia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Casari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriel</firstname>
+          <lastname>Biffi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-77</pages>
+        <date_published>2012-12-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new genera and three new species of the Pantheinae from East Asia and China (Lepidoptera, Noctuidae). Contribution to revision of Pantheinae VIII </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Behounek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>78-88</pages>
+        <date_published>2012-12-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

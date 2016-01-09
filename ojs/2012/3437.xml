@@ -1,3 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3437.1</id>
+    <title locale="en_US">24 Aug. 2012</title>
+    <volume>3437</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of marsupial tree-frogs genus &lt;i&gt;Gastrotheca &lt;/i&gt;Fitzinger, 1843 (Anura, Hemiphractidae) from the Brazilian Atlantic Forest</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Gastrotheca&lt;/i&gt; are described from northeastern Minas Gerais and southern Bahia, in the Atlantic Forestof Brazil. Data on morphology, calls, mitochondrial, and nuclear DNA are provided. Allied to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;fissipes&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;megacephala,&lt;/i&gt; the new taxa provide evidence for a higher diversity of species of &lt;i&gt;Gastrotheca&lt;/i&gt; than previously thought atthe Atlantic Forest. The data also suggest that &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pulchra,&lt;/i&gt; another Atlantic Forest taxon, is more closely related to non-Atlantic Forest species than to the remaining analyzed Brazilian &lt;i&gt;Gastrotheca&lt;/i&gt; species. This implies that the &lt;i&gt;Gastrotheca&lt;/i&gt; at the Brazilian coastal forests have at least two independent origins.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Reserva Biológica da Mata Escura; Estação Ecológica Estadual de Wenceslau Guimarães; Jequitinhonha River; Atlantic Forest refuges.</subject>
+          <subject_class locale="en_US">Reserva Biológica da Mata Escura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mauro</firstname>
+          <lastname>Teixeira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <lastname>Dal Vechio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renato</firstname>
+          <middlename>Sousa</middlename>
+          <lastname>Recoder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Carolina</middlename>
+          <lastname>Carnaval</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <lastname>Strangas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roberta</firstname>
+          <middlename>Pacheco</middlename>
+          <lastname>Damasceno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <middlename>Aurélio</middlename>
+          <lastname>De Sena</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>Trefaut</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Colletteichthys flavipinnis&lt;/i&gt;, a new toadfish species from Sri Lanka and India (Teleostei: Batrachoididae)</title>
+        <abstract locale="en_US">The third known species in the genus &lt;i&gt;Colletteichthys&lt;/i&gt; is described from Sri Lanka and India. &lt;i&gt;Colletteichthys&lt;/i&gt; &lt;i&gt;flavipinnis&lt;/i&gt;differs from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; in having one instead of two or more tentacles above the eye. It differs from both &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt;and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt; in having yellow-orange fins, and from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; in usually having 16 instead of 15 anal-fin raysand 20 instead of 19 dorsal-fin rays, and in having a slightly smaller ( 1–2% SL) eye. Mitochondrial COI barcode interspecific distance is 4.4% between &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;flavippinis&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;dussumieri.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Batrachoididae; &lt;i&gt;Colletteichthys&lt;/i&gt; &lt;i&gt;dussumieri&lt;/i&gt;; &lt;i&gt;Colletteichthys&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt;; India; Sri Lanka</subject>
+          <subject_class locale="en_US">Batrachoididae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>W.</middlename>
+          <lastname>Greenfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Bineesh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>V.</middlename>
+          <lastname>Akhilesh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-31</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Scutylenchus &lt;/i&gt;Jairajpuri, 1971 (Nematoda: Tylenchida), with description of &lt;i&gt;Scutylenchus dongtingensis &lt;/i&gt;n. sp. from rhizosphere soil of grass in China</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Scutylenchus&lt;/i&gt; Jairajpuri 1971 (Nematoda: Tylenchida) is reviewed, and a compendium of the most importantdiagnostic characters with a key to the species are given. A new species, &lt;i&gt;Scutylenchus&lt;/i&gt; &lt;i&gt;dongtingensis&lt;/i&gt; n. sp., is describedfrom China, extracted from rhizosphere soil around grass near Dongting Lake in Hunan province. The new species ischaracterized by having body cuticle with 16–20 longitudinal striae forming blocks; lateral field with 6 incisures forming5 bands without areolation or any other decoration; a slightly offset head with 7 striae; slender stylet 22–25μm long, withcone about three fifths of stylet length; excretory pore inconspicuous under light microscope, located in region of anteriorpart of gland bulb in lateral view; female vulva slit transverse with small epiptygma in lateral view; conspicuous dot-likephasmid located at about one third of tail length posterior to anus; female tail subcylindrical, terminus round, annulated,terminal cuticle thickened; spicule slender, well developed, 27–32μm long, usually not protruded from cloaca;gubernaculum crescent-shaped, may be protruded from cloaca; bursa conspicuous, extending over tail terminus in ventral view.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; morphological characteristics; taxonomy; ITS; plant nematodes; grass</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chun–Ling</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hui</firstname>
+          <lastname>Xie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chuan–Bo</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Song–Bai</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiu–Min</firstname>
+          <lastname>Su</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-42</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A second discovery of &lt;i&gt;Lacertopontonia chadi &lt;/i&gt;Marin, 2011 (Crustacea: Decapoda: Palaemonidae), with remarks on its systematic position</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Charles</firstname>
+          <middlename>H. J. M.</middlename>
+          <lastname>Fransen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bastian</firstname>
+          <middlename>T.</middlename>
+          <lastname>Reijnen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-50</pages>
+        <date_published>2012-08-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of coralsnake of the genus &lt;i&gt;Calliophis &lt;/i&gt;(Squamata: Elapidae) from the west coast of peninsular India</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eric</firstname>
+          <middlename>N.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hemant</firstname>
+          <lastname>Ogale</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <lastname>Deepak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Varad</firstname>
+          <middlename>B.</middlename>
+          <lastname>Giri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2012-08-24</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3340.1</id>
+    <title locale="en_US">8 Jun. 2012</title>
+    <volume>3340</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new genera, ten new species and new records of Amazonian Stygnidae Simon, 1879 (Opiliones: Laniatores)</title>
+        <abstract locale="en_US">As a result of recent expeditions to two mountains in the Amazon basin, Tapirapecó and Pico da Neblina, two new genera ofStygnidae, &lt;i&gt;Imeri&lt;/i&gt; &lt;b&gt;g.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species &lt;i&gt;Imeri&lt;/i&gt; &lt;i&gt;lomanhungae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and &lt;i&gt;Jime&lt;/i&gt; &lt;b&gt;g.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type species &lt;i&gt;Jime&lt;/i&gt; &lt;i&gt;chifrudo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.),&lt;/b&gt; andten new species are described: &lt;i&gt;Auranus&lt;/i&gt; &lt;i&gt;hehu&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Auranus&lt;/i&gt; &lt;i&gt;tepui&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Imeri&lt;/i&gt; &lt;i&gt;lomanhungae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Jime&lt;/i&gt; &lt;i&gt;chifrudo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Stygnoplus&lt;/i&gt; &lt;i&gt;ianomami&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Stygnus&lt;/i&gt; &lt;i&gt;magalhaesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Stygnoplus&lt;/i&gt; &lt;i&gt;neblina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;Stygnoplus&lt;/i&gt; &lt;i&gt;tapirapeco&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt;&lt;i&gt;Stygnus&lt;/i&gt; &lt;i&gt;nogueirai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Stygnus&lt;/i&gt; &lt;i&gt;kuryi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; Additionally, new distributional records in Amazonas (Brazil) are presentedfor &lt;i&gt;Stygnidius&lt;/i&gt; &lt;i&gt;guerinii&lt;/i&gt; Soerensen, 1932, &lt;i&gt;Minax&lt;/i&gt; &lt;i&gt;tetraspinosus&lt;/i&gt; Pinto-da-Rocha, 1997 and &lt;i&gt;Protimesius&lt;/i&gt; &lt;i&gt;longipalpis&lt;/i&gt; (Roewer, 1943). Keys for genera of Heterostygninae and Stygninae are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heterostygninae; Neblina Mountain; Stygninae; Tapirapecó Mountain; tepui</subject>
+          <subject_class locale="en_US">Heterostygninae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Pinto-Da-Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Lúcia</middlename>
+          <lastname>Tourinho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-06-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Comparative morphology of rostral cartilages in extant mackerel sharks (Chondrichthyes, Lamniformes, Lamnidae) using CT scanning</title>
+        <abstract locale="en_US">A comparative study of rostral morphology of extant mackerel sharks (Lamniformes, Lamnidae) is presented. Based oncomputed tomography (CT) scans of fresh specimens, 3D reconstructions, dried museum chondrocrania and the availableliterature, detailed morphological descriptions of the rostral cartilages are provided for the type species of all three extantlamnid genera, namely &lt;i&gt;Carcharodon&lt;/i&gt; &lt;i&gt;carcharias&lt;/i&gt; (Linnaeus, 1758), &lt;i&gt;Isurus&lt;/i&gt; &lt;i&gt;oxyrinchus&lt;/i&gt; Rafinesque, 1810 and &lt;i&gt;Lamna&lt;/i&gt; &lt;i&gt;nasus&lt;/i&gt;(Bonnaterre, 1788), and compared with those of &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;paucus&lt;/i&gt; Guitart Manday, 1966 and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ditropis&lt;/i&gt; Hubbs &amp; Follett, 1947.Despite intraspecific variation, the rostral cartilages of all extant lamnids present significant differences that allow genus-and species-level identification, which is especially of use to identify fossil rostral nodes of these particular taxa. The maindifferences were found to be in overall calcification of the rostrum (Lamna &lt;i&gt;&gt;&lt;/i&gt; &lt;i&gt;Isurus&lt;/i&gt; &lt;i&gt;&gt;&lt;/i&gt; &lt;i&gt;Carcharodon),&lt;/i&gt; general configura-tion of the rostral open space, position of the base of the lateral rostral cartilages, (non-)abutting lateral cartilages, (absent)rostral keels and shape of the rostral node. In cross section, the base of the rostral node is rounded in &lt;i&gt;Lamna,&lt;/i&gt; Y-shaped in &lt;i&gt;Isurus&lt;/i&gt; and uncalcified in juvenile and subadult &lt;i&gt;Carcharodon&lt;/i&gt; (tesserae absent).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Carcharodon&lt;/i&gt;; &lt;i&gt;Isurus&lt;/i&gt;; &lt;i&gt;Lamna&lt;/i&gt;; taxonomy; rostrum; computed tomography.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Carcharodon&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frederik</firstname>
+          <middlename>H.</middlename>
+          <lastname>Mollen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sabine</firstname>
+          <middlename>P.</middlename>
+          <lastname>Wintner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Samuel</firstname>
+          <middlename>P.</middlename>
+          <lastname>Iglésias</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sean</firstname>
+          <middlename>R.</middlename>
+          <lastname>Van Sommeran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>W. M.</middlename>
+          <lastname>Jagt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-43</pages>
+        <date_published>2012-06-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">An assessment of three little-noticed papers on avian nomenclature by G. N. Kashin during 1978–1982</title>
+        <abstract locale="en_US">Overlooked and unanswered nomenclatural observations from 30 years ago, mostly based on perceived shortcomings in the&lt;i&gt;Check-list&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;Birds&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;the&lt;/i&gt; &lt;i&gt;World&lt;/i&gt; by J. L. Peters and his successors, are examined. Many are rebutted, a number endorsed and recommended.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Original spellings; authorship; dates of publication; citations</subject>
+          <subject_class locale="en_US">Original spellings</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Steven</firstname>
+          <middlename>M. S.</middlename>
+          <lastname>Gregory</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edward</firstname>
+          <middlename>C.</middlename>
+          <lastname>Dickinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-58</pages>
+        <date_published>2012-06-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Cirratulus &lt;/i&gt;(Annelida: Polychaeta) described from a shallow-water whale bone in Antarctica</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Cirratulus&lt;/i&gt; Lamarck, 1818 is described from the shallow Antarctic waters of Deception Island (SouthShetland Islands). &lt;i&gt;Cirratulus&lt;/i&gt; &lt;i&gt;balaenophilus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is the first cirratulid to be described from a fresh whale bone that wasexperimentally deployed for one year on the Antarctic sea floor. The species is characterized by the lack of spines andeyes, the number of dorsal tentacles arranged in an arc, and its light yellow-orange color in life. The cytochrome &lt;i&gt;c&lt;/i&gt; oxidasesubunit I (COI) sequence is presented, as well as some remarks about its feeding preferences and ecology. A comparison with congeneric species occurring in Antarctica and adjacent waters is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Deception Island; Whalers Bay; taxonomy; COI; Cirratulidae</subject>
+          <subject_class locale="en_US">Deception Island</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergi</firstname>
+          <lastname>Taboada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stacy</firstname>
+          <lastname>Doner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>A.</middlename>
+          <lastname>Blake</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Conxita</firstname>
+          <lastname>Avila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-06-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

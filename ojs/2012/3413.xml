@@ -1,3 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3413.1</id>
+    <title locale="en_US">8 Aug. 2012</title>
+    <volume>3413</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The South American genus &lt;i&gt;Lagideus &lt;/i&gt;Konow (Hymenoptera: Pergidae: Syzygoniinae), a Supplement</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Apocephalus mucronatus &lt;/i&gt;group of ant decapitating flies (Diptera: Phoridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brian</firstname>
+          <middlename>V.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-28</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Reared parasitic wasps attacking hesperiids from Western Ghats (Kerala, India) with description of a new species of &lt;i&gt;Dolichogenidea &lt;/i&gt;(Hymenoptera: Braconidae) as a larval parasitoid of &lt;i&gt;Thoressa evershedi &lt;/i&gt;(Evans) (Lepidoptera: Hesperiidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ankita</firstname>
+          <lastname>Gupta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kalesh.</firstname>
+          <lastname>S</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-43</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record and a new species of &lt;i&gt;Neolygus &lt;/i&gt;Knight (Heteroptera: Miridae: Mirinae) from Nepal, with a checklist of Old World species of &lt;i&gt;Neolygus&lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomohide</firstname>
+          <lastname>Yasunaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ram</firstname>
+          <middlename>Keshari</middlename>
+          <lastname>Duwal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>D.</middlename>
+          <lastname>Schwartz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-54</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A remarkable new species of flesh-fly mimicking weevil (Coleoptera: Curculionidae: Conoderinae) from Southeastern Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <middlename>A.</middlename>
+          <lastname>Vanin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tadeu</firstname>
+          <middlename>J.</middlename>
+          <lastname>Guerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-63</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Porta &lt;/i&gt;Distant, 1903 (Hemiptera: Heteroptera: Rhyparochromidae: Ozophorini)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Előd</firstname>
+          <lastname>Kondorosy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Katinka</firstname>
+          <lastname>Varga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>László</firstname>
+          <lastname>Zsalakovics</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

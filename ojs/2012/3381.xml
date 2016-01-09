@@ -1,3 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3381.1</id>
+    <title locale="en_US">6 Jul. 2012</title>
+    <volume>3381</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">CATALOGUE OF THE NOMINAL TAXA OF MESOAMERICAN PACHYCHILIDAE (MOLLUSCA: CAENOGASTROPODA)</title>
+        <abstract locale="en_US">The caenogastropod family Pachychilidae Troschel, 1858 is a monophyletic group of freshwater snails that is distributedin the tropical regions of the world, where they exhibit high levels of endemism at the species and generic levels. Thereare many uncertainties regarding generic affiliation and species names in the Mesoamerican Pachychilidae owing to theirrelatively variable shells, the lack of distinctive anatomical features and the intricate taxonomic histories. In an attempt toconsolidate the knowledge of this taxon in the Neotropics, we provide here a catalogue of all available names of theMesoamerican pachychilid fauna, laying the foundation for future taxonomic revisions. Primary types were located for 56species-group taxa, and lectotypes for 22 nomina were designated. 102 nominal taxa of Mesoamerican pachychilids wereoriginally described. We consider that six of these taxa belong to other cerithioidean families. Two nomina are consideredto be unnecessary replacement names (Melania &lt;i&gt;renovata&lt;/i&gt; Brot, 1862; &lt;i&gt;Pachychilus&lt;/i&gt; &lt;i&gt;tristrami&lt;/i&gt; Crosse &amp; Fischer, 1892). Twotaxa are South American species that were incorrectly associated with Mesoamerican taxa (Pachychilus &lt;i&gt;laevissimus&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt;Reeve, 1860; &lt;i&gt;Melania&lt;/i&gt; &lt;i&gt;laevissima&lt;/i&gt; var. &lt;i&gt;decollata&lt;/i&gt; Brot, 1875). The exact type locality of &lt;i&gt;Pachycheilus&lt;/i&gt; &lt;i&gt;dalli&lt;/i&gt; Pilsbry, 1896and &lt;i&gt;Melania&lt;/i&gt; &lt;i&gt;mexicana&lt;/i&gt; were identified, and we accept &lt;i&gt;Pachychilus&lt;/i&gt; &lt;i&gt;hinkleyi&lt;/i&gt; (Marshall, 1920) as replacement name of the invalid &lt;i&gt;Sphaeromelania&lt;/i&gt; &lt;i&gt;hinkleyi&lt;/i&gt; Marshall, 1920.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Molluscs; nomenclature; taxonomy; freshwater; &lt;i&gt;Pachychilus&lt;/i&gt;; Central America; Cerithioidea</subject>
+          <subject_class locale="en_US">Molluscs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maria</firstname>
+          <lastname>Gomez-Berning</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Köhler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthias</firstname>
+          <lastname>Glaubrecht</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2012-07-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additions and corrections</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>C.</middlename>
+          <lastname>Blackburn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>B.</middlename>
+          <lastname>Wake</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-46</pages>
+        <date_published>2012-07-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Gnathia marleyi &lt;/i&gt;sp. nov. (Crustacea, Isopoda, Gnathiidae) from the Eastern Caribbean</title>
+        <abstract locale="en_US">A new species of gnathiid was collected in June-August 2008 and 2009 from various sites in the Eastern Caribbean. Third stagepranizae taken from fish hosts were maintained in fresh sea water until their moult into males or females. Distinctive features ofthe adult male cephalosome include a produced frontal border with conical superior fronto-lateral processes and a slightly sunkeninferior conical medio-frontal process. The male mandible is 0.8 times the length of cephalosome with 10 to 11 processes ondentate blade. The adult female has a rectangular cephalosome with convex lateral margins, 1.2 times as wide as long with noparaocular ornamentation. The female frontal border is broadly rounded, produced and slightly concave anteriorly. The third stage praniza is characterised by a mandible with 8 large, triangular teeth, directed backwardly and 2 small teeth at the tip.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Isopoda; Gnathiidae; &lt;i&gt;Gnathia&lt;/i&gt;; Caribbean; morphology; free living adults; fish ectoparasitic juveniles</subject>
+          <subject_class locale="en_US">Isopoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Charon</firstname>
+          <lastname>Farquharson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nico</firstname>
+          <middlename>J.</middlename>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>C.</middlename>
+          <lastname>Sikkel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-61</pages>
+        <date_published>2012-07-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Rain Frog from Namaqualand, South Africa (Anura: Brevicipitidae: &lt;i&gt;Breviceps&lt;/i&gt;)</title>
+        <abstract locale="en_US">&lt;i&gt;Breviceps&lt;/i&gt; &lt;i&gt;branchi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from coastal Namaqualand, South Africa. It is most similar to &lt;i&gt;Breviceps&lt;/i&gt; &lt;i&gt;namaquensis&lt;/i&gt; in colour pattern and overall form, from which it differs by hand and foot morphology and 16S rRNA sequence.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Breviceps&lt;/i&gt;; new species; Namaqualand; 16S rRNA; South Africa</subject>
+          <subject_class locale="en_US">&lt;i&gt;Breviceps&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alan</firstname>
+          <lastname>Channing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-07-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3455.1</id>
+    <title locale="en_US">6 Sep. 2012</title>
+    <volume>3455</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species and new records of Afrotropical &lt;i&gt;Manota &lt;/i&gt;Williston (Diptera, Mycetophilidae), with a key to the species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heikki</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olavi</firstname>
+          <lastname>Kurina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2012-09-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of &lt;i&gt;Hemicaecilius &lt;/i&gt;Enderlein (Lachesillidae: Psocoptera) from Valle del Cauca, Colombia</title>
+        <abstract locale="en_US">Four related species of &lt;i&gt;Hemicaecilius,&lt;/i&gt; from Valle del Cauca, Colombia, are here described and illustrated. They constitutea species assemblage distinct from two of the known species of the genus, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;venezolanus&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;cuzcoensis,&lt;/i&gt; found to thenorth and south, respectively from Valle del Cauca, along the Andes. The types are deposited in the Entomological Museum, Universidad del Valle, Santiago de Cali, Colombia (MUSENUV).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andes; taxonomy; neotropics</subject>
+          <subject_class locale="en_US">Andes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alfonso</firstname>
+          <middlename>N. García</middlename>
+          <lastname>Aldrete</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ranulfo</firstname>
+          <middlename>González</middlename>
+          <lastname>Obando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nancy</firstname>
+          <middlename>S.</middlename>
+          <lastname>Carrejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-60</pages>
+        <date_published>2012-09-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Kamimuria &lt;/i&gt;(Plecoptera: Perlidae) from China, with redescription of &lt;i&gt;Kamimuria cheni &lt;/i&gt;Wu and &lt;i&gt;Kamimuria Chungnanshana &lt;/i&gt;Wu</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hai-Tao</firstname>
+          <lastname>Sun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yu-Zhou</firstname>
+          <lastname>Du</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-09-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Bordoniola &lt;/i&gt;Osella, 1987 in Ecuador with description of five new species (Coleoptera: Curculionidae, Raymondionyminae)</title>
+        <abstract locale="en_US">Five new species of the small blind weevil genus &lt;i&gt;Bordoniola&lt;/i&gt; Osella, 1987 from Ecuador are described and illustrated: &lt;i&gt;B.&lt;/i&gt;&lt;i&gt;ecuadorialis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;minima&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;otongana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;relicta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;simillima&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Distributional and ecologicaldata are provided for each of the new species. This is the first record of the genus outside Venezuela, from where only two species were known. A key to species and a checklist of all &lt;i&gt;Bordoniola&lt;/i&gt; thus far known are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Curculionidae; Raymondionyminae; &lt;i&gt;Bordoniola&lt;/i&gt;; new species; Ecuador; blind weevils; soil fauna</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cosimo</firstname>
+          <lastname>Baviera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cesare</firstname>
+          <lastname>Bellò</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Giuseppe</firstname>
+          <lastname>Osella</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-80</pages>
+        <date_published>2012-09-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new genus and two new species of Leiodidae (Coleoptera) from Baltic amber using phase contrast synchrotron X-ray microtomography</title>
+        <abstract locale="en_US">A new genus and two new amber fossil species of Leiodidae are described: &lt;i&gt;Catops&lt;/i&gt; &lt;i&gt;perkovskyi&lt;/i&gt; sp. n. (CholevinaeCholevini) and &lt;i&gt;Tafforeus&lt;/i&gt; &lt;i&gt;cainosternus&lt;/i&gt; gen. n., sp. n. (Leiodinae Pseudoliodini); using virtual dissection by propagationphase contrast synchrotron X-ray microtomography, which allows for visualization of the genital structures in a non-invasive way. The external and internal morphology of the new species is compared to that of the extant related species.Putative evolutionary relationship between &lt;i&gt;Tafforeus&lt;/i&gt; and the genus &lt;i&gt;Cainosternum&lt;/i&gt; Notman, 1921, and their placement in the tribe Pseudoliodini are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">paleoentomology; Cholevini; Pseudoliodini</subject>
+          <subject_class locale="en_US">paleoentomology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michel</firstname>
+          <lastname>Perreau</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-88</pages>
+        <date_published>2012-09-06</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

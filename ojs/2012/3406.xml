@@ -1,3 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3406.1</id>
+    <title locale="en_US">1 Aug. 2012</title>
+    <volume>3406</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Colubotelson &lt;/i&gt;Nicholls, 1944 in Tasmania's Lake Pedder: persistence of Phreatoicidae (Crustacea, Isopoda) in therein</title>
+        <abstract locale="en_US">The Tasmanian lakes Pedder and Edgar were inundated in 1972 to create a reservoir to feed into a hydroelectric powerscheme, despite biologists highlighting the uniqueness of the fauna therein. This fauna included undescribed species ofphreatoicidean isopods, which were noted in several subsequent publications but not formally described. In 2010, the orig-inal beds of these two lakes were revisited and successfully sampled for these isopods as part of a program to assess theconservation status of the unique fauna of this large freshwater body. These two previously reported species of phreatoi-cidean are both new to science, distinct from each other and belong to the genus &lt;i&gt;Colubotelson&lt;/i&gt; Nicholls, so we providedescriptions and illustrations of these species to assist their identification by other biologists. The two species are easilyidentified by the shape of the pleotelson and setation of the head, although they are separated by considerably more thantwo hundred specific differences. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pedderensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was collected only from the now deeply submerged bed of theoriginal Lake Pedder, whereas &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;edgarensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; may be found more widely in the current extent of Lake Pedder,owing to its appearance in previously collected samples from the original Lake Pedder as well as in the now drowned areaof Lake Edgar. These results bring the known diversity of the family Phreatoicidae in Tasmania to 26 described species,including 16 in the genus &lt;i&gt;Colubotelson.&lt;/i&gt; The persistence of phreatoicids in Lake Pedder, despite the extensive changes to its ecosystem, suggests that these two species are more resilient than was suspected.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lake Edgar; conservation status; biodiversity; freshwater benthos</subject>
+          <subject_class locale="en_US">Lake Edgar</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>George</firstname>
+          <middlename>D. F.</middlename>
+          <lastname>Wilson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>W.</middlename>
+          <lastname>Osborn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <middlename>N. R.</middlename>
+          <lastname>Forteath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-08-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new &lt;i&gt;Gordionus &lt;/i&gt;species (Nematomorpha: Gordiida) from the southern Rocky Mountains (USA)</title>
+        <abstract locale="en_US">The phylum Nematomorpha contains approximately 350 species in 19 extant genera. The genus &lt;i&gt;Gordionus&lt;/i&gt; contains 56species, four of which occur in the contiguous United States of America. Here we describe two new &lt;i&gt;Gordionus&lt;/i&gt; speciesfrom the southern Rocky Mountains. Worms were collected at three sites in the Santa Fe National Forest in northern NewMexico in the southernmost tip of the Rocky Mountains. Sites consisted of first order streams above 3120m in aspen/pinewoodland. &lt;i&gt;Gordionus&lt;/i&gt; &lt;i&gt;lokaaus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; has flat, polygonal or roundish, areoles covering all parts of the body. The male cloa-cal opening is surrounded by broad bristles with stout apexes forming a unique tube-like opening. Adhesive warts aresmall and postcloacal spines are thin and triangular-shaped. &lt;i&gt;Gordionus&lt;/i&gt; &lt;i&gt;bilaus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; also has flat polygonal or roundshaped areoles, but has indistinct interareolar furrows making neighboring areoles appear fused. The male cloacal openingis surrounded by stout, finger-like bristles in 2‒3 rows. Adhesive warts are larger and postcloacal spines are broad andmound-shaped. These species double the number known from the state of New Mexico and are the first gordiids described from the southern part of the Rocky Mountains.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Gordionus&lt;/i&gt; &lt;i&gt;lokaaus&lt;/i&gt;; &lt;i&gt;Gordionus&lt;/i&gt; &lt;i&gt;bilaus&lt;/i&gt;; hairworm; cloaca; postcloacal spines; biodiversity; DNA sequencing; morphology; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Gordionus&lt;/i&gt; &lt;i&gt;lokaaus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alyssa</firstname>
+          <middlename>C.</middlename>
+          <lastname>Begay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Schmidt-Rhaesa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>G.</middlename>
+          <lastname>Bolek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ben</firstname>
+          <lastname>Hanelt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-38</pages>
+        <date_published>2012-08-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogeography, geographic variation, and taxonomy of the Bent-toed Gecko &lt;i&gt;Cyrtodactylus quadrivirgatus &lt;/i&gt;Taylor, 1962 from Peninsular Malaysia with the description of a new swamp dwelling species</title>
+        <abstract locale="en_US">A review of the taxonomic status of the Bent-toed Gecko &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;quadrivirgatus&lt;/i&gt; Taylor, 1962 based on a molecularphylogeny, scalation, and color pattern analyses indicate that it is composed of a single, recently expanding, widespreadpopulation with weakly supported phylogeographic substructuring with no discrete morphological differentiation betweenpopulations. However, based on sampling, significant mean differences in selected scale counts occur between some pop-ulations. The molecular phylogeny and morphological analysis strongly indicate lineage independence between a subsetof individuals from the Bukit Panchor, Penang population and their closest relative &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pantiensis&lt;/i&gt; Grismer, Chan, Grismer,Wood &amp; Belabut, 2008 from southern Peninsular Malaysia. Furthermore, the analyses indicate that the individuals of thissubset are conspecific and not part of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;quadrivirgatus&lt;/i&gt; as previously suggested. Additionally, this subset is morphologi-cally distinct from all other Sundaland species of &lt;i&gt;Cyrtodactylus,&lt;/i&gt; and as such is described herein as &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;payacola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Malaysia; Bukit Panchor; Penang; &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;quadrivirgatus&lt;/i&gt;; &lt;i&gt;pantiensis&lt;/i&gt;; &lt;i&gt;payacola&lt;/i&gt;; taxonomy; new species</subject>
+          <subject_class locale="en_US">Malaysia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chelséa</firstname>
+          <middlename>B.</middlename>
+          <lastname>Johnson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evan</firstname>
+          <lastname>Quah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <lastname>H.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shahrul</firstname>
+          <lastname>Anuar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Muin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Perry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lee</firstname>
+          <middlename>F.</middlename>
+          <lastname>Greer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chan</firstname>
+          <middlename>Kin</middlename>
+          <lastname>Onn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norhayati</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aaron</firstname>
+          <middlename>M.</middlename>
+          <lastname>Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-58</pages>
+        <date_published>2012-08-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New picobiin mites (Acari: Syringophilidae: Picobiinae) associated with woodcreeper birds (Passeriformes: Dendrocolaptidae)</title>
+        <abstract locale="en_US">Two new species belonging to the genus &lt;i&gt;Rafapicobia&lt;/i&gt; Skoracki, 2011 (Syringophilidae: Picobiinae) collected from birdsof the family Dendrocolaptidae are described: 1) &lt;i&gt;Rafapicobia&lt;/i&gt; &lt;i&gt;dendrocolaptesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Dendrocolaptes&lt;/i&gt; &lt;i&gt;platyrostris&lt;/i&gt;Spix (type host) in Paraguay and from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;picumnus&lt;/i&gt; Lichtenstein in Argentina; 2) &lt;i&gt;Rafapicobia&lt;/i&gt; &lt;i&gt;lepidocolaptesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;from &lt;i&gt;Lepidocolaptes&lt;/i&gt; &lt;i&gt;affinis&lt;/i&gt; (Lafresnaye) (type host) in Ecuador and Venezuela and from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;souleyetii&lt;/i&gt; (Des Murs) in Colombia. Syringophilid mites are recorded from woodcreepers for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Syringophilidae; Picobiinae; quill mites; ectoparasites; birds; Dendrocolaptidae</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maciej</firstname>
+          <lastname>Skoracki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Piotr</firstname>
+          <lastname>Solarczyk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-66</pages>
+        <date_published>2012-08-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The dates of publication of L.A.G. Bosc’s &lt;i&gt;Histoire naturelle des Crustacés&lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2012-08-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

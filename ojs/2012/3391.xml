@@ -1,3 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3391.1</id>
+    <title locale="en_US">18 Jul. 2012</title>
+    <volume>3391</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of chameleon (Squamata: Chamaeleonidae) from the Aberdare Mountains in the central highlands of Kenya</title>
+        <abstract locale="en_US">We describe a new species of chameleon, &lt;i&gt;Trioceros&lt;/i&gt; &lt;i&gt;kinangopensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Kinangop Peak in the Aberdare moun-tains, central highlands of Kenya. The proposed new species is morphologically and genetically distinct from other mem-ber of the &lt;i&gt;bitaeniatus-group.&lt;/i&gt; It is morphologically most similar to &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;schubotzi&lt;/i&gt; but differs in the lack of sexual sizedimorphism, smaller-sized females, smoother, less angular canthus rostrales, smaller scales on the temporal region and abright orange gular crest in males. Mitochondrial DNA indicates that the proposed new taxon is a distinct lineage that isclosely related to &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nyirit&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;schubotzi.&lt;/i&gt; The distribution of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;kinangopensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; appears to be restricted to the afroalpine zone in vicintiy of Kinangop Peak and fires may pose a serious threat to the long-term survival of this species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">endemism; East Africa; phylogenetics; rift vally; species diversity; systematics</subject>
+          <subject_class locale="en_US">endemism</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Stipala</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicola</firstname>
+          <lastname>Lutzmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <middlename>K.</middlename>
+          <lastname>Malonza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>Wilkinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brendan</firstname>
+          <lastname>Godley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joash</firstname>
+          <lastname>Nyamache</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>R.</middlename>
+          <lastname>Evans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On a new cypridopsine genus (Crustacea, Ostracoda, Cyprididae) from the Upper Paraná River Floodplain (Brazil)</title>
+        <abstract locale="en_US">We describe a new genus, &lt;i&gt;Cabelodopsis&lt;/i&gt; n. gen., for the South American ostracod species &lt;i&gt;Cypridopsella&lt;/i&gt; &lt;i&gt;hispida&lt;/i&gt; Sars, 1901.&lt;i&gt;Zonocypris&lt;/i&gt; G.W. Müller, 1898 and &lt;i&gt;Cabelodopsis&lt;/i&gt; n. gen. are together united in the new tribe Zonocypridini n. trib., which ischaracterised primarily by a large claw on the female antenna. &lt;i&gt;Cabelodopsis&lt;/i&gt; n. gen. differs from &lt;i&gt;Zonocypris&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; (withornamented carapaces) in the general appearance of the carapace and of the valve ornamentation, as well as in the structure of the hinge. Some notes on taxonomy and distribution of the new genus and of the new tribe are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cypridopsinae; pleuston; parthenogenesis; &lt;i&gt;Zonocypris&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Cypridopsinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Janet</firstname>
+          <lastname>Higuti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Koen</firstname>
+          <lastname>Martens</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-38</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cyanocharax obi&lt;/i&gt;, a new species (Characiformes: Characidae) and the first record of the genus from tributaries of the río Paraná basin, Argentina</title>
+        <abstract locale="en_US">&lt;i&gt;Cyanocharax&lt;/i&gt; &lt;i&gt;obi&lt;/i&gt; is described from tributaries of the arroyo Paranay–Guazú, río Paraná basin, Misiones province, Argen-tina. This new species can be distinguished from its congeneres by the following combination of characters: lateral lineinterrupted or with alternated series of perforated and non perforated scales, 22–24 branched anal-fin rays, body depth atdorsal-fin origin (34.5–40.8% SL), and distal border of anal fin in matures males nearly straight. Validity of the new spe-cies is also well supported by a molecular phylogenetic analysis (COI, 12S, 16S). &lt;i&gt;Cyanocharax&lt;/i&gt; &lt;i&gt;obi&lt;/i&gt; represents the first record of the genus in the río Paraná basin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">freshwater fishes; taxonomy; Misiones province; arroyo Paranay–Guazú</subject>
+          <subject_class locale="en_US">freshwater fishes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jorge</firstname>
+          <lastname>Casciotta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriana</firstname>
+          <lastname>Almirón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lubomír</firstname>
+          <lastname>Piálek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oldřich</firstname>
+          <lastname>Říčan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-51</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">An African glass frog: A new &lt;i&gt;Hyperolius &lt;/i&gt;species (Anura: Hyperoliidae) from Nyungwe National Park, southern Rwanda</title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Hyperolius&lt;/i&gt; is described from Nyungwe National Park in southern Rwanda. The new species differs fromits congeners by a unique combination of morphological characters, including a light green dorsum and a transparentventral skin resembling glass frogs of the Neotropical family Centrolenidae, blue-coloured bones, reduced toe webbing,relatively wide head, acuminate snout, small to medium size (SUL of adult males 18.8–23.2 mm), and the presence ofnuptial pads. The advertisement call differs from all calls of other species of the genus that have been analyzed.Comparison of the mitochondrial 16S rRNA gene showed a relatively close relationship to &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;castaneus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;cystocandicans,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;discodactylus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;frontalis,&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;lateralis.&lt;/i&gt; The 16S sequence of the new species differs by at least 4.5% in the uncorrected p-distance from all available sequences of other species of the genus.Ubwoko bushya bwa &lt;i&gt;Hyperolius&lt;/i&gt; buboneka muri parike nasiynali ya Nyungwe mu majyepfo yu Rwanda. Ubu bwokobushya butandukaniye na bugenzi bwabwo gusa kurusobe rw’miterere yabwo, harimo dorsum ifite ibara ry’cyatsi cyeru-rutse n’ruhu rubonerana rwo kunda, amagufwa afite ibara ry’bururu, n’tunodufatanijwe n’gahu, umutwe wenda kubamunini, umunwa uurungushuye, umubyimba uri hagati ya 18,8 mm kugera kuri 23,3 mm ku ngabo nkuru, ikagira n’mag-aragamba ku ruhu. Kuzitangaza kwazo byagiye bitandukana n’matangazo yabaye kubundi bwoko bwazo. Ugereanijen’miterere yazo idahinduka (mitochondrial 16S rRNA gene) niyizindi usanga bifitanye isano ya bugufi na &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;castaneus,&lt;/i&gt;&lt;i&gt;H.cystocandicans,&lt;/i&gt; &lt;i&gt;H.discodactylus,&lt;/i&gt; &lt;i&gt;H.frontalis&lt;/i&gt; na &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;lateralis.&lt;/i&gt; Urukurikirane rwa 16S y’bu bwoko bushya rutandukanye kuri 4,5% ugereranije n’nkurikirana zabaye z’bundi bwoko busa n’bu.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hyperolius&lt;/i&gt; &lt;i&gt;jackie&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Albertine Rift; endemism; advertisement call; species barcoding; Amphibia.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hyperolius&lt;/i&gt; &lt;i&gt;jackie&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; Albertine Rift</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>Maximilian</middlename>
+          <lastname>Dehling</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-64</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

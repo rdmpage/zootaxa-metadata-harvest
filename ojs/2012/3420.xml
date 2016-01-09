@@ -1,3 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3420.1</id>
+    <title locale="en_US">13 Aug. 2012</title>
+    <volume>3420</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Contribution to the knowledge of Chinese &lt;i&gt;Epilachna &lt;/i&gt;Chevrolat with descriptions of new species (Coleoptera: Coccinellidae: Epilachnini)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hong</firstname>
+          <lastname>Pang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adam</firstname>
+          <lastname>Ślipiński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yaping</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yongsheng</firstname>
+          <lastname>Zuo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2012-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the spider genus &lt;i&gt;Pomboa &lt;/i&gt;Huber (Araneae: Pholcidae) from Colombia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alejandro</firstname>
+          <lastname>Valdez-Mondragón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-40</pages>
+        <date_published>2012-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic study of Chinese species of the genus &lt;i&gt;Macropsis&lt;/i&gt; (Hemiptera: Cicadellidae: Macropsinae): new species, new records, synonymy and replacement name</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ren-Huai</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Zhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dmitri</firstname>
+          <middlename>Yu.</middlename>
+          <lastname>Tishechkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-62</pages>
+        <date_published>2012-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Catocala &lt;/i&gt;Schrank, 1802 (Lepidoptera, Erebidae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aidas</firstname>
+          <lastname>Saldaitis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Povilas</firstname>
+          <lastname>Ivinskis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <lastname>Floriani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>János</firstname>
+          <lastname>Babics</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-08-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

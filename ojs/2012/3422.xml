@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3422.1</id>
+    <title locale="en_US">14 Aug. 2012</title>
+    <volume>3422</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A phylogeny for &lt;i&gt;Aromobates &lt;/i&gt;(Anura: Dendrobatidae) with description of three new species from the Andes of Venezuela, taxonomic comments on &lt;i&gt;Aromobates&lt;/i&gt; &lt;i&gt;saltuensis&lt;/i&gt;, &lt;i&gt;A. inflexus, &lt;/i&gt;and notes on the conservation status of the genus</title>
+        <abstract locale="en_US">&lt;i&gt;Aromobates&lt;/i&gt; is a genus endemic to the northern Andes of Colombia and Venezuela. Limited information is available aboutthis genus diversity, current distribution, and taxonomic characterization. Here, we describe three new species of &lt;i&gt;Aromo-&lt;/i&gt;&lt;i&gt;bates&lt;/i&gt; from the Andes of Venezuela. We provide the most comprehensive phylogeny of &lt;i&gt;Aromobates&lt;/i&gt; to date and taxonomicnotes on &lt;i&gt;Aromobates&lt;/i&gt; &lt;i&gt;saltuensis&lt;/i&gt; Rivero and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;inflexus&lt;/i&gt; Rivero. We also discuss the limitations of the current molecularand morphological diagnosis of &lt;i&gt;Aromobates.&lt;/i&gt; Finally, we comment on the conservation status and research priorities for this genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dendrobatidae; &lt;i&gt;Aromobates&lt;/i&gt;; &lt;i&gt;Aromobates&lt;/i&gt; &lt;i&gt;saltuensis&lt;/i&gt;; &lt;i&gt;Aromobates&lt;/i&gt; &lt;i&gt;inflexus&lt;/i&gt;; phylogeny; taxonomy; conservation</subject>
+          <subject_class locale="en_US">Dendrobatidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>César</firstname>
+          <middlename>Luis</middlename>
+          <lastname>Barrio-Amorós</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>Carlos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-08-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of Chilean Hexathelidae (Araneae, Mygalomorphae)</title>
+        <abstract locale="en_US">Several new species of Hexathelidae Simon (1892) from Chile are described. In &lt;i&gt;Scotinoecus&lt;/i&gt; Simon (1892), a new species(S. &lt;i&gt;ruiles)&lt;/i&gt; is described using females; a new species (S. &lt;i&gt;major)&lt;/i&gt; is proposed for the male previously misidentified as &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;cinereopilosus&lt;/i&gt; (Simon, 1889), and females are described; the male of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cinereopilosus&lt;/i&gt; is described for the first time. In&lt;i&gt;Mediothele,&lt;/i&gt; the female of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; is described for the first time, as well as five new species (M. &lt;i&gt;minima,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;linares,&lt;/i&gt;&lt;i&gt;M.&lt;/i&gt; &lt;i&gt;nahuelbuta,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;anae&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;lagos);&lt;/i&gt; all are based solely on females from Southern and Central Chile. The known geographic distributions of both genera are increased.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hexathelidae; &lt;i&gt;Mediothele&lt;/i&gt;; &lt;i&gt;Scotinoecus&lt;/i&gt;; taxonomy; new species; Chile</subject>
+          <subject_class locale="en_US">Hexathelidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>T.</firstname>
+          <middlename>Duniesky Rios</middlename>
+          <lastname>T.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Goloboff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-51</pages>
+        <date_published>2012-08-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Euphyllia baliensis &lt;/i&gt;sp. nov. (Cnidaria: Anthozoa: Scleractinia: Euphylliidae): a new species of reef coral from Indonesia</title>
+        <abstract locale="en_US">&lt;i&gt;Euphyllia&lt;/i&gt; &lt;i&gt;baliensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hexacorallia: Scleractinia: Euphylliidae) is described from 10 specimens from Bali, Indone-sia. This species forms phaceloid colonies, and is distinguished morphologically from others in its genus by its compara-tively very small corallites (averaging 3 mm diameter) and much shorter, thinner, lightly calcified branches. It also exhibitsan unusual pattern for Hexacorallia in having four or eight primary and secondary septa. Living corals typically havefleshy polyps extended during the day. Tentacles are ‘anchor’, ‘kidney’ or ‘hammer’ shaped at their tips, occasionally withadditional smaller bulbous protuberances, the latter resembling ‘mittens’ or ‘gloves’. Tentacles are dull to dark reddish-brown with lime green bases and cream tips, becoming bluish on retraction. Type specimens were collected from 27-37 m depth off the central eastern coast of Bali, Indonesia. To date the species has not been reported from any other locality.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biodiversity; coral systematics; coral reefs; Indo-Pacific; Coral Triangle</subject>
+          <subject_class locale="en_US">Biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Emre</firstname>
+          <lastname>Turak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lyndon</firstname>
+          <lastname>Devantier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <lastname>Erdmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-61</pages>
+        <date_published>2012-08-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Trichodina heterodentata &lt;/i&gt;(Ciliophora: Trichodinidae): a new parasite for &lt;i&gt;Piaractus mesopotamicus &lt;/i&gt;(Pisces: Characidae)</title>
+        <abstract locale="en_US">Trichodinids are mobile peritrichous ciliated protozoa, and widely known as ectocommensals and/or parasites of fish andother aquatic organisms. Little is known about the trichodinid fauna in Brazilian fish. This study reports &lt;i&gt;Trichodina&lt;/i&gt; &lt;i&gt;het-&lt;/i&gt;&lt;i&gt;erodentata&lt;/i&gt; Duncan, 1977 as a new parasite for freshwater fish &lt;i&gt;Piaractus&lt;/i&gt; &lt;i&gt;mesopotamicus&lt;/i&gt; Holmberg, 1887. This is the firstrecord of this trichodinid in southeastern Brazil. Fifty specimens impregnated with 2% silver nitrate and another fiftystained with Giemsa were used for morphometry on the taxonomic characteristics. &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;heterodentata&lt;/i&gt; in this study is medi-um size, with a disc-shaped body measuring 49.0 to 61.0 µm, parasitizing the skin, fins and gills of pacu. Measurement comparisons between the present material and other records from different countries are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trichodinids; fish ectoparasite; aquaculture health</subject>
+          <subject_class locale="en_US">Trichodinids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Santiago</firstname>
+          <middlename>Benites</middlename>
+          <lastname>De Pádua</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maurício</firstname>
+          <middlename>Laterça</middlename>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Silvia</firstname>
+          <middlename>Patrícia</middlename>
+          <lastname>Carraschi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudinei</firstname>
+          <lastname>Da Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Márcia</firstname>
+          <middlename>Mayumi</middlename>
+          <lastname>Ishikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-08-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

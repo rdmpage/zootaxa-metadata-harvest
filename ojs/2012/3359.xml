@@ -1,3 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3359.1</id>
+    <title locale="en_US">28 Jun. 2012</title>
+    <volume>3359</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Notes on the spider genus &lt;i&gt;Lathys &lt;/i&gt;Simon, 1884 (Araneae: Dictynidae), with description of four new species from China</title>
+        <abstract locale="en_US">Four &lt;i&gt;Lathys&lt;/i&gt; species of the family Dictynidae have been previously recorded from China. Our study showed that they wereeither wrongly placed or misidentified. In this paper, four new &lt;i&gt;Lathys&lt;/i&gt; species are described: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;borealis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female),&lt;i&gt;L.&lt;/i&gt; &lt;i&gt;spiralis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female) &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;subalberta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female) and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;subhumilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female). Photos of the North American species &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;alberta&lt;/i&gt; Gertsch, 1946 are provided for comparison purposes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Misidentification; distribution; taxonomy</subject>
+          <subject_class locale="en_US">Misidentification</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhi-Sheng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong-Sheng</firstname>
+          <lastname>Hu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yao-Guang</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Rediscovery of the Sri Lankan ‘house gecko’ &lt;i&gt;Hemidactylus pieresii &lt;/i&gt;Kelaart (Reptilia: Gekkonidae) with a redescription of &lt;i&gt;Hemidactylus depressus &lt;/i&gt;Gray</title>
+        <abstract locale="en_US">&lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;pieresii&lt;/i&gt; Kelaart, a species first described from Kandy, Sri Lanka, in 1852 but not recorded since, is redescribedfrom two recently-discovered populations, one at the type locality and another in the rainforests of the island’s south-westernlowlands. It is shown to be similar to &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; (in the synonymy of which it has been since 1935), from which it is distin-guished by the possession of 53–58 (vs. 35–41) paravertebral tubercles, 17–19 (vs. 13–16) longitudinal rows of middorsaltubercles, possessing relatively small (vs. large) and closely (vs. widely) spaced middorsal tubercles, 1–3 (vs. no) postcloacalspurs, chocolate-brown (vs. light brown) coloration in life, and nape with distinct black longitudinal stripes (vs. without blackstripes). &lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;pieresii,&lt;/i&gt; a member of the &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;brooki&lt;/i&gt; group, is distinguished from all species of &lt;i&gt;Hemidactylus&lt;/i&gt; in Sri Lankaand peninsular India by the combination of the following additional characters: maximum snout-vent length 79.2 mm; ventralscales across midbody, 32–39; dorsal scales heterogeneous; ventral scales smooth, with 3 serrae; precloacal-femoral pores17–20 on each side, separated mesially by 1–3 poreless scales; subcaudals smooth, the median row enlarged; supralabials toangle of jaws, 11 or 12; subdigital lamellae on digit IV of pes, 10 or 11; general body colour chocolate-brown; nape with dis-tinct black longitudinal stripes. The identity of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pieresii&lt;/i&gt; is stabilized through the designation of a neotype. Unlike most otherspecies of &lt;i&gt;Hemidactylus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pieresii&lt;/i&gt; appears to be restricted to rainforests. &lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;depressus&lt;/i&gt; is also redecribed from freshly collected material from Sri Lanka and its syntype BMNH RR1962.190 (65.6 mm SVL) is designated lectotype.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; cryptic species; &lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;argentii&lt;/i&gt;; taxonomy; Sri Lanka</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sudesh</firstname>
+          <lastname>Batuwita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rohan</firstname>
+          <lastname>Pethiyagoda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-30</pages>
+        <date_published>2012-06-28</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ultra-small RFID p-Chips on the heads of entomological pins provide an automatic and durable means to track and label insect specimens</title>
+        <abstract locale="en_US">A new, ultra-small, light-activated microtransponder ("p-Chip") has been integrated into the heads of entomological pins toimprove efficiency in collections management and research through radio frequency identification (RFID) of insect specimens.These specimens are typically small, fragile, numerous and especially difficult to track. Globally, the majority are not currentlyrecorded in any database. The application of unique identifiers has previously proven time consuming and difficult. Permanentand integral to the specimen, each p-Chip transmits a unique serial number allowing tracking without contact and reducing therisk of damage to specimens and repetitive strain injuries (RSI) in curators. The p-Chips and the specimens they tag can belinked immediately to biodiversity web services and collections databases. Specimens can be rapidly assigned to groupings asthey are sorted and their taxonomic identity refined; and accurately tracked through high throughput methods and analyses.Quite importantly, with the p-Chips, the profile of the pin head is unchanged, and there is no discernible tactile difference fromstandard entomological pins. We also describe how p-Chips can be retro-fitted to provide complete compendia of legacy samples.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Automation; management; collections; barcode; tracking; label; taxonomy; radio frequency identification</subject>
+          <subject_class locale="en_US">Automation</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Jolley-Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Yeates</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Croft</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cawsey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>Suter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <lastname>Webb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <middlename>G.</middlename>
+          <lastname>Morris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Z.</firstname>
+          <lastname>Qian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <lastname>Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>W.</firstname>
+          <lastname>Mandecki</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-42</pages>
+        <date_published>2012-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Brachyura (Crustacea: Decapoda) described by Sidney Irving Smith: checklist, dates of publication and bibliography, with a discussion on &lt;i&gt;Xantho&lt;/i&gt; &lt;i&gt;stimpsoni &lt;/i&gt;A. Milne-Edwards, 1879, and &lt;i&gt;X. stimpsonii &lt;/i&gt;Smith, 1869</title>
+        <abstract locale="en_US">American carcinologist Sidney Irving Smith (1843–1926) established names of one family, seven genera and 50 species ofbrachyuran crustaceans in 11 publications between 1869 and 1885. The precise dates of these publications as determined fromvarious sources are given, with particular emphasis on the relative precedence of four that appeared in 1869. A complete list ofthe brachyuran names proposed by Smith, and their current identities, is also given. &lt;i&gt;Xantho&lt;/i&gt; &lt;i&gt;stimpsonii&lt;/i&gt; Smith, 1869, a previ-ously overlooked replacement name for &lt;i&gt;Xantho&lt;/i&gt; &lt;i&gt;denticulatus&lt;/i&gt; Stimpson, 1860 (non White, 1848), is an objective synonym of&lt;i&gt;Williamstimpsonia&lt;/i&gt; &lt;i&gt;stimpsoni&lt;/i&gt; (A. Milne-Edwards, 1873), and the precedence of the two names is reversed to maintain prevail-ing usage of the latter. The same action is also taken for &lt;i&gt;Xantho&lt;/i&gt; &lt;i&gt;multidentatus&lt;/i&gt; Lockington, 1877, a subjective synonym of &lt;i&gt;Wil-&lt;/i&gt;&lt;i&gt;liamstimpsonia&lt;/i&gt; &lt;i&gt;stimpsoni&lt;/i&gt; (A. Milne-Edwards, 1879). The authorship of the following names previously attributed to attributedto Smith in a publication by Verrill (1869) should be attributed only to the latter author: &lt;i&gt;Hepatella&lt;/i&gt; &lt;i&gt;amica&lt;/i&gt; (Aethridae), &lt;i&gt;Hypocon-&lt;/i&gt;&lt;i&gt;cha&lt;/i&gt; &lt;i&gt;panamensis&lt;/i&gt; (Dromiidae) and &lt;i&gt;Pinnotheres&lt;/i&gt; &lt;i&gt;margarita&lt;/i&gt; (Pinnotheridae). Authorship of the name &lt;i&gt;Cardiosoma,&lt;/i&gt; an unjustifiedemendation of &lt;i&gt;Cardisoma&lt;/i&gt; (Gecarcinidae), is conventionally attributed to Smith (1869) but it was actually first used by Agassiz (1846). &lt;i&gt;Cardisoma&lt;/i&gt; is attributed to Latreille, &lt;i&gt;in&lt;/i&gt; Latreille, Le Peletier, Serville &amp; Guérin, 1828.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sidney Irving Smith; Brachyura; date of publication; priority; replacement name; objective synonym; reversal of precedence; Article 23.9; ICZN</subject>
+          <subject_class locale="en_US">Sidney Irving Smith</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2012-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Peltephilidae (Mammalia: Xenarthra: Cingulata) from the late Miocene (Chasicoan SALMA) of Argentina</title>
+        <abstract locale="en_US">A new species of Peltephilidae (Mammalia, Xenarthra, Cingulata) (early Eocene–late Miocene) is described here. Thenew taxon is based on three specimens collected from the margins of Arroyo Chasicó, Buenos Aires Province, (Argenti-na), which correspond to the Arroyo Chasicó Formation (late Miocene, Chasicoan SALMA). The new species is charac-terized by osteoderms with a very rough exposed surface showing high longitudinal and well developed crests (two lateraland one central) with deep and ample valleys among them. The new taxon is the only “relictual” xenarthran cingulate ofthe Santacrucian Age (late early Miocene) to be registered for the last time in the Chasicoan SALMA (late Miocene), and represents the youngest record of the family Peltephilidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Xenarthra; Peltephilidae; Miocene; Chasicoan SALMA; Argentina</subject>
+          <subject_class locale="en_US">Xenarthra</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laureano</firstname>
+          <middlename>R.</middlename>
+          <lastname>González-Ruiz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>J.</middlename>
+          <lastname>Scillato-Yané</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cecilia</firstname>
+          <middlename>M.</middlename>
+          <lastname>Krmpotic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfredo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Carlini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2012-06-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">“Taxonomic certification versus the scientific method”: a rebuttal of Rogers (2012)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <lastname>Stribling</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernard</firstname>
+          <lastname>Sweeney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <lastname>Morse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gail</firstname>
+          <lastname>Corkum</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gary</firstname>
+          <lastname>Lester</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Scott</firstname>
+          <lastname>Miller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <lastname>Mitchell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Barry</firstname>
+          <lastname>Poulton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephanie</firstname>
+          <lastname>Strachan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <lastname>Wetzel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-06-28</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3520.1</id>
+    <title locale="en_US">18 Oct. 2012</title>
+    <volume>3520</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A phylogeny and taxonomy of the Thai-Malay Peninsula Bent-toed Geckos of the &lt;i&gt;Cyrtodactylus pulchellus &lt;/i&gt;complex (Squamata: Gekkonidae): combined morphological and molecular analyses with descriptions of seven new species </title>
+        <abstract locale="en_US">An integrative taxonomic analysis using color pattern, morphology and 1497 base pairs of the ND2 mitochondrial geneand its five flanking tRNAs demonstrated that nine monophyletic species-level lineages occur within the &lt;i&gt;Cyrtodactylus&lt;/i&gt;&lt;i&gt;pulchellus&lt;/i&gt; complex (Cyrtodactylus &lt;i&gt;pulchellus&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;strictu&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;macrotuberculatus)&lt;/i&gt; of the Thai-Malay Peninsula thathave a sequence divergence between them ranging from 5.9–16.8%. Additionally, each lineage is discretely diagnosablefrom one another based on morphology and color pattern and most occur in specific geographic regions (upland areas orislands) that prevent or greatly restrict interpopulation gene flow. Six of these lineages were masquerading under thenomen &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pulchellus&lt;/i&gt; and are described as the following: &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;astrum&lt;/i&gt; sp. nov. from northwestern PeninsularMalaysia and southwestern Thailand; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;langkawiensis&lt;/i&gt; sp. nov., at this point endemic to Langkawi Island, Malaysia; &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;bintangrendah&lt;/i&gt; sp. nov., a lowland species surrounding the Banjaran (=mountain range) Bintang of northwesternPeninsular Malaysia; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bintangtinggi&lt;/i&gt; sp. nov., endemic to the upland regions of the Banjaran Bintang of northwesternPeninsular Malaysia; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;trilatofasciatus&lt;/i&gt; sp. nov., endemic to upland regions of Cameron Highlands in the central portionof the Banjaran Titiwangsa in Peninsular Malaysia; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;australotitiwangsaensis&lt;/i&gt; sp. nov. from the more southerlyupland regions of the Banjaran Titiwangsa. An additional species, &lt;i&gt;Cyrtodactylus&lt;/i&gt; &lt;i&gt;lekaguli&lt;/i&gt; sp. nov. from Satun, Trang, SuratThani, and Phang-nga provinces in southern Thailand, was identified on the basis of morphology and color pattern and is hypothesized to be part of a clade containing &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;astrum&lt;/i&gt; sp. nov. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;langkawiensis&lt;/i&gt; sp. nov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Phylogeny; &lt;i&gt;Cyrtodactylus&lt;/i&gt;; Gekkonidae; Malaysia; Thailand; Molecular systematics; New species</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Perry</firstname>
+          <middlename>L.</middlename>
+          <lastname>Wood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Evan</firstname>
+          <middlename>S. H.</middlename>
+          <lastname>Quah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shahrul</firstname>
+          <lastname>Anuar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohd.</firstname>
+          <middlename>Abdul</middlename>
+          <lastname>Muin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Montri</firstname>
+          <lastname>Sumontha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norhayati</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aaron</firstname>
+          <middlename>M.</middlename>
+          <lastname>Bauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sansareeya</firstname>
+          <lastname>Wangkulangkul</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesse</firstname>
+          <middlename>L.</middlename>
+          <lastname>Grismer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olivier</firstname>
+          <middlename>S. G.</middlename>
+          <lastname>Pauwels</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-55</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Heterodispus cordidiscus &lt;/i&gt;n. sp., a new soil mite from Egypt, and remarks on the nominal species &lt;i&gt;H. elongatus &lt;/i&gt;Trägårdh, 1905 (Acari: Heterostigmatina: Scutacaridae) </title>
+        <abstract locale="en_US">The description of a new Egyptian soil inhabiting scutacarid species, &lt;i&gt;Heterodispus&lt;/i&gt; &lt;i&gt;cordidiscus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Acari, Heterostig-matina), including female, male and larva, is given. It is the first description of male and larva within the genus &lt;i&gt;Hetero-&lt;/i&gt;&lt;i&gt;dispus&lt;/i&gt; Paoli, 1911. The redescription of the nominal species &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;elongatus&lt;/i&gt; Trägårdh, 1905 by Paoli (1911) has beenerroneous and we now show that the redescription made by Mahunka (1963) does not describe &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;elongatus,&lt;/i&gt; either. Theincorrectly interpreted species is hereby provided with the new name &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pannonicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;nom..&lt;/b&gt; A corrigendum for the setal formula of leg I of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;foveatus&lt;/i&gt; Jagersbacher-Baumann and Ebermann, 2012 is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Scutacaridae; male and larva; &lt;i&gt;Heterodispus&lt;/i&gt; &lt;i&gt;cordidiscus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp,.&lt;/b&gt; &lt;i&gt;Heterodispus&lt;/i&gt; &lt;i&gt;pannonicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;nom.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julia</firstname>
+          <lastname>Jagersbacher-Baumann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ernst</firstname>
+          <lastname>Ebermann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-70</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Inshore apseudomorph tanaidaceans (Crustacea: Peracarida) from Brunei: new records and new species </title>
+        <abstract locale="en_US">Five species of apseudomorph tanaidaceans were distinguished in recent samples from inshore waters off Brunei. Two ofthese, &lt;i&gt;Phoxokalliapseudes&lt;/i&gt; &lt;i&gt;gobinae&lt;/i&gt; and &lt;i&gt;Mendamanus&lt;/i&gt; &lt;i&gt;ailurostoma,&lt;/i&gt; were known only from Brunei waters, while&lt;i&gt;Pagurapseudopsis&lt;/i&gt; &lt;i&gt;gracilipes&lt;/i&gt; was known before only from Vietnam waters. The opportunity is taken to describe thefemale cheliped of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spinipes,&lt;/i&gt; highlighting the previously unknown sexual dimorphism. For all three of these species, thepresent material represents only the second record. The two further species were new to science, and are described herein.One is in the apseudid genus &lt;i&gt;Apseudopsis,&lt;/i&gt; and characterized by unusual apophyses on the uropod basis, while the other represents a new parapseudid genus, showing affinities to &lt;i&gt;Pakistanapseudes&lt;/i&gt; and &lt;i&gt;Saltipedis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brunei; South China Sea; Tanaidacea; &lt;i&gt;Aponychos&lt;/i&gt;; &lt;i&gt;Apseudopsis&lt;/i&gt;; &lt;i&gt;Mendamanus&lt;/i&gt;; &lt;i&gt;Pagurapseudopsis&lt;/i&gt;; &lt;i&gt;Phoxokalliapseudes&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Brunei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roger</firstname>
+          <middlename>N</middlename>
+          <lastname>Bamber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tapas</firstname>
+          <lastname>Chatterjee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>J</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>71-88</pages>
+        <date_published>2012-10-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

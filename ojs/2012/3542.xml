@@ -1,3 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3542.1</id>
+    <title locale="en_US">7 Nov. 2012</title>
+    <volume>3542</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Sponge biodiversity of South Georgia island with descriptions of fifteen new species </title>
+        <abstract locale="en_US">Sponge samples were taken by SCUBA diving from sixteen sites on the north coast of South Georgia island, south westSouthern Ocean. Fifteen new species are described: &lt;i&gt;Iophon&lt;/i&gt; &lt;i&gt;husvikensis&lt;/i&gt; sp. nov., &lt;i&gt;Clathria&lt;/i&gt; &lt;i&gt;(Clathria)&lt;/i&gt; &lt;i&gt;stromnessa&lt;/i&gt; sp.nov., &lt;i&gt;Clathria&lt;/i&gt; &lt;i&gt;(Axosuberites)&lt;/i&gt; &lt;i&gt;rosita&lt;/i&gt; sp. nov., &lt;i&gt;Clathria&lt;/i&gt; &lt;i&gt;(Microciona)&lt;/i&gt; &lt;i&gt;matthewsi&lt;/i&gt; sp. nov., &lt;i&gt;Lissodendoryx&lt;/i&gt; &lt;i&gt;(Ectyodoryx)&lt;/i&gt;&lt;i&gt;collinsi&lt;/i&gt; sp. nov., &lt;i&gt;Hymedesmia&lt;/i&gt; &lt;i&gt;(Hymedesmia)&lt;/i&gt; &lt;i&gt;barnesi&lt;/i&gt; sp. nov., &lt;i&gt;Hymedesmia&lt;/i&gt; &lt;i&gt;(Stylopus)&lt;/i&gt; &lt;i&gt;pharos&lt;/i&gt; sp. nov., &lt;i&gt;Myxilla&lt;/i&gt;&lt;i&gt;(Burtoanchora)&lt;/i&gt; &lt;i&gt;ponceti&lt;/i&gt; sp. nov., &lt;i&gt;Tedania&lt;/i&gt; &lt;i&gt;(Tedaniopsis)&lt;/i&gt; &lt;i&gt;aurantiaca&lt;/i&gt; sp. nov., &lt;i&gt;Tedania&lt;/i&gt; &lt;i&gt;(Tedaniopsis)&lt;/i&gt; &lt;i&gt;wellsae&lt;/i&gt; sp. nov.,&lt;i&gt;Mycale&lt;/i&gt; &lt;i&gt;(Mycale)&lt;/i&gt; &lt;i&gt;brownorum&lt;/i&gt; sp. nov., &lt;i&gt;Mycale&lt;/i&gt; &lt;i&gt;(Mycale)&lt;/i&gt; &lt;i&gt;cartwrighti&lt;/i&gt; sp. nov., &lt;i&gt;Haliclona&lt;/i&gt; &lt;i&gt;(Soestella)&lt;/i&gt; &lt;i&gt;crowtheri&lt;/i&gt; sp. nov.,&lt;i&gt;Microxina&lt;/i&gt; &lt;i&gt;myxa&lt;/i&gt; sp. nov. and &lt;i&gt;Calyx&lt;/i&gt; &lt;i&gt;shackletoni&lt;/i&gt; sp. nov. Information is also provided on the distribution and &lt;i&gt;in&lt;/i&gt; &lt;i&gt;situ&lt;/i&gt;external appearance of other sponge species such as &lt;i&gt;Cinachyra&lt;/i&gt; &lt;i&gt;barbata&lt;/i&gt; Sollas 1886, &lt;i&gt;Polymastia&lt;/i&gt; &lt;i&gt;invaginata&lt;/i&gt; Kirkpatrick1907, &lt;i&gt;Iophon&lt;/i&gt; &lt;i&gt;unicorne&lt;/i&gt; Topsent 1907, &lt;i&gt;Phorbas&lt;/i&gt; &lt;i&gt;glaberrimus&lt;/i&gt; (Topsent 1917), &lt;i&gt;Myxilla&lt;/i&gt; &lt;i&gt;(Ectyomyxilla)&lt;/i&gt; &lt;i&gt;kerguelensis&lt;/i&gt;(Hentschel 1914) and &lt;i&gt;Rossella&lt;/i&gt; &lt;i&gt;nuda&lt;/i&gt; Topsent 1901. These results increase the previously reported low spongeendemicity in South Georgia, which now better aligns with the high endemicity of other groups. However, because wesampled areas that have been poorly sampled in the Southern Ocean / Antarctic region (shallow subtidal, rocky), manyof these species may have wider polar distributions. The effect of the Polar Front as a dispersal barrier to neighbouring biogeographic regions is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">sponge; South Georgia; Antarctic; Southern Ocean; biogeography; SCUBA diving; taxonomy; endemic</subject>
+          <subject_class locale="en_US">sponge</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claire</firstname>
+          <lastname>Goodwin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>E</middlename>
+          <lastname>Brewin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <lastname>Brickle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-48</pages>
+        <date_published>2012-11-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Branchiosyllis &lt;/i&gt;Ehlers, 1887 from Philippines Islands, with the description of two new species </title>
+        <abstract locale="en_US">The species of &lt;i&gt;Branchiosyllis&lt;/i&gt; from Philippines Islands, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculata,&lt;/i&gt; &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; new comb. and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;exilis,&lt;/i&gt; have been re-viewed, with particular emphasis on the study of worldwide material of the latter. In addition, &lt;i&gt;Branchiosyllis&lt;/i&gt; &lt;i&gt;mayae&lt;/i&gt; and&lt;i&gt;Branchiosyllis&lt;/i&gt; &lt;i&gt;tagalog&lt;/i&gt; are described as new species. The former is characterized by its bidentate claw-shaped chaetae,unique in the genus, short dorsal cirri, and orange body with black stripes on prostomium (less pigmented), peristomiun,and anterior four to seven segments (more pigmented at bases of cirrophores). The latter is characterized by presence ofonly two claw-shaped chaetae per parapodium, ventral one larger than dorsal one, spindle-shaped tentacular cirri and dor-sal cirri with small pores and papillae, peristomium not visible dorsally and strongly dorsoventrally flattened body, pig-mented with dark central spot surrounded by two horizontal wide bands and faint coloured circles on each parapodia. A comparative table of all the species of the genus is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Branchiosyllis&lt;/i&gt;; Syllidae; new species; taxonomy; species-complex</subject>
+          <subject_class locale="en_US">&lt;i&gt;Branchiosyllis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patricia</firstname>
+          <lastname>Álvarez-Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>San Martín</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>Teresa</middlename>
+          <lastname>Aguado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-68</pages>
+        <date_published>2012-11-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Remarks on the deep-sea genus &lt;i&gt;Pseudolamprops &lt;/i&gt;(Cumacea: Lampropidae) </title>
+        <abstract locale="en_US">Based on two specimens collected in the Antarctic deep-sea (4928 m) the adult female and male of the genus&lt;i&gt;Pseudolamprops&lt;/i&gt; Gamô, 1989 are described for the first time. A new combination is proposed, &lt;i&gt;Pseudolamprops&lt;/i&gt; &lt;i&gt;profundus&lt;/i&gt;(Reyss, 1978) comb. nov., and several new records from the North Atlantic and Antarctica are provided. The diagnosis of &lt;i&gt;Pseudolamprops&lt;/i&gt; is revised on the account of the new material available.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudolamprops&lt;/i&gt;; diagnosis (emended); &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;profundus&lt;/i&gt;; new records; Atlantic</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudolamprops&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <lastname>Roccatagliata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ute</firstname>
+          <lastname>Mühlenhardt-Siegel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-79</pages>
+        <date_published>2012-11-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Polynoidae (Annelida, Polychaeta) from Pine Island Bay, Amundsen Sea, Southern Ocean—a region of high taxonomic novelty </title>
+        <abstract locale="en_US">We describe a new genus and species of polychaete worm (Polynoidae, Macellicephalinae) from a previously unsampled areaof the Southern Ocean, Pine Island Bay in the Amundsen Sea. &lt;i&gt;Austropolaria&lt;/i&gt; n. gen. is differentiated from other genera in thesubfamily Macellicephalinae by a combination of morphological characters such as the number of pharyngeal papillae, bodysegments, elytra, and position of ventral cirrus. The type species of this genus, &lt;i&gt;Austropolaria&lt;/i&gt; &lt;i&gt;magnicirrata&lt;/i&gt; n. sp., is described based on morphological characters, supplemented by molecular data.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Polynoidae; Macellicephalinae; &lt;i&gt;Austropolaria&lt;/i&gt; &lt;i&gt;magnicirrata&lt;/i&gt; n. gen. n. sp.; Amundsen Sea; taxonomy; DNA 16S 18S</subject>
+          <subject_class locale="en_US">Polynoidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Barnich</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wiklund</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>H.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Glover</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>G.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>80-88</pages>
+        <date_published>2012-11-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

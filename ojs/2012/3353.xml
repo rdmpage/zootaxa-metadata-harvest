@@ -1,3 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3353.1</id>
+    <title locale="en_US">21 Jun. 2012</title>
+    <volume>3353</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Spider wasps (Hymenoptera: Pompilidae) of the Dominican Republic</title>
+        <abstract locale="en_US">We recorded 33 species in 19 genera of spider wasps from the Dominican Republic, of which four species are newlydescribed here: &lt;i&gt;Auplopus&lt;/i&gt; &lt;i&gt;charlesi&lt;/i&gt; Waichert &amp; Pitts, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Dipogon&lt;/i&gt; (Deuteragenia) &lt;i&gt;marlowei&lt;/i&gt; Waichert &amp; Pitts, &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Notocyphus&lt;/i&gt; &lt;i&gt;anacaona&lt;/i&gt; Rodriguez &amp; Pitts, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Priocnessus&lt;/i&gt; &lt;i&gt;vancei&lt;/i&gt; Waichert &amp; Pitts, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Eight generaare reported from the Dominican Republic for the first time: &lt;i&gt;Aporinellus&lt;/i&gt; Banks, 1912, &lt;i&gt;Caliadurgus&lt;/i&gt; Pate, 1946, &lt;i&gt;Dipogon&lt;/i&gt;Fox, 1897, &lt;i&gt;Drepanaporus&lt;/i&gt; Bradley, 1944, &lt;i&gt;Epipompilus&lt;/i&gt; Kohl, 1884, &lt;i&gt;Notocyphus&lt;/i&gt; Smith, 1855, &lt;i&gt;Priocnemis&lt;/i&gt; Schiødte, 1837,and &lt;i&gt;Priocnessus&lt;/i&gt; Banks, 1925. Nine species are new records for the country: &lt;i&gt;Ageniella&lt;/i&gt; (Ageniella) &lt;i&gt;bruesi&lt;/i&gt; (Banks, 1928),&lt;i&gt;Ageniella&lt;/i&gt; (Ageniella) &lt;i&gt;violaceipes&lt;/i&gt; (Cresson, 1865), &lt;i&gt;Aporinellus&lt;/i&gt; &lt;i&gt;medianus&lt;/i&gt; Banks, 1917, &lt;i&gt;Auplopus&lt;/i&gt; &lt;i&gt;bellus&lt;/i&gt; (Cresson, 1865),&lt;i&gt;Caliadurgus&lt;/i&gt; &lt;i&gt;maestris&lt;/i&gt; Alayo, 1969, &lt;i&gt;Drepanaporus&lt;/i&gt; &lt;i&gt;antillarum&lt;/i&gt; (Bradley, 1944), &lt;i&gt;Drepanaporus&lt;/i&gt; &lt;i&gt;collaris&lt;/i&gt; (Cresson, 1865),&lt;i&gt;Epipompilus&lt;/i&gt; &lt;i&gt;pulcherrimus&lt;/i&gt; (Evans, 1955), and &lt;i&gt;Priocnemis&lt;/i&gt; &lt;i&gt;cornica&lt;/i&gt; (Say, 1836). &lt;i&gt;Pompilus&lt;/i&gt; &lt;i&gt;flavopictus&lt;/i&gt; Smith, 1862 is ajunior synonym of &lt;i&gt;Poecilopompilus&lt;/i&gt; &lt;i&gt;mixtus&lt;/i&gt; (Fabricius, 1794), &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Odontaporus&lt;/i&gt; &lt;i&gt;simulatrix&lt;/i&gt; (Bradley, 1944) isjunior synonym of &lt;i&gt;Drepanaporus&lt;/i&gt; &lt;i&gt;collaris&lt;/i&gt; (Cresson, 1865), &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; New combination is proposed for &lt;i&gt;Aporus&lt;/i&gt; (Aporus)&lt;i&gt;antillarum&lt;/i&gt; (Bradley, 1944) which is transferred to &lt;i&gt;Drepanaporus.&lt;/i&gt; Hitherto unknown males of &lt;i&gt;Ageniella&lt;/i&gt; (Ageniella)&lt;i&gt;domingensis&lt;/i&gt; (Banks, 1944) and &lt;i&gt;Drepanaporus&lt;/i&gt; &lt;i&gt;antillarum&lt;/i&gt; (Bradley, 1944) are described and illustrated. Ilustrated keys for subfamilies and species of the Dominican Republic pompilids are provided.&lt;b&gt;Keywords:Pepsinae,&lt;/b&gt; Pompilinae, Ctenocerinae, Ceropalinae, key, new record, new species, Caribbean</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cecilia</firstname>
+          <lastname>Waichert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juanita</firstname>
+          <lastname>Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carol</firstname>
+          <middlename>D.</middlename>
+          <lastname>Von Dohlen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>P.</middlename>
+          <lastname>Pitts</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-47</pages>
+        <date_published>2012-06-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of bamboo-feeding leafhopper genus &lt;i&gt;Bambusananus &lt;/i&gt;Li &amp; Xing (Hemiptera: Cicadellidae: Deltocephalinae) with description of a new species from China</title>
+        <abstract locale="en_US">The bamboo-feeding leafhopper genus &lt;i&gt;Bambusananus&lt;/i&gt; Li &amp; Xing, 2011 is known to include five species in the world: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bino-&lt;/i&gt;&lt;i&gt;tatus&lt;/i&gt; (Li &amp; Dai), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;bipunctatus&lt;/i&gt; (Li), &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;furcatus&lt;/i&gt; Li &amp; Xing, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;maculipennis&lt;/i&gt; (Li &amp; Wang). One new species,&lt;i&gt;B.&lt;/i&gt; &lt;i&gt;lii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Guizhou Province, China), is described and illustrated. Information on host plants and distribution for each species of &lt;i&gt;Bambusananus&lt;/i&gt; is given along with a key to all known species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bamboo leafhopper; Cicadomorpha; distribution; Homoptera; Oriental region; taxonomy</subject>
+          <subject_class locale="en_US">Bamboo leafhopper</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lin</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiang-Sheng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-54</pages>
+        <date_published>2012-06-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the type series of &lt;i&gt;Empis &lt;/i&gt;(&lt;i&gt;Planempis&lt;/i&gt;) &lt;i&gt;mandarina &lt;/i&gt;Frey, the type species of &lt;i&gt;Planempis &lt;/i&gt;(Diptera: Empididae)</title>
+        <abstract locale="en_US">The type series of &lt;i&gt;Empis&lt;/i&gt; (Planempis) &lt;i&gt;mandarina&lt;/i&gt; Frey, 1953, the type species of &lt;i&gt;Planempis&lt;/i&gt; Frey, from Fukien (Fujian), Chinaand Kambaiti, Myanmar is revised and found to include four species. The lectotype is designated for a Fukien male specimen.Two other species, &lt;i&gt;E.&lt;/i&gt; (Planempis) &lt;i&gt;lindebergi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; (Planempis) &lt;i&gt;janssoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described based on a male syn-type, and a male and three female syntypes from Kambaiti, respectively. A species represented by females from Fukien is not conspecific with any of these species and remains unnamed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Empididae; &lt;i&gt;Planempis&lt;/i&gt; &lt;i&gt;mandarina&lt;/i&gt;; new species; China; Myanmar</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Toyohei</firstname>
+          <lastname>Saigusa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2012-06-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

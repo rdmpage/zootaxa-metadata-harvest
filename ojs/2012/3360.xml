@@ -1,3 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3360.1</id>
+    <title locale="en_US">29 Jun. 2012</title>
+    <volume>3360</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision and zoogeographical patterns of the species of &lt;i&gt;Gnopharmia &lt;/i&gt;Staudinger, 1892 (Geometridae, Ennominae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Gnopharmia&lt;/i&gt; Staudinger, 1892 is revised, based on more than 2000 specimens from the entire area ofdistribution and study of type material of all described taxa, as far asmap available. Seven species and three subspeciesare confirmed as valid for the genus. All important morphological characters have been studied and compared, includingmale and female genitalia. In addition, preliminary results of DNA-Barcoding were used to reassess our taxonomicdecisions, based on morphological studies. Type specimens and their labels are illustrated and additional specimens,demonstrating the variability of certain species, are also figured. Male genitalia of all valid species are figured and SEMphotos of the aedeagus are illustrated. Further important structures, the so-called ‘octavals’ on the male pre-genitalabdomen, are also figured. Female genitalia revealed a high similarity between species, combined with a considerablevariability, and were unsuitable for characterisation of species. Female genitalia of three species are figured to exemplifythis situation. As a result of the morphological and genetic studies, 12 out of the 21 described species and subspecies aresynonymised or transferred to the closely related genus &lt;i&gt;Neognopharmia&lt;/i&gt; Wehrli, 1953. In addition, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;colchidaria&lt;/i&gt;&lt;i&gt;cocandaria&lt;/i&gt; (Erschoff, 1874) is revived as a valid species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sinesefida&lt;/i&gt; Wehrli, 1941 is downgraded to a subspecies of &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;colchidaria&lt;/i&gt; Lederer, 1870. Five new records for the fauna of the following countries are presented: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;colchidaria&lt;/i&gt;&lt;i&gt;objectaria:&lt;/i&gt; new for Pakistan; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;irakensis:&lt;/i&gt; new for Turkey and Pakistan; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;kasrunensis:&lt;/i&gt; new for Oman and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;sarobiana:&lt;/i&gt; new for Pakistan. Distribution maps and an identification key are given for all species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Macariini; &lt;i&gt;Gnopharmia&lt;/i&gt;; &lt;i&gt;Neognopharmia&lt;/i&gt;; new synonyms; new records; lectotype designations; distribution; Iran</subject>
+          <subject_class locale="en_US">Macariini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hossein</firstname>
+          <middlename>Rajaei</middlename>
+          <lastname>Sh.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dieter</firstname>
+          <lastname>Stüning</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Trusch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2012-06-29</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Oecanthus &lt;/i&gt;and &lt;i&gt;Oecanthus lineolatus &lt;/i&gt;Saussure, 1897 from Southern Brazil: species description, including phallic sclerites, metanotal glands and calling song (Orthoptera: Gryllidae: Oecanthinae)</title>
+        <abstract locale="en_US">We characterized and compared taxonomic features of two species of tree crickets &lt;i&gt;Oecanthus&lt;/i&gt; in tobacco plantation and adja-cent native trees and bushes at Southern Brazil. The marked differences between species included &lt;i&gt;Oecanthus&lt;/i&gt; n. sp. with pale-green body, pale-yellow head, greenish-white eyes, file teeth number 32.8±1.2 (31–34, n = 6) and hindwings caudate. &lt;i&gt;Oecan-&lt;/i&gt;&lt;i&gt;thus&lt;/i&gt; &lt;i&gt;lineolatus&lt;/i&gt; is slightly darker as pale-green, with pale-green head, yellow eyes, hind femur variegated with translucent andpale-green, file teeth number 47±2.2 (42–51, n = 18) and hindwings non caudate. Both species also differ in calling song dominant frequency and temporal parameters, as well as in the morphology of metanotal gland.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insect; Ensifera; tree crickets; tobacco plantation; bioacoustics; taxonomy</subject>
+          <subject_class locale="en_US">Insect</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Edison</firstname>
+          <lastname>Zefa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <middlename>Schneid</middlename>
+          <lastname>Neutzling</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darlan</firstname>
+          <middlename>Rutz</middlename>
+          <lastname>Redü</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriel</firstname>
+          <middlename>Lobregat</middlename>
+          <lastname>De Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luciano</firstname>
+          <lastname>De Pinho Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-67</pages>
+        <date_published>2012-06-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Costarica &lt;/i&gt;Mengual &amp; Thompson, 2009 (Insecta: Diptera: Syrphidae) junior homonym of &lt;i&gt;Costarica &lt;/i&gt;Kocak &amp; Kemal, 2008 (Insecta: Orthoptera): proposed replacement by &lt;i&gt;Tiquicia &lt;/i&gt;nom. nov.</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>F.</firstname>
+          <middlename>Christian</middlename>
+          <lastname>Thompson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68</pages>
+        <date_published>2012-06-29</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

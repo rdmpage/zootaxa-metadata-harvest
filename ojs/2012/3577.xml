@@ -1,3 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3577.1</id>
+    <title locale="en_US">10 Dec. 2012</title>
+    <volume>3577</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphotaxonomic revision of &lt;i&gt;Simulium &lt;/i&gt;(&lt;i&gt;Gomphostilbia&lt;/i&gt;) (Diptera: Simuliidae) in the Oriental Region </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hiroyuki</firstname>
+          <lastname>Takaoka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Compsodactylus&lt;/i&gt;, a new South American genus with one new species and two new combinations (Coleoptera: Scarabaeidae: Melolonthinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juares</firstname>
+          <lastname>Fuhrmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-57</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The discovery of progenetic &lt;i&gt;Allocreadium neotenicum &lt;/i&gt;Peters, 1957 (Digenea: Allocreadiidae) in water beetles (Coleoptera: Dytiscidae) in Great Britain </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodney</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bray</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Garth</firstname>
+          <middlename>N.</middlename>
+          <lastname>Foster</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrea</firstname>
+          <lastname>Waeschenbach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D</firstname>
+          <middlename>Timothy J</middlename>
+          <lastname>Littlewood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-70</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Onerunka longi&lt;/i&gt;, a new genus and species of Thanerocleridae (Coleoptera) from Papua New Guinea, with systematic notes on the tribe Thaneroclerini </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Kolibáč</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>71-79</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Didicrum &lt;/i&gt;Enderlein (Diptera: Psychodidae, Psychodinae) from the Northern Andes bioregion, with the description of a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosa</firstname>
+          <middlename>Helena</middlename>
+          <lastname>Moya-Arévalo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <lastname>Ibáñez-Bernal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <middlename>Teresa</middlename>
+          <lastname>Suárez-Landa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>80-88</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

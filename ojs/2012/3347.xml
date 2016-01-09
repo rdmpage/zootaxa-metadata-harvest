@@ -1,3 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3347.1</id>
+    <title locale="en_US">15 Jun. 2012</title>
+    <volume>3347</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Shallow-water caridean shrimps from southern Bahia, Brazil, including the first record of &lt;i&gt;Synalpheus ul &lt;/i&gt;(Ríos &amp; Duffy, 2007) (Alpheidae) in the southwestern Atlantic Ocean</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandre</firstname>
+          <middlename>O.</middlename>
+          <lastname>Almeida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guisla</firstname>
+          <lastname>Boehs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Catarina</firstname>
+          <middlename>L.</middlename>
+          <lastname>Araújo-Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>Ernesto A.</middlename>
+          <lastname>Bezerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-06-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The early life history of &lt;i&gt;Chiromantes ortmanni &lt;/i&gt;(Crosnier, 1965) (Decapoda: Brachyura: Sesarmidae): morphology of larval and juvenile stages</title>
+        <abstract locale="en_US">The early life history of the sesarmid crab &lt;i&gt;Chiromantes&lt;/i&gt; &lt;i&gt;ortmanni&lt;/i&gt; (Crosnier, 1965) was studied at constant laboratoryconditions, and the complete larval and early juvenile development are described. &lt;i&gt;Chiromantes&lt;/i&gt; &lt;i&gt;ortmanni&lt;/i&gt; showsintraspecific variability in the pattern of larval development, which typically includes 5 or, less frequently, 6 zoeal stagespreceding the megalopa. The regular pathway (with 5 zoeal stages) required ca 18–20 days. During this time span, zoealsize (carapace length) increased by a factor of 2.2 from 0.33 to 0.73 mm, while biomass (measured as zoeal dry mass andcontents of carbon, nitrogen and hydrogen) showed an 8-fold increment. The megalopa moulted after 10–12 days to thefirst juvenile crab stage, the total larval development from hatching to metamorphosis taking approximately one month(or ca. 4 days longer in larvae passing through an additional zoeal stage). First egg-laying was observed 8.5 months later,at a female carapace width of 14.4 mm. After an embryonic development time of 26–27 days, a total of 3,470 larvaehatched during two subsequent nights. Hence, the minimum generation time (from hatching to first offspring release)comprised slightly more than 10 months. Unlike the regular zoeal stages, the supernumerary stage VI showed atypicalcharacters for Sesarmidae larvae, especially in the setation pattern of the first maxilliped and the segmentation of theendopod of the second maxilliped. Some characteristics presented an intermediate morphology between that of the zoeaV and the megalopa. The first juvenile stage (crab I) is described in detail, while only the most relevant morphologicalchanges and sexual differentiation are highlighted for subsequent crab stages (II–IX). Males and females can bedistinguished from instar V onward, based on sexual dimorphism in the pleopods and the presence of gonopores in thefemales. The morphological characters of all larval stages and of the first juvenile crab are compared with those of other &lt;i&gt;Chiromantes&lt;/i&gt; spp.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; Sesarmidae; &lt;i&gt;Chiromantes&lt;/i&gt;; larval development; zoea; megalopa; supernumerary stage; juvenile; morphology; sexual dimorphism; growth</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guillermo</firstname>
+          <lastname>Guerao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Klaus</firstname>
+          <lastname>Anger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Riccardo</firstname>
+          <lastname>Simoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefano</firstname>
+          <lastname>Cannicci</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-62</pages>
+        <date_published>2012-06-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Back from the dead: The world’s rarest toad &lt;i&gt;Adenomus kandianus &lt;/i&gt;rediscovered in Sri Lanka</title>
+        <abstract locale="en_US">&lt;i&gt;Adenomus&lt;/i&gt; &lt;i&gt;kandianus&lt;/i&gt; Günther (1872) was previously known only from two specimens both deposited in the British Museum,the holotype BMNH1947.2.20.63, and the syntype of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kelaarti&lt;/i&gt; BMNH1947.2.20.62. The only record of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kandianus&lt;/i&gt; sincethe initial description in 1872 was by Ferguson in 1876, who mentions two specimens resembling &lt;i&gt;Bufo&lt;/i&gt; &lt;i&gt;kandianus&lt;/i&gt; in hiscollection, making &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kandianus&lt;/i&gt; the world’s rarest toad. The species had not been reported since, and was considered extinct. Here we report on its rediscovery.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Adenomus&lt;/i&gt;; extinct amphibian; rediscover; Peak Wilderness; Sri Lanka</subject>
+          <subject_class locale="en_US">&lt;i&gt;Adenomus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>J. Mendis</middlename>
+          <lastname>Wickramasinghe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dulan</firstname>
+          <middlename>Ranga</middlename>
+          <lastname>Vidanapathirana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nethu</firstname>
+          <lastname>Wickramasinghe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-06-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3589.1</id>
+    <title locale="en_US">18 Dec. 2012</title>
+    <volume>3589</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A reevaluation of specimens of &lt;i&gt;Mesocoelium monas &lt;/i&gt;(Platyhelminthes: Digenea: Mesocoeliidae) from the Natural History Museum, UK and the United States National Parasite Collection, USA </title>
+        <abstract locale="en_US">A total of 67 specimens from the National History Museum, London, UK and from the United States National ParasiteCollection, Beltsville, USA, which had previously been identified as &lt;i&gt;Mesocoelium&lt;/i&gt; &lt;i&gt;monas&lt;/i&gt; Rudolphi, 1819 from a varietyof definitive hosts (amphibians, reptiles and a fish), were reevaluated using available literature and the keys to nine bodytypes of species developed by Dronen &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2012). Fifteen specimens were of insufficient quality to be placed into a bodytype. In the remaining 52, only four body types (mesembrinum, monas, lanceatum, and pesteri) were encountered. Noneof the 52 specimens conformed to either the original description of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;monas&lt;/i&gt; by Rudolphi in 1819 or the subsequent re-description by Freitas in 1958. Although some authors have proposed sweeping synonymies of species in the genus re-ducing the number of species to as few as four in a study by Nasir &amp; Dìaz in 1971, the results of the present study suggestthat there are likely numerous species worldwide. The usefulness of some characters in separating species of &lt;i&gt;Mesocoelium&lt;/i&gt; is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Body types; digeneans; endohelminths; &lt;i&gt;Mesocoelium&lt;/i&gt; &lt;i&gt;monas&lt;/i&gt;; museum specimens; reevaluation; taxonomy</subject>
+          <subject_class locale="en_US">Body types</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dana</firstname>
+          <middlename>M.</middlename>
+          <lastname>Calhoun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norman</firstname>
+          <middlename>O.</middlename>
+          <lastname>Dronen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The squat lobsters of the genus &lt;i&gt;Sadayoshia &lt;/i&gt;Baba, 1969 (Crustacea: Decapoda: Anomura: Munididae): new records including six new species from the Pacific Ocean </title>
+        <abstract locale="en_US">Careful examination of the morphology of recently obtained specimens as well as previously reported specimens of thegenus &lt;i&gt;Sadayoshia,&lt;/i&gt; initiated by unpublished molecular data that suggest the existence of several different species, led usto describe six new species. The species are very similar to one another and distinguished by very slight morphologicaldifferences. Some of the characters that were previously considered as intraspecifically variable in some species, proved to be valid for species discrimination. A dichotomous key to all species of the genus is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squat lobsters; cryptic species; &lt;i&gt;Sadayoshia&lt;/i&gt;; new species; Pacific Ocean.</subject>
+          <subject_class locale="en_US">Squat lobsters</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Enrique</firstname>
+          <lastname>Macpherson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Keiji</firstname>
+          <lastname>Baba</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-48</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Current knowledge on Turkish tardigrades with a description of &lt;i&gt;Milnesium beasleyi &lt;/i&gt;sp. nov. (Eutardigrada: Apochela: Milnesiidae, the &lt;i&gt;granulatum &lt;/i&gt;group) </title>
+        <abstract locale="en_US">In two moss samples collected from Turkey four tardigrade species, including a species new for science and a new recordfor the country, were found. The new species, &lt;i&gt;Milnesium&lt;/i&gt; &lt;i&gt;beasleyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; differs from other known species of the &lt;i&gt;gran-&lt;/i&gt;&lt;i&gt;ulatum&lt;/i&gt; group by having sparsely distributed cuticular depressions (pseudopores) that do not form an apparent reticulum.In addition to the unique cuticular sculpturing, the new species differs from other congeners also by some morphometriccharacters. &lt;i&gt;Macrobiotus&lt;/i&gt; &lt;i&gt;reinhardti&lt;/i&gt; Michalczyk &amp; Kaczmarek, 2003 is a new record for Turkey and it is also the first re-cord of this species outside its type locality on Cyprus. The new records raise the number of known Turkish water bearspecies to 50. In this paper, we provide a full list of the known Turkish tardigrade species with their localities. Moreover, we present some zoogeographical and taxonomic issues concerning Turkish tardigrades.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tardigrada; Turkey; fauna; taxonomy; new species</subject>
+          <subject_class locale="en_US">Tardigrada</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Łukasz</firstname>
+          <lastname>Kaczmarek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Natalia</firstname>
+          <lastname>Jakubowska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Łukasz</firstname>
+          <lastname>Michalczyk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-64</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Lacydonia quadrioculata, &lt;/i&gt;a new lacydoniid (Polychaeta: Phyllodocida) from Oahu, Hawaii </title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Lacydonia&lt;/i&gt; is described from shallow waters off Oahu, Hawaii. This species is unique amongits congeners by the presence of two pairs of small eyes; other lacydoniids may have either one pair of large or small eyesor no eyes at all. The description of &lt;i&gt;Lacydonia&lt;/i&gt; &lt;i&gt;quadrioculata&lt;/i&gt; sp. nov., brings the number of valid species within &lt;i&gt;Lacydo-&lt;/i&gt;&lt;i&gt;nia&lt;/i&gt; to 10 but the taxonomy of this genus is still confusing as most species are very similar morphologically and the ma-jority of the descriptions are based merely on the single type or very few specimens. We discuss the relevance of sometaxonomic characters used in species-level descriptions and provide a comparative table with selected characters of all valid species.&lt;b&gt;Key–words:&lt;/b&gt; Lacydoniidae, &lt;i&gt;Lacydonia,&lt;/i&gt; new species, shallow waters</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wagner</firstname>
+          <middlename>F.</middlename>
+          <lastname>Magalhães</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julie</firstname>
+          <middlename>H.</middlename>
+          <lastname>Bailey–Brock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandra</firstname>
+          <middlename>E.</middlename>
+          <lastname>Rizzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-76</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of Syllidae (Annelida: Polychaeta) from DIVA-Artabria I project (cruise 2002) to deep areas off NW Spain </title>
+        <abstract locale="en_US">Based on material collected during the DIVA-Artabria I project (2002 cruise) from deep areas (629–1132m) of the shelfand upper slope off the Ártabro gulf (Galicia, NW Spain), two new species of Syllidae (Annelida: Polychaeta) are de-scribed. &lt;i&gt;Eurysyllis&lt;/i&gt; &lt;i&gt;mercuryi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterized by having compound chaetae with elongated blades, provided withlong spines, and &lt;i&gt;Syllis&lt;/i&gt; &lt;i&gt;mercedesae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is diagnosed by the possession of a unique combination of straight aciculae,protruding from parapodial lobes in posterior-most chaetigers, and moderately long spiniger-like chaetae in midbody pro-vided with indistinct subdistal tooth, appearing almost unidentate. &lt;i&gt;Eurysyllis&lt;/i&gt; &lt;i&gt;mercuryi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is the fifth species of the genus described worldwide and the second reported species in European waters after &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tuberculata&lt;/i&gt; Ehlers, 1864.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eurysyllis&lt;/i&gt;; &lt;i&gt;Syllis&lt;/i&gt;; Atlantic Ocean; Iberian Peninsula; new species; deep sea</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eurysyllis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yolanda</firstname>
+          <lastname>Lucas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>San Martín</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julio</firstname>
+          <lastname>Parapar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-88</pages>
+        <date_published>2012-12-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

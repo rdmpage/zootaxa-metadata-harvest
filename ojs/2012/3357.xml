@@ -1,3 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3357.1</id>
+    <title locale="en_US">26 Jun. 2012</title>
+    <volume>3357</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic review of &lt;i&gt;Syzeuxis &lt;/i&gt;Hampson, 1895, with a discussion of biogeographical aspects (Lepidoptera, Geometridae, Larentiinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Syzeuxis&lt;/i&gt; Hampson, 1895 is reviewed. In addition to the 11 species known worldwide, two new species aredescribed: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;furcalineas&lt;/i&gt; sp. nov. from Assam, India and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pavonata&lt;/i&gt; sp. nov. from Yunnan, China. One new synonymy isgiven: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;miniocalaria&lt;/i&gt; Xue, 1999 is sunk in &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;heteromeces&lt;/i&gt; Prout, 1926. All the known species are redescribed and lectotypesare designated for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;magnidica&lt;/i&gt; Prout, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;subfasciaria&lt;/i&gt; (Wehrli) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;nigrinotata&lt;/i&gt; (Warren). Generic characters based on allspecies are summarized. Illustrations of moths and genitalia are presented. The tribal placement of the genus is discussed, withthe conclusion that it should be placed in the tribe Trichopterygini. A pilot phylogenetic study based on morphological charac-ters of &lt;i&gt;Syzeuxis&lt;/i&gt; indicates that four species-groups can be identified. The biogeographical aspects of the genus are also discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Syzeuxis;&lt;/i&gt; taxonomy; new species; tribe; Trichopterygini; biogeography</subject>
+          <subject_class locale="en_US">&lt;i&gt;Syzeuxis;&lt;/i&gt; taxonomy; new species; tribe; Trichopterygini; biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jing</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dayong</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongxiang</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Galsworthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-06-26</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species and notes on the subgenus &lt;i&gt;Deltochilum &lt;/i&gt;(&lt;i&gt;Deltochilum&lt;/i&gt;) Eschscholtz, 1822 (Coleoptera: Scarabaeidae: Scarabaeinae: Deltochilini)</title>
+        <abstract locale="en_US">&lt;i&gt;Deltochilum&lt;/i&gt; &lt;i&gt;eurymedon&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; is described and illustrated. Two new synonymies are proposed, &lt;i&gt;Deltochilum&lt;/i&gt; (Telhyboma)Kolbe, 1893 = &lt;i&gt;Deltochilum&lt;/i&gt; (Deltochilum) Eschscholtz, 1822 and &lt;i&gt;D.&lt;/i&gt; (D.) &lt;i&gt;scabriusculum&lt;/i&gt; &lt;i&gt;montanum&lt;/i&gt; Howden, 1966 = &lt;i&gt;D.&lt;/i&gt; (D.)&lt;i&gt;scabriusculum&lt;/i&gt; Bates, 1887. Diagnostic characters are given and aedeagi are illustrated for each species currently included in the subgenus &lt;i&gt;Deltochilum.&lt;/i&gt; Finally, distributional data and literature records are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Deltochilum&lt;/i&gt; &lt;i&gt;eurymedon&lt;/i&gt; new species; diagnosis; distribution; synonymy; literature</subject>
+          <subject_class locale="en_US">&lt;i&gt;Deltochilum&lt;/i&gt; &lt;i&gt;eurymedon&lt;/i&gt; new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>François</firstname>
+          <lastname>Génier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-36</pages>
+        <date_published>2012-06-26</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and new records of chewing lice (Phthiraptera: Amblycera and Ischnocera) from bulbuls (Passeriformes: Pycnonotidae) in Vietnam</title>
+        <abstract locale="en_US">Seven species of chewing lice (Insecta: Phthiraptera) were found on five species of bulbuls (Passeriformes: Pycnonotidae)in northern Vietnam. Three new species of the genera &lt;i&gt;Brueelia&lt;/i&gt; and &lt;i&gt;Philopteroides&lt;/i&gt; are described; they and their type hostsare: &lt;i&gt;Brueelia&lt;/i&gt; &lt;i&gt;flavala&lt;/i&gt; ex &lt;i&gt;Hemixos&lt;/i&gt; &lt;i&gt;flavala&lt;/i&gt; Blyth, 1845 &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;cucphuongensis&lt;/i&gt; ex &lt;i&gt;Pycnonotus&lt;/i&gt; &lt;i&gt;finlaysoni&lt;/i&gt; Strickland, 1844 and&lt;i&gt;Philopteroides&lt;/i&gt; &lt;i&gt;flavala&lt;/i&gt; ex &lt;i&gt;Hemixos&lt;/i&gt; &lt;i&gt;flavala&lt;/i&gt; Blyth, 1845. First records of chewing lice from &lt;i&gt;Hemixos&lt;/i&gt; &lt;i&gt;castanonotus&lt;/i&gt; Swin-hoe, 1870 and &lt;i&gt;Iole&lt;/i&gt; &lt;i&gt;propinqua&lt;/i&gt; (Oustalet, 1903), and a new host record for &lt;i&gt;Myrsidea&lt;/i&gt; &lt;i&gt;ochracei&lt;/i&gt; and &lt;i&gt;Sturnidoecus&lt;/i&gt; sp. are also included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phthiraptera; lice; &lt;i&gt;Philopteroides&lt;/i&gt;; &lt;i&gt;Brueelia&lt;/i&gt;; &lt;i&gt;Myrsidea&lt;/i&gt;; &lt;i&gt;Sturnidoecus&lt;/i&gt;; new species; bulbuls; new records; Vietnam</subject>
+          <subject_class locale="en_US">Phthiraptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomas</firstname>
+          <lastname>Najer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oldrich</firstname>
+          <lastname>Sychra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nguyen</firstname>
+          <middlename>Manh</middlename>
+          <lastname>Hung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miroslav</firstname>
+          <lastname>Capek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petr</firstname>
+          <lastname>Podzemny</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <lastname>Literak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-48</pages>
+        <date_published>2012-06-26</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new South American species of &lt;i&gt;Centris &lt;/i&gt;(&lt;i&gt;Heterocentris&lt;/i&gt;) Cockerell, 1899 with a key to the species with horn-like projections on the clypeus (Hymenoptera: Apidae: Centridini)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Centris&lt;/i&gt; Fabricius, 1804 is one of the more diverse lineages of solitary bees in the Neotropical Region with more than250 described species. Here &lt;i&gt;Centris&lt;/i&gt; &lt;i&gt;ceratops&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; is described from a tropical dry forest in northern Colombia (Colosó,Department of Sucre), thus increasing the number of known species to four in which the females possess a horn-like projectionon the clypeus. This group of bees belongs to a small monophyletic group within &lt;i&gt;C.&lt;/i&gt; (Heterocentris). Along with the description of this new species, diagnosis, pictures and a key to identify the species of females with modified clypeus are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oil-bees; Taxonomy; Neotropical Region</subject>
+          <subject_class locale="en_US">Oil-bees</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Danny</firstname>
+          <lastname>Vélez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <lastname>Vivallo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-55</pages>
+        <date_published>2012-06-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Stenchaetothrips &lt;/i&gt;species (Thysanoptera, Thripidae) of Malaysia, with one new species</title>
+        <abstract locale="en_US">Four species of &lt;i&gt;Stenchaetothrips&lt;/i&gt; are here recorded from Peninsular Malaysia. These are &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;biformis,&lt;/i&gt; the widespread ricethrips, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;hullikali,&lt;/i&gt; known only from Karnataka in Southwest India, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;indicus,&lt;/i&gt; a widespread species on grasses, and &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;langkawiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; described here from Langkawi Island, West Malaysia. Species descriptions, photographs and an identification key are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;&lt;i&gt;Stenchaetothrips&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Malaysia&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;&lt;i&gt;Stenchaetothrips&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;Malaysia&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ng</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Y.</firstname>
+          <lastname>F.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mound</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>A.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-62</pages>
+        <date_published>2012-06-26</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Ambrysus montandoni &lt;/i&gt;La Rivers, 1963 (Hemiptera: Heteroptera: Naucoridae), with the first records for Brazil</title>
+        <abstract locale="en_US">The naucorid &lt;i&gt;Ambrysus&lt;/i&gt; &lt;i&gt;montandoni&lt;/i&gt; La Rivers is known from males collected from southern Venezuela. Presented here are aredescription of the male, original description of the female, illustrations of both sexes and genitalia, and the first records of the species from Brazil. Subgeneric associations in &lt;i&gt;Ambrysus&lt;/i&gt; are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; &lt;i&gt;Ambrysus&lt;/i&gt; &lt;i&gt;montandoni&lt;/i&gt;; description; new records; Brazil; Venezuela</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Higor</firstname>
+          <middlename>D. D.</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alan</firstname>
+          <middlename>Lane</middlename>
+          <lastname>De Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>W.</middlename>
+          <lastname>Sites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-06-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

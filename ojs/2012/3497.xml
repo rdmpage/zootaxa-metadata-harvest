@@ -1,3 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3497.1</id>
+    <title locale="en_US">25 Sep. 2012</title>
+    <volume>3497</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the &lt;i&gt;Campsicnemus fumipennis &lt;/i&gt;group (Diptera: Dolichopodidae) in the Hawaiian Islands, with descriptions of new species and corrections of misidentifications </title>
+        <abstract locale="en_US">Species of the &lt;i&gt;Campsicnemus&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; group in the Hawaiian Islands are reviewed. &lt;i&gt;Campsicnemus&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; Parent,previously thought to be widespread in the Hawaiian Islands is found to be restricted only to the islands of Moloka‘i andMaui (= geological Maui Nui). Based on comparison of the lectotype female of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; with females of &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;flaviventer&lt;/i&gt; Hardy &amp; Kohn, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;flaviventer&lt;/i&gt; is found to be synonymous with &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fumipennis,&lt;/i&gt; &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Three new species,two of them previously misidentified as either &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; or &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;flaviventer,&lt;/i&gt; are described and illustrated; all are islandendemics: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;leucostoma,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hawai‘i), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spectabulus,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (O‘ahu), and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;aniani,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hawai‘i). The firstdescription of the male of true &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; is given, a key to species of the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; group is presented, and a table of rearing records for immatures of species in the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fumipennis&lt;/i&gt; group is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Diptera; Dolichopodidae; &lt;i&gt;Campsicnemus&lt;/i&gt;; Hawaiian Islands; O‘ahu; Maui; Moloka‘i; Hawai‘i; Maui Nui</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-09-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Celyphoma &lt;/i&gt;Emeljanov, 1971 (Hemiptera: Fulgoromorpha: Issidae) from China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rui</firstname>
+          <lastname>Meng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yinglun</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-28</pages>
+        <date_published>2012-09-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Kokeshia &lt;/i&gt;from China (Hemiptera: Heteroptera: Schizopteridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dávid</firstname>
+          <lastname>Rédei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuzhi</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wenjun</firstname>
+          <lastname>Bu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-36</pages>
+        <date_published>2012-09-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Kimulodes &lt;/i&gt;Tjeder &amp; Hansson in West Africa with description of a new species (Neuroptera, Ascalaphidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bruno</firstname>
+          <lastname>Michel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-40</pages>
+        <date_published>2012-09-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of Neotropical aphrophorine spittlebugs, part 1: Ptyelini (Hemiptera, Cercopoidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>G. Andrew</middlename>
+          <lastname>Hamilton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-59</pages>
+        <date_published>2012-09-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Alainites sadati &lt;/i&gt;Thomas, 1994 (Ephemeroptera: Baetidae) in Tunisia, description of the larval stage and ecology</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sonia</firstname>
+          <lastname>Zrelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Luc</firstname>
+          <lastname>Gattolliat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Moncef</firstname>
+          <lastname>Boumaïza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alain</firstname>
+          <lastname>Thomas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-09-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

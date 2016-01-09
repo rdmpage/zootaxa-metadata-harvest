@@ -2,6 +2,40 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3540.1</id>
+    <title locale="en_US">6 Nov. 2012</title>
+    <volume>3540</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">North American members of the &lt;i&gt;reticulata&lt;/i&gt;-like species group of the water mite genus &lt;i&gt;Kongsbergia &lt;/i&gt;(Acari: Hydrachnidiae: Aturidae) </title>
+        <abstract locale="en_US">Fifteen North American species of the water mite genus &lt;i&gt;Kongsbergia,&lt;/i&gt; 11 of which are new to science, are described andallocated to the newly proposed &lt;i&gt;reticulata-like&lt;/i&gt; species group. This group is characterized by synapomorphic contours ofthe dorsal shield in males in the form of symmetrical ridges, an elevated hump anteromedially and a marked depressionposteromedially that bears a medial ridge with the excretory pore at its posterior end. These species are further assigned to six subgroups diagnosed by various shared derived character states of males. Adults of &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;reticulata&lt;/i&gt; Habeeb, 1956, &lt;i&gt;K.&lt;/i&gt;&lt;i&gt;reticulata&lt;/i&gt; &lt;i&gt;labyrintha&lt;/i&gt; Habeeb, 1957, and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;cyanea&lt;/i&gt; Habeeb, 1981 are redescribed based on examination of types and ad-ditional specimens, and all are recognized as full species. The description of adults of &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;robisoni&lt;/i&gt; Radwell and Smith,2011, is revised slightly based on observations on specimens from recently discovered populations. Adults of 11 new spe-cies are described including &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;appalachiana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;atkinsonae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;cooki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.crista&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;crum-&lt;/i&gt;&lt;i&gt;pae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;humeralis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;floridana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;laurentiana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;setosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;texana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;K.&lt;/i&gt; &lt;i&gt;transversa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; Distributional data and a key to males for these species are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; new species; stream fauna</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrea</firstname>
+          <middlename>J.</middlename>
+          <lastname>Radwell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ian</firstname>
+          <middlename>M.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2012-11-06</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa..1</id>
     <title locale="en_US">PublishDate</title>
     <volume></volume>
@@ -31,6 +65,102 @@
         </author>
         <pages></pages>
         <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3540.1</id>
+    <title locale="en_US">6 Nov. 2012</title>
+    <volume>3540</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new Stenognathriopes (Collembola, Symphypleona, Bourletiellidae) from Brazilian coast </title>
+        <abstract locale="en_US">The new species &lt;i&gt;Stenognathriopes&lt;/i&gt; (Tenentiella) &lt;i&gt;janssensi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Collembola, Bourletiellidae) is described from coastalvegetation. This is the second species named to the subgenus &lt;i&gt;Tenentiella&lt;/i&gt; and can be diagnosed by presenting nine subseg-ments on Ant IV, large conical tenent hair and tibiotarsal setae coarsely dented. The new species significantly extends thedistribution of the genus and subgenus southward from Mexico to Northeastern Brazil. A comparative table is provided to the species of the genus &lt;i&gt;Stenognathriopes.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Tenentiella; Littoral Collembola; globular springtails</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Douglas</firstname>
+          <lastname>Zeppelini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>Dias</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-58</pages>
+        <date_published>2012-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology of the second zoeal stage of &lt;i&gt;Grapsus adscensionis &lt;/i&gt;(Osbeck, 1765) (Crustacea, Decapoda, Grapsoidea) confirms larval characters of the family Grapsidae </title>
+        <abstract locale="en_US">The morphology of the second zoeal stage of &lt;i&gt;Grapsus&lt;/i&gt; &lt;i&gt;adscensionis,&lt;/i&gt; hatched from ovigerous specimens collected in thesupralittoral zone of Taliarte Harbour, Gran Canaria (Canary Islands, NE Atlantic), is described and illustrated in detailfor the first time. The comparison of its larval morphology with those of other species of Grapsidae provides informationfor the characterization of the zoeal morphology of grapsids, with implications in the phylogenetic relationships within the family, as well as an aid in identification of plankton samples.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Grapsidae; larval development; &lt;i&gt;Grapsus&lt;/i&gt; &lt;i&gt;adscensionis&lt;/i&gt;; zoea; megalopa</subject>
+          <subject_class locale="en_US">Grapsidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>María</middlename>
+          <lastname>Landeira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cuesta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2012-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Advertisement call of the rare, explosive breeding caatinga horned frog &lt;i&gt;Ceratophrys joazeirensis &lt;/i&gt;Mercadal de Barrio, 1986 (Anura, Ceratophryidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bárbara</firstname>
+          <middlename>Fernandes</middlename>
+          <lastname>Zaidan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <middlename>Sá Fortes</middlename>
+          <lastname>Leite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-66</pages>
+        <date_published>2012-11-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Re-erection of Rhinodrilidae Benham, 1890, a senior synonym of Pontoscolecidae James, 2012 (Annelida: Clitellata) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Samuel</firstname>
+          <middlename>W.</middlename>
+          <lastname>James</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2012-11-06</date_published>
       </article>
     </section>
   </issue>

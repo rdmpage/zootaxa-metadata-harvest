@@ -1,3 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3578.1</id>
+    <title locale="en_US">10 Dec. 2012</title>
+    <volume>3578</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New euophryine jumping spiders from Central and South America (Araneae: Salticidae: Euophryinae) </title>
+        <abstract locale="en_US">Twenty-two new species and one new genus of euophryine jumping spiders from Central America and South America aredescribed. The new genus is &lt;i&gt;Ecuadattus&lt;/i&gt; (E. &lt;i&gt;elongatus&lt;/i&gt; sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;napoensis&lt;/i&gt; sp. nov., &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pichincha&lt;/i&gt; sp. nov. and the typespecies &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;typicus&lt;/i&gt; sp. nov.). The other new species belong to the genera &lt;i&gt;Amphidraus&lt;/i&gt; (A. &lt;i&gt;complexus&lt;/i&gt; sp. nov.), &lt;i&gt;Belliena&lt;/i&gt; (B.&lt;i&gt;ecuadorica&lt;/i&gt; sp. nov.), &lt;i&gt;Chapoda&lt;/i&gt; (C. &lt;i&gt;angusta&lt;/i&gt; sp. nov., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;fortuna&lt;/i&gt; sp. nov. and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gitae&lt;/i&gt; sp. nov.), &lt;i&gt;Ilargus&lt;/i&gt; (I. &lt;i&gt;foliosus&lt;/i&gt; sp. nov.,&lt;i&gt;I.&lt;/i&gt; &lt;i&gt;galianoae&lt;/i&gt; sp. nov., &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;macrocornis&lt;/i&gt; sp. nov., &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;moronatigus&lt;/i&gt; sp. nov., &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;pilleolus&lt;/i&gt; sp. nov. and &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;serratus&lt;/i&gt; sp. nov.), &lt;i&gt;Maeota&lt;/i&gt;(M. &lt;i&gt;dorsalis&lt;/i&gt; sp. nov., &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;flava&lt;/i&gt; sp. nov. and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;simoni&lt;/i&gt; sp. nov.), &lt;i&gt;Soesilarishius&lt;/i&gt; (S. &lt;i&gt;micaceus&lt;/i&gt; sp. nov. and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ruizi&lt;/i&gt; sp. nov.)and &lt;i&gt;Tylogonus&lt;/i&gt; (T. &lt;i&gt;parvus&lt;/i&gt; sp. nov. and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;yanayacu&lt;/i&gt; sp. nov.). Diagnostic illustrations are provided for all new species. Photographs of living spiders are also provided for some new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Araneae; Salticidae; Euophryinae; new genus; new species; jumping spider; Brazil; Ecuador; Panama</subject>
+          <subject_class locale="en_US">Araneae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jun-Xia</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wayne</firstname>
+          <middlename>P.</middlename>
+          <lastname>Maddison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New and little known earthworm species from Central Madagascar (Oligochaeta: Kynotidae) </title>
+        <abstract locale="en_US">The investigation of a small number of earthworms collected in Central Madagascar resulted in the discovery of two spe-cies new for science, &lt;i&gt;Kynotus&lt;/i&gt; &lt;i&gt;minutus&lt;/i&gt; and &lt;i&gt;Kynotus&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Apart from the descriptions and illustrations of thenew species, the two little-known species &lt;i&gt;Kynotus&lt;/i&gt; &lt;i&gt;alaotranus&lt;/i&gt; Michaelsen, 1907 and &lt;i&gt;Kynotus&lt;/i&gt; &lt;i&gt;michaelseni&lt;/i&gt; Rosa, 1892 arerecorded for the first time after the original description, and commented short diagnoses are provided. With the two newspecies described in this paper, the genus &lt;i&gt;Kynotus&lt;/i&gt; now contains 20 species. The monogeneric earthworm family Kynotidae is endemic to Madagascar.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Earthworms; Madagascar; &lt;i&gt;Kynotus&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Earthworms</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Csaba</firstname>
+          <lastname>Csuzdi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Malalatiana</firstname>
+          <lastname>Razafindrakoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eric</firstname>
+          <lastname>Blanchart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-42</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New eriophyoid mites (Acari: Prostigmata: Eriophyoidea) in Britain: one new genus, four new species, 19 new records and two incursions </title>
+        <abstract locale="en_US">One new genus and four new species of eriophyoid mites from Britain are described and illustrated: &lt;i&gt;Novophytoptus&lt;/i&gt; &lt;i&gt;acu-&lt;/i&gt;&lt;i&gt;leatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Phytoptidae) from &lt;i&gt;Juncus&lt;/i&gt; &lt;i&gt;squarrosus&lt;/i&gt; L. (Juncaceae); &lt;i&gt;Tegnacus&lt;/i&gt; &lt;i&gt;unicornutus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;&amp;&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Eriophyidae)from &lt;i&gt;Carpinus&lt;/i&gt; &lt;i&gt;betulus&lt;/i&gt; L. (Betulaceae); &lt;i&gt;Calacarus&lt;/i&gt; &lt;i&gt;pusillus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Eriophyidae) from &lt;i&gt;Calluna&lt;/i&gt; &lt;i&gt;vulgaris&lt;/i&gt; (L.) Hull (Ericace-ae); and &lt;i&gt;Brevulacus&lt;/i&gt; &lt;i&gt;extensus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Diptilomiopidae) from &lt;i&gt;Quercus&lt;/i&gt; &lt;i&gt;robur&lt;/i&gt; L. (Fagaceae). Digital micrographs are alsoprovided for each new taxon. Furthermore, 19 eriophyoid species are confirmed or recorded in Britain for the first time:one species in the family Phytoptidae, &lt;i&gt;Trisetacus&lt;/i&gt; &lt;i&gt;ehmanni&lt;/i&gt; Keifer from &lt;i&gt;Pinus&lt;/i&gt; &lt;i&gt;sylvestris&lt;/i&gt; L. (Pinaceae); 13 species belong-ing in the family Eriophyidae, &lt;i&gt;Abacarus&lt;/i&gt; &lt;i&gt;acutatus&lt;/i&gt; Sukhareva and &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;eximia&lt;/i&gt; Sukhareva from &lt;i&gt;Calamagrostis&lt;/i&gt; &lt;i&gt;epigeios&lt;/i&gt;(L.) Roth (Poaceae), &lt;i&gt;Acaricalus&lt;/i&gt; &lt;i&gt;hydrophylli&lt;/i&gt; Keifer from &lt;i&gt;Ilex&lt;/i&gt; &lt;i&gt;aquifolium&lt;/i&gt; L. (Aquifoliaceae), &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;exigua&lt;/i&gt; (Liro) from &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;vulgaris,&lt;/i&gt; &lt;i&gt;Acaricalus&lt;/i&gt; &lt;i&gt;rubrifoliae&lt;/i&gt; Labanowski and &lt;i&gt;Glyptacus&lt;/i&gt; &lt;i&gt;fagineae&lt;/i&gt; Carmona from &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;robur,&lt;/i&gt; &lt;i&gt;Aculus&lt;/i&gt; &lt;i&gt;cytisi&lt;/i&gt; Labanowskifrom &lt;i&gt;Cytisus&lt;/i&gt; &lt;i&gt;scoparius&lt;/i&gt; (L.) (Fabaceae), &lt;i&gt;Anthocoptes&lt;/i&gt; &lt;i&gt;transitionalis&lt;/i&gt; Hodgkiss from &lt;i&gt;Acer&lt;/i&gt; &lt;i&gt;pseudoplatanus&lt;/i&gt; L. (Sapindaceae),&lt;i&gt;Calepitrimerus&lt;/i&gt; &lt;i&gt;buxi&lt;/i&gt; Petanović from &lt;i&gt;Buxus&lt;/i&gt; &lt;i&gt;sempervirens&lt;/i&gt; L. (Buxaceae), &lt;i&gt;Calepitrimerus&lt;/i&gt; &lt;i&gt;crataegi&lt;/i&gt; Malandraki, Petanović&amp; Emmanouel from &lt;i&gt;Crataegus&lt;/i&gt; &lt;i&gt;monogyna&lt;/i&gt; Jacq. (Rosaceae), &lt;i&gt;Neotegonotus&lt;/i&gt; &lt;i&gt;fastigatus&lt;/i&gt; (Nalepa) from &lt;i&gt;Acer&lt;/i&gt; &lt;i&gt;campestre&lt;/i&gt; L.(Sapindaceae), &lt;i&gt;Phyllocoptes&lt;/i&gt; &lt;i&gt;abaenus&lt;/i&gt; Keifer from &lt;i&gt;Prunus&lt;/i&gt; &lt;i&gt;spinosa&lt;/i&gt; L., and &lt;i&gt;Platyphytoptus&lt;/i&gt; &lt;i&gt;sabinianae&lt;/i&gt; Keifer from &lt;i&gt;Pinus&lt;/i&gt;&lt;i&gt;nigra&lt;/i&gt; J.F. Arnold; five species belonging in the family Diptilomiopidae, &lt;i&gt;Brevulacus&lt;/i&gt; &lt;i&gt;reticulatus&lt;/i&gt; Manson from &lt;i&gt;Q.&lt;/i&gt; &lt;i&gt;robur&lt;/i&gt; and&lt;i&gt;Quercus&lt;/i&gt; &lt;i&gt;cerris&lt;/i&gt; L., &lt;i&gt;Cheiracus&lt;/i&gt; &lt;i&gt;ornatus&lt;/i&gt; (Farkas) from &lt;i&gt;Fagus&lt;/i&gt; &lt;i&gt;sylvatica&lt;/i&gt; L. (Fagaceae), &lt;i&gt;Quadracus&lt;/i&gt; &lt;i&gt;urticarius&lt;/i&gt; (Canestrini &amp;Massalongo) from &lt;i&gt;Urtica&lt;/i&gt; &lt;i&gt;dioica&lt;/i&gt; L. (Urticaceae), &lt;i&gt;Rhinophytoptus&lt;/i&gt; &lt;i&gt;bagdasariani&lt;/i&gt; Shevtchenko &amp; Pogosova from &lt;i&gt;Ulmus&lt;/i&gt;&lt;i&gt;procera&lt;/i&gt; Salisb. (Ulmaceae), and &lt;i&gt;Rhyncaphytoptus&lt;/i&gt; &lt;i&gt;amplus&lt;/i&gt; Keifer from &lt;i&gt;Acer&lt;/i&gt; &lt;i&gt;pseudoplatanus&lt;/i&gt; L. Two species are also re-corded here in Britain as incursions, &lt;i&gt;Tumescoptes&lt;/i&gt; &lt;i&gt;trachycarpi&lt;/i&gt; Keifer on &lt;i&gt;Trachycarpus&lt;/i&gt; &lt;i&gt;fortunei&lt;/i&gt; (Hook.) H. Wendl. (Are-caceae) from a commercial plant nursery site, and &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;gilloglii&lt;/i&gt; on &lt;i&gt;Pleioblastus&lt;/i&gt; &lt;i&gt;distichus&lt;/i&gt; (Mitford) Nakai[=Arundinaria &lt;i&gt;pygmaea&lt;/i&gt; (Miq.) Asch. &amp; Graebn. var. &lt;i&gt;disticha&lt;/i&gt; (Mitford) C.S. Chao &amp; Renvoize] (Poaceae) from a botan-ical garden. Collection details, distribution records and host symptoms are given for each species. The practice of publishing records solely identified from gall morphology and host association is also discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Phytoptidae; Eriophyidae; Diptilomiopidae; gall mites; taxonomy; plant pest</subject>
+          <subject_class locale="en_US">Phytoptidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>R. L.</middlename>
+          <lastname>Pye</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-68</pages>
+        <date_published>2012-12-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

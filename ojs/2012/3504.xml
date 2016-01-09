@@ -1,3 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3504.1</id>
+    <title locale="en_US">2 Oct. 2012</title>
+    <volume>3504</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of &lt;i&gt;Neomuscina &lt;/i&gt;Townsend (Diptera, Muscidae) from Brazil </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alessandre</firstname>
+          <lastname>Pereira-Colavite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <middlename>J. B.</middlename>
+          <lastname>De Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-55</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Scolebythidae (Hymenoptera: Chrysidoidea) from the Early Cretaceous of China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yaping</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yunyun</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chungkun</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-66</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Billions and billions sold: Pet-feeder crickets (Orthoptera: Gryllidae), commercial cricket farms, an epizootic densovirus, and government regulations make for a potential disaster </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>B.</middlename>
+          <lastname>Weissman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>A.</middlename>
+          <lastname>Gray</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hanh</firstname>
+          <middlename>Thi</middlename>
+          <lastname>Pham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Tijssen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-88</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

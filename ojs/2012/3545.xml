@@ -1,3 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3545.1</id>
+    <title locale="en_US">9 Nov. 2012</title>
+    <volume>3545</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Amphibolips &lt;/i&gt;species of Mexico excluding the "&lt;i&gt;niger &lt;/i&gt;complex" Kinsey (Hymenoptera: Cynipidae), with description of seven new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>L</middlename>
+          <lastname>Nieves-Aldrey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <lastname>Pascual</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Y.</firstname>
+          <lastname>Maldonado-Lopez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E.</firstname>
+          <lastname>Medianero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <lastname>Oyama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2012-11-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the jumping tree bugs (Hemiptera: Heteroptera: Miridae: Isometopinae) of Argentina and nearby areas of Brazil and Paraguay, with descriptions of nine new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thomas</firstname>
+          <middlename>J.</middlename>
+          <lastname>Henry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>L.</middlename>
+          <lastname>Carpintero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-58</pages>
+        <date_published>2012-11-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the final stadium larva of &lt;i&gt;Erythrodiplax bromeliicola &lt;/i&gt;Westfall 2000 (Odonata: Libellulidae) with notes on variation in adults from Cuba </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrian</firstname>
+          <lastname>Trapero-Quintana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodolfo</firstname>
+          <lastname>Novelo-Gutiérrez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-66</pages>
+        <date_published>2012-11-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of &lt;i&gt;Kermes greeni &lt;/i&gt;Bodenheimer (Hemiptera: Coccoidea: Kermesidae) with a new synonymy </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Malkie</firstname>
+          <lastname>Spodek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yair</firstname>
+          <lastname>Ben-Dov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alex</firstname>
+          <lastname>Protasov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-75</pages>
+        <date_published>2012-11-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Pseudocosmetura &lt;/i&gt;(Orthoptera: Tettigoniidae: Meconematinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xun</firstname>
+          <lastname>Bian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>76-82</pages>
+        <date_published>2012-11-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Neotype designation for &lt;i&gt;Cladotanytarsus &lt;/i&gt;(&lt;i&gt;Lenziella&lt;/i&gt;) &lt;i&gt;bicornutus &lt;/i&gt;(Kieffer), and first description of the distinctive female (Diptera: Chironomidae: Tanytarsini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wojciech</firstname>
+          <lastname>Giłka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martin</firstname>
+          <lastname>Spies</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-11-09</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

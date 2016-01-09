@@ -1,3 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3398.1</id>
+    <title locale="en_US">24 Jul. 2012</title>
+    <volume>3398</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Gelatinous zooplankton fauna (Cnidaria, Ctenophora and Thaliacea) from Baía da Babitonga (southern Brazil)</title>
+        <abstract locale="en_US">The present study reports on a survey of the gelatinous zooplankton fauna (Cnidaria, Ctenophora and Thaliacea) from theproposed Baía da Babitonga marine protected area (southern Brazil; ~26°S), based on collections from multiple sites overdifferent seasons and from published literature. In order to sample both small and large gelatinous animals, plankton hauls(n = 255) and fishing trawls (n = 126) were employed. More than 20,000 organisms were studied, which, includingliterature data, totaled 48 species: one cubomedusa, three scyphomedusae, four siphonophores, 36 hydromedusae, twoctenophores, and two thaliaceans. Among these, the hydromedusae &lt;i&gt;Cnidostoma&lt;/i&gt; &lt;i&gt;fallax&lt;/i&gt; Vanhöffen and &lt;i&gt;Helgicirrha&lt;/i&gt; sp. arerecorded for the first time from the southwestern Atlantic coast and &lt;i&gt;Paulinum&lt;/i&gt; sp. and &lt;i&gt;Protiara&lt;/i&gt; sp. are recorded for thefirst time from the South Atlantic. A description of young stages of the hydromedusa &lt;i&gt;Gossea&lt;/i&gt; &lt;i&gt;brachymera&lt;/i&gt; Bigelow ispresented and shows that &lt;i&gt;Octobulbacea&lt;/i&gt; &lt;i&gt;montehermosensis&lt;/i&gt; Zamponi is a junior synonym of the former. Althoughcomprehensive local assessment of diverse taxonomic groups is still lacking, the high diversity observed herein underscores the importance of Baía da Babitonga as a high priority site for conservation of regional marine biodiversity.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; ctenophores; doliolids; estuary; medusae; siphonophores; salps; southwestern Atlantic</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Miodeli</firstname>
+          <middlename>Nogueira</middlename>
+          <lastname>Júnior</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-07-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Detection of cryptic taxa in &lt;i&gt;Leptobrachium nigrops &lt;/i&gt;(Amphibia, Anura, Megophryidae), with description of two new species</title>
+        <abstract locale="en_US">We evaluated taxonomic relationships among allopatric populations of &lt;i&gt;Leptobrachium&lt;/i&gt; &lt;i&gt;nigrops&lt;/i&gt; Berry &amp; Hendrickson fromMalay Peninsula, Singapore, Indonesia (Belitung), and Borneo (Sarawak). Phylogenetic relationships estimated from thesequence data of mitochondrial 12S RNA, tRNAval , and 16S rRNA genes, and nuclear NCX1 and SLC8A genes revealedpresence of three distinct clades within &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;nigrops:&lt;/i&gt; (1) true &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;nigrops&lt;/i&gt; clade from Singapore and Malay Peninsula, (2) cladefrom Belitung, Indonesia and coastal area of Sarawak, Borneo, and (3) clade from Kanowit, Sarawak, an inland area ofBorneo. Each of these three genetic clades is considered to represent distinct species because they are genetically highlydivergent and morphologically distinguishable. We therefore describe the populations from Belitung and coastal area ofSarawak as &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ingeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov&lt;/b&gt; and the population from the inland area of Sarawak as &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kanowitense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Ancestral &lt;i&gt;L.&lt;/i&gt;&lt;i&gt;kanowitense&lt;/i&gt; seems to have invaded Borneo Island much earlier than ancestral &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;ingeri,&lt;/i&gt; whose dispersion occurred during the Pleistocene glacial periods.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Leptobrachium&lt;/i&gt; &lt;i&gt;nigrops&lt;/i&gt;; new species; phylogenetic relationships; Malay Peninsula; Belitung; Borneo</subject>
+          <subject_class locale="en_US">&lt;i&gt;Leptobrachium&lt;/i&gt; &lt;i&gt;nigrops&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Amir</firstname>
+          <lastname>Hamidy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masafumi</firstname>
+          <lastname>Matsui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kanto</firstname>
+          <lastname>Nishikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daicus</firstname>
+          <middlename>M.</middlename>
+          <lastname>Belabut</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-39</pages>
+        <date_published>2012-07-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The identities of &lt;i&gt;Cancer arenarius &lt;/i&gt;Toreen, &lt;i&gt;in &lt;/i&gt;Osbeck, 1765, &lt;i&gt;Cancer arenarius&lt;/i&gt; Zimmermann, &lt;i&gt;in &lt;/i&gt;Cavolini, 1792, &lt;i&gt;Cancer &lt;/i&gt;(&lt;i&gt;Mantis&lt;/i&gt;) &lt;i&gt;arenarius &lt;/i&gt;Herbst, 1793, and &lt;i&gt;Cancer &lt;/i&gt;(&lt;i&gt;Gammarellus&lt;/i&gt;) &lt;i&gt;arenarius &lt;/i&gt;Herbst, 1793, and other names associated with the genus &lt;i&gt;Ocypode &lt;/i&gt;Weber, 1795 (Crustacea: Amphipoda, Decapoda, Stomatopoda)</title>
+        <abstract locale="en_US">The binomial name &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;arenarius&lt;/i&gt; has been proposed in five different works for species of Crustacea. The earliestname, &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;arenarius&lt;/i&gt; Toreen, &lt;i&gt;in&lt;/i&gt; Osbeck, 1765, is identified with &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;ceratophthalmus&lt;/i&gt; (Pallas, 1772), with usageof the latter name being maintained by a reversal of precedence. We identify &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;arenarius&lt;/i&gt; Zimmermann, &lt;i&gt;in&lt;/i&gt; Cavolini,1792, with &lt;i&gt;Eriphia&lt;/i&gt; &lt;i&gt;verrucosa&lt;/i&gt; (Forskål, 1775). &lt;i&gt;Cancer&lt;/i&gt; (Mantis) &lt;i&gt;arenarius&lt;/i&gt; Herbst, 1793, is a preoccupied and unavailableobjective synonym of &lt;i&gt;Lysiosquillina&lt;/i&gt; &lt;i&gt;maculata&lt;/i&gt; (Fabricius, 1793), and we herein designate the neotype of the latter as thesimultaneous neotype of the former to fix the identities of both names. &lt;i&gt;Cancer&lt;/i&gt; (Gammarellus) &lt;i&gt;arenarius&lt;/i&gt; Herbst, 1793, isidentified with &lt;i&gt;Gamarellus&lt;/i&gt; &lt;i&gt;homari&lt;/i&gt; (Fabricius, 1779). &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;arenarius&lt;/i&gt; Catesby, 1771, has been deemed not an availablename by the Zoological Commission, but is identifiable with &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;quadrata&lt;/i&gt; (Fabricius, 1787). &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;eques&lt;/i&gt; Aubertde la Chesnaye des Bois, 1759, and &lt;i&gt;Ocypoda&lt;/i&gt; &lt;i&gt;ippeus&lt;/i&gt; Olivier, 1804 (and its incorrect original spelling, &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;hippeus),&lt;/i&gt;are both referred to &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;cursor&lt;/i&gt; (Linnaeus, 1758), while &lt;i&gt;Ocypoda&lt;/i&gt; &lt;i&gt;edwardsi&lt;/i&gt; Osorio, 1890, is a subjective juniorsynonym of &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt; De Man, 1881. The authorship of &lt;i&gt;Cancer&lt;/i&gt; &lt;i&gt;erythropus&lt;/i&gt; (now &lt;i&gt;Dromia&lt;/i&gt; &lt;i&gt;erythropus):&lt;/i&gt; Edwards, &lt;i&gt;in&lt;/i&gt; Catesby, 1771, is also clarified.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; Stomatopoda; Amphipoda; &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;ceratophthalmus&lt;/i&gt;; &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;quadrata&lt;/i&gt;; &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;cursor&lt;/i&gt;; &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;africana&lt;/i&gt;; neotype designation; nomenclature; ICZN; Code; Article 23.9; &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;protectum&lt;/i&gt;; &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;oblitum&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-57</pages>
+        <date_published>2012-07-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Mystus velifer&lt;/i&gt;, a new species of catfish from Indochina (Teleostei: Bagridae)</title>
+        <abstract locale="en_US">&lt;i&gt;Mystus&lt;/i&gt; &lt;i&gt;velifer,&lt;/i&gt; a new species of catfish from the lower reaches and estuaries of river drainages in mainland Southeast Asiais described here. It can be distinguished from congeners in having a combination of a produced, narrow snout, large eye(diameter 23.3–29.2% SL), the (anterior) cranial fontanel reaching past midway between the posterior orbital margin andthe base of the supraoccipital spine, very long maxillary barbels that reach to or beyond the base of the caudal fin, headlength 24.1–27.6% SL, length of dorsal spine 16.6–21.2% SL, 22–29 rakers on the first gill arch, the first dorsal-fin rayproduced and reaching to the middle of the adipose-fin base, a short-based adipose fin (13.0–17.9% SL) without a deeplyincised posterior margin, and depth of caudal peduncle 8.3–11.1% SL. The synonymy of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;armiger&lt;/i&gt; with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;wolffii&lt;/i&gt; is confirmed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Siluriformes; &lt;i&gt;Mystus&lt;/i&gt; &lt;i&gt;wolffii&lt;/i&gt;; Mekong River</subject>
+          <subject_class locale="en_US">Siluriformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2012-07-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

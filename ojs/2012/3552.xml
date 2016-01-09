@@ -1,3 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3552.1</id>
+    <title locale="en_US">16 Nov. 2012</title>
+    <volume>3552</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Ants of North Carolina: an updated list (Hymenoptera: Formicidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Benoit</firstname>
+          <lastname>Guénard</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Katherine</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mccaffrey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrea</firstname>
+          <lastname>Lucky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rob</firstname>
+          <middlename>R.</middlename>
+          <lastname>Dunn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2012-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt;Ankothrips &lt;/i&gt;species (Thysanoptera: Melanthripidae) from Iran with unusually short setae </title>
+        <abstract locale="en_US">&lt;i&gt;Ankothrips&lt;/i&gt; &lt;i&gt;zayandicus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from Isfahan province, central Iran. It is unique among &lt;i&gt;Ankothrips&lt;/i&gt; species, alsounusual among Melanthripidae, in having no long setae on the head and pronotum. Problems are discussed in defining genera in Melanthripidae and Thripidae on the basis of pronotal setae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ankothrips&lt;/i&gt;; Isfahan province; Melanthripidae; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ankothrips&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kambiz</firstname>
+          <lastname>Minaei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Farinaz</firstname>
+          <lastname>Haftbaradaran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laurence</firstname>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-42</pages>
+        <date_published>2012-11-16</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of Psychodidae (Diptera) from Australasia, with a checklist of the world species of Bruchomyiinae and Sycoracinae </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gregory</firstname>
+          <middlename>R.</middlename>
+          <lastname>Curler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amanda</firstname>
+          <middlename>J.</middlename>
+          <lastname>Jacobson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-65</pages>
+        <date_published>2012-11-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the taxonomic placement of &lt;i&gt;Geodromicus pusillus &lt;/i&gt;Coiffait, 1983 (Coleoptera: Staphylinidae: Omaliinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <middlename>V.</middlename>
+          <lastname>Shavrin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-11-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

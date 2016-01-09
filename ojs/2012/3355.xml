@@ -1,3 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3355.1</id>
+    <title locale="en_US">22 Jun. 2012</title>
+    <volume>3355</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision and phylogenetic analysis of the Papuan weevil genus &lt;i&gt;Thyestetha &lt;/i&gt;Pascoe (Coleoptera, Curculionidae, Cryptorhynchinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Thyestetha&lt;/i&gt; Pascoe, an apterous genus of Papuan Cryptorhynchinae is revised. It contains two previously describedspecies, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;carbonaria&lt;/i&gt; Faust and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nitida&lt;/i&gt; Pascoe, plus seven new species: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;discolor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;emarginata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt;&lt;i&gt;T.&lt;/i&gt; &lt;i&gt;glabra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;lubrica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;oblita&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;puncticollis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;splendens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n..&lt;/b&gt; Lectotypes are designatedfor &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;carbonaria,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nitida,&lt;/i&gt; and &lt;i&gt;Pantoxistus&lt;/i&gt; &lt;i&gt;rubripennis&lt;/i&gt; Chevrolat which is a junior synonym of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nitida&lt;/i&gt; (syn. &lt;b&gt;n.).&lt;/b&gt; Thegenus and its species are described and the characters relevant for their identification are illustrated. A key to the speciesis provided. Phylogenetic analyses are performed, utilizing molecular and morphological approaches. A maximumlikelihood tree including 5 &lt;i&gt;Thyestetha&lt;/i&gt; species and 2 outgroups is presented, based on 3 mitochondrial and 4 nuclearmarkers. A maximum parsimony analysis of 19 morphological characters includes all described species. &lt;i&gt;Thyestetha&lt;/i&gt; ispresumably closely related to &lt;i&gt;Telaugia&lt;/i&gt; Pascoe and &lt;i&gt;Elichora&lt;/i&gt; Pascoe. The group is restricted to New Guinea and some smaller neighboring islands.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; New Guinea; &lt;i&gt;Pantoxistus&lt;/i&gt;; synonymy; key; phylogeny; cladistics; molecular; morphology</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jonas</firstname>
+          <lastname>Eberle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rene</firstname>
+          <lastname>Tänzler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <lastname>Riedel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-06-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New European bee species of the tribe Osmiini (Hymenoptera: Apoidea: Megachilidae)</title>
+        <abstract locale="en_US">Bees of the tribe Osmiini (Megachilidae) are represented by about 230 described species in Europe. In this publication, 15 newEuropean osmiine bee species are described and diagnosed: &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Alcidamea)&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; spec. nov., &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Anthocopa)&lt;/i&gt;&lt;i&gt;peniculifera&lt;/i&gt; spec. nov., &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Hoplitis)&lt;/i&gt; &lt;i&gt;hilbera&lt;/i&gt; spec. nov., &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Hoplitis)&lt;/i&gt; &lt;i&gt;lithodorae&lt;/i&gt; spec. nov. and &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;manuelae&lt;/i&gt;spec. nov. from Spain; &lt;i&gt;Chelostoma&lt;/i&gt; &lt;i&gt;(Chelostoma)&lt;/i&gt; &lt;i&gt;siciliae&lt;/i&gt; spec. nov. from Sicily; &lt;i&gt;Chelostoma&lt;/i&gt; &lt;i&gt;(Foveosmia)&lt;/i&gt; &lt;i&gt;incognitum&lt;/i&gt; spec.nov., &lt;i&gt;Chelostoma&lt;/i&gt; &lt;i&gt;(Foveosmia)&lt;/i&gt; &lt;i&gt;longifacies&lt;/i&gt; spec. nov., &lt;i&gt;Chelostoma&lt;/i&gt; &lt;i&gt;(Gyrodromella)&lt;/i&gt; &lt;i&gt;aegaeicum&lt;/i&gt; spec. nov., &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Annosmia)&lt;/i&gt;&lt;i&gt;monticola&lt;/i&gt; spec. nov., &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Anthocopa)&lt;/i&gt; &lt;i&gt;nicolaei&lt;/i&gt; spec. nov., &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Anthocopa)&lt;/i&gt; &lt;i&gt;serainae&lt;/i&gt; spec. nov. and &lt;i&gt;Protosmia&lt;/i&gt; &lt;i&gt;(Nano-&lt;/i&gt;&lt;i&gt;smia)&lt;/i&gt; &lt;i&gt;montana&lt;/i&gt; spec. nov. from Greece; &lt;i&gt;Chelostoma&lt;/i&gt; &lt;i&gt;(Chelostoma)&lt;/i&gt; &lt;i&gt;comosum&lt;/i&gt; spec. nov. from Cyprus; and &lt;i&gt;Hoplitis&lt;/i&gt; &lt;i&gt;(Anthocopa)&lt;/i&gt; &lt;i&gt;caucasicola&lt;/i&gt; spec. nov. from the Caucasus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Apiformes; &lt;i&gt;Chelostoma&lt;/i&gt;; &lt;i&gt;Hoplitis&lt;/i&gt;; &lt;i&gt;Protosmia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Apiformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andreas</firstname>
+          <lastname>Müller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-50</pages>
+        <date_published>2012-06-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A brachypterous &lt;i&gt;Bryophaenocladius &lt;/i&gt;(Diptera: Chironomidae: Orthocladiinae) with hypopygium inversum from Heggie’s Rock, Georgia, U.S.A.</title>
+        <abstract locale="en_US">The adult male and female, pupa and larva of a new species, &lt;i&gt;Bryophaenocladius&lt;/i&gt; &lt;i&gt;chrissichuckorum,&lt;/i&gt; are described fromHeggie’s Rock, Georgia, U.S.A. Males and females of the species are brachypterous; males have a hypopygium inversum.Pupae differ from other described &lt;i&gt;Bryophaenocladius&lt;/i&gt; by the presence of three pairs of small setae on the prefrons. Larvaehave a mentum with 2 broad median teeth and AR of about 0.99, but are not realistically separable from many other &lt;i&gt;Bryophaenocladius&lt;/i&gt; species. The immature stages inhabit shallow ephemeral pools.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chironomidae; &lt;i&gt;Bryophaenocladius&lt;/i&gt;; new species; brachypterous; Nearctic; Heggie’s Rock</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>H.</middlename>
+          <lastname>Epler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2012-06-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Ceroderma asperata &lt;/i&gt;Raffray, and description of &lt;i&gt;Cerochusa&lt;/i&gt; &lt;i&gt;cilioceps &lt;/i&gt;gen. et sp. n. from Hainan, South China (Coleoptera, Staphylinidae, Pselaphinae)</title>
+        <abstract locale="en_US">The monotypic genus &lt;i&gt;Ceroderma&lt;/i&gt; Raffray and the type species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;asperata&lt;/i&gt; Raffray are redescribed and illustrated, based onexamination of the holotype and additional specimens collected near the type locality. An allied new genus and species, &lt;i&gt;Cero-&lt;/i&gt;&lt;i&gt;chusa&lt;/i&gt; &lt;i&gt;cilioceps&lt;/i&gt; Yin &amp; Nomura, &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Hainan Island, South China, and distinguished from related batrisine genera.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Staphylinidae; Pselaphinae; &lt;i&gt;Ceroderma&lt;/i&gt; &lt;i&gt;asperata&lt;/i&gt;; &lt;i&gt;Cerochusa&lt;/i&gt; &lt;i&gt;cilioceps&lt;/i&gt;; new genus; new species; Malaysia; China</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zi-Wei</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shûhei</firstname>
+          <lastname>Nomura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li-Zhen</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-06-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

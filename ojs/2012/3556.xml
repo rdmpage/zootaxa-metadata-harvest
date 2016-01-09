@@ -1,3 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3556.1</id>
+    <title locale="en_US">20 Nov. 2012</title>
+    <volume>3556</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">First Inventory of Sea Anemones (Cnidaria: Actiniaria) of the Mexican Caribbean </title>
+        <abstract locale="en_US">Ten species of sea anemones (Anthozoa: Actiniaria) are documented in the Mexican Caribbean based on observations andcollections in 11 coral reef localities during 2006–2011; three of them are new records for Mexico. These species belongto families Actiniidae, Aiptasiidae, Aliciidae, Boloceroididae, Phymanthidae, and Stichodactylidae. Although these do notrepresent all species reported in the Mexican Caribbean, these are the most abundant and conspicuous. This work represents the first inventory of sea anemones of the Mexican Caribbean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anthozoa; Zoantharia; Taxonomy; Coelenterates; Coral reefs</subject>
+          <subject_class locale="en_US">Anthozoa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Gonzalez-Muñoz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nuno</firstname>
+          <lastname>Simões</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Judith</firstname>
+          <lastname>Sanchez-Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Estefania</firstname>
+          <lastname>Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lourdes</firstname>
+          <lastname>Segura-Puertas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Diporiphora &lt;/i&gt;from the Goneaway Tablelands of Western Queensland </title>
+        <abstract locale="en_US">Australia’s agamid genus &lt;i&gt;Diporiphora&lt;/i&gt; is speciose and widespread, however, there remain significant taxonomicuncertainties within this group. Field collections across the range of &lt;i&gt;Diporiphora&lt;/i&gt; continue to uncover undocumentedmorphological and ecological variation. A new morpho-type was collected from hard pebbly soils on Valetta Station,western Queensland, providing ample data for the description of a new species (Diporiphora &lt;i&gt;ameliae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; Weundertook a morphological study, integrated with a comprehensive genetic study to provide the phylogenetic placementand distinctiveness of the new species. Although superficially similar to &lt;i&gt;Diporiphora&lt;/i&gt; &lt;i&gt;winneckei,&lt;/i&gt; the new species ischaracterised by well developed ventral body patterns consisting of four longitudinal grey stripes on a cream backgroundand three distinctive dark V-shaped markings that converge anteriorly on the throat and gular area. Molecular data ispresented incorporating a ~1200 bp of the mtDNA protein-coding gene &lt;i&gt;ND2&lt;/i&gt; and five flanking tRNAs for 58 newsequences and 53 previously published sequences. Phylogenetic analyses of the molecular data strongly support the newspecies as an independent evolutionary lineage within &lt;i&gt;Diporiphora.&lt;/i&gt; In addition, the molecular data also showed that thereis far greater diversity in &lt;i&gt;Diporiphora&lt;/i&gt; &lt;i&gt;winneckei&lt;/i&gt; sensu lato than was anticipated. Our results clearly indicate that there are at least three independent evolutionary lineages of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;winneckei-like&lt;/i&gt; dragons.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Diporiphora&lt;/i&gt; &lt;i&gt;ameliae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Agamidae; systematics; morphology; molecular phylogenetics; arid zone</subject>
+          <subject_class locale="en_US">&lt;i&gt;Diporiphora&lt;/i&gt; &lt;i&gt;ameliae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Agamidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>Couper</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jane</firstname>
+          <lastname>Melville</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angus</firstname>
+          <middlename>Emmott And Stephanie N. J.</middlename>
+          <lastname>Chapple</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-54</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new eriophyoid mite species (Acari: Prostigmata: Eriophyidae) on &lt;i&gt;Euphorbia &lt;/i&gt;spp. (Euphorbiaceae) from Iran </title>
+        <abstract locale="en_US">Eriophyoid mites infesting spurges (Euphorbiaceae) were surveyed in Kandovan and Govgan, southwest of East Azerbai-jan Province in Iran, during 2010 and 2011. Two new species are described and illustrated: &lt;i&gt;Aculops&lt;/i&gt; &lt;i&gt;seguieranae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt;from &lt;i&gt;Euphorbia&lt;/i&gt; &lt;i&gt;seguierana&lt;/i&gt; Necker and &lt;i&gt;Euphorbia&lt;/i&gt; &lt;i&gt;cheiradenia&lt;/i&gt; Boiss. et Hohen, and &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;cheiradeniae&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;cheiradenia.&lt;/i&gt; No damage symptoms were observed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">weeds; spurge; taxonomy; new species</subject>
+          <subject_class locale="en_US">weeds</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Parisa</firstname>
+          <lastname>Lotfollahi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karim</firstname>
+          <middlename>Haddad</middlename>
+          <lastname>Irani-Nejad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohamad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohamad</firstname>
+          <lastname>Moghadam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enrico</firstname>
+          <lastname>De Lillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-60</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Catalogue of the type material in the entomological collection of the University of La Laguna (Canary Islands, Spain). I. Arachnida </title>
+        <abstract locale="en_US">A catalogue of arachnid type specimens of the collection kept at the Department of Animal Biology, University of LaLaguna (Spain) is presented. It harbours type material of 104 species belonging to 23 families of arachnids, representedby 21 holotypes and 164 paratypes for 23 species of pseudoscorpions, and 49 holotypes, 218 paratypes and 3 syntypes for81 species of spiders. This collection is using the criteria and standards of the Global Biodiversity Information Facility(GBIF) for cataloguing and computerization of the specimens. Type specimens were checked with the original descriptions, and relevant additional information from original labels not included in GBIF was registered.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Macaronesia; holotypes; paratypes; zoological collection; taxonomy</subject>
+          <subject_class locale="en_US">Macaronesia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Sofia P. S.</middlename>
+          <lastname>Reboleira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>José</middlename>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heriberto</firstname>
+          <lastname>López</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nuria</firstname>
+          <lastname>Macías–Hernández</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Salvador</firstname>
+          <lastname>De La Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <lastname>Oromí</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-79</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First report of &lt;i&gt;Epistylis unioi &lt;/i&gt;Gong 1986 (Sessilida: Epistylididae) infecting fry of &lt;i&gt;Pelteobagrus fulvidraco &lt;/i&gt;in Hubei, China </title>
+        <abstract locale="en_US">The peritrich &lt;i&gt;Epistylis&lt;/i&gt; &lt;i&gt;unioi&lt;/i&gt; Gong, 1986 was collected from fry of &lt;i&gt;Pelteobagrus&lt;/i&gt; &lt;i&gt;fulvidraco&lt;/i&gt; during parasite surveys at Hon-ghu Lake Fish Hatchery, Hubei Province, central China in May 2010 and redescribed. Some revisions were done basedon live, silver-impregnated, and SEM specimens. The zooid is elongated and somewhat vase-like in shape, measuring56–88 × 22–38 µm in vivo. A single contractile vacuole is apically located slightly below the peristome disc. The macro-nucleus is horseshoe-shaped, always transversely situated at the foreside of the body. Haplokinety (H) and polykinety (Po)complete one and one-half circuits on the peristome before entering the infundibulum, with a distal kinetal fragment pres-ent at the distal end. Silverline system consists of 37–45 pellicular striations between peristome and aboral trochal band(TB), and of 26–33 between TB and scopula. Colony is asymmetrically and dichotomously branched, usually with onlytwo levels of branches. In addition, the telotrochs of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;unioi&lt;/i&gt; were also observed and its structures were described herein.Besides, obvious skin lesions caused by the ringlike base of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;unioi&lt;/i&gt; were detected and the relationship between these epizooites and their hosts was briefly discussed as well.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Epistylis&lt;/i&gt; &lt;i&gt;unioi&lt;/i&gt;; peritrich; infraciliature; skin lesions</subject>
+          <subject_class locale="en_US">&lt;i&gt;Epistylis&lt;/i&gt; &lt;i&gt;unioi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ming</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weidong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xianping</firstname>
+          <lastname>Ge</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chong</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Feng</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Huiyu</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>80-88</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

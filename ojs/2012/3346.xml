@@ -1,3 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3346.1</id>
+    <title locale="en_US">14 Jun. 2012</title>
+    <volume>3346</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphology of preimaginal stages of &lt;i&gt;Lauxania &lt;/i&gt;and &lt;i&gt;Calliopum&lt;/i&gt; (Diptera: Lauxaniidae)</title>
+        <abstract locale="en_US">Scanning electron microscopy (SEM) analysis of all preimaginal stages of the following lauxaniid species is presented for thefirst time: &lt;i&gt;Lauxania&lt;/i&gt; &lt;i&gt;cylindricornis&lt;/i&gt; (Fabricius), &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; Martinek, &lt;i&gt;Calliopum&lt;/i&gt; &lt;i&gt;aeneum&lt;/i&gt; (Fallén), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;elisae&lt;/i&gt; (Meigen), &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;splendidum&lt;/i&gt; Papp and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;simillimum&lt;/i&gt; (Collin). Detailed images of the pseudocephalon, antenna, maxillary palpus, facial mask,cirri, mouth hooks, body segments and anterior and posterior spiracles of all larval instars are provided along with illustrationsof the cephaloskeleton for all three instars. Eggs bear longitudinal ridges and a perforated tubercle on the posterior end. Larvaehave several rows of cirri, a pair of abdominal ambulatory lobes and the distal part of Malpighian tubules is filled with whitematter. Identification of species or genera is problematic especially in the second instar. Puparia are barrel-shaped, while thecalcareous deposit over the puparium typical for other lauxaniids is missing. The morphology of the immature stages supports the notion that &lt;i&gt;Lauxania&lt;/i&gt; may be not monophyletic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Lauxaniidae; &lt;i&gt;Lauxania&lt;/i&gt; &lt;i&gt;cylindricornis&lt;/i&gt;; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt;; &lt;i&gt;Calliopum&lt;/i&gt; &lt;i&gt;aeneum&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;elisae&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;simillimum&lt;/i&gt;; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;splendidum&lt;/i&gt;; egg; larva; puparium; morphology</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marek</firstname>
+          <lastname>Semelbauer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Milan</firstname>
+          <lastname>Kozánek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-06-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new species of &lt;i&gt;Penottus &lt;/i&gt;Distant (Hemiptera: Tingidae) from China</title>
+        <abstract locale="en_US">Six species of &lt;i&gt;Penottus&lt;/i&gt; Distant, 1903 (Heteroptera: Tingidae) from China are treated in this paper, in which &lt;i&gt;Penottus&lt;/i&gt;&lt;i&gt;tibetanus&lt;/i&gt; Drake and Maa, 1954 (described from Tibet) is newly recorded from Hubei Province, and four species aredescribed as new: &lt;i&gt;Penottus&lt;/i&gt; &lt;i&gt;bisinuatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Penottus&lt;/i&gt; &lt;i&gt;cassideus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;Penottus&lt;/i&gt; &lt;i&gt;fujianensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; and &lt;i&gt;Penottus&lt;/i&gt; &lt;i&gt;tuberculiformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; A key to the species occurring in China is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Heteroptera; Tingidae; lace bug; &lt;i&gt;Penottus&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kai</firstname>
+          <lastname>Dang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chuanren</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wenjun</firstname>
+          <lastname>Bu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-42</pages>
+        <date_published>2012-06-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the genus &lt;i&gt;Laena &lt;/i&gt;Dejean from China (Coleoptera, Tenebrionidae, Lagriinae)</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Laena&lt;/i&gt; Dejean: &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;bidentata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;exjuncta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (CHINA: Sichuan), and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;flectotibia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.&lt;/b&gt; (CHINA: Yunnan), are described. Photos of the habitus and aedeagi, with illustrations of legs, antennae, and ventrites of the male and female are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Tenebrionidae; Lagriinae; &lt;i&gt;Laena&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Lin</firstname>
+          <lastname>Zhao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guo-Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-50</pages>
+        <date_published>2012-06-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Catalogue of the Dryinidae and Sclerogibbidae (Hymenoptera: Chrysidoidea) of Belize, with description of two new species</title>
+        <abstract locale="en_US">Eighteen species of Dryinidae and one species of Sclerogibbidae are listed from Belize. Two new species of Dryinidae,&lt;i&gt;Anteon&lt;/i&gt; &lt;i&gt;dykeae&lt;/i&gt; Olmi, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Dryinus&lt;/i&gt; &lt;i&gt;schueeppi&lt;/i&gt; Olmi, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described from Belize, Corozal District. Keys toNeotropical species of &lt;i&gt;Anteon&lt;/i&gt; and &lt;i&gt;Dryinus&lt;/i&gt; are modified and include new species. Nine species of Dryinidae and one spe-cies of Sclerogibbidae are newly recorded from Belize. New records of Dryinidae are: four species from Panama, two spe-cies from Paraguay, and one species from Colombia, Mexico, Honduras, Venezuela, Ecuador, Bolivia and French Guiana. The dryinid and sclerogibbid fauna of Belize is still under-sampled and insufficiently known.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dryinidae; Sclerogibbidae; Belize; new species; new records; &lt;i&gt;Anteon&lt;/i&gt; &lt;i&gt;dykeae&lt;/i&gt;; &lt;i&gt;Dryinus&lt;/i&gt; &lt;i&gt;schueeppi&lt;/i&gt;; catalogue</subject>
+          <subject_class locale="en_US">Dryinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christof</firstname>
+          <lastname>Schüepp</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Massimo</firstname>
+          <lastname>Olmi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-63</pages>
+        <date_published>2012-06-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural notes on some Diptera genus-group names of P.A. Latreille</title>
+        <abstract locale="en_US">Nomenclatural notes are presented for a few Diptera genus-group names of P.A. Latreille. &lt;i&gt;Gonypes&lt;/i&gt; Latreille [Asilidae] is foundto be available from 1804 and not 1805 with no change in type species designation. &lt;i&gt;Molobrus&lt;/i&gt; Latreille [Sciaridae] is found tobe available from 1804 and not 1805, and its type species, &lt;i&gt;Tipula&lt;/i&gt; &lt;i&gt;thomae&lt;/i&gt; Linnaeus, 1767 is fixed by invoking Article 70.3 ofthe ICZN &lt;i&gt;Code,&lt;/i&gt; which maintains its junior synonymy under &lt;i&gt;Sciara&lt;/i&gt; Meigen, 1803. &lt;i&gt;Oligotrophus&lt;/i&gt; Latreille [Cecidomyiidae] isfound to be available from 1804 and not 1805 with no change in type species designation. The earliest valid subsequent typedesignation from originally included species was found for &lt;i&gt;Pangonius&lt;/i&gt; Latreille [Tabanidae] to be &lt;i&gt;Tabanus&lt;/i&gt; &lt;i&gt;proboscideus&lt;/i&gt;Fabricius, 1794 by Ersch &amp; Gruber in 1838. &lt;i&gt;Voluccella&lt;/i&gt; Fabricius, 1794 is deemed to be an available name (not an incorrectsubsequent spelling of &lt;i&gt;Volucella&lt;/i&gt; Geoffroy, 1762) and thus has priority over &lt;i&gt;Usia&lt;/i&gt; Latreille, 1802. In order to maintain stabilityof nomenclature and prevailing usage, reversal of precedence is invoked (ICZN &lt;i&gt;Code&lt;/i&gt; Article 23.9.2) and &lt;i&gt;Usia&lt;/i&gt; Latreille is conserved as a &lt;b&gt;&lt;i&gt;nomen&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;protectum&lt;/i&gt;&lt;/b&gt; and &lt;i&gt;Voluccella&lt;/i&gt; Fabricius, 1794 is treated as a &lt;b&gt;&lt;i&gt;nomen&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;oblitum.&lt;/i&gt;&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nomenclature; taxonomy; Asilidae; Bombyliidae; Cecidomyiidae; Sciaridae; Tabanidae</subject>
+          <subject_class locale="en_US">Nomenclature; taxonomy; Asilidae; Bombyliidae; Cecidomyiidae; Sciaridae; Tabanidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Neal</firstname>
+          <middlename>L.</middlename>
+          <lastname>Evenhuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-06-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

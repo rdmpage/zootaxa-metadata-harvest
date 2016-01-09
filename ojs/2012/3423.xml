@@ -1,3 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3423.1</id>
+    <title locale="en_US">15 Aug. 2012</title>
+    <volume>3423</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Richness of the Nearctic Treehopper Fauna (Hemiptera: Aetalionidae and Membracidae)</title>
+        <abstract locale="en_US">The indigenous Nearctic treehopper fauna includes 2 families, 6 subfamilies, 20 tribes, 68–72 genera, and 276–280 de-scribed species, of which 1 tribe, 16 genera, and 195 species are endemic. This work provides an alphabetical checklist ofthe species (with distributions as documented in the literature) as well as discussions and two tables summarizing the tax-onomic and regional diversity of this rich, distinctive fauna. The tribes Smiliini and Telamonini (Membracidae: Smilii-nae), which include many specialists on oaks (Quercus spp.), are the two most species-rich tribes. Maps of the Nearcticsubregions document the species richness of each state and province, 22 of which have between 60 and 118 reported spe-cies. The Southwest U.S. has the largest number of genera of the subregions, while both the Southwest and the Centraland Eastern U.S. are highly species rich. Arizona stands apart as an area of exceptional endemism with one genus and 25species known only from within its borders. Among families of auchenorrhynchous Hemiptera, Membracidae rank thirdin total numbers of Nearctic species. This study highlights the need for: (1) improved taxonomic understanding, especiallythrough comprehensive generic revisions; (2) further collecting to fill gaps in geographic sampling; and (3) the preserva-tion of identifiable voucher material, with full data (including geo-cordinates and, where known, host plant data) to document all published research.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aetalionidae; checklist; endemic; distribution; diversity; Membracidae; Nearctic region; treehoppers; United States; zoogeography</subject>
+          <subject_class locale="en_US">Aetalionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lewis</firstname>
+          <middlename>L.</middlename>
+          <lastname>Deitz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>S.</middlename>
+          <lastname>Wallace</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-08-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Cyrtogenius &lt;/i&gt;Strohmeyer in Europe, with a key to the European genera of the tribe &lt;i&gt;Dryocoetini &lt;/i&gt;(Coleoptera: Curculionidae, Scolytinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Massimo</firstname>
+          <lastname>Faccoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mauro</firstname>
+          <lastname>Simonato</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edoardo</firstname>
+          <middlename>Petrucco</middlename>
+          <lastname>Toffolo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-35</pages>
+        <date_published>2012-08-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Tyrannoseira &lt;/i&gt;(Collembola, Entomobryidae, Seirini) from Paraiba, Northeastern Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Douglas</firstname>
+          <lastname>Zeppelini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Estevam</firstname>
+          <middlename>Cipriano Araujo</middlename>
+          <lastname>De Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-44</pages>
+        <date_published>2012-08-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of immature stages of &lt;i&gt;Phelypera schuppeli &lt;/i&gt;(Boheman, 1834) with comments on natural history (Coleoptera: Curculionidae: Hyperinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Vanin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniela</firstname>
+          <lastname>De Cassia Bená</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabiano</firstname>
+          <middlename>Fabian</middlename>
+          <lastname>Albertoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-60</pages>
+        <date_published>2012-08-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematic position of Dinidoridae within the superfamily Pentatomoidea (Hemiptera: Heteroptera) revealed by the Bayesian phylogenetic analysis of the mitochondrial 12S and 16S rDNA sequences</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerzy</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paweł</firstname>
+          <lastname>Lis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dariusz</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ziaja</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anna</firstname>
+          <lastname>Kocorek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-08-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

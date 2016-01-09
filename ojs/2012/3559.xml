@@ -1,3 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3559.1</id>
+    <title locale="en_US">22 Nov. 2012</title>
+    <volume>3559</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Papuan frogs of the genus &lt;i&gt;Cophixalus &lt;/i&gt;(Anura: Microhylidae): new synonyms, new species, and a dichotomous key </title>
+        <abstract locale="en_US">&lt;i&gt;Cophixalus&lt;/i&gt; represents the most diverse genus of microhylid frogs. Within this group I show that two recently describedspecies are in fact synonyms of species described in the 19th Century. Proper recognition of one of these has been hinderedby the poor state of the syntypes and confused information presented in earlier literature. The second species was simplynot diagnosed against other members of the genus. I also describe five new species: one of these is known only from asingle specimen from far western New Guinea, two occupy the Papuan Peninsula in the east of that island, and two arerestricted to Woodlark Island off the southeastern tip of New Guinea. One of these new species had earlier been mis-iden-tified as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pipilans,&lt;/i&gt; requiring me to herein provide a corrected comparison of features that distinguishes &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;desticans&lt;/i&gt; from&lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pipilans.&lt;/i&gt; These taxonomic changes bring the number of &lt;i&gt;Cophixalus&lt;/i&gt; species to 61, of which 42 inhabit New Guinea andimmediately adjacent islands. But much of this region remains poorly surveyed, and, undoubtedly, many additional spe-cies remain to be described. I provide the first dichotomous key for the Papuan members of this genus, which should facilitate description of additional species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Milne Bay; Morobe; Owen Stanley Mountains; East Papuan Composite Terrane</subject>
+          <subject_class locale="en_US">Milne Bay</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fred</firstname>
+          <lastname>Kraus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Rhinella abei &lt;/i&gt;(Baldissera, Caramaschi, and Haddad, 2004) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bruno</firstname>
+          <middlename>Henrique Barbosa</middlename>
+          <lastname>Fehlberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <lastname>Natali</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tiago</firstname>
+          <middlename>Leite</middlename>
+          <lastname>Pezzuti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>Christiano</middlename>
+          <lastname>De Anchietta Garcia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-38</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Pachycara &lt;/i&gt;Zugmayer (Teleostei: Zoarcidae) from off Monterey Bay, California, USA, with comments on two North Pacific &lt;i&gt;Lycenchelys &lt;/i&gt;species </title>
+        <abstract locale="en_US">A new species of the eelpout genus &lt;i&gt;Pachycara&lt;/i&gt; Zugmayer is described from the lower bathyal zone of central California,USA on the basis of three adult males. It is distinguished from its congeners mainly by its low vertebral counts, origin ofthe mediolateral branch of the lateral line system, lack of pelvic fins, presence of scales on the nape and cheeks and re-stricted gill slit. In addition, two species of the eelpout genus &lt;i&gt;Lycenchelys&lt;/i&gt; Gill (L. &lt;i&gt;micropora&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;monstrosa),&lt;/i&gt; taken in the same collection as the new &lt;i&gt;Pachycara,&lt;/i&gt; are discussed, with the latter added to the California marine fish fauna.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pacific Ocean; Monterey Bay; California; Zoarcidae; eelpouts; &lt;i&gt;Pachycara&lt;/i&gt;; &lt;i&gt;Lycenchelys&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Pacific Ocean</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>Eric</middlename>
+          <lastname>Anderson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-43</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Brachyura described by John Robert Kinahan, and a discussion on Kinahan’s overlooked authorship of the family-group name Litocheiridae (Crustacea: Decapoda) </title>
+        <abstract locale="en_US">John Robert Kinahan (b. 1828, d. 1863) published new names for Brachyura collected from Australia, Ireland and Peru inthree publications. The dates of publication of these papers have not been previously determined accurately and some wereissued as separates and/or issued in multiple journals. The dates of these publications are determined, and a list of allknown new names proposed by Kinahan for the Brachyura (and their current identities) is provided. Kinahan is also de-termined to be the author of the family-group name Litocheiridae by an overlooked set of criteria making the name available in 1856.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Royal Dublin Society; &lt;i&gt;Natural&lt;/i&gt; &lt;i&gt;History&lt;/i&gt; &lt;i&gt;Review&lt;/i&gt;; dates of publication; authorship; priority; type material; Australia; Ireland; Peru</subject>
+          <subject_class locale="en_US">Royal Dublin Society</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nigel</firstname>
+          <middlename>T.</middlename>
+          <lastname>Monaghan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>M. C.</middlename>
+          <lastname>Holmes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-52</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new eriophyoid mite genus and species, &lt;i&gt;Gymnaceria cupuassu &lt;/i&gt;(Acari: Eriophyidae), described from the cupuaçu tree in Brazil </title>
+        <abstract locale="en_US">A new eriophyoid mite genus and species, &lt;i&gt;Gymnaceria&lt;/i&gt; &lt;i&gt;cupuassu&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; (Acari: Eriophyidae: Eriophyinae: Ace-riini), is described from young fruits and other plant parts of the cupuaçu tree, &lt;i&gt;Theobroma&lt;/i&gt; &lt;i&gt;grandiflorum&lt;/i&gt; (Willd. Ex Spreng.) K. Schum. (Sterculiaceae), from the State of Bahia, northeastern Brazil. No visible damage symptoms were observed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; eriophyid mites; Aceriini</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anibal</firstname>
+          <middlename>R.</middlename>
+          <lastname>Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniela</firstname>
+          <middlename>F. S.</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>H. W.</middlename>
+          <lastname>Flechtmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-57</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The advertisement call of &lt;i&gt;Elachistocleis helianneae &lt;/i&gt;Caramaschi, 2010 (Anura: Microhylidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Emanuel</firstname>
+          <middlename>Masiero</middlename>
+          <lastname>Da Fonseca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Flávia</firstname>
+          <middlename>Mól</middlename>
+          <lastname>Lanna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anathielle</firstname>
+          <middlename>Caroline Sant’</middlename>
+          <lastname>Anna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elvis</firstname>
+          <middlename>Almeida</middlename>
+          <lastname>Pereira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <middlename>Ferreira Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matheus</firstname>
+          <lastname>De Oliveira Neves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <lastname>Mângia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-60</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Marmachius&lt;/i&gt;, a spectacular new genus of Antarcturidae (Crustacea: Isopoda: Valvifera) </title>
+        <abstract locale="en_US">A new genus and species of Antarcturidae, &lt;i&gt;Marmachius&lt;/i&gt; &lt;i&gt;fortunae,&lt;/i&gt; is described from the bathyal of south-eastern Australia.&lt;i&gt;Antarcturus,&lt;/i&gt; type genus of the family, and &lt;i&gt;Marmachius&lt;/i&gt; are diagnosed. The new genus differs from other antarcturidgenera by the combination of the possession of middorsal spines, extremely long spines generally, free pleonite 1, and thegroove on the exopod of the male pleopod 1 opening distolaterally on a lobe-like apex beset with numerous fine setae. &lt;i&gt;Antarcturus&lt;/i&gt; &lt;i&gt;princeps&lt;/i&gt; is transferred to the new genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Isopoda; Valvifera; Antarcturidae; &lt;i&gt;Antarcturus&lt;/i&gt;; &lt;i&gt;Marmachius&lt;/i&gt;; new genus; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gary</firstname>
+          <middlename>C. B.</middlename>
+          <lastname>Poore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-11-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

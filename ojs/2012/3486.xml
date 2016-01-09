@@ -1,3 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3486.1</id>
+    <title locale="en_US">17 Sep. 2012</title>
+    <volume>3486</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Polychaetes from Santa Catarina State (southern Brazil): checklist and remarks on species distribution </title>
+        <abstract locale="en_US">This study summarizes taxonomic information on polychaetes from Santa Catarina State, southern Brazil, between25º57'S and 29º23'S, and provides species distribution records together with information on habitats, based on historicaldata and novel records from primary surveys. Rarefaction curves showed that most species were found in the shallowsublittoral (to 60 m) rather than in deep sublittoral (&gt;60 m) or estuarine habitats. Altogether, 228 valid species belongingto 141 genera and 44 families were recorded. This inventory adds 141 new records to previous regional reports. We founda shift in occurrence of species when comparing data from the study area with data from both southward (29–33º S) andnorthward (23–26º S) sites. Few species were shared between consecutive sites: this could be a response to the regionalbehaviour of the atmosphere and water masses, with a progressive increase in the influence of subantarctic waters and a decrease in the influence of subtropical waters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">species list; biodiversity; South Atlantic; geographic distribution; Annelida</subject>
+          <subject_class locale="en_US">species list</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <middlename>Roberto</middlename>
+          <lastname>Pagliosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Gabriel</middlename>
+          <lastname>Doria</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Giorgia</firstname>
+          <middlename>Freitas</middlename>
+          <lastname>Alves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tito</firstname>
+          <middlename>Cesar Marques</middlename>
+          <lastname>De Almeida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luciano</firstname>
+          <lastname>Lorenzi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Netto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <lastname>Da Cunha Lana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new highland species of treefrog of the &lt;i&gt;Dendropsophus columbianus &lt;/i&gt;group (Anura: Hylidae) from the Andes of Colombia </title>
+        <abstract locale="en_US">A new species of tree frog of the genus &lt;i&gt;Dendropsophus&lt;/i&gt; is described from the highlands of the Cordillera Central of theAndes, departamento de Antioquia, Colombia (06º58’50’’N, 75º08’07’’W, 1700 m a.s.l.). &lt;i&gt;Dendropsophus&lt;/i&gt; &lt;i&gt;norandinus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.&lt;/b&gt; differs from other Andean &lt;i&gt;Dendropsophus&lt;/i&gt; previously described by the following combination of traits: dorsal skinsmooth with minute scattered tubercles; axillary membrane developed; distal subarticular tubercle of fourth finger bifid;ventral surfaces cream with variable brown markings on gula, throat, and outer region of belly; medial area of the bellyimmaculate; in life axilla and groin pale yellow in males and bright orange in females; toe webbing extensive [I (1–1+ )–(11/2–13/4 ) II 1–(2–2- ) III 1–(2–2- ) IV (2–2- )–1 V], and tadpoles with tooth row formula of 0/2. On the basis of morphologicalsimilarities, principally between tadpoles, we tentatively assign this new species to the &lt;i&gt;Dendropsophus&lt;/i&gt; &lt;i&gt;columbianus&lt;/i&gt; group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andes; external morphology; tadpole; taxonomy</subject>
+          <subject_class locale="en_US">Andes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mauricio</firstname>
+          <lastname>Rivera-Correa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>David Alfonso</middlename>
+          <lastname>Gutiérrez-Cárdenas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-62</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Pereionotus &lt;/i&gt;(Crustacea, Amphipoda, Phliantidae) from Australia </title>
+        <abstract locale="en_US">&lt;i&gt;Pereionotus&lt;/i&gt; species from around Australia are described. The new taxa &lt;i&gt;Pereionotus&lt;/i&gt; &lt;i&gt;dieteri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Pereionotus&lt;/i&gt;&lt;i&gt;hartmuti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are fully described and compared with the redescribed &lt;i&gt;Pereionotus&lt;/i&gt; &lt;i&gt;thomsoni.&lt;/i&gt; Species misidentified inthe past are synonymised and as a result the new taxon &lt;i&gt;Pereionotus&lt;/i&gt; &lt;i&gt;yongensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is introduced. A new name,&lt;i&gt;Pereionotus&lt;/i&gt; &lt;i&gt;hirayamai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is proposed for &lt;i&gt;Pereionotus&lt;/i&gt; &lt;i&gt;thomsoni&lt;/i&gt; &lt;i&gt;japonicus&lt;/i&gt; (Hirayama, 1987) (homonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;japonicus&lt;/i&gt; (Tzvetkova, 1967)). A key to the Australian species of the genus &lt;i&gt;Pereionotus&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; new species; Australia; Phliantidae; Amphipoda; Crustacea; &lt;i&gt;Pereionotus&lt;/i&gt; &lt;i&gt;thomsoni&lt;/i&gt;; &lt;i&gt;Pereionotus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ch.</firstname>
+          <middlename>Oliver</middlename>
+          <lastname>Coleman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-88</pages>
+        <date_published>2012-09-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

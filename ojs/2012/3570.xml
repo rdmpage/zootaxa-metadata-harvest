@@ -1,3 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3570.1</id>
+    <title locale="en_US">3 Dec. 2012</title>
+    <volume>3570</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Chrysomphalus &lt;/i&gt;Ashmead (Hemiptera: Coccoidea: Diaspididae) with descriptions of a new species and a new, related genus </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Allan</firstname>
+          <middlename>H.</middlename>
+          <lastname>Smith-Pardo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gregory</firstname>
+          <middlename>A.</middlename>
+          <lastname>Evans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>W.</middlename>
+          <lastname>Dooley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on &lt;i&gt;Docosia &lt;/i&gt;Winnertz (Diptera: Mycetophilidae), with description of six new species from Central Asia and the first generic record from the Afrotropical region </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Olavi</firstname>
+          <lastname>Kurina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Ševčík</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-40</pages>
+        <date_published>2012-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Trifurcula &lt;/i&gt;(&lt;i&gt;Glaucolepis&lt;/i&gt;) &lt;i&gt;lituanica &lt;/i&gt;sp. nov., an unexpected new stem-miner on &lt;i&gt;Salvia pratensis &lt;/i&gt;occurring in eastern Europe (Lepidoptera: Nepticulidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Trifurcula&lt;/i&gt; (Glaucolepis) &lt;i&gt;lituanica&lt;/i&gt; Ivinskis &amp; van Nieukerken, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from adults reared from stem-mining larvae on &lt;i&gt;Salvia&lt;/i&gt; &lt;i&gt;pratensis&lt;/i&gt; (Lamiaceae) from Lithuania and some specimens taken as adults in Austria, Sloveniaand Greece. In addition the new species is recorded from Bulgaria, the Czech Republic and Romania. Superficially, itresembles &lt;i&gt;Trifurcula&lt;/i&gt; (Glaucolepis) &lt;i&gt;headleyella&lt;/i&gt; (Stainton, 1854), especially the male, but it differs by male genitaliawith additional cornuti, a unique character for the subgenus, and the female genitalia differ by the larger number ofconvolutions in the ductus spermathecae. It is the only known &lt;i&gt;Trifurcula&lt;/i&gt; to make its cocoon partially inside a stem-mine. The synonymy of &lt;i&gt;Nepticula&lt;/i&gt; &lt;i&gt;dubiella&lt;/i&gt; Hauder, 1912 with &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;headleyella&lt;/i&gt; is confirmed, but some specimensrecorded under this name from Austria belong to the new species. DNA barcodes are provided and compared with related species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; new species; hostplants; Lamiaceae; DNA-barcodes; COI gene; Palearctic</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Povilas</firstname>
+          <lastname>Ivinskis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Erik</firstname>
+          <middlename>J.</middlename>
+          <lastname>Van Nieukerken</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jolanta</firstname>
+          <lastname>Rimsaite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-55</pages>
+        <date_published>2012-12-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Microlestes &lt;/i&gt;Schmidt-Gobel, 1846 (Coleoptera: Carabidae) Southwest of the Iberian Peninsula (Portugal) with illustrated keys for the identification of the Iberian-Balearic species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vicente</firstname>
+          <middlename>M.</middlename>
+          <lastname>Ortuño</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Amalia</firstname>
+          <middlename>Espiridião</middlename>
+          <lastname>Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2012-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The European &lt;i&gt;Lepidocyrtus lanuginosus &lt;/i&gt;group (Collembola: Entomobryidae), definition and description of a new species from Spain </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <lastname>Mateos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-81</pages>
+        <date_published>2012-12-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the genus &lt;i&gt;Curiades &lt;/i&gt;Pascoe 1880 (Coleoptera: Curculionidae: Entiminae: Naupactini), a potential mimic of Mutillidae from Brazil </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <middlename>Guadalupe</middlename>
+          <lastname>Del Río</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Analia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lanteri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>82-88</pages>
+        <date_published>2012-12-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

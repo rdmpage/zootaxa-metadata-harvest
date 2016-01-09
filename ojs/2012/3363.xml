@@ -1,3 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3363.1</id>
+    <title locale="en_US">3 Jul. 2012</title>
+    <volume>3363</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the American spider genus &lt;i&gt;Strotarchus &lt;/i&gt;Simon, 1888 (Araneae: Dionycha, Systariinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Strotarchus&lt;/i&gt; Simon, 1888 is characterised for 18 species occurring from United States to Brazil. Seven previouslyknown species are redescribed: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;nebulosus&lt;/i&gt; Simon, 1888, the type species; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;praedator&lt;/i&gt; (O. Pickard-Cambridge, 1898); &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pis-&lt;/i&gt;&lt;i&gt;catorius&lt;/i&gt; (Hentz, 1847); &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;violaceus&lt;/i&gt; F.O. Pickard-Cambridge, 1899; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; Banks, 1909; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tropicus&lt;/i&gt; (Mello-Leitão, 1917)and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;planeticus&lt;/i&gt; Edwards, 1958. Eleven new species are described: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;monasticus&lt;/i&gt; n. sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;mazamitla&lt;/i&gt; n. sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tamaulipas&lt;/i&gt; n.sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tlaloc&lt;/i&gt; n. sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;jacala&lt;/i&gt; n. sp., &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bolero&lt;/i&gt; n. sp. and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;michoacan&lt;/i&gt; n. sp. from Mexico; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;silvae&lt;/i&gt; n. sp. and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;urarina&lt;/i&gt; n. sp.from Peru; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;beepbeep&lt;/i&gt; n. sp. from United States and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;gandu&lt;/i&gt; n. sp. from Brazil. The male of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; and the female of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tropicus&lt;/i&gt; are described for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandre</firstname>
+          <middlename>B.</middlename>
+          <lastname>Bonaldo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Regiane</firstname>
+          <lastname>Saturnino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ramírez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2012-07-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Parapercis rufa &lt;/i&gt;Randall, 2001, a replacement name for &lt;i&gt;P. rosea&lt;/i&gt; Fourmanoir, 1985, based on specimens newly collected from southern Taiwan</title>
+        <abstract locale="en_US">The red sandperch &lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;rufa&lt;/i&gt; Randall, 2001 is redescribed on the basis of three specimens newly collected fromTaiwan that represent the second record of the species and first record from Taiwan. The species is now redefined as aspecies of &lt;i&gt;Parapercis&lt;/i&gt; with a large black spot with whitish rim above the pectoral-fin base, upper lobe of caudal fin witha prolongation extending about 1.0–1.5 times orbital diameter posterior to rear fin margin, and a combination of coloration and morphometric and meristic data.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pisces; Teleostei; &lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;rosea&lt;/i&gt;; &lt;i&gt;Parapercis&lt;/i&gt; &lt;i&gt;rufa&lt;/i&gt;; taxonomy; Taiwan</subject>
+          <subject_class locale="en_US">Pisces</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hsuan–Ching</firstname>
+          <lastname>Ho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Romain</firstname>
+          <lastname>Causse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-44</pages>
+        <date_published>2012-07-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Phallostethus cuulong&lt;/i&gt;, a new species of priapiumfish (Actinopterygii: Atheriniformes: Phallostethidae) from the Vietnamese Mekong</title>
+        <abstract locale="en_US">A new species of priapiumfish, &lt;i&gt;Phallostethus&lt;/i&gt; &lt;i&gt;cuulong,&lt;/i&gt; is described based on nine specimens collected from the Vietnam-ese Mekong. This is the third species of the genus, following the type species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dunckeri&lt;/i&gt; (from Malay peninsula) and &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;lehi&lt;/i&gt; (from northwestern Borneo), and distinguished from them by having: seven serrae on the second ctenactinium in adultmales (vs. five in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dunckeri&lt;/i&gt; and eight in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lehi);&lt;/i&gt; 25–26 caudal vertebrae (vs. 27 in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dunckeri&lt;/i&gt; and 28 in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lehi);&lt;/i&gt; approx-imately 5–19 teeth on paradentary (vs. 15–20 and 28 or more in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dunckeri&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lehi,&lt;/i&gt; respectively). All six examinedmales are dextral (vs. one and two known males are sinistral and dextral respectively in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dunckeri,&lt;/i&gt; and all four knowmales are sinistral in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lehi).&lt;/i&gt; Sexual dimorphism is also found in the number of precaudal vertebrae, i.e., 13–14 in males and 11–12 in females (vs. sexual dimorphism is not found in number of precaudal vertebrae of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dunckeri&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lehi).&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atheriniformes; Phallostethidae; &lt;i&gt;Phallostethus&lt;/i&gt; &lt;i&gt;cuulong&lt;/i&gt;; new species; Vietnamese Mekong</subject>
+          <subject_class locale="en_US">Atheriniformes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Koichi</firstname>
+          <lastname>Shibukawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dinh</firstname>
+          <middlename>Dac</middlename>
+          <lastname>Tran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Loi</firstname>
+          <middlename>Xuan</middlename>
+          <lastname>Tran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-51</pages>
+        <date_published>2012-07-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Dendrocephalus &lt;/i&gt;(Crustacea, Anostraca) from Serra dos Carajás (Pará State, Brasil)</title>
+        <abstract locale="en_US">&lt;i&gt;Dendrocephalus&lt;/i&gt; &lt;i&gt;carajaensis,&lt;/i&gt; a new species of fairy shrimp, is described from a single temporary pool in canga deposits on theSerra Sul plateau, Serra dos Carajás region in Brazilian Amazonian forest, Pará State, Brasil. &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;carajaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; males arereadily separated from all other &lt;i&gt;Dendrocephalus&lt;/i&gt; species except &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;spartaenovae&lt;/i&gt; by the absence of a spineon the posterioventral surface of the compound eye. This species is separated from &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;spartaenovae&lt;/i&gt; by theform of the proximal portion of the frontal appendage and the endopodites of the first three thoracopods. This species appears to be endemic to the Serra dos Carajás.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Fairy Shrimp; Thamnocephalidae; canga; metalophylic savanna; FLONA (Floresta Nacional) de Carajás.</subject>
+          <subject_class locale="en_US">Fairy Shrimp</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>Christopher</middlename>
+          <lastname>Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Pedro Corrêa</middlename>
+          <lastname>Gomes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabio</firstname>
+          <lastname>Vieira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-58</pages>
+        <date_published>2012-07-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The decapod crustaceans described by C. Sankarankutty, and a replacement name for &lt;i&gt;Jonesius &lt;/i&gt;Sankarankutty, 1962 (Crustacea: Brachyura: Domeciidae), preoccupied by &lt;i&gt;Jonesius &lt;/i&gt;Yamaguti, 1959 (Cestoda: Cyclophyllidea: Hymenolepididae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-62</pages>
+        <date_published>2012-07-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">What is a nematode?</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aldo</firstname>
+          <lastname>Zullini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-64</pages>
+        <date_published>2012-07-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

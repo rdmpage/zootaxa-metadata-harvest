@@ -1,3 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3419.1</id>
+    <title locale="en_US">13 Aug. 2012</title>
+    <volume>3419</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of Biting Midges of the Subgenera &lt;i&gt;Forcipomyia &lt;/i&gt;(&lt;i&gt;Metaforcipomyia&lt;/i&gt;) and &lt;i&gt;F&lt;/i&gt;. (&lt;i&gt;Saliohelea&lt;/i&gt;) from Costa Rica (Diptera: Ceratopogonidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gustavo</firstname>
+          <middlename>R.</middlename>
+          <lastname>Spinelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <middlename>I.</middlename>
+          <lastname>Marino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Art</firstname>
+          <lastname>Borkent</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2012-08-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural changes in &lt;i&gt;Anastatus &lt;/i&gt;Motschulsky and the description of &lt;i&gt;Anastatus&lt;/i&gt; &lt;i&gt;eurycanthae &lt;/i&gt;Gibson n. sp. (Eupelmidae: Eupelminae), an egg parasitoid of &lt;i&gt;Eurycantha calcarata &lt;/i&gt;Lucas (Phasmida: Phasmatidae) from Papua New Guinea</title>
+        <abstract locale="en_US">&lt;i&gt;Anastatus&lt;/i&gt; &lt;i&gt;eurycanthae&lt;/i&gt; Gibson &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Eupelmidae: Eupelminae) is newly described as an egg parasitoid of &lt;i&gt;Eurycantha&lt;/i&gt;&lt;i&gt;calcarata&lt;/i&gt; Lucas (Phasmida: Phasmatidae), an important pest of oil palm in Papua New Guinea. Both sexes are describedand illustrated by macrophotography and scanning electron microscopy. Basic biological data are provided on the parasi-toid. Six species are transferred from &lt;i&gt;A.&lt;/i&gt; (Anastatus) Motschulsky to other genera, namely &lt;i&gt;Eupelmus&lt;/i&gt; &lt;i&gt;tennysoni&lt;/i&gt; Girault(1921) &lt;b&gt;revived&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Eupelmus&lt;/i&gt; (Eupelmus) &lt;i&gt;darwini&lt;/i&gt; (Girault 1915) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Reikosiella&lt;/i&gt; (Hirticauda) &lt;i&gt;pasteuri&lt;/i&gt; (Girault1915) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; (Hirticauda) &lt;i&gt;tricolor&lt;/i&gt; (Girault 1915) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Tineobius&lt;/i&gt; (Tineobius) &lt;i&gt;adamsi&lt;/i&gt; (Yoshimoto &amp; Ishii 1965) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;T.&lt;/i&gt; (Tineobius) &lt;i&gt;crassipes&lt;/i&gt; (Yoshimoto &amp; Ishii 1965) &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Giant Spiny Stick Insect; oil palm pest</subject>
+          <subject_class locale="en_US">Giant Spiny Stick Insect</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gary</firstname>
+          <middlename>A. P.</middlename>
+          <lastname>Gibson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <lastname>Dewhurst</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Simon</firstname>
+          <lastname>Makai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-08-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the genus &lt;i&gt;Hylaeus &lt;/i&gt;(Hymenoptera: Colletidae) from South Korea</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Huan</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Huanli</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-08-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

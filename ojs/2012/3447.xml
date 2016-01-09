@@ -1,3 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3447.1</id>
+    <title locale="en_US">31 Aug. 2012</title>
+    <volume>3447</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A checklist of the extant species of ophiuroids (Echinodermata: Ophiuroidea) from Brazilian waters</title>
+        <abstract locale="en_US">Species of ophiuroids in Brazilian waters were last compiled over a decade ago. Since that time, there have been manyimportant contributions with additional diversity and species distribution data. An updated review of the number of records isnecessary, as well as an identification of the gaps related to the taxonomy. We list a total of 133 species that belong to 54genera and 16 families. This number corresponds to approximately 6% of the species described worldwide. All families havebeen registered, and the majority of species belongs to the family Amphiuridae (50spp), which have primarily been recoveredduring surveys of the shallow waters of the continental shelf. On the other hand, numerous new records (e.g. species belongingto the families Ophiacanthidae and Ophiuridae) have been registered in recent years from the deeper margins of Brazil. Asophiuroids are an abundant component of the benthic fauna, increasing occupation of coastal areas and the exploration of energy and mineral resources in the deep sea call for a better knowledge about the diversity and biogeography of the group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Echinoderms; brittle stars; Southwest Atlantic; Brazil; diversity; taxonomy</subject>
+          <subject_class locale="en_US">Echinoderms</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>Alberto</middlename>
+          <lastname>De Moura Barboza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michela</firstname>
+          <lastname>Borges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new Amazonian species of &lt;i&gt;Rhaebo (&lt;/i&gt;Anura: Bufonidae) with comments on &lt;i&gt;Rhaebo glaberrimus &lt;/i&gt;(Günther, 1869) and &lt;i&gt;Rhaebo guttatus &lt;/i&gt;(Schneider, 1799)</title>
+        <abstract locale="en_US">We describe a new species of toad of the genus &lt;i&gt;Rhaebo&lt;/i&gt; from the Amazonian lowlands of Colombia and Ecuador. The newspecies is characterized by have a large-size (SVL 156.7 mm in adult female, 92.8–127.0 mm in adult males), lacking apreocular ridge and most cephalic crests except for the low parietals crests; having the cloacal opening towards the middlelevel of thighs; rounded to slightly oval parotoids; and dark to cream brown groin. The new species was previouslyconfused with &lt;i&gt;Rhaebo&lt;/i&gt; &lt;i&gt;glaberrimus,&lt;/i&gt; but the latter differs by having the cloacal opening at the ventral level of the thighs,small body size, skin texture mainly smooth, and a pink or yellowish color in the groin. The new species is also similar to&lt;i&gt;Rhaebo&lt;/i&gt; &lt;i&gt;guttatus&lt;/i&gt; that differs by having a preocular ridge and a different ventral coloration (throat, chest and belly withcream round spots). We also comment on the identity of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;glaberrimus&lt;/i&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;guttatus,&lt;/i&gt; correct some reports published in the literature, and present new information on their natural history and distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bufonidae; &lt;i&gt;Rhaebo&lt;/i&gt;; new species; &lt;i&gt;Rhaebo&lt;/i&gt; &lt;i&gt;glaberrimus&lt;/i&gt;; &lt;i&gt;Rhaebo&lt;/i&gt; &lt;i&gt;guttatus&lt;/i&gt;; Amazonia</subject>
+          <subject_class locale="en_US">Bufonidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jonh</firstname>
+          <middlename>Jairo</middlename>
+          <lastname>Mueses-Cisneros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>F.</middlename>
+          <lastname>Cisneros-Heredia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roy</firstname>
+          <middlename>W.</middlename>
+          <lastname>Mcdiarmid</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-40</pages>
+        <date_published>2012-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Microgobius urraca &lt;/i&gt;(Teleostei: Gobiidae), a new species of goby from the tropical eastern Pacific</title>
+        <abstract locale="en_US">A new species of goby in the genus &lt;i&gt;Microgobius&lt;/i&gt; (Teleostei: Gobiidae: Gobiosomatini) is described from the Pacific coastof Panama. It is morphologically similar to &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;erectus,&lt;/i&gt; but differs from that species in possessing fewer lateral scale rows,lacking a patch of ctenoid scales under the pectoral fin, having unpigmented epaxial myosepta, having a distinct oval-shaped dark blotch on the first dorsal fin, and possessing three blue-white stripes on a dark caudal fin. Differences in boththe number and type of scales, dorsal and anal fin ray counts, the poor development of a fleshy dorsal crest, and overallcolor patterns further distinguish this species from the remaining eastern Pacific congeners. Photographs of all Pacific species of &lt;i&gt;Microgobius&lt;/i&gt; and a dichotomous key to the Pacific members of the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gobiosomatini; &lt;i&gt;Microgobius&lt;/i&gt; group; Gobiiformes; Panama; American seven-spined gobies</subject>
+          <subject_class locale="en_US">Gobiosomatini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luke</firstname>
+          <lastname>Tornabene</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>L.</middlename>
+          <lastname>Van Tassell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Ross</middlename>
+          <lastname>Robertson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-55</pages>
+        <date_published>2012-08-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Porites fontanesii&lt;/i&gt;, a new species of hard coral (Scleractinia, Poritidae) from the southern Red Sea, the Gulf of Tadjoura, and the Gulf of Aden, and its phylogenetic relationships within the genus</title>
+        <abstract locale="en_US">A new zooxanthellate reef-dwelling scleractinian coral species, &lt;i&gt;Porites&lt;/i&gt; &lt;i&gt;fontanesii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Scleractinia, Poritidae), is de-scribed. The examined material was collected from the Southern Red Sea, the Gulf of Tadjoura, and the Gulf of Aden.&lt;i&gt;Porites&lt;/i&gt; &lt;i&gt;fontanesii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was most frequently observed along the Yemen south Red Sea and the north-western Gulf ofAden coasts. Although a complete molecular phylogeny of &lt;i&gt;Porites&lt;/i&gt; is not available yet, the relationships between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fon-&lt;/i&gt;&lt;i&gt;tanesii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and twenty other species of the genus were explored through analysis of the available rDNA sequences.&lt;i&gt;Porites&lt;/i&gt; &lt;i&gt;fontanesii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was seen to be a distinct species basal to, and well divergent from, one of the two main clades so far identified in the genus rDNA phylogeny.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cnidaria; Anthozoa; coenosteum; rDNA</subject>
+          <subject_class locale="en_US">Cnidaria</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francesca</firstname>
+          <lastname>Benzoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabrizio</firstname>
+          <lastname>Stefani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2012-08-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -2,6 +2,61 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3384.1</id>
+    <title locale="en_US">10 Jul. 2012</title>
+    <volume>3384</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A list of Cuban Lepidoptera (Arthropoda: Insecta)</title>
+        <abstract locale="en_US">A total of 1557 species belonging to 56 families of the order Lepidoptera is listed from Cuba, along with the source ofeach record. Additional literature references treating Cuban Lepidoptera are also provided. The list is based primarily onliterature records, although some collections were examined: the Instituto de Ecología y Sistemática collection, Havana,Cuba; the Museo Felipe Poey collection, University of Havana; the Fernando de Zayas private collection, Havana; andthe United States National Museum collection, Smithsonian Institution, Washington DC. One family, Schreckensteinidae,and 113 species constitute new records to the Cuban fauna. The following nomenclatural changes are proposed: &lt;i&gt;Paucivena&lt;/i&gt;&lt;i&gt;hoffmanni&lt;/i&gt; (Koehler 1939) (Psychidae), &lt;b&gt;new&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;Gonodontodes&lt;/i&gt; &lt;i&gt;chionosticta&lt;/i&gt; Hampson 1913 (Erebidae), &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;is a synonym of &lt;i&gt;Gonodontodes&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; Hampson 1913. &lt;i&gt;Burca&lt;/i&gt; &lt;i&gt;cubensis&lt;/i&gt; (Skinner 1913) (Hesperiidae), and &lt;i&gt;Eulepidotis&lt;/i&gt; &lt;i&gt;reflexa&lt;/i&gt; (Herrich-Schäffer 1869) (Erebidae) are revised and revalidated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cuba; diversity; Greater Antilles; Lepidoptera; literature; missing groups; West Indies</subject>
+          <subject_class locale="en_US">Cuba</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rayner</firstname>
+          <middlename>Núñez</middlename>
+          <lastname>Aguila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alejandro</firstname>
+          <middlename>Barro</middlename>
+          <lastname>Cañamero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-59</pages>
+        <date_published>2012-07-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two more new species of armoured scale insect (Hemiptera: Sternorrhyncha: Coccoidea: Diaspididae) from Fiji</title>
+        <abstract locale="en_US">The adult females of two new species of Diaspididae (Hemiptera: Coccoidea) are described and placed in &lt;i&gt;Anzaspis&lt;/i&gt; Henderson(previously only known from New Zealand): &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;neocordylinidis&lt;/i&gt; Łagowska &amp; Hodgson and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pandani&lt;/i&gt; Łagowska &amp; Hodgson.The former is close to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cordylinidis&lt;/i&gt; (Maskell), currently only known from New Zealand and found on the same host plantspecies, and the latter is very close to &lt;i&gt;Chionaspis&lt;/i&gt; &lt;i&gt;pandanicola&lt;/i&gt; Williams &amp; Watson, only currently known from Fiji, and alsocollected on the same host plant species. Two previously described &lt;i&gt;Chionaspis&lt;/i&gt; species already known from Fiji, i.e. &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;freycinetiae&lt;/i&gt; Williams &amp; Watson and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pandanicola&lt;/i&gt; Williams &amp; Watson are transferred to &lt;i&gt;Anzaspis&lt;/i&gt; as &lt;i&gt;Anzaspis&lt;/i&gt; &lt;i&gt;freycinetiae&lt;/i&gt;(Williams &amp; Watson) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pandanicola&lt;/i&gt; (Williams &amp; Watson) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and a third species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rhaphidophorae&lt;/i&gt;Williams &amp; Watson, is transferred to &lt;i&gt;Serenaspis&lt;/i&gt; as &lt;i&gt;Serenaspis&lt;/i&gt; &lt;i&gt;rhaphidophorae&lt;/i&gt; (Williams &amp; Watson) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; The reasonsfor these nomenclatural decisions and the relationship between the scale insect fauna of Fiji and New Zealand are discussed. A key is provided to all related species in the tropical South Pacific and New Zealand.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Chionaspis&lt;/i&gt;; &lt;i&gt;Anzaspis&lt;/i&gt;; &lt;i&gt;Serenaspis&lt;/i&gt;; new combinations; biogeography; New Zealand; Agavaceae; Pandanaceae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Chionaspis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bozena</firstname>
+          <lastname>Łagowska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chris</firstname>
+          <lastname>Hodgson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-67</pages>
+        <date_published>2012-07-10</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa..1</id>
     <title locale="en_US">PublishDate</title>
     <volume></volume>

@@ -1,3 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3493.1</id>
+    <title locale="en_US">21 Sep. 2012</title>
+    <volume>3493</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-21</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Identity of &lt;i&gt;Nyctimystes cheesmani &lt;/i&gt;(Anura: Hylidae), with description of two new related species </title>
+        <abstract locale="en_US">Using morphological and call data, I redescribe the taxonomically problematic Papuan hylid frog &lt;i&gt;Nyctimystes&lt;/i&gt; &lt;i&gt;cheesmani&lt;/i&gt;based on specimens collected at similar elevation to and within 5 km of the type locality. It has long been known thatseveral species of &lt;i&gt;Nyctimystes&lt;/i&gt; closely related to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;cheesmani&lt;/i&gt; remain to be described in New Guinea, but diagnosis anddescription of these species has languished for decades in the absence of a clear exposition of what constitutes true &lt;i&gt;N.&lt;/i&gt;&lt;i&gt;cheesmani.&lt;/i&gt; This species is characterized by having vocal slits; a small heel tubercle; basal webbing on hand; exposedtympanum; vertical lines of palpebral reticulum oriented obliquely and with relatively few horizontal cross-connections;pale-tan iris; rear of thighs barred/mottled with brown, caramel, or blue-gray; and call a single, quiet pulsed croak deliv-ered relatively slowly in long trains and with a dominant frequency around 1.9 kHz. It is currently known only from theimmediate vicinity of the type locality, and its exact distribution throughout the Owen Stanley Mts. remains to be deter-mined. I also describe two new species related to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;cheesmani&lt;/i&gt; from Milne Bay Province, Papua New Guinea. Both aresimilar to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;cheesmani&lt;/i&gt; in morphometric measurements but are easily distinguished from that species by their advertise-ment calls and by details in color pattern. The first species is known only from the southernmost extent of the Owen Stanley Mts and the adjacent Cloudy Mts., the second is endemic to the D’Entrecasteaux Archipelago.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cryptic species; Milne Bay Province; Owen Stanley Mts.; Papua New Guinea</subject>
+          <subject_class locale="en_US">cryptic species; Milne Bay Province; Owen Stanley Mts.; Papua New Guinea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fred</firstname>
+          <lastname>Kraus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A New Species of the Genus &lt;i&gt;Eulophias &lt;/i&gt;(Zoarcoidei: Stichaeidae) from Korea </title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Eulophias&lt;/i&gt; &lt;i&gt;koreanus,&lt;/i&gt; belonging to the family Stichaeidae, suborder Zoarcoidei, is described on the basisof five specimens (70.7–160.7 mm in standard length) collected from the southern sea of Korea. The new species differsfrom the only two known congeneric species, &lt;i&gt;Eulophias&lt;/i&gt; &lt;i&gt;tanneri&lt;/i&gt; and &lt;i&gt;Eulophias&lt;/i&gt; &lt;i&gt;owashii,&lt;/i&gt; which are endemic to Japan. &lt;i&gt;Eu-&lt;/i&gt;&lt;i&gt;lophias&lt;/i&gt; &lt;i&gt;koreanus&lt;/i&gt; is readily distinguished from &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tanneri&lt;/i&gt; by the numbers of anal-fin rays (102–103 vs. 75 in &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tanneri)&lt;/i&gt;and caudal-fin rays (9–10 vs. 7). &lt;i&gt;Eulophias&lt;/i&gt; &lt;i&gt;koreanus&lt;/i&gt; is more similar to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;owashii&lt;/i&gt; than to &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tanneri,&lt;/i&gt; but differs from theformer in the number of vertebrae (141–143 vs. 133 in &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;owashii)&lt;/i&gt; and pectoral-fin length (36.1–39.5% of HL vs. 27.8%).Regarding the caudal skeletons in &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;koreanus,&lt;/i&gt; the last dorsal pterygiophore is inserted between the last 1st and 2nd or the2nd and 3rd neural spines, and a small spine is absent on the ventral portion of the parhypural, whereas in &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;owashii,&lt;/i&gt; thelast dorsal pterygiophore is inserted between the last 3rd and 4th neural spines, and a small spine is present on the ventralportion of the parhypural. Analyses of 500-bp sequences of mitochondrial DNA cytochrome oxidase subunit I providestrong evidence that the five new specimens belong to the same species, even though they show some variation in head shape.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hyuck</firstname>
+          <middlename>Joon</middlename>
+          <lastname>Kwun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jin</firstname>
+          <middlename>Koo</middlename>
+          <lastname>Kim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-34</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Cytotaxonomic considerations on the sex chromosome variation observed within &lt;i&gt;Acomys ngurui &lt;/i&gt;Verheyen &lt;i&gt;et al. &lt;/i&gt;2011 (Rodentia Muridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Riccardo</firstname>
+          <lastname>Castiglia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Flavia</firstname>
+          <lastname>Annesi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-38</pages>
+        <date_published>2012-09-21</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Zinagon chilensis &lt;/i&gt;(Silvestri, 1903) from Chile, with a species list of Iulomorphidae from the Southern Hemisphere (Diplopoda: Spirostreptida: Epinannolenidea)</title>
+        <abstract locale="en_US">The epinannolenidean diplopod species &lt;i&gt;Zinagon&lt;/i&gt; &lt;i&gt;chilensis&lt;/i&gt; (Silvestri, 1903) is redescribed based on recently collected ma-terial from Chile, as well as on the re-examination of type specimens of both &lt;i&gt;Iulomorpha&lt;/i&gt; &lt;i&gt;chilensis&lt;/i&gt; Silvestri, 1903, and&lt;i&gt;Zinagon&lt;/i&gt; &lt;i&gt;osorno&lt;/i&gt; Chamberlin, 1957. The latter is here designated a junior subjective synonym. A list of the species of thefamily Iulomorphidae is provided, including 15 genera occurring in the Southern Hemisphere, i.e. South America, South Africa, Australia, and New Zealand.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">millipedes; Cambaloidea; new synonymy; South America</subject>
+          <subject_class locale="en_US">millipedes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zoltán</firstname>
+          <lastname>Korsós</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Helen</firstname>
+          <middlename>J.</middlename>
+          <lastname>Read</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-48</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Siolicaris &lt;/i&gt;Jakobi, 1972, with redescriptions of &lt;i&gt;S. sioli &lt;/i&gt;(Noodt, 1963) and &lt;i&gt;S. jakobi &lt;/i&gt;(Noodt, 1963) from South America, and &lt;i&gt;S. sandhya &lt;/i&gt;(Ranga Reddy, 2001) comb. nov. from India (Copepoda, Harpacticoida, Parastenocarididae)</title>
+        <abstract locale="en_US">Recent revision of the family Parastenocarididae has revealed the existence of different monophyletic groups within therepository genus &lt;i&gt;Parastenocaris&lt;/i&gt; Kessler, 1913 &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;lato.&lt;/i&gt; Here, we redefine the genus &lt;i&gt;Siolicaris&lt;/i&gt; Jakobi, 1972, arguingfor its monophyly. All the hitherto known Neotropical species of &lt;i&gt;Siolicaris&lt;/i&gt; and also the Indian &lt;i&gt;Siolicaris&lt;/i&gt; &lt;i&gt;sandhya&lt;/i&gt; (RangaReddy, 2001) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which are redescribed herein, share what we consider to be a unique constellation of synapo-morphies: in the female, thoracopod 3 enp is absent; in the male, thoracopod 4 enp is reduced; thoracopod 3 exp is robust,strongly incurved and with a very strong thumb, longer than apophysis; and in both sexes, thoracopod 5 is trapezoidal,with all the setigerous elements inserted on the very distal margin. In addition, the proximal position of furcal setae I–IIItogether with the extreme reduction of seta II and the reduction or complete absence of the proximal-most seta on thora-copod 5 exp are other good indications, justifying the inclusion of &lt;i&gt;Siolicaris&lt;/i&gt; within a broader group of Neotropical Paras-tenocarididae. The genus is probably of Gondwanan origin, with its known members distributed in the northern SouthAmerica (Amazonian region) and southeastern India. &lt;i&gt;Parastenocaris&lt;/i&gt; &lt;i&gt;digitata&lt;/i&gt; Noodt, 1963a is treated here as a synonymof &lt;i&gt;Siolicaris&lt;/i&gt; &lt;i&gt;jakobi&lt;/i&gt; (Noodt, 1963a). &lt;i&gt;Parastenocaris&lt;/i&gt; &lt;i&gt;chelifer&lt;/i&gt; Delachaux, 1924 and &lt;i&gt;Parastenocaris&lt;/i&gt; &lt;i&gt;xyrophora&lt;/i&gt; Noodt &amp; Galhano, 1969 are considered &lt;i&gt;species&lt;/i&gt; &lt;i&gt;inquirendae&lt;/i&gt; of the genus &lt;i&gt;Siolicaris,&lt;/i&gt; pending their detailed redescription.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Parastenocaris&lt;/i&gt; &lt;i&gt;sioli-group&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chelifer&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;xyrophora&lt;/i&gt;; monophyletism; taxonomic revision; biogeography; Gondwana</subject>
+          <subject_class locale="en_US">&lt;i&gt;Parastenocaris&lt;/i&gt; &lt;i&gt;sioli-group&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Corgosinho</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <middlename>H.</middlename>
+          <lastname>C.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ranga</firstname>
+          <lastname>Reddy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Y.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martínez</firstname>
+          <lastname>Arbizu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-71</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the genus &lt;i&gt;Discotylenchus &lt;/i&gt;Siddiqi, 1980 (Nematoda: Tylenchidae) from Iran, with description of one new and data on two known species </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Discotylenchus&lt;/i&gt; is reported for the first time from Iran. &lt;i&gt;Discotylenchus&lt;/i&gt; &lt;i&gt;iranicus&lt;/i&gt; n. sp. is described and illustratedbased on morphological and morphometric characters. The new species is characterized by a combination of the followingmorphological features: lip region continuous and smooth, tapering to an offset prominent labial disc, lateral field withfour incisures, stylet length of 14–15μm, vulva position at 70.8–76.5 %, tail length of 81–100μm, conoid with a roundedtip and presence of males. The Iranian population of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brevicaudatus&lt;/i&gt; shows a wider morphometric range compared tothe original description and the male of this species is described for the first time. The morphological characters and range of morphometric data of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;discretus&lt;/i&gt; are in full agreement with the original population.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Discotylenchus&lt;/i&gt; &lt;i&gt;iranicus&lt;/i&gt; n. sp.; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;brevicaudatus&lt;/i&gt;; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;discretus&lt;/i&gt;; first report; Northern Khorasan province; south-western Iran; &lt;i&gt;Zea&lt;/i&gt; &lt;i&gt;mays.&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Discotylenchus&lt;/i&gt; &lt;i&gt;iranicus&lt;/i&gt; n. sp.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Razieh</firstname>
+          <lastname>Ghaemi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ebrahim</firstname>
+          <lastname>Pourjam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammad</firstname>
+          <middlename>Reza</middlename>
+          <lastname>Atighi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Majid</firstname>
+          <lastname>Pedram</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerrit</firstname>
+          <lastname>Karssen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>72-82</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Resolving the publication date of J.W. Randall’s &lt;i&gt;Catalogue of Crustacea brought by Thomas Nuttall and J.K. Townsend, from the west coast of North America and the Sandwich Islands&lt;/i&gt;, and an updated checklist of the Decapoda described therein (Crustacea: Achelata, Anomura, Astacidea, Brachyura, Caridea, Dendrobranchiata) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-09-21</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

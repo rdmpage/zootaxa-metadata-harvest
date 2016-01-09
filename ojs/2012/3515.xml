@@ -1,3 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3515.1</id>
+    <title locale="en_US">12 Oct. 2012</title>
+    <volume>3515</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new dasyurid marsupial from eastern Queensland, Australia: the Buff-footed Antechinus, &lt;i&gt;Antechinus mysticus &lt;/i&gt;sp. nov. (Marsupialia: Dasyuridae) </title>
+        <abstract locale="en_US">&lt;i&gt;Antechinus&lt;/i&gt; &lt;i&gt;mysticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; occurs in coastal Australia, ranging from just north of the Queensland (Qld)/New SouthWales (NSW) border to Mackay (mid-east Qld), and is sympatric with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; (Waterhouse) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;subtropicus&lt;/i&gt; VanDyck &amp; Crowther in south-east Qld. The new species can be distinguished in the field, having paler feet and tail base than&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; and a greyish head that merges to buff-yellow on the rump and flanks, compared with the more uniform brownhead and body of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;subtropicus&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;stuartii&lt;/i&gt; Macleay. Features of the dentary can also be used for identification: &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;mysticus&lt;/i&gt; differs from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; in having smaller molar teeth, from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;subtropicus&lt;/i&gt; in having a larger gap between frontand rear palatal vacuities, and from &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;stuartii&lt;/i&gt; in having a generally broader snout. Here, we present a morphologicalanalysis of the new species in comparison with every member of the genus, including a discussion of genetic structure andbroader evolutionary trends, as well as an identification key to species based on dental characters. It seems likely that theknown geographic range of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mysticus&lt;/i&gt; will expand as taxonomic focus on the genus is concentrated in south-east Queensland and north-east New South Wales.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Antechinus&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt;; &lt;i&gt;Antechinus&lt;/i&gt; &lt;i&gt;subtropicus&lt;/i&gt;; &lt;i&gt;Antechinus&lt;/i&gt; &lt;i&gt;stuartii&lt;/i&gt;; morphological; genetic; evolutionary; south-east Queensland; north-east New South Wales</subject>
+          <subject_class locale="en_US">&lt;i&gt;Antechinus&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>M</middlename>
+          <lastname>Baker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>Y</middlename>
+          <lastname>Mutton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Steve</firstname>
+          <lastname>Van Dyck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2012-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Simultaneous evidence for a new species of &lt;i&gt;Torrenticola &lt;/i&gt;Piersig, 1896 (Acari, Hydrachnidia) from Montenegro </title>
+        <abstract locale="en_US">A new water mite, &lt;i&gt;Torrenticola&lt;/i&gt; &lt;i&gt;lukai&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Hydrachnidia, Torrenticolidae), is described from running waters in NorthernMontenegro. The new species is probably a sister species of &lt;i&gt;Torrenticola&lt;/i&gt; &lt;i&gt;lundbladi&lt;/i&gt; (Viets, 1930), a little documented spe-cies known from central Spain, which is redescribed based on recently collected new material. Morphological data hasbeen obtained with a bright field transmission microscopy and Laser Scanning Confocal Microscopy (LSCM), the latterallowing a realistic representation of the animals external morphology. Voucher specimens provided the DNA from whichbarcode sequences were obtained. External morphology and molecular data confirm that both species are clearly distin-guishable and diagnosticable. A key is given for the males of European species characterized by shoulder platelets fused to the dorsal plate.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; new species; &lt;i&gt;Torrenticola&lt;/i&gt;; taxonomy; non-destructive DNA extraction; DNA barcoding</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>G.</middlename>
+          <lastname>Valdecasas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>García-Jimenez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-50</pages>
+        <date_published>2012-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The authorship and type localities of bird taxa (Aves) collected during the John Ross 1818 Expedition to the Baffin Bay, northwestern Atlantic Ocean </title>
+        <abstract locale="en_US">The 1818 expedition to the Baffin Bay, headed by Captain John Ross, resulted in the description of at least six bird speciesand four bird genera believed to be new to science. My review of publications relevant to the history of the expedition andto its ornithological outputs resulted in the correction of authorship of several of these names, as follows: The genus &lt;i&gt;So-&lt;/i&gt;&lt;i&gt;materia&lt;/i&gt; (Anatidae) dates from Leach (in Anonymous 1818), not from Leach (in Ross 1819c). The author of the genera&lt;i&gt;Clangula&lt;/i&gt; (Anatidae) and &lt;i&gt;Xema&lt;/i&gt; (Laridae) is Ross (1819c), not Leach (in Ross 1819c). The species &lt;i&gt;Larus&lt;/i&gt; &lt;i&gt;sabini&lt;/i&gt; (Laridae)dates from J. Sabine (in Anonymous 1819a), not from J. Sabine (1819). The subspecies of &lt;i&gt;Lagopus&lt;/i&gt; &lt;i&gt;mutus&lt;/i&gt; (Tetraonidae)from western Greenland should be called &lt;i&gt;Lagopus&lt;/i&gt; &lt;i&gt;mutus&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; Ross, 1820c, not &lt;i&gt;Lagopus&lt;/i&gt; &lt;i&gt;mutus&lt;/i&gt; &lt;i&gt;saturatus&lt;/i&gt; Salomonsen, 1950, if recognized. Other corrections consider names which are currently not used as valid.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Aves; nomenclature; taxonomy; Greenland; 19</subject>
+          <subject_class locale="en_US">Aves</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Mlíkovský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2012-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Sea cucumbers collected by the Kermadec Biodiscovery Expedition 2011 (Echinodermata: Holothuroidea: Apodida and Dendrochirotida) </title>
+        <abstract locale="en_US">Three shallow holothuroid species are recorded for the rocky shoreline of the Kermadec Islands. The new apodid species&lt;i&gt;Chiridota&lt;/i&gt; &lt;i&gt;kermadeca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described. Two dendrochirotid species are reported, both previously found in New Zealand: &lt;i&gt;Plesiocolochirus&lt;/i&gt; &lt;i&gt;ignavus&lt;/i&gt; (Ludwig, 1875) and &lt;i&gt;Pseudocnus&lt;/i&gt; &lt;i&gt;sentus&lt;/i&gt; O’Loughlin &amp; Alcock, 2000.Trois espèces peu profondes d’holothuries ont été observées sur le rivage rocheux des îles de Kermadec. Deux d’entreelles appartiennent à deux espèces de dendrochirotid également connues de Nouvelle Zélande: &lt;i&gt;Plesiocolochirus&lt;/i&gt; &lt;i&gt;ignavus&lt;/i&gt;(Ludwig, 1875) et &lt;i&gt;Pseudocnus&lt;/i&gt; &lt;i&gt;sentus&lt;/i&gt; O’Loughlin &amp; Alcock, 2000. La troisième espèce: &lt;i&gt;Chiridota&lt;/i&gt; &lt;i&gt;kermadeca&lt;/i&gt; sp. nov., nouvelle pour la science, est décrite.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sea cucumber; Apodida; Dendrochirotida; &lt;i&gt;Chiridota&lt;/i&gt;; &lt;i&gt;Plesiocolochirus&lt;/i&gt;; &lt;i&gt;Pseudocnus&lt;/i&gt;; new species; Kermadec</subject>
+          <subject_class locale="en_US">Sea cucumber</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>P</firstname>
+          <middlename>Mark</middlename>
+          <lastname>O’Loughlin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Didier</firstname>
+          <lastname>Vandenspiegel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-66</pages>
+        <date_published>2012-10-12</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new Gobiid fishes of the genus &lt;i&gt;Eviota &lt;/i&gt;from the Indian Ocean (Teleostei: Gobiidae) </title>
+        <abstract locale="en_US">Two new species from the Indian Ocean are described, &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt; and &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;springeri.&lt;/i&gt; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt; has a completecephalic sensory pore system (pattern 1), a dorsal/anal fin-ray formula of 7/7, some branched pectoral-fin rays, and threeprominent dark transverse marks on the nape. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt; is known from the Seychelle Islands, Mauritius, and ChagosArchipelago. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;springeri&lt;/i&gt; lacks the IT pore belonging to cephalic sensory pore system pattern 2, has a dorsal/anal fin-ray formula of 8/7, unbranched pectoral-fin rays, and a small fifth pelvic-fin ray. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;springeri&lt;/i&gt; is known from the Sey-chelle Islands, Mauritius, Chagos Archipelago, and the Amirante Islands. An Errata concerning the type material of &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;atriventris&lt;/i&gt; Greenfield &amp; Suzuki is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt;; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;springeri&lt;/i&gt;; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;atriventris&lt;/i&gt;; systematics; Indian Ocean.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>W.</middlename>
+          <lastname>Greenfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Susan</firstname>
+          <middlename>L.</middlename>
+          <lastname>Jewett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-74</pages>
+        <date_published>2012-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Osteological description of &lt;i&gt;Pseudopaludicola canga &lt;/i&gt;with implications for the taxonomic position of this taxon </title>
+        <abstract locale="en_US">&lt;i&gt;Pseudopaludicola&lt;/i&gt; &lt;i&gt;canga&lt;/i&gt; was described by Giaretta &amp; Kokubum (2003) based on 74 individuals previously assigned to &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;mystacalis&lt;/i&gt; by Lobo (1995). In the diagnosis of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga,&lt;/i&gt; the original authors assigned the presence of terminal T-shapedphalanges as a character state for this taxon. However, the osteology of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga&lt;/i&gt; is not described and the presence of toetips not expanded laterally is a characteristic share with all members of &lt;i&gt;Pseudopaludicola&lt;/i&gt; unassigned to any group. In thiswork is describe for first time the osteology of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga,&lt;/i&gt; re-examining the external morphology providing a new diagnosisand establishing the taxonomic position of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga&lt;/i&gt; in the framework of phylogenetic hypothesis proposed by Lobo(1995). Additionally, is compared the toe tip digit IV, between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;falcipes&lt;/i&gt; and all the species included in the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; groupand updated the type locality of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga.&lt;/i&gt; The osteology reveals that &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga&lt;/i&gt; has the toe tips not T-shaped as mentionedby the original authors and this characteristic has important consequences for the diagnosis of the species. Additionally, the erroneous inclusion of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;canga&lt;/i&gt; in the &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; group is confirmed by the phylogenetic analysis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudopaludicola&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; group; osteology; external morphology; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudopaludicola&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Darío</firstname>
+          <lastname>Cardozo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <lastname>Suárez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>75-82</pages>
+        <date_published>2012-10-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of freshwater crab of the genus &lt;i&gt;Phallangothelphusa &lt;/i&gt;Pretzmann, 1965, from Colombia (Crustacea: Decapoda: Pseudothelphusidae) </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Phallangothelphusa&lt;/i&gt; Pretzmann, 1965, is described from Cesar Department, Colombia, increasing thenumber of species in the genus to four: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; (Zimmer, 1912), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;magdalenensis&lt;/i&gt; Campos, 1998, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;juansei&lt;/i&gt; Campos,2010, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;martensis&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species.&lt;/b&gt; The new species is distinguished from its congeners primarily by the morphology ofthe first male gonopod, specifically the greater curvature of the angle between distal and proximal projections of the mesialprocess, the shape of the distal projection and outline of the apex, and the orientation of the lateral process. An updated key for the identification of the species of &lt;i&gt;Phallangothelphusa&lt;/i&gt; is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Brachyura; Strengerianini; Neotropical region; Colombia</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luisa</firstname>
+          <lastname>Cardona</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martha</firstname>
+          <middlename>R.</middlename>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-10-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

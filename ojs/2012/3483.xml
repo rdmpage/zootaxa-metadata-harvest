@@ -1,3 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3483.1</id>
+    <title locale="en_US">14 Sep. 2012</title>
+    <volume>3483</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Cladistic analysis of Neocoelidiinae (Hemiptera: Cicadellidae) with description of a new tribe</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Paula</middlename>
+          <lastname>Marques-Costa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodney</firstname>
+          <middlename>Ramiro</middlename>
+          <lastname>Cavichioli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-09-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Allecula &lt;/i&gt;(Coleoptera: Tenebrionidae: Alleculinae) from cork oak stands of Italy</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimír</firstname>
+          <lastname>Novák</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicklas</firstname>
+          <lastname>Jansson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefano</firstname>
+          <lastname>Chiari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Agnese</firstname>
+          <lastname>Zauli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paolo</firstname>
+          <lastname>Audisio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Giuseppe</firstname>
+          <middlename>M.</middlename>
+          <lastname>Carpaneto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-38</pages>
+        <date_published>2012-09-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology and identification of the pupae of seven species of the genus &lt;i&gt;Otiorhynchus &lt;/i&gt;Germar, 1822 (Coleoptera, Curculionidae, &lt;i&gt;Otiorhynchini&lt;/i&gt;)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rafał</firstname>
+          <lastname>Gosik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Sprick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-57</pages>
+        <date_published>2012-09-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic review of Korean species of the genus &lt;i&gt;Philhygra &lt;/i&gt;Mulsant &amp; Rey (Coleoptera: Staphylinidae: Aleocharinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Seung-Gyu</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kee-Jeong</firstname>
+          <lastname>Ahn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-70</pages>
+        <date_published>2012-09-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The larva and life history of &lt;i&gt;Stenophylax nycterobius &lt;/i&gt;(McLachlan, 1875) (Trichoptera: Limnephilidae) in high mountain streams (Sierra Nevada, Spain) and key to the Iberian larvae of the genus</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marta</firstname>
+          <lastname>Sáinz-Bariáin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carmen</firstname>
+          <lastname>Zamora-Muñoz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>71-81</pages>
+        <date_published>2012-09-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Macropterous form of &lt;i&gt;Paratrephes &lt;/i&gt;China, 1940, with new distributional records of Neotrephinae from Brazil (Hemiptera: Heteroptera: Helotrephidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Higor</firstname>
+          <middlename>D. D.</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alan</firstname>
+          <middlename>Lane</middlename>
+          <lastname>De Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ruth</firstname>
+          <middlename>L.</middlename>
+          <lastname>Ferreira-Keppler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>82-88</pages>
+        <date_published>2012-09-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

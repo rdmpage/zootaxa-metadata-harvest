@@ -1,3 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3380.1</id>
+    <title locale="en_US">5 Jul. 2012</title>
+    <volume>3380</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New and little-known gnathiid isopod crustaceans (Cymothoida) from the northern Great Barrier Reef and the Coral Sea</title>
+        <abstract locale="en_US">Ten species of Gnathiidae (Crustacea, Isopoda, Cymothoida) including six new species, are reported from Lizard Islandand nearby reefs, northern Great Barrier Reef and reefs of the Coral Sea (Chesterfield Reefs, Mellish Reef and MarionReef): &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;wistari&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Lizard Island region and Capricorn Group, southern Great Barrier Reef), &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;coral-&lt;/i&gt;&lt;i&gt;maris&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Mellish Reef), &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;varanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Lizard Island group), &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;marionis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Marion Reef),&lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;hamletgast&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Chesterfield Reefs) and &lt;i&gt;Elaphognathia&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Chesterfield Reefs). New locali-ties are reported for four other species: &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;aureamaculosa&lt;/i&gt; Ferreira and Smit, 2009 and &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;masca&lt;/i&gt; Farquharsonand Smit, 2012 from Lizard Island and nearby reefs; &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;falcipenis&lt;/i&gt; Holdich and Harrison, 1980 and &lt;i&gt;Gnathia&lt;/i&gt; &lt;i&gt;variobranchia&lt;/i&gt; Holdich and Harrison, 1980 from Lizard Island, Wistari Reef, Heron Island and Chesterfields Reefs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coral reefs; Great Barrier Reef; Coral Sea; Isopoda; Gnathiidae; taxonomy</subject>
+          <subject_class locale="en_US">Coral reefs</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jörundur</firstname>
+          <lastname>Svavarsson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Niel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bruce</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2012-07-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the deepwater clingfish genus &lt;i&gt;Kopua &lt;/i&gt;(Gobiesociformes: Gobiesocidae) from the East China Sea—an example of antitropicality?</title>
+        <abstract locale="en_US">A new species of deepwater clingfish, &lt;i&gt;Kopua&lt;/i&gt; &lt;i&gt;japonica&lt;/i&gt; sp. nov., is described from the East China Sea. It is distinguished fromthe other members of the genus by anal and dorsal fin ray counts and a unique arrangement of sensory pores on the head. It isalso the first record of the genus from the Northern Hemisphere and this record may be an important deepwater addition to antitropicality in marine fishes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Antitropical; Japan; Australia; New Zealand; deepsea fish; nuimata; kuiteri</subject>
+          <subject_class locale="en_US">Antitropical</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Glenn</firstname>
+          <middlename>I.</middlename>
+          <lastname>Moore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Barry</middlename>
+          <lastname>Hutchins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Makoto</firstname>
+          <lastname>Okamoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-38</pages>
+        <date_published>2012-07-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Swedish Plectida (Nematoda). Part 2. The genus &lt;i&gt;Antomicron &lt;/i&gt;Cobb, 1920</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Antomicron&lt;/i&gt; are described from bottom sediments collected in Gullmarn Fjord, west coast of Sweden.&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;quindecimpapillatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is particularly characterised by the 1390–1459 µm long body; elongate doughnut-shapedamphid; straight vagina with drop-shaped sclerotizations; female without sensilla in pharyngeal region and without sup-plements; male with two pairs of setiform sensilla in pharyngeal region, 15 tubular and no alveolar supplements, one pairof precloacal and four pairs of caudal setae, 26.0–29.5 µm long spicules. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lorenzeni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is particularly characterisedby the 603–676 µm long body; an inverted U-shaped amphid; straight vagina without sclerotizations; female without sen-silla in pharyngeal region and without supplements; male without sensilla in pharyngeal region, two tubular and nine al-veolar supplements, one pair of precloacal and four pairs of caudal setae, 23 µm long spicules. Additional information onthe males of &lt;i&gt;Antomicron&lt;/i&gt; &lt;i&gt;pellucidum,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elegans,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pratense&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;intermedius&lt;/i&gt; is provided. A taxonomic review, tabular compendium and identification key of species of the genus &lt;i&gt;Antomicron&lt;/i&gt; are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Antomicron&lt;/i&gt;; Gullmarn Fjord; Leptolaimidae; Sweden; key; new species; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Antomicron&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Oleksandr</firstname>
+          <lastname>Holovachov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-54</pages>
+        <date_published>2012-07-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new &lt;i&gt;Peripatopsis &lt;/i&gt;species (Onychophora: Peripatopsidae) from the Western Cape province, South Africa</title>
+        <abstract locale="en_US">A recent study based on the mitochondrial &lt;i&gt;cytochrome&lt;/i&gt; &lt;i&gt;c&lt;/i&gt; &lt;i&gt;oxidase&lt;/i&gt; &lt;i&gt;subunit&lt;/i&gt; &lt;i&gt;I&lt;/i&gt; (COI) and the nuclear &lt;i&gt;18S&lt;/i&gt; &lt;i&gt;ribosomal&lt;/i&gt; &lt;i&gt;RNA&lt;/i&gt; (18S&lt;i&gt;rRNA)&lt;/i&gt; gene sequences from the widely distributed Cape velvet worm species &lt;i&gt;Peripatopsis&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; (Grube, 1866) revealed thepresence of three distinct, geographically exclusive clades characterised by marked sequence divergence values. Two of thethree clades were recognised as novel species and are described in the present manuscript. Gross morphology and scanningelectron microscopy (SEM), in conjuction with the genetic data, were used to discriminate the species. Two new species, &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;lawrencei&lt;/i&gt; sp. nov. and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;overbergiensis&lt;/i&gt; sp. nov., are described and compared with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto.&lt;/i&gt; The implications of these results on the conservation management are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Onychophora; Peripatopsidae; &lt;i&gt;Peripatopsis&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lawrencei&lt;/i&gt; sp. nov.; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;overbergiensis&lt;/i&gt; sp. nov.; Western Cape; South Africa</subject>
+          <subject_class locale="en_US">Onychophora</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dane</firstname>
+          <middlename>E.</middlename>
+          <lastname>Mcdonald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hilke</firstname>
+          <lastname>Ruhberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Savel</firstname>
+          <middlename>R.</middlename>
+          <lastname>Daniels</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2012-07-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

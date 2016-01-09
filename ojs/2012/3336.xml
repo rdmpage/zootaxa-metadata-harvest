@@ -1,3 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3336.1</id>
+    <title locale="en_US">6 Jun. 2012</title>
+    <volume>3336</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Systematic revision of the South American genus &lt;i&gt;Praocis &lt;/i&gt;Eschscholtz, 1829 (Coleoptera: Tenebrionidae). Part 1: Introduction and subgenus &lt;i&gt;Praocis &lt;/i&gt;s. str.</title>
+        <abstract locale="en_US">The first part of a revision of the species comprising the genus &lt;i&gt;Praocis&lt;/i&gt; Eschscholtz, 1829 (Pimeliinae: Praociini) is present-ed. The history of taxonomic research on &lt;i&gt;Praocis&lt;/i&gt; is reviewed. The subgeneric classification is outlined. The subgenus&lt;i&gt;Praocis&lt;/i&gt; s. str., distributed in Central and Southern Chile, is revised. Species occur from 26º South to 42º South in the bio-geographic provinces of Atacama, Coquimbo, Santiago, Maule and Valdivian Forest. Included is a redescription of the sub-genus &lt;i&gt;Praocis&lt;/i&gt; s. str., redescription of its species, an identification key, habitus photographs of the most representative species,illustrations of external morphology and genital features, scanning electron micrographs of pronotum, head and antenna, as well as distribution maps. &lt;i&gt;Praocis&lt;/i&gt; s. str. comprises 18 species, two of which are new: &lt;i&gt;Praocis&lt;/i&gt; (Praocis) &lt;i&gt;bicentenario&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;medvedevi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Other species include: &lt;i&gt;Praocis&lt;/i&gt; (Praocis) &lt;i&gt;aenea&lt;/i&gt; Gay &amp; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;costata&lt;/i&gt; Gay&amp; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;curta&lt;/i&gt; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;elliptica&lt;/i&gt; Philippi &amp; Philippi 1864, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;hirtella&lt;/i&gt; Kulzer 1958, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;mar-&lt;/i&gt;&lt;i&gt;ginata&lt;/i&gt; Germain 1855, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;parva&lt;/i&gt; Gay &amp; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;quadrisulcata&lt;/i&gt; Germain 1855, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;rufipes&lt;/i&gt; Eschscholtz1829 (type species), &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;sanquinolenta&lt;/i&gt; Gay &amp; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;spinolai&lt;/i&gt; Gay &amp; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;subaenea&lt;/i&gt; Erichson1834, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;subsulcata&lt;/i&gt; Gay &amp; Solier 1840, &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;sulcata&lt;/i&gt; Eschscholtz 1829 and &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;tibialis&lt;/i&gt; Gay &amp; Solier 1840. Thestatus of &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;bicostata&lt;/i&gt; Philippi &amp; Philippi 1864, currently considered a valid name, is discussed. A lectotype is desig-nated for &lt;i&gt;Praocis&lt;/i&gt; (P.) &lt;i&gt;laevicosta&lt;/i&gt; Curtis 1845 (synonym of &lt;i&gt;P.&lt;/i&gt; (P.) &lt;i&gt;subaenea).&lt;/i&gt; The subgenus &lt;i&gt;Praocis&lt;/i&gt; (Parapraocis) Kulzer 1958 is excluded from &lt;i&gt;Praocis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tenebrionidae; Pimeliinae; Praociini; &lt;i&gt;Praocis&lt;/i&gt;; Chile; coastal desert; South America</subject>
+          <subject_class locale="en_US">Tenebrionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gustavo</firstname>
+          <middlename>E.</middlename>
+          <lastname>Flores</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jaime</firstname>
+          <lastname>Pizarro-Araya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-06-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of nymphal instars and adult female of &lt;i&gt;Kermes vermilio &lt;/i&gt;Planchon (Hemiptera, Coccoidea, Kermesidae), with a synopsis of the European and Mediterranean species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">gall-like scales; morphology; instar descriptions; identification key</subject>
+          <subject_class locale="en_US">gall-like scales</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giuseppina</firstname>
+          <lastname>Pellizzari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francesco</firstname>
+          <lastname>Porcelli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefano</firstname>
+          <lastname>Convertini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Salvatore</firstname>
+          <lastname>Marotta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-50</pages>
+        <date_published>2012-06-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Studies of true bugs of Xinjiang, western China. I. Leptopodomorpha: shore bugs (Hemiptera: Heteroptera: Saldidae)</title>
+        <abstract locale="en_US">The family Saldidae in Xinjiang (Western China) includes 19 species belonging to five genera from the subfamilies Chiloxan-thinae (1 sp.) and Saldinae (18 spp.). A new species, &lt;i&gt;Halosalda&lt;/i&gt; &lt;i&gt;minuta&lt;/i&gt; Vinokurov, Luo &amp; Lü, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described from the east-ern part of the Tarim depression. The new species differs from congeners by the small body size, relatively large head, longerantennal segment 2, and structures of male genitalia. &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sibiricola&lt;/i&gt; Cobben, 1985 is recorded as new for China, and three speciesare new to the fauna of Xinjiang: &lt;i&gt;Saldula&lt;/i&gt; &lt;i&gt;orthochila&lt;/i&gt; (Fieber, 1859), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pallipes&lt;/i&gt; (Fabricius, 1794), and &lt;i&gt;Salda&lt;/i&gt; &lt;i&gt;littoralis&lt;/i&gt; (Linnaeus, 1758). &lt;i&gt;Halosalda&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; (Fallén, 1807) is reported for Kyrgyzstan for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Saldidae; Western China; Central Asia; new species</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nikolai</firstname>
+          <middlename>N.</middlename>
+          <lastname>Vinokurov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhaohui</firstname>
+          <lastname>Luo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhaozhi</firstname>
+          <lastname>Lü</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-61</pages>
+        <date_published>2012-06-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and records of the genus &lt;i&gt;Spiloscapha &lt;/i&gt;Bates (Coleoptera: Tenebrionidae) from the Oriental and Papuan Regions (part 2)</title>
+        <abstract locale="en_US">Four new species of the genus &lt;i&gt;Spiloscapha&lt;/i&gt; Bates, 1873 (Coleoptera, Tenebrionidae, Diaperinae) are described: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bryanti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt;(Java), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cechovskyi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (W Malaysia), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;meghalaya&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (NE India: Meghalaya) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;toxopeusi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; (Moluccas:Buru). &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;rufonotata&lt;/i&gt; (Pic, 1916) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is transferred from &lt;i&gt;Basanus&lt;/i&gt; Lacordaire, 1857 to &lt;i&gt;Spiloscapha&lt;/i&gt; Bates, 1873. New fau-nistic data of known species are added and a complete checklist of all 35 species of &lt;i&gt;Spiloscapha&lt;/i&gt; from the Oriental and Papuan Regions is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tenebrionidae; Diaperinae; &lt;i&gt;Spiloscapha&lt;/i&gt;; taxonomy; new species; new combination; distribution; Oriental region; Papuan region; checklist</subject>
+          <subject_class locale="en_US">Tenebrionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wolfgang</firstname>
+          <lastname>Schawaller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-06-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3573.1</id>
+    <title locale="en_US">6 Dec. 2012</title>
+    <volume>3573</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Catalogue of the type specimens of Yponomeutoidea (Lepidoptera) in the collection of the United States National Museum of Natural History </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jae-Cheon</firstname>
+          <lastname>Sohn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jon</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lewis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the male of &lt;i&gt;Lasiotheus &lt;/i&gt;Paclt, 1963, its implication in Atelurinae supra-generic taxonomy and keys for the genera (Insecta: Zygentoma) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>F.</middlename>
+          <lastname>Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-32</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Dactylopius &lt;/i&gt;Costa (&lt;i&gt;Dactylopius gracilipilus &lt;/i&gt;sp. nov.) (Hemiptera: Coccoidea: Dactylopiidae) from the Chihuahuan Desert, Texas, U.S.A. </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Dactylopius&lt;/i&gt; Costa (Dactylopius &lt;i&gt;gracilipilus&lt;/i&gt; Van Dam &amp; May) is described and illustrated. It is morpho-logically similar to &lt;i&gt;Dactylopius&lt;/i&gt; &lt;i&gt;tomentosus&lt;/i&gt; (Lamarck), but has more gracile truncate setae, abundant simple pores dorsally, and appears to be host-restricted to &lt;i&gt;Corynopuntia&lt;/i&gt; Knuth (Cactaceae: Opuntioidea).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cochineal; Dactylopiidae; taxonomy; Chihuahuan Desert; host-restricted</subject>
+          <subject_class locale="en_US">cochineal</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alex</firstname>
+          <middlename>R.</middlename>
+          <lastname>Van Dam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernie</firstname>
+          <lastname>May</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-39</pages>
+        <date_published>2012-12-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Trichomyia &lt;/i&gt;Haliday (Diptera: Psychodidae: Trichomyiinae) from the Brazilian Atlantic Forest, with a checklist of Western Hemisphere species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claudiney</firstname>
+          <middlename>Biral Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>Rocha</middlename>
+          <lastname>Leite</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-46</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Records of the Genus &lt;i&gt;Jessopocoris &lt;/i&gt;Carvalho, 1981 (Hemiptera: Miridae: Bryocorinae), with Descriptions of Two New Species Found in China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yi-Ran</firstname>
+          <lastname>Mu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guo-Qing</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-54</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Siraton devillei &lt;/i&gt;Hustache (Coleoptera: Curculionidae), the mysterious weevil from the Isle of Elba: exiled no longer </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rolf</firstname>
+          <middlename>G.</middlename>
+          <lastname>Oberprieler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roberto</firstname>
+          <lastname>Caldara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-58</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Pseudoxistrella &lt;/i&gt;Liang, 1991 (Orthoptera: Tetrigidae, Metrodorinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergey</firstname>
+          <middlename>Yu.</middlename>
+          <lastname>Storozhenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikhail</firstname>
+          <middlename>M.</middlename>
+          <lastname>Omelko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-65</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Replacement names for two species of Noctuidae (Lepidoptera) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>H.</firstname>
+          <middlename>L.</middlename>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kononenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-12-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

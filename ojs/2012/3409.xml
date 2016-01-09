@@ -1,3 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3409.1</id>
+    <title locale="en_US">6 Aug. 2012</title>
+    <volume>3409</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the scarab subfamily Aclopinae Blanchard (Coleoptera: Scarabaeidae) </title>
+        <abstract locale="en_US">The Aclopinae from Argentina and Chile are revised and a redescription of the subfamily and type genus &lt;i&gt;Aclopus&lt;/i&gt; Erichsonare presented. &lt;i&gt;Aclopus&lt;/i&gt; &lt;i&gt;vittatus&lt;/i&gt; Erichson is designated as the type species of &lt;i&gt;Aclopus.&lt;/i&gt; Two new genera, &lt;i&gt;Gracilaclopus&lt;/i&gt;Ocampo and Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; and &lt;i&gt;Desertaclopus&lt;/i&gt; Ocampo and Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus,&lt;/b&gt; are described. &lt;i&gt;Gracilaclopus&lt;/i&gt;includes eight species: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bidentulus&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;caceresi&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;candelariae&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;crepuscularis&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;electricus&lt;/i&gt; Ocampo&amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;morochus&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;nigroscutatus&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt;&lt;b&gt;species,&lt;/b&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; (Ohaus) &lt;b&gt;new&lt;/b&gt; &lt;b&gt;combination.&lt;/b&gt; The genus &lt;i&gt;Desertaclopus&lt;/i&gt; includes three species: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;atacamensis&lt;/i&gt;Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;lucasi&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;marcosi&lt;/i&gt; Ocampo &amp; Mondaca &lt;b&gt;new&lt;/b&gt;&lt;b&gt;species.&lt;/b&gt; A neotype is designated for &lt;i&gt;Aclopus&lt;/i&gt; &lt;i&gt;parvulus&lt;/i&gt; Ohaus (now &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;parvulus).&lt;/i&gt; A key and diagnostic characters for allArgentinean and Chilean aclopine genera and species are provided. Based on a detailed morphological study, theAustralian &lt;i&gt;Phaenognatha&lt;/i&gt; Hope and the Neotropical &lt;i&gt;Neophaenognatha&lt;/i&gt; Allsopp are removed from the Aclopinae and transferred to Scarabaeidae &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; South America; Scarab beetles</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>In</firstname>
+          <middlename>Argentina And Chilefederico C.</middlename>
+          <lastname>Ocampo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <lastname>Mondaca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Distribution records of &lt;i&gt;Helina &lt;/i&gt;Robineau-Desvoidy, 1830 (Diptera: Muscidae) from the Caucasus Mountains, with the descriptions of three new species</title>
+        <abstract locale="en_US">Previous literature on the genus &lt;i&gt;Helina&lt;/i&gt; Robineau-Desvoidy, 1830 in the Caucasus Mountains is reviewed, and records aregiven for 17 species from Armenia and Georgia, of which nine are new records for Armenia and eight are new records forGeorgia. In addition, three new species are described: &lt;i&gt;Helina&lt;/i&gt; &lt;i&gt;edita&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Georgia, Turkey, Russia), &lt;i&gt;Helina&lt;/i&gt; &lt;i&gt;karina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Armenia) and &lt;i&gt;Helina&lt;/i&gt; &lt;i&gt;marisha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Armenia).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Muscid flies; taxonomy; distribution; Georgia; Armenia; new records</subject>
+          <subject_class locale="en_US">Muscid flies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrian</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pont</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-46</pages>
+        <date_published>2012-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new and redescriptions of two known species of &lt;i&gt;Torymus&lt;/i&gt; (Hymenoptera: Torymidae) in Taiwan with a key to Taiwanese species</title>
+        <abstract locale="en_US">&lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;flavigastris&lt;/i&gt; Matsuo &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hymenoptera: Torymidae) is described as a parasitoid of unidentified gall midges(Diptera: Cecidomyiidae) that induce galls on &lt;i&gt;Litsea&lt;/i&gt; &lt;i&gt;acuminata&lt;/i&gt; (Blume) Kurata (=Actinodaphne &lt;i&gt;acuminata&lt;/i&gt; (Blume)Meisner) (Lauraceae), &lt;i&gt;Machilus&lt;/i&gt; &lt;i&gt;pseudolongifolia&lt;/i&gt; Hayata (Lauraceae), and &lt;i&gt;Eurya&lt;/i&gt; &lt;i&gt;chinensis&lt;/i&gt; Robert Brown (Theaceae) inTaiwan. This is the first record of Torymidae associated with gall midges on Lauraceae and Theaceae. Redescriptions of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;aiolomorphi&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; and a key to species of &lt;i&gt;Torymus&lt;/i&gt; known in Taiwan are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;flavigastris&lt;/i&gt;; &lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;aiolomorphi&lt;/i&gt;; &lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt;; Lauraceae; Theaceae; Cecidomyiidae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Torymus&lt;/i&gt; &lt;i&gt;flavigastris&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kazunori</firstname>
+          <lastname>Matsuo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Man–Miao</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gene–Sheng</firstname>
+          <lastname>Tung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Makoto</firstname>
+          <lastname>Tokuda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Junichi</firstname>
+          <lastname>Yukawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-57</pages>
+        <date_published>2012-08-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Antiliocorini from Baja California, Mexico (Hemiptera: Heteroptera: Lygaeoidea: Rhyparochromidae: Rhyparochrominae)</title>
+        <abstract locale="en_US">A new genus of Antillocorini, &lt;i&gt;Pulmomerus,&lt;/i&gt; and a new species &lt;i&gt;Pulmomerus&lt;/i&gt; &lt;i&gt;levatus&lt;/i&gt; from Baja California Sur aredescribed. This species with reduced hemelytra is characterized by the presence of spines on the fore femora, the veryelevated connexiva, the absence of metathoracic wings, and a peculiar and unique spermatheca. Specimens were foundunder leaf litter of &lt;i&gt;Ficus&lt;/i&gt; &lt;i&gt;palmeri,&lt;/i&gt; which represents another record of Rhyparochromidae associated with figs in Mexico, and a probably endemic species from Cabo Pulmo National Park.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cabo Pulmo; endemic; &lt;i&gt;Ficus&lt;/i&gt; &lt;i&gt;palmeri&lt;/i&gt;; seeds; &lt;i&gt;Pulmomerus&lt;/i&gt; &lt;i&gt;levatus&lt;/i&gt;; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Cabo Pulmo</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>Cervantes</middlename>
+          <lastname>Peredo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Brailovsky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-62</pages>
+        <date_published>2012-08-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A key to the Neotropical species of the &lt;i&gt;Enicospilus ramidulus &lt;/i&gt;species-group (Hymenoptera: Ichneumonidae: Ophioninae), with the description of a new Brazilian species</title>
+        <abstract locale="en_US">A key to the Neotropical species of the &lt;i&gt;Enicospilus&lt;/i&gt; &lt;i&gt;ramidulus&lt;/i&gt; species-group is provided, with the exception of GalápagosIslands species. A total of 22 specimens of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;purgatus&lt;/i&gt; (Say) were examined and its known distribution (Southern Brazil)extended to the states of Bahia and Amazonas, in Northeastern and Northern Brazil, respectively. A new species, &lt;i&gt;Enicospilus&lt;/i&gt; &lt;i&gt;diae&lt;/i&gt; Lima &amp; Kumagai &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described from Southeastern Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">parasitoids; Malaise trap; taxonomy</subject>
+          <subject_class locale="en_US">parasitoids</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alessandro</firstname>
+          <middlename>Rodrigues</middlename>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudia</firstname>
+          <middlename>Maria</middlename>
+          <lastname>Jacobi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alice</firstname>
+          <middlename>Fumi</middlename>
+          <lastname>Kumagai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-08-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

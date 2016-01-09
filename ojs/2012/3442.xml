@@ -1,3 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3442.1</id>
+    <title locale="en_US">28 Aug. 2012</title>
+    <volume>3442</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Joseph Vachal (1838–1911): French entomologist and politician</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Claus</firstname>
+          <lastname>Rasmussen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-52</pages>
+        <date_published>2012-08-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Oecetis &lt;/i&gt;McLachlan, 1877 (Trichoptera: Leptoceridae) from Southeast Brazil: Validation of an unpublished species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fábio</firstname>
+          <middlename>B.</middlename>
+          <lastname>Quinteiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adolfo</firstname>
+          <middlename>R.</middlename>
+          <lastname>Calor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-57</pages>
+        <date_published>2012-08-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Chewing lice of the genus &lt;i&gt;Myrsidea &lt;/i&gt;(Phthiraptera: Amblycera: Menoponidae) from passerines (Aves: Passeriformes) in South Africa, with descriptions of three new species</title>
+        <abstract locale="en_US">A total of 144 individuals of 46 bird species belonging to the 20 families were examined for chewing lice in SouthAfrica. Considering only the genus &lt;i&gt;Myrsidea,&lt;/i&gt; a total of 19 birds of 8 species were parasitised with 8 species of&lt;i&gt;Myrsidea.&lt;/i&gt; Descriptions and illustrations are given for three new species of &lt;i&gt;Myrsidea.&lt;/i&gt; The new species and their typehosts are: &lt;i&gt;Myrsidea&lt;/i&gt; &lt;i&gt;aynazae&lt;/i&gt; ex &lt;i&gt;Phyllastrephus&lt;/i&gt; &lt;i&gt;flavostriatus&lt;/i&gt; (Sharpe) (Pycnonotidae), &lt;i&gt;Myrsidea&lt;/i&gt; &lt;i&gt;eslamii&lt;/i&gt; ex &lt;i&gt;Zoothera&lt;/i&gt;&lt;i&gt;gurneyi&lt;/i&gt; (Hartlaub) (Turdidae) and &lt;i&gt;Myrsidea&lt;/i&gt; &lt;i&gt;mariquensis&lt;/i&gt; ex &lt;i&gt;Bradornis&lt;/i&gt; &lt;i&gt;mariquensis&lt;/i&gt; Smith (Muscicapidae). Records ofnew host-louse associations are: &lt;i&gt;Phyllastrephus&lt;/i&gt; &lt;i&gt;terrestris&lt;/i&gt; Swainson (Pycnonotidae) for &lt;i&gt;Myrsidea&lt;/i&gt; sp., &lt;i&gt;Ploceus&lt;/i&gt; &lt;i&gt;intermedius&lt;/i&gt; Ruppell (Ploceidae) for &lt;i&gt;Myrsidea&lt;/i&gt; sp., and &lt;i&gt;Turdus&lt;/i&gt; &lt;i&gt;libonyanus&lt;/i&gt; (Smith) (Turdidae) for &lt;i&gt;Myrsidea&lt;/i&gt; sp.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Myrsidea&lt;/i&gt;; Menoponidae; Amblycera; Phthiraptera; new species; Passeriformes; South Africa; new host-louse associations.</subject>
+          <subject_class locale="en_US">&lt;i&gt;Myrsidea&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ali</firstname>
+          <lastname>Halajian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oldrich</firstname>
+          <lastname>Sychra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wilmien</firstname>
+          <lastname>Luus-Powell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Derek</firstname>
+          <lastname>Engelbrecht</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2012-08-28</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

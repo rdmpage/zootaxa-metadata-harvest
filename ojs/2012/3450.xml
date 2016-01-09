@@ -11,6 +11,178 @@
     <section>
       <title locale="en_US">Articles</title>
       <article language="en">
+        <title locale="en_US">Amendment of Articles 8, 9, 10, 21 and 78 of the &lt;i&gt;International Code of Zoological&lt;/i&gt; &lt;i&gt;Nomenclature &lt;/i&gt;to expand and refine methods of publication</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>International</firstname>
+          <middlename>Commission On Zoological</middlename>
+          <lastname>Nomenclature</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-7</pages>
+        <date_published>2012-09-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new era in zoological nomenclature and taxonomy: ICZN accepts e-publication and launches ZooBank</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhi-Qiang</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>8-8</pages>
+        <date_published>2012-09-04</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Pleurodema nebulosum &lt;/i&gt;Burmeister (Anura: Leiuperidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guillermina</firstname>
+          <lastname>Galvani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Exequiel</firstname>
+          <lastname>González</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <lastname>Sanabria</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lorena</firstname>
+          <lastname>Quiroga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the diversity of the genus &lt;i&gt;Pisione &lt;/i&gt;(Polychaeta, Pisionidae) along the Portuguese continental shelf, with a key to European species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roberto</firstname>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>San Martín</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Maria</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Victor</firstname>
+          <lastname>Quintino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3450.1</id>
+    <title locale="en_US">4 Sep. 2012</title>
+    <volume>3450</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Validity and redescription of the flathead fish, &lt;i&gt;Onigocia macrocephala&lt;/i&gt; (Weber, 1913) (Teleostei: Platycephalidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hisashi</firstname>
+          <lastname>Imamura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-32</pages>
+        <date_published>2012-09-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of the spider genus &lt;i&gt;Echinax &lt;/i&gt;Deeleman-Reinhold, 2001 (Araneae: Corinnidae) in the Afrotropical Region</title>
+        <abstract locale="en_US">The cryptic arboreal castianeirine genus &lt;i&gt;Echinax&lt;/i&gt; Deeleman-Reinhold, 2001 (Araneae: Corinnidae), previously knownonly from South-East Asia, is recorded from the Afrotropical Region for the first time. The female of &lt;i&gt;Copa&lt;/i&gt; &lt;i&gt;longespina&lt;/i&gt;Simon, 1909 is redescribed, the male is described for the first time, and the species is transferred to &lt;i&gt;Echinax&lt;/i&gt; as &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;longespina&lt;/i&gt; (Simon, 1909) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; It occurs widely throughout equatorial Africa, from Kenya and Tanzania in the eastto Liberia in the west. Six new species are described from both sexes: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;clara&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from D.R. Congo and Ghana, &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;hesperis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Ivory Coast, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;natalensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;similis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from South Africa, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;scharffi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;from Tanzania, and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;spatulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; widespread across tropical Africa. The available ecological data indicates thatall seven species are mainly arboreal and represent a prominent component of corinnid assemblage collected by canopy fogging, especially in forests.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">arboreal; Asia; Castianeirinae; cryptic colouration; new species</subject>
+          <subject_class locale="en_US">arboreal</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Charles</firstname>
+          <middlename>R.</middlename>
+          <lastname>Haddad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-61</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Reply to ““Taxonomic certification versus the scientific method”: a rebuttal of Rogers (2012)” by Stribling &lt;i&gt;et al.&lt;/i&gt;, 2012</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>Christopher</middlename>
+          <lastname>Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-63</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+      <article language="en">
         <title locale="en_US">Erratum: RAFAELA BASTOS-PEREIRA &amp; ALESSANDRA ANGÉLICA DE PÁDUA BUENO (2012) New species and new report of &lt;i&gt;Hyalella &lt;/i&gt;S. I. Smith, 1874 (Crustacea: Amphipoda: Dogielinotidae) from Minas Gerais state, Southeastern Brazil. &lt;i&gt;Zootaxa, &lt;/i&gt;3350, 58–68 </title>
         <abstract locale="en_US"/>
         <indexing>

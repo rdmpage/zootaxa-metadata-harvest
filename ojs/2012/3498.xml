@@ -1,3 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3498.1</id>
+    <title locale="en_US">26 Sep. 2012</title>
+    <volume>3498</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-26</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the family Platyxanthidae Guinot, 1977 (Crustacea, Decapoda, Brachyura, Eriphioidea), with the description of a new genus and a key to genera and species </title>
+        <abstract locale="en_US">During recent studies of phylogenetic relationships within Eriphioidea (sensu Ng &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2008), we recovered molecularevidence that the genus &lt;i&gt;Platyxanthus&lt;/i&gt; A. Milne-Edwards, 1863, was not monophyletic. This prompted detailedmorphological examination of the group, which confirmed that clear differences in characteristics of the carapace, firstmale pleopod, antennae, antennules, epistome, abdomen, and thoracic sternum serve to separate the species of&lt;i&gt;Platyxanthus&lt;/i&gt; into three distinct groups. Comparison of the type material of &lt;i&gt;Peloeus&lt;/i&gt; &lt;i&gt;cokeri&lt;/i&gt; (Rathbun, 1930), (formerly&lt;i&gt;Platyxanthus&lt;/i&gt; &lt;i&gt;cokeri)&lt;/i&gt; to &lt;i&gt;Peloeus&lt;/i&gt; &lt;i&gt;armatus&lt;/i&gt; Eydoux &amp; Souleyet, 1842, indicated that &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cokeri&lt;/i&gt; is a junior synonym of &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;armatus&lt;/i&gt; and that &lt;i&gt;Gordonoxanthus&lt;/i&gt; Števčić, 2011 (type species &lt;i&gt;Platyxanthus&lt;/i&gt; &lt;i&gt;cokeri&lt;/i&gt; Rathbun, 1930) is thus a juniorsynonym of &lt;i&gt;Peloeus.&lt;/i&gt; &lt;i&gt;Danielethus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.&lt;/b&gt; is described to accommodate &lt;i&gt;Platyxanthus&lt;/i&gt; &lt;i&gt;patagonicus&lt;/i&gt; A. Milne-Edwards,1863, and &lt;i&gt;Platyxanthus&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt; A. Milne-Edwards, 1863. A key to the known genera and species of the family Platyxanthidae Guinot, 1977 is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Eriphioidea; Platyxanthidae; &lt;i&gt;Platyxanthus&lt;/i&gt;; &lt;i&gt;Danielethus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.,&lt;/b&gt; &lt;i&gt;Gordonoxanthus&lt;/i&gt;; &lt;i&gt;Otmaroxanthus&lt;/i&gt;; &lt;i&gt;Peloeus&lt;/i&gt;; taxonomy; new genus</subject>
+          <subject_class locale="en_US">Eriphioidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brent</firstname>
+          <middlename>P.</middlename>
+          <lastname>Thoma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darryl</firstname>
+          <middlename>L.</middlename>
+          <lastname>Felder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2012-09-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Tanaidacea (Crustacea) from Macaronesia III. The shallow-water Tanaidomorpha from the Cape Verde archipelago </title>
+        <abstract locale="en_US">Three new species of Tanaidacea are described from the Cape Verde archipelago in the Mid-Atlantic, collected during thesampling program of the Laboratory of Marine Community Ecology and Evolution (LMCEE) to Macaronesia and formerPortuguese colonies. The new species belong to the tanaidomorphan families Leptocheliidae (Leptochelia &lt;i&gt;parasavignyi),&lt;/i&gt; Paratanaidae (Paratanais &lt;i&gt;vicentetis),&lt;/i&gt; and Pseudotanaidae (Pseudotanais &lt;i&gt;Akanthinotanais&lt;/i&gt; &lt;i&gt;breviaquas).&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tanaidacea; Tanaidomorpha; Cape Verde archipelago; Macaronesia. &lt;i&gt;Akanthinotanais&lt;/i&gt;; &lt;i&gt;Leptochelia&lt;/i&gt;; &lt;i&gt;Paratanais&lt;/i&gt;; &lt;i&gt;Pseudotanais&lt;/i&gt;; &lt;i&gt;Zeuxo&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Tanaidacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kim</firstname>
+          <lastname>Larsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ryoko</firstname>
+          <lastname>Nagaoka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elsa</firstname>
+          <lastname>Froufe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-44</pages>
+        <date_published>2012-09-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Oligodon &lt;/i&gt;Fitzinger, 1826 (Squamata: Colubridae) from northern Vietnam, southern China and central Laos </title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Oligodon&lt;/i&gt; Fitzinger, 1826, &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;nagao&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described on the basis of five specimensoriginating from Lang Son and Cao Bang provinces in northern Vietnam, Guangxi Autonomous Region in southernPeople’s Republic of China, and from Khammouane Province in central Laos PDR. This species differs from other speciesof the region by the combination of 15 or 17 dorsal scale rows at midbody, unforked hemipenes, not spinose but withpapillae, entire cloacal plate, a high number of ventrals, a rather short tail and dorsal pattern made of numerous dark,butterfly-shaped blotches. On the basis of the morphology of its hemipenes, &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;nagao&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; belongs to the groupof &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;cinereus.&lt;/i&gt; This new species is compared with other species of the Indochinese Peninsula and China with 15or 17 dorsal scale rows, especially &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;joynsoni&lt;/i&gt; (Smith, 1917). An updated list of the &lt;i&gt;Oligodon&lt;/i&gt; species of this region is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata; Colubridae; Indochinese Peninsula; China; &lt;i&gt;Oligodon&lt;/i&gt; &lt;i&gt;nagao&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; taxonomy.</subject>
+          <subject_class locale="en_US">Squamata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Truong</firstname>
+          <middlename>Quang</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tao</firstname>
+          <middlename>Thien</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ke</firstname>
+          <lastname>Jiang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tianbo</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandre</firstname>
+          <lastname>Teynié</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Ziegler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-62</pages>
+        <date_published>2012-09-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Polypedates &lt;/i&gt;Tschudi (Amphibia, Anura, Rhacophoridae) from Sri Lanka </title>
+        <abstract locale="en_US">A new species of frog tentatively assigned to the genus &lt;i&gt;Polypedates&lt;/i&gt; is described from the Gilimale forest reserve of theSabaragamuwa province of Sri Lanka. This tree frog is characterized by unique osteological characteristics in the skullwhich distinguish it from all other congeners, such as the presence of a series of maxillary teeth progressively changingorientation from horizontal to vertical from posterior end to anterior; a laterally-curved spine in the quadratojugal bone;and bony co-ossification on the skull resulting in four dorsal spines which are externally seen as protrusions in the parietalarea. Bioacoustic observations of &lt;i&gt;Polypedates&lt;/i&gt; &lt;i&gt;ranwellai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; revealed three distinct call types. High rates of deforestation and anthropogenic activities at the type locality threaten the survival of the species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibian; Gilimale; new species; &lt;i&gt;Polypedates&lt;/i&gt;; &lt;i&gt;Polypedates&lt;/i&gt; &lt;i&gt;ranwellai&lt;/i&gt;; Rhacophoridae; Sri Lanka</subject>
+          <subject_class locale="en_US">Amphibian</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>J. Mendis</middlename>
+          <lastname>Wickramasinghe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>A. I.</middlename>
+          <lastname>Munindradasa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Prithiviraj</firstname>
+          <lastname>Fernando</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-80</pages>
+        <date_published>2012-09-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First records of &lt;i&gt;Parergodrilus heideri &lt;/i&gt;(Annelida: "Polychaeta") from North America </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiří</firstname>
+          <lastname>Schlaghamerský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lee</firstname>
+          <middlename>E.</middlename>
+          <lastname>Frelich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-86</pages>
+        <date_published>2012-09-26</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Authorship and type specimens of &lt;i&gt;Alburnoides kubanicus &lt;/i&gt;(Teleostei: Cyprinidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Radek</firstname>
+          <lastname>Šanda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jiří</firstname>
+          <lastname>Mlíkovský</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>87-88</pages>
+        <date_published>2012-09-26</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

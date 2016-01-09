@@ -1,3 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3407.1</id>
+    <title locale="en_US">2 Aug. 2012</title>
+    <volume>3407</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Morphological variation, polymorphism, and Taxonomy of the &lt;i&gt;Atractus torquatus&lt;/i&gt; complex (Serpentes: Dipsadidae)</title>
+        <abstract locale="en_US">The taxonomic status of &lt;i&gt;Atractus&lt;/i&gt; &lt;i&gt;torquatus&lt;/i&gt; is revised on the basis of concordance between quantitative and qualitativeanalyses of morphological characters (meristic, morphometric, colour pattern, and hemipenis) throughout its geographicaldistribution. We propose the synonymy of &lt;i&gt;Atractus&lt;/i&gt; &lt;i&gt;davidhardi,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;janethae,&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lucilae&lt;/i&gt; based on wide overlap of mor-phological characters (qualitative and quantitative). Despite some differences in the frequency of the number of suprala-bials, infralabials and maxillary teeth among &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;torquatus&lt;/i&gt; populations, we find that these characters exhibit a high levelof polymorphism and therefore cannot unambiguously diagnose Guiana Shield and Amazon Basin populations. Addition-ally, we discuss the polymorphism and geographical variation in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;torquatus&lt;/i&gt; and its appropriateness for hypotheses of landscape evolution in Amazonia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Atractus&lt;/i&gt; &lt;i&gt;davidhardi&lt;/i&gt;; &lt;i&gt;Atractus&lt;/i&gt; &lt;i&gt;janethae&lt;/i&gt;; &lt;i&gt;Atractus&lt;/i&gt; &lt;i&gt;lucilae&lt;/i&gt;; Morphological variation; Polychromatism</subject>
+          <subject_class locale="en_US">&lt;i&gt;Atractus&lt;/i&gt; &lt;i&gt;davidhardi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <lastname>Passos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>L. C.</middlename>
+          <lastname>Prudente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of hermit crabs of the genus &lt;i&gt;Areopaguristes &lt;/i&gt;Rahayu &amp; McLaughlin, 2010 (Crustacea: Anomura: Paguroidea: Diogenidae) from the eastern tropical Pacific</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Areopaguristes&lt;/i&gt; Rahayu &amp; McLaughlin, 2010 is represented in the eastern Pacific by a single species, &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;mclaughlinae&lt;/i&gt; (Ayón-Parente &amp; Hendrickx, 2006). Based on material recently collected in the Gulf of California, Mexico,and held in museum collections, two new species of this genus are described. &lt;i&gt;Areopaguristes&lt;/i&gt; &lt;i&gt;lemaitrei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;waldoschmitti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Both have the typical 12 gills of the genus. In addition to its color pattern, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lemaitrei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; isdistinguished by the presence of corneous-tipped spines on palm and fingers, a broadly rounded rostrum shorter than lat-eral projections, and by the shape of the external lobe of the first pleopod. &lt;i&gt;Areopaguristes&lt;/i&gt; &lt;i&gt;waldoschmitti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; also fea-tures a distinctive color pattern, a less spinous armature of chelipeds, antennular peduncles proporcionally longer andantennal acicle shorter, a deep median cleft on the posterior margin of telson, and the distal margin of the inferior lamella of the first male pleopod is unarmed; this last character separates &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;waldoschmtti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from all its congeners.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Diogenidae; &lt;i&gt;Areopaguristes&lt;/i&gt;; new species; eastern Pacific</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Manuel</firstname>
+          <lastname>Ayón-Parente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michel</firstname>
+          <middlename>E.</middlename>
+          <lastname>Hendrickx</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-36</pages>
+        <date_published>2012-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological and molecular evidences for the existence of two new species of &lt;i&gt;Homalometron &lt;/i&gt;(Digenea: Apocreadiidae), parasites of cichlids (Osteichthyes: Cichlidae)</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Homalometron&lt;/i&gt; Stafford, 1904 are described, one from the Sinaloan cichlid &lt;i&gt;Cichlasoma&lt;/i&gt; &lt;i&gt;beani&lt;/i&gt; (Jordan)in the upper Río Santiago basin, Northwestern Mexico, and the other one from the Mayan cichlid &lt;i&gt;Cichlasoma&lt;/i&gt; &lt;i&gt;urophthal-&lt;/i&gt;&lt;i&gt;mus&lt;/i&gt; (Günther) and the Redhead cichlid &lt;i&gt;Vieja&lt;/i&gt; &lt;i&gt;synspila&lt;/i&gt; (Hubbs) in Southeastern Mexico and Guatemala. &lt;i&gt;Homalometron&lt;/i&gt;&lt;i&gt;octopapillatum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; from the intestine of the Sinaloan cichlid, differs from all congeners by having four pairs of oralpapillae surrounding the mouth and by having vitellaria restricted to the hindbody. In addition, this new species is onlyfound in that species of cichlid, which only occurs in river basins of Northwestern Mexico. The second species,&lt;i&gt;Homalometron&lt;/i&gt; &lt;i&gt;mesoamericanum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; was considered to be conspecific with the type species, &lt;i&gt;Homalometron&lt;/i&gt; &lt;i&gt;pallidum&lt;/i&gt;Stafford, in several published accounts on the cichlid parasite fauna of Southeastern Mexico; however, detailed morpho-logical examination of museum specimens as well as freshly collected specimens, along with a comparison through mo-lecular data with &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pallidum&lt;/i&gt; from its natural distribution range in North America, allowed us to confirm that thisrepresents, in fact, an undescribed species. The new species is distinguished from other congeners by the combination ofthe following characters: lack of papillae around the mouth opening, the anterior extension of the vitellaria (up to the an-terior border of ovary), two compact eyespots next to pharynx and a large size (1,30–3,19). In this paper we followed anintegrative taxonomy approach in which morphological characters are used in combination with data on two nuclear ribo-somal markers (sequence divergence values and phylogenetic analysis), as well as data on host association and geographic distribution, to give further support to the recognition and description of two new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Digenea; &lt;i&gt;Homalometron&lt;/i&gt;; &lt;i&gt;Homalomentron&lt;/i&gt; &lt;i&gt;mesoamericanum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Homalometron&lt;/i&gt; &lt;i&gt;octopapillatum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Cichlasoma&lt;/i&gt; &lt;i&gt;beani&lt;/i&gt;; &lt;i&gt;Cichlasoma&lt;/i&gt; &lt;i&gt;urophthalmus&lt;/i&gt;; &lt;i&gt;Vieja&lt;/i&gt; &lt;i&gt;synspila&lt;/i&gt;; molecular markers; new species; Mexico; Guatemala</subject>
+          <subject_class locale="en_US">Digenea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <middlename>Pérez-Ponce</middlename>
+          <lastname>De León</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>U.</firstname>
+          <lastname>Razo-Mendivil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leticia</firstname>
+          <lastname>García-Magaña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-48</pages>
+        <date_published>2012-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of stream-dwelling frog of the genus &lt;i&gt;Cycloramphus&lt;/i&gt; (Anura, Cycloramphidae) from the State of Rio de Janeiro, Brazil</title>
+        <abstract locale="en_US">A new anuran species, &lt;i&gt;Cycloramphus&lt;/i&gt; &lt;i&gt;lithomimeticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; of the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;granulosus&lt;/i&gt; species group is described from theMunicipality of Itaguaí, in the State of Rio de Janeiro, Brazil (22°54'3.44"S; 43°53'34.59"W, 160 m). The new species isdistinguished from all other species in the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;granulosus&lt;/i&gt; group (and many others in the genus) by lacking inguinal macroglands (on males). We also present data on its natural history, a few aspects of its osteology, tadpole, and discuss evidence for the relationships of the genus based primarily on the morphology of the tadpole.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic Forest; Brazil; &lt;i&gt;Cycloramphus&lt;/i&gt; &lt;i&gt;granulosus&lt;/i&gt; group; tadpole; &lt;i&gt;Cycloramphus&lt;/i&gt; relationships</subject>
+          <subject_class locale="en_US">Atlantic Forest; Brazil; &lt;i&gt;Cycloramphus&lt;/i&gt; &lt;i&gt;granulosus&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Helio</firstname>
+          <middlename>Ricardo</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daiane</firstname>
+          <lastname>Ouvernay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-60</pages>
+        <date_published>2012-08-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of &lt;i&gt;Acrolobus longigubernaculum &lt;/i&gt;sp. n. (Nematoda, Rhabditida, Cephalobidae) from Iran, the second species of the genus</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Acrolobus&lt;/i&gt; was recovered during a survey of soil nematodes. &lt;i&gt;Acrolobus&lt;/i&gt; &lt;i&gt;longigubernaculum&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; collected from the rhizosphere of weeds in northeastern Iran, is described and illustrated. It is characterized by abody length of 0.72–0.98 mm in females and 0.73–0.84 mm in males, annulated cuticle, lateral fields with three longitu-dinal incisures, lip region slightly offset from the neck and 8–11μm wide, lips leaf-like, stoma 12–16 µm long, pharyngealcorpus 2.7–3.2 times isthmus length, vulva located slightly posterior to middle of body (V = 61–65), spermatheca 26–46µm long, postuterine sac 27–49 µm long or 0.9–1.3 times the corresponding body diameter, female tail conical with a fine,short mucro (47–58 µm, &lt;i&gt;c&lt;/i&gt; = 13.9–18.5, &lt;i&gt;c’&lt;/i&gt; = 2.4–3.2), male tail conical bearing a fine mucro (47–50 µm, &lt;i&gt;c&lt;/i&gt; = 14.8–17.5;&lt;i&gt;c’&lt;/i&gt; = 2–2.3), spicules 26–30μm long and ventrally curved, and gubernaculum 12–16 µm long (50% of spicule length). The new taxon is the second species of the genus &lt;i&gt;Acrolobus&lt;/i&gt; and is compared to the type species, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;emarginatus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acrolobus&lt;/i&gt;; new taxon; morphology; taxonomy; Iran</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acrolobus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Negin</firstname>
+          <lastname>Amirzadi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ebrahim</firstname>
+          <lastname>Shokoohi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ali</firstname>
+          <lastname>Eskandari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joaquín</firstname>
+          <lastname>Abolafia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-08-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

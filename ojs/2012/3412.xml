@@ -1,3 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3412.1</id>
+    <title locale="en_US">7 Aug. 2012</title>
+    <volume>3412</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Plant bugs of the tribe Bothriomirini (Hemiptera: Heteroptera: Miridae: Cylapinae) from the Oriental Region: descriptions of eight new species and keys to Oriental genera and species of &lt;i&gt;Bothriomiris &lt;/i&gt;Kirkaldy, &lt;i&gt;Dashymenia &lt;/i&gt;Poppius, and &lt;i&gt;Dashymeniella &lt;/i&gt;Poppius</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrzej</firstname>
+          <lastname>Wolski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jacek</firstname>
+          <lastname>Gorczyca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-41</pages>
+        <date_published>2012-08-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Grylloblatta &lt;/i&gt;Walker (Insecta: Grylloblattodea: Grylloblattidae), from southern Oregon and northern California</title>
+        <abstract locale="en_US">&lt;b&gt;&lt;i&gt;Grylloblatta&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;oregonensis&lt;/i&gt;&lt;/b&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; &lt;b&gt;&lt;i&gt;Grylloblatta&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;siskiyouensis&lt;/i&gt;&lt;/b&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; and &lt;b&gt;&lt;i&gt;Grylloblatta&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;marmoreus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt;are described from the Klamath Mountains region of Oregon and California, U.S.A. Two species were found at OregonCaves National Monument, with &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;oregonensis&lt;/i&gt; inhabiting the dark zone of caves and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;siskiyouensis&lt;/i&gt; inhabiting surfacehabitat and the twilight zone of caves. The third species, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;marmoreus,&lt;/i&gt; is known from Big Foot Cave and Planetary DairyCave, Marble Mountains, California. These three species are recognized on the basis of morphological characters anddistinguished from nearby &lt;i&gt;Grylloblatta&lt;/i&gt; species. Analysis of genetic data from the cytochrome oxidase subunit II genesupports the morphological diagnosis of these three species as unique lineages and confirms their genetic divergence from other ice-crawler populations found in Oregon and California.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oregon Caves National Monument; Marble Mountains; endemic species; ice-crawler; grylloblattid</subject>
+          <subject_class locale="en_US">Oregon Caves National Monument</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sean</firstname>
+          <middlename>D.</middlename>
+          <lastname>Schoville</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-52</pages>
+        <date_published>2012-08-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A technique to dry mount Hymenoptera (Hexapoda) from alcohol in a few seconds, and its application to other insect orders</title>
+        <abstract locale="en_US">A new technique is presented that allows mounting insects directly from alcohol storage, while still wet or soaked, withoutany chemical treatment. It works particularly well for many groups of Hymenoptera, but not with delicate or softspecimens. Preliminary results are also commented for some Coleoptera, Diptera, Hemiptera, Mantodea, Neuroptera, andOrthoptera. External drying is performed with the aid of a small electric air pump. A 600 L/min air current quickly andefficiently spreads the specimen’s wings and pilosity, while helping to position the antennae, legs, and abdomen.Specimens need to be pinned, even if small and pinned with minutens; this generally means the new technique will workfor any insect greater than 3 mm long. This is precisely the size range for which an efficient mounting aid for alcohol preserved specimens was lacking.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biodiversity; Collections; Diptera; Malaise; mounting; pinning; YPT</subject>
+          <subject_class locale="en_US">Biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandre</firstname>
+          <middlename>Pires</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-08-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The larva of the genus &lt;i&gt;Paracordulia &lt;/i&gt;Martin, 1907 (Odonata: Corduliidae s.s.) and a generic key to the larvae of Corduliidae s.l. occuring in South America</title>
+        <abstract locale="en_US">The ultimate stadium of a larva of the genus &lt;i&gt;Paracordulia&lt;/i&gt; Martin, 1907 is described and illustrated for the first time. Itrepresents the last New World corduliid larva unknown at the generic level. The reared female differs slightly from otherknown female specimens, and thus no species name can be assigned to it. A key to the South American genera of corduliid larvae is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anisoptera; Amazonia; Brazil; Corduliidae; &lt;i&gt;Paracordulia&lt;/i&gt;; &lt;i&gt;Aeschnosoma&lt;/i&gt;; &lt;i&gt;Schizocordulia&lt;/i&gt;; larva; taxonomy</subject>
+          <subject_class locale="en_US">Anisoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Günther</firstname>
+          <lastname>Fleck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulisses</firstname>
+          <middlename>G.</middlename>
+          <lastname>Neiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-08-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

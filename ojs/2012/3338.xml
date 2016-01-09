@@ -1,3 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3338.1</id>
+    <title locale="en_US">7 Jun. 2012</title>
+    <volume>3338</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Three new species of land flatworms and comments on a complex of species in the genus &lt;i&gt;Geoplana &lt;/i&gt;Stimpson (Platyhelminthes: Continenticola)</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Geoplana&lt;/i&gt; Stimpson, 1857 from south Brazil, &lt;i&gt;Geoplana&lt;/i&gt; &lt;i&gt;ficki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;carbayoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;baptistae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; with dark, nearly homogeneous dorsum, reddish or orange venter, and eyes spreading over the dorsum,are described. The three can be included in the Graff group of “large, broad and flat species”, designated the &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;applanata-&lt;/i&gt;group by C. G. Froehlich (1967). The first described species presenting this pattern was &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;rufiventris&lt;/i&gt; Schultze &amp; Müller,1857. Later, several other authors described various species exhibiting the “dark dorsal surface and orange or reddish ven-tral side” pattern. These species constitute an assemblage which will be here designated the &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;rufiventris-complex.&lt;/i&gt; Apartfrom presenting a similar pattern, a further considerable difficulty in differentiating these taxa from the other large, broadand flat species of the genus &lt;i&gt;Geoplana&lt;/i&gt; which were included in Froehlich’s original &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;applanata-group,&lt;/i&gt; resides in theirpossessing a very homogeneous copulatory apparatus. Characteristics of their external and internal morphology are here discussed to simplify the differentiation of sub-groups and comparison of species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Geoplaninae; taxonomy; land planarians; triclads</subject>
+          <subject_class locale="en_US">Geoplaninae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Silvana</firstname>
+          <middlename>Vargas Do</middlename>
+          <lastname>Amaral</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Simone</firstname>
+          <middlename>Machado</middlename>
+          <lastname>De Oliveira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ana</firstname>
+          <middlename>Maria</middlename>
+          <lastname>Leal-Zanchet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2012-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology of the larval stages of &lt;i&gt;Macropodia czernjawskii &lt;/i&gt;(Brandt, 1880) (Decapoda, Brachyura, Inachidae) reared in the laboratory</title>
+        <abstract locale="en_US">The complete larval development of &lt;i&gt;Macropodia&lt;/i&gt; &lt;i&gt;czernjawskii&lt;/i&gt; (Brandt, 1880), is described and illustrated for the firsttime. Larvae were reared in the laboratory and development consisted of two zoeal stages and a megalopa. The main dif-ference in the zoeal stages is the absence of lateral spines on the telson furcae, which allow it to be distinguished from the remaining species of &lt;i&gt;Macropodia&lt;/i&gt; as well as from the zoeae of most majoids.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyura; Majoidea; Inachidae; zoea; megalopa; &lt;i&gt;Macropodia&lt;/i&gt; &lt;i&gt;czernjawskii&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Brachyura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <lastname>Marco-Herrero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <lastname>Rodríguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>A.</middlename>
+          <lastname>Cuesta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-48</pages>
+        <date_published>2012-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of five Amazonian species of &lt;i&gt;Ctenus &lt;/i&gt;Walckenaer (Araneae, Ctenidae, Cteninae)</title>
+        <abstract locale="en_US">Five species of &lt;i&gt;Ctenus&lt;/i&gt; from the Amazon basin are redescribed: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;delesserti&lt;/i&gt; (Caporiacco, 1947), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;falconensis&lt;/i&gt; Schenkel,1953, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;nigritus&lt;/i&gt; F.O. Pickard-Cambridge, 1897, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;serratipes&lt;/i&gt; F.O. Pickard-Cambridge, 1897 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sigma&lt;/i&gt; (Schenkel, 1953).Three new synonymies are proposed: &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;fulvipes&lt;/i&gt; Caporiacco, 1947, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;itatiayaeformis&lt;/i&gt; Caporiacco, 1955 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;scenicus&lt;/i&gt;Caporiacco, 1947 with &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;serratipes.&lt;/i&gt; The female of &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;nigritus&lt;/i&gt; is described for the first time. The distributional ranges of &lt;i&gt;Ctenus&lt;/i&gt; &lt;i&gt;nigritus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;serratipes&lt;/i&gt; are extended. We also present distributional maps of the five redescribed species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; spider; South America; Neotropical region</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniele</firstname>
+          <lastname>Polotow</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2012-06-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Glyceridae (Annelida: Polychaeta) from Guam, Mariana Islands with description of a new species of &lt;i&gt;Glycera &lt;/i&gt;Savigny in Lamarck, 1818</title>
+        <abstract locale="en_US">&lt;i&gt;Glycera&lt;/i&gt; &lt;i&gt;juliae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from shallow water sediments within Apra Harbor, Guam, Mariana Islands. This spe-cies is characterized by the presence of ailerons with rounded triangular base; proboscideal papillae of type 1 mainly dig-itiform with straight, median, longitudinal ridge and type 2 shorter and broader, oval to globular, without ridges; twoslender triangular to digitiform prechaetal lobes, notopodial lobe slightly shorter than neuropodial lobe, two shortpostchaetal lobes, rounded anteriorly with posterior notopodial lobe becoming sub-triangular and longer than roundedneuropodial lobe; branchiae present, retractile, simple digitiform attached medially on anterior side of parapodia and adark brown pigmentation forming transverse bands on prostomium and body segments. It is most similar to &lt;i&gt;Glycera&lt;/i&gt; &lt;i&gt;nico-&lt;/i&gt;&lt;i&gt;barica&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;macintoshi&lt;/i&gt; by the shape of parapodial structures but also shares similarities with &lt;i&gt;Glycera&lt;/i&gt; &lt;i&gt;sphyrabrancha,&lt;/i&gt;&lt;i&gt;G.&lt;/i&gt; &lt;i&gt;branchiopoda,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;guatemalensis,&lt;/i&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;semibranchiopoda&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;southeastatlantica&lt;/i&gt; by the shape and types of proboscidialpapillae, differing on the shape of the ailerons, parapodial lobes and presence of branchiae. The occurrence of &lt;i&gt;Glycera&lt;/i&gt; &lt;i&gt;tesselata&lt;/i&gt; is confirmed for Guam and specimens are described and illustrated with SEM photographs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Glyceridae; new species; shallow waters; harbor habitats; Pacific Ocean</subject>
+          <subject_class locale="en_US">Glyceridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wagner</firstname>
+          <middlename>F.</middlename>
+          <lastname>Magalhães</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandra</firstname>
+          <middlename>E.</middlename>
+          <lastname>Rizzo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-06-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

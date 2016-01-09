@@ -1,3 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3426.1</id>
+    <title locale="en_US">16 Aug. 2012</title>
+    <volume>3426</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the Australian species of the ant genus &lt;i&gt;Anochetus &lt;/i&gt;(Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Steven</firstname>
+          <middlename>O.</middlename>
+          <lastname>Shattuck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ewa</firstname>
+          <lastname>Slipinska</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the &lt;i&gt;Aenictus minutulus &lt;/i&gt;species group (Hymenoptera: Formicidae: Aenictinae) from Southeast Asia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weeyawat</firstname>
+          <lastname>Jaitrong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yoshiaki</firstname>
+          <lastname>Hashimoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-44</pages>
+        <date_published>2012-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Annotated catalogue of the flat bug family Aradidae Brullé, 1836 of Madagascar and adjacent islands (Hemiptera: Heteroptera)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ernst</firstname>
+          <lastname>Heiss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-63</pages>
+        <date_published>2012-08-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new &lt;i&gt;Perigrapha &lt;/i&gt;species from China (Lepidoptera, Noctuidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aidas</firstname>
+          <lastname>Saldaitis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Povilas</firstname>
+          <lastname>Ivinskis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Borth</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-08-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

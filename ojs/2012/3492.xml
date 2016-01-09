@@ -1,3 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3492.1</id>
+    <title locale="en_US">20 Sep. 2012</title>
+    <volume>3492</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Agononida incerta &lt;/i&gt;species complex unravelled (Crustacea: Decapoda: Anomura: Munididae) </title>
+        <abstract locale="en_US">Squat lobsters from Australia, east Africa, Taiwan, Philippines and the Norfolk Ridge (southwestern Pacific) previouslyidentified as &lt;i&gt;Agononida&lt;/i&gt; &lt;i&gt;incerta&lt;/i&gt; (Henderson, 1888) are redescribed as four new species in addition to the original: &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;africerta,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;auscerta,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;indocerta&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;norfocerta.&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rubrizonata&lt;/i&gt; Macpherson &amp; Baba, 2009, also earlier confusedwith this species, is redescribed. All six species are morphologically distinguishable only on the basis of the shape of theanterolateral lobe of the telson and the shape and setation of the dactyli of pereopods 2–4. The morphological delineationof these species and their taxonomic status are robustly supported by phylogenetic analysis of the partial mitochondrialCOI marker. Taken together, subtle morphological differences, geographical distribution patterns and genetic discontinuities have important implications for understanding diversity, systematics and evolution of squat lobsters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Anomura; &lt;i&gt;Agononida&lt;/i&gt;; new species; Indo-West Pacific; mitochondrial genes</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gary</firstname>
+          <middlename>C. B.</middlename>
+          <lastname>Poore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikos</firstname>
+          <lastname>Andreakis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Lepidiolamprologus kamambae&lt;/i&gt;, a new species of cichlid fish (Teleostei: Cichlidae) from Lake Tanganyika </title>
+        <abstract locale="en_US">&lt;i&gt;Lepidiolamprologus&lt;/i&gt; &lt;i&gt;kamambae&lt;/i&gt; is described from the Kamamba Island off the southeastern coast of Lake Tanganyika. Itis similar to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;elongatus,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kendalli,&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mimicus&lt;/i&gt; in the presence of three horizontal rows of dark blotches along thesides. It differs from those species in the presence of a distinct suborbital stripe across the cheek. It is further distinguishedfrom &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;elongatus&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mimicus&lt;/i&gt; by the presence of a marbled pattern on the top of the head, and narrower interorbitalwidth (4.9–5.9% of SL vs. 6.0–7.0%). It is distinguished from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kendalli&lt;/i&gt; by a shorter last dorsal-fin spine (11.2–13.3%of SL vs. 13.3–15.1 %) and presence of distinct dark blotches on the side instead of contiguous blotches forming stripesseparated by light interspaces. &lt;i&gt;Lepidiolamprologus&lt;/i&gt; &lt;i&gt;profundicola&lt;/i&gt; is unique in the genus having the cheeks covered withsmall scales. Scales are absent from the cheek in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kamambae,&lt;/i&gt; and in the other species scales are either absent or veryfew and deeply embedded. &lt;i&gt;Lepidiolamprologus&lt;/i&gt; &lt;i&gt;nkambae&lt;/i&gt; was diagnosed from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kendalli&lt;/i&gt; by the absence of scales on thecheek. The presence of scales in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kendalli&lt;/i&gt; is variable, however, and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;nkambae&lt;/i&gt; is tentatively synonymized with &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kendalli&lt;/i&gt; for want of other diagnostic characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">color pattern; endemism; meristics; morphometry; taxonomy</subject>
+          <subject_class locale="en_US">color pattern</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sven</firstname>
+          <middlename>O.</middlename>
+          <lastname>Kullander</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Magnus</firstname>
+          <lastname>Karlsson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikael</firstname>
+          <lastname>Karlsson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-48</pages>
+        <date_published>2012-09-20</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Calliaxina chalmasii &lt;/i&gt;(Brocchi, 1883) comb. nov. (Decapoda: Axiidea: Callianassidae: Eucalliacinae), a ghost shrimp from the Middle Miocene of Europe, with reappraisal of the fossil record of Eucalliacinae </title>
+        <abstract locale="en_US">A detailed study of chelipeds of two Middle Miocene burrowing ghost shrimp taxa, &lt;i&gt;Callianassa&lt;/i&gt; &lt;i&gt;chalmasii&lt;/i&gt; Brocchi, 1883,and &lt;i&gt;Callianassa&lt;/i&gt; &lt;i&gt;rakosiensis&lt;/i&gt; Lőrenthey, 1897, based on isolated propodi revealed that they are conspecific—the latterspecies is based on the minor cheliped of the former species. Material coming from several roughly coeval localities ofAustria (early 'Badenian'), Hungary (late 'Badenian') and Slovakia (early 'Sarmatian') provided sufficient data forredescription of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;chalmasii&lt;/i&gt; and its reassignment to the genus &lt;i&gt;Calliaxina&lt;/i&gt; (subfamily Eucalliacinae). As such it is the firstrecognized representative of the genus in the fossil record. It is argued that for the Eucalliacinae, the following featuresare diagnostic: a square P1 manus usually converging distally, the presence of a ridge on the lateral surface at the base offixed finger, and a relatively short fixed finger, often with a triangular tooth. For reliable generic assignment within the Eucalliacinae both chelipeds (propodi), major and minor, should be present.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ghost shrimp; Callianassidae; Eucalliacinae; &lt;i&gt;Calliaxina&lt;/i&gt; &lt;i&gt;chalmasii&lt;/i&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Middle Miocene</subject>
+          <subject_class locale="en_US">Ghost shrimp</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matúš</firstname>
+          <lastname>Hyžný</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-64</pages>
+        <date_published>2012-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of geckos from Honduras and resurrection of &lt;i&gt;Sphaerodactylus continentalis &lt;/i&gt;Werner from the synonymy of &lt;i&gt;Sphaerodactylus millepunctatus &lt;/i&gt;Hallowell (Reptilia, Squamata, Gekkonoidea, Sphaerodactylidae) </title>
+        <abstract locale="en_US">We performed a morphological and molecular study on various Honduran populations of the &lt;i&gt;Sphaerodactylus&lt;/i&gt;&lt;i&gt;millepunctatus&lt;/i&gt; complex. As a result, we resurrect &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;continentalis&lt;/i&gt; from the synonymy of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;millepunctatus&lt;/i&gt; and describetwo new species from the Islas de la Bahía. Our results also suggest the possibility that other cryptic species might occur in our concept of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;continentalis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sphaerodactylus&lt;/i&gt; &lt;i&gt;millepunctatus&lt;/i&gt; complex; Honduras; &lt;i&gt;Sphaerodactylus&lt;/i&gt; &lt;i&gt;leonardovaldesi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Sphaerodactylus&lt;/i&gt; &lt;i&gt;guanajae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; morphology; mtDNA; 12S; cytochrome b</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sphaerodactylus&lt;/i&gt; &lt;i&gt;millepunctatus&lt;/i&gt; complex</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>James</firstname>
+          <middlename>R.</middlename>
+          <lastname>Mccranie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>Blair</middlename>
+          <lastname>Hedges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-76</pages>
+        <date_published>2012-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of deeper dwelling West Pacific cardinalfish (Percomorpha: Apogonidae) with a redescription of &lt;i&gt;Ostorhinchus atrogaster &lt;/i&gt;</title>
+        <abstract locale="en_US">A new species of cardinalfish is described from Palau. A deep-water species from 72 meters on a steep drop off is unlikelyto be collected often. This slender species may belong with a group of deeper dwelling cardinalfishes. Fresh post-mortemspecimens differ in color pattern from other translucent &lt;i&gt;Ostorhinchus&lt;/i&gt; in having a faint yellow midline stripe ending in adiffuse scattering of melanophores forming a basicaudal spot, a yellowish nape stripe above lateral-line scales reaching tonear mid-base of the second dorsal fin, melanophores forming a short band along the side of the abdomen from near theanus to below the pectoral-fin base, lower lip and snout dusky. &lt;i&gt;Ostorhinchus&lt;/i&gt; &lt;i&gt;atrogaster&lt;/i&gt; is redescribed from the type ma-terial and differs from the new species in dentition on the premaxilla and dentary and having a silvery line above the lateral line to the base of the caudal fin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ostorhinchus&lt;/i&gt; &lt;i&gt;aphanes&lt;/i&gt;; &lt;i&gt;Ostorhinchus&lt;/i&gt; &lt;i&gt;atrogaster&lt;/i&gt;; cardinalfish</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ostorhinchus&lt;/i&gt; &lt;i&gt;aphanes&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Thomas</firstname>
+          <middlename>H.</middlename>
+          <lastname>Fraser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-84</pages>
+        <date_published>2012-09-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Cancer amoenus &lt;/i&gt;Herbst, 1799, a junior subjective synonym of &lt;i&gt;Atelecyclus undecimdentatus &lt;/i&gt;(Herbst, 1783) (Crustacea: Decapoda: Brachyura: Atelecyclidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>85-88</pages>
+        <date_published>2012-09-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3342.1</id>
+    <title locale="en_US">12 Jun. 2012</title>
+    <volume>3342</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the Elmidae of Ecuador with the description of ten new species (Coleoptera: Elmidae)</title>
+        <abstract locale="en_US">Material collected during a biodiversity expedition in some protected areas of Ecuador, located in the provinces of Coto-paxi, Pichincha and Napo, resulted in ten new species and three first records. The new taxa are: &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;bartolozzii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;cesari&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;fabianorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;francescae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;mazzai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;&lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;terzanii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;whitmanae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Macrelmis&lt;/i&gt; &lt;i&gt;elicioi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pharceonus&lt;/i&gt; &lt;i&gt;cianferonii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;and &lt;i&gt;Stenhelmoides&lt;/i&gt; &lt;i&gt;onorei&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The three records are: &lt;i&gt;Cylloepus&lt;/i&gt; &lt;i&gt;vicinus&lt;/i&gt; Hinton, 1940, &lt;i&gt;Hexacylloepus&lt;/i&gt; &lt;i&gt;nirgua&lt;/i&gt; Hinton,1973, &lt;i&gt;Phanocerus&lt;/i&gt; &lt;i&gt;congener&lt;/i&gt; Grouvelle, 1898. Habitus photographs and illustrations of aedeagi for all the new taxa andother useful characters for some of them, a key to the &lt;i&gt;graniger&lt;/i&gt; species-group of &lt;i&gt;Macrelmis,&lt;/i&gt; and a checklist of the Ecuadorian species with their general and local distributions are hereby included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical region; Ecuador; Elmidae; Elminae; Larainae; new species; new records; checklist</subject>
+          <subject_class locale="en_US">Neotropical region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cinzia</firstname>
+          <lastname>Monte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandro</firstname>
+          <lastname>Mascagni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-38</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Chamaemyiidae (Diptera: Lauxanioidea) from South America feeding on &lt;i&gt;Ceroplastes &lt;/i&gt;wax scales (Hemiptera: Coccidae), and status of the genus &lt;i&gt;Ortalidina &lt;/i&gt;as a chamaemyiid</title>
+        <abstract locale="en_US">A new genus and species of Chamaemyiidae (Diptera: Lauxanioidea) is described and illustrated, namely&lt;i&gt;Chamaeleucopis,&lt;/i&gt; gen. nov. (type species &lt;i&gt;Chamaeleucopis&lt;/i&gt; &lt;i&gt;trevas,&lt;/i&gt; sp. nov.), a predator of &lt;i&gt;Ceroplastes&lt;/i&gt; wax scales on guavafrom Brazil. In addition, the previously unrecognized genus &lt;i&gt;Ortalidina&lt;/i&gt; Blanchard 1852 (type species &lt;i&gt;Ortalidina&lt;/i&gt; &lt;i&gt;cellularis&lt;/i&gt;Blanchard 1852), mainly from the Neotropics, is recognized as a chamaemyiid, and is the senior synonym of &lt;i&gt;Toropamecia&lt;/i&gt;Cogan 1978, syn. nov. (type species &lt;i&gt;Acrometopia&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; Coquillett 1902). The species &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;grossa&lt;/i&gt; Cogan1978, syn. nov., is synonymized under &lt;i&gt;Ortalidina&lt;/i&gt; &lt;i&gt;cellularis.&lt;/i&gt; All species therein become new combinations within&lt;i&gt;Ortalidina,&lt;/i&gt; including (in their original combinations) &lt;i&gt;Acrometopa&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; Malloch 1933, comb. nov., &lt;i&gt;Acrometopia&lt;/i&gt;&lt;i&gt;maculata&lt;/i&gt; Coquillett 1902, comb. nov., &lt;i&gt;Acrometopia&lt;/i&gt; &lt;i&gt;punctata&lt;/i&gt; Coquillett, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;apaxa&lt;/i&gt; Cogan 1978,comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;caribbea&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;hendeli&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt;&lt;i&gt;hyalipennis&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;jujuyensis&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;longipennis&lt;/i&gt; Cogan1978, &lt;i&gt;comb.&lt;/i&gt; &lt;i&gt;nov.,&lt;/i&gt; &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;macalpinei&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;multipunctata&lt;/i&gt; Cogan 1978, comb. nov.,&lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;nigripalpis&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;reducta&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;smithi&lt;/i&gt;Cogan 1978, comb. nov., &lt;i&gt;Toropamecia&lt;/i&gt; &lt;i&gt;veenota&lt;/i&gt; Cogan 1978, comb. nov., &lt;i&gt;Trigonometopus&lt;/i&gt; &lt;i&gt;reticulatus&lt;/i&gt; Johnson 1913, comb. nov. A habitus photo of the primary type for each species of &lt;i&gt;Ortalidina&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chamaemyiidae; &lt;i&gt;Toropamecia&lt;/i&gt;; new genus; new species; new synonyms; new combinations</subject>
+          <subject_class locale="en_US">Chamaemyiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stephen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Gaimari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-50</pages>
+        <date_published>2012-06-12</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of Parhydraenini from South Africa (Coleoptera: Hydraenidae)</title>
+        <abstract locale="en_US">Two new species of the African and Madagascan hydraenid tribe Parhydraenini are described from South Africa. &lt;i&gt;Discozan-&lt;/i&gt;&lt;i&gt;taena&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; n. sp. and &lt;i&gt;Pneuminion&lt;/i&gt; &lt;i&gt;fontinalis&lt;/i&gt; n. sp. are described and illustrated, including high resolution digital imagesof holotypes (online version in colour). Features distinguishing the new species from known congeners are presented, and notes provided on the ecology of these rarely-collected genera, both of which are associated with damp areas at the edges of water.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hydraenidae; Parhydraenini; &lt;i&gt;Discozantaena&lt;/i&gt; Perkins &amp; Balfour-Browne; &lt;i&gt;Pneuminion&lt;/i&gt; Perkins; new species; South Africa; digital images; holotype images</subject>
+          <subject_class locale="en_US">Hydraenidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>T</middlename>
+          <lastname>Bilton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Philip</firstname>
+          <middlename>D</middlename>
+          <lastname>Perkins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-59</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of satyrine butterfly from Patagonia in more than a century and revisional notes on the genus &lt;i&gt;Faunula &lt;/i&gt;C. Felder &amp; R. Felder (Lepidoptera: Nymphalidae: Satyrinae)</title>
+        <abstract locale="en_US">A new species of Satyrinae butterfly, &lt;i&gt;Faunula&lt;/i&gt; &lt;i&gt;dubii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; is described from southern Patagonia in Chile and Argentina.Its affinities with other species of the genus &lt;i&gt;Faunula&lt;/i&gt; C. &amp; R. Felder are evaluated, and its distribution and habitat arediscussed. A new combination &lt;i&gt;Faunula&lt;/i&gt; &lt;i&gt;euripides&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and a new synonymy are proposed, &lt;i&gt;Punargenteus&lt;/i&gt; &lt;i&gt;penai&lt;/i&gt;Hayward &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;syn.&lt;/b&gt; of &lt;i&gt;Satyrus&lt;/i&gt; &lt;i&gt;gustavi&lt;/i&gt; (Staudinger). Generic status of &lt;i&gt;Chillanella&lt;/i&gt; &lt;i&gt;stelligera&lt;/i&gt; (Butler) is reconsidered. All the species of Satyrinae occurring in southern Patagonia are listed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Argentina; &lt;i&gt;Faunula&lt;/i&gt; &lt;i&gt;dubii&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Faunula&lt;/i&gt; &lt;i&gt;euripides&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; Patagonian steppe; Pronophilina; taxonomy</subject>
+          <subject_class locale="en_US">Argentina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomasz</firstname>
+          <middlename>W.</middlename>
+          <lastname>Pyrcz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-06-12</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

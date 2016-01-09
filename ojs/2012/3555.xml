@@ -1,3 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3555.1</id>
+    <title locale="en_US">20 Nov. 2012</title>
+    <volume>3555</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the African genus &lt;i&gt;Neomacrocoris &lt;/i&gt;(Hemiptera: Heteroptera: Nepomorpha: Naucoridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>W.</middlename>
+          <lastname>Sites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aaron</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Mbogho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-39</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new subgenus &lt;i&gt;Neophylidorea &lt;/i&gt;(Diptera: Tipulidae) and a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jessica</firstname>
+          <middlename>D.</middlename>
+          <lastname>Petersen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthew</firstname>
+          <middlename>J.</middlename>
+          <lastname>Petersen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gregory</firstname>
+          <middlename>W.</middlename>
+          <lastname>Courtney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-54</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of '&lt;i&gt;Euconnus &lt;/i&gt;complex'. Part I. Morphology of &lt;i&gt;Euconnus &lt;/i&gt;s. str. and revision of &lt;i&gt;Euconnomorphus &lt;/i&gt;Franz and &lt;i&gt;Venezolanoconnus &lt;/i&gt;Franz (Coleoptera: Staphylinidae: Scydmaeninae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paweł</firstname>
+          <lastname>Jałoszyński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-82</pages>
+        <date_published>2012-11-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of flightless, microphthalmic Corythoderini (Coleoptera: Scarabaeidae: Aphodiinae) from Cambodia, associated with &lt;i&gt;Macrotermes &lt;/i&gt;termites </title>
+        <abstract locale="en_US">&lt;i&gt;Eocorythoderus&lt;/i&gt; &lt;i&gt;incredibilis,&lt;/i&gt; a &lt;b&gt;new&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; and &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; of Corythoderini is described. This new species was found infungus gardens of &lt;i&gt;Macrotermes&lt;/i&gt; &lt;i&gt;gilvus&lt;/i&gt; (Hagen, 1858) in Angkor Wat, Cambodia. The new taxon is a flightless, mi-crophthalmic species and the first corythoderine associated with &lt;i&gt;Macrotermes&lt;/i&gt; Holmgren, 1910. The beetles were ob-served being carried by worker termites. &lt;i&gt;Eocorythoderus&lt;/i&gt; is probably closely related to the genera &lt;i&gt;Corythoderus&lt;/i&gt; Klug,1845 and &lt;i&gt;Paracorythoderus&lt;/i&gt; Wasmann, 1918 (also Corythoderini). Some character states shared with the distantly-related termitophilous scarab genus &lt;i&gt;Termitotrox&lt;/i&gt; Reichensperger, 1915 (Termitotrogini) are noted, and proposed as convergent.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Termitophile; fungus garden; &lt;i&gt;Odontotermes&lt;/i&gt;; Oriental region; convergence</subject>
+          <subject_class locale="en_US">Termitophile</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Munetoshi</firstname>
+          <lastname>Maruyama</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-11-20</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

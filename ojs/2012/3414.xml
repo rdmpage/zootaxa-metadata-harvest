@@ -1,3 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3414.1</id>
+    <title locale="en_US">8 Aug. 2012</title>
+    <volume>3414</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review and key to Russian Far East &lt;i&gt;Lathrolestes &lt;/i&gt;(Hymenoptera, Ichneumonidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <lastname>Reshchikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Key to the non-fossil species of the genus &lt;i&gt;Taeniothrips &lt;/i&gt;(Thysanoptera, Thripidae)</title>
+        <abstract locale="en_US">A table is provided of the 24 non-fossil species currently listed in &lt;i&gt;Taeniothrips.&lt;/i&gt; One species, &lt;i&gt;pediculae,&lt;/i&gt; is clearly not a</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Taeniothrips&lt;/i&gt;; species identification; Southeast Asia; new species</subject>
+          <subject_class locale="en_US">&lt;i&gt;Taeniothrips&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>L.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Azidah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Y.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-42</pages>
+        <date_published>2012-08-08</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Goniozus &lt;/i&gt;Förster, 1856 (Hymenoptera: Bethylidae) of Korea, with descriptions of two new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jongok</firstname>
+          <lastname>Lim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Seunghwan</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-57</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Remarks on the genus &lt;i&gt;Homogryllacris &lt;/i&gt;Liu, 2007 (Orthoptera: Gryllacrididae: Gryllacridinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li-Ying</firstname>
+          <lastname>Guo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xun</firstname>
+          <lastname>Bian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2012-08-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

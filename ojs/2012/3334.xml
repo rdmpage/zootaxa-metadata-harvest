@@ -1,3 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3334.1</id>
+    <title locale="en_US">5 Jun. 2012</title>
+    <volume>3334</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New and rare Aloninae (Cladocera: Anomopoda: Chydoridae) from Indochina</title>
+        <abstract locale="en_US">Several poorly known cladocerans of the subfamily Aloninae (Cladocera: Anomopoda: Chydoridae) from Indochina re-gion are reinvestigated. Revision of the genus &lt;i&gt;Anthalona&lt;/i&gt; Van Damme, Sinev &amp; Dumont 2011 from Thailand, Cambodiaand Vietnam reveals that the region is inhabited by Paleotropic &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;harti&lt;/i&gt; &lt;i&gt;harti&lt;/i&gt; Van Damme, Sinev &amp; Dumont, 2011 anda new species, &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;sanoamuangae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; which appears to be an Indochinese endemic. It has a number of featuresprimitive for the genus, including non-specialised IDL setae and non-differentiated scraping setae. So far, these characterswere recorded only in the Congolese &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;simplex&lt;/i&gt; Van Damme, Sinev &amp; Dumont, 2011, but &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sanoamuangae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; dif-fers from it in the trilobed cosmaria of the lateral head pores. An updated key for the &lt;i&gt;Anthalona&lt;/i&gt; of Eurasia and Africa isprovided. The endemic &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;freyi&lt;/i&gt; Idris &amp; Fernando, 1981 belongs to the recently described genus &lt;i&gt;Matralona&lt;/i&gt; VanDamme &amp; Dumont, 2010, sharing numerous common features with the type species, &lt;i&gt;Matralona&lt;/i&gt; &lt;i&gt;simoneae&lt;/i&gt; (Dumont,1981). &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;macronyx&lt;/i&gt; Daday, 1898, despite numerous unique features, should be moved from &lt;i&gt;Alona&lt;/i&gt; to &lt;i&gt;Celsinotum&lt;/i&gt; Frey,1999, and the diagnosis of &lt;i&gt;Celsinotum&lt;/i&gt; should be emended. Finally, a new taxon with several unique features, &lt;i&gt;Coronatella&lt;/i&gt;sp., was found in Thailand. Our investigation demonstrates once more the necessity of successive revisions of cladoceran taxa, even in relatively well-studied regions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Cladocera; Indochina; Oriental zone; Aloninae; &lt;i&gt;Anthalona&lt;/i&gt; &lt;i&gt;sanoamuangae&lt;/i&gt;; new species; morphology; systematics</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artem</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Sinev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kotov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-06-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Sasala nolani &lt;/i&gt;gen. n., sp. n. (Digenea: Aporocotylidae) from the body-cavity of the guineafowl puffer fish &lt;i&gt;Arothron meleagris &lt;/i&gt;(Lacepède) (Tetraodontiformes: Tetraodontidae) from off Moorea, French Polynesia</title>
+        <abstract locale="en_US">The aporocotylid new genus and species &lt;i&gt;Sasala&lt;/i&gt; &lt;i&gt;nolani&lt;/i&gt; is described from the body-cavity of the guineafowl puffer fish&lt;i&gt;Arothron&lt;/i&gt; &lt;i&gt;meleagris&lt;/i&gt; from off Moorea, French Polynesia. &lt;i&gt;Sasala&lt;/i&gt; is distinguished by the combination of having an auxiliaryseminal vesicle, a tiny oral sucker, the single interand post-caecal testis, the post-ovarian uterus and the relatively shortposterior caeca. &lt;i&gt;Sasala&lt;/i&gt; &lt;i&gt;nolani&lt;/i&gt; ssrDNA and lsrDNA sequences have been used to infer its phylogenetic relationships withsome other aporocotylids, showing a particularly close relationship with ‘Paradeontocylix’ &lt;i&gt;sinensis.&lt;/i&gt; A short comment onthe accumulation of eggs in the host gut wall is included, suggesting that the eggs remain in the gut wall after the adult worm infection is passed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trematoda; Schistosomatoidea; molecular phylogeny; pathology</subject>
+          <subject_class locale="en_US">Trematoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodney</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bray</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cribb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Timothy J.</middlename>
+          <lastname>Littlewood</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-41</pages>
+        <date_published>2012-06-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphology, morphogenesis, and molecular phylogeny of a new brackish water ciliate, &lt;i&gt;Pseudourostyla cristatoides &lt;/i&gt;n. sp., from Songjiho lagoon on the coast of East Sea, South Korea</title>
+        <abstract locale="en_US">A new brackish water urostylid ciliate, &lt;i&gt;Pseudourostyla&lt;/i&gt; &lt;i&gt;cristatoides&lt;/i&gt; n. sp. was collected from Songjiho lagoon on the coast ofEast Sea, South Korea, and investigated based on morphology, morphogenesis, and 18S rRNA gene sequences.&lt;i&gt;Pseudourostyla&lt;/i&gt; &lt;i&gt;cristatoides&lt;/i&gt; is characterized by the following features: slender to elliptical body shape; colourless to dark greyin colour; size &lt;i&gt;in&lt;/i&gt; &lt;i&gt;vivo&lt;/i&gt; about 220–265 × 85–125μm; flexible and slightly contractile body with narrowly spaced extrusomes(trichocyst type) throughout the whole cell; 2 contractile vacuoles on left side of cell at about 25% and 75% of body length;84–115 adoral membranelles, 20–30 frontal cirri, 1 buccal cirrus, 2 frontoterminal cirri, 17–25 midventral pairs, 2pretransverse, 6–12 transverse cirri, 5–7 left and 4–5 right marginal rows, and 10–13 dorsal kineties; 30–106 macronuclearnodules and 3–5 micronuclei; brackish habitat (salinity 3–5‰). This new species is very similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cristata,&lt;/i&gt; but distinguishedprimarily by contractile vacuoles (2 vs. 1 in number; positioned 25%, 75% of body length vs. ahead of mid-body), dorsalkineties (10–13 vs. 8), hyaline layer underneath pellicle (inconspicuous vs. conspicuous), habitat (brackish vs. freshwater), andparticipation of posterior cirri of rear corona in fronto-ventral-transverse cirral anlagen (yes vs. no). Additionally, intra-/inter-specific pairwise genetic distances of the 18S rRNA gene sequences supported that the Songjiho population is a novel species(intra-specific distances of 0.07–0.12% among three &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cristata&lt;/i&gt; populations vs. inter-specific distances of 0.93–1.00% between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cristatoides&lt;/i&gt; and three &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cristata&lt;/i&gt; populations).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudourostyla&lt;/i&gt; &lt;i&gt;cristatoides&lt;/i&gt;; brackish water ciliate; infraciliature; morphogenesis; 18S rRNA; phylogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudourostyla&lt;/i&gt; &lt;i&gt;cristatoides&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jae-Ho</firstname>
+          <lastname>Jung</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kyung-Min</firstname>
+          <lastname>Park</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gi-Sik</firstname>
+          <lastname>Min</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>42-54</pages>
+        <date_published>2012-06-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the Neotropical spider genera &lt;i&gt;Enna &lt;/i&gt;O. Pickard-Cambridge, 1897 and &lt;i&gt;Syntrechalea &lt;/i&gt;F. O. Pickard-Cambridge, 1902 (Araneae, Lycosoidea, Trechaleidae): descriptions, taxonomic notes and new records</title>
+        <abstract locale="en_US">Two new species of the spider genus &lt;i&gt;Enna&lt;/i&gt; O. Pickard-Cambridge, 1897 from Costa Rica and Peru are described and illustrated:&lt;i&gt;Enna&lt;/i&gt; &lt;i&gt;osaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, Costa Rica) and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;moyobamba&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female, Peru). The male of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;chickeringi&lt;/i&gt; Silva, Lise&amp; Carico, 2008, from Costa Rica, is described and illustrated for the first time. &lt;i&gt;Enna&lt;/i&gt; &lt;i&gt;huarinilla&lt;/i&gt; Silva, Lise &amp; Carico, 2008 is ajunior synonym of &lt;i&gt;Enna&lt;/i&gt; &lt;i&gt;caliensis&lt;/i&gt; Silva, Lise &amp; Carico, 2008. &lt;i&gt;Enna&lt;/i&gt; &lt;i&gt;baeza&lt;/i&gt; Silva, Lise &amp; Carico, 2008, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bonaldoi&lt;/i&gt; Silva, Lise&amp; Carico, 2008, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;igarape&lt;/i&gt; Silva, Lise &amp; Carico, 2008 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;trivittata&lt;/i&gt; Silva &amp; Lise, 2009 are newly recorded from Peru. &lt;i&gt;Par-&lt;/i&gt;&lt;i&gt;adossenus&lt;/i&gt; &lt;i&gt;junin&lt;/i&gt; Carico &amp; Silva, 2010 is transferred to &lt;i&gt;Enna&lt;/i&gt; O. Pickard-Cambridge, 1897. &lt;i&gt;Trechalea&lt;/i&gt; &lt;i&gt;boliviensis&lt;/i&gt; Carico, 1993and &lt;i&gt;Trechalea&lt;/i&gt; &lt;i&gt;lomalinda&lt;/i&gt; Carico, 1993 are transferred to &lt;i&gt;Syntrechalea&lt;/i&gt; F.O.P.-Cambridge, 1902. New records of &lt;i&gt;Syntrechalea&lt;/i&gt; &lt;i&gt;lomalinda&lt;/i&gt; &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are reported to Venezuela and Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; morphology; Neotropical region</subject>
+          <subject_class locale="en_US">taxonomy; morphology; Neotropical region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Estevam</firstname>
+          <middlename>L. Cruz</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Viquez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arno</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lise</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2012-06-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the schizomid genus &lt;i&gt;Stenochrus &lt;/i&gt;(Schizomida: Hubbardiidae) from Mexico</title>
+        <abstract locale="en_US">A new Mexican species of &lt;i&gt;Stenochrus&lt;/i&gt; Chamberlin, 1922. &lt;i&gt;Stenochrus&lt;/i&gt; &lt;i&gt;valdezi&lt;/i&gt; new species, is described from Cueva de SanFrancisco in Chiapas based on adult male and female specimens. With the description of this species, there are 17 species from Mexico, being the country with the highest diversity of species of the genus &lt;i&gt;Stenochrus&lt;/i&gt; worldwide.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Stenochrus&lt;/i&gt;; taxonomy; Chiapas; Mexico</subject>
+          <subject_class locale="en_US">&lt;i&gt;Stenochrus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rodrigo</firstname>
+          <lastname>Monjaraz-Ruedas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-06-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

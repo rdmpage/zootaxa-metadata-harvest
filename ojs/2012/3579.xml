@@ -1,3 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3579.1</id>
+    <title locale="en_US">11 Dec. 2012</title>
+    <volume>3579</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Hastatobythites &lt;/i&gt;and &lt;i&gt;Saccogaster &lt;/i&gt;(Teleostei, Bythitidae) with three new species and a new genus </title>
+        <abstract locale="en_US">Material of three similar and probably related genera of the viviparous ophidiiform family, Bythitidae, has been studied.The monotypic &lt;i&gt;Hastatobythites&lt;/i&gt; is only known from the original two specimens; re-examination of the paratype and infor-mation of the holotype clearly demonstrates the validity of the genus. The revision of &lt;i&gt;Saccogaster&lt;/i&gt; (Cohen &amp; Nielsen1972) was based on 15 specimens. Since then 29 additional specimens have been collected representing 11 species, threeof which are here described: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;brayae,&lt;/i&gt; &lt;i&gt;horrida&lt;/i&gt; and &lt;i&gt;nikoliviae.&lt;/i&gt; Three of the 11 &lt;i&gt;Saccogaster&lt;/i&gt; species, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melanomycter,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;normae&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;rhamphidognatha,&lt;/i&gt; differ so much from the remaining eight that a new genus, &lt;i&gt;Parasaccogaster,&lt;/i&gt; is de-scribed. The main diagnostic characters used for the three genera are: A pair of spines on frontal plate behind eyes, spineson snout, length of gill filaments on anterior arch, number and length of developed gill rakers, size of gill opening, thick-ness of skin, head pores, otolith morphology, color marks on head, neuromasts on head and head morphometrics, fin ray counts.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bythitidae; notes on &lt;i&gt;Hastatobythites&lt;/i&gt;; revision of &lt;i&gt;Saccogaster&lt;/i&gt; with three new species; &lt;i&gt;Parasaccogaster&lt;/i&gt; n. gen.</subject>
+          <subject_class locale="en_US">Bythitidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jørgen</firstname>
+          <middlename>G.</middlename>
+          <lastname>Nielsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Werner</firstname>
+          <lastname>Schwarzhans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>M.</middlename>
+          <lastname>Cohen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Nanophareus&lt;/i&gt;, a mysterious harvestman genus from Chile, with descriptions of three new species (Opiliones: Laniatores: Gonyleptidae) </title>
+        <abstract locale="en_US">The Chilean genus &lt;i&gt;Nanophareus&lt;/i&gt; Roewer, 1929 is revised and three new species are described: &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;araucanus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (typelocality: Parque Nacional La Campana, Valparaíso, Chile); &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bipartitus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type locality: Parque Nacional La Cam-pana, Valparaíso, Chile); &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bosqenublado&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (type locality: Parque Nacional Fray Jorge, Coquimbo, Chile). Thetype species, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;palpalis&lt;/i&gt; Roewer, 1929, is redescribed and a lectotype is designated. A cladistic analysis was performedusing these three new species plus &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;palpalis&lt;/i&gt; and 14 more laniatorid species, and a data matrix of 72 characters: Sevenfrom the ocularium, 22 from the dorsal scutum, one from the venter, one from the chelicera, eight from the pedipalp, 24from male legs, and nine from male genitalia. Two equally most parsimonious trees were found (L = 210; C.I. = 0.41; R.I.= 0.51). &lt;i&gt;Nanophareus&lt;/i&gt; was recovered as nested within a paraphyletic subfamily Pachylinae. The genus &lt;i&gt;Nanophareus&lt;/i&gt; wasfound to be monophyletic based on the following exclusive synapomorphies: An external row of enlarged tubercles in-serted among small ones on lateral margin of the dorsal scutum (innapplicable in &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;bosqenublado);&lt;/i&gt; the ventro-basal mar-gin of pedipalpal tibia curved 90 degrees in lateral view; and retrolateral seta of the pedipalpal tibia with a socket apically bifid (socket and seta longer than pedipalpal tibia length).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bosque Nublado; Neotropical fauna; systematics; taxonomy; Grassatores</subject>
+          <subject_class locale="en_US">Bosque Nublado</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcos</firstname>
+          <middlename>Ryotaro</middlename>
+          <lastname>Hara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Pinto-Da-Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriano</firstname>
+          <middlename>Brilhante</middlename>
+          <lastname>Kury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-66</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic status of the enigmatic salamander &lt;i&gt;Cryptotriton adelos &lt;/i&gt;(Amphibia: Plethodontidae) from northern Oaxaca, Mexico, with observations on its skull and postcranial skeleton </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>B.</middlename>
+          <lastname>Wake</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sean</firstname>
+          <middlename>M.</middlename>
+          <lastname>Rovito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jessica</firstname>
+          <middlename>A.</middlename>
+          <lastname>Maisano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <lastname>Hanken</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-70</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Lysmata jundalini&lt;/i&gt;, a new peppermint shrimp (Decapoda, Caridea, Hippolytidae) from the Western Atlantic </title>
+        <abstract locale="en_US">A new peppermint shrimp species, &lt;i&gt;Lysmata&lt;/i&gt; &lt;i&gt;jundalini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described based on five specimens collected in shallowsubtidal waters on Enrique Reef at the University of Puerto Rico, Mayagüez Isla, Magueyes Laboratories. &lt;i&gt;Lysmata&lt;/i&gt; &lt;i&gt;jund-&lt;/i&gt;&lt;i&gt;alini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; was identified from fresh material collected at the reef crest and back reef among coral rubble in June 2005and April 2009. The new species is most closely related to the Atlantic &lt;i&gt;Lysmata&lt;/i&gt; &lt;i&gt;intermedia&lt;/i&gt; and eastern Pacific L. &lt;i&gt;holthu-&lt;/i&gt;&lt;i&gt;isi.&lt;/i&gt; It can be readily distinguished from all those in the genus &lt;i&gt;Lysmata&lt;/i&gt; by its color pattern, the presence of a well developedaccessory branch, the number of free &lt;i&gt;vs.&lt;/i&gt; fused segments of the accessory branch, the number of carpal segments of the second pereiopod and well developed pterygostomian tooth.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hermaphrodite; &lt;i&gt;Lysmata&lt;/i&gt; &lt;i&gt;intermedia&lt;/i&gt; complex; cryptic taxa</subject>
+          <subject_class locale="en_US">Hermaphrodite</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrew</firstname>
+          <middlename>L.</middlename>
+          <lastname>Rhyne</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Calado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonina</firstname>
+          <middlename>Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>71-79</pages>
+        <date_published>2012-12-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of the larva of &lt;i&gt;Amblyomma oblongoguttatum &lt;/i&gt;Koch, 1844 (Acari: Ixodidae) by light and scanning electron microscopy </title>
+        <abstract locale="en_US">The larval stage of &lt;i&gt;Amblyomma&lt;/i&gt; &lt;i&gt;oblongoguttatum&lt;/i&gt; Koch is redescribed using optical and scanning electron microscopy.Unfed larvae were obtained from a colony of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;oblongoguttatum&lt;/i&gt; originated from engorged females collected on domesticpigs from Monte Negro municipally (10°29’S, 63°32’W), State of Rondônia, Western Amazon, Brazil. Several charactersare presented including the chaetotaxy of the idiosoma, palpi and Haller’s organ, as well as morphological features of theidiosoma, gnathosoma and legs. In addition, the porotaxy (topographical and numerical patterns of integumentary struc-tures) were presented by using a new nomenclature recently proposed. The chaetotaxy of the larvae of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;oblongoguttat-&lt;/i&gt;&lt;i&gt;um,&lt;/i&gt; in general, is similar to other Neotropical &lt;i&gt;Amblyomma&lt;/i&gt; species. Three types of integumentary structures were observedon the idiosoma: lyrifissures, small glands, and large wax glands. Topographic and numerical patterns of the integumen-tary structures consisted of 5 pairs of large wax glands (1 dorsal/ 4 ventral), 24 pairs of lyrifissures (11 dorsal/ 13 ventral),and 49 pairs of small glands (28 dorsal/ 21 ventral). These topographic and numerical patterns found for &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;oblongogut-&lt;/i&gt;&lt;i&gt;tatum&lt;/i&gt; show only minor differences when compared with patterns of other &lt;i&gt;Amblyomma&lt;/i&gt; larvae, however, a few key features can be used for identification of these species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Amblyomma&lt;/i&gt; &lt;i&gt;oblongoguttatum&lt;/i&gt;; larva; description; morphology; chaetotaxy; porotaxy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Amblyomma&lt;/i&gt; &lt;i&gt;oblongoguttatum&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <middlename>S.</middlename>
+          <lastname>Barbieri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luciana</firstname>
+          <middlename>G.</middlename>
+          <lastname>Brito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darci</firstname>
+          <middlename>M.</middlename>
+          <lastname>Barros-Battesti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kátia</firstname>
+          <middlename>M.</middlename>
+          <lastname>Famadas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>B.</middlename>
+          <lastname>Labruna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>Marcelo A.</middlename>
+          <lastname>Camargo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>80-88</pages>
+        <date_published>2012-12-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

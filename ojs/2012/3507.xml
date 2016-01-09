@@ -1,3 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3507.1</id>
+    <title locale="en_US">5 Oct. 2012</title>
+    <volume>3507</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Illustrations and taxonomic placement of the Recent &lt;i&gt;Fusus &lt;/i&gt;and &lt;i&gt;Fasciolaria &lt;/i&gt;in the Lamarck collection of the Muséum d’Histoire Naturelle, Geneva (Caenogastropoda, Buccinoidea, Gastropoda) </title>
+        <abstract locale="en_US">This paper illustrates and discusses shells from the Lamarck collection held by the Muséum d’Histoire Naturelle, Geneva,and placed by Lamarck in the gastropod genera &lt;i&gt;Fasciolaria&lt;/i&gt; and &lt;i&gt;Fusus&lt;/i&gt; in the family Fasciolariidae. Many are type speci-mens. &lt;i&gt;Fusus&lt;/i&gt; &lt;i&gt;rubens&lt;/i&gt; Lamarck, 1822 is rediscovered and is the senior name for the species known as &lt;i&gt;Peristernia&lt;/i&gt; &lt;i&gt;zealandica&lt;/i&gt; (Küster and Kobelt, 1876).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Fasciolaria&lt;/i&gt;; &lt;i&gt;Fusus&lt;/i&gt;; &lt;i&gt;Fusinus&lt;/i&gt;; Fasciolariidae; Lamarck; Museum of Geneva</subject>
+          <subject_class locale="en_US">&lt;i&gt;Fasciolaria&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Finet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martin</firstname>
+          <middlename>Avery</middlename>
+          <lastname>Snyder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2012-10-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription and generic placement of the spider &lt;i&gt;Cryptachaea gigantipes &lt;/i&gt;(Keyserling, 1890) (Araneae: Theridiidae) and notes on related synanthropic species in Australasia </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Helen</firstname>
+          <middlename>M.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cor</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vink</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brian</firstname>
+          <middlename>M.</middlename>
+          <lastname>Fitzgerald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Phil</firstname>
+          <middlename>J.</middlename>
+          <lastname>Sirvid</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-56</pages>
+        <date_published>2012-10-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of &lt;i&gt;Pseudochitinopoma &lt;/i&gt;Zibrowius, 1969 (Annelida, Serpulidae) with description of two new species </title>
+        <abstract locale="en_US">This study is a revision of the poorly known genus &lt;i&gt;Pseudochitinopoma&lt;/i&gt; Zibrowius, 1969 (Annelida, Serpulidae), erectedfor &lt;i&gt;Hyalopomatopsis&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; Bush, 1905 from the West Coast of North America. Subsequently, an unnamed&lt;i&gt;Pseudochitinopoma&lt;/i&gt; sp. nov. from the Seychelles (ten Hove 1994) (described herein as &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;amirantensis&lt;/i&gt; sp. nov.) and &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;pavimentata&lt;/i&gt; Nishi, 1999 were added to the genus. &lt;i&gt;Ficopomatus&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; Day, 1961 is herein referred to &lt;i&gt;Pseudochitinop-&lt;/i&gt;&lt;i&gt;oma,&lt;/i&gt; based on examination of the type material. Finally, &lt;i&gt;Pseudochitinopoma&lt;/i&gt; &lt;i&gt;beneliahuae&lt;/i&gt; sp. nov. was described fromWestern Australia and the Red Sea. Reproductive patterns and phylogenetic affinities of &lt;i&gt;Pseudochitinopoma&lt;/i&gt; spp. are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Pseudochitinopoma&lt;/i&gt; &lt;i&gt;amirantensis&lt;/i&gt; sp. nov.; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;beneliahuae&lt;/i&gt; sp. nov.; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;capensis&lt;/i&gt; comb. nov.; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;pavimentata&lt;/i&gt;; reproduction; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Pseudochitinopoma&lt;/i&gt; &lt;i&gt;amirantensis&lt;/i&gt; sp. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <middlename>K.</middlename>
+          <lastname>Kupriyanova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <middlename>A. Ten</middlename>
+          <lastname>Hove</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ejiroh</firstname>
+          <lastname>Nishi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-78</pages>
+        <date_published>2012-10-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A proposal for the common names for species of &lt;i&gt;Chiropotes &lt;/i&gt;(Pitheciinae: Primates) </title>
+        <abstract locale="en_US">The common English name for the genus &lt;i&gt;Chiropotes&lt;/i&gt; is currently bearded saki. We propose the use of “cuxiú” as the com-mon name for &lt;i&gt;Chiropotes&lt;/i&gt; species, arguing that this term not only has deeper cultural and historical roots, but would meshwith the common name currently in use over the vast majority of the genus range. Cuxiú (pronounced “coosh-e-oo”)would be phylogenetically and taxonomically more appropriate, and less ambiguous, than the currently used term, andremove the implied close affiliation between &lt;i&gt;Pithecia&lt;/i&gt; and &lt;i&gt;Chiropotes.&lt;/i&gt; Finally, as an indigenously-derived name, it wouldfit with the common names in use for the other two genera in the sub-family Pitheciinae (uacari, &lt;i&gt;Cacajao;&lt;/i&gt; saki, &lt;i&gt;Pithecia),&lt;/i&gt; both of which also have indigenous origins.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bearded saki; &lt;i&gt;Chiropotes&lt;/i&gt;; Cuxiú; Pithecidae</subject>
+          <subject_class locale="en_US">Bearded saki</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adrian.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Barnett</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liliam</firstname>
+          <middlename>P.</middlename>
+          <lastname>Pinto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Júlio</firstname>
+          <middlename>César</middlename>
+          <lastname>Bicca-Marques</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephen</firstname>
+          <middlename>F.</middlename>
+          <lastname>Ferrari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <lastname>Gordo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patricia</firstname>
+          <middlename>G.</middlename>
+          <lastname>Guedes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Aparecida</middlename>
+          <lastname>Lopes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>C.</middlename>
+          <lastname>Opazo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcio</firstname>
+          <lastname>Port-Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <middlename>Rodrigues Dos</middlename>
+          <lastname>Santos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafaela</firstname>
+          <middlename>F.</middlename>
+          <lastname>Soares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wilson</firstname>
+          <middlename>R.</middlename>
+          <lastname>Spironello</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liza</firstname>
+          <middlename>M.</middlename>
+          <lastname>Veiga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatiana</firstname>
+          <middlename>Martins</middlename>
+          <lastname>Vieira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>A.</middlename>
+          <lastname>Boyle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-83</pages>
+        <date_published>2012-10-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Typhlodromus &lt;/i&gt;Scheuten (Acari: Phytoseiidae) from house dust from Rio Grande do Sul, Brazil </title>
+        <abstract locale="en_US">&lt;i&gt;Typhlodromus&lt;/i&gt; (Anthoseius) &lt;i&gt;sabelisi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; a member of the &lt;i&gt;rhenanus&lt;/i&gt; species group, is described from the State of RioGrande do Sul, in southern Brazil, based on specimens collected from house dust removed from a curtain using a vacuumcleaner. So far, only &lt;i&gt;Typhlodromus&lt;/i&gt; (Anthoseius) &lt;i&gt;ornatus&lt;/i&gt; (Denmark &amp; Muma, 1973) and &lt;i&gt;T.&lt;/i&gt; (A.) &lt;i&gt;transvaalensis&lt;/i&gt; (Nesbitt,1951) have been reported from the State of Rio Grande do Sul. A key to the species of &lt;i&gt;Typhlodromus&lt;/i&gt; (Anthoseius) De Leon reported in Brazil is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">dust mite; predatory mite; taxonomy; Typhlodrominae</subject>
+          <subject_class locale="en_US">dust mite; predatory mite; taxonomy; Typhlodrominae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Noeli</firstname>
+          <middlename>Juarez</middlename>
+          <lastname>Ferla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guilherme</firstname>
+          <middlename>Liberato</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseane</firstname>
+          <middlename>Moreira Do</middlename>
+          <lastname>Nascimento</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>84-88</pages>
+        <date_published>2012-10-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

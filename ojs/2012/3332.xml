@@ -1,3 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3332.1</id>
+    <title locale="en_US">1 Jun. 2012</title>
+    <volume>3332</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The assassin bug genus &lt;i&gt;Haematoloecha &lt;/i&gt;in Taiwan, with notes on species occurring in the neighbouring areas (Hemiptera: Heteroptera: Reduviidae: Ectrichodiinae)</title>
+        <abstract locale="en_US">The species of the assassin bug genus &lt;i&gt;Haematoloecha&lt;/i&gt; Stål, 1874 (Hemiptera: Heteroptera: Reduviidae: Ectrichodiinae)occurring in Taiwan are surveyed. Five species are recognized, two of them, &lt;i&gt;Haematoloecha&lt;/i&gt; &lt;i&gt;curta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described as new. &lt;i&gt;Haematoloecha&lt;/i&gt; &lt;i&gt;adachii&lt;/i&gt; Tachikawa, 1968 and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorubra&lt;/i&gt; Distant, 1919 are recorded forthe first time from Taiwan. &lt;i&gt;Haematoloecha&lt;/i&gt; &lt;i&gt;nigrorubra&lt;/i&gt; is recognized as having disjunct East Himalayan–Formosan dis-tribution pattern; a new subspecies, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorubra&lt;/i&gt; &lt;i&gt;conspicua&lt;/i&gt; &lt;b&gt;ssp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described for members of the Taiwanese popu-lation. A revised diagnosis of &lt;i&gt;Haematoloecha&lt;/i&gt; is provided, species known to occur in Taiwan are keyed. The synonymyof &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigriventris&lt;/i&gt; (Fallou, 1887) with &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorufa&lt;/i&gt; (Stål, 1867) is confirmed. The colour variability of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorufa&lt;/i&gt; is dis-cussed. The following taxonomic changes are proposed: &lt;i&gt;Haematoloecha&lt;/i&gt; &lt;i&gt;puetzi&lt;/i&gt; (Kerzhner &amp; Günther, 2004), &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;(transferred from &lt;i&gt;Parascadra&lt;/i&gt; Miller, 1954); &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorubra&lt;/i&gt; Distant, 1919 = &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;yunnana&lt;/i&gt; Hsiao &amp; Ren, 1981, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;rubescens&lt;/i&gt; Distant, 1883 = &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;laeta&lt;/i&gt; Breddin, 1913, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; = &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;laeta&lt;/i&gt; var. &lt;i&gt;ardens&lt;/i&gt; Breddin, 1913, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Lectotypes are designated for &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigriventris,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorubra,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nigrorufa&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;rubescens.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Reduviidae; Ectrichodiinae; &lt;i&gt;Haematoloecha&lt;/i&gt;; taxonomy; new species; Oriental Region; Taiwan</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dávid</firstname>
+          <lastname>Rédei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jing-Fu</firstname>
+          <lastname>Tsai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-06-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic study on the species of the genus &lt;i&gt;Phlugiolopsis &lt;/i&gt;Zeuner (Orthoptera, Tettigoniidae, Meconematinae)</title>
+        <abstract locale="en_US">A taxonomic study of genus &lt;i&gt;Phlugiolopsis&lt;/i&gt; Zeuner, 1940 is presented and 8 new species are described. A new key to allspecies of the genus is provided. All type specimens are deposited in the SEM (Shanghai Entomological Museum, CAS.) and Bishop Museum (U.S.A.).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthoptera; Tettigoniidae; Meconematinae; taxonomy; &lt;i&gt;Phlugiolopsis&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Orthoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hanqiang</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xianwei</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-48</pages>
+        <date_published>2012-06-01</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Sinoe &lt;/i&gt;(Lepidoptera: Gelechiidae) with descriptions of two new species</title>
+        <abstract locale="en_US">Species of the North American genus &lt;i&gt;Sinoe&lt;/i&gt; Chambers, 1873, are reviewed. A neotype for &lt;i&gt;Anacampsis&lt;/i&gt; &lt;i&gt;robiniella&lt;/i&gt; Fitch,1859, the type species of &lt;i&gt;Sinoe,&lt;/i&gt; is designated, and the species is redescribed. A lectotype for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;fuscopalidella&lt;/i&gt; Chambers,1873 and a neotype for &lt;i&gt;Gelechia&lt;/i&gt; &lt;i&gt;robiniaefoliella&lt;/i&gt; Chambers, 1880, both junior synonyms of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;robiniella,&lt;/i&gt; are also desig-nated. Two new species, &lt;i&gt;Sinoe&lt;/i&gt; &lt;i&gt;chambersi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;kwakae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described. Adults and male and female gen-italia are illustrated for the three recognized species. Keys to the species are given based on external characters and the genitalia of both sexes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nearctic; Gelechiidae; Litini; &lt;i&gt;Robinia&lt;/i&gt; &lt;i&gt;pseudoacacia&lt;/i&gt;; neotype; lectotype; Chambers; Gracillariidae</subject>
+          <subject_class locale="en_US">Nearctic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sangmi</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-59</pages>
+        <date_published>2012-06-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First records of the leafhopper genus &lt;i&gt;Erythria &lt;/i&gt;(Hemiptera: Cicadellidae: Typhlocybinae) in China, with descriptions of three new species</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Erythria&lt;/i&gt; Fieber representing the first records of the genus from China, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;calvusa,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;cuspiprojecta,&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;euryprojecta&lt;/i&gt; spp. nov., are described and illustrated and a key is provided for their identification.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Homoptera; Auchenorrhyncha; leafhoppers; taxonomy; morphology; China</subject>
+          <subject_class locale="en_US">Homoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juxia</firstname>
+          <lastname>Kang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-66</pages>
+        <date_published>2012-06-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The dates of Westwood’s Mecoptera (Insecta) publications reexamined and further corrected</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Louis</firstname>
+          <middlename>A.</middlename>
+          <lastname>Somma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2012-06-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

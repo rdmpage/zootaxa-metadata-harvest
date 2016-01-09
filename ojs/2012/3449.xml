@@ -1,3 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3449.1</id>
+    <title locale="en_US">3 Sep. 2012</title>
+    <volume>3449</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An annotated checklist of Mutillidae (Insecta: Hymenoptera) from Iran</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Toshko</firstname>
+          <lastname>Ljubomirov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hassan</firstname>
+          <lastname>Ghahari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-09-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Braconid wasps (Hymenoptera) of Reunion. 1. Euphorinae (including Meteorini): key to species and description of six new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pascal</firstname>
+          <lastname>Rousse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yves</firstname>
+          <lastname>Braet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-46</pages>
+        <date_published>2012-09-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Bactrothrips &lt;/i&gt;in China (Thysanoptera: Idolothripinae): morphological and molecular data, and a key with two new species</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lihong</firstname>
+          <lastname>Dang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gexia</firstname>
+          <lastname>Qiao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-61</pages>
+        <date_published>2012-09-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Graciliblatta bella &lt;/i&gt;gen. et sp.n. - a rare carnivorous cockroach (Insecta, Blattida, Raphidiomimidae) from the Middle Jurassic sediments of Daohugou in Inner Mongolia, China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jun-Hui</firstname>
+          <lastname>Liang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wei-Long</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-09-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

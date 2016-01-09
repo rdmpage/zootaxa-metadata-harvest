@@ -1,3 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3506.1</id>
+    <title locale="en_US">4 Oct. 2012</title>
+    <volume>3506</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New and lesser known species of Chrysopetalidae, Phyllodocidae and Syllidae from south California (Phyllodocida, Aciculata, Annelida) </title>
+        <abstract locale="en_US">Two species are described from shallow waters in La Jolla in southern California, the chrysopetalid &lt;i&gt;Dysponetus&lt;/i&gt; &lt;i&gt;popu-&lt;/i&gt;&lt;i&gt;lonectens,&lt;/i&gt; new species, and the phyllodocid &lt;i&gt;Pterocirrus&lt;/i&gt; &lt;i&gt;burtoni,&lt;/i&gt; new species. The syllid &lt;i&gt;Brachysyllis&lt;/i&gt; &lt;i&gt;lagunae&lt;/i&gt; (Hartman,1961), new combination (previously in &lt;i&gt;Dioplosyllis),&lt;/i&gt; and the phyllodocids &lt;i&gt;Eulalia&lt;/i&gt; &lt;i&gt;aviculiseta&lt;/i&gt; Hartman, 1936, &lt;i&gt;Eulalia&lt;/i&gt;&lt;i&gt;gracilior&lt;/i&gt; (Chamberlin, 1919), new combination (previously in &lt;i&gt;Steggoa),&lt;/i&gt; &lt;i&gt;Pterocirrus&lt;/i&gt; &lt;i&gt;montereyensis&lt;/i&gt; (Hartman, 1936), and&lt;i&gt;Eumida&lt;/i&gt; &lt;i&gt;longicornuta&lt;/i&gt; (Moore, 1906) are redescribed from types and newly collected specimens. &lt;i&gt;Sige&lt;/i&gt; &lt;i&gt;californiensis&lt;/i&gt; Chamberlin, 1919 is treated as a &lt;i&gt;nomen&lt;/i&gt; &lt;i&gt;dubium.&lt;/i&gt; COI sequences are provided for all included species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chrysopetalidae; Phyllodocidae; Syllidae; new species; redescriptions; California</subject>
+          <subject_class locale="en_US">Chrysopetalidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fredrik</firstname>
+          <lastname>Pleijel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Teresa</middlename>
+          <lastname>Aguado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Greg</firstname>
+          <middlename>W.</middlename>
+          <lastname>Rouse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new cave-dwelling endemic &lt;i&gt;Ischyropsalis &lt;/i&gt;C.L. Koch, 1839 (Opiliones: Dyspnoi: Ischyropsalididae) from the karstic region of Cantabria (Spain) </title>
+        <abstract locale="en_US">&lt;i&gt;Ischyropsalis&lt;/i&gt; &lt;i&gt;cantabrica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from coastal limestone caves in the municipal districts of Alfoz de Lloredo,Ruiloba, Udías and Cabezón de la Sal, in northeastern Cantabria, northern Spain. Its systematic position is discussed asare the differences to morphologically similar and geographically proximal species. &lt;i&gt;Ischyropsalis&lt;/i&gt; &lt;i&gt;cantabrica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is astrictly troglobitic species, adapted to deep cave environment. Discrimination of males is possible by genital morphological characters and especially by the unique shape of the cheliceral apophyses.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Ischyropsalis&lt;/i&gt; &lt;i&gt;cantabrica&lt;/i&gt;; new species; taxonomy; SEM ultra-structure; cave-dwelling fauna; Basque-Cantabrian Mountains; North Spain</subject>
+          <subject_class locale="en_US">&lt;i&gt;Ischyropsalis&lt;/i&gt; &lt;i&gt;cantabrica&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <middlename>G.</middlename>
+          <lastname>Luque</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lucia</firstname>
+          <lastname>Labrada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-42</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval morphology of &lt;i&gt;Unionicola figuralis &lt;/i&gt;(Koch, 1836), &lt;i&gt;Neumania imitata &lt;/i&gt;Koenike, 1908, and &lt;i&gt;N. spinipes &lt;/i&gt;(Müller, 1776) (Acari: Hydrachnidia: Unionicolidae) </title>
+        <abstract locale="en_US">Illustrated descriptions of the larvae of the water mite species of &lt;i&gt;Unionicola&lt;/i&gt; &lt;i&gt;figuralis&lt;/i&gt; (Koch, 1836), &lt;i&gt;Neumania&lt;/i&gt; &lt;i&gt;imitata&lt;/i&gt; &lt;i&gt;Koenike,&lt;/i&gt; 1908 and redescription of the larva of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;spinipes&lt;/i&gt; (Müller, 1776) are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">water mites; Unionicolidae; &lt;i&gt;Unionicola&lt;/i&gt;; &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;figuralis&lt;/i&gt;; &lt;i&gt;Neumania&lt;/i&gt;; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;imitata&lt;/i&gt;; &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;spinipes&lt;/i&gt;; morphology; larva.</subject>
+          <subject_class locale="en_US">water mites</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <middlename>V.</middlename>
+          <lastname>Tuzovskij</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-53</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and new species of Sclerodactylidae (Holothuroidea: Dendrochirotida) from the south-western Atlantic coast </title>
+        <abstract locale="en_US">In this paper, we diagnose a new genus of Sclerodactylidae, &lt;i&gt;Coronatum&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;&lt;i&gt;et&lt;/i&gt;&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from shallow waters of the south-western Atlantic Ocean. &lt;i&gt;Coronatum&lt;/i&gt; &lt;i&gt;baiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; has a compact calcareous ring with short posterior processes and aunique set of body wall ossicles, composed of two-pillared tables, which do not have any morphological affinities with&lt;i&gt;Euthyonidiella&lt;/i&gt; &lt;i&gt;dentata&lt;/i&gt; and &lt;i&gt;Pseudothyone&lt;/i&gt; &lt;i&gt;belli,&lt;/i&gt; the other two known Brazilian sclerodactylid species. Identification keysand photographs of living specimens and ossicles are provided. This paper increases to twelve the number of known Sclerodactylinae genera and to two the number of species of this subfamily in this region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Echinodermata; Sclerodactylinae; Taxonomy; identification key; Brazil</subject>
+          <subject_class locale="en_US">Echinodermata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luciana</firstname>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Camilla</firstname>
+          <lastname>Souto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carla</firstname>
+          <lastname>Menegola</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species in the scorpion genus &lt;i&gt;Troglotayosicus &lt;/i&gt;from forest leaf litter in Southwestern Colombia (Scorpiones, Troglotayosicidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Troglotayosicus&lt;/i&gt; &lt;i&gt;hirsutus,&lt;/i&gt; a new species of troglomorphic scorpion, is described based on three adult males, three adultfemales and eight juveniles captured by ultraviolet light detection in forest leaf litter of the municipality of Buesaco, south-western Colombia. Though similar to the other Colombian species in the genus, &lt;i&gt;Troglotayosicus&lt;/i&gt; &lt;i&gt;humiculum&lt;/i&gt; Botero-Tru-jillo &amp; Francke, 2009, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;hirsutus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; exhibits a combination of distinctive morphological features, including adensely hairy appearance which gives the name to the new species. With this description, the number of known species inthe genus &lt;i&gt;Troglotayosicus&lt;/i&gt; is raised to three, two of which inhabit leaf litter in forests of Nariño department (Colombia),whereas the type species, &lt;i&gt;Troglotayosicus&lt;/i&gt; &lt;i&gt;vachoni&lt;/i&gt; Lourenço, 1981, remains known only from Los Tayos Cave in Ecuador.With this new finding, it is plausible that the genus &lt;i&gt;Troglotayosicus&lt;/i&gt; is not much rare after all, but that its apparent raritymight be a sampling artifact instead. However, this possibility does not imply that the genus is necessarily common, and only additional studies may tell about the vulnerability of the genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Scorpion; troglomorphism; &lt;i&gt;Troglotayosicus&lt;/i&gt; &lt;i&gt;hirsutus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; taxonomy; Nariño; Colombia</subject>
+          <subject_class locale="en_US">Scorpion</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Botero-Trujillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>A.</middlename>
+          <lastname>Ochoa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oscar</firstname>
+          <middlename>A.</middlename>
+          <lastname>Tovar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julio</firstname>
+          <middlename>E.</middlename>
+          <lastname>Souza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-76</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Linyphiid spiders of Peru: description of a new species, complementary descriptions and new distribution records (Araneae: Linyphiidae) </title>
+        <abstract locale="en_US">The spider family Linyphiidae is poorly known from many countries in South America, including Peru. In this paper wedescribe a new species of &lt;i&gt;Asemostera&lt;/i&gt; Simon, 1898, &lt;i&gt;Asemostera&lt;/i&gt; &lt;i&gt;dianae&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species,&lt;/b&gt; from Madre de Dios, the males of&lt;i&gt;Meioneta&lt;/i&gt; &lt;i&gt;lauta&lt;/i&gt; Millidge, 1991 and &lt;i&gt;Meioneta&lt;/i&gt; &lt;i&gt;oculata&lt;/i&gt; Millidge, 1991, and the female of &lt;i&gt;Myrmecomelix&lt;/i&gt; &lt;i&gt;pulcher&lt;/i&gt; (Millidge,1991). New occurrence records for Peru include &lt;i&gt;Exechopsis&lt;/i&gt; &lt;i&gt;conspicua&lt;/i&gt; Millidge, 1991 (known from Brazil), and&lt;i&gt;Novafrontina&lt;/i&gt; &lt;i&gt;uncata&lt;/i&gt; (F. O. P.-Cambridge, 1902) (known from Brazil, Colombia, Mexico, Panama, and Venezuela). Newdistribution records within Peru for endemic species include &lt;i&gt;Asemostera&lt;/i&gt; &lt;i&gt;janetae&lt;/i&gt; Miller, 2007, &lt;i&gt;Lygarina&lt;/i&gt; &lt;i&gt;finitima&lt;/i&gt; Millidge,1991, &lt;i&gt;Meioneta&lt;/i&gt; &lt;i&gt;propinqua&lt;/i&gt; Millidge, 1991, &lt;i&gt;Meioneta&lt;/i&gt; &lt;i&gt;silvae&lt;/i&gt; Millidge, 1991 and &lt;i&gt;Sphecozone&lt;/i&gt; &lt;i&gt;niwina&lt;/i&gt; (Chamberlin, 1916).Illustrations are provided for &lt;i&gt;Asemostera&lt;/i&gt; &lt;i&gt;dianae&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; and for the undescribed sexes of previously described taxa. Known distributional records are also provided for the above discussed taxa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropical; new species records; new species; Peru; spider taxonomy</subject>
+          <subject_class locale="en_US">Neotropical</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Everton</firstname>
+          <middlename>Nei Lopes</middlename>
+          <lastname>Rodrigues</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>Domingos</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-86</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Acoustic characteristics of the advertisement and territorial calls of &lt;i&gt;Phyllodytes tuberculosus &lt;/i&gt;Bokermann, 1966 (Amphibia: Anura: Hylidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Flora</firstname>
+          <middlename>Acuña</middlename>
+          <lastname>Juncá</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcelo</firstname>
+          <middlename>Felgueiras</middlename>
+          <lastname>Napoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juliana</firstname>
+          <lastname>Cedraz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ivan</firstname>
+          <lastname>Nunes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>87-88</pages>
+        <date_published>2012-10-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

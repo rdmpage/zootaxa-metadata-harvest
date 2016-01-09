@@ -1,3 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3475.1</id>
+    <title locale="en_US">10 Sep. 2012</title>
+    <volume>3475</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Brittle stars (Echinodermata: Ophiuroidea) from the continental shelf off Angola and Namibia</title>
+        <abstract locale="en_US">The fauna occurring in waters off South-West Africa is of a remarkable composition and highly diverse due to local waterbodies, flow conditions and abiotic factors. These parameters predominate as a result of the cooperation of a major coastalupwelling system (the Benguela Current Large Marine Ecosystem), the Benguela Current flowing northwards, thesouthward directed Angola Current and the Angola–Benguela Frontal Zone formed in the transition zone of both watercurrents. This area has been insufficiently explored within the last decades and major gaps in biodiversity knowledge existto date. Two expeditions were conducted in 2004/2008, which collected benthic fauna samples. This is a list of brittle starsfound and a comprehensive research study relating to Ophiuroidea in waters off Angola and Namibia. 17 species could beidentified at depths from the littoral zone down to 125 m. The known depth and geographical distributions were extended for several species. Short diagnoses and ecological data are included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Benguela Current Large Marine Ecosystem; Angola–Benguela Frontal Zone; West Africa; Macrozoobenthos; Ophiurida</subject>
+          <subject_class locale="en_US">Benguela Current Large Marine Ecosystem</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Franziska</firstname>
+          <middlename>U.</middlename>
+          <lastname>Glück</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sabine</firstname>
+          <lastname>Stöhr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ralf</firstname>
+          <lastname>Bochert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>L.</middlename>
+          <lastname>Zettler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-20</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Nomenclatural problems associated with the generic names &lt;i&gt;Obisium &lt;/i&gt;Leach, 1814, &lt;i&gt;Blothrus &lt;/i&gt;Schiödte, 1847 and &lt;i&gt;Neobisium &lt;/i&gt;Chamberlin, 1930 (Arachnida: Chelonethi)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pseudoscorpiones; Cheliferidae; &lt;i&gt;Chthonius&lt;/i&gt;; homonymy; metomonymy; synonymy</subject>
+          <subject_class locale="en_US">Pseudoscorpiones</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mark</firstname>
+          <middlename>L. I.</middlename>
+          <lastname>Judson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>21-35</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Ilyocryptus &lt;/i&gt;Sars, 1862 (Cladocera: Anomopoda: Ilyocryptidae) from the East Asian Palaearctic</title>
+        <abstract locale="en_US">A new Palaearctic species of the genus &lt;i&gt;Ilyocryptus&lt;/i&gt; Sars, 1862 (Cladocera: Anomopoda: Ilyocryptidae) is described basedon samples from Republic of Korea, Japan, and the Far East of Russia. This taxon was mis-identified by some previousauthors as &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt; Kurz, 1878. Among the &lt;i&gt;agilis-like&lt;/i&gt; species sensu Kotov &amp; Elías-Gutiérrez (2009), &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;yooni&lt;/i&gt; &lt;b&gt;sp.nov.&lt;/b&gt; isunique in absence of any setules or denticles near preanal teeth on the postabdomen. It also differs from its closest relative&lt;i&gt;I.&lt;/i&gt; &lt;i&gt;agilis&lt;/i&gt; s.str. in (1) a more sharp dorsal keel; (2) short setae at postero-ventral portion of valve; (3) a long abdominalprojection; (4) presence of spinules on internal wall of anus; (5) shorter antenna I; (6) distal burrowing spine not projectedbehind distal end on basal segment of antenna II; (7) spine on proximal segment of antennal exopod not longer than thenext segment; (8) setae at bases of the flap at inner-distal portion of limb III of different size and armature. Apparently &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;yooni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is a member of the Far East endemic species complex, recently defined by Kotov &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; (2011, 2012).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Cladocera; taxonomy; systematics; new species; Palaearctic</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hyun</firstname>
+          <middlename>Gi</middlename>
+          <lastname>Jeong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexey</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kotov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-44</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Alona kotovi &lt;/i&gt;sp. nov.&lt;i&gt;, &lt;/i&gt;a new species of Aloninae (Cladocera: Anomopoda: Chydoridae) from South Vietnam</title>
+        <abstract locale="en_US">A new species of anomopod related to &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;quadrangularis&lt;/i&gt; (Cladocera: Anomopoda: Chydoridae) is described fromstreams in South Vietnam. &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;kotovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; differs from the other species of &lt;i&gt;Alona&lt;/i&gt; s. str. (the &lt;i&gt;quadrangularis-group)&lt;/i&gt;by the morphology of its postabdomen, labrum and thoracic limbs. The presence of a short spine at the end of the malepostabdominal claw is unique to the new species. &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kotovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is well-distinguished from two other Old Worldspecies, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;quadrangularis&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;kolwezii,&lt;/i&gt; yet shares numerous similarities with South American &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;yara.&lt;/i&gt; This is one more case of connection between South American and Australasian faunas of Chydoridae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cladocera; &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;kotovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; morphology; South Vietnam</subject>
+          <subject_class locale="en_US">cladocera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artem</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Sinev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-54</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the family Tetrablemmidae (Araneae) from Laos and Malaysia</title>
+        <abstract locale="en_US">Two new species of the spider family Tetrablemmidae are described: &lt;i&gt;Brignoliella&lt;/i&gt; &lt;i&gt;besutensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Malaysia and &lt;i&gt;Tetrablemma&lt;/i&gt; &lt;i&gt;namkhan&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Laos. The family Tetrablemmidae is reported from Laos for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; armoured spider; description; Southeast Asia</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yucheng</firstname>
+          <lastname>Lin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuqiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Jäger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Comparative description of the Mediterranean erigonine spider &lt;i&gt;Diplocephalus&lt;/i&gt; &lt;i&gt;guidoi &lt;/i&gt;n. sp. (Araneae, Linyphiidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Holger</firstname>
+          <lastname>Frick</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marco</firstname>
+          <lastname>Isaia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Paramoera anivae &lt;/i&gt;a new species of Eusiridae Stebbing, 1888 (Crustacea: Amphipoda: Gammaridea) from the Okhotsk Sea</title>
+        <abstract locale="en_US">A new amphipod species, &lt;i&gt;Paramoera&lt;/i&gt; &lt;i&gt;anivae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from upper littoral of Aniva Bay of Sakhalin Island (Russian FarEast) is described. The new species belong to the species group of &lt;i&gt;Paramoera&lt;/i&gt; without spines or teeth dorsally, inner plateof maxilla 1 with 5 plumose strong setae, inner plate of maxilla 2 with oblique row of 3–4 plumose long setae on inner margin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; upper littoral; Sakhalin Island; North Pacific; Amphipoda</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vjacheslav</firstname>
+          <middlename>S.</middlename>
+          <lastname>Labay</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-85</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Advertisement call and colour in life of &lt;i&gt;Allobates crombiei &lt;/i&gt;(Morales) “2000” [2002] (Anura: Aromobatidae) from the type Locality (Cachoeira do Espelho), Xingu River, Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Albertina</firstname>
+          <middlename>P.</middlename>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luciana</firstname>
+          <middlename>K.</middlename>
+          <lastname>Erdtmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adolfo</firstname>
+          <lastname>Amézquita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>86-88</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

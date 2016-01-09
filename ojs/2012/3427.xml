@@ -1,3 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3427.1</id>
+    <title locale="en_US">17 Aug. 2012</title>
+    <volume>3427</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Menippus &lt;/i&gt;(Coleoptera: Chrysomelidae: Galerucinae) of Taiwan and &lt;i&gt;Menippus dimidiaticornis &lt;/i&gt;species group with a new generic synonymy</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chi-Feng</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Bezdĕk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Haruki</firstname>
+          <lastname>Suenaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Prototilla &lt;/i&gt;Schuster, 1949 from Argentina and diagnoses of the genus based on male and female (Hymenoptera: Bradynobaenidae: Typhoctinae: Eotillini)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Javier</firstname>
+          <lastname>Torréns</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patricio</firstname>
+          <lastname>Fidalgo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arturo</firstname>
+          <lastname>Roig-Alsina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Denis</firstname>
+          <middlename>J.</middlename>
+          <lastname>Brothers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-32</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of &lt;i&gt;Rheumatobates &lt;/i&gt;Bergroth (Hemiptera: Heteroptera: Gerridae) from the Pacific coast of Colombia and Costa Rica, with a key to males of &lt;i&gt;Rheumatobates &lt;/i&gt;in the Eastern Tropical Pacific</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dora</firstname>
+          <middlename>N.</middlename>
+          <lastname>Padilla-Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernald</firstname>
+          <lastname>Pacheco-Chaves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-46</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Species in the genus &lt;i&gt;Bonomiella &lt;/i&gt;Conci, 1942 (Phthiraptera: Menoponidae) from Argentina and Chile</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Armando</firstname>
+          <middlename>C.</middlename>
+          <lastname>Cicchino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>Alfonso</middlename>
+          <lastname>González-Acuña</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new rare species of &lt;i&gt;Arcynopteryx &lt;/i&gt;(Plecoptera: Perlodidae) from the basin of Lake Baikal (Russia)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valentina</firstname>
+          <middlename>A.</middlename>
+          <lastname>Teslenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lidia</firstname>
+          <middlename>A.</middlename>
+          <lastname>Zhiltzova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Nemoura &lt;/i&gt;(Plecoptera: Nemouridae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guoquan</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-08-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

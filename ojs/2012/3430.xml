@@ -1,3 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3430.1</id>
+    <title locale="en_US">20 Aug. 2012</title>
+    <volume>3430</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the leafhopper tribe Agalliini (Hemiptera: Cicadellidae: Megophthalminae) from China, with description of new taxa</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Viraktamath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wu</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-49</pages>
+        <date_published>2012-08-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Seven new species of the leafhopper genus &lt;i&gt;Salka &lt;/i&gt;Dworakowska (Hemiptera: Cicadellidae: Typhlocybinae) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yue-Hua</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zi-Zhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-60</pages>
+        <date_published>2012-08-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription and generic placement of &lt;i&gt;Neopamera mumfordi &lt;/i&gt;(Van Duzee, 1935) and &lt;i&gt;Remaudiereana castanea &lt;/i&gt;(Van Duzee, 1935) (Hemiptera: Heteroptera: Lygaeoidea: Rhyparochromidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Dellapé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Malipatil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-08-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

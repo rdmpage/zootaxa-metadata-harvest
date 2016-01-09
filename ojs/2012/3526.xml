@@ -1,3 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3526.1</id>
+    <title locale="en_US">25 Oct. 2012</title>
+    <volume>3526</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Remarks on the genus &lt;i&gt;Sinochlora &lt;/i&gt;Tinkham (Orthoptera: Tettigoniidae, Phaneropterinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gang</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rong-Sheng</firstname>
+          <lastname>Lu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and new records of &lt;i&gt;Camelobaetidius &lt;/i&gt;Demoulin, 1966 (Ephemeroptera: Baetidae) from Southeastern Brazil </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <lastname>Boldrini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>M. O.</middlename>
+          <lastname>Pes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>N.</middlename>
+          <lastname>Francischetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>F.</middlename>
+          <lastname>Salles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-30</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Yphthimoides &lt;/i&gt;(Lepidoptera: Nymphalidae: Satyrinae) from the southern Atlantic forest region </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <middlename>V. L.</middlename>
+          <lastname>Freitas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lucas</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kaminski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olaf</firstname>
+          <middlename>H. H.</middlename>
+          <lastname>Mielke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <middlename>P.</middlename>
+          <lastname>Barbosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karina</firstname>
+          <middlename>L.</middlename>
+          <lastname>Silva-Brandão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-44</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the tribe Oligaphorurini Bagnall, 1949 (Collembola: Onychiuridae) from northeast China </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xin</firstname>
+          <lastname>Sun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donghui</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-52</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species, new synonym, and redescription of &lt;i&gt;Onthophagus &lt;/i&gt;(Coleoptera: Scarabaeidae: Scarabaeinae) from the Western Ghats, India </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nithya</firstname>
+          <lastname>Sathiandran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>K.</middlename>
+          <lastname>Sabu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-58</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The digger wasps of the genus &lt;i&gt;Prionyx &lt;/i&gt;Vander Linden (Hymenoptera: Sphecidae) of Russia and Central Asia, with a key to species, new synonymies, and lectotype designations </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yuriy</firstname>
+          <middlename>N.</middlename>
+          <lastname>Danilov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-71</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Periaeschna yazhenae &lt;/i&gt;sp. nov. from Fujian, China (Odonata: Anisoptera: Aeshnidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qi-Han</firstname>
+          <lastname>Xu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>72-78</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Neoperla &lt;/i&gt;(Plecoptera: Perlidae) from the southern region of the Russian Far East </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valentina</firstname>
+          <middlename>A.</middlename>
+          <lastname>Teslenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-83</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A synopsis of &lt;i&gt;Agnetina &lt;/i&gt;(Plecoptera: Perlidae) from Vietnam </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guoquan</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>84-88</pages>
+        <date_published>2012-10-25</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

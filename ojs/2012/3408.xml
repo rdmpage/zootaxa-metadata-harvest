@@ -1,3 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3408.1</id>
+    <title locale="en_US">3 Aug. 2012</title>
+    <volume>3408</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">An Annotated Catalog of the Iranian Lygaeoidea (excluding Berytidae and Piesmatidae) (Hemiptera: Heteroptera: Pentatomomorpha)</title>
+        <abstract locale="en_US">The Iranian fauna of the Lygaeoidea (excluding Berytidae and Piesmatidae) is summarized in this paper. In total, 9families, 7 subfamilies, 87 genera and subgenera, and 238 species and subspecies are listed from Iran. One species, &lt;i&gt;Dieuches&lt;/i&gt; &lt;i&gt;armatipes&lt;/i&gt; (Walker, 1872), is newly recorded from Iran.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Lygaeoidea; Catalog; Iran; Palearctic region</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hassan</firstname>
+          <lastname>Ghahari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pierre</firstname>
+          <lastname>Moulet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2012-08-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Gatzara &lt;/i&gt;Navás, 1915 from China (Neuroptera: Myrmeleontidae)</title>
+        <abstract locale="en_US">Six species of the genus &lt;i&gt;Gatzara&lt;/i&gt; Navás, 1915 from China are reviewed. One new species &lt;i&gt;Gatzara&lt;/i&gt; &lt;i&gt;nigrivena&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is de-scribed and four new combinations, &lt;i&gt;Gatzara&lt;/i&gt; &lt;i&gt;angulineura&lt;/i&gt; (Yang, 1987), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Gatzara&lt;/i&gt; &lt;i&gt;decorilla&lt;/i&gt; (Yang, 1997), &lt;b&gt;n.&lt;/b&gt;&lt;b&gt;comb.,&lt;/b&gt; &lt;i&gt;Gatzara&lt;/i&gt; &lt;i&gt;decorosa&lt;/i&gt; (Yang, 1988), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; and &lt;i&gt;Gatzara&lt;/i&gt; &lt;i&gt;qiongana&lt;/i&gt; (Yang, 2002), &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;comb.,&lt;/b&gt; are proposed and thespecies redescribed. Morphological illustrations, a distribution map, and a key to the species of &lt;i&gt;Gatzara&lt;/i&gt; from China are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neuroptera; Myrmeleontidae; &lt;i&gt;Gatzara&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Neuroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xinli</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weiguang</firstname>
+          <lastname>Ao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhiliang</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xia</firstname>
+          <lastname>Wan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-46</pages>
+        <date_published>2012-08-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Empis &lt;/i&gt;(Diptera: Empididae) from Turkey</title>
+        <abstract locale="en_US">The Turkish fauna of the genus &lt;i&gt;Empis&lt;/i&gt; is poorly known, with only 45 species listed in the literature. Two new species,&lt;i&gt;Empis&lt;/i&gt; (Polyblepharis) &lt;i&gt;nabucco&lt;/i&gt; Çiftçi &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Empis&lt;/i&gt; (s.str.) &lt;i&gt;doronicola&lt;/i&gt; Çiftçi &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described from mountainsof central Turkey. Both sexes are described and compared with related species. Male genitalia, and also mid leg of &lt;i&gt;Empis&lt;/i&gt; (s.str.) &lt;i&gt;doronicola&lt;/i&gt; Çiftçi &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are illustrated. Keys to Turkish species of &lt;i&gt;Empis&lt;/i&gt; (s.str.) and &lt;i&gt;E.&lt;/i&gt; (Polyblepharis) are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; new species; dance fly; distribution</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mustafa</firstname>
+          <middlename>Cemal</middlename>
+          <lastname>Çiftçi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Abdullah</firstname>
+          <lastname>Hasbenli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Derya</firstname>
+          <lastname>Canpolat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-53</pages>
+        <date_published>2012-08-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Penapis larraini &lt;/i&gt;Packer, a new species of rophitine bee (Hymenoptera: Halictidae) from a fog oasis in Northern Chile</title>
+        <abstract locale="en_US">&lt;i&gt;Penapis&lt;/i&gt; &lt;i&gt;larraini&lt;/i&gt; Packer, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hymenoptera: Halictidae: Rophitinae), is described from Alto Patache, South ofIquique, a fog oasis in the very dry coastal desert region of northern Chile. It is compared to other species of the genus, and its unusual foggy habitat is described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bees; Atacama Desert; taxonomy; new species; fog oasis; &lt;i&gt;lomas&lt;/i&gt; vegetation; paleoenvironments</subject>
+          <subject_class locale="en_US">Bees</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <lastname>Packer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-58</pages>
+        <date_published>2012-08-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Brachysomus &lt;/i&gt;(&lt;i&gt;Hippomias&lt;/i&gt;) &lt;i&gt;samos &lt;/i&gt;sp. n. from Greece—first island endemism in the genus (Coleoptera: Curculionidae: Entiminae)</title>
+        <abstract locale="en_US">&lt;i&gt;Brachysomus&lt;/i&gt; (Hippomias) &lt;i&gt;samos&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from the Oros Ambelos mountains on Samos Island (Greece). Thehygrophilous and detritivorous new species is endemic to a very restricted area. &lt;i&gt;Brachysomus&lt;/i&gt; &lt;i&gt;samos&lt;/i&gt; is close to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;pelex&lt;/i&gt;Yunakov, 2006, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;moczarskii&lt;/i&gt; Penecke, 1924 and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;armatus&lt;/i&gt; Yunakov, 2006 based on characteristics of the median lobeof the aedeagus, and on the conspicuously long apodemes. &lt;i&gt;Brachysomus&lt;/i&gt; &lt;i&gt;samos&lt;/i&gt; furthermore strongly resembles &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;armatus&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;curvimanus&lt;/i&gt; Yunakov, 2006 in the characteristic shape of the head capsule and epifrons.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">North Aegean Islands; Samos Island; endemism; taxonomy; new species; weevil</subject>
+          <subject_class locale="en_US">North Aegean Islands</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nikolai</firstname>
+          <lastname>Yunakov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christoph</firstname>
+          <lastname>Germann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-08-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

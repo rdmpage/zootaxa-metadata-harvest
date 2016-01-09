@@ -1,3 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3537.1</id>
+    <title locale="en_US">2 Nov. 2012</title>
+    <volume>3537</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Eleven new species of the &lt;i&gt;Homoneura &lt;/i&gt;(&lt;i&gt;Homoneura&lt;/i&gt;) &lt;i&gt;beckeri &lt;/i&gt;group from Yunnan, China (Diptera, Lauxaniidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wenliang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-28</pages>
+        <date_published>2012-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The mitochondrial genome of &lt;i&gt;Coridius chinensis &lt;/i&gt;(Hemiptera: Dinidoridae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Li</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fan</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wen</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xun</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jian</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanzhi</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-40</pages>
+        <date_published>2012-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A taxonomic review of the grassland leafhopper genera &lt;i&gt;Gurawa &lt;/i&gt;Distant and &lt;i&gt;Chiasmus &lt;/i&gt;Mulsant &amp; Rey (Hemiptera: Cicadellidae: Deltocephalinae: Chiasmini) from China with description of a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yani</firstname>
+          <lastname>Duan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2012-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Leofa &lt;/i&gt;(&lt;i&gt;Prasutagus&lt;/i&gt;) Distant (Hemiptera: Cicadellidae: Deltocephalinae: Chiasmini) from Thailand with a checklist of &lt;i&gt;Leofa &lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yani</firstname>
+          <lastname>Duan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>N.</middlename>
+          <lastname>Zahniser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-58</pages>
+        <date_published>2012-11-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Amphinemura palmeni &lt;/i&gt;is a valid Holarctic stonefly species (Plecoptera: Nemouridae) </title>
+        <abstract locale="en_US">The taxonomic status of &lt;i&gt;Amphinemura&lt;/i&gt; &lt;i&gt;palmeni,&lt;/i&gt; a rare stonefly from northern Fennoscandia, was re-evaluated in amorphological study combined with analyses of mitochondrial COI and nuclear 28S sequences. Taxon sampling included&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;standfussi,&lt;/i&gt; with which &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;palmeni&lt;/i&gt; has been confused, the Nearctic &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;linda&lt;/i&gt; and seven other &lt;i&gt;Amphinemura&lt;/i&gt; species.&lt;i&gt;Amphinemura&lt;/i&gt; &lt;i&gt;palmeni&lt;/i&gt; is confirmed as a valid species, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;norvegica&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;linda&lt;/i&gt; identified as junior synonyms. Thespecies is illustrated with line drawings, photographs and SEM micrographs. Its COI haplotype diversity is compared with the intraspecific diversity in other stonefly species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">stoneflies; &lt;i&gt;Amphinemura&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;palmeni&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;norvegica&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;linda&lt;/i&gt;; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;standfussi&lt;/i&gt;; Holarctic; Fennoscandia; Nearctic; COI; 28S; SEM; systematics; synonymy; validity</subject>
+          <subject_class locale="en_US">stoneflies</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Louis</firstname>
+          <lastname>Boumans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>W.</middlename>
+          <lastname>Baumann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-75</pages>
+        <date_published>2012-11-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the subgenera &lt;i&gt;Euorthocladius &lt;/i&gt;and &lt;i&gt;Orthocladius s. str. &lt;/i&gt;from China (Diptera: Chironomidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fanqing</firstname>
+          <lastname>Kong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xinhua</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>76-88</pages>
+        <date_published>2012-11-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3351.1</id>
+    <title locale="en_US">19 Jun. 2012</title>
+    <volume>3351</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new genus of Neotropical Chrysopini (Neuroptera: Chrysopidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Titanochrysa&lt;/i&gt; Sosa &amp; Freitas is a new genus of Neotropical Chrysopini (Chrysopidae: Chrysopinae) recorded from Costa Rica,Venezuela and Brazil. &lt;i&gt;Titanochrysa&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; shares several external and genitalic characters with &lt;i&gt;Ceraeochrysa&lt;/i&gt; Adams, 1982;&lt;i&gt;Chrysopodes&lt;/i&gt; Navás, 1913; &lt;i&gt;Cryptochrysa&lt;/i&gt; Freitas &amp; Penny, 2000; &lt;i&gt;Parachrysopiella&lt;/i&gt; Brooks &amp; Barnard, 1990 and &lt;i&gt;Ungla&lt;/i&gt; Navás1914. It may be distinguished from those genera by its very long sternite 8+9, sternites 2–8 usually with microtholi, male geni-talia with the dorsal surface of the arcessus striated, gonosaccus well-developed, bearing elongate gonosetae and microsetae,and a spoon-like gonapsis. Herein, &lt;i&gt;Titanochrysa&lt;/i&gt; &lt;i&gt;circumfusa&lt;/i&gt; (Burmeister, 1939) [= &lt;i&gt;Chrysopodes&lt;/i&gt; &lt;i&gt;circumfusa&lt;/i&gt; (Burmeister)]&lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Titanochrysa&lt;/i&gt; &lt;i&gt;pseudovaricosa&lt;/i&gt; (Penny) [= &lt;i&gt;Ceraeochrysa&lt;/i&gt; &lt;i&gt;pseudovaricosa&lt;/i&gt; Penny, 1998] &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; were identi-fied; &lt;i&gt;Titanochrysa&lt;/i&gt; &lt;i&gt;ferreirai&lt;/i&gt; Sosa &amp; Freitas &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Titanochrysa&lt;/i&gt; &lt;i&gt;trespuntensis&lt;/i&gt; Sosa &amp; Freitas &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; were described.The external morphology, and male and female genitalia of all these species are described. &lt;i&gt;Titanochrysa&lt;/i&gt; &lt;i&gt;circumfusa&lt;/i&gt; (Burmeister, 1939) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is recorded for the first time from Venezuela.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chrysopinae; Chrysopini; green lacewing; predator</subject>
+          <subject_class locale="en_US">Chrysopinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Francisco</firstname>
+          <lastname>Sosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <lastname>De Freitas†</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-14</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A contribution to the knowledge of Dryinidae from Late Eocene Baltic amber (Hymenoptera: Chrysidoidea), with description of new subfamily, Protodryininae subfam. nov.</title>
+        <abstract locale="en_US">A new subfamily, Protodryininae Olmi &amp; Guglielmino, &lt;b&gt;subfam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; with &lt;i&gt;Protodryinus&lt;/i&gt; &lt;i&gt;eocenicus&lt;/i&gt; Olmi &amp; Guglielmino, &lt;b&gt;gen.&lt;/b&gt;&lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Lonchodryinus&lt;/i&gt; &lt;i&gt;balticus,&lt;/i&gt; Olmi &amp; Guglielmino, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from subfamily Anteoninae are described from Balticamber. An updated new key to the world subfamilies of Dryinidae and a checklist of the species known from Baltic amber are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new fossil taxa; new subfamily; Baltic amber; Late Eocene; Protodryininae; Anteoninae</subject>
+          <subject_class locale="en_US">new fossil taxa</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Massimo</firstname>
+          <lastname>Olmi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adalgisa</firstname>
+          <lastname>Guglielmino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>15-26</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The larvae of &lt;i&gt;Allogamus antennatus &lt;/i&gt;(McLachlan 1876), &lt;i&gt;Allogamus mendax&lt;/i&gt; (McLachlan 1876) and &lt;i&gt;Allogamus pertuli &lt;/i&gt;Malicky 1975 (Trichoptera: Limnephilidae) with notes on ecology and zoogeography</title>
+        <abstract locale="en_US">The paper gives a description of the hitherto unknown or poorly known larvae of &lt;i&gt;Allogamus&lt;/i&gt; &lt;i&gt;antennatus&lt;/i&gt; (McLachlan 1876),&lt;i&gt;Allogamus&lt;/i&gt; &lt;i&gt;mendax&lt;/i&gt; (McLachlan 1876) and &lt;i&gt;Allogamus&lt;/i&gt; &lt;i&gt;pertuli&lt;/i&gt; Malicky 1975. Information on the morphology of the larvae isgiven and the most important diagnostic features are illustrated. In the context of already available keys, the larva of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;anten-&lt;/i&gt;&lt;i&gt;natus&lt;/i&gt; keys together with &lt;i&gt;Annitella&lt;/i&gt; &lt;i&gt;obscurata&lt;/i&gt; (McLachlan 1876) and &lt;i&gt;Annitella&lt;/i&gt; &lt;i&gt;thuringica&lt;/i&gt; (Ulmer 1909). The species may beseparated by the presence of setal groups between posteromedian and lateral metanotal sclerites in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;antennatus&lt;/i&gt; and differ-ences in head width, central prosternite proportions and lateral fringe length. &lt;i&gt;Allogamus&lt;/i&gt; &lt;i&gt;mendax&lt;/i&gt; keys together with &lt;i&gt;Allogamus&lt;/i&gt;&lt;i&gt;uncatus&lt;/i&gt; (Brauer 1857); both species are very similar except in head width. Finally, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pertuli&lt;/i&gt; keys with &lt;i&gt;Melampophylax&lt;/i&gt;&lt;i&gt;mucoreus&lt;/i&gt; (Hagen 1861) and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;nepos&lt;/i&gt; (McLachlan 1880). Whereas a setal band anterior of the lateral protuberance on the firstabdominal segment is present in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pertuli,&lt;/i&gt; such a feature is lacking in the two &lt;i&gt;Melampophylax&lt;/i&gt; species. With respect to distri-bution, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;antennatus&lt;/i&gt; is restricted to the southern Alps and the Appennine peninsula, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mendax&lt;/i&gt; to the western Alps and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pertuli&lt;/i&gt; is endemic to the Pindos region in Greece. In addition, ecological characteristics are briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">5th instar larva; description; identification; distribution</subject>
+          <subject_class locale="en_US">5th instar larva</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Johann</firstname>
+          <lastname>Waringer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wolfram</firstname>
+          <lastname>Graf</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hans</firstname>
+          <lastname>Malicky</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-38</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Colour polymorphism in a leafhopper species &lt;i&gt;Macropsis notata &lt;/i&gt;(Prohaska, 1923) (Hemiptera: Cicadellidae: Macropsinae) with new synonyms</title>
+        <abstract locale="en_US">Colour polymorphism in a leafhopper species &lt;i&gt;Macropsis&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt; (Prohaska, 1923) is investigated based on large quantitiesof materials from China, eight colour forms are recognized. The following new synonymies are proposed: &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;salicis&lt;/i&gt; Li, 1989 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;matsudanis&lt;/i&gt; Wei &amp; Cai, 1998 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;notata&lt;/i&gt; (Prohaska, 1923).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; morphology; distribution; China</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dmitri</firstname>
+          <middlename>Yu.</middlename>
+          <lastname>Tishechkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Renhuai</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zizhong</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-46</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Larval morphology of &lt;i&gt;Amphiops mater mater &lt;/i&gt;Sharp (Coleoptera: Hydrophilidae: Chaetarthriini)</title>
+        <abstract locale="en_US">The larval morphology of &lt;i&gt;Amphiops&lt;/i&gt; &lt;i&gt;mater&lt;/i&gt; &lt;i&gt;mater&lt;/i&gt; Sharp, 1873 is described, including chaetotaxy and morphological trans-formation between instars. Among genera of the family Hydrophilidae, the larvae of &lt;i&gt;Amphiops&lt;/i&gt; Erichson, 1843 may bedistinguished by the following combination of characters: coronal line present; clypeolabrum almost symmetrical; man-dibles symmetrical and with three inner teeth; dorsal surface of palpomere 1 completely sclerotized; mentum with stronglyprojecting and sharply pointed anterior corners; ligula absent; spiracular atrium well developed. Several primary sensillaare absent from all instars of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;mater&lt;/i&gt; &lt;i&gt;mater,&lt;/i&gt; in contrast to the stable chaetotaxy in the majority of Hydrophilidae species studied in detail to date.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">aquatic beetles; water scavenger beetle; Hydrophilinae; immature stage; morphological transformation; chaetotaxy; Japan</subject>
+          <subject_class locale="en_US">aquatic beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yûsuke</firstname>
+          <lastname>Minoshima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masakazu</firstname>
+          <lastname>Hayashi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-59</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Clastopus &lt;/i&gt;Fairmaire, 1898 (Coleoptera: Tenebrionidae: Pedinini) from Madagascar</title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Clastopus&lt;/i&gt; Fairmaire, 1898 is described and illustrated. At present this genus consists of five speciesdistributed on the island of Madagascar: &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;aberlenci&lt;/i&gt; Iwan, 2005, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;eurynotoides&lt;/i&gt; Fairmaire, 1898, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ordinarius&lt;/i&gt; (Iwan, 1996),&lt;i&gt;C.&lt;/i&gt; &lt;i&gt;tenuiculus&lt;/i&gt; (Iwan, 1996) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;griswoldi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The material studied was acquired from California Academy of Sciences expeditions conducted between 2000 and 2002. A key is proposed to the species of &lt;i&gt;Clastopus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; darkling beetles; Platynotina; &lt;i&gt;Clastopus&lt;/i&gt; &lt;i&gt;griswoldi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Toliara Province</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dariusz</firstname>
+          <lastname>Iwan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcin</firstname>
+          <middlename>Jan</middlename>
+          <lastname>Kamiński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rolf</firstname>
+          <lastname>Aalbu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

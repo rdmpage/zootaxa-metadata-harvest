@@ -1,3 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3572.1</id>
+    <title locale="en_US">5 Dec. 2012</title>
+    <volume>3572</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Stachyops&lt;/i&gt;, a new nototanaid genus (Crustacea: Peracarida: Tanaidacea) from New Zealand, with remarks on nototanaid and tanaissuid phylogeny </title>
+        <abstract locale="en_US">A new genus and species, &lt;i&gt;Stachyops&lt;/i&gt; &lt;i&gt;sebparri,&lt;/i&gt; is described from the eulittoral of Cook Strait, New Zealand and is the firstrecord of a nototanaid from one of the main islands. A very small species, it has several morphological characters that areshared with some species of the Tanaissuidae, such as a narrow mandibular molar and fewer pereopods 4–6 carpal spines,yet retains some apparent plesiomorphic features more typical of the Nototanaidae or other ‘basal’ paratanaoideans. Aphylogenetic analysis does group it with the Nototanaidae &lt;i&gt;sensu&lt;/i&gt; Bird &amp; Larsen, but more phylogenetic studies of these two families are needed to clarify their composition, relationships, and validity.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tanaidacea; Nototanaidae; Tanaissuidae; &lt;i&gt;Stachyops&lt;/i&gt;; phylogenetics; taxonomy; Mana BioBlitz; New Zealand</subject>
+          <subject_class locale="en_US">Tanaidacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Graham</firstname>
+          <middlename>J.</middlename>
+          <lastname>Bird</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-10</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Transferability of genomes to the next generation: the fundamental criterion for the biological species </title>
+        <abstract locale="en_US">Biological species as the basic units in biodiversity unify organisms that are similar in structure, development andecological demands. Since Darwin’s work on the origin of species, intensive efforts have been mounted to find a criterionfor biological species that is common to all organisms, prokaryotes as well as eukaryotes, making species natural units.This has led to numerous species concepts, but none have met the requirement of universal application. Additionally, manyconcepts are based on criteria that can be used only for recognizing species (operational criteria), not defining the ‘being’or make-up of the species (explanatory criteria). The definition of a species concept proposed herein regards species as apool of similar genotypes interconnected in successive generations. This pool can be homogeneous or be divided into sub-pools. Interconnectivity within such pools is given by transferability, which means the potential to transfer completegenomes or genome halves to the next generation, perpetuating transferability. A change in genotype frequencies oversuccessive generations is caused by preferred or restricted genome transfer due to intrinsic and/or extrinsic factors.Speciation is defined as splitting up or splitting off a pool of genotypes into pools with differing genotype frequencies, in combination with a definite loss of transferability of genomes or genome halves between these pools.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biological species; genotypes; genome transferability; speciation</subject>
+          <subject_class locale="en_US">Biological species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Johann</firstname>
+          <lastname>Hohenegger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>11-17</pages>
+        <date_published>2012-12-05</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">More than a number: clarifying the dates of publication of some papers of A. Doering on land and freshwater shells from Argentina and a note on his taxon &lt;i&gt;Clessinia &lt;/i&gt;(Odontostomidae) </title>
+        <abstract locale="en_US">The dates of publication of ten papers of A. Doering published from 1874–1879 in two Argentinan journals are reviewed.Seven of these papers appear to have been published later than their printed dates suggest. The status of one taxon described in these papers, &lt;i&gt;Clessinia&lt;/i&gt; Doering, 1875, is clarified.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mollusca; Gastropoda; Orthalicoidea; nomenclature; prioritization</subject>
+          <subject_class locale="en_US">Mollusca</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Abraham</firstname>
+          <middlename>S. H.</middlename>
+          <lastname>Breure</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <middlename>E.</middlename>
+          <lastname>Miquel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-22</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Brasilomma &lt;/i&gt;gen. nov., a new prodidomid genus from Brazil (Araneae, Prodidomidae) </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Brasilomma&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described to include &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;enigmatica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; collected in three caves from the state ofMinas Gerais, Brazil. This genus can be distinguished from the remaining South American Prodidomidae by the malepalps with large triangular projection, covering the base of the embolus, the distal border of the tegulum projected overthe base of the conductor and median apophysis and by the female epigynum with blind, posterior atrium and anteriorlywidened copulation ducts arising from an internal, mushroom-shaped plate. In addition, aspects of the species natural history are described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new genus; new species; caves; Brazil; taxonomy</subject>
+          <subject_class locale="en_US">new genus</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <middlename>Domingos</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>Lopes</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marconi</firstname>
+          <middlename>Souza</middlename>
+          <lastname>Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristina</firstname>
+          <middlename>Anne</middlename>
+          <lastname>Rheims</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-32</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new dwarfgobies from the Southwestern Pacific Ocean (Teleostei: Gobiidae: &lt;i&gt;Eviota&lt;/i&gt;) </title>
+        <abstract locale="en_US">Two species of &lt;i&gt;Eviota&lt;/i&gt; with red or orange bars crossing the body, a bifurcated 4th pelvic-fin ray with two long branches,and lacking many or all cephalic sensory-canal pores are described from Palau, Indonesia, and Papua New Guinea. &lt;i&gt;Eviota&lt;/i&gt;&lt;i&gt;jewettae&lt;/i&gt; has a dorsal/anal fin-ray formula of 8/8, 98% of the specimens lack all cephalic sensory-canal pores, 2–4 lowerpectoral-fin rays branched; non-filamentous dorsal-fin spines; short tubular anterior nares that are not black and are lessthan ½ pupil diameter in length, and five wide bars across the body. &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;pinocchioi&lt;/i&gt; has a dorsal/anal fin-ray formulaof 9/8, always lacks the POP and IT pores and the PITO and AITO pores are fused in about 50% of the specimens, un-branched pectoral-fin rays, males with filamentous dorsal-fin spines, tubular anterior nares black and very long, almost equal to the pupil diameter, and six narrow bars across body.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;jewettae&lt;/i&gt;; &lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;pinocchioi&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Eviota&lt;/i&gt; &lt;i&gt;jewettae&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>W.</middlename>
+          <lastname>Greenfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <lastname>Winterbottom</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-42</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Amphisbaena &lt;/i&gt;Linnaeus (Squamata, Amphisbaenidae) from the state of Maranhão, northern Brazilian Cerrado </title>
+        <abstract locale="en_US">We describe a new species of &lt;i&gt;Amphisbaena&lt;/i&gt; based on a single specimen collected in the northern Brazilian Cerrado,municipality of Loreto, state of Maranhão, Brazil. The new species is characterized by presenting a unique combinationof characters including: absence of precloacal pores, body annuli 306, caudal annuli 21, autotomic site in the eighth postcloacal annulus, dorsal sulci absent, 10 dorsal segments and 14 ventral segments in a midbody annulus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphisbaenia; &lt;i&gt;Amphisbaena&lt;/i&gt; new species; taxonomy; Cerrado</subject>
+          <subject_class locale="en_US">Amphisbaenia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jerriane</firstname>
+          <middlename>O.</middlename>
+          <lastname>Gomes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriano</firstname>
+          <middlename>O.</middlename>
+          <lastname>Maciel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Range Extensions and Taxonomic Notes on Atlantic Myxasteridae (Velatida; Asteroidea) </title>
+        <abstract locale="en_US">Newly collected specimens of the Atlantic &lt;i&gt;Myxaster&lt;/i&gt; &lt;i&gt;sol&lt;/i&gt; and a further record of &lt;i&gt;Pythonaster&lt;/i&gt; &lt;i&gt;atlantidis&lt;/i&gt; add to the knownoccurrence records and the morphological variation of these rarely encountered species. Distribution data suggests thatboth &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;sol&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;atlantidis&lt;/i&gt; are pan-Atlantic species and are similar to other widely distributed deep-sea asteroid species.Re-examination of the type of &lt;i&gt;Myxaster&lt;/i&gt; &lt;i&gt;perrieri&lt;/i&gt; further supports its placement within &lt;i&gt;Myxaster&lt;/i&gt; and not &lt;i&gt;Pythonaster&lt;/i&gt; as has been recently reported.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Christopher</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Annie</firstname>
+          <lastname>Mercier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Francois</firstname>
+          <lastname>Hamel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martha</firstname>
+          <lastname>Nizinski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Establishment of a new genus for &lt;i&gt;Cyclograpsus lophopus &lt;/i&gt;Nobili, 1905, within Sesarmidae Dana, 1851 (Crustacea: Decapoda: Brachyura) </title>
+        <abstract locale="en_US">The examination of the type series of the poorly known &lt;i&gt;Cyclograpsus&lt;/i&gt; &lt;i&gt;lophopus&lt;/i&gt; Nobili, 1905, which was originally placedin the varunid genus, &lt;i&gt;Cyclograpsus&lt;/i&gt; H. Milne Edwards, 1837, has revealed that it belongs instead to the family SesarmidaeDana, 1851. A new genus is also described for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lophopus&lt;/i&gt; because of its very distinct morphological characters, e.g. entire and nearly circular contour of the carapace with trigonal ocular peduncles, and short and flattened ambulatory legs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cyclograpsus&lt;/i&gt; &lt;i&gt;lophopus&lt;/i&gt; Nobili; 1905; &lt;i&gt;Cyclorma&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Sesarmidae; Varunidae; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cyclograpsus&lt;/i&gt; &lt;i&gt;lophopus&lt;/i&gt; Nobili</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tohru</firstname>
+          <lastname>Naruse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ngan</firstname>
+          <middlename>Kee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-12-05</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

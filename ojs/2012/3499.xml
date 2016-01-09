@@ -1,3 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3499.1</id>
+    <title locale="en_US">27 Sep. 2012</title>
+    <volume>3499</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Crinia &lt;/i&gt;(Anura: Myobatrachidae) from the Flinders Ranges, South Australia </title>
+        <abstract locale="en_US">We describe, as a new species, the northern Flinders Ranges populations of the myobatrachid frog &lt;i&gt;Crinia&lt;/i&gt; &lt;i&gt;riparia.&lt;/i&gt; It isdistinguished from &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;riparia&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto&lt;/i&gt; on the basis of reciprocal monophyly of mitochondrial genes, absence ofhaplotype sharing in a nuclear gene, fixed differences in allozyme loci and differences in larval oral disc morphologyconsistent with less adaptation to stream habitats. We were not able to reliably distinguish the taxa on the basis of adultmorphology. The geographic range of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;riparia&lt;/i&gt; &lt;i&gt;sensu&lt;/i&gt; &lt;i&gt;stricto&lt;/i&gt; is now reduced to a 75 kilometre section of the southernFlinders Ranges from Napperby Gorge in the south to Mt Brown in the north suggesting that an assessment of its conservation status is warranted.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">frog; &lt;i&gt;Crinia&lt;/i&gt;; conservation; larva; tadpole; mitochondrial DNA; taxonomy</subject>
+          <subject_class locale="en_US">frog</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <lastname>Donnellan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Anstis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>Price</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>Wheaton</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New, mainly southern hemisphere, freshwater families of Amphipoda (Crustacea), together with a description of the first freshwater calliopiid, &lt;i&gt;Lutriwita bradburyi &lt;/i&gt;gen. nov. et sp. nov. </title>
+        <abstract locale="en_US">Nine new freshwater amphipod families are described: Chillagoeidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Crangoweckeliidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt;Dussartiellidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Falklandellidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Giniphargidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Pseudingolfiellidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Sandroidae&lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.;&lt;/b&gt; Sensonatoridae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and Uronyctidae &lt;b&gt;fam.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The subfamily Seborgiinae Holsinger, 1980 is raised tofamily level and two families, Austroniphargidae Iannilli, Krapp &amp; Ruffo, 2011 and Pseudoniphargidae Karaman, 1993,are revised. The first freshwater example of the extensive marine family Calliopiidae, &lt;i&gt;Lutriwita&lt;/i&gt; &lt;i&gt;bradburyi&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from Australia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Tasmania; Australia; taxonomy; new family; new genus; new species; Austron-</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Myers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-45</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new and three known species of the genus &lt;i&gt;Tylencholaimellus &lt;/i&gt;Cobb in M.V. Cobb, 1915 (Nematoda: Dorylaimida) from Changbai Mountain, China </title>
+        <abstract locale="en_US">A new and three known species of the genus &lt;i&gt;Tylencholaimellus&lt;/i&gt; Cobb in M.V. Cobb, 1915 are described from ChangbaiMountain, Northeast China. &lt;i&gt;Tylencholaimellus&lt;/i&gt; &lt;i&gt;sinensis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; species is characterized by having a medium sized body (L=1.1–1.3 mm); outer cuticle with fine transverse striations; inner layer distinctly striated; radial refractive elementsabundant; labial disc absent; lip region offset by constriction; lips rounded and amalgamated; odontostyle 18–19 µm,odontophore 7–8 µm, combined length 25–27μm; anterior uterine sac 0.8–1.6 mid body diameters long; mono-opisthodelphic female genital system with small anterior uterine sac; transverse vulva and short conoid tail.&lt;i&gt;Tylencholaimellus&lt;/i&gt; &lt;i&gt;striatus&lt;/i&gt; Thorne, 1939, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;montanus&lt;/i&gt; Thorne, 1939 and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cinctus&lt;/i&gt; Orr &amp; Dickerson, 1965 are described for the first time from this region of the world.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Changbai Mountain; China; known species; new species; taxonomy; &lt;i&gt;Tylencholaimellus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Changbai Mountain</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Min</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sumaya</firstname>
+          <lastname>Ahad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Baniyamuddin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wenju</firstname>
+          <lastname>Liang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wasim</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-62</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Phylogenetic Relationships of Species of &lt;i&gt;Hypselobarbus &lt;/i&gt;(Cypriniformes: Cyprinidae): An Enigmatic Clade Endemic to Aquatic Systems of India </title>
+        <abstract locale="en_US">Very little is known about the diversity and systematics of the genus cypriniform genus &lt;i&gt;Hypselobarbus.&lt;/i&gt; Currently, the genusincludes at least eleven species, all endemic to freshwater systems of Peninsular India. While these species are commonlyknown in India and are frequently used as a food source, little is known about the morphological diversity within and betweenspecies and nothing is known regarding intraspecific genetic diversity or species relationships. Herein, we examine the geneticdiversity in the genus for 11 mitochondrial genes for eleven populations representing nine of the known 11 species.&lt;i&gt;Hypselobarbus&lt;/i&gt; is resolved as monophyletic, with the inclusion of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;carnaticus,&lt;/i&gt; and species relatioships are very stronglysupported. Because of the unambiguous relationships strongly supported &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;carnaticus&lt;/i&gt; is allocated to &lt;i&gt;Hypselobarbus.&lt;/i&gt; Thisresearch and ongoing morphological and molecular work with the genus supports the existence of additional new species inpeninsular India in need of further molecular and morphological study. Genetic diversity in the genus is high; for the twospecies wherein more than one sample, and the two of each are suspected to represent undescribed taxa, these populationsexhibited greater genetic divergence than that observed between any two of the other currently recognized species,corroborating our hypothesis based on morphological evidence. Clearly the genus warrants more thorough geographicsampling and examination of morphological and molecular data/analyses to reveal the natural lineages existing in this endemic and enigmatic genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mtDNA sequences; species; genetic divergence; Western Ghats</subject>
+          <subject_class locale="en_US">mtDNA sequences</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>M.</firstname>
+          <lastname>Arunachalam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Raja</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname>Muralidharan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>L.</middlename>
+          <lastname>Mayden</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-73</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Apoloniinae (Acari: Trombiculidae) from Oman </title>
+        <abstract locale="en_US">A new chigger mite genus and species, &lt;i&gt;Arabapolonia&lt;/i&gt; &lt;i&gt;omanensis&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from 4 gecko species,&lt;i&gt;Hemidactylus&lt;/i&gt; &lt;i&gt;lemurinus,&lt;/i&gt; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;homoeolepis&lt;/i&gt; (Gekkonidae), &lt;i&gt;Ptyodactylus&lt;/i&gt; &lt;i&gt;hasselquistii&lt;/i&gt; (Phyllodactylidae), and &lt;i&gt;Pristurus&lt;/i&gt;&lt;i&gt;rupestris&lt;/i&gt; &lt;i&gt;(Sphaerodactylidae)&lt;/i&gt; collected in Oman. The new genus is characterized by the simple cheliceral blade, singlepalpal claw, palpal tarsus 6BS, non-reduced scutum without nasus bearing 2 AM, 2 AL and 2 PL setae, flagelliformsensilla branched in the distal half, 2 pairs of eyes, 7-segmented legs with onychotriches, the absence of some leg setae(subterminala, parasubterminala, pretarsalae I and II, microgenuala II, tibiala III, and coxala II), the absence of the sternal setae between leg coxae I (fSt = 0.2.4), and by the presence of tracheae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">chiggers; fauna; systematics; Arabian Peninsula</subject>
+          <subject_class locale="en_US">chiggers</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexandr</firstname>
+          <middlename>A.</middlename>
+          <lastname>Stekolnikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Salvador</firstname>
+          <lastname>Carranza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Elena</firstname>
+          <lastname>Gomez-Diaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>74-80</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Catapagurus &lt;/i&gt;A. Milne-Edwards (Crustacea: Decapoda: Anomura: Paguridae) from Brazil, with a key to the western Atlantic species </title>
+        <abstract locale="en_US">We describe herein a new species of &lt;i&gt;Catapagurus,&lt;/i&gt; the twenty-second species of the genus. This is the third species of&lt;i&gt;Catapagurus&lt;/i&gt; recorded from the western Atlantic and the second from Brazil; the remaining 19 species occur in the IndoPacific region.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Catapagurus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;western&lt;/b&gt; &lt;b&gt;Atlantic&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;&lt;i&gt;Catapagurus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;from&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;western&lt;/b&gt; &lt;b&gt;Atlantic&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paulo</firstname>
+          <middlename>Ricardo</middlename>
+          <lastname>Nucci</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>Augusto Schmidt</middlename>
+          <lastname>De Melo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-85</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Allobates sumtuosus &lt;/i&gt;(Morales, ‘2000’ 2002) (Anura: Aromobatidae) from its type locality at Reserva Biológica do Rio Trombetas, Pará, Brazil. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pedro</firstname>
+          <middlename>Ivo</middlename>
+          <lastname>Simões</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Albertina</firstname>
+          <middlename>P.</middlename>
+          <lastname>Lima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>86-88</pages>
+        <date_published>2012-09-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

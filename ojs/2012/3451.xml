@@ -2,6 +2,63 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Genetic and morphological data support placement of &lt;i&gt;Myrmotherula gularis&lt;/i&gt; (Spix) in the monotypic genus &lt;i&gt;Rhopias &lt;/i&gt;Cabanis and Heine (Aves: Passeriformes: Thamnophilidae)</title>
+        <abstract locale="en_US">Recent DNA-based phylogenetic analyses of the family Thamnophilidae have shown that the genus &lt;i&gt;Myrmotherula&lt;/i&gt; ispolyphyletic. Traditional plumage-based taxonomy has been misleading in terms of identifying independently evolvinglineages within the complex. Here, we integrate a molecular phylogeny with morphometric information and ancestralreconstruction of syringeal character states of the Musculi vocales ventrales, to investigate the taxonomic position of &lt;i&gt;M.&lt;/i&gt;&lt;i&gt;gularis,&lt;/i&gt; a species for which phylogenetic affinities have long been uncertain. We show that &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gularis&lt;/i&gt; represents a longbranch in the tribe Thamnophilini that is not closely related to any other member of the &lt;i&gt;Myrmotherula&lt;/i&gt; complex. Itsrelationships within the tribe remain uncertain because of the lack of phylogenetic resolution at the base of the tribe. &lt;i&gt;M.&lt;/i&gt;&lt;i&gt;gularis&lt;/i&gt; shares a derived character state of the M. vocalis ventralis with &lt;i&gt;Taraba,&lt;/i&gt; &lt;i&gt;Hypoedaleus,&lt;/i&gt; and &lt;i&gt;Mackenziaena,&lt;/i&gt; whichsupports a close relationship between &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gularis&lt;/i&gt; and the large antshrikes. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gularis&lt;/i&gt; can be diagnosed from &lt;i&gt;Myrmotherula&lt;/i&gt;and &lt;i&gt;Epinecrophylla&lt;/i&gt; by this condition of its M. vocalis ventralis, and from &lt;i&gt;Isleria&lt;/i&gt; by plumage and other morphologicaltraits. The phylogenetic and morphological distinctiveness of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gularis&lt;/i&gt; does not warrant merging it into any other genus. We propose that this species be placed in a monotypic genus, for which the available name &lt;i&gt;Rhopias&lt;/i&gt; applies.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Antwren; &lt;i&gt;Musculus&lt;/i&gt; &lt;i&gt;vocalis&lt;/i&gt; &lt;i&gt;ventralis&lt;/i&gt;; phylogeny; syrinx; Atlantic Forest</subject>
+          <subject_class locale="en_US">Antwren</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Belmonte-Lopes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bravo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <middlename>R.</middlename>
+          <lastname>Bornschein</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Giovanni</firstname>
+          <middlename>N.</middlename>
+          <lastname>Maurício</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcio</firstname>
+          <middlename>R.</middlename>
+          <lastname>Pie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robb</firstname>
+          <middlename>T.</middlename>
+          <lastname>Brumfield</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa.3451.1</id>
     <title locale="en_US">4 Sep. 2012</title>
     <volume>3451</volume>
@@ -10,6 +67,128 @@
     <date_published>2012-09-04</date_published>
     <section>
       <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Phymaturus &lt;/i&gt;of the &lt;i&gt;patagonicus &lt;/i&gt;clade (Squamata, Liolaemidae) from isolated plateau of southwestern Rio Negro Province, Argentina</title>
+        <abstract locale="en_US">A new &lt;i&gt;Phymaturus&lt;/i&gt; species called &lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;sinervoi,&lt;/i&gt; is described in the present study. The new species is a member ofthe “Phymaturus &lt;i&gt;patagonicus”&lt;/i&gt; group from Patagonia. It lives at about 1100 m of altitude in a volcanic rocky habitat nearto Cari Laufquen plateau, in the southern-central steppe of Rio Negro Province, Argentina. The new species and the neigh-bouring related species of the genus from the “patagonicus” group are morphologically compared, and its distribution and natural history are pointed out.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;sinervoi&lt;/i&gt;; Liolaemidae; Patagonian Reptiles; rock-dwelling lizards; Argentina</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phymaturus&lt;/i&gt; &lt;i&gt;sinervoi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>Alejandro</middlename>
+          <lastname>Scolaro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fausto</firstname>
+          <middlename>Méndez</middlename>
+          <lastname>De La Cruz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nora</firstname>
+          <middlename>R.</middlename>
+          <lastname>Ibargüengoytía</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-30</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Coryphophylax &lt;/i&gt;Fitzinger in: Steindachner, 1867 (Sauria: Iguania: Agamidae) from the Andaman Islands, India</title>
+        <abstract locale="en_US">The systematic position of the agamid genus &lt;i&gt;Coryphophylax&lt;/i&gt; (Squamata: Agamidae) is given as monotypic and endemicto the Andaman and Nicobar Islands in the Bay of Bengal, India. After having surveyed intensively in thirteen differentIslands and examined several individuals in the Andamans group of islands, we describe a second species of&lt;i&gt;Coryphophylax&lt;/i&gt; from the lowland rainforests of the South Andaman Island. &lt;i&gt;Coryphophylax&lt;/i&gt; &lt;i&gt;brevicaudus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; isdifferentiated from its congener, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;subcristatus&lt;/i&gt; (Blyth, “1860” 1861) by its smaller size, relatively shorter tail, presenceof nuchal and dorsal crests in both sexes, midbody scale row counts and colour pattern. The new species lives in sympatrywith &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;subcristatus.&lt;/i&gt; The taxonomic history and systematic status of the genus &lt;i&gt;Coryphophylax&lt;/i&gt; are discussed, and the need for continued surveys in the Islands is emphasized.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Squamata; Iguania; Agamidae; &lt;i&gt;Coryphophylax&lt;/i&gt; &lt;i&gt;brevicaudus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Andaman Islands; India</subject>
+          <subject_class locale="en_US">Squamata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <lastname>Harikrishnan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karthikeyan</firstname>
+          <lastname>Vasudevan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>R.</middlename>
+          <lastname>Chandramouli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Choudhury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sushil</firstname>
+          <middlename>Kumar</middlename>
+          <lastname>Dutta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Indraneil</firstname>
+          <lastname>Das</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-45</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first electronic polytomous key to the world species of the subgenus &lt;i&gt;Typhlodromus &lt;/i&gt;(&lt;i&gt;Anthoseius&lt;/i&gt;) De Leon (Acari: Phytoseiidae)</title>
+        <abstract locale="en_US">This paper describes the first polytomous computerised identification key within the family Phytoseiidae. It applies to thefemales of the world species of the subgenus &lt;i&gt;Typhlodromus&lt;/i&gt; (Anthoseius) De Leon. This group is one of the largest withinthe family Phytoseiidae and the sub-family Typhlodrominae, with nearly 350 species currently recognised worldwide. Noidentification tool of these species exists at the world level, which makes their identification very difficult and unsecure.Thirty five characters were used to characterise each of the 343 species. Among these characters, 14 are discrete and 21are continuous. The polytomous key was constructed using the free software DELTA 1.04 (DEscription &lt;b&gt;Language&lt;/b&gt; for&lt;b&gt;TAxonomy)&lt;/b&gt; and is freely available at the web site: http://www1.montpellier.inra.fr/CBGP/phytoseiidae/anthoseiuskeypresentation.html. We hope that this work will open new perspectives for the identification of species ofother genera (especially the largest ones, &lt;i&gt;e.g.&lt;/i&gt; &lt;i&gt;Neoseiulus,&lt;/i&gt; &lt;i&gt;Euseius,&lt;/i&gt; &lt;i&gt;Amblyseius)&lt;/i&gt; which contains more than 150 species andfor which no key presently exists. We also expect that the present work will make the identification of the world speciesof &lt;i&gt;Typhlodromus&lt;/i&gt; (Anthoseius) easier and more secure. Finally, we expect a contribution from the whole Phytoseiidae scientist community to improve subsequent versions of the key.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; identification; Acari; predators</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <middlename>Akashi</middlename>
+          <lastname>Hernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Serge</firstname>
+          <lastname>Kreiter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marie-Stéphane</firstname>
+          <lastname>Tixier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-59</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Britorchestia&lt;/i&gt;, a new talitrid genus from western Europe and the Mediterranean Sea and a revision of &lt;i&gt;Pseudorchestoidea &lt;/i&gt;and &lt;i&gt;Sardorchestia&lt;/i&gt; (Crustacea, Amphipoda, Talitridae)</title>
+        <abstract locale="en_US">A new talitrid amphipod genus, &lt;i&gt;Britorchestia&lt;/i&gt; from western Europe and the Mediterranean Sea is described here and the genera &lt;i&gt;Pseudorchestoidea&lt;/i&gt; and &lt;i&gt;Sardorchestia&lt;/i&gt; are redescribed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Talitridae; &lt;i&gt;Britorchestia&lt;/i&gt;; &lt;i&gt;Pseudorchestoidea&lt;/i&gt;; &lt;i&gt;Sardorchestia&lt;/i&gt;; taxonomy; new genera</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arundathi</firstname>
+          <lastname>Bopiah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-67</pages>
+        <date_published>2012-09-04</date_published>
+      </article>
       <article language="en">
         <title locale="en_US">MURAT ÖZAYDINLI &amp; CH. OLIVER COLEMAN (2012) &lt;i&gt;Ampithoe bizseli &lt;/i&gt;n. sp. (Crustacea, Amphipoda) from the west coast of Turkey. &lt;i&gt;Zootaxa&lt;/i&gt;, 3388, 17–28. </title>
         <abstract locale="en_US"/>

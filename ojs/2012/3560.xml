@@ -1,3 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3560.1</id>
+    <title locale="en_US">23 Nov. 2012</title>
+    <volume>3560</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Detection of &lt;i&gt;Crocodylus mindorensis &lt;/i&gt;x &lt;i&gt;Crocodylus porosus &lt;/i&gt;(Crocodylidae) hybrids in a Philippine crocodile systematics analysis </title>
+        <abstract locale="en_US">The Philippine crocodile (Crocodylus &lt;i&gt;mindorensis)&lt;/i&gt; is considered one of the most endangered of the crocodilian species.Rumors or anecdotal concerns have existed for some time as to the possibility of hybrid individuals existing in a captivecollection under consideration for providing reintroduction candidates; however, visual observations failed to identify sus-pected hybrids. Samples were collected from 619 Philippine crocodiles from several captive facilities and two free-rang-ing populations. Mitochondrial DNA D-loop (601 bp) fragments were sequenced for each crocodile and compared to 28individuals representing ten crocodile species. Among Philippine crocodiles, 48 variable sites (47 parsimony informativesites) were identified, which defined six &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mindorensis&lt;/i&gt; haplotypes and one &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porosus-derived&lt;/i&gt; haplotype. Data were alsogenerated for a 965 bp fragment of the ND4 subunit gene fragment for two samples of each D-loop haplotype. Amongthem, 91 variable sites (90 parsimony informative site) were identified, which defined three &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mindorensis&lt;/i&gt; haplotypesand one &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porosus-derived&lt;/i&gt; haplotype. From the nuclear genome, the C-mos gene was successfully amplified for the 388bp partial fragment for all Philippine crocodile samples. Only two variable sites were identified. These sequences werecompared to GenBank sequences for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porosus.&lt;/i&gt; Of the 619 Philippine crocodile samples, 57 samples were found to har-bor D-loop haplotypes identified as &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porosus&lt;/i&gt; and 31 of those harbored C-mos mutational sites diagnostic for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porosus&lt;/i&gt;introgression. All individuals indicating &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mindorensis&lt;/i&gt; x &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;porosus&lt;/i&gt; hybridization were sampled from the Palawan Wildlife Rescue and Conservation Center.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">hybridization; mtDNA; C-mos; transthyretrin</subject>
+          <subject_class locale="en_US">hybridization</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>Aries G.</middlename>
+          <lastname>Tabora</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ma.</firstname>
+          <middlename>Rheyda P.</middlename>
+          <lastname>Hinlo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carolyn</firstname>
+          <middlename>A.</middlename>
+          <lastname>Bailey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Runhua</firstname>
+          <lastname>Lei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cayetano</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pomares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Glenn</firstname>
+          <lastname>Rebong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Merlijn</firstname>
+          <lastname>Van Weerd</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shannon</firstname>
+          <middlename>E.</middlename>
+          <lastname>Engberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rick</firstname>
+          <middlename>A.</middlename>
+          <lastname>Brenneman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edward</firstname>
+          <middlename>E.</middlename>
+          <lastname>Louis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-11-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Macrobrachium hungi, &lt;/i&gt;a new freshwater palaemonid prawn (Decapoda: Caridea: Palaemonidae) from the Tonle Sap Great Lake of Cambodia </title>
+        <abstract locale="en_US">A new species of the genus &lt;i&gt;Macrobrachium,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;hungi&lt;/i&gt; was collected in theTonléSap Great Lake of Cambodia. The adultmales of this species show a close resemblance to &lt;i&gt;Macrobrachium&lt;/i&gt; &lt;i&gt;saigonense&lt;/i&gt; Xuân 2006, but they are larger, the rostrumis longer, distally directed upwards or not, with more numerous dorsal and ventral teeth; the tubercles on both sides of thecutting edge on the distal portion of the movable finger are vestigial or crescent shape and less prominent than those of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;saigonense.&lt;/i&gt; Notes on economic importance and its habitat which differs from &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;saigonense&lt;/i&gt; are briefly provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Palaemonidae &lt;i&gt;Macrobrachium,&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nguyen</firstname>
+          <lastname>Van Xuan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-40</pages>
+        <date_published>2012-11-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Oziella sibirica &lt;/i&gt;(Acari: Eriophyoidea: Phytoptidae), a new eriophyoid mite species described using confocal microscopy, COI barcoding and 3D surface reconstruction </title>
+        <abstract locale="en_US">&lt;i&gt;Oziella&lt;/i&gt; &lt;i&gt;sibirica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; collected from sedges (Cyperaceae: &lt;i&gt;Carex&lt;/i&gt; &lt;i&gt;macroura)&lt;/i&gt; in Siberia, Russia, is herein describedbased on the external morphology of all active instars using primarily conventional phase contrast microscopy, andon the female internal genitalia and prodorsal shield design using confocal laser scanning microscopy (CLSM)imaging and a 3D modelling technique. A partial mitochondrial COI gene sequence of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;sibirica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is alsoprovided, through GenBank, and this represents the first published record of any gene sequence data for the familyPhytoptidae. We present remarks on the phylogenetic significance of the position of setae &lt;i&gt;3a&lt;/i&gt; in immature instars oferiophyoids and on the ontogenic variability of the empodium morphology of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;sibirica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Using this speciesas a model, we propose a method for describing the internal genitalia of eriophyoids based on CLSM. We advocatethe use of CLSM imaging as a new, relatively simple technique for observing and describing the internal genitalia oferiophyoids, as these largely unexplored genitalic structures may provide phylogenetically meaningful informationfor improving the classification of this poorly understood group of mites. In addition, CLSM may complementconventional light microscopy techniques in facilitating the interpretation of external structures such as body ornamentation or chaetotaxy.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Prostigmata; Phytoptinae; phytophagous mites; internal genitalia; sedges; &lt;i&gt;Carex&lt;/i&gt;; monocots</subject>
+          <subject_class locale="en_US">Prostigmata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Philipp</firstname>
+          <middlename>E.</middlename>
+          <lastname>Chetverikov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frédéric</firstname>
+          <lastname>Beaulieu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tatjana</firstname>
+          <lastname>Cvrković</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Biljana</firstname>
+          <lastname>Vidović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Radmila</firstname>
+          <middlename>U.</middlename>
+          <lastname>Petanović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-60</pages>
+        <date_published>2012-11-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Hubbardiidae (Arachnida: Schizomida) from the Colombian Andes, with some taxonomic comments </title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Calima,&lt;/i&gt; and two new species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bremensis&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;valenciorum,&lt;/i&gt; of Hubbardiidae are here described,respectively from Bremen Forest, Filandia, Quindio department and Andinapolis, Trujillo, Valle del Cauca department,both localities located in the Colombian Andes. A comprehensive map of the South American species with a four-segmented female flagellum is presented, tables with characters of New World Hubbardiidae genera are provided. The relationships of the new genus within neotropical Hubbardiidae fauna is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Neotropic; South America; Colombia; &lt;i&gt;Calima&lt;/i&gt;; taxonomy</subject>
+          <subject_class locale="en_US">Neotropic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jairo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Moreno-González</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Osvaldo</firstname>
+          <middlename>Villarreal</middlename>
+          <lastname>M.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-78</pages>
+        <date_published>2012-11-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Pyrgeuma pyrgodesmoides, &lt;/i&gt;n. gen., n. sp., a new millipede from Malaysia with unusual surface structures (Diplopoda, Chordeumatida, Heterochordeumatidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Pyrgeuma&lt;/i&gt; &lt;i&gt;pyrgodesmoides&lt;/i&gt; n. gen., n. sp., is described from the Cameron Highlands of Malaysia as the sixth (or possiblyseventh) species and third genus of the millipede family Heterochordeumatidae. The new species is remarkable in its re-semblance to members of the unrelated polydesmidan family Pyrgodesmidae, an interesting case of convergent evolutionin the tropical soil and litter fauna. The dorsal surface of the body is covered in small, curved, spatulate microtrichia and the metzonital setae are reduced to nearly undetectable size.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>William</firstname>
+          <middlename>A.</middlename>
+          <lastname>Shear</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-86</pages>
+        <date_published>2012-11-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Circumscription, diagnosis and description of two subfamilies and one genus of Australo-Papuan robins (Aves: Passeriformes: Petroicidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Leslie</firstname>
+          <lastname>Christidis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martin</firstname>
+          <lastname>Irestedt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dianne</firstname>
+          <lastname>Rowe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Walter</firstname>
+          <middlename>E.</middlename>
+          <lastname>Boles</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Janette</firstname>
+          <middlename>A.</middlename>
+          <lastname>Norman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>86-88</pages>
+        <date_published>2012-11-23</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

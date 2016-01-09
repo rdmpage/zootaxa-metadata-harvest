@@ -1,3 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3344.1</id>
+    <title locale="en_US">13 Jun. 2012</title>
+    <volume>3344</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of Scissurellidae, Anatomidae, and Larocheidae (Mollusca: Gastropoda: Vetigastropoda) from New Zealand and beyond</title>
+        <abstract locale="en_US">Thirteen new species of Scissurellidae (Scissurella &lt;i&gt;regalis&lt;/i&gt; n. sp., &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;mechanica&lt;/i&gt; n. sp., &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;platyspira&lt;/i&gt; n. sp.,&lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;enigmatica&lt;/i&gt; n. sp., &lt;i&gt;Sinezona&lt;/i&gt; &lt;i&gt;wanganellica&lt;/i&gt; n. sp., &lt;i&gt;Satondella&lt;/i&gt; &lt;i&gt;azonata&lt;/i&gt; n. sp., &lt;i&gt;Satondella&lt;/i&gt; &lt;i&gt;bicristata&lt;/i&gt; n. sp.),Anatomidae (Anatoma &lt;i&gt;amydra&lt;/i&gt; n. sp., &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;kopua&lt;/i&gt; n. sp., &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;megascutula&lt;/i&gt; n. sp., &lt;i&gt;Anatoma&lt;/i&gt; &lt;i&gt;tangaroa&lt;/i&gt; n. sp.), andLarocheidae (Larochea &lt;i&gt;spirata&lt;/i&gt; n. sp., &lt;i&gt;Larocheopsis&lt;/i&gt; &lt;i&gt;macrostoma&lt;/i&gt; n. sp.) are described, all of which occur in New Zealandwaters. The greatest geographic source of new taxa is the islands and underwater features off northern New Zealand. The new shell-morphological term “sutsel” is introduced for the area between the SUTure and the SELenizone.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; shell; radula; New Zealand; Indo-Malayan Archipelago</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>L.</middlename>
+          <lastname>Geiger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bruce</firstname>
+          <middlename>A.</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2012-06-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Not all little brown frogs are the same: a new species of secretive and cryptic &lt;i&gt;Gephyromantis &lt;/i&gt;(Anura: Mantellidae) from Madagascar</title>
+        <abstract locale="en_US">We describe a new species of small diurnal frog of the genus &lt;i&gt;Gephyromantis&lt;/i&gt; from Mahasoa, a fragment of mid-altituderainforest in the northern central east of Madagascar, located to the north east of Lake Alaotra. Analysis of DNA sequencesof the mitochondrial 16S rRNA and cytochrome b genes and of the nuclear Rag 1 gene indicate that &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;mafy&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is closely related to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;eiselti&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;thelenae,&lt;/i&gt; that it is genetically distinct and when compared with the geneticdiversity of all species in the genus shows genetic differences similar to other pairs of species. These three species aremorphologically almost indistinguishable but the new species differs by a relevant and consistent genetic divergence inall markers studied, and by its advertisement calls composed of note series. The call is intermediate between &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;eiselti&lt;/i&gt; and&lt;i&gt;G.&lt;/i&gt; &lt;i&gt;thelenae,&lt;/i&gt; showing shorter note duration and higher repetition rate than in &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;thelenae&lt;/i&gt; and slightly longer note durationbut lower repetition rate than in &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;eiselti.&lt;/i&gt; The new species is known only from Mahasoa forest but due to its secretivehabits and cryptic morphology, we assume that it is more widespread in the mid-altitude rainforests east and north of Lake Alaotra that so far have been very poorly surveyed. We propose a Red List status of Data Deficient for the new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Madagascar; Mantellidae; Anura; new species; &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;mafy&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Madagascar</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Vieites</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Katharina</firstname>
+          <middlename>C.</middlename>
+          <lastname>Wollenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-46</pages>
+        <date_published>2012-06-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Siconema &lt;/i&gt;(Drilonematoidea: Ungellidae) parasitic in earthworms in Vietnam, and systematic relationships as inferred from ribosomal sequence data</title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Siconema&lt;/i&gt; (Drilonematoidea: Ungellidae) from Pu Mat Nature Reserve, Vietnam are described andillustrated. &lt;i&gt;Siconema&lt;/i&gt; &lt;i&gt;ovicallosum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is characterised by a wide female body, female caudal organs displaced toposterior extremity followed by short tail tip; males short, slim with caudal organs near cloacal opening and long, conicalposterior portion of tail; cephalic hooks in both sexes with sturdy base and thin, diverging blade tips; tubular stomaincorporated in hooks base; eggs with very thick shells and two suberose polar caps. It is most similar to &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;laticaudatum&lt;/i&gt;Ivanova &amp; Pham Van Luc, 1997 but is distinguished by much smaller males, their caudal organs, and the shape andornamentation of eggshells. &lt;i&gt;Siconema&lt;/i&gt; &lt;i&gt;diducuncinum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is characterised by a stoma that is confined in a tube thatprotrudes between thin hooks with widely distributed blades, caudal organs situated at long distance from the tail tip, eggsin the shape of a double-poled elongated lemon and presence of a copulatory disc in males. &lt;i&gt;Siconema&lt;/i&gt; &lt;i&gt;diducuncinum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;n.&lt;/b&gt; is most closely related to &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sinense&lt;/i&gt; Timm, 1966 but differs from it by having rounded &lt;i&gt;vs&lt;/i&gt; elongate pharyngeal bulb,thinner and smoother eggshells with more pronounced polar caps, twisted &lt;i&gt;vs&lt;/i&gt; straight ovary and a copulatory disc in males.By an elongated tail spike and bristling hook blades, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;diducuncinum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; shares similarities with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;neozelandicum&lt;/i&gt;Yeates &amp; Spiridonov, 1996 but differs in having a non-amalgamated hook base, presence of projecting stomatal tube,differently ornamented eggshells and a copulatory disk in males. A key to species of &lt;i&gt;Siconema&lt;/i&gt; is given. Phylogenetic relationships of the new species and other drilonematids are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; drilonematids; ungellids; earthworms; Vietnam</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>E.</firstname>
+          <middlename>S.</middlename>
+          <lastname>Ivanova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pham</firstname>
+          <lastname>Van Luc</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Spiridonov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-59</pages>
+        <date_published>2012-06-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A distinctive new species of the alpheid genus &lt;i&gt;Salmoneus &lt;/i&gt;Holthuis, 1955 (Crustacea: Decapoda: Caridea) from the northwestern Pacific</title>
+        <abstract locale="en_US">A new species of the alpheid shrimp genus &lt;i&gt;Salmoneus&lt;/i&gt; Holthuis, 1955, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pinguis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described based on the ho-lotype from Okinawa, Ryukyu Archipelago, Japan. An additional, much smaller and morphologically slightly differentspecimen from Panglao, Bohol Sea, the Philippines, is tentatively assigned to &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pinguis.&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The new species is oneof the most unusual members of &lt;i&gt;Salmoneus&lt;/i&gt; presenting a combination of several unique characters, including the unusuallystout, plump body; the carapace strongly domed dorsally, with a broadly rounded rostrum, and without orbital teeth; thesecond abdominal pleuron conspicuously enlarged; the fourth pleuron greatly overlapping the fifth pleuron; the antennularand antennal flagella furnished with long setae; and the major cheliped comparatively small, and with the distally blunt, slightly bulbous fingertips.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Caridea; Alpheidae; shrimp; &lt;i&gt;Salmoneus&lt;/i&gt;; new species; Japan; Philippines</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-06-13</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

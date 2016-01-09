@@ -1,3 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3385.1</id>
+    <title locale="en_US">11 Jul. 2012</title>
+    <volume>3385</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New data on African Cheloninae (Hymenoptera, Braconidae) show a strong biogeographic signal for taxa with spined propodea</title>
+        <abstract locale="en_US">Eight species of Cheloninae (Hymenoptera, Braconidae) are newly described: &lt;i&gt;Ascogaster&lt;/i&gt; &lt;i&gt;kibalensis&lt;/i&gt; Braet &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Chelonus&lt;/i&gt;&lt;i&gt;(Chelonus)&lt;/i&gt; &lt;i&gt;mayi&lt;/i&gt; Braet &amp; Rousse &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Chelonus&lt;/i&gt; (Microchelonus) &lt;i&gt;madagasakarensis&lt;/i&gt; Braet &amp; Rousse &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Chelonus&lt;/i&gt;(Microchelonus) &lt;i&gt;matilei&lt;/i&gt; Braet &amp; Rousse &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Chelonus&lt;/i&gt; (Microchelonus) &lt;i&gt;merdicus&lt;/i&gt; Rousse &amp; Braet &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Odontospha-&lt;/i&gt;&lt;i&gt;eropyx&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; Braet &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;leucocoxus&lt;/i&gt; Braet &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;Phanerotomella&lt;/i&gt; &lt;i&gt;erena&lt;/i&gt; Braet &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; They are all from theMalagasy subregion and several of them share the presence of spine-like apophyses on the propodeum. This character is cate-gorized for future phylogenetic use. The genus &lt;i&gt;Pachychelonus&lt;/i&gt; Brues, 1924 is recognized as junior synonym of the genus &lt;i&gt;Odon-&lt;/i&gt;&lt;i&gt;tosphaeropyx&lt;/i&gt; Cameron, 1910. Three new combinations are proposed &lt;i&gt;Odontosphaeropyx&lt;/i&gt; &lt;i&gt;maximus&lt;/i&gt; (Zettel, 2002) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;fulviventris&lt;/i&gt; (Brues, 1924) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;flavifasciatus&lt;/i&gt; (Zettel, 1990a) &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; for &lt;i&gt;Pachychelonus&lt;/i&gt; &lt;i&gt;maximus&lt;/i&gt; Zettel, 2002,&lt;i&gt;P.&lt;/i&gt; &lt;i&gt;fulviventris&lt;/i&gt; Brues, 1924 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;flavifasciatus&lt;/i&gt; Zettel, 1990a, respectively. Updated keys of species &lt;i&gt;Phanerotomella&lt;/i&gt; and &lt;i&gt;Odontosphaeropyx&lt;/i&gt; are provided. New distribution data about Cheloninae from Africa are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Description; new combinations; keys; spine-like; apophysis; Madagascar; Indian Ocean.</subject>
+          <subject_class locale="en_US">Description; new combinations; keys; spine-like; apophysis; Madagascar; Indian Ocean.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yves</firstname>
+          <lastname>Braet</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pascal</firstname>
+          <lastname>Rousse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Sharkey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2012-07-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Parasitoid phorid flies (Diptera: Phoridae) from the threatened leafcutter ant &lt;i&gt;Atta robusta &lt;/i&gt;Borgmeier (Hymenoptera: Formicidae)</title>
+        <abstract locale="en_US">Phorid flies are well known natural enemies of leafcutter ants, but there is no information on phorid species associatedwith the threatened species &lt;i&gt;Atta&lt;/i&gt; &lt;i&gt;robusta&lt;/i&gt; Borgmeier. During 2009 and 2010 we collected phorid parasitoids of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;robusta&lt;/i&gt;at Guriri Island, Espirito Santo (18o43’S; 39o 45’W) and at Rio de Janeiro city (23°01’S; 43°28’W). Three new specieswere found: &lt;i&gt;Eibesfeldtphora&lt;/i&gt; &lt;i&gt;breviloba&lt;/i&gt; Brown, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;digitata&lt;/i&gt; Brown, and &lt;i&gt;Myrmosicarius&lt;/i&gt; &lt;i&gt;exrobusta&lt;/i&gt; Brown. These species,the attack behavior of the two species of &lt;i&gt;Eibesfeldtphora,&lt;/i&gt; as well as the anti-parasitoid defense behavior of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;robusta,&lt;/i&gt; are described.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">host-parasitoid interactions; &lt;i&gt;Atta&lt;/i&gt;; &lt;i&gt;Eibesfeldtphora&lt;/i&gt;; &lt;i&gt;Myrmosicarius&lt;/i&gt;; Phoridae; Formicidae</subject>
+          <subject_class locale="en_US">host-parasitoid interactions</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Brian</firstname>
+          <middlename>V.</middlename>
+          <lastname>Brown</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <middlename>A. L.</middlename>
+          <lastname>Braganca</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Diego</firstname>
+          <middlename>S.</middlename>
+          <lastname>Gomes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jarbas</firstname>
+          <middlename>M.</middlename>
+          <lastname>Queiros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <middlename>C.</middlename>
+          <lastname>Teixeira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-38</pages>
+        <date_published>2012-07-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Goniagnathus &lt;/i&gt;Fieber (Hemiptera: Cicadellidae: Deltocephalinae: Goniagnathini) from China</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;subgenera&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;Chinese&lt;/b&gt; &lt;b&gt;&lt;i&gt;Goniagnathus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Fieber&lt;/b&gt; &lt;b&gt;(males)&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;subgenera&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;Chinese&lt;/b&gt; &lt;b&gt;&lt;i&gt;Goniagnathus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Fieber&lt;/b&gt; &lt;b&gt;(males)&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yani</firstname>
+          <lastname>Duan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-42</pages>
+        <date_published>2012-07-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Seven new species of the leafhopper genus &lt;i&gt;Tambocerus &lt;/i&gt;(Hemiptera: Cicadellidae) from the Indian subcontinent</title>
+        <abstract locale="en_US">Seven new species of the genus &lt;i&gt;Tambocerus&lt;/i&gt; Zhang &amp; Webb, &lt;i&gt;Tambocerus&lt;/i&gt; &lt;i&gt;acutus&lt;/i&gt; sp. nov., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;cholas&lt;/i&gt; sp. nov. (both from India:Tamil Nadu), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;daii&lt;/i&gt; sp. nov. (India: Kerala), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;furcostylus&lt;/i&gt; sp. nov. (India: Karnataka, Tamil Nadu), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;krameri&lt;/i&gt; sp. nov. (India,Karnataka; Sri Lanka), &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;nilgiris&lt;/i&gt; sp. nov. (India: Tamil Nadu) and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;zahniseri&lt;/i&gt; sp. nov (India: Karnataka) are described andillustrated. &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;viraktamathi&lt;/i&gt; Rao is redescribed and illustrated. A key to species of &lt;i&gt;Tambocerus&lt;/i&gt; from the Indian subcontinent is also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; new species; morphology; Deltocephalinae; Selenocephalini</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>C.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Viraktamath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-61</pages>
+        <date_published>2012-07-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Synopsis of the genus &lt;i&gt;Mimothestus &lt;/i&gt;Pic with description of a new species from China (Coleoptera: Cerambycidae: Lamiinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Mimothestus&lt;/i&gt; Pic, 1935 is reviewed. A new species, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;luteicornis,&lt;/i&gt; is described and illustrated, and two species are redescribed. A key to the four species is presented along with photographs of available species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Mimothestus&lt;/i&gt;; Cerambycidae; new species; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Mimothestus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guang-Lin</firstname>
+          <lastname>Xie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wen-Kai</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-07-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

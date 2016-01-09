@@ -1,3 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3392.1</id>
+    <title locale="en_US">18 Jul. 2012</title>
+    <volume>3392</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A history of biogeographical regionalisation in Australia</title>
+        <abstract locale="en_US">The development of Australian biogeographical regionalisation since 1858 has been driven by colonial 19th-centuryexploration and by the late 20th-century biodiversity crisis. The intervening years reduced existing large scaleregionalisation into smaller taxon specific areas of vegetation or endemism. However, large scale biotic biogeographicalregionalisation was rediscovered during multi-disciplinary meetings and conferences, sparking short-term revivals whichhave ended in constant revisions at smaller and smaller taxonomic scales. In 1995 and 1998, the Interim BiogeographicRegionalisation for Australia and the Integrated Marine and Coastal Regionalisation of Australia, AustralianCommonwealth funded initiatives in order to “identify appropriate regionalisations to assess and plan for the protectionof biological diversity”, have respectively replaced 140 years of Australian biogeographical regionalisation schemes. Thispaper looks at the rise and slow demise of biogeographical regionalisation in Australia in light of a fractured taxonomic biogeographical community.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeographical regionalisation; biogeography; classification; colonialism; systematics; taxonomy</subject>
+          <subject_class locale="en_US">biogeographical regionalisation</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Malte</firstname>
+          <middlename>C.</middlename>
+          <lastname>Ebach</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-07-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Dendrelaphis &lt;/i&gt;Boulenger, 1890 (Squamata: Colubridae) from Thailand and Myanmar</title>
+        <abstract locale="en_US">A new species of the colubrid genus &lt;i&gt;Dendrelaphis&lt;/i&gt; Boulenger 1890 is described. &lt;i&gt;Dendrelaphis&lt;/i&gt; &lt;i&gt;nigroserratus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; oc-curs in a part of West Thailand as well as in the extreme south of Myanmar. Morphologically, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nigroserratus&lt;/i&gt; sp. nov. issimilar to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cyanochloris&lt;/i&gt; (Wall, 1921) with which it occurs sympatrically. It is distinguished from the latter by its highlyconspicuous neck coloration, high incidence of paired postparietal shields and its much larger size. In coloration, it resem-bles &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;striatus&lt;/i&gt; (Cohn, 1906) from which it is distinguished by several aspects of its morphology. The discovery of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nigroserratus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; underscores the notion that the hilly western parts of Thailand are in need of further exploration.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Dendrelaphis&lt;/i&gt; &lt;i&gt;cyanochloris&lt;/i&gt;; &lt;i&gt;Dendrelaphis&lt;/i&gt; &lt;i&gt;nigroserratus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Dendrelaphis&lt;/i&gt; &lt;i&gt;striatus&lt;/i&gt;; Indochina; Southeast Asia; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Dendrelaphis&lt;/i&gt; &lt;i&gt;cyanochloris&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Johan</firstname>
+          <lastname>Van Rooijen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sjon</firstname>
+          <lastname>Hauser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-46</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new polystomes (Monogenea: Polystomatidae) from the eyes of North American freshwater turtles</title>
+        <abstract locale="en_US">&lt;i&gt;Neopolystoma&lt;/i&gt; &lt;i&gt;moleri&lt;/i&gt; n. sp. and &lt;i&gt;Neopolystoma&lt;/i&gt; &lt;i&gt;grossi&lt;/i&gt; n. sp. are described as new polystome species on the eyes of &lt;i&gt;Apalone&lt;/i&gt;&lt;i&gt;ferox&lt;/i&gt; and &lt;i&gt;Pseudemys&lt;/i&gt; &lt;i&gt;concinna&lt;/i&gt; &lt;i&gt;floridana,&lt;/i&gt; respectively from Florida, USA. Eleven other polystome species are currently knownfrom chelonian hosts in the USA, but only &lt;i&gt;Neopolystoma&lt;/i&gt; &lt;i&gt;elizabethae&lt;/i&gt; and &lt;i&gt;Neopolystoma&lt;/i&gt; &lt;i&gt;fentoni&lt;/i&gt; were described from the eye.Ocular polystomes are characterized as having spindle-shaped eggs; an exceptionally firm grip on the host; as well as the abilityto stretch, which gives them the advantage of being stationary while extending to feed, reducing the risk of being dislodged.The two new species can be distinguished from known &lt;i&gt;Neopolystoma&lt;/i&gt; species by a combination of characteristics including marginal hooklet morphology.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">attachment; &lt;i&gt;Apalone&lt;/i&gt; &lt;i&gt;ferox&lt;/i&gt;; eye; Florida; freshwater turtle; &lt;i&gt;Pseudemys&lt;/i&gt; &lt;i&gt;concinna&lt;/i&gt; &lt;i&gt;floridana&lt;/i&gt;; North America; &lt;i&gt;Neopolystoma&lt;/i&gt;; &lt;i&gt;Neopolystoma&lt;/i&gt; &lt;i&gt;moleri&lt;/i&gt; n. sp.; &lt;i&gt;Neopolystoma&lt;/i&gt; &lt;i&gt;grossi&lt;/i&gt; n. sp.; Polystomatidae; USA</subject>
+          <subject_class locale="en_US">attachment</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Louis</firstname>
+          <middlename>H. Du</middlename>
+          <lastname>Preez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Christa</firstname>
+          <lastname>Morrison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-59</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Paracanthonchus multisupplementatus &lt;/i&gt;sp. n. and &lt;i&gt;Cyatholaimus minor &lt;/i&gt;sp. n. (Nematoda) from the coast of Vietnam</title>
+        <abstract locale="en_US">Two nematode species found on the coast of Vietnam are described and illustrated. &lt;i&gt;Paracanthonchus&lt;/i&gt; &lt;i&gt;multisupplementatus&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is morphologically close to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;multitubifer&lt;/i&gt; Timm, 1961, but differs from it the longer and slender tail (c = 9.1–11.0,c’ = 3.0•–3.4 in males, c = 8.1–8.7, c’ = 3.6–4.1 in females &lt;i&gt;versus&lt;/i&gt; c = 11.4–14.0, c’ = 2.3–2.8 in males, c = 10.2–10.4, c’= 2.1–2.8 in females), bigger dorsal tooth in stoma, larger diameter of amphidial fovea (40–55% of corresponding bodywidth &lt;i&gt;versus&lt;/i&gt; 15% of corresponding body width), longer spicules and gubernaculum (spicules 56–61 µm long, gubernac-ulum 36–43 µm long &lt;i&gt;versus&lt;/i&gt; spicules 36 µm long, gubernaculum 28 µm long) and more number of supplement organs(57–62 in number &lt;i&gt;versus&lt;/i&gt; 21–22 in number). &lt;i&gt;Cyatholaimus&lt;/i&gt; &lt;i&gt;minor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is close related to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;ocellatus&lt;/i&gt; Bastian, 1865, butis clearly distinct in the shorter body (L = 532–710 µm &lt;i&gt;versus&lt;/i&gt; L = 1100–1790 µm), slenderer tail (c’ = 3.5–4.3 &lt;i&gt;versus&lt;/i&gt; c’= 2.5–2.8), bigger dorsal tooth in stoma and shorter spicules and gubernaculum (spicules 21–22 µm long, gubernaculum 19–20 µm long &lt;i&gt;versus&lt;/i&gt; spicules 60 µm long, gubernaculum 52 µm long).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">free-living marine nematodes; new species; taxonomy; coastal Vietnam</subject>
+          <subject_class locale="en_US">free-living marine nematodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <middlename>G.</middlename>
+          <lastname>Gagarin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>60-68</pages>
+        <date_published>2012-07-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

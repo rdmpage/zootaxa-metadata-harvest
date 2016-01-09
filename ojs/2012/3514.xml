@@ -1,3 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3514.1</id>
+    <title locale="en_US">11 Oct. 2012</title>
+    <volume>3514</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Neotropical genus &lt;i&gt;Titanochrysa &lt;/i&gt;(Neuroptera, Chrysopidae): larval descriptions, biological notes, a new species, and taxonomic changes</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Catherine</firstname>
+          <middlename>A.</middlename>
+          <lastname>Tauber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <middlename>S.</middlename>
+          <lastname>Albuquerque</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maurice</firstname>
+          <middlename>J.</middlename>
+          <lastname>Tauber</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-10-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Antonina &lt;/i&gt;Signoret in China (Hemiptera: Coccoidea: Pseudococcidae), with description of a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>San-An</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yuan</firstname>
+          <lastname>Lu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nan</firstname>
+          <lastname>Nan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-42</pages>
+        <date_published>2012-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">DNA barcodes reveal cryptic genetic diversity within the blackfly subgenus &lt;i&gt;Trichodagmia &lt;/i&gt;Enderlein (Diptera: Simuliidae: &lt;i&gt;Simulium&lt;/i&gt;) and related taxa in the New World </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>Hernández-Triana</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>James</firstname>
+          <middlename>Lee</middlename>
+          <lastname>Crainey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andy</firstname>
+          <lastname>Hall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Farrah</firstname>
+          <lastname>Fatih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jacqueline</firstname>
+          <lastname>Mackenzie-Dodds</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anthony</firstname>
+          <middlename>John</middlename>
+          <lastname>Shelley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xin</firstname>
+          <lastname>Zhou</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rory</firstname>
+          <middlename>J.</middlename>
+          <lastname>Post</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>T.</firstname>
+          <middlename>Ryan</middlename>
+          <lastname>Gregory</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paul</firstname>
+          <middlename>David Neil</middlename>
+          <lastname>Hebert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-69</pages>
+        <date_published>2012-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the diverse Cretaceous genus &lt;i&gt;Cretevania &lt;/i&gt;Rasnitsyn, 1975 (Hymenoptera: Evaniidae) from Spanish amber </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <middlename>Pérez-De</middlename>
+          <lastname>La Fuente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Enrique</firstname>
+          <lastname>Peñalver</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jaime</firstname>
+          <lastname>Ortega-Blanco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>70-78</pages>
+        <date_published>2012-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and species of Tentyriini (Coleoptera: Tenebrionidae) from sand dunes in Namaqualand, South Africa </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wolfgang</firstname>
+          <lastname>Schawaller</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-83</pages>
+        <date_published>2012-10-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Skiallagma baueri &lt;/i&gt;Förster 1906, a geographically misplaced damselfly, is a junior synonym of &lt;i&gt;Xiphiagrion cyanomelas &lt;/i&gt;Selys 1876 (Odonata: Coenagrionidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rosser</firstname>
+          <middlename>W.</middlename>
+          <lastname>Garrison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>84-88</pages>
+        <date_published>2012-10-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

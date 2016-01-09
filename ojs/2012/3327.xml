@@ -1,3 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3327.1</id>
+    <title locale="en_US">29 May. 2012</title>
+    <volume>3327</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-29</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genus &lt;i&gt;Speocarcinus &lt;/i&gt;Stimpson, 1859 (Crustacea: Brachyura: Xanthidae), with a key to its species and the description of one new species</title>
+        <abstract locale="en_US">&lt;i&gt;Speocarcinus&lt;/i&gt; &lt;i&gt;dentatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from the southwestern Atlantic. The new species can be easily separated fromits congeners by a suite of carapace and appendage characters. &lt;i&gt;Speocarcinus&lt;/i&gt; Stimpson, 1859, now includes eight extantspecies, all from the Atlantic or Pacific coasts of the Americas. Additional characters to further differentiate between &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;carolinensis&lt;/i&gt; Stimpson, 1859, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;lobatus&lt;/i&gt; Guinot, 1969, and between &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;granulimanus&lt;/i&gt; Rathbun, 1894, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;spinicar-&lt;/i&gt;&lt;i&gt;pus&lt;/i&gt; Guinot, 1969 are documented. The lectotype of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;granulimanus&lt;/i&gt; is first described and a key to the species of &lt;i&gt;Speocarcinus&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; taxonomy; new species; Eubrachyura; western Atlantic; eastern Pacific</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marianna</firstname>
+          <lastname>Brandão</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petronio</firstname>
+          <middlename>Alves</middlename>
+          <lastname>Coelho-Filho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marcos</firstname>
+          <lastname>Tavares</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2012-05-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Himantura randalli &lt;/i&gt;sp. nov., a new whipray (Myliobatoidea: Dasyatidae) from the Persian Gulf</title>
+        <abstract locale="en_US">A new whipray, &lt;i&gt;Himantura&lt;/i&gt; &lt;i&gt;randalli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; described from material collected off Bahrain, Kuwait and Qatar, appearsto be endemic to the Persian Gulf. It has been frequently confused with forms of the more widely distributed whipray&lt;i&gt;Himantura&lt;/i&gt; &lt;i&gt;gerrardi&lt;/i&gt; Gray and other presently unidentified species from the Indian Ocean. &lt;i&gt;Himantura&lt;/i&gt; &lt;i&gt;randalli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; isdistinguished from these species by a combination of characters, i.e. disc shape, morphometrics, squamation (includingits rapid denticle development and denticle band shape), plain dorsal disc coloration, and whitish saddles on a dark tail inyoung. It is a medium-sized whipray with a maximum confirmed size of 620 mm disc width (DW) and a birth size ofaround 150–170 mm DW. Males mature at approximately 400 mm DW. &lt;i&gt;Himantura&lt;/i&gt; &lt;i&gt;randalli&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is relatively abundantin the shallow, soft-sedimentary habitats of the Persian Gulf from where it is commonly taken as low-value or discarded bycatch of gillnet and trawl fisheries.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dasyatidae; &lt;i&gt;Himantura&lt;/i&gt; &lt;i&gt;randalli&lt;/i&gt;; Arabian whipray; new species; Persian Gulf; northwestern Indian Ocean</subject>
+          <subject_class locale="en_US">Dasyatidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>R.</middlename>
+          <lastname>Last</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>Mabel</middlename>
+          <lastname>Manjaji-Matsumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alec</firstname>
+          <middlename>B. M.</middlename>
+          <lastname>Moore</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-32</pages>
+        <date_published>2012-05-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the catfish genus &lt;i&gt;Trichomycterus &lt;/i&gt;from the La Plata River basin, southern Brazil, with comments on its putative phylogenetic position (Siluriformes: Trichomycteridae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Trichomycterus&lt;/i&gt; is a highly diverse group of Neotropical catfishes that encompass almost 60% of all the cur-rently recognized species of the Trichomycteridae. A new species of this genus, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;perkos,&lt;/i&gt; is herein described from tribu-taries of the Paranapanema and Uruguai River basins, southern Brazil. The new species exhibits a remarkable ontogeneticchange in its pigmentation, having a unique color pattern when adult. The adult pigmentation consists of three wide darkbrown stripes, located in an inner skin layer of trunk and caudal peduncle, combined with a superficial light brown freck-led pattern on the dorsum and caudal peduncle. Small, presumably juvenile specimens lack the superficial freckles butalready have the dark stripes, thus resembling the color pattern of a few other congeners. Nevertheless, several unequiv-ocal morphological features distinguish both juveniles and adults of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;perkos&lt;/i&gt; from these congeners. In spite of the diffi-culties in estimating phylogenetic relationships within &lt;i&gt;Trichomycterus,&lt;/i&gt; the new species is tentatively proposed as being the sister-taxon of a small group of species composed by &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;crassicaudatus,&lt;/i&gt; &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;igobi,&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;stawiarski.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Loricarioidea; Ontogeny; Pigmentation; Paranapanema River; Uruguai River</subject>
+          <subject_class locale="en_US">Loricarioidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aléssio</firstname>
+          <lastname>Datovo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Murilo</firstname>
+          <lastname>Carvalho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juliano</firstname>
+          <lastname>Ferrer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-44</pages>
+        <date_published>2012-05-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Acanthocobitis pictilis&lt;/i&gt;, a new species of loach from Myanmar and Thailand (Teleostei: Nemacheilidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Acanthocobitis&lt;/i&gt; &lt;i&gt;pictilis,&lt;/i&gt; new species, is described from the Ataran drainage in Myanmar and the Mae Khlong drainage inThailand. It had earlier been misidentified as &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rubidipinnis.&lt;/i&gt; It is distinguished by, among other characters, its colour pat-tern, especially the dark brown triangular saddles in the upper half of the body, strongly slanted anteriorly and becomingalmost vertical posteriorly, becoming paler in the middle, and forming pairs of narrow saddles in large individuals; lateralline complete; 12 ½ or 13 ½ branched dorsal-fin rays. &lt;i&gt;Acanthocobitis&lt;/i&gt; &lt;i&gt;mandalayensis&lt;/i&gt; is a valid species, removed from the synonymy of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;botia.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Acanthocobitis&lt;/i&gt; &lt;i&gt;botia&lt;/i&gt;; &lt;i&gt;Acanthocobitis&lt;/i&gt; &lt;i&gt;mandalayensis&lt;/i&gt;; &lt;i&gt;Nemacheilus&lt;/i&gt;; Ataran River; Mae Khlong; Meklong River; Kwai River</subject>
+          <subject_class locale="en_US">&lt;i&gt;Acanthocobitis&lt;/i&gt; &lt;i&gt;botia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maurice</firstname>
+          <lastname>Kottelat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-52</pages>
+        <date_published>2012-05-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of the rare genus &lt;i&gt;Epacrolaimus &lt;/i&gt;Andrássy, 2000 (Dorylaimida, Aporcelaimidae) and new data on male of &lt;i&gt;Paraxonchium&lt;/i&gt; &lt;i&gt;laetificans &lt;/i&gt;(Andrássy, 1956) Altherr &amp; Loof, 1969 (Dorylaimida, Paraxonchiidae) from Iran</title>
+        <abstract locale="en_US">&lt;i&gt;Epacrolaimus&lt;/i&gt; &lt;i&gt;reyesi&lt;/i&gt; n. sp., an amphimictic species of a rare nematode genus, is described and illustrated. The new species ischaracterised by its long body (7.23–7.87 mm), 32 µm wide lip region, with well developed and distinct lips and liplets pro-vided with longitudinal corrugation on their inner surface; 19–22 µm long odontostyle with a wide, arched aperture occupying&lt;i&gt;ca&lt;/i&gt; 85% of its length; 45–56 µm long odontophore; 55–67 µm long rounded tail, nine regularly spaced ventromedian supple-ments in males and 135–145 µm long spicules. The new species is compared with two other known species of the genus,namely &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;declinatoaculeatus&lt;/i&gt; (Kreis, 1924) Andrássy, 2000 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;imperator&lt;/i&gt; Andrássy, 2000. Compared to the former, thenew species has a rounded tail in females &lt;i&gt;vs&lt;/i&gt; bluntly conoid, rounded on tip or with a minute peg, shorter tail (55–67 &lt;i&gt;vs&lt;/i&gt; 63–75µm) shorter spicules (135–145 &lt;i&gt;vs&lt;/i&gt; 215 µm) and fewer male copulatory supplements (9 &lt;i&gt;vs&lt;/i&gt; 12). Compared to the latter species, &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;reyesi&lt;/i&gt; n. sp. is wider at the midbody region (172–178 &lt;i&gt;vs&lt;/i&gt; 156–160 µm), and has a shorter tail (55–67 &lt;i&gt;vs&lt;/i&gt; 84 µm in females and58–65 &lt;i&gt;vs&lt;/i&gt; 70–86 µm in males), shorter spicules (135–145 &lt;i&gt;vs&lt;/i&gt; 202–210 µm) and fewer male copulatory supplements (9 &lt;i&gt;vs&lt;/i&gt; 14–16).From both species the new species differs by having a rounded tail &lt;i&gt;vs&lt;/i&gt; convex-conoid or slightly subdigitate. Beside the newspecies, a population of &lt;i&gt;Paraxonchium&lt;/i&gt; &lt;i&gt;laetificans&lt;/i&gt; (Andrássy, 1956) Altherr &amp; Loof, 1969 with relatively numerous males wasfound from forests of northern Iran. The male of this species, which had not been found in Iran so far and had been described on two specimens only, is described and illustrated in detail.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dorylaimoidea; Iranian fauna; morphology; nematodes; taxonomy</subject>
+          <subject_class locale="en_US">Dorylaimoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Majid</firstname>
+          <lastname>Pedram</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ebrahim</firstname>
+          <lastname>Pourjam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>T.</middlename>
+          <lastname>Vinciguerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-05-29</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the spider genus &lt;i&gt;Tropizodium &lt;/i&gt;Jocqué &amp; Churchill, 2005 with notes on the femoral organ clade from Southeast Asia (Araneae, Zodariidae, Zodariinae)</title>
+        <abstract locale="en_US">Four species of &lt;i&gt;Tropizodium&lt;/i&gt; Jocqué &amp; Churchill, 2005 are newly recognized from Southeast Asia of which two speciesare new: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;siam&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from northern Thailand and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;murphyorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Bali, Indonesia. &lt;i&gt;Tropizodium&lt;/i&gt; &lt;i&gt;serrafer-&lt;/i&gt;&lt;i&gt;um&lt;/i&gt; (Lin &amp; Li, 2009) comb. nov. is here transferred from &lt;i&gt;Zodariellum&lt;/i&gt; Andreeva &amp; Tyschchenko, 1968. The monotypicgenus, &lt;i&gt;Indozodion&lt;/i&gt; Ovtchinnikov, 2006, is considered a junior synonym of &lt;i&gt;Tropizodium.&lt;/i&gt; Its single species consequently becomes &lt;i&gt;Tropizodium&lt;/i&gt; &lt;i&gt;inayatullahi&lt;/i&gt; (Ovtchinnikov, 2006) comb. nov.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Asia; taxonomy; new species; &lt;i&gt;Tropizodium&lt;/i&gt;; new synonymy</subject>
+          <subject_class locale="en_US">Asia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pakawin</firstname>
+          <lastname>Dankittipakul</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rudy</firstname>
+          <lastname>Jocqué</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tippawan</firstname>
+          <lastname>Singtripop</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-05-29</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

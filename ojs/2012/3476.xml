@@ -1,3 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3476.1</id>
+    <title locale="en_US">10 Sep. 2012</title>
+    <volume>3476</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New euophryine jumping spiders from the Dominican Republic and Puerto Rico (Araneae: Salticidae: Euophryinae)</title>
+        <abstract locale="en_US">Twenty four new species and three new genera of euophryine jumping spiders from two Caribbean Islands, Hispaniolaand Puerto Rico, are described. The new genera are &lt;i&gt;Corticattus&lt;/i&gt; (C. &lt;i&gt;guajataca&lt;/i&gt; sp. nov. and the type species &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;latus&lt;/i&gt; sp.nov.), &lt;i&gt;Popcornella&lt;/i&gt; (P. &lt;i&gt;furcata&lt;/i&gt; sp. nov., &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;nigromaculata&lt;/i&gt; sp. nov., &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;yunque&lt;/i&gt; sp. nov. and the type species &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;spiniformis&lt;/i&gt;sp. nov.) and &lt;i&gt;Truncattus&lt;/i&gt; (T. &lt;i&gt;cachotensis&lt;/i&gt; sp. nov., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;dominicanus&lt;/i&gt; sp. nov. and the type species &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;flavus&lt;/i&gt; sp. nov.). The othernew species belong to the genera &lt;i&gt;Agobardus&lt;/i&gt; (A. &lt;i&gt;bahoruco&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;cordiformis&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gramineus&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;oviedo&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;phylladiphilus&lt;/i&gt; sp. nov.), &lt;i&gt;Anasaitis&lt;/i&gt; (A. &lt;i&gt;adorabilis&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brunnea&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hebetata&lt;/i&gt; sp. nov., &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;laxa&lt;/i&gt; sp. nov.), &lt;i&gt;Antillattus&lt;/i&gt; (A. &lt;i&gt;applanatus&lt;/i&gt; sp. nov.), &lt;i&gt;Bythocrotus&lt;/i&gt; (B. &lt;i&gt;crypticus&lt;/i&gt; sp. nov.) and &lt;i&gt;Corythalia&lt;/i&gt; (C. &lt;i&gt;broccai&lt;/i&gt; sp. nov.,&lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bromelicola&lt;/i&gt; sp. nov., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;coronai&lt;/i&gt; sp. nov., &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;peblique&lt;/i&gt; sp. nov.). Photographs of living spiders and diagnostic illustrations are provided for all of the new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Araneae; Salticidae; Euophryinae; new genera; new species; jumping spider; Caribbean Islands</subject>
+          <subject_class locale="en_US">Araneae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jun-Xia</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wayne</firstname>
+          <middlename>P.</middlename>
+          <lastname>Maddison</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-54</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New genus and new species of Cumacea (Crustacea: Peracarida) from the mesophotic coral ecosystem of SW Puerto Rico, Caribbean Sea</title>
+        <abstract locale="en_US">Recent collections of the benthic macroand meiofauna associated with the mesophotic coral ecosystems of Puerto Rico haverevealed two new Cumacea from the family Nannastacidae. A new genus &lt;i&gt;Cumellana&lt;/i&gt; and two new species, &lt;i&gt;Cumellana&lt;/i&gt;&lt;i&gt;caribbica&lt;/i&gt; and &lt;i&gt;Cumella&lt;/i&gt; &lt;i&gt;alexandrinae&lt;/i&gt; are described herein. The new genus &lt;i&gt;Cumellana&lt;/i&gt; can be distinguished from the other genera of the family Nannastacidae by having a long antennule and pereopod 2 with short terminal setae, equal in length.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cumacea; Nannastacidae; new genus; new species; Puerto Rico; mesophotic reefs.</subject>
+          <subject_class locale="en_US">Cumacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Iorgu</firstname>
+          <lastname>Petrescu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tapas</firstname>
+          <lastname>Chatterjee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nikolaos</firstname>
+          <middlename>V.</middlename>
+          <lastname>Schizas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-61</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Aulactinia sinensis&lt;/i&gt;, a new species of sea anemone (Cnidaria: Anthozoa: Actiniaria) from Yellow Sea</title>
+        <abstract locale="en_US">&lt;i&gt;Aulactinia&lt;/i&gt; &lt;i&gt;sinensis,&lt;/i&gt; a new species of sea anemone collected from the intertidal zone of Qingdao, Yellow Sea, is describedand illustrated. This species is elongated, becoming plump distally, has circumscribed sphincter, and with 48 vertical rowsof verrucae in upper column, 48 pairs of mesenteries and 96 short tentacles. It is similar in shape to &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;capitata&lt;/i&gt; Agassizin Verrill, 1864, but distinguished by its smaller basitrichs in tentacles and larger microbasic &lt;i&gt;p-mastigophores&lt;/i&gt; in actinopharynx and mesenterial filaments.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Actiniidae; Hexacorallia; new species; Yellow Sea</subject>
+          <subject_class locale="en_US">Actiniidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rui-Yu</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Pseudophryne &lt;/i&gt;(Anura: Myobatrachidae) from the central Australian ranges</title>
+        <abstract locale="en_US">The myobatrachid frog genus &lt;i&gt;Pseudophryne&lt;/i&gt; is highly variable in color pattern in eastern Australia where many speciesare distinguished by distinctive dorsal patterns. In contrast &lt;i&gt;Pseudophryne&lt;/i&gt; from the western half of the continent aremorphologically conservative. Two nominal species are widespread in south-western Australia and north-western SouthAustralia, with one, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;occidentalis,&lt;/i&gt; being found in semi-arid and arid regions. Using mitochondrial DNA andmorphological characters we establish that populations in the ranges of north-western South Australia assigned to &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;occidentalis&lt;/i&gt; are a separate species. The new species comprises one of four major lineages of &lt;i&gt;Pseudophryne&lt;/i&gt; while &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;occidentalis&lt;/i&gt; falls within another lineage confined to south-western Australia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mitochondrial DNA; frog; Myobatrachidae; &lt;i&gt;Pseudophryne&lt;/i&gt;; phylogeny; species; systematics</subject>
+          <subject_class locale="en_US">mitochondrial DNA</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Donnellan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <middlename>J.</middlename>
+          <lastname>Mahony</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>T.</firstname>
+          <lastname>Bertozzi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>69-85</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The tadpole of &lt;i&gt;Dendropsophus haddadi &lt;/i&gt;(Bastos &amp; Pombal 1996) (Hylidae: Hylinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <lastname>Lourenço-De-Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <middlename>Siqueira</middlename>
+          <lastname>Campos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luís</firstname>
+          <middlename>Felipe</middlename>
+          <lastname>Toledo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>86-88</pages>
+        <date_published>2012-09-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

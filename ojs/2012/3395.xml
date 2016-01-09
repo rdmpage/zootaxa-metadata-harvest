@@ -2,6 +2,91 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3395.1</id>
+    <title locale="en_US">23 Jul. 2012</title>
+    <volume>3395</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Precious corals (Octocorallia: Coralliidae) from the northern West Pacific region with descriptions of two New Species</title>
+        <abstract locale="en_US">Members of the family Coralliidae, known as precious corals, are ecologically and economically important deep-sea or-ganisms. However, these organisms are currently threatened by commercial harvesting. In order to create and implementeffective conservative strategies, taxonomic knowledge of conservative targets is necessary, but unfortunately the taxon-omy of precious corals in this family is still ambiguous. This study provides a review of 15 Coralliidae species from thenorthern West Pacific region and a key to species identification. In addition, descriptions of two new species, &lt;i&gt;Corallium&lt;/i&gt;&lt;i&gt;carusrubrum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;taiwanicum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; as well as a redescription of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;sulcatum&lt;/i&gt; Kishinouye, 1903 are included.&lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;carusrubrum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is distributed on seamounts off northeastern Taiwan. The autozooids of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;carusrubrum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt;&lt;b&gt;sp.&lt;/b&gt; are retractile and each can be fully withdrawn into the cortex thereby causing a mound on the surface which is shortand cylindrical rather than typically hemispherical; additionally, there are no long spindles in their tentacles. &lt;i&gt;Corallium&lt;/i&gt;&lt;i&gt;taiwanicum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is distributed in an area off southwestern Taiwan. It has special unique 8-radiates with an oval shapeand large projections. &lt;i&gt;Corallium&lt;/i&gt; &lt;i&gt;sulcatum&lt;/i&gt; is distributed from an area off southwestern Taiwan to western Japan. It hasbeen harvested and traded for decades, but there were no illustrations in its original description, hence a redescription of this species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Corallium&lt;/i&gt;; &lt;i&gt;Paracorallium&lt;/i&gt;; Taiwan</subject>
+          <subject_class locale="en_US">&lt;i&gt;Corallium&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tzu-Hsuan</firstname>
+          <lastname>Tu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chang-Feng</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming-Shiou</firstname>
+          <lastname>Jeng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2012-07-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Schweigger’s (1812) chelonian types from the extinct eighteenth century Portuguese “Royal cabinet of natural history of Ajuda”: some contributions for their identification and nomenclatural implications</title>
+        <abstract locale="en_US">The work &lt;i&gt;Prodromus&lt;/i&gt; &lt;i&gt;Monographiae&lt;/i&gt; &lt;i&gt;Cheloniorum,&lt;/i&gt; published by Schweigger in 1812, has recently been the subject ofseveral studies. One result of these studies—the rediscovery of the &lt;i&gt;Testudo&lt;/i&gt; &lt;i&gt;gigantea&lt;/i&gt; Schweigger, 1812holotype—triggered an intense debate in The Bulletin of Zoological Nomenclature, where, among other issues in dispute,the identity and nature of the specimen indicated as the holotype for the species is put in question. Using historical sources,mostly unpublished, and analysis and comparison of taxidermic characteristics of the specimen with other specimens ofthe same nature, we can clearly trace its origin to the extinct Royal Cabinet of Natural History of Ajuda in Lisbon, fromthe “philosophical &lt;i&gt;journey”&lt;/i&gt; of Alexandre Rodrigues Ferreira to the specimens transported to Paris by Geoffroy Saint-Hilaire in 1808, thus helping dispel any doubts regarding the identity and nature of what is being identified as the &lt;i&gt;Testudo&lt;/i&gt;&lt;i&gt;gigantea&lt;/i&gt; holotype, along with other chelonian specimens. This information is of great importance in the current taxonomicdebate as well as in recognizing the historic importance of the Royal Cabinet of Natural History of Ajuda and Geoffroy Saint-Hilaire’s 1808 mission to Lisbon.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alexandre Rodrigues Ferreira; August Friedrich Schweigger; &lt;i&gt;Testudo&lt;/i&gt; &lt;i&gt;gigantea&lt;/i&gt;; &lt;i&gt;Podocnemis&lt;/i&gt; &lt;i&gt;expansa&lt;/i&gt;; &lt;i&gt;Phrynops&lt;/i&gt; &lt;i&gt;geoffroanus&lt;/i&gt;; Royal Cabinet of Natural History of Ajuda; Muséum national d’Histoire naturelle</subject>
+          <subject_class locale="en_US">Alexandre Rodrigues Ferreira</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luis</firstname>
+          <middlename>M. P.</middlename>
+          <lastname>Ceríaco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roger</firstname>
+          <lastname>Bour</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-32</pages>
+        <date_published>2012-07-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Latrunculia &lt;/i&gt;from the Agulhas shelf, South Africa, with designation of a type species for subgenus &lt;i&gt;Biannulata&lt;/i&gt; (Demospongiae, Poecilosclerida, Latrunculiidae)</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Latrunculia&lt;/i&gt; are described from Algoa Bay, and Alphard and 45-Mile Banks, on the Agulhascontinental shelf off the southern coast of South Africa. &lt;i&gt;Latrunculia&lt;/i&gt; &lt;i&gt;gotzi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Alphard Banks, forms a thickraised pad with broad, low, meandering areolate porefields that are characteristically lighter in colour than the surroundingmahogany brown ectosome. &lt;i&gt;Latrunculia&lt;/i&gt; &lt;i&gt;kerwathi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from 45-Mile Banks, forms a thin, dark greenish brownencrustation, with very small, discrete, crater-shaped porefields. &lt;i&gt;Latrunculia&lt;/i&gt; &lt;i&gt;algoaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Algoa Bay, is agreen hemisphere with relatively large, thick-lipped, circular areolate porefields. While the megascleres in these newspecies vary specifically in their dimensions, the former two species have small irregular spines on the styles. Theanisodiscorhabds of the new species also vary specifically in dimensions and degree of ornamentation, but have anundifferentiated basal whorl and manubrium, with only median and subsidiary whorls around the shaft. These are identicalin overall form to the anisodiscorhabds in several South African and New Zealand species currently recognised within thesubgenus &lt;i&gt;Latrunculia&lt;/i&gt; (Biannulata) Samaai &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2006, a group of 13 species for which no type species was ever assigned. A type species is designated herein.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Porifera; Latrunculiidae; &lt;i&gt;Latrunculia&lt;/i&gt;; &lt;i&gt;Latrunculia&lt;/i&gt; (Biannulata); new species; South Africa; sponges; taxonomy</subject>
+          <subject_class locale="en_US">Porifera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Toufiek</firstname>
+          <lastname>Samaai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liesl</firstname>
+          <lastname>Janson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michelle</firstname>
+          <lastname>Kelly</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-45</pages>
+        <date_published>2012-07-23</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa.3369.1</id>
     <title locale="en_US">23 Jul. 2012</title>
     <volume>3369</volume>
@@ -19,6 +104,128 @@
           <subject_class locale="en_US"><![CDATA[]]></subject_class>
         </indexing>
         <pages>46</pages>
+        <date_published>2012-07-23</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3395.1</id>
+    <title locale="en_US">23 Jul. 2012</title>
+    <volume>3395</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Diopatra &lt;/i&gt;(Onuphidae: Polychaeta) from intertidal sediments in southwestern Europe</title>
+        <abstract locale="en_US">Intertidal populations of &lt;i&gt;Diopatra&lt;/i&gt; from Spanish, Portuguese and French Atlantic beaches have traditionally been identified as&lt;i&gt;D.&lt;/i&gt; &lt;i&gt;neapolitana.&lt;/i&gt; This species is present, mainly in Spain and Portugal. However, at least some French beaches are occupied bya distinct species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;biscayensis,&lt;/i&gt; here described as new. In addition, in Portugal and Spain, a third species, here described asnew, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;cryptornata,&lt;/i&gt; will also key out as &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;neapolitana&lt;/i&gt; using standard keys, but is morphologically distinct. The three speciescan be separated not only on traditional characters, but also on obvious differences in anterior morphology not usuallyconsidered in descriptions. The French habitats now occupied by &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;biscayensis,&lt;/i&gt; previously had populations of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;neapolitana&lt;/i&gt;alone as documented by collections in the Paris Museum made by Quatrefages and Saint-Joseph in the mid-late 1800s.&lt;i&gt;Diopatra&lt;/i&gt; &lt;i&gt;marocensis&lt;/i&gt; has recently been reported from Atlantic waters, from both intertidal and subtidal areas. Since this speciescan be confused with the three species named above, a partial re-description based on paratype material is included here.Finally, a fifth species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;micrura,&lt;/i&gt; has recently been described from the area and is here briefly characterized based on the original description. A key to all five species has been constructed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Annelida; SW Europe; Atlantic Ocean; Intertidal</subject>
+          <subject_class locale="en_US">Annelida; SW Europe; Atlantic Ocean; Intertidal</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kristian</firstname>
+          <lastname>Fauchald</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>Kosting</middlename>
+          <lastname>Berke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>Ann</middlename>
+          <lastname>Woodin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-58</pages>
+        <date_published>2012-07-23</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa..1</id>
+    <title locale="en_US">PublishDate</title>
+    <volume></volume>
+    <number>1</number>
+    <year></year>
+    <date_published><![CDATA[]]></date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Larval morphology of two species of the genus &lt;i&gt;Theloderma &lt;/i&gt;(Tschudi, 1838) from Vietnam (Anura: Rhacophoridae: Rhacophorinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anna</firstname>
+          <lastname>Gawor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Simone</firstname>
+          <lastname>Chapuis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cuong</firstname>
+          <middlename>The</middlename>
+          <lastname>Pham</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Truong</firstname>
+          <middlename>Quang</middlename>
+          <lastname>Nguyen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andreas</firstname>
+          <lastname>Schmitz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Ziegler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages></pages>
+        <date_published><![CDATA[]]></date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3395.1</id>
+    <title locale="en_US">23 Jul. 2012</title>
+    <volume>3395</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species and new records of &lt;i&gt;Tinus &lt;/i&gt;F. O. Pickard-Cambridge, 1901 (Araneae: Pisauridae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Estevam</firstname>
+          <middlename>L. Cruz</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
         <date_published>2012-07-23</date_published>
       </article>
     </section>

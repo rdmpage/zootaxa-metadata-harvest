@@ -1,3 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3434.1</id>
+    <title locale="en_US">22 Aug. 2012</title>
+    <volume>3434</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-22</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Cladistic analysis and revision of the &lt;i&gt;obstinata &lt;/i&gt;group, genus &lt;i&gt;Chinavia &lt;/i&gt;Orian (Hemiptera: Pentatomidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bruno</firstname>
+          <middlename>C.</middlename>
+          <lastname>Genevcius</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jocelia</firstname>
+          <lastname>Grazia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristiano</firstname>
+          <middlename>F.</middlename>
+          <lastname>Schwertner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2012-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the European &lt;i&gt;Delia pruinosa &lt;/i&gt;species group (Diptera: Anthomyiidae) feeding as larvae in seed capsules of &lt;i&gt;Silene &lt;/i&gt;L. (Caryophyllaceae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Verner</firstname>
+          <lastname>Michelsen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-48</pages>
+        <date_published>2012-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new tiger beetle (Coleoptera, Carabidae, Cicindelitae) species from the Tucuman-Bolivian forest in the National Tariquia Reserve, Bolivia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <lastname>Perger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Guerra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2012-08-22</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic study of the Oriental leafhopper genus &lt;i&gt;Kabakra &lt;/i&gt;Dworakowska (Hemiptera: Cicadellidae: Typhlocybinae: Erythroneurini), with description of three new species and one new record</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yanghui</firstname>
+          <lastname>Cao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Min</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yalin</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-08-22</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

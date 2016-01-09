@@ -2,6 +2,154 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3550.1</id>
+    <title locale="en_US">15 Nov. 2012</title>
+    <volume>3550</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Reappraisal of the taxonomic status of &lt;i&gt;Amphisbaena prunicolor &lt;/i&gt;(Cope 1885) and &lt;i&gt;Amphisbaena albocingulata &lt;/i&gt;Boettger 1885 (Amphisbaenia: Amphisbaenidae) </title>
+        <abstract locale="en_US">We revised the taxonomic status of &lt;i&gt;Amphisbaena&lt;/i&gt; &lt;i&gt;prunicolor&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;albocingulata,&lt;/i&gt; two taxa traditionally recognized assubspecies of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;prunicolor&lt;/i&gt; in the &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;darwini&lt;/i&gt; complex. Despite some authors elevated both taxa to the specific rank, itstaxonomic decisions were made without specific commentaries and/or proper diagnostic characters. The comparison ofmorphological characters between the two taxa with other similar species, associated with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;darwini&lt;/i&gt; (A. &lt;i&gt;darwini,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;heterozonata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;munoai&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;trachura),&lt;/i&gt; revealed a unique combination of diagnostic characters. &lt;i&gt;Amphisbaena&lt;/i&gt; &lt;i&gt;pruni-&lt;/i&gt;&lt;i&gt;color&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;albocingulata&lt;/i&gt; were considered distinct species, diagnosable by the presence of the postmalar row in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pru-&lt;/i&gt;&lt;i&gt;nicolor,&lt;/i&gt; absent in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;albocingulata&lt;/i&gt; and by the ventral colour pattern uniform (pale brown) in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;albocingulata&lt;/i&gt; andcheckerboard (brown-purplish and white) in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;prunicolor.&lt;/i&gt; We also provided a redescription of the two species, information on intraspecific variation in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;munoai&lt;/i&gt; and suggested the extension of the distribution of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;darwini&lt;/i&gt; to southern Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Morphology; Squamata; subspecies; species complex; &lt;i&gt;Amphisbaena&lt;/i&gt; &lt;i&gt;darwini&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renata</firstname>
+          <lastname>Perez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Síria</firstname>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Márcio</firstname>
+          <lastname>Borges-Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-11-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first troglobitic &lt;i&gt;Glomeridesmus &lt;/i&gt;from Brazil, and a template for a modern taxonomic description of Glomeridesmida (Diplopoda) </title>
+        <abstract locale="en_US">&lt;i&gt;Glomeridesmus&lt;/i&gt; &lt;i&gt;spelaeus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; the first Glomeridesmida described from Brazil and only the second known troglobiontof the order, is described from iron caves of the Amazonian. This description is the first in the order Glomeridesmida since1975, and also the first utilizing modern techniques like SEM. Numerous taxonomic characters, some employed in recentstudies of other millipedes, are described, illustrated, and compared for the first time in the Glomeridesmida, building afoundation for future phylogenetic studies, as well as future descriptions of new members of this basal, enigmatic, and stilllittle-known millipede order. The first photographs of a living Glomeridesmida, as well as anecdotal live observations, arepresented. The description of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;spelaeus&lt;/i&gt; is also important from a conservation point of view, since the cave system it inhabits is under anthropogenic pressure due to planned mining activities.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Glomeridesmida; caves; iron ore; conservation; Neotropics; Brazil</subject>
+          <subject_class locale="en_US">Glomeridesmida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Luiz</firstname>
+          <middlename>Felipe Moretti</middlename>
+          <lastname>Iniesta</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>Lopes</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <lastname>Wesener</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-42</pages>
+        <date_published>2012-11-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Deep-water decapod crustaceans studied with a remotely operated vehicle (ROV) in the Marquesas Islands, French Polynesia (Crustacea: Decapoda) </title>
+        <abstract locale="en_US">Decapod crustaceans were studied in the Marquesas Islands, French Polynesia, between 50–550 m by using a remotelyoperated vehicle (ROV) equipped with high resolution cameras and an articulated arm. Careful examination of videos andphotographs combined with previous inventories made in the area with conventional gears allowed the identification of30 species, including 20 species-level determinations. Species identified belong to shrimps (Penaeoidea, Stenopodidea,and Caridea), lobsters (Astacidea and Achelata), anomurans (Galatheoidea and Paguroidea), and brachyuran crabs(Dromioidea, Homolodromioidea, Raninoidea, Leucosioidea, Majoidea, Parthenopoidea, Portunoidea, and Trapezioidea).Most of these species were observed and photographed &lt;i&gt;in&lt;/i&gt; &lt;i&gt;situ&lt;/i&gt; for the first time. A discussion is given on the geographic distribution, density, ecology, and behavior.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">French Polynesia; Marquesas Islands; Crustacea; Decapoda; marine deep-water species; underwater observations; species’ habitats; ROV; ecology; inventory</subject>
+          <subject_class locale="en_US">French Polynesia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Joseph</firstname>
+          <lastname>Poupin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laure</firstname>
+          <lastname>Corbari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thierry</firstname>
+          <lastname>Pérez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pierre</firstname>
+          <lastname>Chevaldonné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-60</pages>
+        <date_published>2012-11-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new deep-water goatfish of the genus &lt;i&gt;Upeneus &lt;/i&gt;(Mullidae) from northern Australia and the Philippines, with a taxonomic account of &lt;i&gt;U. subvittatus &lt;/i&gt;and remarks on &lt;i&gt;U. mascareinsis &lt;/i&gt;</title>
+        <abstract locale="en_US">&lt;i&gt;Upeneus&lt;/i&gt; &lt;i&gt;stenopsis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described based on four specimens collected off northern Australia and Quezon Island,Philippines, at depths between 165 to 275 m and compared with four closely related species: the deep-water dwelling&lt;i&gt;Upeneus&lt;/i&gt; &lt;i&gt;davidaromi&lt;/i&gt; (Red Sea) and &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;mascareinsis&lt;/i&gt; (Western Indian Ocean) and the shallow Indo-West Pacific species,&lt;i&gt;U.&lt;/i&gt; &lt;i&gt;subvittatus&lt;/i&gt; and &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;vittatus.&lt;/i&gt; The new species can be distinguished from all other &lt;i&gt;Upeneus&lt;/i&gt; species by a narrow caudalpeduncle and a combination of morphometric and meristic characters. This is the first record of a deep-water goatfish ofthe genus &lt;i&gt;Upeneus&lt;/i&gt; from the Pacific. A juvenile &lt;i&gt;Upeneus&lt;/i&gt; collected off Quezon at 127–142 m depth was also assigned tothe new species and compared to four similar-sized (69–79 mm SL) specimens of &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;mascareinsis.&lt;/i&gt; A diagnosis is providedfor &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;subvittatus,&lt;/i&gt; along with evidence of its occurrence in the Eastern Indian Ocean and interspecific comparisons. Thecontinued need to screen scientific fish collections for the occurrence of undescribed species that have successfully colonized and adapted to the depth zone surrounding the ocean margin is outlined.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Upeneus&lt;/i&gt; &lt;i&gt;stenopsis&lt;/i&gt;; new species; ocean margin habitats; ontogeny</subject>
+          <subject_class locale="en_US">&lt;i&gt;Upeneus&lt;/i&gt; &lt;i&gt;stenopsis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Franz</firstname>
+          <lastname>Uiblein</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <lastname>Mcgrouther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-70</pages>
+        <date_published>2012-11-15</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The ghost crab &lt;i&gt;Ocypode mortoni &lt;/i&gt;George, 1982 (Crustacea: Decapoda: Ocypodidae): redescription, distribution at its type locality, and the phylogeny of East Asian &lt;i&gt;Ocypode &lt;/i&gt;species </title>
+        <abstract locale="en_US">The ghost crab &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt; George, 1982 was first described from the sandy shores of Sai Wan, Hong Kong, andalthough also identified from South China and Japan, has not been subsequently recorded in Hong Kong. The taxonomicstatus of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt; is not clear as its original morphological description was not detailed, and there remains no informa-tion on its vertical and horizontal ecological distribution in Hong Kong. In the present study, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt; was found to belocally rare in Hong Kong, only present at three of seven surveyed sites. It was always sympatric with the common &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;ceratophthalmus&lt;/i&gt; (Pallas, 1772) at the same tidal level, and there appeared to be no clear habitat/niche distinction. Relativeabundance of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt; vs. &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ceratophthalmus&lt;/i&gt; was at most 31%: 69% based on quantitative transect survey data fromSai Wan. Molecular phylogenetic analyses on 24 haplotypes (from 28 individuals) of 636-basepair (bp) mitochondrial cy-tochrome oxidase I (COI) gene of &lt;i&gt;Ocypode&lt;/i&gt; spp. in East Asia show &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt; is a valid species most closely related to &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;stimpsoni&lt;/i&gt; Ortmann, 1897, with an average difference of 37.64 bp, and nucleotide divergence of 6.25%. The two species are very similar morphologically, but adults of &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt; develop ocular stylets.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">ghost crab; &lt;i&gt;Ocypode&lt;/i&gt; &lt;i&gt;mortoni&lt;/i&gt;; redescription; East Asia; Hong Kong</subject>
+          <subject_class locale="en_US">ghost crab</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kingsley</firstname>
+          <middlename>J. H.</middlename>
+          <lastname>Wong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hsi-Te</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Benny</firstname>
+          <middlename>K. K.</middlename>
+          <lastname>Chan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>71-87</pages>
+        <date_published>2012-11-15</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa..1</id>
     <title locale="en_US">PublishDate</title>
     <volume></volume>

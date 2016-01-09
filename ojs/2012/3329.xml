@@ -1,3 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3329.1</id>
+    <title locale="en_US">31 May. 2012</title>
+    <volume>3329</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-31</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A taxonomic revision of the genus &lt;i&gt;Arcynopteryx &lt;/i&gt;Klapálek, 1904 (Plecoptera, Perlodidae)</title>
+        <abstract locale="en_US">Four known &lt;i&gt;Arcynopteryx&lt;/i&gt; species are redescribed from the types and newly acquired material. Illustrations of the male andfemale genitalia, head and pronotal patterns and eggs are used to support species descriptions. &lt;i&gt;Dictyopteryx&lt;/i&gt; &lt;i&gt;compacta&lt;/i&gt;(McLachlan, 1872) is transferred to &lt;i&gt;Skwala&lt;/i&gt; Ricker, 1943 with the valid name &lt;i&gt;Skwala&lt;/i&gt; &lt;i&gt;compacta&lt;/i&gt; (McLachlan, 1872) &lt;b&gt;comb.&lt;/b&gt;&lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; (Klapálek, 1912) is placed as a junior synonym of that species. For genus &lt;i&gt;Arcynopteryx&lt;/i&gt; type species is fixed(under Article 70.3 of the Code) as &lt;i&gt;Arcynopteryx&lt;/i&gt; &lt;i&gt;dichroa&lt;/i&gt; (McLachlan, 1872), misidentified as &lt;i&gt;Arcynopteryx&lt;/i&gt; &lt;i&gt;compacta&lt;/i&gt; (McLachlan, 1872) in the original designation by Klapálek (1912).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Plecoptera; Perlodidae; &lt;i&gt;Arcynopteryx&lt;/i&gt;; &lt;i&gt;Skwala&lt;/i&gt;; holotype</subject>
+          <subject_class locale="en_US">Plecoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valentina</firstname>
+          <middlename>A.</middlename>
+          <lastname>Teslenko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Synopsis of &lt;i&gt;Clinonana &lt;/i&gt;Osborn (Hemiptera: Cicadellidae: Iassinae): new distributional records and description of a new species</title>
+        <abstract locale="en_US">Based on the study of over 100 specimens, the apparently rare leafhopper genus &lt;i&gt;Clinonana&lt;/i&gt; Osborn, 1938 is redescribed, newdistributional records are given, a new species is described, and a taxonomic key to all three species is given. The internalfemale genitalia of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; (Spångberg, 1878) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;impensa&lt;/i&gt; Kramer, 1966 are described and illustrated for the first timeand no diagnostic characteristics to distinguish females of these species were found. &lt;i&gt;Clinonana&lt;/i&gt; &lt;i&gt;impensa&lt;/i&gt; is newly recordedfrom Bolivia and &lt;i&gt;Clinonana&lt;/i&gt; &lt;i&gt;mirabilis&lt;/i&gt; is newly recorded from Bolivia, Peru, Suriname, and from the Brazilian states Amazo-nas, Maranhão, Mato Grosso, and Rondônia. &lt;i&gt;Clinonana&lt;/i&gt; &lt;i&gt;rafaeli&lt;/i&gt; sp. nov. is described from Rondônia (Brazil) and may be distin-guished from other &lt;i&gt;Clinonana&lt;/i&gt; species because of the following characteristics: (1) pronotum width up to 1.8 times as broad asgreatest visible width of mesonotum; (2) styles in lateral view with ventral concavity in median portion; and (3) aedeagus preatrium with basal processes not extending to apex of shaft.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amazon; biodiversity; Gyponini; taxonomy; new species</subject>
+          <subject_class locale="en_US">Amazon</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Giulia</firstname>
+          <lastname>Engel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniela</firstname>
+          <middlename>Maeda</middlename>
+          <lastname>Takiya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-30</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic and nomenclatural notes on the &lt;i&gt;Rhinusa tetra &lt;/i&gt;(Fabricius) species complex (Coleoptera: Curculionidae)</title>
+        <abstract locale="en_US">All taxa closely related to or synonymized with &lt;i&gt;Rhinusa&lt;/i&gt; &lt;i&gt;tetra&lt;/i&gt; (Fabricius, 1792) are studied, including the available type mate-rial. Four species are considered taxonomically valid: &lt;i&gt;Rhinusa&lt;/i&gt; &lt;i&gt;tetra,&lt;/i&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;comosa&lt;/i&gt; (Rosenschoeld, 1838), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;moroderi&lt;/i&gt; (Reitter,1906), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;verbasci&lt;/i&gt; (Rosenschoeld, 1838). The following four new synonymies are proposed: &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;tetra&lt;/i&gt; (= &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;eoum&lt;/i&gt;Rosenschoeld, 1838 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.;&lt;/b&gt; &lt;b&gt;=&lt;/b&gt; &lt;i&gt;Cleopus&lt;/i&gt; &lt;i&gt;uncinatus&lt;/i&gt; Dufour, 1843 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.;&lt;/b&gt; = &lt;i&gt;Cleopus&lt;/i&gt; &lt;i&gt;verbasci&lt;/i&gt; Dufour, 1843 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.);&lt;/b&gt; &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;moroderi&lt;/i&gt;(= &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;otini&lt;/i&gt; Hustache, 1946 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n).&lt;/b&gt; Neotypes are designated for &lt;i&gt;Cionus&lt;/i&gt; &lt;i&gt;amictus&lt;/i&gt; Germar, 1821, &lt;i&gt;Cleopus&lt;/i&gt; &lt;i&gt;uncinatus&lt;/i&gt; and&lt;i&gt;Cleopus&lt;/i&gt; &lt;i&gt;verbasci.&lt;/i&gt; Lectotypes are designated for &lt;i&gt;Curculio&lt;/i&gt; &lt;i&gt;teter,&lt;/i&gt; &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;comosum,&lt;/i&gt; &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;crassirostre&lt;/i&gt; Lucas, 1849,&lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;eoum,&lt;/i&gt; &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;fuscescens&lt;/i&gt; Rosenschoeld, 1838, &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;haemorrhoum&lt;/i&gt; Rosenhauer, 1847, &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;moro-&lt;/i&gt;&lt;i&gt;deri,&lt;/i&gt; &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;plagiellum&lt;/i&gt; Gyllenhal, 1838, &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;trigonale&lt;/i&gt; Gyllenhal, 1838 and &lt;i&gt;Gymnetron&lt;/i&gt; &lt;i&gt;verbasci,&lt;/i&gt; all currentlyincluded in &lt;i&gt;Rhinusa.&lt;/i&gt; A key separating the four valid species is supported by diagnoses, biological notes, distributional data andillustrations. These new findings are important because &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;tetra&lt;/i&gt; in the broad sense was proposed as a potential candidate for the biological control of invasive Common Mullein (Verbascum &lt;i&gt;thapsus&lt;/i&gt; L.) in North America.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Curculionidae; Mecinini; &lt;i&gt;Rhinusa&lt;/i&gt;; taxonomy; new synonymy; nomenclature</subject>
+          <subject_class locale="en_US">Curculionidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Roberto</firstname>
+          <lastname>Caldara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roberto</firstname>
+          <lastname>Casalini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cosimo</firstname>
+          <lastname>Baviera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-40</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Key to the Oriental species of &lt;i&gt;Passaloecus &lt;/i&gt;Shuckard (Hymenoptera: Crabronidae), with descriptions of four new species from China</title>
+        <abstract locale="en_US">A key to the Oriental species of &lt;i&gt;Passaloecus&lt;/i&gt; Shuckard (Crabronidae: Pemphredoninae: Pemphredonini) is provided. Four new</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Passaloecus&lt;/i&gt;; taxonomy; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Passaloecus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Li</firstname>
+          <lastname>Ma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Qiang</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-50</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Fossil Bibionidae (Diptera: Bibionomorpha) from the late Oligocene of Bes-Konak, Anatolia, Turkey</title>
+        <abstract locale="en_US">Three new species of bibionid flies are described from the late Oligocene deposit of Bes-Konak, Anatolia, Turkey: &lt;i&gt;Bibio&lt;/i&gt; &lt;i&gt;ana-&lt;/i&gt;&lt;i&gt;tolicus&lt;/i&gt; sp.n., &lt;i&gt;Bibio&lt;/i&gt; &lt;i&gt;nigricosta&lt;/i&gt; sp.n. and &lt;i&gt;Penthetria&lt;/i&gt; &lt;i&gt;beskonakensis&lt;/i&gt; sp.n. These genera are associated with temperate climate,contrasting with the bibionid Oligocene fossils from some other European localities with warmer climates, where the intertropical genus &lt;i&gt;Plecia&lt;/i&gt; often predominates.Keywords: &lt;i&gt;Bibio,&lt;/i&gt; &lt;i&gt;Penthetria,&lt;/i&gt; Cenozoic, palaeoclimatic indicators</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <lastname>Skartveit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-63</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Discovery of &lt;i&gt;Shamshevia &lt;/i&gt;Grichanov in the Oriental Region (Diptera: Dolichopodidae)</title>
+        <abstract locale="en_US">The formerly Afrotropical genus &lt;i&gt;Shamshevia&lt;/i&gt; Grichanov, 2012, is recorded from the Oriental Region for the first time.Description of a new species &lt;i&gt;Shamshevia&lt;/i&gt; &lt;i&gt;reshchikovi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from India is provided. A modified diagnosis of the genus is compiled.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Oriental Region; India; Diptera; Dolichopodidae; &lt;i&gt;Shamshevia&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Oriental Region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Igor</firstname>
+          <middlename>Ya.</middlename>
+          <lastname>Grichanov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-05-31</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

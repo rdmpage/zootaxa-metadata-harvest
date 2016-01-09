@@ -2,6 +2,217 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3544.1</id>
+    <title locale="en_US">8 Nov. 2012</title>
+    <volume>3544</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of Inland Aquatic Amphipoda (Crustacea: Malacostraca) of California </title>
+        <abstract locale="en_US">We present the first comprehensive checklist of Amphipoda in Californian inland waters. Amphipod distributionrecords were based upon a thorough literature review and unpublished data of colleagues, as well as the collectionsof the authors. We report 62 species in 24 genera and 14 families, including 7 new taxa awaiting formal description.Sixteen species are exotic and at least 20 species are subterranean obligates. Endemicity is high: 40% of the nativefauna are limited to a single locale, typically a spring or cave stream, and another 3 species are known from just 2locales each. Conservation status rank revisions are offered in order to update the California Natural Diversity Da-tabase and IUCN Red List. Threats from invasive species are briefly discussed, as well as the use of amphipods as bioindicators.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; biodiversity; California; conservation; endemic; estuarine; invasive species; stygobiont</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <middlename>O.</middlename>
+          <lastname>Graening</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>D.</firstname>
+          <middlename>Christopher</middlename>
+          <lastname>Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>R.</middlename>
+          <lastname>Holsinger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cheryl</firstname>
+          <lastname>Barr</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <lastname>Bottorff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new eriophyoid mite species (Acari: Eriophyoidea: Eriophyidae) from Iran </title>
+        <abstract locale="en_US">Four new mite species of the superfamily Eriophyoidea from Iran are described and illustrated. They are: &lt;i&gt;Aceria&lt;/i&gt; &lt;i&gt;tragop-&lt;/i&gt;&lt;i&gt;ogonis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Tragopogon&lt;/i&gt; &lt;i&gt;coelesyriacus&lt;/i&gt; Boiss. (Compositae); &lt;i&gt;Aculodes&lt;/i&gt; &lt;i&gt;alhagis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Alhagi&lt;/i&gt; &lt;i&gt;maurorum&lt;/i&gt;Medik. (Leguminosae); &lt;i&gt;Aculops&lt;/i&gt; &lt;i&gt;haloxylonum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Haloxylon&lt;/i&gt; &lt;i&gt;persicum&lt;/i&gt; Bunge ex Boiss. et Buhse (Chenopodiace-ae) and &lt;i&gt;Colomerus&lt;/i&gt; &lt;i&gt;robaticus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; on &lt;i&gt;Prunus&lt;/i&gt; &lt;i&gt;dulcis&lt;/i&gt; (Mill.) (Rosaceae). Except for &lt;i&gt;Aculops&lt;/i&gt; &lt;i&gt;haloxylonum&lt;/i&gt; making galls, the other new species described herein are vagrants on their respective host plants.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Prostigmata; taxonomy; &lt;i&gt;Aceria&lt;/i&gt;; &lt;i&gt;Aculodes&lt;/i&gt;; &lt;i&gt;Aculops&lt;/i&gt;; &lt;i&gt;Colomerus&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">Prostigmata</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao-Feng</firstname>
+          <lastname>Xue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hussein</firstname>
+          <lastname>Sadeghi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Yue</firstname>
+          <lastname>Hong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-40</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Biodiversity assessment in the Lower Mekong basin: First record of the genus &lt;i&gt;Oncosclera &lt;/i&gt;(Porifera: Spongillina: Potamolepidae) from the Oriental Region </title>
+        <abstract locale="en_US">Taxonomic richness of Thai Spongillina numbers so far seven species (five genera, one family). The first record of the genus&lt;i&gt;Oncosclera&lt;/i&gt; Volkmer-Ribeiro, 1970 belonging to the family Potamolepidae Brien, 1967 is here reported with the description ofa new species from the Pong River (NE Thailand, Oriental Region) in the framework of a biodiversity assessment in the LowerMekong Basin. An emended diagnosis of the genus is also provided. The new species, ascribed to the genus &lt;i&gt;Oncosclera&lt;/i&gt; fordiagnostic traits of the skeleton and the gemmular architecture, differs from all the other known species of the genus in itsunique combination of diagnostic traits. &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;asiatica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is characterised by &lt;i&gt;i)&lt;/i&gt; more or less alveolate skeleton, &lt;i&gt;ii)&lt;/i&gt; conulosesurface with a network of branched subdermal canals, &lt;i&gt;iii)&lt;/i&gt; acanthoxeas as dominant megascleres and less frequentacanthostrongyles, &lt;i&gt;iv)&lt;/i&gt; gemmular theca sublaminar of compact spongin with a scantly developed pneumatic layer of fibrousspongin, and &lt;i&gt;v)&lt;/i&gt; gemmuloscleres as acanthostrongyles from elongated to ovoid with tubercles/spines particularly dense towardsthe tips. Despite the extremely disjunct distribution &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;asiatica&lt;/i&gt; is morphologically similar to &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;intermedia&lt;/i&gt; and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;jewelli&lt;/i&gt; fromthe Neotropical Region and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;gilsoni&lt;/i&gt; from Pacific Islands, from which the former diverges for megascleres and/or gemmuloscleres traits.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Freshwater sponges; &lt;i&gt;Oncosclera&lt;/i&gt; &lt;i&gt;asiatica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Pong River; Thailand; Morphology; SEM; Taxonomy; Biogeography</subject>
+          <subject_class locale="en_US">Freshwater sponges</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renata</firstname>
+          <lastname>Manconi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nisit</firstname>
+          <lastname>Ruengsawang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabio</firstname>
+          <middlename>D.</middlename>
+          <lastname>Ledda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chutima</firstname>
+          <lastname>Hanjavanit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Narumon</firstname>
+          <lastname>Sangpradub</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-51</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Lusoblothrus&lt;/i&gt;, a new syarinid pseudoscorpion genus (Arachnida) from Portugal, occupying an isolated position within the Holarctic fauna </title>
+        <abstract locale="en_US">The new pseudoscorpion genus &lt;i&gt;Lusoblothrus&lt;/i&gt; of the family Syarinidae is described from a cave in the Algarve region, southernPortugal, to accommodate &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;aenigmaticus&lt;/i&gt; sp. nov., whose morphological affinities within the Holarctic syarinid fauna are notclear and resembles the Gondwanan genera. This discovery emphasizes the relevance of the Algarve region as a hotspot for relictual hypogean fauna within the Iberian Peninsula.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Pseudoscorpiones; Syarinidae; hypogean; Algarve; Iberian Peninsula</subject>
+          <subject_class locale="en_US">Pseudoscorpiones</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Sofia P. S.</middlename>
+          <lastname>Reboleira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>A.</middlename>
+          <lastname>Zaragoza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <lastname>Oromí</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-62</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Hamataliwa &lt;/i&gt;Keyserling, 1887 (Araneae: Oxyopidae) from Gaoligong Mountains, Yunnan, China </title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Hamataliwa&lt;/i&gt; (Araneae: Oxyopidae) from the Gaoligong Mountains area, Yunnan Province,China are described: &lt;i&gt;Hamataliwa&lt;/i&gt; &lt;i&gt;cucullata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (male, female) and &lt;i&gt;Hamataliwa&lt;/i&gt; &lt;i&gt;torsiva&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (female). Photos of the morphological appearances and illustrations of the genital organs are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; lynx spider; biodiversity hotspot</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guo</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Qiaobing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xianjin</firstname>
+          <lastname>Peng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-70</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Licornus &lt;/i&gt;Roewer, 1932: newly transferred to Ampycinae and first record of the family Gonyleptidae (Opiliones: Laniatores) from Venezuela </title>
+        <abstract locale="en_US">&lt;i&gt;Licornus&lt;/i&gt; &lt;i&gt;tama&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Táchira State in Venezuelan Andes. This is the first record of real Gonyleptidaefrom this country, although in the past some Venezuelan species, currently placed in other families, have been assigned toGonyleptidae. The genus &lt;i&gt;Licornus&lt;/i&gt; Roewer, 1932 had hitherto two species, both endemic to Ecuador. Male genitalmorphology of a species of &lt;i&gt;Licornus&lt;/i&gt; is for the first time illustrated and described. Original placement of &lt;i&gt;Licornus&lt;/i&gt; in theCranaidae: Cranainae is not supported by morphology of the included species and &lt;i&gt;Licornus&lt;/i&gt; is here formally placed in Gonyleptidae: Ampycinae. An emended diagnosis is given to Ampycinae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Arachnida; Ampycinae; false Cranaidae; taxonomy; Neotropics</subject>
+          <subject_class locale="en_US">Arachnida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Osvaldo</firstname>
+          <middlename>Villarreal</middlename>
+          <lastname>M.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Adriano</firstname>
+          <middlename>B.</middlename>
+          <lastname>Kury</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>71-78</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The shrimp family Pseudochelidae De Grave &amp; Moosa, 2004 (Crustacea, Decapoda, Caridea) in Brazil, with the description of a new species </title>
+        <abstract locale="en_US">A new species of the caridean shrimp genus &lt;i&gt;Pseudocheles&lt;/i&gt; Chace &amp; Brown, 1978 is described from an offshore localityabout 160 km east of the Rio Doce estuary in Espírito Santo, Brazil. &lt;i&gt;Pseudocheles&lt;/i&gt; &lt;i&gt;falsapinca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is the fourth speciesin the genus, differing from its three congeners, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;enigma&lt;/i&gt; Chace &amp; Brown, 1978, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;chacei&lt;/i&gt; Kensley, 1983 and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;neutra&lt;/i&gt;De Grave &amp; Moosa, 2004, by the combination of the following features: antennal tooth minute or absent, fifth pleuronwith acute posterior tooth, carpus of third, fourth and fifth pereiopod with robust spiniform seta, coxa of third and fourthpereiopods without acute projection mesially, rostrum with five dorsal teeth, all anterior to post-orbital margin, and thirdmaxilliped with rounded, epipod-like structure. The new species is the deepest species of &lt;i&gt;Pseudocheles&lt;/i&gt; reported so far,with both type specimens dredged at a depth range of 68–71 m. &lt;i&gt;Pseudocheles&lt;/i&gt; &lt;i&gt;falsapinca&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; also represents the first record of &lt;i&gt;Pseudocheles&lt;/i&gt; and the family Pseudochelidae De Grave &amp; Moosa, 2004 for Brazil and the South-West Atlantic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Caridea; Pseudochelidae; shrimp; continental shelf; Brazil</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-87</pages>
+        <date_published>2012-11-08</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa..1</id>
     <title locale="en_US">PublishDate</title>
     <volume></volume>

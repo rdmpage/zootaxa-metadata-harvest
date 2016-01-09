@@ -1,3 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3489.1</id>
+    <title locale="en_US">19 Sep. 2012</title>
+    <volume>3489</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Plectrocnemia &lt;/i&gt;Stephens in China (Trichoptera, Polycentropodidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hua</firstname>
+          <lastname>Zhong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lian-Fang</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <middlename>C.</middlename>
+          <lastname>Morse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-09-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Bradysia &lt;/i&gt;Winnertz (Diptera, Sciaridae) in New Caledonia, with the description of thirteen new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pekka</firstname>
+          <lastname>Vilkamaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heikki</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Werner</firstname>
+          <lastname>Mohrig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-44</pages>
+        <date_published>2012-09-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Microphorella similis &lt;/i&gt;sp. nov. from Switzerland, a close relative of the type species, &lt;i&gt;M. praecox &lt;/i&gt;(Loew) (Diptera: Dolichopodidae: Parathalassiinae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Scott</firstname>
+          <middlename>E.</middlename>
+          <lastname>Brooks</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hans</firstname>
+          <lastname>Ulrich</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-57</pages>
+        <date_published>2012-09-19</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A revision of Chinese pear psyllids (Hemiptera: Psylloidea) associated with &lt;i&gt;Pyrus ussuriensis &lt;/i&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xinyu</firstname>
+          <lastname>Luo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fasheng</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yanfang</firstname>
+          <lastname>Ma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanzhi</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-80</pages>
+        <date_published>2012-09-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematic position of the monotypic Azorean genus &lt;i&gt;Falbouria &lt;/i&gt;Dyte with notes on the definition of &lt;i&gt;Chrysotus &lt;/i&gt;Meigen (Diptera: Dolichopodidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Renato</firstname>
+          <middlename>Soares</middlename>
+          <lastname>Capellari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dalton</firstname>
+          <lastname>De Souza Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>81-88</pages>
+        <date_published>2012-09-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

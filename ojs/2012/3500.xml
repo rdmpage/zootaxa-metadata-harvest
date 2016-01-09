@@ -1,3 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3500.1</id>
+    <title locale="en_US">28 Sep. 2012</title>
+    <volume>3500</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-28</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The Aradidae (Insecta, Hemiptera, Heteroptera) of Argentina </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eugenia</firstname>
+          <middlename>Fernanda</middlename>
+          <lastname>Contreras</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <lastname>Del Carmen Coscarón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of three new species of Nymphistrini (Coleoptera: Histeridae: Haeteriinae) from Central America </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alexey</firstname>
+          <middlename>K.</middlename>
+          <lastname>Tishechkin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alida</firstname>
+          <middlename>Mercado</middlename>
+          <lastname>Cárdenas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-48</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the Afrotropical genera &lt;i&gt;Angolositus &lt;/i&gt;Koch, 1955 and &lt;i&gt;Pseudoselinus &lt;/i&gt;Iwan, 2002 with a key to species (Coleoptera: Tenebrionidae: Pedinini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcin</firstname>
+          <middlename>Jan</middlename>
+          <lastname>Kamiński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-60</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Elachistelmis &lt;/i&gt;gen. n. (Coleoptera: Elmidae: Elminae) from Suriname, with description of two new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Crystal</firstname>
+          <middlename>A.</middlename>
+          <lastname>Maier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-69</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Paralobella palustris &lt;/i&gt;sp. nov. (Collembola: Neanuridae: Neanurinae) from China, with remarks and key to species of the genus </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jigang</firstname>
+          <lastname>Jiang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yunxia</firstname>
+          <lastname>Luan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wenying</firstname>
+          <lastname>Yin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>70-76</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Folsomia &lt;/i&gt;from north-eastern China (Collembola, Isotomidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Baifeng</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Donghui</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-83</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Kamimuria &lt;/i&gt;(Plecoptera: Perlidae) from Hainan Island of China, with description of &lt;i&gt;K. hainana &lt;/i&gt;n. sp. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weihai</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liuhao</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hao</firstname>
+          <lastname>Yu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>84-88</pages>
+        <date_published>2012-09-28</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

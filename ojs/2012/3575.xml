@@ -1,3 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3575.1</id>
+    <title locale="en_US">7 Dec. 2012</title>
+    <volume>3575</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-12-07</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Talitrid amphipods from ocean beaches along the New South Wales coast of Australia (Amphipoda, Talitridae) </title>
+        <abstract locale="en_US">The sand-hopper &lt;i&gt;Bellorchestia&lt;/i&gt; &lt;i&gt;mariae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Honeymoon Bay on the north coast of Jervis Bay, NewSouth Wales, Australia. It is the sister species of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;richardsoni&lt;/i&gt; Serejo &amp; Lowry, 2008 and appears to have a limited dis-tribution from about Narrawallee in the south to northern Jervis Bay. The distribution of &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;richardsoni&lt;/i&gt; Serejo &amp; Lowry,2008 is extended from Point Ricardo, Victoria, northwards to Ulladulla on the New South Wales coast. A new synonymyis proposed for the sand-hopper &lt;i&gt;Notorchestia&lt;/i&gt; &lt;i&gt;quadrimana&lt;/i&gt; (Dana, 1852) which includes &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;novaehollandiae&lt;/i&gt; (1899) and&lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lobata&lt;/i&gt; Serejo &amp; Lowry, 2008. It is considered to be a wide-ranging species from Shark Bay in Western Australia aroundthe south coast to at least Maitland Bay in central New South Wales. The beach-hopper &lt;i&gt;Orchestia&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; Dana, 1852 isdescribed from Valla Beach in northern New South Wales and moved to the new genus &lt;i&gt;Vallorchestia.&lt;/i&gt; This is the first re-cord of &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;dispar&lt;/i&gt; since its original description 160 years ago. The beach-hopper &lt;i&gt;Platorchestia&lt;/i&gt; &lt;i&gt;smithi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is describedfrom Brooms Head, New South Wales, Australia. It is common on ocean beaches from Bendalong in the south to Ballina in northern New South Wales. South of Bendalong beach-hoppers on ocean beaches appear to be absent.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Talitridae; Australia; New South Wales; taxonomy; new genus; new species; &lt;i&gt;Bellorchestia&lt;/i&gt;; &lt;i&gt;Notorchestia&lt;/i&gt;; &lt;i&gt;Platorchestia&lt;/i&gt;; &lt;i&gt;Vallorchestia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the genus &lt;i&gt;Cerviniopsis &lt;/i&gt;from Sagami Bay, Japan and reinstatement of the genus &lt;i&gt;Neocervinia, &lt;/i&gt;with a report on the male of &lt;i&gt;Neocervinia itoi &lt;/i&gt;Lee &amp; Yoo, 1998 (Copepoda: Harpacticoida: Aegisthidae) </title>
+        <abstract locale="en_US">A new aegisthid copepod, &lt;i&gt;Cerviniopsis&lt;/i&gt; &lt;i&gt;reducta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from the deep sea in Sagami Bay, Japan. The newspecies has superficial resemblance to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;minutiseta&lt;/i&gt; Ito, 1983 in the armature formula of swimming legs. However theydiffer from each other in the shape of setae of the swimming legs, the distal margin of operculum, length of caudal rami,and the location of setae on P5 exopod. Also, the male of &lt;i&gt;Neocervinia&lt;/i&gt; &lt;i&gt;itoi&lt;/i&gt; Lee &amp; Yoo, 1998 is described on the basis ofsamples collected from around the type locality in Sagami Bay, Japan. Sexual dimorphism of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;itoi&lt;/i&gt; male can be observedin the fused rostrum, atrophied mouthparts, P5, and P6. The sixth leg is symmetrical and both gonopores are presumablyactive, based on the presence of two spermatophores internally in the genital segment. This paper reports for the first timeon the sexually dimorphic characters in the genus &lt;i&gt;Neocervinia&lt;/i&gt; Huys, Mobjerg &amp; Kristensen, 1997, reinstating its generic status with the newly revealed male characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cold Seep; Taxonomy; Deep-Sea Copepoda; Cerviniopseinae; Cerviniinae</subject>
+          <subject_class locale="en_US">Cold Seep</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eun-Ok</firstname>
+          <lastname>Park</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Motohiro</firstname>
+          <lastname>Shimanaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Suk</firstname>
+          <middlename>Hyun</middlename>
+          <lastname>Yoon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wonchoel</firstname>
+          <lastname>Lee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-48</pages>
+        <date_published>2012-12-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new frog species of the genus &lt;i&gt;Rugosa &lt;/i&gt;from Sado Island, Japan (Anura, Ranidae) </title>
+        <abstract locale="en_US">We describe a new frog species in the genus &lt;i&gt;Rugosa&lt;/i&gt; from Sado Island, Japan. This new species, &lt;i&gt;Rugosa&lt;/i&gt; &lt;i&gt;susurra,&lt;/i&gt; is ge-netically close to &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rugosa&lt;/i&gt; Temminck and Schlegel, but is morphologically distinguishable and postzygotically isolatedfrom the latter species. The skin over the entire body is much smoother, and the abdomen and ventral surface of hindlimbare deep yellow whereas these are pale yellow or grayish yellow in &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rugosa.&lt;/i&gt; In addition, duration of the advertisementcall of &lt;i&gt;Rugosa&lt;/i&gt; &lt;i&gt;susurra&lt;/i&gt; is definitely longer than that of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;rugosa.&lt;/i&gt; &lt;i&gt;Rugosa&lt;/i&gt; &lt;i&gt;susurra&lt;/i&gt; is the first endemic amphibian species to Sado Island in Japan.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Rugosa&lt;/i&gt; &lt;i&gt;susurra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; advertisement call; postzygotic isolation; smooth skin</subject>
+          <subject_class locale="en_US">&lt;i&gt;Rugosa&lt;/i&gt; &lt;i&gt;susurra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; advertisement call</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kunio</firstname>
+          <lastname>Sekiya</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ikuo</firstname>
+          <lastname>Miura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mitsuaki</firstname>
+          <lastname>Ogata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-62</pages>
+        <date_published>2012-12-07</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic validity of &lt;i&gt;Mesoclemmys heliostemma &lt;/i&gt;(McCord, Joseph-Ouni &amp; Lamar, 2001) (Testudines, Chelidae) inferred from morphological analysis </title>
+        <abstract locale="en_US">&lt;i&gt;Mesoclemmys&lt;/i&gt; &lt;i&gt;heliostemma&lt;/i&gt; (Testudines: Chelidae) was described based on five vouchered specimens and nine live spec-imens from the western Amazon basin. Some authors questioned its status as a valid species, suggesting that it representsa junior synonym of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;raniceps.&lt;/i&gt; Here, we report on eight additional specimens from eastern Peru and northern Brazil,and provide descriptive statistics of morphological characters for hatchlings, juveniles, and adults of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;heliostemma,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt;&lt;i&gt;raniceps,&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;gibba.&lt;/i&gt; We also test for group differences through univariate and multivariate statistical analyses, anddiscuss some advantages of this methodology. Our data suggest that all three taxa are morphologically divergent, and that &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;heliostemma&lt;/i&gt; is a valid species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; range extension; morphometrics</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Flavio</firstname>
+          <middlename>B.</middlename>
+          <lastname>Molina</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fabio</firstname>
+          <middlename>A.</middlename>
+          <lastname>Machado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hussam</firstname>
+          <lastname>Zaher</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-77</pages>
+        <date_published>2012-12-07</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the genera &lt;i&gt;Draconema &lt;/i&gt;Cobb, 1913 and &lt;i&gt;Paradraconema &lt;/i&gt;Allen &amp; Noffsinger, 1978 (Nematoda: Draconematidae) from the Andaman Islands, Indian Ocean, with keys to the species </title>
+        <abstract locale="en_US">Two new species of Family Draconematidae Filipjev, 1918, &lt;i&gt;Draconema&lt;/i&gt; &lt;i&gt;andamanense&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Paradraconema&lt;/i&gt;&lt;i&gt;pachylumbus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described from the coast of the Andaman Islands, India. Both species were extracted from sed-iments among the intertidal macroalgae. &lt;i&gt;Draconema&lt;/i&gt; &lt;i&gt;andamanense&lt;/i&gt; resembles &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;japonicum&lt;/i&gt; in having the gubernaculumwith peculiar distal dilation in males. However, it differs from all the congeneric species including &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;japonicum&lt;/i&gt; by thesmaller number of subventral adhesion tubes (10–11 in male and 12–14 in female). &lt;i&gt;Paradraconema&lt;/i&gt; &lt;i&gt;pachylumbus&lt;/i&gt; differsfrom all the congeneric species by having the cloacal region remarkably enlarged towards the dorsal side and the conico-cylindrical tail abruptly narrowing. &lt;i&gt;Paradraconema&lt;/i&gt; &lt;i&gt;pachylumbus&lt;/i&gt; most resembles &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;floridense&lt;/i&gt; with longitudinally areo-lated annules, elongate loop-shaped amphids, prominent eyespots, subventral precloacal Acan-set and gubernaculum withlateral dilation, but is distinguishable from it by the number of setae on the tail in males and females, and the gubernaculum length and tail length in males, as well as the peculiar feature of an enlarged cloacal region in males.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nematoda; Draconematidae; &lt;i&gt;Draconema&lt;/i&gt;; &lt;i&gt;Paradraconema&lt;/i&gt;; Andaman Islands; India; taxonomy; new species</subject>
+          <subject_class locale="en_US">Nematoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kenji</firstname>
+          <lastname>Kito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tapas</firstname>
+          <lastname>Chatterjee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>78-88</pages>
+        <date_published>2012-12-07</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

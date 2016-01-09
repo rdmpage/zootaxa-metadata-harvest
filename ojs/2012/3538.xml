@@ -2,6 +2,81 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3538.1</id>
+    <title locale="en_US">5 Nov. 2012</title>
+    <volume>3538</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-11-05</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Ommatoiulus &lt;/i&gt;in Andalusia, Spain (Diplopoda: Julida) with description of ten new species and notes on a remarkable gonopod struc-ture, the fovea </title>
+        <abstract locale="en_US">A comprehensive revision of the species of the genus &lt;i&gt;Ommatoiulus&lt;/i&gt; in Andalusia, southern Spain, is carried out for thefirst time, revealing the presence of a total of 19 species, among which are one new record for the country, one for con-tinental Spain, two new records for Andalusia and 10 species new to science: &lt;i&gt;Ommatoiulus&lt;/i&gt; &lt;i&gt;baenai,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;baileyi,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;hoff-&lt;/i&gt;&lt;i&gt;mani,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;jaenensis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;kimei,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;pseudoflagellatus,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;recueroi,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;reipi,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;sabinarensis,&lt;/i&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;schubarti&lt;/i&gt; &lt;b&gt;n.spp.&lt;/b&gt; Thefollowing taxa are synonymised: &lt;i&gt;Schizophyllum&lt;/i&gt; &lt;i&gt;hoplites&lt;/i&gt; Verhoeff, 1910, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;diplurum&lt;/i&gt; &lt;i&gt;appendiculatum&lt;/i&gt; Brolemann,1925, and &lt;i&gt;Ommatoiulus&lt;/i&gt; &lt;i&gt;diplurus&lt;/i&gt; &lt;i&gt;mauriesi&lt;/i&gt; Hoffman, 1975, are regarded as junior synonyms of &lt;i&gt;Ommatoiulus&lt;/i&gt; &lt;i&gt;diplurus&lt;/i&gt;(Attems, 1903), &lt;b&gt;n.syn.&lt;/b&gt; &lt;i&gt;Schizophyllum&lt;/i&gt; &lt;i&gt;dorsovittatum&lt;/i&gt; &lt;i&gt;estrellanum&lt;/i&gt; Verhoeff, 1910, and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;calatravanum&lt;/i&gt; Brolemann,1920, are junior synonyms of &lt;i&gt;Ommatoiulus&lt;/i&gt; &lt;i&gt;dorsovittatus&lt;/i&gt; (Verhoeff, 1893), &lt;b&gt;n.syn.&lt;/b&gt; &lt;i&gt;Schizophyllum&lt;/i&gt; &lt;i&gt;nivale&lt;/i&gt; Schubart,1959, is a junior synonym of &lt;i&gt;Omnmatoiulus&lt;/i&gt; &lt;i&gt;ilicis&lt;/i&gt; (Brölemann, 1896), &lt;b&gt;n.syn.&lt;/b&gt; Full descriptions and diagnostic notes areprovided for all the species with accounts on their distributions, habitats, and notes discussing their taxonomy. A di-chotomous identification key, based on gonopod structures, is presented to facilitate species identification. In the dis-cussion section, the general patterns of species distribution are underlined, showing a clear tendency to ‘endemism’ forthe majority of species and to polymorphism for species with broader distribution ranges, especially &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;diplurus.&lt;/i&gt; A dis-junct distribution Andalusia/Pyrenees is registered for &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;ilicis.&lt;/i&gt; A comprehensive comparison of gonopods is attempt-ed, and three main types of gonopod configuration are delimited, denoting a wide range of structural complexity. Thefovea, a cavity in the posterior gonopods, is explored for the first time with scanning electron microscopy, revealing anagglutination of spermatozoa and confirming Verhoeff’s original observation dating back nearly 120 years. The con-stancy of the fovea in all Schizophyllini, combined with its absence in the rest of the julids, provides an additional apomorphy for the tribe.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Spain; identification key; species variation; new synonymies; distribution; SEM; gonopods; fovea</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nesrine</firstname>
+          <lastname>Akkari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henrik</firstname>
+          <lastname>Enghoff</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-53</pages>
+        <date_published>2012-11-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Checklist of genus- and species-group names of the false limpets &lt;i&gt;Siphonaria &lt;/i&gt;(Mollusca: Gastropoda: Euthyneura) </title>
+        <abstract locale="en_US">Not since Hubendick’s 1946 &lt;i&gt;Systematic&lt;/i&gt; &lt;i&gt;Monograph&lt;/i&gt; &lt;i&gt;of&lt;/i&gt; &lt;i&gt;the&lt;/i&gt; &lt;i&gt;Patelliformia&lt;/i&gt; has a comprehensive taxonomic work been com-pleted on the genus of false-limpets &lt;i&gt;Siphonaria,&lt;/i&gt; distributed worldwide, except in the northern Atlantic. A checklist of allsupra-specific names associated with &lt;i&gt;Siphonaria&lt;/i&gt; is established. A checklist of all species-group names is provided as welland their nomenclatural status is discussed (available, not available, permanently invalid). Of the 270 species-group namesincluded in the checklist, 205 are available and not permanently invalid. All other names are either not available or avail-able but permanently invalid. The geographic distribution of the type localities is also presented; of the 205 species-group names that are available and not permanently invalid, 62 are from the tropical and subtropical Indo-West Pacific.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Alpha taxonomy; biodiversity; nomenclature</subject>
+          <subject_class locale="en_US">Alpha taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tracy</firstname>
+          <middlename>R.</middlename>
+          <lastname>White</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Benoît</firstname>
+          <lastname>Dayrat</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-78</pages>
+        <date_published>2012-11-05</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new catfish of the genus &lt;i&gt;Glyptothorax &lt;/i&gt;from the Kaladan basin, Northeast India (Teleostei: Sisoridae) </title>
+        <abstract locale="en_US">&lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;churamanii,&lt;/i&gt; a new sisorid catfish species from the Kaladan basin of Mizoram State, Northeast India isdescribed. It is distinguished from the congeners of &lt;i&gt;Glyptothorax&lt;/i&gt; in the NE Indian region by the combination of thefollowing characters: an oblong thoracic adhesive apparatus opening caudally with an inverted V-shaped mediandepression on its posterior half; the ventral lobe of the caudal fin longer than the dorsal lobe, with diffused blacksubmarginal bands on each lobe; sparsely tuberculate skin; ventral surfaces of pectoral spine and first (and sometimessecond) rays of pelvic fins pleated, plicae on pectoral spine arranged in rows, continuous distally and dissociated in a series of three to five hexagonal-shaped spots in each row; and 3+10 rakers on the first branchial arch.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sisoridae; Kaladan River; Northeastern India</subject>
+          <subject_class locale="en_US">Sisoridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yumnam</firstname>
+          <lastname>Rameshori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Waikhom</firstname>
+          <lastname>Vishwanath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>79-87</pages>
+        <date_published>2012-11-05</date_published>
+      </article>
+    </section>
+  </issue>
+  <issue current="false" identification="title" public_id="" published="true">
     <id type="doi">10.11646/zootaxa..1</id>
     <title locale="en_US">PublishDate</title>
     <volume></volume>

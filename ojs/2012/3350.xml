@@ -1,3 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3350.1</id>
+    <title locale="en_US">19 Jun. 2012</title>
+    <volume>3350</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of Australian jumping spider genus &lt;i&gt;Servaea &lt;/i&gt;Simon 1887 (Aranaea: Salticidae) including use of DNA sequence data and predicted distributions</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Servaea&lt;/i&gt; Simon 1887 is revised and redefined. Descriptions and identification keys are provided to the following sixspecies, of which three are described as new: &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;incana&lt;/i&gt; (Karsch 1878), &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;narraweena&lt;/i&gt; n. sp., &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;melaina&lt;/i&gt; n.sp., &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;spinibarbis&lt;/i&gt; Simon 1909, &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;villosa&lt;/i&gt; (Keyserling 1881) and &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;zabkai&lt;/i&gt; n. sp. The type species of thegenus, &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;vestita&lt;/i&gt; (L. Koch 1879), is proposed here to be a junior synonym of &lt;i&gt;Servaea&lt;/i&gt; &lt;i&gt;incana.&lt;/i&gt; In addition to the diagnosesand descriptions, distributional and nucleotide sequence information are provided. DNA sequence data for the segment of COIused in other salticid studies was obtained for the five species for which suitable material was available. Intraspecific variationin &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;villosa&lt;/i&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;incana&lt;/i&gt; were studied in more detail. Within-species divergence was &lt;2% while between-species divergenceranged from 4–8%. The predicted distribution of each species was calculated using BIOCLIM. The two small and similar WAspecies, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;melaina&lt;/i&gt; and &lt;i&gt;S&lt;/i&gt; &lt;i&gt;spinibarbis,&lt;/i&gt; had adjacent predicted distributions, one coastal on sandy soils and one inland on other soil types.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">COI; BIOCLIM</subject>
+          <subject_class locale="en_US">COI</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Barry</firstname>
+          <middlename>J.</middlename>
+          <lastname>Richardson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicole</firstname>
+          <middlename>L.</middlename>
+          <lastname>Gunter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-33</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Daptonema &lt;/i&gt;Cobb, 1920 (Nematoda: Xyalidae) found in the monospecific &lt;i&gt;Halophila ovalis &lt;/i&gt;patches within an intertidal mixed-species seagrass bed on the coast of the Andaman Sea, Thailand</title>
+        <abstract locale="en_US">&lt;i&gt;Daptonema&lt;/i&gt; &lt;i&gt;hyalocella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;setihyalocella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are described from the Ban Pa Khlok seagrass bed, Phuket Prov-ince, Thailand. These new species are characterized by the epidermal chords consisting of large cells with a transparentappearance, as in &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;conicum&lt;/i&gt; (Filipjev, 1922) and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;trabeculosum&lt;/i&gt; (G. Schneider, 1906). The key characteristics of &lt;i&gt;D.&lt;/i&gt;&lt;i&gt;hyalocella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; are the peculiar epidermal chords, loose S-shaped spicules with no proximal cephalation, an indistinctgubernaculum with a lateral piece, and two terminal setae. For &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;setihyalocella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; the key characteristics are similarpeculiar epidermal chords, but in this case with the L-shaped spicules having proximal cephalation, a distinct gubernaculum with dorsal apophysis and lateral piece, and four terminal setae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Marine nematodes; &lt;i&gt;Daptonema&lt;/i&gt; &lt;i&gt;hyalocella&lt;/i&gt;; &lt;i&gt;Daptonema&lt;/i&gt; &lt;i&gt;setihyalocella&lt;/i&gt;; new species; taxonomy; seagrass bed; &lt;i&gt;Halophila&lt;/i&gt; &lt;i&gt;ovalis&lt;/i&gt;; Thailand</subject>
+          <subject_class locale="en_US">Marine nematodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chittima</firstname>
+          <lastname>Aryuthaka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kenji</firstname>
+          <lastname>Kito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-45</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Second contribution to the knowledge of water mites of the genus &lt;i&gt;Monatractides&lt;/i&gt; K. Viets (Acari: Hydrachnidia, Torrenticolidae) from New Guinea, with descriptions of three new species</title>
+        <abstract locale="en_US">New records of seven water mite species of the genus &lt;i&gt;Monatractides&lt;/i&gt; K. Viets, 1926 (Acari: Hydrachnidia, Torrenticoli-dae) from streams in West Papua and Papua provinces, New Guinea, Indonesia are presented. Three of them, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;magnus,&lt;/i&gt; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;neoaustralicus&lt;/i&gt; and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;rivulus,&lt;/i&gt; are described as new for science.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; water mites; new species; running waters; New Guinea; Papua</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Harry</firstname>
+          <lastname>Smit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-57</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species and new report of &lt;i&gt;Hyalella &lt;/i&gt;S. I. Smith, 1874 (Crustacea: Amphipoda: Dogielinotidae) from Minas Gerais state, Southeastern Brazil</title>
+        <abstract locale="en_US">At present, 13 species of &lt;i&gt;Hyalella&lt;/i&gt; are recorded from Brazilian hydrographic basins. A new species of the genus was foundin the municipality of Arcos, Minas Gerais state and it is described here. Curved seta on inner ramus of male uropod 1,posterior margin of gnathopod 2 propodus shorter than palm, telson longer than wide are some of the diagnostic charatctersof this new species. The articles of maxillipod palp and propodus of gnathopod 2 are elongated as observed in &lt;i&gt;H.longistila,&lt;/i&gt;but the new species differs from it because of the curved seta on uropod 1. Despite being large and diverse group, &lt;i&gt;Hyalella&lt;/i&gt;is represented only by two species in the state of Minas Gerais (Southeastern Brazil), &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;warminig&lt;/i&gt; and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;gracilicornis.&lt;/i&gt;The distribution of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;longistila,&lt;/i&gt; previously recorded in Rio de Janeiro state, was extended to Minas Gerais state. Thiswork, therefore, contributes for the knowledge of Amphipoda fauna from Brazil, describing a new species and providing a key to the species identification. From this work, the number of &lt;i&gt;Hyalella&lt;/i&gt; species found in Brazil to 14.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; freshwater crustacean; identification key; Dogielinotidae</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rafaela</firstname>
+          <lastname>Bastos-Pereira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alessandra</firstname>
+          <middlename>Angélica</middlename>
+          <lastname>De Pádua Bueno</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-68</pages>
+        <date_published>2012-06-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

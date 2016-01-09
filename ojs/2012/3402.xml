@@ -1,3 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3402.1</id>
+    <title locale="en_US">30 Jul. 2012</title>
+    <volume>3402</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-07-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Phylogeny and an integrated biogeography of &lt;i&gt;Acanthotetilla &lt;/i&gt;Burton, 1959 (Demospongiae: Spirophorida: Tetillidae): two-way traffic on the peri-African track</title>
+        <abstract locale="en_US">The recent description of Indonesian and Brazilian species of &lt;i&gt;Acanthotetilla&lt;/i&gt; motivated the onset of a phylogenic andbiogeographic revision of this taxon, to figure whether it had an Atlantic or an Indo-Pacific origin, and whether a Tethyanor southern African route might have been followed. A datamatrix with 27 morphological characters and 63 characterstates was tabulated and run on PAUP*4.0 using a parsimony algorithm. The resulting phylogenetic hypothesis wasconverted in a Taxon Area Cladogram (TAC) and used as a basis for a comparative analysis of the evolutionary history ofthe comprised biogeographic provinces, which in turn was contrasted to additional poriferan phylogenies. The&lt;i&gt;Acanthotetilla&lt;/i&gt; TAC was further used in a dispersal-vicariance analysis with the software DIVA 1.1, and in a manualpanbiogeographic analysis. The resulting preferred tree has a high Bootstrap support, as a consequence of the largest everratio of morphological character states employed per OTU among published poriferan phylogenies. The result showsCentral Indo-Pacific provinces basal to the whole clade, then Western Indo-Pacific provinces basal to the Tropical WesternAtlantic ones, thus unequivocally suggesting colonization of the latter from the former, and likely following a southernAfrican route. It is suggested here that this might have been accomplished through rafting on rings of the Agulhas Current.The dispersal – vicariance analysis undertaken postulated a recent dispersal event with recolonization of the Seychellesfrom the western Atlantic. The panbiogeographic map for &lt;i&gt;Acanthotetilla&lt;/i&gt; also points to Western Indo-Pacific origin ofTropical Western Atlantic species. A comparison with 10 additional sponge phylogenies did not recover any prevailingtrends for the relationships of the major areas utilized in the present analyses, but identified two taxa with likely CentralIndo-Pacific origins (Thrinacophora, &lt;i&gt;Placospongia),&lt;/i&gt; and one with a Western Indo-Pacific origin of Tropical WesternAtlantic clades (Petromica). The integrated biogeographic approach to the analysis of &lt;i&gt;Acanthotetilla&lt;/i&gt; data permitted distinct interpretations, which might have been overlooked in case a single method was chosen &lt;i&gt;a&lt;/i&gt; &lt;i&gt;priori.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Porifera; morphology; integrated biogeography; cladistic biogeography; dispersal-vicariance analysis; panbiogeography</subject>
+          <subject_class locale="en_US">Porifera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julio</firstname>
+          <middlename>C. C.</middlename>
+          <lastname>Fernandez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Solange</firstname>
+          <lastname>Peixinho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eduardo</firstname>
+          <lastname>Hajdu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2012-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Kinorhyncha from the Iberian Peninsula: new data from the first intensive sampling campaigns</title>
+        <abstract locale="en_US">Data are presented from the first intensive sampling of Kinorhyncha around the Iberian Peninsula over a 21-year periodfrom 1990 to 2011, from 81 sites mostly in less than 100 m water depth. Light-microscopic examination of approximately2000 specimens yielded 11 genera and 29 species, only 11 of which were previously recorded from peninsular waters. Thebalance comprises ten new species records for the peninsula and eight new species that are yet to be described. The mostspeciose genus is &lt;i&gt;Echinoderes,&lt;/i&gt; with ten species, two of them new, followed by &lt;i&gt;Pycnophyes&lt;/i&gt; (nine species, three new).There are two species of &lt;i&gt;Antygomonas&lt;/i&gt; (one new), and one each for the genera &lt;i&gt;Campyloderes,&lt;/i&gt; &lt;i&gt;Centroderes,&lt;/i&gt; &lt;i&gt;Condyloderes&lt;/i&gt;(one new), &lt;i&gt;Dracoderes,&lt;/i&gt; &lt;i&gt;Meristoderes,&lt;/i&gt; &lt;i&gt;Semnoderes,&lt;/i&gt; &lt;i&gt;Kinorhynchus&lt;/i&gt; (one new), and &lt;i&gt;Paracentrophyes.&lt;/i&gt; The most ubiquitousspecies in the samples, appearing at nearly all localities was &lt;i&gt;Pycnophyes&lt;/i&gt; &lt;i&gt;dentatus,&lt;/i&gt; newly recorded for the Iberian Penin-sula and found at nearly all sampled localities and in high numbers. &lt;i&gt;Echinoderes&lt;/i&gt; &lt;i&gt;cantabricus,&lt;/i&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hispanicus&lt;/i&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;dujar-&lt;/i&gt;&lt;i&gt;dinii&lt;/i&gt; also have a wide distribution along both Atlantic and Mediterranean coasts. Known information on diversity, biogeography and ecology (depth, sediment and abundance) is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Kinorhyncha; meiofauna; biogeography; distribution; sampling; Iberian Peninsula</subject>
+          <subject_class locale="en_US">Kinorhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Nuria</firstname>
+          <lastname>Sánchez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <lastname>Herranz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesús</firstname>
+          <lastname>Benito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Pardos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-44</pages>
+        <date_published>2012-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of characters useful in delineating ampharetid genera (Polychaeta)</title>
+        <abstract locale="en_US">The polychaete family Ampharetidae currently contains many monotypic genera. The usefulness of various characters is assessed in order to provide a more coherent framework on which to base the classification of the family.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">classification; history; cladistics</subject>
+          <subject_class locale="en_US">classification</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sergio</firstname>
+          <middlename>I.</middlename>
+          <lastname>Salazar-Vallejo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pat</firstname>
+          <lastname>Hutchings</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-53</pages>
+        <date_published>2012-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Raphidopus &lt;/i&gt;Stimpson, 1858, from the Persian Gulf (Crustacea: Decapoda: Anomura: Porcellanidae)</title>
+        <abstract locale="en_US">A new species of porcellanid crab, &lt;i&gt;Raphidopus&lt;/i&gt; &lt;i&gt;persicus,&lt;/i&gt; is described from Iran and Iraq in the Persian Gulf. The speciesis distinguished from its congeners, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;ciliatus&lt;/i&gt; Stimpson, 1858, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; Henderson, 1893, and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;johnsoni&lt;/i&gt; Ng &amp; Naka-sone, 1994, by a combination of carapace features, structure of the third maxilliped and thoracic sternum, cheliped armature, and proportions of the ambulatory legs.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Crustacea; Anomura; Porcellanidae; &lt;i&gt;Raphidopus&lt;/i&gt;; new species; Persian Gulf</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>K. L.</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohsen</firstname>
+          <lastname>Safaie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Murtada</firstname>
+          <middlename>D.</middlename>
+          <lastname>Naser</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-60</pages>
+        <date_published>2012-07-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The population of &lt;i&gt;Ctenomys &lt;/i&gt;from the Ñacuñán Biosphere Reserve (Mendoza, Argentina) belongs to &lt;i&gt;Ctenomys mendocinus &lt;/i&gt;Philippi, 1869 (Rodentia: Ctenomyidae): molecular and karyotypic evidence</title>
+        <abstract locale="en_US">Subterranean tuco-tucos of the genus &lt;i&gt;Ctenomys&lt;/i&gt; are caviomorph rodents comprising a complex of over 50 nominal speciesfound in the southern half of South America. The validity of several nominal forms awaits a proper assessment. Thepopulation of &lt;i&gt;Ctenomys&lt;/i&gt; from Ñacuñán Biosphere Reserve (Mendoza, Argentina) has been classically considered torepresent a distinct species and has been commonly referred as &lt;i&gt;Ctenomys&lt;/i&gt; “eremofilus”. Based on molecular andcytogenetic analysis we assessed the taxonomic status of the &lt;i&gt;Ctenomys&lt;/i&gt; population of Ñacuñán. Specimens analyzedshowed two very similar chromosome complements (2n=48 and 2n=50), the latter being widely distributed in populationsof &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mendocinus.&lt;/i&gt; Similarly, haplotypes recovered from Ñacuñán specimens are very similar and sister to those recoveredfrom specimens of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mendocinus.&lt;/i&gt; Considering this evidence we conclude that the individuals of &lt;i&gt;Ctenomys&lt;/i&gt; from Ñacuñán population should be assignable to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;mendocinus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Caviomorpha; Karyotype; Monte desert; Ñacuñán Reserve; species limits; taxonomy; Tuco-tucos</subject>
+          <subject_class locale="en_US">Caviomorpha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andres</firstname>
+          <lastname>Parada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Agustina</firstname>
+          <lastname>Ojeda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Solana</firstname>
+          <lastname>Tabeni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>D'elía</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-07-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

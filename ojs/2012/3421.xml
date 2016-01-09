@@ -1,3 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3421.1</id>
+    <title locale="en_US">14 Aug. 2012</title>
+    <volume>3421</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Cave shrimps &lt;i&gt;Troglocaris &lt;/i&gt;s. str. (Dormitzer, 1853), taxonomic revision and description of new taxa after phylogenetic and morphometric studies</title>
+        <abstract locale="en_US">Within the Dinaric genus &lt;i&gt;Troglocaris&lt;/i&gt; cave shrimps from the subgenus &lt;i&gt;Troglocaris&lt;/i&gt; s. str. (Dormitzer, 1853) (Crustacea:Decapoda: Atyidae), have the widest distribution area. The recent molecular analyses have revealed significant, crypticdiversity in the subgenus. The aim of the subsequent detailed morphometric analyses was the provision of the appropriatediagnosable characters for the discovered lineages, i.e. taking care of their taxonomical visibility. We herein designate aneotype and provide a detailed description for the polytipic type species of the genus &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;anophthalmus&lt;/i&gt; (Kollar, 1848), toenable its morphological distinction from the erroneously described &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;planinensis&lt;/i&gt; Birštejn, 1948. Considering acombination of morphological, geographical and molecular data, we describe four new subspecies: &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt; &lt;i&gt;ocellata&lt;/i&gt; ssp. nov.,&lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt; &lt;i&gt;periadriatica&lt;/i&gt; ssp. nov., &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt; &lt;i&gt;legovici&lt;/i&gt; ssp. nov. and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt; &lt;i&gt;sontica&lt;/i&gt; ssp. nov., apart from the extant &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;(T.)&lt;/i&gt; &lt;i&gt;a.&lt;/i&gt;&lt;i&gt;intermedia&lt;/i&gt; Babić, 1922. Due to a considerable morphological variability and no easily observable diagnostic morphological characters, the GenBank accession numbers for the COI gene are added in all mentioned taxa.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atyidae; phylogeny; subterranean; morphology; taxonomy</subject>
+          <subject_class locale="en_US">Atyidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jure</firstname>
+          <lastname>Jugovic</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Branko</firstname>
+          <lastname>Jalžić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Simona</firstname>
+          <lastname>Prevorčnik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Boris</firstname>
+          <lastname>Sket</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-08-14</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the little brown frogs in the &lt;i&gt;Gephyromantis decaryi &lt;/i&gt;complex with description of a new species</title>
+        <abstract locale="en_US">We revise the systematics of a group of little brown leaf litter frogs from Madagascar that are notoriously difficult to di-agnose, the &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;decaryi&lt;/i&gt; complex. Using an integrative combination of molecular data, bioacoustics, and mor-phology, we reveal four divergent evolutionary lineages which all are monophyletic in the mitochondrial gene genealogiesand have unique haplotypes in the nuclear RAG1 gene. We recognize three of these as distinct species and a fourth one ascandidate species which requires additional study for final confirmation and description. The three species are (1) &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;de-&lt;/i&gt;&lt;i&gt;caryi&lt;/i&gt; Angel, 1930, from Midongy and Ranomafana, characterized by relatively long limbs and continuous dorsal folds;(2) &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;verrucosus&lt;/i&gt; Angel, 1930 from Vondrozo and Manombo, herein removed from the synonymy of &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;bou-&lt;/i&gt;&lt;i&gt;lengeri,&lt;/i&gt; including the designation of a lectotype, characterized by irregular tubercles on the dorsum, and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;hintelmannae&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Tsitolaka forest near Ambohitsara village and a second nearby site, characterized by a relatively smoothdorsum, short note duration in advertisement calls, and lack of light-dark pattern along the upper lip. A fourth lineage mor-phologically similar and phylogenetically placed sister to &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;hintelmannae&lt;/i&gt; is characterized by the shortest note durationin calls of the complex but we consider the available data as insufficient to fully assess its status and propose to keep considering this lineage as candidate species &lt;i&gt;Gephyromantis&lt;/i&gt; sp. 7 until more specimens and data become available.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia: Anura: Mantellidae: &lt;i&gt;Gephyromantis;&lt;/i&gt; &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;decaryi&lt;/i&gt;; &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;verrucosus&lt;/i&gt;; &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;hintelmannae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; LBF; little brown frogs; cryptic diversity; Madagascar</subject>
+          <subject_class locale="en_US">Amphibia: Anura: Mantellidae: &lt;i&gt;Gephyromantis;&lt;/i&gt; &lt;i&gt;Gephyromantis&lt;/i&gt; &lt;i&gt;decaryi&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Katharina</firstname>
+          <middlename>C.</middlename>
+          <lastname>Wollenberg</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Frank</firstname>
+          <lastname>Glaw</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Vences</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-60</pages>
+        <date_published>2012-08-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The discovery of male &lt;i&gt;Potiicoara brasiliensis &lt;/i&gt;(Crustacea, Spelaeogriphacea) with notes on biology and distribution</title>
+        <abstract locale="en_US">The male of &lt;i&gt;Potiicoara&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; is reported for the first time with evidence of sexual dimorphism. Male diagnosticcharacters are described and compared with the other three species of Spelaeogriphidae. Males present differential mor-phology on both distal podomere articles of the antennula and antenna, an elongate and curved bare endopod on pleopod2, a pair of short round penes on the sternum near the base of pereopod 7, and telson with dorsum almost smooth and apexstraight. Material is sampled for the first time from karstic areas north of the species type-locality, Gruta Ricardo Franconear Corumbá City, and Gruta do Curupira in the Araras Mountains. These new findings expand the distribution of thespecies over seven hundred kilometers. Comparisons between exemplars of both sexes are presented. A hypothesis on the distributional pattern of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt; is introduced based on the geological history of Central-West Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Spelaeogriphacea; &lt;i&gt;Potiicoara&lt;/i&gt; &lt;i&gt;brasiliensis&lt;/i&gt;; sexual dimorphism; karstic caves; subterranean waters</subject>
+          <subject_class locale="en_US">Spelaeogriphacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Maria S.</middlename>
+          <lastname>Pires-Vanin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>10-68</pages>
+        <date_published>2012-08-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

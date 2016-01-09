@@ -1,3 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3488.1</id>
+    <title locale="en_US">18 Sep. 2012</title>
+    <volume>3488</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The bees of the genus &lt;i&gt;Colletes &lt;/i&gt;Latreille 1802 of the Ukraine, with a key to species (Hymenoptera: Apoidea: Colletidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maxim</firstname>
+          <middlename>Yu.</middlename>
+          <lastname>Proshchalykin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Kuhlmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-40</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of the taxonomic history and biodiversity of the genus &lt;i&gt;Urodeta &lt;/i&gt;(Lepidoptera: Elachistidae: Elachistinae), with description of new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jurate</firstname>
+          <lastname>De Prins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Virginijus</firstname>
+          <lastname>Sruoga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-62</pages>
+        <date_published>2012-09-18</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of Neotropical species of Empididae (Diptera) described by Mario Bezzi. XI. The species described in &lt;i&gt;Empis &lt;/i&gt;Linnaeus </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rafael</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>T.</middlename>
+          <lastname>Câmara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-79</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The true larva and the female of &lt;i&gt;Aeschnosoma marizae &lt;/i&gt;Santos, 1981 (Odonata: Anisoptera: Corduliidae s.s.) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Günther</firstname>
+          <lastname>Fleck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>80-88</pages>
+        <date_published>2012-09-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

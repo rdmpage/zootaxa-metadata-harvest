@@ -1,3 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3333.1</id>
+    <title locale="en_US">4 Jun. 2012</title>
+    <volume>3333</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-06-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the genus &lt;i&gt;Rosapha &lt;/i&gt;Walker (Diptera: Stratiomyidae)</title>
+        <abstract locale="en_US">The species of &lt;i&gt;Rosapha&lt;/i&gt; Walker, 1859 are revised and the monotypic genus &lt;i&gt;Rosaphula&lt;/i&gt; Frey, 1934 is proposed as a newsynonym of &lt;i&gt;Rosapha.&lt;/i&gt; Eleven species of &lt;i&gt;Rosapha&lt;/i&gt; are distinguished and four of them, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;brevispinosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Laosand Thailand, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;stigmatica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Thailand, and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;flavistigmatica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from India andMalaysia, are described as new. &lt;i&gt;Rosapha&lt;/i&gt; &lt;i&gt;bicolor&lt;/i&gt; Bigot, 1877 is proposed as a synonym of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;habilis&lt;/i&gt; Walker, 1859 on thebasis of type comparison. The males of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;handschini&lt;/i&gt; (Frey, 1934), &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;obscurata&lt;/i&gt; de Meijere, 1916, and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; deMeijere, 1919, are described for the first time. The distribution of ten species is probably confined to the Oriental Regionbut &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;umbripennis&lt;/i&gt; Lindner, 1957, was described from New Guinea. &lt;i&gt;Rosapha&lt;/i&gt; &lt;i&gt;bimaculata&lt;/i&gt; Wulp in de Meijere, 1904, wasnewly recorded from India, Laos, Malaysia, Thailand and Vietnam, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;flagellicornis&lt;/i&gt; Enderlein, 1914, from Malaysia, &lt;i&gt;R.&lt;/i&gt;&lt;i&gt;obscurata&lt;/i&gt; from the Philippines and Thailand, and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; from Indonesia (Sumatra), Malaysia, the Philippines, Thailand and Vietnam. A key to the &lt;i&gt;Rosapha&lt;/i&gt; species is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; new synonyms; new combination; new records; variation; distribution; identification key; habitat; Pachygastrinae</subject>
+          <subject_class locale="en_US">New species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Damir</firstname>
+          <lastname>Kovac</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rudolf</firstname>
+          <lastname>Rozkošný</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-23</pages>
+        <date_published>2012-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Ten new species of the &lt;i&gt;Stegana &lt;/i&gt;(&lt;i&gt;Steganina&lt;/i&gt;) &lt;i&gt;shirozui &lt;/i&gt;species group (Diptera, Drosophilidae) from China</title>
+        <abstract locale="en_US">Ten new species of the &lt;i&gt;Stegana&lt;/i&gt; (Steganina) &lt;i&gt;shirozui&lt;/i&gt; species group are described from central to southwestern China: &lt;i&gt;S.&lt;/i&gt; (S.)&lt;i&gt;danbaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;dianensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;glabra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;montana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;oligochaeta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt;(S.) &lt;i&gt;tentaculifera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;parvispina&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;pianmaensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;protuberans&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; (S.) &lt;i&gt;xishuangbanna&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to all the species of the &lt;i&gt;shirozui&lt;/i&gt; group is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">China; new species; &lt;i&gt;Stegana&lt;/i&gt; &lt;i&gt;shirozui&lt;/i&gt; group; Drosophilidae</subject>
+          <subject_class locale="en_US">China</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xi-Peng</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong-Wei</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>24-37</pages>
+        <date_published>2012-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomy of the &lt;i&gt;Proisotoma &lt;/i&gt;complex. IV. Notes on chaetotaxy of femur and description of new species of &lt;i&gt;Scutisotoma &lt;/i&gt;and &lt;i&gt;Weberacantha &lt;/i&gt;from Asia</title>
+        <abstract locale="en_US">Four new species of the genera &lt;i&gt;Scutisotoma&lt;/i&gt; Bagnall and &lt;i&gt;Weberacantha&lt;/i&gt; Christiansen are described from Asia; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;bengei&lt;/i&gt;&lt;b&gt;sp.nov.&lt;/b&gt; (SW China), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;robustodens&lt;/i&gt; &lt;b&gt;sp.nov.&lt;/b&gt; (East Siberia), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;trichaetosa&lt;/i&gt; &lt;b&gt;sp.nov.&lt;/b&gt; (E China), and &lt;i&gt;W.&lt;/i&gt; &lt;i&gt;cylindrica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;(Far East of Russia). &lt;i&gt;Scutisotoma&lt;/i&gt; &lt;i&gt;christiansensi&lt;/i&gt; (Stach, 1959) is figured from type material. The chaetotaxy of femur offirst pair of legs is given a consistent nomenclature, its variability based on a survey of 31 species of two genera is studied. The genus &lt;i&gt;Scutisotoma&lt;/i&gt; is divided into three species groups (christianseni, &lt;i&gt;schisti,&lt;/i&gt; and &lt;i&gt;subarctica).&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anurophorinae; Isotomidae; nomenclature of chaetae; chaetotaxy of legs</subject>
+          <subject_class locale="en_US">Anurophorinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cheng-Wang</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mikhail</firstname>
+          <lastname>Potapov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-49</pages>
+        <date_published>2012-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Selitrichodes neseri &lt;/i&gt;n. sp., a new parasitoid of the eucalyptus gall wasp &lt;i&gt;Leptocybe&lt;/i&gt; &lt;i&gt;invasa &lt;/i&gt;Fisher &amp; La Salle (Hymenoptera: Eulophidae: Tetrastichinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Selitrichodes&lt;/i&gt; &lt;i&gt;neseri&lt;/i&gt; Kelly &amp; La Salle &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Hymenoptera: Eulophidae: Tetrastichinae), is described as a parasitoid of the inva-sive eucalyptus gall wasp &lt;i&gt;Leptocybe&lt;/i&gt; &lt;i&gt;invasa&lt;/i&gt; Fisher &amp; La Salle (Hymenoptera: Eulophidae: Tetrastichinae), which is causingsubstantial damage particularly in commercial &lt;i&gt;Eucalyptus&lt;/i&gt; plantations. &lt;i&gt;Selitrichodes&lt;/i&gt; &lt;i&gt;neseri&lt;/i&gt; was originally collected in Australiain 2010 when searching for biological control agents of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;invasa.&lt;/i&gt; It has since been reared in quarantine in South Africa where it is being evaluated for release as a biological control agent of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;invasa.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">gall inducer ; biological control</subject>
+          <subject_class locale="en_US">gall inducer </subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Janine</firstname>
+          <lastname>Kelly</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>John</firstname>
+          <lastname>La Salle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Marlene</firstname>
+          <middlename>Harney (South</middlename>
+          <lastname>Africa)</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gudrun</firstname>
+          <lastname>Dittrich-Schröder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Brett</firstname>
+          <lastname>Hurley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-57</pages>
+        <date_published>2012-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Irenaneura&lt;/i&gt;, a new leafhopper genus from China (Hemiptera: Cicadellidae: Typhlocybinae: Erythroneurini), with description of four new species</title>
+        <abstract locale="en_US">A new genus of Erythroneurini from China and four new species, &lt;i&gt;Irenaneura&lt;/i&gt; &lt;i&gt;dorsispina,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;dworakowski,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;longiprocessa,&lt;/i&gt; &lt;i&gt;I.&lt;/i&gt; &lt;i&gt;bifurcata&lt;/i&gt; &lt;b&gt;spp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described and illustrated, and a key for the identification of adult males is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Auchenorrhyncha; morphology; taxonomy</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cao</firstname>
+          <lastname>Yanghui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Huang</firstname>
+          <lastname>Min</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhang</firstname>
+          <lastname>Yalin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-65</pages>
+        <date_published>2012-06-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First Record of the Family Potamocoridae (Hemiptera: Heteroptera) in Costa Rica and of &lt;i&gt;Coleopterocoris &lt;/i&gt;Hungerford, 1942 in Central America</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Federico</firstname>
+          <lastname>Herrera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Monika</firstname>
+          <lastname>Springer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-06-04</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

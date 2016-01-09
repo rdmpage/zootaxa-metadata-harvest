@@ -1,3 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3503.1</id>
+    <title locale="en_US">2 Oct. 2012</title>
+    <volume>3503</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Nesodiprion orientalis &lt;/i&gt;sp. nov., &lt;i&gt;N. japonicus&lt;/i&gt;, and &lt;i&gt;N. biremis&lt;/i&gt;, with a key to species of &lt;i&gt;Nesodiprion &lt;/i&gt;(Hymenoptera, Diprionidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hideho</firstname>
+          <lastname>Hara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Kunanyia stephaniae &lt;/i&gt;gen. nov. &amp; sp. nov. (Lepidoptera: Geometridae: Ennominae): an unusual and rare diurnal moth from the mountains of Tasmania </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Catherine</firstname>
+          <middlename>J.</middlename>
+          <lastname>Byrne</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nasen</firstname>
+          <lastname>Wei</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-46</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first wasps from the Upper Jurassic of Australia (Hymenoptera: Evanioidea, Praeaulacidae) STEFANIE K. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Oberprieler</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexandr</firstname>
+          <middlename>P.</middlename>
+          <lastname>Rasnitsyn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Denis</firstname>
+          <middlename>J.</middlename>
+          <lastname>Brothers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-54</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Full description of &lt;i&gt;Cordulagomphus primaerensis &lt;/i&gt;from Santana Formation (Lower Cretaceous of Brazil) (Odonata: Aeshnoptera: Proterogomphidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Julian</firstname>
+          <middlename>F.</middlename>
+          <lastname>Petrulevičius</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rafael</firstname>
+          <middlename>G.</middlename>
+          <lastname>Martins-Neto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dany</firstname>
+          <lastname>Azar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edouard</firstname>
+          <lastname>Makhoul</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>André</firstname>
+          <lastname>Nel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-60</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Additions to the taxonomy of the armadillo ants (Hymenoptera, Formicidae, &lt;i&gt;Tatuidris&lt;/i&gt;) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>A.</middlename>
+          <lastname>Donoso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-81</pages>
+        <date_published>2012-10-02</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of the "&lt;i&gt;Haenydra&lt;/i&gt;" lineage (Coleoptera: Hydraenidae) from the Republic of Macedonia </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vlatka</firstname>
+          <middlename>Mičetić</middlename>
+          <lastname>Stanković</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Manfred</firstname>
+          <middlename>A.</middlename>
+          <lastname>Jäch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>82-88</pages>
+        <date_published>2012-10-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

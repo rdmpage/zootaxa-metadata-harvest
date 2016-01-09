@@ -1,3 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3482.1</id>
+    <title locale="en_US">13 Sep. 2012</title>
+    <volume>3482</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-13</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist and distribution atlas of the Scarabaeinae (Coleoptera: Scarabaeidae) of Costa Rica </title>
+        <abstract locale="en_US">The 182 species of Scarabaeinae known to occur in Costa Rica are listed with synonymies included. We place &lt;i&gt;Uroxys&lt;/i&gt; &lt;i&gt;mac-&lt;/i&gt;&lt;i&gt;rocularis&lt;/i&gt; Howden &amp; Young as a synonym of &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;boneti&lt;/i&gt; Pereira &amp; Halffter (new &lt;b&gt;synonym);&lt;/b&gt; we also place &lt;i&gt;Uroxys&lt;/i&gt; &lt;i&gt;depres-&lt;/i&gt;&lt;i&gt;sifrons&lt;/i&gt; Howden &amp; Young as a synonym of &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;pauliani&lt;/i&gt; Balthasar (new &lt;b&gt;synonym).&lt;/b&gt; We conducted a mitochondrial DNAcytochrome oxidase I barcoding analysis in order to clarify some taxonomic uncertainties with &lt;i&gt;Phanaeus&lt;/i&gt; &lt;i&gt;pyrois&lt;/i&gt; Bates and&lt;i&gt;Sulcophanaeus&lt;/i&gt; &lt;i&gt;noctis&lt;/i&gt; (Bates). We elevate &lt;i&gt;Phanaeus&lt;/i&gt; &lt;i&gt;pyrois&lt;/i&gt; &lt;i&gt;malyi&lt;/i&gt; Arnaud to &lt;i&gt;Phanaeus&lt;/i&gt; &lt;i&gt;malyi&lt;/i&gt; and revalidate &lt;i&gt;Phanaeus&lt;/i&gt; &lt;i&gt;ex-&lt;/i&gt;&lt;i&gt;celsus&lt;/i&gt; Bates as valid species. We consider the species &lt;i&gt;Dichotomius&lt;/i&gt; &lt;i&gt;nevermanni&lt;/i&gt; Luederwaldt as &lt;i&gt;incertae&lt;/i&gt; &lt;i&gt;sedis.&lt;/i&gt; A CostaRican distribution map is provided for all species except &lt;i&gt;Dichotomius&lt;/i&gt; &lt;i&gt;costaricensis,&lt;/i&gt; which is only known from a countryrecord. We report, map, and estimate the spread of the invasive species &lt;i&gt;Euoniticellus&lt;/i&gt; &lt;i&gt;intermedius&lt;/i&gt; (Reiche) for Central America, from Chiapas to Costa Rica.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">checklist; species revalidation; new synonym; new combination; invasive species; mitochondrial DNA; barcoding analysis</subject>
+          <subject_class locale="en_US">checklist</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ángel</firstname>
+          <lastname>Solís</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bert</firstname>
+          <lastname>Kohlmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2012-09-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Scapomegas&lt;/i&gt; Lacordaire, 1854 (Coleoptera: Histeridae: Omalodini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fernando</firstname>
+          <middlename>W. T.</middlename>
+          <lastname>Leivas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carla</firstname>
+          <middlename>L.</middlename>
+          <lastname>Bicho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nicolas</firstname>
+          <lastname>Degallier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>P.</middlename>
+          <lastname>Moura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-46</pages>
+        <date_published>2012-09-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A subgeneric revision of &lt;i&gt;Crematogaster &lt;/i&gt;and discussion of regional species-groups (Hymenoptera: Formicidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Crematogaster&lt;/i&gt; ants are diverse, widespread and abundant in tropical, subtropical and warm-temperate climatesthroughout the world. The species diversity of this genus has been notoriously difficult to manage based upon morphologyalone, and former attempts have generated a vaguely defined subgeneric system. I propose an improvement of the previoussubgeneric classification and recognize two subgenera based upon a concurrent molecular study of the global diversity ofthese ants. Five of 13 former subgenera of &lt;i&gt;Crematogaster&lt;/i&gt; are hereby synonymised under the subgenus &lt;i&gt;Orthocrema&lt;/i&gt;Santschi: &lt;i&gt;Neocrema&lt;/i&gt; Santschi &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Eucrema&lt;/i&gt; Santschi &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Rhachiocrema&lt;/i&gt; Mann &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Mesocrema&lt;/i&gt; Santschi&lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Apterocrema&lt;/i&gt; Wheeler &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; The eight remaining subgenera are synonymised under the subgenus&lt;i&gt;Crematogaster&lt;/i&gt; sensu stricto: &lt;i&gt;Decacrema&lt;/i&gt; Forel &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Oxygyne&lt;/i&gt; Forel &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Atopogyne&lt;/i&gt; Forel &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;&lt;i&gt;Sphaerocrema&lt;/i&gt; Santschi &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Colobocrema&lt;/i&gt; Wheeler &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Paracrema&lt;/i&gt; Santschi &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Physocrema&lt;/i&gt; Forel&lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Xiphocrema&lt;/i&gt; Forel &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; I present keys, morphological diagnoses and illustrations for the two revised,globally distributed subgenera &lt;i&gt;Orthocrema&lt;/i&gt; and &lt;i&gt;Crematogaster&lt;/i&gt; sensu stricto, based upon the worker caste. The twosubgenera can be distinguished from each other by a combination of features of the petiole, postpetiole and propodealspiracle. I also provisionally circumscribe a number of species-groups within the subgenus &lt;i&gt;Crematogaster&lt;/i&gt; and discuss the utility of species-groups for further taxonomic, phylogenetic and ecological research on the genus &lt;i&gt;Crematogaster.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Crematogaster&lt;/i&gt; ants; &lt;i&gt;Orthocrema&lt;/i&gt;; infrageneric classification; subgenera; species-groups; taxonomy; Myrmicinae</subject>
+          <subject_class locale="en_US">&lt;i&gt;Crematogaster&lt;/i&gt; ants</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bonnie</firstname>
+          <middlename>B.</middlename>
+          <lastname>Blaimer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-67</pages>
+        <date_published>2012-09-13</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New synonymy and redescription of &lt;i&gt;Mastigus deustus&lt;/i&gt; (Thunberg) (Coleoptera, Staphylinidae, Scydmaeninae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paweł</firstname>
+          <lastname>Jałoszyński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68-76</pages>
+        <date_published>2012-09-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the larva of &lt;i&gt;Mnesarete pudica &lt;/i&gt;(Hagen &lt;i&gt;in &lt;/i&gt;Selys, 1853) (Odonata: Calopterygidae) and notes on known genera of South American Calopterygidae larvae </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Rhainer</firstname>
+          <lastname>Guillermo-Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pitágoras</firstname>
+          <middlename>C.</middlename>
+          <lastname>Bispo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>77-81</pages>
+        <date_published>2012-09-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Axinotarsus pulicarius &lt;/i&gt;(F.) (Coleoptera: Melyridae: Malachiinae), a soft-winged flower beetle new to North America </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>E.</firstname>
+          <middlename>Richard</middlename>
+          <lastname>Hoebeke</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alfred</firstname>
+          <middlename>G.</middlename>
+          <lastname>Wheeler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>82-87</pages>
+        <date_published>2012-09-13</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Correction of the name of a recently published taxon in the Curculionini (Curculionidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frank</firstname>
+          <middlename>W.</middlename>
+          <lastname>Pelsue</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charles</firstname>
+          <middlename>W.</middlename>
+          <lastname>O'brien</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>88-88</pages>
+        <date_published>2012-09-13</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

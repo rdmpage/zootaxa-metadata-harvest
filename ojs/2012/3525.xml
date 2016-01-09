@@ -1,3 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3525.1</id>
+    <title locale="en_US">24 Oct. 2012</title>
+    <volume>3525</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-10-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomy of &lt;i&gt;Dolerus subfasciatus &lt;/i&gt;auct. and &lt;i&gt;D. subfasciatus &lt;/i&gt;F. Smith with notes on the sawfly subgenus &lt;i&gt;Equidolerus &lt;/i&gt;(Hymenoptera, Tenthredinidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Dolerus&lt;/i&gt; (Equidolerus) &lt;i&gt;subfasciatus&lt;/i&gt; F. Smith 1874 is a valid species. &lt;i&gt;Dolerus&lt;/i&gt; &lt;i&gt;subfasciatus&lt;/i&gt; auct. is shown to include threedistinct species: the Nearctic &lt;i&gt;D.&lt;/i&gt; (Equidolerus.) &lt;i&gt;neoaprilis&lt;/i&gt; MacGillivray, 1908, &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; and two Palaearctic species,&lt;i&gt;D.&lt;/i&gt; (E.) &lt;i&gt;pseudoanticus&lt;/i&gt; Malaise, 1931, &lt;b&gt;spec.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; (E.) &lt;i&gt;rhodogaster&lt;/i&gt; Zhelochovtsev, 1935, &lt;b&gt;stat.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Distributionrecords and imaginal diagnostic characters of the species are provided, and the male of &lt;i&gt;D.&lt;/i&gt; (E.) &lt;i&gt;subfasciatus&lt;/i&gt; is described.Lectotypes are designated for &lt;i&gt;Dolerus&lt;/i&gt; &lt;i&gt;picinus&lt;/i&gt; Marlatt, 1898, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;picinus&lt;/i&gt; &lt;i&gt;rhodogaster&lt;/i&gt; Zhelochovtsev, 1935,&lt;i&gt;D.&lt;/i&gt; &lt;i&gt;pseudoanticus&lt;/i&gt; Malaise, 1931, and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;yokohamensis&lt;/i&gt; Rohwer, 1925. &lt;i&gt;Dolerus&lt;/i&gt; &lt;i&gt;lucidus&lt;/i&gt; Freymuth, 1870 and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;purus&lt;/i&gt;Jakowlew, 1891 are associated with the subgenus &lt;i&gt;Equidolerus&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;glabratus&lt;/i&gt; Wei, 2002 is transferred from &lt;i&gt;Equidolerus&lt;/i&gt; to &lt;i&gt;Dolerus&lt;/i&gt; s. str.&lt;b&gt;Kew&lt;/b&gt; &lt;b&gt;words:&lt;/b&gt; Sawflies, lectotype, nomenclature</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mikk</firstname>
+          <lastname>Heidemaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>R.</middlename>
+          <lastname>Smith</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Akihiko</firstname>
+          <lastname>Shinohara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2012-10-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">New crickets of the subfamilies Phaloriinae and Pteroplistinae (Orthoptera: Gryllidae) from Singapore </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Andrej</firstname>
+          <middlename>V.</middlename>
+          <lastname>Gorochov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ming</firstname>
+          <middlename>Kai</middlename>
+          <lastname>Tan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-34</pages>
+        <date_published>2012-10-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Proposed change in status of the Nearctic genus &lt;i&gt;Charadrodromia &lt;/i&gt;Melander (Diptera: Hybotidae, Tachydromiinae), with description of four new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Igor</firstname>
+          <lastname>Shamshev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <lastname>Grootaert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-50</pages>
+        <date_published>2012-10-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Griphophanes &lt;/i&gt;Grootaert &amp; Meuffels (Diptera, Dolichopodidae), with the description of ten new species from Sri Lanka </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Stefan</firstname>
+          <lastname>Naglis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Patrick</firstname>
+          <lastname>Grootaert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-64</pages>
+        <date_published>2012-10-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Lyctocoridae (Hemiptera: Heteroptera: Cimicoidea) feeding on the exuded sap of Sawtooth Oak, &lt;i&gt;Quercus acutissima&lt;/i&gt;, in Japan </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kazutaka</firstname>
+          <lastname>Yamada</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Tomohide</firstname>
+          <lastname>Yasunaga</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Toshihide</firstname>
+          <lastname>Ichikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-74</pages>
+        <date_published>2012-10-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Proconosama takiyae&lt;/i&gt;, a new sharpshooter from Ecuador, the female of &lt;i&gt;P. alalia &lt;/i&gt;(Distant), and a key to the species of the genus (Hemiptera: Cicadellidae: Cicadellinae: Proconiini) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>G.</firstname>
+          <lastname>Mejdalani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cavichioli</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>R.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carvalho</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>A.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>75-82</pages>
+        <date_published>2012-10-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The scentless plant bug, &lt;i&gt;Liorhyssus hyalinus &lt;/i&gt;(Fabricius) (Hemiptera: Heteroptera: Rhopalidae): Description of immature stages and notes on its life history </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcela</firstname>
+          <lastname>Cornelis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Estela</firstname>
+          <lastname>Quirán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>María</firstname>
+          <middlename>C</middlename>
+          <lastname>Coscarón</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>83-88</pages>
+        <date_published>2012-10-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

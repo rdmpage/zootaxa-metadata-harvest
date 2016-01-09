@@ -1,3 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3438.1</id>
+    <title locale="en_US">24 Aug. 2012</title>
+    <volume>3438</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-08-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Observations on the biology of Afrotropical Hesperiidae (Lepidoptera) principally from Kenya. Part 4. Hesperiinae: Aeromachini and Baorini</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>J. W.</middlename>
+          <lastname>Cock</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>T.</firstname>
+          <middlename>Colin E.</middlename>
+          <lastname>Congdon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of the genus &lt;i&gt;Eucharitolus &lt;/i&gt;Bates (Coleoptera: Cerambycidae: Lamiinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Juan</firstname>
+          <middlename>Pablo Botero</middlename>
+          <lastname>R.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Monné</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-53</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First extinct genus of a flea (Siphonaptera: Pulicidae) in Miocene amber from the Dominican Republic</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vincent</firstname>
+          <lastname>Perrichot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jean-Claude</firstname>
+          <lastname>Beaucournu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jürgen</firstname>
+          <lastname>Velten</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-61</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new ectoparasitic &lt;i&gt;Aulacothrips &lt;/i&gt;(Thysanoptera: Heterothripidae) from Amazon rainforest and the significance of variation in antennal sensoria</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adriano</firstname>
+          <lastname>Cavalleri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lucas</firstname>
+          <middlename>A.</middlename>
+          <lastname>Kaminski</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Milton</firstname>
+          <middlename>S.</middlename>
+          <lastname>Mendonça</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-08-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

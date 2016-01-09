@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3456.1</id>
+    <title locale="en_US">6 Sep. 2012</title>
+    <volume>3456</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-09-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;A review of the ant genus &lt;i&gt;Adelomyrmex &lt;/i&gt;Emery 1897 (Hymenoptera, Formicidae) in Central America&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US">The taxonomy and natural history of the ant genus &lt;i&gt;Adelomyrmex&lt;/i&gt; Emery is reviewed for the Central American region. Theyare small, litter-inhabiting ants most often collected in Berlese and Winkler samples. Although the genus and its relativeshave a pantropical distribution, Central American cloud forests are the only places where they are abundant and diverse.Several &lt;i&gt;Adelomyrmex&lt;/i&gt; species are mountain-top endemics with very restricted ranges, and climate change clearly posesthe threat of mountain-top extinction. The 21 Mexican and Central American species are treated in some detail and a keyto the 26 mainland New World species is provided. Nine new species are described, eight from Mexico and Central Amer-ica (A. &lt;i&gt;anxiocalor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bispeculum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;dentivagans&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;marginodus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;metzabok&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt;&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nortenyo&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;paratristani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;quetzal&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.)&lt;/b&gt; and one from the oceanic Isla del Coco in the easternPacific (A. &lt;i&gt;coco&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt; New synonymy is proposed for &lt;i&gt;Adelomyrmex&lt;/i&gt; &lt;i&gt;tristani&lt;/i&gt; (Menozzi, 1931) (= &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brevispinosus&lt;/i&gt; Fernández, 2003, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.).&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biodiversity; taxonomy; new species; Myrmicinae; endemism; montane</subject>
+          <subject_class locale="en_US">biodiversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>John</firstname>
+          <middlename>T.</middlename>
+          <lastname>Longino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-35</pages>
+        <date_published>2012-09-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;Aphidiinae (Hymenoptera, Braconidae, Aphidiinae) from Slovenia, with descrip-tion of a new &lt;i&gt;Aphidius &lt;/i&gt;species&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Katarina</firstname>
+          <lastname>Kos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stanislav</firstname>
+          <lastname>Trdan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andjeljko</firstname>
+          <lastname>Petrović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Petr</firstname>
+          <lastname>Starý</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nickolas</firstname>
+          <middlename>G.</middlename>
+          <lastname>Kavallieratos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olivera</firstname>
+          <lastname>Petrović-Obradović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Željko</firstname>
+          <lastname>Tomanović</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-50</pages>
+        <date_published>2012-09-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;span LANG="EN"&gt;Taxonomic study of the genus &lt;i&gt;Stilbops &lt;/i&gt;Förster from Japan (Hymenoptera:&lt;/span&gt; &lt;span LANG="EN"&gt;Ichneumonidae: Stilbopinae)&lt;/span&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Kyohei</firstname>
+          <lastname>Watanabe</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kaoru</firstname>
+          <lastname>Maeto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-81</pages>
+        <date_published>2012-09-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;&lt;span LANG="EN"&gt;Platyxyela &lt;/span&gt;&lt;/i&gt;&lt;span LANG="EN"&gt;gen. nov. (Hymenoptera, Xyelidae, Macroxyelinae) from the Middle Jurassic of China&lt;/span&gt;&lt;span LANG="EN"&gt;&lt;/span&gt;</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mei</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chungkun</firstname>
+          <lastname>Shih</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>82-88</pages>
+        <date_published>2012-09-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

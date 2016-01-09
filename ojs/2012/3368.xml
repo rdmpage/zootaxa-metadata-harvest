@@ -344,19 +344,8 @@
         <pages>256-262</pages>
         <date_published>2012-07-04</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">around South Korea</title>
+        <title locale="en_US">New species of free-living marine Sabatieriinae (Nematoda: Monhysterida: Comesomatidae) from</title>
         <abstract locale="en_US"/>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -364,7 +353,8 @@
           <subject_class locale="en_US"><![CDATA[]]></subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname>Natalie</firstname>
+          <firstname>Around</firstname>
+          <middlename>South Koreanatalie</middlename>
           <lastname>Barnes</lastname>
           <email>user@example.com</email>
         </author>
@@ -379,20 +369,9 @@
           <lastname>Lee</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>263-290</pages>
+        <date_published>2012-07-04</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3368.1</id>
-    <title locale="en_US">4 Jul. 2012</title>
-    <volume>3368</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-07-04</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">A new species and a new genus of Parabathynellidae (Crustacea, Syncarida) from South Korea</title>
         <abstract locale="en_US"/>
