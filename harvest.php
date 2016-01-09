@@ -71,6 +71,9 @@ $basedir = 'zootaxa/list/2012';
 
 $files1 = scandir($basedir);
 
+//$files1 = array('3260.html');
+//$files1 = array('3259.html');
+
 //print_r($files1);
 
 $count = 0;
@@ -131,7 +134,7 @@ foreach ($files1 as $filename)
 		
 		foreach($paragraphs as $paragraph)
 		{
-			if (preg_match('/^<font(\s+color="#FFFFFF")?(\s+face="Times-Bold")? size="2"/', $paragraph))
+			if (preg_match('/^(<font(\s+color="#FFFFFF")?(\s+face="Times-Bold")? size="2"|<font color="#0099CC" face="Arial" size="2">)/', $paragraph))
 			{
 				$rows = explode("<br>", $paragraph);
 				
@@ -185,21 +188,29 @@ foreach ($files1 as $filename)
 				}
 				if (preg_match('/201[0|1|2]/', $basedir))
 				{
-							$title_row = 2;
-							$author_row = 3;						
-							$metadata_row = 1;
-							$link_row = 4;	
-							
-							if (count($rows) == 6)
-							{
-								$title_row = 3;
-								$author_row = 4;						
-								$metadata_row = 2;
-								$link_row = 5;								
-							}									
+					$title_row = 2;
+					$author_row = 3;						
+					$metadata_row = 1;
+					$link_row = 4;	
+					
+					/*
+					if (count($rows) == 6)
+					{
+						$title_row = 3;
+						$author_row = 4;						
+						$metadata_row = 2;
+						$link_row = 5;								
+					}	
+					*/
+					
+					if (count($rows) == 6)
+					{
+						// title or authors span more than row
+						$link_row = 5;								
+					}	
 				}
 
-				//echo "meta row=$metadata_row\ntitle row=$title_row\nauthor row=$author_row\nlink_row=$link_row\n";
+				echo "meta row=$metadata_row\ntitle row=$title_row\nauthor row=$author_row\nlink_row=$link_row\n";
 				//exit();
 				
 				$reference = new stdclass;
@@ -257,6 +268,13 @@ foreach ($files1 as $filename)
 				if ($author_row != -1)
 				{
 					$authorstring = trim(strip_tags($rows[$author_row]));
+					
+					// If link_row is 5 then authors MAY span two rows
+					if ($link_row == 5)
+					{
+						$authorstring .= trim(strip_tags($rows[4]));
+					}
+					
 					$authorstring = preg_replace('/\((.*)\)/U', "", $authorstring);
 					$authorstring = preg_replace('/&amp;/U', "&", $authorstring);
 					$authorstring = preg_replace('/\.([A-Z])/U', ". $1", $authorstring);

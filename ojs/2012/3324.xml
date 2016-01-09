@@ -2,16 +2,16 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
+    <id type="doi">10.11646/zootaxa.3324.1</id>
+    <title locale="en_US">24 May. 2012</title>
+    <volume>3324</volume>
     <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
+    <year>2012</year>
+    <date_published>2012-05-24</date_published>
     <section>
       <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">ARMIN NAMAYANDEH, BOHDAN BILYJ, DAVID V. BERESFORD, KEITH M. SOMERS </title>
+        <title locale="en_US">Chironomidae (Diptera) larvae of Precambrian Shield headwater streams, Canada</title>
         <abstract locale="en_US">A taxonomic diagnosis of chironomid larvae collected from Precambrian Shield headwater streams, Canada, is providedfor 51 species. In addition, the Nearctic distribution is given for each species, including 17 new records, along with and information on their ecology and habitat.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -19,8 +19,25 @@
           <subject_class locale="en_US">Diptera</subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Armin</firstname>
+          <lastname>Namayandeh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bohdan</firstname>
+          <lastname>Bilyj</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>V.</middlename>
+          <lastname>Beresford</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Keith</firstname>
+          <middlename>M.</middlename>
+          <lastname>Somers</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -29,8 +46,8 @@
           <lastname>Dillon</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>1-65</pages>
+        <date_published>2012-05-24</date_published>
       </article>
     </section>
   </issue>

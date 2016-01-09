@@ -1,3 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3323.1</id>
+    <title locale="en_US">24 May. 2012</title>
+    <volume>3323</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Immature stages of the rose chafers (Coleoptera: Scarabaeidae: Cetoniinae): a historical overview</title>
+        <abstract locale="en_US">Immature stages of holometabolous insects represent a useful source of information for phylogenetic studies. However,knowledge about immature stages of insects is generally poor. This paper presents a historical overview on the study ofimmature Cetoniinae and provides an up-to-date list of 194 so far described taxa at the species level. Most immature stagesare described for the Cetoniini. Larvae of Microvalgini, Taenioderini, and Phaediminini are unknown, while the larvae of Platygeniini need to be redescribed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cetoniinae; Cetoniini; Trichiini; Valgini; immature stages; white grubs</subject>
+          <subject_class locale="en_US">Cetoniinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Petr</firstname>
+          <lastname>Šípek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Král</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-05-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Morphological and genetic variability of &lt;i&gt;Baetis &lt;/i&gt;(&lt;i&gt;Rhodobaetis&lt;/i&gt;) &lt;i&gt;braaschi&lt;/i&gt; Zimmermann, 1980 (Ephemeroptera: Baetidae)</title>
+        <abstract locale="en_US">Specimens of &lt;i&gt;Baetis&lt;/i&gt; (Rhodobaetis) &lt;i&gt;braaschi&lt;/i&gt; Zimmermann, 1980 from the three distant geographic regions (Crimean Pen-insula, Eastern Ukraine and Caucasus) are investigated and compared using a methodological approach combining mor-phological and molecular (partial mtDNA &lt;i&gt;COI&lt;/i&gt; sequences) data. Intraspecific variability in several morphologicalcharacters is recognized and described, whereas &lt;i&gt;COI&lt;/i&gt; sequences are found to be very uniform. The amount and distributionof the changes of &lt;i&gt;COI&lt;/i&gt; sequences do not follow the pattern of morphological variability and/or geographic origin of thespecimens. This indicates that analysis of the changes in the &lt;i&gt;COI&lt;/i&gt; sequence can contradict the pattern of morphologicalcharacters commonly used for the discrimination of the individual &lt;i&gt;Rhodobaetis&lt;/i&gt; species. As a basis for the future taxonom-ic changes concerning subgenus &lt;i&gt;Rhodobaetis,&lt;/i&gt; it is advised (where possible) to critically evaluate both molecular and morphological data.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">morphology; taxonomy; mayflies; barcoding</subject>
+          <subject_class locale="en_US">morphology</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pavel</firstname>
+          <lastname>Sroka</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>V.</middlename>
+          <lastname>Martynov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roman</firstname>
+          <middlename>J.</middlename>
+          <lastname>Godunko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-49</pages>
+        <date_published>2012-05-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic note on &lt;i&gt;Scythris pangalactis &lt;/i&gt;Meyrick 1933, with the description of a new species from Iran and a new synonymy (Lepidoptera, Gelechioidea, Scythrididae)</title>
+        <abstract locale="en_US">The taxonomic position of &lt;i&gt;Scythris&lt;/i&gt; &lt;i&gt;pangalactis&lt;/i&gt; and its synonymy with &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pelinaula&lt;/i&gt; is discussed. A new species is describedfrom SE Iran, &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tridentata&lt;/i&gt; Passerin d’Entrèves &amp; Roggero &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tridentata&lt;/i&gt; species-group is established with the redescription of &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pelinaula.&lt;/i&gt; A lectotype for &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pangalactis&lt;/i&gt; is selected.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Genitalia; Saharo-Sindic distribution; &lt;i&gt;Scythris&lt;/i&gt; &lt;i&gt;pelinaula&lt;/i&gt;; &lt;i&gt;Scythris&lt;/i&gt; &lt;i&gt;tridentata&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Genitalia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pietro</firstname>
+          <middlename>Passerin</middlename>
+          <lastname>D’Entrèves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bengt</firstname>
+          <middlename>Å.</middlename>
+          <lastname>Bengtsson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Angela</firstname>
+          <lastname>Roggero</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-56</pages>
+        <date_published>2012-05-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the female, pupa, and larva of &lt;i&gt;Culex (Melanoconion) bahiensis&lt;/i&gt; Duret, and redescription of the male (Diptera: Culicidae)</title>
+        <abstract locale="en_US">We describe for the first time the female, pupa, and larva of &lt;i&gt;Culex&lt;/i&gt; (Melanoconion) &lt;i&gt;bahiensis&lt;/i&gt; and also redescribe the male and illustrate the male genitalia and the pupa and larva. This is the first record of the species for Argentina.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Cx.&lt;/i&gt; (Melanoconion) &lt;i&gt;bahiensis&lt;/i&gt;; &lt;i&gt;Culex&lt;/i&gt;; &lt;i&gt;Melanoconion&lt;/i&gt;; redescription; Argentina</subject>
+          <subject_class locale="en_US">&lt;i&gt;Cx.&lt;/i&gt; (Melanoconion) &lt;i&gt;bahiensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <middlename>A.</middlename>
+          <lastname>Lestani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gustavo</firstname>
+          <middlename>C.</middlename>
+          <lastname>Rossi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-63</pages>
+        <date_published>2012-05-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The first record of the genus &lt;i&gt;Uncobracon &lt;/i&gt;Papp from China (Hymenoptera: Braconidae)</title>
+        <abstract locale="en_US">The small genus &lt;i&gt;Uncobracon&lt;/i&gt; Papp, 1996 (Hymenoptera: Braconidae: Braconinae), and &lt;i&gt;Uncobracon&lt;/i&gt; &lt;i&gt;pappi&lt;/i&gt; (Tobias, 2000)&lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are recorded and illustrated from China for the first time. &lt;i&gt;Uncobracon&lt;/i&gt; &lt;i&gt;pappi&lt;/i&gt; was reared from a borer in the branch of &lt;i&gt;Hippophae&lt;/i&gt; &lt;i&gt;rhamnoides&lt;/i&gt; Linnaeus ssp. &lt;i&gt;sinensis&lt;/i&gt; Rousi. A key to species of the genus &lt;i&gt;Ucobracon&lt;/i&gt; is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Ucobracon&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Papp&lt;/b&gt; (after Tobias &amp; Belokobylskij; 2000)</subject>
+          <subject_class locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;the&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Ucobracon&lt;/i&gt;&lt;/b&gt; &lt;b&gt;Papp&lt;/b&gt; (after Tobias &amp; Belokobylskij</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jiang-Li</firstname>
+          <lastname>Tan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mao-Ling</firstname>
+          <lastname>Sheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kees</firstname>
+          <lastname>Van Achterberg (The Netherlands)</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shu-Ping</firstname>
+          <lastname>Sun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-05-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>
