@@ -1,3 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3254.1</id>
+    <title locale="en_US">2 Apr. 2012</title>
+    <volume>3254</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-02</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New species of &lt;i&gt;Terebellides &lt;/i&gt;(Polychaeta: Trichobranchidae) indicate long-distance dispersal between western South Atlantic deep-sea basins </title>
+        <abstract locale="en_US">During the expedition DIVA 3 in summer 2009, six new species of the genus &lt;i&gt;Terebellides&lt;/i&gt; (Trichobranchidae) were discoveredfrom the deep Argentine and Brazil basins. Five of these (Terebellides &lt;i&gt;gingko&lt;/i&gt; sp. n., &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;banalis&lt;/i&gt; sp. n., &lt;i&gt;Terebellides&lt;/i&gt;&lt;i&gt;bulbosa&lt;/i&gt; sp. n., &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;concertina&lt;/i&gt; sp. n., &lt;i&gt;Terebellides&lt;/i&gt; &lt;i&gt;diva&lt;/i&gt; sp. n.) are formally described herein; the sixth species is onlybriefly described as it was represented by only a single specimen. While most species were represented by a few specimensfrom a single basin, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;gingko&lt;/i&gt; sp. n., was found in relative high abundances in both basins. Molecular analyses of 16S rDNAsequences confirmed the long-distance distribution of this species. Although branchiae are lost in the majority of specimensfound, all new species can clearly be separated from each other and &lt;i&gt;Terebellides&lt;/i&gt; species formerly reported for shallow westernSouth Atlantic waters by the relationships between head structures and anterior segments, and the shape of thoracic and anterior uncini, presenting evidence for a diverse and previously undescribed diversity of Trichobranchidae in the world’s deep seas.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Argentine Basin; Brazil Basin; Diva 3; Annelida; Terebellida</subject>
+          <subject_class locale="en_US">Argentine Basin</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Schüller</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>M.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hutchings</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>P.</firstname>
+          <lastname>A.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-31</pages>
+        <date_published>2012-04-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Scottoecia—&lt;/i&gt;a new genus of halocyprid ostracod, with the description of &lt;i&gt;Scottoecia arabica &lt;/i&gt;nov. sp. and the redescription of &lt;i&gt;Bathyconchoecia darcythompsoni &lt;/i&gt;(Scott, 1909) </title>
+        <abstract locale="en_US">On re-describing two species originally attributed to the halocyprid genus &lt;i&gt;Bathyconchoecia&lt;/i&gt; &lt;i&gt;(B.&lt;/i&gt; &lt;i&gt;darcythompsoni&lt;/i&gt; Scott,1909 from the North Atlantic and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;lacunosa&lt;/i&gt; sensu James 1973 from the Gulf of Oman) they were found to show substantive differences from the type species for the genus, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;paulula.&lt;/i&gt; These differences are:1. Several carapace characteristics including size, the structure of the rostra and incisure, and the locations of the openingsof the carapace glands.2. Limb structures notably of the mandibles.3. The exceptionally long dorsal terminal seta on the male sixth limb. 4. The structure of the copulatory appendage.These two species are placed in a newly defined genus &lt;i&gt;Scottoecia,&lt;/i&gt; for which &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;arabica&lt;/i&gt; is designated as the typespecies. The original descriptions of three other &lt;i&gt;Bathyconchoecia&lt;/i&gt; species, show that they belong to &lt;i&gt;Scottoecia,&lt;/i&gt; namely &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;crosnieri&lt;/i&gt; (Poulsen, 1969a), &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;subrufa&lt;/i&gt; (Angel, 1970a) and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;foveolata&lt;/i&gt; (Deevey, 1968). This has been confirmed for thefirst two species by the examination of the type material. Another species &lt;i&gt;Bathyconchoecia&lt;/i&gt; &lt;i&gt;baskiae&lt;/i&gt; Poulsen, (1969b) hassimilar mandibles, and is probably closely related, but does not share all the characteristics of the new genus.The validity of the previous classification in which &lt;i&gt;Bathyconchoecia&lt;/i&gt; is included in the subfamily, the Euconchoecinae, is questioned.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; bathyal; Gulf of Oman; North Atlantic; oceanic</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <middlename>V.</middlename>
+          <lastname>Angel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>32-54</pages>
+        <date_published>2012-04-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The catfish genus &lt;i&gt;Erethistoides &lt;/i&gt;(Siluriformes: Sisoridae) in Myanmar, with descriptions of three new species </title>
+        <abstract locale="en_US">The presence of the sisorid catfish genus &lt;i&gt;Erethistoides&lt;/i&gt; in Myanmar, represented by three new species, is recorded for thefirst time. This discovery from the Irrawaddy and Sittang river drainages from central Myanmar and the Ann ChaungRiver drainage in western Myanmar extends the documented range of the genus beyond the Ganges/Brahmaputra Riverbasin. &lt;i&gt;Erethistoides&lt;/i&gt; &lt;i&gt;longispinis&lt;/i&gt; is distinguished from congeners in having the following unique combination ofcharacters: length of the dorsal-fin spine 24–27% SL, length of the pectoral-fin spine 29–35% SL, and absence ofproximally-directed serrations on the anterior edge of the pectoral spine. &lt;i&gt;Erethistoides&lt;/i&gt; &lt;i&gt;luteolus&lt;/i&gt; differs from congeners inhaving the following combination of characters: yellow base color of the body, body with distinct bands, vertebrae 30,premaxillary tooth band partially exposed when the mouth is closed, length of the dorsal-fin spine 14–15% SL, length ofthe pectoral-fin spine 21–24% SL, absence of proximally-directed serrations on the anterior edge of the pectoral spine,length of the adipose-fin base 16–17% SL, length of the caudal peduncle 22–25% SL and depth of the caudal peduncle 6–7% SL. &lt;i&gt;Erethistoides&lt;/i&gt; &lt;i&gt;vesculus&lt;/i&gt; is distinguished from congeners in having the following combination of characters: creambase color of the body, body with distinct bands, vertebrae 30, premaxillary tooth band partially exposed when the mouthis closed, length of the dorsal-fin spine 15% SL, length of the pectoral-fin spine 22–23% SL, absence of proximally-directed serrations on the anterior edge of the pectoral spine, length of the adipose-fin base 14–15% SL, length of the caudal peduncle 19–21% SL and depth of the caudal peduncle 4–5% SL.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Heok</firstname>
+          <middlename>Hee</middlename>
+          <lastname>Ng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carl</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ferraris</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jr.</firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>A.</middlename>
+          <lastname>Neely</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-68</pages>
+        <date_published>2012-04-02</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

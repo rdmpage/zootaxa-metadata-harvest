@@ -1,3 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3316.1</id>
+    <title locale="en_US">17 May. 2012</title>
+    <volume>3316</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Chionea &lt;/i&gt;Dalman newly recorded from China with descriptions of two new species (Diptera, Limoniidae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Chionea&lt;/i&gt; Dalman, 1816 is recorded from China for the first time with the following four species belonging tothe subgenus &lt;i&gt;Chionea&lt;/i&gt; s. str.: &lt;i&gt;Chionea&lt;/i&gt; &lt;i&gt;(Chionea)&lt;/i&gt; &lt;i&gt;crassipes&lt;/i&gt; &lt;i&gt;gracilistyla&lt;/i&gt; Alexander, 1936, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;(C.)&lt;/i&gt; &lt;i&gt;pusilla&lt;/i&gt; Savchenko, 1983,&lt;i&gt;C.&lt;/i&gt; (C.) &lt;i&gt;sphaerae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; (C.) &lt;i&gt;tianhuashana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; A key to the known species of &lt;i&gt;Chionea&lt;/i&gt; from Eastern Palaearctic is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Limoniidae; &lt;i&gt;Chionea&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiao</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Junchao</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-14</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Five new species of &lt;i&gt;Lemodes &lt;/i&gt;(&lt;i&gt;Lagriomorpha&lt;/i&gt;) (Coleoptera: Anthicidae: Lemodinae) from Indonesian and Papuan New Guinea with a revised key to the species</title>
+        <abstract locale="en_US">Five new species of the anthicid genus &lt;i&gt;Lemodes&lt;/i&gt; Boheman are described from Indonesian and Papuan New Guinea: &lt;i&gt;L.&lt;/i&gt;&lt;i&gt;angulata,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;enarotadi,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;gressitti,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;latangaiensis,&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pembertoni.&lt;/i&gt; Habitus and salient anatomical images of adults, as well as diagnoses with respect to related species of the subgenus &lt;i&gt;Lagriomorpha,&lt;/i&gt; are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Anthicidae; &lt;i&gt;Lemodes&lt;/i&gt; &lt;i&gt;angulata&lt;/i&gt;; &lt;i&gt;Lemodes&lt;/i&gt; &lt;i&gt;enarotadi&lt;/i&gt;; &lt;i&gt;Lemodes&lt;/i&gt; &lt;i&gt;gressitti&lt;/i&gt;; &lt;i&gt;Lemodes&lt;/i&gt; &lt;i&gt;latangaiensis&lt;/i&gt;; and &lt;i&gt;Lemodes&lt;/i&gt; &lt;i&gt;pembertoni&lt;/i&gt;; Indonesian New Guinea; Papua New Guinea</subject>
+          <subject_class locale="en_US">Anthicidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Daniel</firstname>
+          <middlename>K.</middlename>
+          <lastname>Young</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>15-27</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On species related to &lt;i&gt;Elachista hedemanni &lt;/i&gt;Rebel (Lepidoptera: Elachistidae: Elachistinae), with descriptions of three new Palearctic species</title>
+        <abstract locale="en_US">The taxonomy of &lt;i&gt;Elachista&lt;/i&gt; (Aphelosetia) &lt;i&gt;hedemanni&lt;/i&gt; Rebel, 1899, and its relatives is clarified. The following species aredescribed as new: &lt;i&gt;Elachista&lt;/i&gt; &lt;i&gt;gilvula&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Russia: Tuva with additional record from Kazakhstan, &lt;i&gt;Elachista&lt;/i&gt; &lt;i&gt;galbina&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Kazakhstan and &lt;i&gt;Elachista&lt;/i&gt; &lt;i&gt;cirrhoplica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; from Spain. The systematics of an assemblage of species relatedto &lt;i&gt;Elachista&lt;/i&gt; (Aphelosetia) &lt;i&gt;pollinariella&lt;/i&gt; Zeller is discussed, and characters possibly enabling the further division of the subgenus &lt;i&gt;Aphelosetia&lt;/i&gt; to more manageable units are suggested.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; Elachistinae; &lt;i&gt;Elachista&lt;/i&gt;; &lt;i&gt;Aphelosetia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lauri</firstname>
+          <lastname>Kaila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-39</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Four new &lt;i&gt;Owadaglaea &lt;/i&gt;species from the greater Himalayan region (Lepidoptera, Noctuidae)</title>
+        <abstract locale="en_US">Descriptions of four new &lt;i&gt;Owadaglaea&lt;/i&gt; Hacker and Ronkay, 1996 (O. &lt;i&gt;kulmani&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;reta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;michelleae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt;and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;dominiki&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.)&lt;/b&gt; from Nepal, China and Myanmar are provided along with detailed comparisons to their nearest relatives. A full revised checklist of the genus is presented with the taxonomical placement of the new species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Noctuidae; &lt;i&gt;Owadaglaea&lt;/i&gt;; new species; Nepal; China; Myanmar</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Balázs</firstname>
+          <lastname>Benedek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <lastname>Borth</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Aidas</firstname>
+          <lastname>Saldaitis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>40-49</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Buenoa &lt;/i&gt;(Hemiptera: Heteroptera: Notonectidae) from Colombia, with a key to the species in Colombia</title>
+        <abstract locale="en_US">&lt;i&gt;Buenoa&lt;/i&gt; &lt;i&gt;penta&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;Buenoa&lt;/i&gt; &lt;i&gt;analoga&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; are described from Tumaco municipality on the Pacific coast of the Department of Nariño. A key to species of &lt;i&gt;Buenoa&lt;/i&gt; in Colombia is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; aquatic insects; tropical South America; south-west Colombia</subject>
+          <subject_class locale="en_US">new species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dora</firstname>
+          <middlename>N.</middlename>
+          <lastname>Padilla-Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-56</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Australodindymus nigroruber &lt;/i&gt;gen. et sp. nov. from Western Australia (Hemiptera: Heteroptera: Pyrrhocoridae)</title>
+        <abstract locale="en_US">A new genus and species, &lt;i&gt;Australodindymus&lt;/i&gt; &lt;i&gt;nigroruber&lt;/i&gt; gen. et sp. nov., is described from the Pilbara region of WesternAustralia based on male, female and 5th instar nymph. This endemic genus is related to the cosmopolitan genus, &lt;i&gt;Dindymus&lt;/i&gt;Stål, 1861, but differs markedly in structure of both male and female genitalia, and is the first member of the Pyrrhocoridae recorded from Western Australia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Pyrrhocoridae; taxonomy; new genus; new species; nymph; Australia</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jaroslav</firstname>
+          <middlename>L.</middlename>
+          <lastname>Stehlík</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zdeněk</firstname>
+          <lastname>Jindra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-62</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of leaf-litter inhabiting &lt;i&gt;Georissus &lt;/i&gt;from Borneo (Coleoptera: Hydrophiloidea: Georissidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Georissus&lt;/i&gt; (Neogeorissus) &lt;i&gt;smetanai&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described from Mt. Kinabalu National Park, Sabah, Malaysia. Long series of thisspecies has been sifted from cloud forest leaf litter in contrast to most species of the genus, which are most frequently collectedin riparian zones. The species is compared with &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; Delève, 1967 and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;inflatus&lt;/i&gt; Delève, 1972, which were collected under similar circumstances and the leaf-litter habits of the three species are briefly discussed.&lt;b&gt;Keywords.&lt;/b&gt; &lt;i&gt;Georissus,&lt;/i&gt; new species, leaf litter, terrestrial habitats, aptery, Malaysia, Borneo, Sri Lanka, Republic of the Congo</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <lastname>Fikáček</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-05-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3262.1</id>
+    <title locale="en_US">9 Apr. 2012</title>
+    <volume>3262</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">DNA barcodes reveal that the widespread European tortricid moth &lt;i&gt;Phalonidia manniana &lt;/i&gt;(Lepidoptera: Tortricidae) is a mixture of two species </title>
+        <abstract locale="en_US">During efforts to generate DNA barcodes for all North European Lepidoptera, &lt;i&gt;Phalonidia&lt;/i&gt; &lt;i&gt;manniana&lt;/i&gt; (Fischer vonRöslerstamm, 1839) was found to comprise two genetically distinct clusters. Morphological investigation further supportsthe existence of two distinct taxa, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;manniana&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;udana&lt;/i&gt; Guenée, 1845, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;rev.&lt;/b&gt; Their biologies also differ, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;manniana&lt;/i&gt;feeding in stems of &lt;i&gt;Mentha&lt;/i&gt; and &lt;i&gt;Lycopus&lt;/i&gt; (Lamiaceae) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;udana&lt;/i&gt; feeding in stems of &lt;i&gt;Lysimachia&lt;/i&gt; &lt;i&gt;thyrsiflora&lt;/i&gt; and &lt;i&gt;L.&lt;/i&gt;&lt;i&gt;vulgaris&lt;/i&gt; (Primulaceae). We provide re-descriptions of both taxa and DNA barcodes for North European &lt;i&gt;Phalonidia&lt;/i&gt; and&lt;i&gt;Gynnidomorpha.&lt;/i&gt; &lt;i&gt;Phalonidia&lt;/i&gt; &lt;i&gt;tolli&lt;/i&gt; &lt;i&gt;Razowski,&lt;/i&gt; 1960, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is considered a junior synonym of Pudana. &lt;i&gt;Phalonidia&lt;/i&gt; &lt;i&gt;udana&lt;/i&gt;is widely distributed in the North Palaearctic, whereas it seems to be rare or missing in large parts of Central Europe. The study demonstrates the usefulness of DNA barcoding in revealing cryptic species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cochylini; cryptic species; DNA barcoding; &lt;i&gt;Gynnidomorpha&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Cochylini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marko</firstname>
+          <lastname>Mutanen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Leif</firstname>
+          <lastname>Aarvik</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <lastname>Huemer</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lauri</firstname>
+          <lastname>Kaila</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ole</firstname>
+          <lastname>Karsholt</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kevin</firstname>
+          <lastname>Tuck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-04-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic remarks on &lt;i&gt;Andraca &lt;/i&gt;Walker, 1865 (Lepidoptera: Bombycidae) with descriptions of five new species </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Andraca&lt;/i&gt; Walker, 1865, is divided into two subgenera, one of them new: &lt;i&gt;Chrypathemola&lt;/i&gt; Zolt., &lt;b&gt;subgen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (typespecies &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;apodecta&lt;/i&gt; Swinhoe, 1907). The following new species are described: &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;draco,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (from Java);&lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;lawa,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (from Palawan), &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;paradisea,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (from Philippines), &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;chrysocollis,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (fromPhilippines) and &lt;i&gt;Andraca&lt;/i&gt; (Chrypathemola) &lt;i&gt;nobilorum,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (from Vietnam). A male lectotype for &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;bipunctata&lt;/i&gt;Walker, 1865 is designated from the collection of ZMHU; this designation led to the new synonymy: &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;bipunctata&lt;/i&gt; Walker, 1865 &lt;i&gt;=&lt;/i&gt; &lt;i&gt;Andraca&lt;/i&gt; &lt;i&gt;angulata&lt;/i&gt; Kishida, 1993, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; The systematics of the family Bombycidae is briefly discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Bombycidae; Oberthuerinae; &lt;i&gt;Andraca&lt;/i&gt;; new species; new synonymy; taxonomy</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Vadim</firstname>
+          <middlename>V.</middlename>
+          <lastname>Zolotuhin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-34</pages>
+        <date_published>2012-04-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the &lt;i&gt;Homoneura &lt;/i&gt;(&lt;i&gt;Homoneura&lt;/i&gt;) &lt;i&gt;henanensis &lt;/i&gt;species group (Diptera, Lauxaniidae), with a key to Chinese species </title>
+        <abstract locale="en_US">The following three species of the nominal subgenus of &lt;i&gt;Homoneura&lt;/i&gt; van der Wulp from China are described as new to science:&lt;i&gt;H.&lt;/i&gt; (H.) &lt;i&gt;beijingensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;H.&lt;/i&gt; (H.) &lt;i&gt;caoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;H.&lt;/i&gt; (H.) &lt;i&gt;kuankuoshuiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the species of the &lt;i&gt;H.&lt;/i&gt; (H.) &lt;i&gt;henanensis&lt;/i&gt; species group from China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Lauxaniidae; &lt;i&gt;Homoneura&lt;/i&gt; &lt;i&gt;henanensis-group&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Junchao</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Caixia</firstname>
+          <lastname>Gao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-45</pages>
+        <date_published>2012-04-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Synonym, new species and checklist of the genus &lt;i&gt;Fissocantharis &lt;/i&gt;Pic from Taiwan (Coleoptera, Cantharidae) </title>
+        <abstract locale="en_US">Two new species of &lt;i&gt;Fissocantharis&lt;/i&gt; Pic from Taiwan are described, &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;flavipennis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;F.&lt;/i&gt; &lt;i&gt;laticornis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; andpresented with photos of habitus and illustrations of aedeagi, also each new species is provided with a key to the relatedspecies. &lt;i&gt;Micropodabrus&lt;/i&gt; &lt;i&gt;simplicicornis&lt;/i&gt; Wittmer, 1993 is synonymized with &lt;i&gt;Fissocantharis&lt;/i&gt; &lt;i&gt;formosana&lt;/i&gt; (Pic, 1910). A checklist of &lt;i&gt;Fissocantharis&lt;/i&gt; from Taiwan is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Cantharidae; &lt;i&gt;Fissocantharis&lt;/i&gt;; new species; new synonym; Taiwan</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yu-Xia</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yûichi</firstname>
+          <lastname>Okushima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xing-Ke</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>46-53</pages>
+        <date_published>2012-04-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Head porotaxy and chaetotaxy of order Acerentomata (Protura) </title>
+        <abstract locale="en_US">The head porotaxy and chaetotaxy was studied in three families of proturans in the order Acerentomata: Hesperentomidae,Protentomidae and Acerentomidae. The head chaetotaxy of Protentomidae is highly diversified. A system of head setae names was developed and applied for a phyletic analysis of Acerentomata.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Nomenclature; pores; taxonomy</subject>
+          <subject_class locale="en_US">Nomenclature</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Josef</firstname>
+          <lastname>Rusek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Julia</firstname>
+          <lastname>Shrubovych</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andrzej</firstname>
+          <lastname>Szeptycki†</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-61</pages>
+        <date_published>2012-04-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Crotonothrips polyalthiae &lt;/i&gt;sp.n. (Thysanoptera: Phlaeothripidae), a leaf-galling pest of the Asian amenity tree, &lt;i&gt;Polyalthia longifolia &lt;/i&gt;</title>
+        <abstract locale="en_US">A new species of Phlaeothripinae, &lt;i&gt;Crotonothrips&lt;/i&gt; &lt;i&gt;polyalthiae,&lt;/i&gt; is described as inducing leaf galls in Indonesia and PeninsularMalaysia on the widespread Asian tree &lt;i&gt;Polyalthia&lt;/i&gt; &lt;i&gt;longifolia.&lt;/i&gt; This is the fifteenth species to be placed in the genus&lt;i&gt;Crotonothrips,&lt;/i&gt; the others being from India, but with one from Japan. The new species has exceptionally elongate maxillary stylets and mouth cone. The taxonomy and systematics of the Indian species are noted to require further study.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">leaf-galls; thrips; Phlaeothripidae; new species</subject>
+          <subject_class locale="en_US">leaf-galls</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Andi</firstname>
+          <lastname>Nasruddin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-04-09</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

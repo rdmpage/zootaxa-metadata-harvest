@@ -132,19 +132,8 @@
         <pages>53-59</pages>
         <date_published>2012-01-12</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">LUCÍLIA S. MIRANDA (Brazil), MARIA A. HADDAD (Brazil), CLAUDIA E. MILLS (USA) </title>
+        <title locale="en_US">&lt;i&gt;Lucernariopsis capensis &lt;/i&gt;Carlgren, 1938 (Cnidaria, Staurozoa) in Brazil: first record outside its type locality in South Africa</title>
         <abstract locale="en_US"/>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -152,8 +141,21 @@
           <subject_class locale="en_US"><![CDATA[]]></subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Lucília</firstname>
+          <middlename>S.</middlename>
+          <lastname>Miranda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>A.</middlename>
+          <lastname>Haddad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudia</firstname>
+          <middlename>E.</middlename>
+          <lastname>Mills</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -162,20 +164,9 @@
           <lastname>Marques</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>60-64</pages>
+        <date_published>2012-01-12</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3158.1</id>
-    <title locale="en_US">12 Jan. 2012</title>
-    <volume>3158</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-01-12</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">&lt;i&gt;Bathyferula&lt;/i&gt;, a new Caribbean deep-water turrid genus (Gastropoda: Turroidea), with description of a large-sized new species</title>
         <abstract locale="en_US"/>

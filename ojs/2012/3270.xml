@@ -1,3 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3270.1</id>
+    <title locale="en_US">17 Apr. 2012</title>
+    <volume>3270</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-17</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Toward the identification of &lt;i&gt;Frankliniella &lt;/i&gt;species in Brazil (Thysanoptera, Thripidae) </title>
+        <abstract locale="en_US">This paper provides an illustrated key to about 40 species of &lt;i&gt;Frankliniella&lt;/i&gt; recorded from Brazil, together with notes abouteach species. Two new synonyms are established: &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;longispinosa&lt;/i&gt; Moulton is a synonym of &lt;i&gt;Frankliniella&lt;/i&gt;&lt;i&gt;varipes&lt;/i&gt; Moulton; &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;rodeos&lt;/i&gt; Moulton is a synonym of &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;gemina&lt;/i&gt; Bagnall, all described originallyfrom South America. One new species is described, &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;graminis&lt;/i&gt; &lt;b&gt;sp.n.&lt;/b&gt; is recorded from Poaceae in central andsoutheastern Brazil. Four species are newly recorded from Brazil: &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;frumenti&lt;/i&gt; Moulton, &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;gossypiana&lt;/i&gt; (Hood), &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;musaeperda&lt;/i&gt; Hood and &lt;i&gt;Frankliniella&lt;/i&gt; &lt;i&gt;platensis&lt;/i&gt; De Santis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diversity; identification; Neotropics; pests; taxonomy; tospovirus</subject>
+          <subject_class locale="en_US">Diversity</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adriano</firstname>
+          <lastname>Cavalleri</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-30</pages>
+        <date_published>2012-04-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Detailed morphological description of the mature larva of &lt;i&gt;Anthrenus latefasciatus &lt;/i&gt;Reitter, 1892 (Dermestidae: Megatominae: Anthrenini) with comparisons to related species </title>
+        <abstract locale="en_US">A description of the last larval instar (based on exuvium) of &lt;i&gt;Anthrenus&lt;/i&gt; &lt;i&gt;latefasciatus&lt;/i&gt; Reitter, 1892 (Coleoptera:Dermestidae) is presented. New morphological characters of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;latefasciatus&lt;/i&gt; larvae such as general morphology ofantenna, epipharynx, mandibula, maxilla, ligula with labial palpi, hastisetae, legs, terga and condition of antecostal sutureare documented and discussed. General morphological differences among mature larvae of the following &lt;i&gt;Anthrenus&lt;/i&gt;species are compared and summarized: &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;coloratus&lt;/i&gt; Reitter, 1881, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; &lt;i&gt;flavipes&lt;/i&gt; LeConte, 1854, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;fuscus&lt;/i&gt; Olivier,1789, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;latefasciatus&lt;/i&gt; Reitter, 1892, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;museorum&lt;/i&gt; (Linnaeus, 1761) &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;oceanicus&lt;/i&gt; Fauvel, 1903, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;olgae&lt;/i&gt; Kalík, 1946, &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;pimpinellae&lt;/i&gt; &lt;i&gt;pimpinellae&lt;/i&gt; (Fabricius, 1775), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sarnicus&lt;/i&gt; Mroczkowski, 1963, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;scrophulariae&lt;/i&gt; &lt;i&gt;scrophulariae&lt;/i&gt; (Linnaeus, 1758), and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;verbasci&lt;/i&gt; (Linnaeus, 1767).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Dermestidae; &lt;i&gt;Anthrenus&lt;/i&gt;; immature stages; setae; exuviae</subject>
+          <subject_class locale="en_US">Dermestidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcin</firstname>
+          <lastname>Kadej</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-40</pages>
+        <date_published>2012-04-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Hispanocaderidae n. fam. (Hemiptera: Heteroptera: Tingoidea), one of the oldest lace bugs from the Lower Cretaceous Álava amber (Spain) </title>
+        <abstract locale="en_US">In this article described is a new monotypic fossil family Hispanocaderidae n. fam. &lt;b&gt;(Hemiptera:&lt;/b&gt; Heteroptera) from theLower Cretaceous amber of Álava (Spain) clearly belonging to superfamily Tingoidea and at the same time possessing acomplex of distinctive features from other families of this superfamily, mostly of a plesiomorphic character. The complexof unique features of the new family includes: the longest antennal segment II, the presence of ocelli, very large ventrallyfaceted eyes, connection of peritreme of scent-ostiolar opening with base of costal area of hemelytron by groove asrudimentary state of ostiolar-stenocostal system but without stenocostal area, not fused hemelytral veins &lt;i&gt;R+M&lt;/i&gt; and &lt;i&gt;CuA,&lt;/i&gt;very broad abdominal laterotergits separated from mediotergites by sutures dorsally and ventrally. The described taxon probably represents one of the ancestral forms of the Cantacaderinae Stål (Tingidae) or Cantacaderidae &lt;i&gt;sensu&lt;/i&gt; Lis.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Tingoidea; Hispanocaderidae; new family; Lower Cretaceous; Spain; amber</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>V.</firstname>
+          <middlename>B.</middlename>
+          <lastname>Golub</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yu.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Popov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Arillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-50</pages>
+        <date_published>2012-04-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Agadirius trojani &lt;/i&gt;gen. et sp. nov.: a new owlfly (Neuroptera: Ascalaphidae) from Morocco </title>
+        <abstract locale="en_US">A new owlfly, &lt;i&gt;Agadirius&lt;/i&gt; &lt;i&gt;trojani&lt;/i&gt; gen. &lt;i&gt;et&lt;/i&gt; sp. nov., (Ascalaphidae: Ascalaphinae), is described from the Anti–AtlasMountains, Morocco. The habitus is unmistakable and differs from all other owlflies, but shares some superficial featureswith the genus &lt;i&gt;Puer&lt;/i&gt; Lefèbvre, 1842. &lt;i&gt;Agadirius&lt;/i&gt; gen. nov., belongs to the subfamily Ascalaphinae (split eyed owlflies) and has genitalia consistent with the tribe Ascalaphini as defined by Tjeder and Hansson (1992).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Myrmeleontiformia; Ascalaphinae; Palaearctic; North Africa</subject>
+          <subject_class locale="en_US">Myrmeleontiformia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Davide</firstname>
+          <lastname>Badano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Roberto</firstname>
+          <middlename>Antonio</middlename>
+          <lastname>Pantaleoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-57</pages>
+        <date_published>2012-04-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of Neotropical species of Empidoidea (Diptera) described by Mario Bezzi. X. The species described in &lt;i&gt;Apalocnemis &lt;/i&gt;Philippi (Brachystomatidae, Trichopezinae) </title>
+        <abstract locale="en_US">Bezzi described two species in &lt;i&gt;Apalocnemis&lt;/i&gt; Philippi, which at that time was placed in Empididae. This genus is presentlyassigned to Brachystomatidae, Trichopezinae. The type specimen of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;variegata&lt;/i&gt; Bezzi, 1905 is lost. &lt;i&gt;Apalocnemis&lt;/i&gt; &lt;i&gt;cingulata&lt;/i&gt; Bezzi, 1909 is redescribed and a lectotype designated based on a male specimen from Sicuani, Peru.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Apalocnemis&lt;/i&gt;; Empidinae; Empidoidea; Neotropical Region; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Apalocnemis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>J.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Rafael</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bradley</firstname>
+          <middlename>J.</middlename>
+          <lastname>Sinclair</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-62</pages>
+        <date_published>2012-04-17</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new invasive &lt;i&gt;Ptinella &lt;/i&gt;Motschulsky from Europe and North America (Coleoptera: Ptiliidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Ptinella&lt;/i&gt; &lt;i&gt;populicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from material recently collected in the Netherlands. The habitus, spermatheca and aede-agus are illustrated. The only earlier specimens known are from Maryland (USA). The species is considered introduced into Europe, possibly being of Nearctic origin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Ptiliidae; &lt;i&gt;Ptinella&lt;/i&gt;; new species; invasive species; Europe; North America</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Oscar</firstname>
+          <lastname>Vorst</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-66</pages>
+        <date_published>2012-04-17</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The endings of specific nomina dedicated to persons should not be emended: nomenclatural issues in Phalangopsidae (Hexapoda: Grylloidea) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>André</firstname>
+          <lastname>Nemésio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alain</firstname>
+          <lastname>Dubois</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2012-04-17</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -49,19 +49,8 @@
         <pages>18-30</pages>
         <date_published>2012-01-11</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">(Coleoptera: Byrrhoidea: Psephenidae) from Belize</title>
+        <title locale="en_US">&lt;i&gt;Belicinus Rhomboideus&lt;/i&gt;, a new genus and species of Psepheninae</title>
         <abstract locale="en_US">&lt;i&gt;Belicinus&lt;/i&gt; &lt;i&gt;rhomboideus&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described and illustrated based on specimens collected in Belize. &lt;i&gt;Belicinus&lt;/i&gt;&lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from other Psepheninae genera by the following characteristics: pronotal shape, tibiae andtarsomeres (Psephenus, &lt;i&gt;Psephenops);&lt;/i&gt; antennae, tibiae, tarsomeres and phallobase (Pheneps); antennae, pronotum and tib-iae (Psephenotarsis); maxillary palpi and tibiae (Psephenopalpus). &lt;i&gt;Belicinus&lt;/i&gt; appears to be more closely related to &lt;i&gt;Pse-&lt;/i&gt;&lt;i&gt;phenotarsis&lt;/i&gt; than to other Psepheninae genera. The larvae and habitat are described. A key for American Psepheninae genera is provided.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -69,7 +58,8 @@
           <subject_class locale="en_US">Psephenidae</subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname>Roberto</firstname>
+          <firstname>From</firstname>
+          <middlename>Belizeroberto</middlename>
           <lastname>Arce-Pérez</lastname>
           <email>user@example.com</email>
         </author>
@@ -85,21 +75,10 @@
           <lastname>Morón</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>31-40</pages>
+        <date_published>2012-01-11</date_published>
         <open_access/>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3157.1</id>
-    <title locale="en_US">11 Jan. 2012</title>
-    <volume>3157</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-01-11</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Revision of the Oriental leafhopper genus &lt;i&gt;Parallygus &lt;/i&gt;Melichar (Hemiptera: Cicadellidae: Deltocephalinae) with description of new species</title>
         <abstract locale="en_US">The Oriental leafhopper genus &lt;i&gt;Parallygus&lt;/i&gt; Melichar is revised and redescribed based on study of its type species, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;divar-&lt;/i&gt;&lt;i&gt;icatus&lt;/i&gt; Melichar, from Sri Lanka. Based on its paired aedeagal shafts, a feature of some other tribes, it is only tentativelyretained in Athysanini. Three new species, &lt;i&gt;Parallygus&lt;/i&gt; &lt;i&gt;burmindicus&lt;/i&gt; Viraktamath &amp; Webb, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (India: West Bengal,Meghalya; Myanmar: Mishmi Hills), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;jiuhuaensis&lt;/i&gt; Dai &amp; Zhang, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (China: Anhui) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rameshi&lt;/i&gt; Viraktamath &amp;Webb, &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (India: West Bengal) are described and illustrated together with &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;divaricatus&lt;/i&gt; Melichar and &lt;i&gt;Parallygus&lt;/i&gt;&lt;i&gt;guttatus&lt;/i&gt; Matsumura &lt;b&gt;comb.&lt;/b&gt; &lt;b&gt;reinstated&lt;/b&gt; described from Taiwan. The latter species is reinstated into its original genus &lt;i&gt;Pa-&lt;/i&gt;&lt;i&gt;rallygus&lt;/i&gt; from &lt;i&gt;Phlepsius&lt;/i&gt; and is also recorded from mainland China and India (new records). A key to species is also provided.</abstract>

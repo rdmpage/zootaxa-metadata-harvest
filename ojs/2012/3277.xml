@@ -1,3 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3277.1</id>
+    <title locale="en_US">24 Apr. 2012</title>
+    <volume>3277</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New Macrostylidae Hansen, 1916 (Crustacea: Isopoda) from the Gay Head-Bermuda transect with special consideration of sexual dimorphism</title>
+        <abstract locale="en_US">In the Asellota, sexual dimorphism is often characterized by males that show pronounced morphological differences after thefinal moult compared to females but also to sub-adult males. Such a sexual dimorphism may strongly complicate allocation ofthese terminal males to conspecifics. Consequently, we regard it to be a likely explanation for why in 50% of the described spe-cies of the family Macrostylidae Hansen, 1916, only one sex is known. Based on detailed description of two previouslyunknown species of the isopod genus &lt;i&gt;Macrostylis&lt;/i&gt; Sars, 1864, the changes in the morphology that can occur during the finalmoult of the males are highlighted. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;dorsaetosa&lt;/i&gt; n. sp. is unlike any other species owing to the row of spine-like setae on theposterior margins of pereonites 5–6. &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;strigosa&lt;/i&gt; Mezhov, 1999 shows remarkable similarity but lacks these setae. In &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;papil-&lt;/i&gt;&lt;i&gt;lata&lt;/i&gt; n. sp., cuticular ridges overlap posteriorly with the margin of the pereonites 1–4 and head forming a warty appearance. Thisspecies is easily identifiable and unlike any previously described macrostylid owing to the presence of the tergal articulationbetween pleonite 1 and pleotelson. Information for the identification of terminal males is provided and implications of our results for future taxonomic and systematic work on this isopod family are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Janiroidea; deep sea; benthos; bathyal; abyssal; North Atlantic; DELTA; SEM; new species</subject>
+          <subject_class locale="en_US">Janiroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Torben</firstname>
+          <lastname>Riehl</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>George</firstname>
+          <middlename>D. F.</middlename>
+          <lastname>Wilson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>R.</middlename>
+          <lastname>Hessler</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-26</pages>
+        <date_published>2012-04-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Clubiona blesti &lt;/i&gt;Forster, 1979 (Araneae: Clubionidae) with a preliminary molecular phylogeny of New Zealand &lt;i&gt;Clubiona&lt;/i&gt;</title>
+        <abstract locale="en_US">The New Zealand spider &lt;i&gt;Clubiona&lt;/i&gt; &lt;i&gt;blesti&lt;/i&gt; Forster, 1979 is redescribed, with the male described for the first time, and a pre-liminary molecular phylogenetic analysis of cytochrome &lt;i&gt;c&lt;/i&gt; oxidase subunit I (COI) mtDNA sequences for eight species ofNew Zealand &lt;i&gt;Clubiona&lt;/i&gt; and an outgroup from Tasmania is presented.There is considerable intraspecific variation in &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;blesti,&lt;/i&gt; both genetic and in the morphology of copulatory organs,which may be explained by its wide distribution. The lack of a geographic structure based on consistent differences be-tween populations may suggest great dispersal ability. Given the limited sample size, further sampling and data on addi-tional genetic markers will be necessary to confirm this.The phylogenetic analysis of seven more species indicated that &lt;i&gt;Clubiona&lt;/i&gt; &lt;i&gt;cambridgei&lt;/i&gt; is the sister species of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;blesti&lt;/i&gt;and confirmed the existence of at least two monophyletic groups among the New Zealand &lt;i&gt;Clubiona:&lt;/i&gt; species with a striped abdomen and with a spotted abdomen.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; spiders; morphological variation; genetic divergence; COI</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jagoba</firstname>
+          <lastname>Malumbres-Olarte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cor</firstname>
+          <middlename>J.</middlename>
+          <lastname>Vink</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>27-42</pages>
+        <date_published>2012-04-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematics of the &lt;i&gt;Etheostoma cinereum &lt;/i&gt;(Teleostei: Percidae) species complex (subgenus &lt;i&gt;Allohistium&lt;/i&gt;)</title>
+        <abstract locale="en_US">We examined geographic variation within the Ashy Darter, &lt;i&gt;Etheostoma&lt;/i&gt; &lt;i&gt;cinereum,&lt;/i&gt; of the mitochondrially enconded cyto-chrome &lt;i&gt;b&lt;/i&gt; gene (cyt &lt;i&gt;b)&lt;/i&gt; and nuclear recombination activation gene 1 (RAG1) as well as pigmentation, 6 meristic variables,and 20 morphometric variables for patterns indicative of speciation within the complex. Four geographically disjunct en-tities were identified by at least one of the datasets corresponding to the Cumberland, Duck, Elk, and upper Tennesseeriver systems. Monophyly of cyt &lt;i&gt;b&lt;/i&gt; and RAG1 sequences, modal meristic differences, moderate morphometric divergence,and unique pigmentation in specimens from the Cumberland River suggest this entity represents an evolutionary speciesunder many different species concepts and is described herein as &lt;i&gt;Etheostoma&lt;/i&gt; &lt;i&gt;maydeni.&lt;/i&gt; Other populations exhibit varyingdegrees of divergence in the different datasets and have conflicting relationships in phylogenetic analyses using cyt &lt;i&gt;b&lt;/i&gt; andRAG1 sequences, leaving the evolutionary history and taxonomic status of the Duck, Elk and upper Tennessee populations unclear.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Etheostoma&lt;/i&gt; &lt;i&gt;maydeni&lt;/i&gt;; Cumberland River; endemic; darter</subject>
+          <subject_class locale="en_US">&lt;i&gt;Etheostoma&lt;/i&gt; &lt;i&gt;maydeni&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Steven</firstname>
+          <middlename>L.</middlename>
+          <lastname>Powers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernard</firstname>
+          <middlename>R.</middlename>
+          <lastname>Kuhajda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sarah</firstname>
+          <middlename>E.</middlename>
+          <lastname>Ahlbrand</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-55</pages>
+        <date_published>2012-04-24</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of shallow-water hermit crabs (Crustacea: Decapoda: Paguridae) from Mayotte, Comoro Islands, southwestern Indian Ocean</title>
+        <abstract locale="en_US">Two new species of pagurid hermit crabs are described from shallow coral reefs of Mayotte, Comoro Islands, southwest-ern Indian Ocean. &lt;i&gt;Cestopagurus&lt;/i&gt; &lt;i&gt;caeruleus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; representing the fourth of the genus, is morphological similar to &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;coutieri&lt;/i&gt; Bouvier, 1897 and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;timidus&lt;/i&gt; (Roux, 1830), but the new species is immediately distinguished from the latter twospecies by the proportionally longer antennular peduncles and the different armature of the dactylus of the right cheliped.&lt;i&gt;Trichopagurus&lt;/i&gt; &lt;i&gt;asper&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; representing the third species of the genus, appears closer to &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;macrochela&lt;/i&gt; Komai &amp; Osa-wa, 2005, but the tuberculate dorsal surface of the right palm and the possession of spines on the carpus of the left cheliped readily differentiate the new species from the latter species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Anomura; Paguridae; &lt;i&gt;Cestopagurus&lt;/i&gt;; &lt;i&gt;Trichopagurus&lt;/i&gt;; new species; Mayotte Island</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Joseph</firstname>
+          <lastname>Poupin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-68</pages>
+        <date_published>2012-04-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3272.1</id>
+    <title locale="en_US">19 Apr. 2012</title>
+    <volume>3272</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A revision of the taxonomy of &lt;i&gt;Dendrelaphis caudolineatus &lt;/i&gt;(Gray, 1834) (Serpentes: Colubridae)</title>
+        <abstract locale="en_US">The systematics of the wide-ranging southeast Asian colubrid snake &lt;i&gt;Dendrelaphis&lt;/i&gt; &lt;i&gt;caudolineatus&lt;/i&gt; (Gray, 1834) wasinvestigated on the basis of multivariate analyses of morphological and coloration data for 131 museum specimensrepresenting 28 geographically isolated populations. The results demonstrate that the current taxonomy of &lt;i&gt;D.&lt;/i&gt;&lt;i&gt;caudolineatus&lt;/i&gt; underestimates species diversity in the Philippines. The following revisions are implemented. 1)Populations from the Philippine island Palawan and adjacent islands currently referred to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;c.&lt;/i&gt; &lt;i&gt;caudolineatus&lt;/i&gt; (Gray, 1834)are described as a new species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;levitoni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; 2) Populations from the Philippine islands Negros, Panay, Mindoroand Masbate, currently assigned to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;c.&lt;/i&gt; &lt;i&gt;terrificus&lt;/i&gt; (Peters, 1872) and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;c.&lt;/i&gt; &lt;i&gt;luzonensis&lt;/i&gt; Leviton, 1961 are referred to &lt;i&gt;D.&lt;/i&gt;&lt;i&gt;fuliginosus&lt;/i&gt; Griffin 1909, which is revalidated. 3) Populations from the southern Philippine islands Basilan, Mindanao,Cebu, Bohol, Leyte, Samar, Polillo, Kalotkot, Catanduanes as well as Southeast Luzon currently referred to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;c.&lt;/i&gt; &lt;i&gt;terrificus&lt;/i&gt;(Peters, 1872) are referred to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;philippinensis&lt;/i&gt; Günther, 1879 which is revalidated. 4) The population from Sulawesi isreferred to &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;terrificus&lt;/i&gt; (Peters, 1872). Currently regarded as a polytypic species composed of five subspecies, &lt;i&gt;D.&lt;/i&gt;&lt;i&gt;caudolineatus&lt;/i&gt; is here considered to be a monophyletic group comprising eight species. The distributions of these eightspecies correspond largely with aggregate island complexes formed during periods of reduced sea level during the Pleistocene. However, some deviations indicate post-Pleistocene dispersals across sea barriers.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Indonesia; Philippines; Pleistocene aggregate island complexes; snakes; Southeast Asia.</subject>
+          <subject_class locale="en_US">Indonesia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Johan</firstname>
+          <lastname>Van Rooijen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-25</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A third species of &lt;i&gt;Gegeneophis &lt;/i&gt;Peters (Amphibia: Gymnophiona: Indotyphlidae) lacking secondary annular grooves </title>
+        <abstract locale="en_US">A new species of indotyphlid caecilian amphibian, &lt;i&gt;Gegeneophis&lt;/i&gt; &lt;i&gt;primus&lt;/i&gt; sp. nov., is described based on a series of eight speci-mens from the state of Kerala in the southern region of the Western Ghats, India. This species is distinguished from all other&lt;i&gt;Gegeneophis,&lt;/i&gt; except &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;seshachari&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pareshi,&lt;/i&gt; in lacking secondary annular grooves and scales. It differs from &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;ses-&lt;/i&gt;&lt;i&gt;hachari&lt;/i&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pareshi&lt;/i&gt; in several features, including having fewer primary annuli and lacking a well-developed unsegmented terminal shield.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">caecilians; herpetology; India; Kerala; taxonomy; Western Ghats</subject>
+          <subject_class locale="en_US">caecilians</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ramachandran</firstname>
+          <lastname>Kotharambath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>J.</middlename>
+          <lastname>Gower</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Oommen</firstname>
+          <middlename>V.</middlename>
+          <lastname>Oommen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mark</firstname>
+          <lastname>Wilkinson</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>26-34</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;"Hamopontonia corallicola&lt;/i&gt;" Bruce, 1970 species complex (Crustacea, Decapoda, Palaemonidae): new records and new species from the Great Barrier Reef, Australia </title>
+        <abstract locale="en_US">The &lt;i&gt;“Hamopontonia&lt;/i&gt; &lt;i&gt;corallicola”&lt;/i&gt; Bruce, 1970 species complex is partly revised. The type species of the genus, &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;corallicola&lt;/i&gt;Bruce, 1970, is redescribed based on material from Northern Australia. Additionally, two new species of the genus associatedwith hard corals are described from Lizard Island, the Great Barrier Reef, Australia. &lt;i&gt;Hamopontonia&lt;/i&gt; &lt;i&gt;fungicola&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; isassociated with fungiid coral &lt;i&gt;Heliofungia&lt;/i&gt; &lt;i&gt;actiniformis&lt;/i&gt; (Quoy &amp; Gaimard, 1833) and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;physogyra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is associated withcaryophyllid coral &lt;i&gt;Physogyra&lt;/i&gt; &lt;i&gt;lichtensteini&lt;/i&gt; Milne-Edwards &amp; Haime, 1851. Both species clearly differ from their congeners indistinctive coloration and morphological features. A differential key and remarks on coloration of all described species of the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Palaemonidae; Pontoniinae; &lt;i&gt;Hamopontonia&lt;/i&gt;; &lt;i&gt;corallicola&lt;/i&gt;; new species; new records; the Great Barrier Reef; Australia</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ivan</firstname>
+          <lastname>Marin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-56</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Ctenomys brasiliensis &lt;/i&gt;Blainville (Rodentia: Ctenomyidae): clarifying the geographic placement of the type species of the genus &lt;i&gt;Ctenomys &lt;/i&gt;</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Ctenomys&lt;/i&gt; (Rodentia: Ctenomyidae) comprises more than 60 species of subterranean rodents. Despite the widedistribution of the genus in southern America, the type locality of the type species—Ctenomys &lt;i&gt;brasiliensis&lt;/i&gt;Blainville—was long thought to be the State of Minas Gerais in southeastern Brazil, well outside the presently knowndistributional area of the genus. Since it has never been collected again in that State, the type locality of this species is stilla matter for investigation. In order to elucidate this question, we investigated the skull of the type specimens of &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;brasiliensis.&lt;/i&gt; From geometric morphometrics comparisons with other species of the genus, and taking into account thelabel information, it was possible to rediscover the type locality of this species. There is no doubt that the specimen wascollected in Minas, in the department of Lavalleja, Uruguay. Nowadays in this area on the southern coast of Uruguay, onlypopulations of &lt;i&gt;Ctenomys&lt;/i&gt; &lt;i&gt;pearsoni&lt;/i&gt; Lessa and Langguth were recognized. We suggest that more studies must be done tobetter understand the taxonomic relation between &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;pearsoni&lt;/i&gt; complex and the &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;brasiliensis,&lt;/i&gt; the type species for the genus that was collected in Uruguay and never occurred in southeastern Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">type locality; geometric morphometric; &lt;i&gt;Ctenomys&lt;/i&gt; &lt;i&gt;pearsoni&lt;/i&gt;; tuco-tucos</subject>
+          <subject_class locale="en_US">type locality</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabiano</firstname>
+          <middlename>Araujo</middlename>
+          <lastname>Fernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <lastname>Fornel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thales</firstname>
+          <middlename>R. O.</middlename>
+          <lastname>Freitas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-68</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

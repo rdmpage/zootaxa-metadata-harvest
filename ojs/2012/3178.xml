@@ -150,19 +150,8 @@
         <pages>33-44</pages>
         <date_published>2012-01-31</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">MEHREZ GAMMOUDI (Tunisian Republic), BERNHARD EGGER (Austria), </title>
+        <title locale="en_US">The genus &lt;i&gt;Leptoplana &lt;/i&gt;(Leptoplanidae, Polycladida) in the Mediterranean basin. Redescription of the species &lt;i&gt;Leptoplana mediterranea &lt;/i&gt;(Bock, 1913) comb. nov.</title>
         <abstract locale="en_US">A revision of the genus &lt;i&gt;Leptoplana&lt;/i&gt; Ehrenberg, 1831 in the Mediterranean basin is undertaken. This revision deals withthe distribution and validity of the species of &lt;i&gt;Leptoplana&lt;/i&gt; known for the area. The Mediterranean sub-species polyclad,&lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt; forma &lt;i&gt;mediterranea&lt;/i&gt; Bock, 1913 is elevated to the specific level. &lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;mediterranea&lt;/i&gt; comb.nov. is redescribed from the Lake of Tunis, Tunisia. This flatworm is distinguished from &lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt; mainlyby having a prostatic vesicle provided with a long diverticulum attached ventrally to the seminal vesicle, a genital pit clos-er to the male pore than to the female one and a twelve-eyed hatching juvenile instead of the four-eyed juvenile of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;tremellaris.&lt;/i&gt; The direct development in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;mediterranea&lt;/i&gt; is described at 15 °C.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -170,6 +159,16 @@
           <subject_class locale="en_US">&lt;i&gt;Leptoplana&lt;/i&gt; &lt;i&gt;tremellaris&lt;/i&gt;</subject_class>
         </indexing>
         <author primary_contact="true">
+          <firstname>Mehrez</firstname>
+          <lastname>Gammoudi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bernhard</firstname>
+          <lastname>Egger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
           <firstname>Saïda</firstname>
           <lastname>Tekaya</lastname>
           <email>user@example.com</email>
@@ -179,12 +178,12 @@
           <lastname>Noreña</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>45-56</pages>
+        <date_published>2012-01-31</date_published>
         <open_access/>
       </article>
       <article language="en">
-        <title locale="en_US">QIN LIU (China), EDWARD A. MYERS (USA), GUANG H. ZHONG (China), JIAN HU (China), </title>
+        <title locale="en_US">Molecular evidence on the systematic position of the lance-headed pitviper &lt;i&gt;Protobothrops maolanensis &lt;/i&gt;Yang &lt;i&gt;et al., &lt;/i&gt;2011</title>
         <abstract locale="en_US">In order to assess the phylogenetic position of the recently described &lt;i&gt;Protobothrops&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; Yang &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2011, wereconstructed relationships within the genus &lt;i&gt;Protobothrops&lt;/i&gt; based on four mtDNA gene fragments (12S RNA, 16S RNA,ND4 and cyt b). Phylogeny reconstruction consistently recovered a sister relationship between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ele-&lt;/i&gt;&lt;i&gt;gans&lt;/i&gt; though with uncompelling support. However, a clade composed of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mucrosquamatus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ele-&lt;/i&gt;&lt;i&gt;gans&lt;/i&gt; was recovered with strong support. The genetic distance between &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; and between &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;maolanensis&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mucrosquamatus&lt;/i&gt; is relatively high compared to other sister-species comparisons within sampled &lt;i&gt;Pro-&lt;/i&gt;&lt;i&gt;tobothrops.&lt;/i&gt; Given the molecular results and morphological differences, we conclude that &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;maolanensis&lt;/i&gt; is a valid species closely related to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mucrosquamatus.&lt;/i&gt;</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -192,6 +191,28 @@
           <subject_class locale="en_US">Asia</subject_class>
         </indexing>
         <author primary_contact="true">
+          <firstname>Qin</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Edward</firstname>
+          <middlename>A.</middlename>
+          <lastname>Myers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guang</firstname>
+          <middlename>H.</middlename>
+          <lastname>Zhong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jian</firstname>
+          <lastname>Hu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
           <firstname>Hui</firstname>
           <lastname>Zhao</lastname>
           <email>user@example.com</email>
@@ -201,20 +222,9 @@
           <lastname>Guo</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>57-62</pages>
+        <date_published>2012-01-31</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3178.1</id>
-    <title locale="en_US">31 Jan. 2012</title>
-    <volume>3178</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-01-31</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">&lt;i&gt;Cimaria vargasi &lt;/i&gt;n. gen, n. sp. (Gastropoda: Pyramidellidae: Odostomiinae) from the Pacific Coast of Costa Rica, Central America</title>
         <abstract locale="en_US"/>

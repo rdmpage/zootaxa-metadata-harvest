@@ -98,6 +98,34 @@
         <pages>63-67</pages>
         <date_published>2012-02-20</date_published>
       </article>
+      <article language="en">
+        <title locale="en_US">Validation of new genus the &lt;i&gt;Miniagraecia &lt;/i&gt;(Orthoptera: Tettigoniidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dcf</firstname>
+          <lastname>Rentz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>You</firstname>
+          <middlename>Ning</middlename>
+          <lastname>Su</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>N.</firstname>
+          <lastname>Ueshima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>68-68</pages>
+        <date_published>2012-02-20</date_published>
+        <open_access/>
+      </article>
     </section>
   </issue>
 </issues>

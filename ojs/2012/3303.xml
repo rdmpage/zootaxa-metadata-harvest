@@ -1,3 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3303.1</id>
+    <title locale="en_US">8 May. 2012</title>
+    <volume>3303</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Species composition and geographic distribution of Fuegian Curculionidae (Coleoptera: Curculionoidea)</title>
+        <abstract locale="en_US">The objective of this paper is to provide an integrative approach to taxonomic composition and distributional informationon the weevil fauna (Coleoptera: Curculionoidea) of the Tierra del Fuego archipelago. A total of 39 species belonging to17 Curculionidae genera are recorded for the archipelago. Most of these belong to two subfamilies: Entiminae (13 speciesin four genera) and Cyclominae (23 species in 11 genera). &lt;i&gt;Caneorhinus&lt;/i&gt; &lt;i&gt;gravidus&lt;/i&gt; (Burmeister) is here established as a &lt;b&gt;new&lt;/b&gt;&lt;b&gt;junior&lt;/b&gt; &lt;b&gt;synonym&lt;/b&gt; of &lt;i&gt;Caneorhinus&lt;/i&gt; &lt;i&gt;lineatus&lt;/i&gt; (Blanchard). The Fuegian weevil fauna is considered to represent an impover-ished condition in comparison to that from continental southern South America. The Tierra del Fuego archipelago has noendemic genera of Curculionidae and only three species seem to be endemic to it (Antarctobius &lt;i&gt;rugirostris&lt;/i&gt; Champion,&lt;i&gt;Cylydrorhinus&lt;/i&gt; &lt;i&gt;lateralis&lt;/i&gt; [Berg], and &lt;i&gt;Cylydrorhinus&lt;/i&gt; &lt;i&gt;fulvipes&lt;/i&gt; [Guérin-Méneville]). However, these three species have scarcerecords and more information is required to confirm their status as Fuegian endemics. No species present in Tierra delFuego extend their distribution beyond the Andean subregion. The Fuegian weevil fauna exhibits a great linkages to thatfrom continental southernmost South America. Synonymic lists and distributional maps are provided for each speciesknown to occur on the islands. Identification keys and photographs of weevil taxa recorded for Tierra del Fuego are also presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andean region; Curculionidae; southern South America; species checklist; Tierra del Fuego; weevil fauna</subject>
+          <subject_class locale="en_US">Andean region</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paula</firstname>
+          <lastname>Posadas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Adenopygus: &lt;/i&gt;a new genus and two new species of Luzarinae cricket of Brazilian Atlantic Forest (Orthoptera: Grylloidea)</title>
+        <abstract locale="en_US">The aim of the present work is to describe &lt;i&gt;Adenopygus,&lt;/i&gt; a new genus with two species of luzarine phalangopsid crickets from the Atlantic Forest on the Mantiqueira fault escarpment of southeastern Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Orthoptera; Grylloidea; Phalangopsidae; new taxa; description</subject>
+          <subject_class locale="en_US">Orthoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcio</firstname>
+          <middlename>P.</middlename>
+          <lastname>Bolfarini</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <lastname>De A. G. De Mello</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-49</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Studies on the Indian species of &lt;i&gt;Aleuroplatus &lt;/i&gt;(Hemiptera: Aleyrodidae), with designation of a neotype puparium for &lt;i&gt;Aleurodes alcocki &lt;/i&gt;Peal</title>
+        <abstract locale="en_US">A neotype is designated for &lt;i&gt;Aleurodes&lt;/i&gt; &lt;i&gt;alcocki&lt;/i&gt; Peal, which is currently in the genus &lt;i&gt;Aleuroplatus,&lt;/i&gt; and this species is dis-tinguished from &lt;i&gt;Aleuroplatus&lt;/i&gt; &lt;i&gt;pectiniferus&lt;/i&gt; Quaintance &amp; Baker. &lt;i&gt;Aleuroplatus&lt;/i&gt; &lt;i&gt;cinnamomi&lt;/i&gt; Jesudasan &amp; David is recalled from synonymy with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pectiniferus&lt;/i&gt; as a valid species. A key to puparia of the Indian &lt;i&gt;Aleuroplatus&lt;/i&gt; species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aleuroplatus&lt;/i&gt;; &lt;i&gt;Aleurodes&lt;/i&gt; &lt;i&gt;alcocki&lt;/i&gt;; Aleyrodidae; Hemiptera</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aleuroplatus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anil</firstname>
+          <middlename>Kumar</middlename>
+          <lastname>Dubey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>Vasantharaj</middlename>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>50-58</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new iridescent “elfin” butterfly species of &lt;i&gt;Podanotum&lt;/i&gt; (Lepidoptera: Lycaenidae: Eumaeini) from the Colombian Andes</title>
+        <abstract locale="en_US">A new butterfly species, &lt;i&gt;Podanotum&lt;/i&gt; &lt;i&gt;pulsar&lt;/i&gt; Prieto &amp; Rodríguez &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from the high Andes of Colombia. Wepresent a brief discussion on its systematic placement and on adult ecology. Adult specimens and the genitalia of the male andfemale are illustrated and compared with the most closely related species &lt;i&gt;Podanotum&lt;/i&gt; &lt;i&gt;glorissimum&lt;/i&gt; Bálint &amp; Wojtusiak, according to morphological characters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Belmira; Páramo; Biodiversidad; Antioquia; bosque nublado</subject>
+          <subject_class locale="en_US">Belmira</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carlos</firstname>
+          <lastname>Prieto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabriel</firstname>
+          <lastname>Rodriguez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of Lachesillidae (Psocoptera) from the Peruvian Amazonia</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alfonso</firstname>
+          <middlename>N. García</middlename>
+          <lastname>Aldrete</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-05-08</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

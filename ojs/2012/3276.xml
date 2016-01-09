@@ -1,3 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3276.1</id>
+    <title locale="en_US">24 Apr. 2012</title>
+    <volume>3276</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-24</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">New Leptocheliidae (Crustacea: Tanaidacea: Tanaidomorpha) from Australian seagrass and macro-algal habitats, and a redescription of the poorly-known &lt;i&gt;Leptochelia ignota &lt;/i&gt;from Sydney Harbour</title>
+        <abstract locale="en_US">Australia possesses a rich fauna of leptocheliid tanaidaceans (Crustacea: Tanaidacea: Leptocheliidae), including manyspecies that currently remain undescribed. As an addition to the 13 leptocheliid species known to date from Australianwaters, a new genus (Poorea &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;gen.)&lt;/b&gt; and five new species collected from shallow macrophyte habitats are diagnosed(Parakonarus &lt;i&gt;robertsoni&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Leptochelia &lt;i&gt;evansi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Leptochelia&lt;/i&gt; &lt;i&gt;gadgeti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Poorea&lt;/i&gt; &lt;i&gt;wrighti&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;Poorea&lt;/i&gt;&lt;i&gt;johannesi&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.).&lt;/b&gt; &lt;i&gt;Leptochelia&lt;/i&gt; &lt;i&gt;nobbi&lt;/i&gt; is transferred to the genus &lt;i&gt;Poorea,&lt;/i&gt; &lt;i&gt;Leptochelia&lt;/i&gt; &lt;i&gt;fairgo&lt;/i&gt; to &lt;i&gt;Parakonarus,&lt;/i&gt; and a rede-scription provided for the enigmatic tanaidacean &lt;i&gt;Leptochelia&lt;/i&gt; &lt;i&gt;ignota&lt;/i&gt; on the basis of specimens collected near the Sydney type locality. A key is provided to Australian leptocheliid species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tanaidaceans; crustaceans; Leptocheliidae; &lt;i&gt;Leptochelia&lt;/i&gt;; &lt;i&gt;Parakonarus&lt;/i&gt;; &lt;i&gt;Poorea&lt;/i&gt;; systematics; new species; new genus; seagrass; Australia</subject>
+          <subject_class locale="en_US">Tanaidaceans</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Graham</firstname>
+          <middlename>J.</middlename>
+          <lastname>Edgar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2012-04-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Are &lt;i&gt;Bryodrilus parvus &lt;/i&gt;Nurminen, 1970 and &lt;i&gt;Bryodrilus librus &lt;/i&gt;(Nielsen and Christensen, 1959) (Annelida: Enchytraeidae) really different species? A revision based on DNA barcodes and morphological data</title>
+        <abstract locale="en_US">The taxonomic status of the enchytraeid species &lt;i&gt;Bryodrilus&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt; Nurminen, 1970 and &lt;i&gt;Bryodrilus&lt;/i&gt; &lt;i&gt;librus&lt;/i&gt; (Nielsen andChristensen, 1959) was tested with respect to their possible conspecifity. &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;parvus,&lt;/i&gt; considered as a typical northern Hol-arctic species, was also found in Hungarian lowlands. The species &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;librus&lt;/i&gt; (Nielsen and Christensen, 1959), distributedin Northern and Central Europe, is very close morphologically to &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;parvus.&lt;/i&gt; In this paper we demonstrate that &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;parvus&lt;/i&gt;and &lt;i&gt;B.librus&lt;/i&gt; are not different species based on both morphological and molecular analyses of specimens from differentregions in Europe. The valid name of the species is &lt;i&gt;Bryodrilus&lt;/i&gt; &lt;i&gt;librus&lt;/i&gt; (Nielsen &amp; Christensen, 1959) following the principle of priority (ICZN 1999, Art. 23.1).The species &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;librus&lt;/i&gt; was revised and a new description is given here.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">DNA barcodes; CO1; species revision; taxonomy; &lt;i&gt;Bryodrilus&lt;/i&gt;; Enchytraeidae</subject>
+          <subject_class locale="en_US">DNA barcodes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Klára</firstname>
+          <lastname>Dózsa-Farkas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <lastname>Porco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gergely</firstname>
+          <lastname>Boros</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-50</pages>
+        <date_published>2012-04-24</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The West Mediterranean &lt;i&gt;Alona azorica &lt;/i&gt;Frenzel &amp; Alonso, 1988 (Cladocera: Anomopoda: Chydoridae) is composed of two species</title>
+        <abstract locale="en_US">A study of several populations of the West Palaearctic endemic &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;azorica&lt;/i&gt; Frenzel &amp; Alonso, 1988 reveals the exis-tence of a sibling-species. &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;azorica&lt;/i&gt; s. str. is confined to the Azores and the Atlantic part of West Iberia; &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;anas-&lt;/i&gt;&lt;i&gt;tasia&lt;/i&gt; sp. nov. inhabits temporary ponds in Mediterranean Iberia and other West Mediterranean regions. It differs by size,by the morphology of the head shield and head pores, and by the shape of the male postabdomen. Both species belong tothe &lt;i&gt;pulchella-group&lt;/i&gt; of &lt;i&gt;Alona&lt;/i&gt; s. lato. &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;anastasia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; population dynamics and seasonal variation in body size in the province of Valencia (Spain) are also studied.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Cladocera; &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;azorica&lt;/i&gt;; &lt;i&gt;Alona&lt;/i&gt; &lt;i&gt;anastasia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Mediterranean region; systematics; morphology; biogeography</subject>
+          <subject_class locale="en_US">Cladocera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artem</firstname>
+          <middlename>Y.</middlename>
+          <lastname>Sinev</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miguel</firstname>
+          <lastname>Alonso</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <middlename>Rosa</middlename>
+          <lastname>Miracle</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Maria</firstname>
+          <lastname>Sahuquillo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-68</pages>
+        <date_published>2012-04-24</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

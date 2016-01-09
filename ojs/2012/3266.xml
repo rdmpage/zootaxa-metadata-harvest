@@ -1,3 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3266.1</id>
+    <title locale="en_US">11 Apr. 2012</title>
+    <volume>3266</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A complex of Transversotrematidae (Platyhelminthes: Digenea) associated with mullid fishes of the Indo-West Pacific Region, including the descriptions of four new species of &lt;i&gt;Transversotrema &lt;/i&gt; </title>
+        <abstract locale="en_US">Phylogenetic analysis based on ribosomal DNA markers indicates that there is a discrete clade of species of &lt;i&gt;Transverso-&lt;/i&gt;&lt;i&gt;trema&lt;/i&gt; Witenberg, 1944 associated with mullid fishes of the Indo-West Pacific, although there is only one previous recordof transversotrematids from these fishes. Each of the species in this clade bears broad morphological similarity to previousconcepts of either &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;haasi&lt;/i&gt; Witenberg, 1944 or &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;licinum&lt;/i&gt; Manter, 1970, yet none of them isattributed here to either of these species. Four new species of &lt;i&gt;Transversotrema&lt;/i&gt; are described from mullid fishes of thetropical and sub-tropical Indo-West Pacific using a combination of morphology, morphometric analysis and DNA se-quencing. &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;cabrarum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;spilurus&lt;/i&gt; (Bleeker) from Ningaloo Reef (Aus-tralia), and recorded from &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;cyclostomus&lt;/i&gt; (Lacepède), &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;pleurostigma&lt;/i&gt; (Bennett) and &lt;i&gt;Parupeneus&lt;/i&gt;&lt;i&gt;trifasciatus&lt;/i&gt; (Lacepède) from the same location. &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;chevrarum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from Lizard Island (GreatBarrier Reef, Australia) from &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;ciliatus&lt;/i&gt; (Lacepède), and further recorded from &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;barberinus&lt;/i&gt;(Lacepède), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cyclostomus,&lt;/i&gt; &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; (Shaw), &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;multifasciatus&lt;/i&gt; (Quoy &amp; Gaimard) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;trifasciatus&lt;/i&gt;at the same location. &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;cutmorei&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from &lt;i&gt;Upeneus&lt;/i&gt; &lt;i&gt;tragula&lt;/i&gt; Richardson from Moreton Bay,Australia. &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;tragorum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from &lt;i&gt;Parupeneus&lt;/i&gt; &lt;i&gt;indicus&lt;/i&gt; from Lizard Island and recorded from&lt;i&gt;P.&lt;/i&gt; &lt;i&gt;barberinus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;ciliatus&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;cyclostomus,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;multifasciatus&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;trifasciatus&lt;/i&gt; from the same location. An additional spe-cies, also from mullids from Lizard Island, is delineated on the basis of molecular data, but not formally described. Like many other transversotrematids, the species described here appear to have limited geographical distributions.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Digenea; Transversotrematidae; &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;cabrarum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; &lt;i&gt;Transversotrema&lt;/i&gt; &lt;i&gt;chevrarum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt;</subject>
+          <subject_class locale="en_US">Digenea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Janet</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hunter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kathryn</firstname>
+          <middlename>A.</middlename>
+          <lastname>Hall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>H.</middlename>
+          <lastname>Cribb</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-22</pages>
+        <date_published>2012-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of the genus &lt;i&gt;Tycherobius &lt;/i&gt;Bolland (Acari: Camerobiidae) from Iran </title>
+        <abstract locale="en_US">Three new species of the genus &lt;i&gt;Tycherobius&lt;/i&gt; Bolland, 1986, &lt;i&gt;Tycherobius&lt;/i&gt; &lt;i&gt;iranensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Tycherobius&lt;/i&gt; &lt;i&gt;ueckermanni&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Tycherobius&lt;/i&gt; &lt;i&gt;farsiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; collected from soil and rotten leaves under oak trees (Quercus &lt;i&gt;brantii&lt;/i&gt; Lindl. (Fa-gaceae)) in Iran, are described and illustrated. This genus is recorded for the first time in Iran. A key to all known species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Camerobiidae; &lt;i&gt;Tycherobius&lt;/i&gt;; predatory mite; Iran</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shima</firstname>
+          <lastname>Yazyanpanah</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hadi</firstname>
+          <lastname>Ostovan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bahman</firstname>
+          <middlename>Asali</middlename>
+          <lastname>Fayaz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-40</pages>
+        <date_published>2012-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Thalasseleotrididae, new family of marine gobioid fishes from New Zealand and temperate Australia, with a revised definition of its sister taxon, the Gobiidae (Teleostei: Acanthomorpha) </title>
+        <abstract locale="en_US">Thalasseleotrididae &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;fam.&lt;/b&gt; is erected to include two marine genera, &lt;i&gt;Thalasseleotris&lt;/i&gt; Hoese &amp; Larson from temperate Aus-tralia and New Zealand, and &lt;i&gt;Grahamichthys&lt;/i&gt; Whitley from New Zealand. Both had been previously classified in the familyEleotrididae. The Thalasseleotrididae is demonstrably monophyletic on the basis of a single synapomorphy: membraneconnecting the hyoid arch to ceratobranchial 1 broad, extending most of the length of ceratobranchial 1 (= first gill slitrestricted or closed). The family represents the sister group of a newly diagnosed Gobiidae on the basis of five synapo-morphies: interhyal with cup-shaped lateral structure for articulation with preopercle; laterally directed posterior processon the posterior ceratohyal supporting the interhyal; pharyngobranchial 4 absent; dorsal postcleithrum absent; urohyalwithout ventral shelf. The Gobiidae is defined by three synapomorphies: five branchiostegal rays; expanded and medially-placed ventral process on ceratobranchial 5; dorsal hemitrich of pelvic-fin rays with complex proximal head. This studyrepresents a contribution to our ongoing clarification of the family Eleotrididae, which has served historically as a repository for genera not classified among the more derived gobioids (= Gobiidae as defined here).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gobioidei; Gobiidae,Thalasseleotrididae new family; Eleotrididae; osteology; systematics</subject>
+          <subject_class locale="en_US">Gobioidei</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Anthony</firstname>
+          <middlename>C.</middlename>
+          <lastname>Gill</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Randall</firstname>
+          <middlename>D.</middlename>
+          <lastname>Mooi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-52</pages>
+        <date_published>2012-04-11</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of the hermit crab genus &lt;i&gt;Ciliopagurus &lt;/i&gt;Forest (Crustacea: Decapoda: Anomura: Diogenidae) from southern India </title>
+        <abstract locale="en_US">The diogenid hermit crab genus &lt;i&gt;Ciliopagurus&lt;/i&gt; Forest, 1995 is currently represented by 18 recent species, 17 species fromthe Indo-West Pacific and one species from the eastern Atlantic. In this paper, we describe a new species, &lt;i&gt;Ciliopagurus&lt;/i&gt;&lt;i&gt;grandis,&lt;/i&gt; from off Kerala State, southern India. This new species is compared with six congeneric species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;albatrossi&lt;/i&gt;Forest, 1995, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;caparti&lt;/i&gt; (Forest, 1952), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;krempfi&lt;/i&gt; (Forest, 1952), &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;liui&lt;/i&gt; Forest, 1995, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;macrolepis&lt;/i&gt; Forest, 1995, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;shebae&lt;/i&gt; (Lewinsohn, 1969). It is characteristic in having weakly armed antennal acicles.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Decapoda; Anomura; Diogenidae; &lt;i&gt;Ciliopagurus&lt;/i&gt;; new species; Kerala; India</subject>
+          <subject_class locale="en_US">Decapoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rema</firstname>
+          <lastname>Reshmi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Appukuttan</firstname>
+          <middlename>Nair Biju</middlename>
+          <lastname>Kumar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-04-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Sibon &lt;/i&gt;(Squamata: Colubridae) from the mountains of eastern Guatemala </title>
+        <abstract locale="en_US">A new species of snake of the genus &lt;i&gt;Sibon&lt;/i&gt; (Squamata: Colubridae) is described from La Montaña de las Granadillas, partof the Sierra del Merendón in eastern Guatemala. &lt;i&gt;Sibon&lt;/i&gt; &lt;i&gt;merendonensis&lt;/i&gt; is part of the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;annulatus&lt;/i&gt; group, and differs fromother members of the group in its scale row formula, head scalation and body size. The new species is known only from the holotype and was collected from an isolated area of cloud forest near Zacapa, Department of Zacapa, Guatemala.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Sibon&lt;/i&gt; &lt;i&gt;merendonensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Central America; &lt;i&gt;Sibon&lt;/i&gt; &lt;i&gt;annulatus&lt;/i&gt; species group</subject>
+          <subject_class locale="en_US">&lt;i&gt;Sibon&lt;/i&gt; &lt;i&gt;merendonensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; Central America</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sean</firstname>
+          <middlename>M.</middlename>
+          <lastname>Rovito</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Theodore</firstname>
+          <middlename>J.</middlename>
+          <lastname>Papenfuss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>R.</middlename>
+          <lastname>Vásquez-Almazán</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-04-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

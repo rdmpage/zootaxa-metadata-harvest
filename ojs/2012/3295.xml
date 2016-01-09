@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3295.1</id>
+    <title locale="en_US">1 May. 2012</title>
+    <volume>3295</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-01</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The deep-sea fish digenean genus &lt;i&gt;Tellervotrema &lt;/i&gt;Gibson &amp; Bray, 1982 (Opecoelidae: Plagioporinae): Re-evaluation of the type species, &lt;i&gt;T. armstrongi &lt;/i&gt;Gibson &amp; Bray, 1982 and &lt;i&gt;T. beringi &lt;/i&gt;(Mamaev, 1965)</title>
+        <abstract locale="en_US">&lt;i&gt;Tellervotrema&lt;/i&gt; Gibson &amp; Bray, 1982 (Digenea: Opecoelidae) was erected for &lt;i&gt;Podocotyle-like&lt;/i&gt; species that possess asymmetrical pair of isolated groups of vitelline follicles in the posterior forebody, lack them dorsal to the caeca andparasitize archybenthal macrourid fishes. &lt;i&gt;Tellervotrema&lt;/i&gt; &lt;i&gt;armstrongi&lt;/i&gt; Gibson &amp; Bray, 1982 is redescribed from the typehost, the common Atlantic grenadier, &lt;i&gt;Nezumia&lt;/i&gt; &lt;i&gt;aequalis&lt;/i&gt; (Günther), &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;cyrano&lt;/i&gt; Marshall &amp; Iwamoto, and from anunidentified macrourid collected from the northern Gulf of Mexico. &lt;i&gt;Tellervotrema&lt;/i&gt; &lt;i&gt;beringi&lt;/i&gt; (Mamaev, 1965) is redescribedfrom the giant grenadier, &lt;i&gt;Albatrossia&lt;/i&gt; &lt;i&gt;pectoralis&lt;/i&gt; (Gilbert), and &lt;i&gt;Coryphaenoides&lt;/i&gt; sp. obtained from off Oregon. Thefollowing six features are suggested to distinguish &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;armstrongi&lt;/i&gt; and &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;beringi:&lt;/i&gt; egg size; position of the genital pore;posterior extent of the cirrus-sac relative to the ventral sucker; testes volume relative to hindbody size; anterior extent ofthe paired vitelline groups in the forebody; and geographic locality. The generic diagnosis of &lt;i&gt;Tellervotrema&lt;/i&gt; is amended toinclude circumcaecal vitelline follicles, and the presence of the vitelline gap itself was found to be a more consistentdiagnostic generic character than the location of the resulting pair of distinct, isolated groups of vitelline follicles createdby the gap. A neotype and paraneotypes are designated for &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;beringi.&lt;/i&gt; The following new host and locality records areestablished: first original report of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;armstrongi&lt;/i&gt; from &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;cyrano;&lt;/i&gt; first report of a member of &lt;i&gt;Tellervotrema&lt;/i&gt; from the giantgrenadier, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pectoralis;&lt;/i&gt; and the waters off Oregon are a new locality record for &lt;i&gt;Tellervotrema,&lt;/i&gt; a genus in the North PacificOcean known only from the Bering Sea and off Japan. A comprehensive listing of all parasites previously reported fromthe four macrourid species examined herein is given and intermediate hosts are postulated through which species of &lt;i&gt;Tellervotrema&lt;/i&gt; may complete their life cycles in the deep.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Albatrossia&lt;/i&gt; &lt;i&gt;pectoralis&lt;/i&gt;; &lt;i&gt;Coryphaenoides&lt;/i&gt; sp.; deep sea; Digenea; Gulf of Mexico; Macrouridae; &lt;i&gt;Nezumia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Albatrossia&lt;/i&gt; &lt;i&gt;pectoralis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Charles</firstname>
+          <middlename>K.</middlename>
+          <lastname>Blend</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Norman</firstname>
+          <middlename>O.</middlename>
+          <lastname>Dronen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Scott</firstname>
+          <middlename>L.</middlename>
+          <lastname>Gardner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gabor</firstname>
+          <middlename>R.</middlename>
+          <lastname>Racz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Howard</firstname>
+          <middlename>W.</middlename>
+          <lastname>Armstrong</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-05-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The false spider mites of the genera &lt;i&gt;Aegyptobia &lt;/i&gt;Sayed and &lt;i&gt;Phytoptipalpus&lt;/i&gt; Trägårdh (Acari: Tenuipalpidae) from Iran</title>
+        <abstract locale="en_US">Two new species of the genus &lt;i&gt;Aegyptobia&lt;/i&gt; Sayed and 1 new species of &lt;i&gt;Phytoptipalpus&lt;/i&gt; Trägårdh are described from Iran:&lt;i&gt;A.&lt;/i&gt; &lt;i&gt;bromi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Bromus&lt;/i&gt; &lt;i&gt;tectorum&lt;/i&gt; (Poaceae); &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;nazarii&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from &lt;i&gt;Poa&lt;/i&gt; &lt;i&gt;bulbosa&lt;/i&gt; L. (Poaceae); and &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;kurdistaniensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from wild rose bushes, &lt;i&gt;Rosa&lt;/i&gt; &lt;i&gt;woodsii&lt;/i&gt; (Rosaceae). This is the first record of &lt;i&gt;Phytoptipalpus&lt;/i&gt; fromIran. We also redescribe &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;beglarovi&lt;/i&gt; Livschitz and Mitrofanov, 1967, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;persciae&lt;/i&gt; Khorowshahi and Arbabi,1997, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tragardhi&lt;/i&gt; Sayed, 1950, and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;salicicola&lt;/i&gt; Al-Gboory, 1987; the latter species has only 2 anal setae and is thusmoved to &lt;i&gt;Phytoptipalpus.&lt;/i&gt; &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;kharazii&lt;/i&gt; Mesa and Moraes, 2009 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is regarded as a junior synonym of&lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;beglarovi&lt;/i&gt; Livschitz and Mitrofanov, 1967; &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;ueckermanni&lt;/i&gt; Khorowshahi and Arbabi, 1997 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;is regarded as a junior synonym of &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;tragardhi&lt;/i&gt; Sayed, 1950; &lt;i&gt;Aegyptobia&lt;/i&gt; &lt;i&gt;daneshvari&lt;/i&gt; Parsi and Khosrowshahi,1990 &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is regarded as a junior synonym of &lt;i&gt;Phytoptipalpus&lt;/i&gt; &lt;i&gt;salicicola&lt;/i&gt; (Al-Gboory, 1987). A key to all known Iranian species of the genus &lt;i&gt;Aegyptobia&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tetranychoidea; synonymy; taxonomy; identification; flat mites</subject>
+          <subject_class locale="en_US">Tetranychoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masoumeh</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammad</firstname>
+          <lastname>Khanjani</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Owen</firstname>
+          <middlename>D.</middlename>
+          <lastname>Seeman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-58</pages>
+        <date_published>2012-05-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Eukoenenia virgemdalapa &lt;/i&gt;(Palpigradi: Eukoeneniidae): a new troglobitic palpigrade from Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Maysa</firstname>
+          <middlename>F. V. R.</middlename>
+          <lastname>Souza</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>L.</middlename>
+          <lastname>Ferreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2012-05-01</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Systematic revision of the genus &lt;i&gt;Maudheimia &lt;/i&gt;Dalenius, 1958 (Acari: Oribatida)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Maudheimia&lt;/i&gt; Dalenius, 1958 occurs on the Antarctic continent and contains four known species (M. &lt;i&gt;wilsoni&lt;/i&gt; Dalenius, 1958;&lt;i&gt;M.&lt;/i&gt; &lt;i&gt;petronia&lt;/i&gt; Wallwork, 1962; &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;marshalli&lt;/i&gt; Coetzee, 1997 and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tanngardenensis&lt;/i&gt; Coetzee, 1997). &lt;i&gt;Maudheimia&lt;/i&gt; &lt;i&gt;marshalli&lt;/i&gt; has 15 pairsof notogastral setae in the adults for which Subías (2004) proposed the genus &lt;i&gt;Multimaudheimia.&lt;/i&gt; The other three species have 10 pairsof notogastral setae in the adult stage. The value of “number of notogastral setae” as a single generic character has previously beenshown as insufficient to distinguish a genus. The authors conclude that the genus &lt;i&gt;Multimaudheimia&lt;/i&gt; Subías, 2004 is a synonym of &lt;i&gt;Maudheimia.&lt;/i&gt; The relationship of &lt;i&gt;Maudheimia&lt;/i&gt; is confirmed as a member of Ceratozetoidea in the family Maudheimiidae.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Maudheimia&lt;/i&gt;; Maudheimiidae; systematics</subject>
+          <subject_class locale="en_US">&lt;i&gt;Maudheimia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Louise</firstname>
+          <lastname>Coetzee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gerd</firstname>
+          <lastname>Weigmann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-05-01</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

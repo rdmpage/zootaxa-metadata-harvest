@@ -1,3 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3281.1</id>
+    <title locale="en_US">27 Apr. 2012</title>
+    <volume>3281</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-27</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of the genus &lt;i&gt;Phlugiolopsis &lt;/i&gt;Zeuner, 1940 (Orthoptera: Tettigoniidae: Meconematinae) from China</title>
+        <abstract locale="en_US">This paper reviews the genus &lt;i&gt;Phlugiolopsis&lt;/i&gt; Zeuner, 1940, and describes 5 new species from China, &lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;pectinis&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;tribranchis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;digitusis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;trullis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and&lt;i&gt;Phlugiolopsis&lt;/i&gt; &lt;i&gt;adentis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the species and distributional data in China are given. The type specimens are deposited in the Museum of Hebei University.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phlugiolopsis&lt;/i&gt;; Meconematinae; new species; China; distribution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phlugiolopsis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xun</firstname>
+          <lastname>Bian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fu-Ming</firstname>
+          <lastname>Shi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Lin</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-04-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic study of the Japanese species of the genus &lt;i&gt;Salka &lt;/i&gt;Dworakowska (Hemiptera, Cicadellidae, Typhlocybinae)</title>
+        <abstract locale="en_US">Eight new species of the erythroneurine genus &lt;i&gt;Salka&lt;/i&gt; are described and illustrated from the Ryukyu Islands, southern Japan: &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;denticulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;circumflexa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;okinawana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;diversa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;dimorpha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;maesatoensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;nusukuensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;trimaculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Auchenorrhyncha; Erythroneurini; taxonomy; new species; dimorphism</subject>
+          <subject_class locale="en_US">Auchenorrhyncha</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Naomichi</firstname>
+          <lastname>Ohara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>22-40</pages>
+        <date_published>2012-04-27</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus and three new species of Neotropical Tanyproctini (Coleoptera: Scarabaeidae: Melolonthinae)</title>
+        <abstract locale="en_US">A new genus of scarab beetle, &lt;i&gt;Eideria&lt;/i&gt; Neita &amp; Ocampo, and three new species, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pentaphylla&lt;/i&gt; Neita &amp; Ocampo, &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;glabripenis&lt;/i&gt;Neita &amp; Ocampo, and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pedroantonioi&lt;/i&gt; Neita &amp; Ocampo, are described based on specimens collected in the drylands ofColombia and rainforests of Ecuador. Based on the evaluation of morphological characters and within the context of the currentclassification of the subfamily Melolonthinae, this genus is placed in the tribe Tanyproctini (formerly called Pachydemini).Diagnostic characters, illustrations, and an identification key are provided for the new species. The relationships of &lt;i&gt;Eideria&lt;/i&gt; with other Neotropical Tanyproctini genera are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Colombia; Ecuador; drylands; morphological characters; taxonomy</subject>
+          <subject_class locale="en_US">Colombia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jhon</firstname>
+          <middlename>Cesar</middlename>
+          <lastname>Neita</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Federico</firstname>
+          <middlename>C.</middlename>
+          <lastname>Ocampo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>41-55</pages>
+        <date_published>2012-04-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Paralenaeus &lt;/i&gt;(Hemiptera: Reduviidae: Reduviinae) found in China with the description of the second species of the genus</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Paralenaeus&lt;/i&gt; Reuter, 1881, is recorded for the first time from China. The second species of the genus, &lt;i&gt;Parale-&lt;/i&gt;&lt;i&gt;naeus&lt;/i&gt; &lt;i&gt;schaeferi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; is described from Yunnan. Dorsal habitus, male genitalia, and other diagnostic morphological characters of the new species are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Paralenaeus&lt;/i&gt;; Reduviidae; new species; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Paralenaeus&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hailin</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Liangming</firstname>
+          <lastname>Cao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Waizhi</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-60</pages>
+        <date_published>2012-04-27</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new heterobathmiid moth species with distinctive female genital configurations (Lepidoptera: Heterobathmiidae)</title>
+        <abstract locale="en_US">Two new species of the basal (non-glossatan) moth family Heterobathmiidae are described: &lt;i&gt;Heterobathmia&lt;/i&gt; &lt;i&gt;megadecella&lt;/i&gt;and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nielsenella.&lt;/i&gt; Both species have particularly notable features in their female postabdomen: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;megadecella&lt;/i&gt; has adistinct sclerotization in the genital chamber and a somewhat elaborate sclerite complement on the otherwise membranousventer of the ‘terminal unit’ formed by segments IX–X(XI), and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;nielsenella&lt;/i&gt; has a remarkable forwards extension of thesclerotized upper surface of the ‘subgenital plate’ and a continuation of this extension into a sizable apodemal lamella.The description of these taxa in advance of a comprehensive taxonomic treatment of all presently available &lt;i&gt;Heterobathmia&lt;/i&gt;(including a number of additional undescribed species) is prompted by the need for available names to be used in a morphological treatment of the heterobathmiid postabdomen now nearing completion.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">female postabdomen; genital chamber; &lt;i&gt;Heterobathmia&lt;/i&gt;; new species</subject>
+          <subject_class locale="en_US">female postabdomen</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frank</firstname>
+          <lastname>Hünefeld</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Niels</firstname>
+          <middlename>P.</middlename>
+          <lastname>Kristensen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-04-27</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

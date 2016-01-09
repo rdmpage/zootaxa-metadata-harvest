@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues SYSTEM "native.dtd">
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3255.1</id>
+    <title locale="en_US">3 Apr. 2012</title>
+    <volume>3255</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the genera &lt;i&gt;Prismognathus &lt;/i&gt;Motschulsky and &lt;i&gt;Cladophyllus &lt;/i&gt;Houlbert (Coleoptera: Scarabaeoidea: Lucanidae) from China, with the description of two new species </title>
+        <abstract locale="en_US">A classification scheme is provided for the genera &lt;i&gt;Cladophyllus&lt;/i&gt; Houlbert, &lt;i&gt;Cyclorasis&lt;/i&gt; Thomson, &lt;i&gt;Eligmodontus&lt;/i&gt; Houlbert,&lt;i&gt;Gonometopus&lt;/i&gt; Houlbert, &lt;i&gt;Prismognathus&lt;/i&gt; Motschulsky and &lt;i&gt;Tetrarthrius&lt;/i&gt; Didier. The Chinese species of &lt;i&gt;Prismognathus&lt;/i&gt; (in thepresent sense) and &lt;i&gt;Cladophyllus&lt;/i&gt; are reviewed, with the male and female genitalia illustrated. New distribution data are givenfor some Chinese species. Two new species of &lt;i&gt;Prismognathus&lt;/i&gt; are described, &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;haojiani&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; from Guizhou, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;shani&lt;/i&gt; &lt;b&gt;new&lt;/b&gt; &lt;b&gt;species&lt;/b&gt; from Sichuan. Keys to males and females of the Chinese &lt;i&gt;Prismognathus&lt;/i&gt; and &lt;i&gt;Cladophyllus&lt;/i&gt; are also given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lucanidae; &lt;i&gt;Prismognathus&lt;/i&gt;; &lt;i&gt;Cladophyllus&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Lucanidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hao</firstname>
+          <lastname>Huang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chang-Chin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-36</pages>
+        <date_published>2012-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Ctenosciara &lt;/i&gt;Tuomikoski (Diptera, Sciaridae) in New Caledonia, with the description of eight new species </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Ctenosciara&lt;/i&gt; Tuomikoski, 1960, includes the following species in New Caledonia, all newly described: &lt;i&gt;Cteno-&lt;/i&gt;&lt;i&gt;sciara&lt;/i&gt; &lt;i&gt;cracens&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;crinita&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;depilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;depressa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;exilis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;inflata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;lobigera&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;obesa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Some of the species show for the genus previously unknown characters. A key to the New Caledonian species of &lt;i&gt;Ctenosciara&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Sciaridae; &lt;i&gt;Ctenosciara&lt;/i&gt;; key; new species; Australasian region; New Caledonia</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pekka</firstname>
+          <lastname>Vilkamaa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Heikki</firstname>
+          <lastname>Hippa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Werner</firstname>
+          <lastname>Mohrig</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>37-51</pages>
+        <date_published>2012-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Phrixosoma concavifrons &lt;/i&gt;– a sexually dimorphic Phrixosomatini (Coleoptera: Curculionidae) from the Udzungwa mountains in Tanzania </title>
+        <abstract locale="en_US">A new species of &lt;i&gt;Phrixosoma&lt;/i&gt; from Tanzania is described and illustrated. This is a unique species for the genus in havinga strongly concave female frons. Several characters are described for the first time for this genus, including male andfemale genitalia, mouthparts, thoracic sutures, and several overlooked features of the mesoand metatibiae and sternal processes.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Phrixosoma&lt;/i&gt;; Udzungwa; Tanzania; Afrotropical region</subject>
+          <subject_class locale="en_US">&lt;i&gt;Phrixosoma&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bjarte</firstname>
+          <middlename>H.</middlename>
+          <lastname>Jordal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>52-56</pages>
+        <date_published>2012-04-03</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of &lt;i&gt;Ancyronyx &lt;/i&gt;Erichson (Coleoptera: Elmidae) from China, with description of a new species </title>
+        <abstract locale="en_US">&lt;i&gt;Ancyronyx&lt;/i&gt; Erichson is recorded from China for the first time and a new species, &lt;i&gt;Ancyronyx&lt;/i&gt; &lt;i&gt;yunju&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from Jiangxi Province, China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Elmidae; &lt;i&gt;Ancyronyx&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dongju</firstname>
+          <lastname>Bian</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cheng</firstname>
+          <lastname>Guo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lanzhu</firstname>
+          <lastname>Ji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-61</pages>
+        <date_published>2012-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescription of &lt;i&gt;Heizmannia &lt;/i&gt;(&lt;i&gt;Heizmannia&lt;/i&gt;) &lt;i&gt;chandi &lt;/i&gt;Edwards (Diptera: Culicidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>S.</firstname>
+          <middlename>C.</middlename>
+          <lastname>Tewari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>R.</firstname>
+          <lastname>Krishnamoorthy</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <lastname>Ayanar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Munirathinam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>A.</firstname>
+          <lastname>Venkatesh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Tyagi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-64</pages>
+        <date_published>2012-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The discovery of the rare genus &lt;i&gt;Xyeloblacus &lt;/i&gt;van Achterberg, 1997 (Hymenoptera: Braconidae, Blacinae) in China, with description of a new species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Xyeloblacus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;van&lt;/b&gt; &lt;b&gt;Achterberg,&lt;/b&gt; &lt;b&gt;1997&lt;/b&gt;</subject>
+          <subject_class locale="en_US">&lt;b&gt;species&lt;/b&gt; &lt;b&gt;of&lt;/b&gt; &lt;b&gt;genus&lt;/b&gt; &lt;b&gt;&lt;i&gt;Xyeloblacus&lt;/i&gt;&lt;/b&gt; &lt;b&gt;van&lt;/b&gt; &lt;b&gt;Achterberg,&lt;/b&gt; &lt;b&gt;1997&lt;/b&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Wei-Guo</firstname>
+          <lastname>Huangfu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hong-Fei</firstname>
+          <lastname>Chai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xue-Xin</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-67</pages>
+        <date_published>2012-04-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Erratum: MONNÉ M.M. (2012) Catalogue of the type-species of the genera of the Cerambycidae, Disteniidae, Oxypeltidae and Vesperidae (Coleoptera) of the Neotropical Region . &lt;i&gt;Zootaxa&lt;/i&gt;, 3213, 1–183. </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <pages>68</pages>
+        <date_published>2012-04-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

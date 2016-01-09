@@ -1,3 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3251.1</id>
+    <title locale="en_US">30 Mar. 2012</title>
+    <volume>3251</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-03-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Review of &lt;i&gt;Chirothrips &lt;/i&gt;and related genera (Thysanoptera: Thripidae) of the Americas, with descriptions of one new genus and four new species </title>
+        <abstract locale="en_US">The species of &lt;i&gt;Chirothrips&lt;/i&gt; and related genera occurring in the Americas are reviewed. Seventeen species from the areaare retained in &lt;i&gt;Chirothrips,&lt;/i&gt; 15 species are treated in &lt;i&gt;Arorathrips,&lt;/i&gt; two species in &lt;i&gt;Konothrips,&lt;/i&gt; one species in &lt;i&gt;Oelschlaegera&lt;/i&gt;and one species in the new genus &lt;i&gt;Unilobothrips.&lt;/i&gt; The generic concepts of the four previously described genera are revised.Four new species, &lt;i&gt;Arorathrips&lt;/i&gt; &lt;i&gt;childersi,&lt;/i&gt; &lt;i&gt;Chirothrips&lt;/i&gt; &lt;i&gt;hemingi,&lt;/i&gt; &lt;i&gt;Konothrips&lt;/i&gt; &lt;i&gt;colei,&lt;/i&gt; and &lt;i&gt;Unilobothrips&lt;/i&gt; &lt;i&gt;cornuatus&lt;/i&gt; are de-scribed. &lt;i&gt;Chirothrips&lt;/i&gt; &lt;i&gt;moultoni&lt;/i&gt; Post is synomymized with &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;aculeatus&lt;/i&gt; Bagnall, and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;spinosus&lt;/i&gt; Moulton with &lt;i&gt;Arorathrips&lt;/i&gt;&lt;i&gt;texanus&lt;/i&gt; (Andre). The following new combinations are proposed: &lt;i&gt;Arorathrips&lt;/i&gt; &lt;i&gt;crassus&lt;/i&gt; (Hinds), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt; (Hood), &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;dorsalis&lt;/i&gt; (Hood), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;lenape&lt;/i&gt; (Hood), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;oneillae&lt;/i&gt; (Watts), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sericatus&lt;/i&gt; (Hood), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;texanus&lt;/i&gt; (Andre), &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;vestis&lt;/i&gt; (Hood) and &lt;i&gt;Oel-&lt;/i&gt;&lt;i&gt;schlaegeria&lt;/i&gt; &lt;i&gt;priesneri&lt;/i&gt; (Hood) (all from &lt;i&gt;Chirothrips).&lt;/i&gt; &lt;i&gt;Chirothrips&lt;/i&gt; &lt;i&gt;mongolicus&lt;/i&gt; zur Strassen is returned to &lt;i&gt;Chirothrips&lt;/i&gt; from &lt;i&gt;Arorathrips.&lt;/i&gt; Identification keys to genera and species, and known distributions of the species, are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Arorathrips&lt;/i&gt;; &lt;i&gt;Konothrips&lt;/i&gt;; &lt;i&gt;Oelschlaegera&lt;/i&gt;; &lt;i&gt;Unilobothrips&lt;/i&gt;; new synonyms; new combinations; identification keys; species distribution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Arorathrips&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Sueo</firstname>
+          <lastname>Nakahara</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Robert</firstname>
+          <middlename>G.</middlename>
+          <lastname>Foottit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-29</pages>
+        <date_published>2012-03-30</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the genera and species in the mealybug tribe Serrolecaniini Shinji (Hemiptera: Coccoidea: Pseudococcidae) from China with description of a new species </title>
+        <abstract locale="en_US">The eight species in five genera belonging to the tribe Serrolecaniini recorded from China are discussed, including a newspecies &lt;i&gt;Serrolecanium&lt;/i&gt; &lt;i&gt;ferrisi&lt;/i&gt; Wu &amp; Lu (previously misidentified as &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;tobai&lt;/i&gt; (Kuwana) or &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;indocalamus&lt;/i&gt; Wu) and a newcountry record for &lt;i&gt;Serrolecanium&lt;/i&gt; &lt;i&gt;kawaii&lt;/i&gt; Hendricks &amp; Kosztarab. A key to species belonging to the tribe Serrolecaniini now known from China is included and illustrations are provided to the adult female of all species found in China.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Serrolecaniini; new species; Pseudococcidae; China</subject>
+          <subject_class locale="en_US">Serrolecaniini</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>San-An</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yuan</firstname>
+          <lastname>Lu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-46</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The larval morphology and nest habits of &lt;i&gt;Trypoxylon &lt;/i&gt;(&lt;i&gt;Trypargilum&lt;/i&gt;) &lt;i&gt;rogenhoferi &lt;/i&gt;Kohl 1884 (Insecta: Hymenoptera: Crabronidae) </title>
+        <abstract locale="en_US">The present study describes different preimaginal stages of &lt;i&gt;Trypoxylon&lt;/i&gt; &lt;i&gt;rogenhoferi&lt;/i&gt; examined by Scanning Electron Mi-croscopy (SEM) and compares the results with observations on closely related species. Some notes on the nesting habitsof this species, including their spider prey, nest parasites, and development time are provided. In short, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;rogenhoferi&lt;/i&gt;proved quite similar to the previous report on &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;albitarse&lt;/i&gt; although SEM images are rarely presented in such descriptions.In fact the present study emphasized the importance of SEM images to describe fine morphological details that can beuseful characters for taxonomic and phylogenetic studies. Images of some earlier development stages (first and second larval instar and egg) are presented for the first time, and compared with the few available data from other hymenopterans.O presente estudo apresenta a descrição de diversos estágios do desenvolvimento da vespa caçadora &lt;i&gt;Trypoxylon&lt;/i&gt;&lt;i&gt;rogenhoferi&lt;/i&gt; por meio de microscopia eletrônica de varredura (MEV). Os resultados obtidos são comparados com achadoscom outras espécies próximas. Também são fornecidas informações a cerca da biologia da espécie no local de estudo,como presas e parasitóides observados e tempo de desenvolvimento. A larva madura desta espécie se demonstrou bastantesimilar ao pouco que foi descrito com &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;albitarse,&lt;/i&gt; apesar de que raramente imagens de MEV são apresentadas nestasdescrições. O presente estudo demonstra a importância de imagens de ultraestrutura que podem revelar detalhes úteis paraa diagnose de espécies e estudos filogenéticos. Pela primeira vez se descrevem estádios imaturos mais jovens de vespas deste grupo, que foram comparados com dados de outros grupos de himenópteros.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">mud-daubing wasps; spider-hunting wasp; immature stages; developmental time; taxonomy</subject>
+          <subject_class locale="en_US">mud-daubing wasps</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <middlename>Gonçalves Paterson</middlename>
+          <lastname>Fox</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daniel</firstname>
+          <middlename>Russ</middlename>
+          <lastname>Solis</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mônica</firstname>
+          <middlename>Lanzoni</middlename>
+          <lastname>Rossi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rodrigo</firstname>
+          <middlename>Machado</middlename>
+          <lastname>Feitosa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <middlename>Domingos</middlename>
+          <lastname>Brescovit</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Rhagovelia &lt;/i&gt;from Colombia (Hemiptera: Heteroptera: Veliidae) with revised keys to the Colombian species in the &lt;i&gt;torquata &lt;/i&gt;and &lt;i&gt;robusta &lt;/i&gt;groups </title>
+        <abstract locale="en_US">Two new species of the &lt;i&gt;Rhagovelia&lt;/i&gt; in the &lt;i&gt;torquata&lt;/i&gt; and &lt;i&gt;robusta&lt;/i&gt; species groups, &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;divisoensis&lt;/i&gt; sp. n. and &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;victoria&lt;/i&gt; sp. n.,are described and compared with other allied species. &lt;i&gt;Rhagovelia&lt;/i&gt; &lt;i&gt;divisoensis&lt;/i&gt; sp. n. constitutes the first record of the &lt;i&gt;torquata&lt;/i&gt; group from Colombia. A nomenclatural note is also presented correcting the orthography of &lt;i&gt;R.&lt;/i&gt; &lt;i&gt;narinensis.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">tropical South America; riffle bugs; small water striders; key to species</subject>
+          <subject_class locale="en_US">tropical South America</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dora</firstname>
+          <middlename>N.</middlename>
+          <lastname>Padilla-Gil</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-63</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">First record of the black twig borer &lt;i&gt;Xylosandrus compactus &lt;/i&gt;(Eichhoff) (Coleoptera: Curculionidae, Scolytinae) from Europe </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Antonio</firstname>
+          <middlename>P.</middlename>
+          <lastname>Garonna</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stephanie</firstname>
+          <middlename>A.</middlename>
+          <lastname>Dole</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Antonio</firstname>
+          <lastname>Saracino</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Stefano</firstname>
+          <lastname>Mazzoleni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gennaro</firstname>
+          <lastname>Cristinzio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>64-68</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

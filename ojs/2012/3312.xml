@@ -1,3 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3312.1</id>
+    <title locale="en_US">14 May. 2012</title>
+    <volume>3312</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-14</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The placement of the spider genus &lt;i&gt;Periegops &lt;/i&gt;and the phylogeny of Scytodoidea (Araneae: Araneomorphae)</title>
+        <abstract locale="en_US">The relationships of Scytodoidea, including the families Drymusidae, Periegopidae, Scytodidae and Sicariidae, have been con-tentious for a long time. Here we present a reviewed phylogenetic analysis of scytodoid spiders, emphasizing &lt;i&gt;Periegops,&lt;/i&gt; theonly genus in the family Periegopidae. In our analysis the Scytodoidea are united by the fusion of the third abdominal entapo-physes into a median lobe, the presence of female palpal femoral thorns and associated cheliceral stridulatory ridges, a mem-branous lobe on the cheliceral promargin, and the loss of minor ampullate gland spigots. A basal split within Scytodoideadefines two monophyletic groups: Sicariidae and a group formed by Scytodidae as the sister group of Periegopidae plus Dry-musidae, all united by having bipectinate prolateral claws on tarsi I–II, one major ampullate spigot accompanied by a nubbin,and the posterior median spinnerets with a mesal field of spicules. &lt;i&gt;Periegops&lt;/i&gt; is the sister group of Drymusidae, united by the regain of promarginal cheliceral teeth and a triangular cheliceral lamina, which is continuous with the paturon margin.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Drymusa&lt;/i&gt;; Drymusidae; Haplogyne; morphology; &lt;i&gt;Scytodes&lt;/i&gt;; &lt;i&gt;Stedocys&lt;/i&gt;; Scytodidae; Sicariidae; &lt;i&gt;Sicarius&lt;/i&gt;; &lt;i&gt;Loxosceles&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Drymusa&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Facundo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Labarque</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <middlename>J.</middlename>
+          <lastname>Ramírez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-44</pages>
+        <date_published>2012-05-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of genus &lt;i&gt;Hoplobatrachus &lt;/i&gt;(Anura, Dicroglossidae) from the coastal belt of Bangladesh</title>
+        <abstract locale="en_US">A new cryptic species of the genus &lt;i&gt;Hoplobatrachus&lt;/i&gt; from Cox’s Bazar district of Bangladesh is described and compared with itsrelevant congeners both in morphology and mitochondrial gene sequences. The new species differs from its close relative &lt;i&gt;H.&lt;/i&gt;&lt;i&gt;tigerinus&lt;/i&gt; in having a distinct broad black band from the eye, through the nostrils, to the anterior edge of the upper jaw, anotherblack band along the lateral margin of the upper jaw, and a narrow inter-orbital distance relative to eyelid width and inter-nostrildistance. Advertisement calls of the new species are similar to those of &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;tigerinus&lt;/i&gt; but differ in dominant frequency and num-ber of pulses. Based on mitochondrial DNA sequence data, this species was proved to genetically divergent from &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;tigerinus&lt;/i&gt; at3.2% for the 16S rRNA gene and 14.2% for the &lt;i&gt;Cytb&lt;/i&gt; gene. The known distribution range of the new species is restricted to the southeastern corner of Bangladesh and it seems to be endemic in this coastal belt.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hoplobatrachus&lt;/i&gt; &lt;i&gt;litoralis&lt;/i&gt; sp. nov.; Dicroglossidae; Morphology; Advertisement call; Mitochondrial DNA; Bangladesh</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hoplobatrachus&lt;/i&gt; &lt;i&gt;litoralis&lt;/i&gt; sp. nov.</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mahmudul</firstname>
+          <lastname>Hasan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mitsuru</firstname>
+          <lastname>Kuramoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammed</firstname>
+          <middlename>Mafizul</middlename>
+          <lastname>Islam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mohammad</firstname>
+          <middlename>Shafiqul</middlename>
+          <lastname>Alam</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Md.</firstname>
+          <middlename>Mukhlesur Rahman</middlename>
+          <lastname>Khan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masayuki</firstname>
+          <lastname>Sumida</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-58</pages>
+        <date_published>2012-05-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the identity of &lt;i&gt;Cancer saxatilis &lt;/i&gt;Herbst, 1785: an objective synonym of &lt;i&gt;Lophozozymus pictor &lt;/i&gt;(Fabricius, 1798), by neotype designation and reversal of precedence (Crustacea: Decapoda: Brachyura: Xanthidae: Zosiminae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martyn</firstname>
+          <middlename>E. Y.</middlename>
+          <lastname>Low</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-61</pages>
+        <date_published>2012-05-14</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The advertisement call of &lt;i&gt;Gastrotheca fissipes &lt;/i&gt;Boulenger, 1888 (Anura, Hemiphractidae) with comments on its distribution</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Caio</firstname>
+          <middlename>Vinicius</middlename>
+          <lastname>De Mira Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Danilo</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Ruas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Lourenço-De-Moraes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dennis</firstname>
+          <lastname>Rödder</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mirco</firstname>
+          <lastname>Solé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-64</pages>
+        <date_published>2012-05-14</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

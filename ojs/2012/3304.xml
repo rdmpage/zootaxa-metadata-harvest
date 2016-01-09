@@ -1,3 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3304.1</id>
+    <title locale="en_US">8 May. 2012</title>
+    <volume>3304</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-08</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Spinibdella &lt;/i&gt;Thor (Acari: Bdellidae) from southern Africa: descriptions of five new species and the redescription of &lt;i&gt;S. thori &lt;/i&gt;(Meyer &amp; Ryke)</title>
+        <abstract locale="en_US">Five new species of &lt;i&gt;Spinibdella&lt;/i&gt; are described and figured: &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;ankylotricha&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;polyattenuata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pongolensis&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;namibiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;trinomma&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Where available, immature stages are also described. &lt;i&gt;Spinibdella&lt;/i&gt;&lt;i&gt;thori&lt;/i&gt; (Meyer &amp; Ryke) is redescribed and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;cronini&lt;/i&gt; (Baker &amp; Balock) is reported for the first time from southern Africa. Keys to the genera of Bdellidae and South African &lt;i&gt;Spinibdella&lt;/i&gt; are given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Acari; Bdellidae; &lt;i&gt;Spinibdella&lt;/i&gt;; southern Africa; new species; systematics</subject>
+          <subject_class locale="en_US">Acari</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elizabeth</firstname>
+          <lastname>Omukunda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pieter</firstname>
+          <middlename>D</middlename>
+          <lastname>Theron</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>E</firstname>
+          <middlename>A</middlename>
+          <lastname>Ueckermann</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New and little known earthworm species from Greece (Oligochaeta: Lumbricidae, Acanthodrilidae)</title>
+        <abstract locale="en_US">The results of the soil zoology collecting trips to Greece carried out by the members of the Hungarian Natural HistoryMuseum between the years 2006 and 2011 are summarized. Altogether 31 earthworm species were collected includingtwo species new to science; &lt;i&gt;Eisenia&lt;/i&gt; &lt;i&gt;oreophila&lt;/i&gt; and &lt;i&gt;Dendrobaena&lt;/i&gt; &lt;i&gt;retrosella&lt;/i&gt; spp. nov. Further six species proved to be newfor the fauna of Greece: &lt;i&gt;Dendrobaena&lt;/i&gt; &lt;i&gt;balcanica&lt;/i&gt; (Černosvitov, 1937), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;hrabei&lt;/i&gt; (Černosvitov, 1934), &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;octaedra&lt;/i&gt; (Savi-gny, 1826), &lt;i&gt;Eiseniella&lt;/i&gt; &lt;i&gt;neapolitana&lt;/i&gt; (Örley, 1885), &lt;i&gt;Fitzingeria&lt;/i&gt; &lt;i&gt;loebli&lt;/i&gt; Zicsi, 1985 and &lt;i&gt;Helodrilus&lt;/i&gt; &lt;i&gt;vagneri&lt;/i&gt; Mršić, 1991. Fur-thermore, &lt;i&gt;Octodrilus&lt;/i&gt; &lt;i&gt;peleensis&lt;/i&gt; Michalis, 1995 is proposed to be a synonym of &lt;i&gt;Oc.&lt;/i&gt; &lt;i&gt;complanatus.&lt;/i&gt; The resulting list of earthworms recorded for the fauna of Greece contains 54 lumbricid species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Earthworms; Greece; new species; new records; new synonym</subject>
+          <subject_class locale="en_US">Earthworms</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tímea</firstname>
+          <lastname>Szederjesi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Csaba</firstname>
+          <lastname>Csuzdi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-42</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">On the status of &lt;i&gt;Trimeresurus monticola meridionalis &lt;/i&gt;Bourret, 1935 (Squamata: Viperidae)</title>
+        <abstract locale="en_US">The name-bearing type specimens of &lt;i&gt;Trimeresurus&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; Bourret, 1935 are shown to be composed oftwo primary syntypes that are referable to &lt;i&gt;Ovophis&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; (Günther, 1864) as currently conceived, and a secondarysyntype that belongs to &lt;i&gt;Ovophis&lt;/i&gt; &lt;i&gt;convictus&lt;/i&gt; (Stoliczka, 1870). Based on comparison of the three syntypes with other taxaof the &lt;i&gt;Ovophis&lt;/i&gt; &lt;i&gt;monticola-complex,&lt;/i&gt; historical analysis and a taxonomic review, we select one of the primary syntypes fromnorthwestern Vietnam as the lectotype of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; Bourret, 1935 and fix the status of this taxon as ajunior subjective synonym of &lt;i&gt;Ovophis&lt;/i&gt; &lt;i&gt;monticola.&lt;/i&gt; This position differs from the current synonymy of &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt; &lt;i&gt;meridionalis&lt;/i&gt; Bourret, 1935 with &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;convictus.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">name-bearing types; &lt;i&gt;Ovophis&lt;/i&gt; &lt;i&gt;monticola&lt;/i&gt;; &lt;i&gt;Ovophis&lt;/i&gt; &lt;i&gt;convictus&lt;/i&gt;; snakes; taxonomy; Vietnam</subject>
+          <subject_class locale="en_US">name-bearing types</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Patrick</firstname>
+          <lastname>David</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gernot</firstname>
+          <lastname>Vogel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-53</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Glyptothorax jayarami&lt;/i&gt;, a new species of catfish (Teleostei: Sisoridae) from Mizoram, northeastern India</title>
+        <abstract locale="en_US">A new sisorid catfish, &lt;i&gt;Glyptothorax&lt;/i&gt; &lt;i&gt;jayarami,&lt;/i&gt; is described from the Kaladan basin of Mizoram, India. It is characteristicin having densely tuberculate skin; an elongate, ovoid thoracic adhesive apparatus with an oval central depression fromwhich the ridges on the apparatus diverge; two blackish-brown blotches at caudal-fin base behind the hypural plate; welldeveloped plicae on the ventral surfaces of simple and adjacent branched rays of pectoral and pelvic fins; a narrow caudal peduncle (5.5–7.9 % SL) and long 2 + 6–7 gill rakers on the first branchial arch.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New sisorid; Kaladan basin; India; Pisces</subject>
+          <subject_class locale="en_US">New sisorid</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yumnam</firstname>
+          <lastname>Rameshori</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Waikhom</firstname>
+          <lastname>Vishwanath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>54-62</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Thandarum hernandezi&lt;/i&gt;, a new genus and new species of sea cucumber family Sclerodactylidae (Echinodermata: Holothuroidea: Dendrochirotida) from the Southwestern Atlantic Ocean</title>
+        <abstract locale="en_US">A new genus and a new species of dendrochirotid, &lt;i&gt;Thandarum&lt;/i&gt; &lt;i&gt;hernandezi&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from Buenos Airescoast in the Southwestern Atlantic. For this species is quite significant the body U shape, up to 14.08 mm (along thetrivium), with double row of podia restricted to the ambulacra. Other features are ossicles from body wall with buttonsand 4 pillar tables, tube feet with rods and end plate star-shaped; the introvert with rosettes and tentacles with rods. Thesecharacteristics require the recognition of a new genus, and the new species and represents the first sclerodactylid reported in Argentinean waters.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Sclerothyoninae; &lt;i&gt;Thandarum&lt;/i&gt; &lt;i&gt;hernandezi&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; holothurian; Argentine Sea</subject>
+          <subject_class locale="en_US">Sclerothyoninae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mariano</firstname>
+          <middlename>I.</middlename>
+          <lastname>Martinez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Martín</firstname>
+          <middlename>I.</middlename>
+          <lastname>Brogger</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-05-08</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

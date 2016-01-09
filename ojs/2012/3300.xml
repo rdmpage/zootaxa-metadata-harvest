@@ -1,3 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3300.1</id>
+    <title locale="en_US">4 May. 2012</title>
+    <volume>3300</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-04</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Studies in the Palaearctic and Oriental &lt;i&gt;Agrilus &lt;/i&gt;(Coleoptera, Buprestidae) IV</title>
+        <abstract locale="en_US">The following new taxonomic and nomenclatural acts are provided: &lt;b&gt;New&lt;/b&gt; &lt;b&gt;revalidated&lt;/b&gt; &lt;b&gt;name:&lt;/b&gt; the name &lt;i&gt;nagaoi&lt;/i&gt;Nakane 1983 is resurrected from the synonymy of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;maculifer&lt;/i&gt; Saunders 1873 as a valid specific name of &lt;i&gt;Agrilus&lt;/i&gt;&lt;i&gt;nagaoi.&lt;/i&gt; &lt;b&gt;New&lt;/b&gt; &lt;b&gt;synonyms:&lt;/b&gt; 47 new synonyms are proposed in the genus &lt;i&gt;Agrilus:&lt;/i&gt; &lt;i&gt;annoi&lt;/i&gt; Baudon, 1968 (synonym of&lt;i&gt;navarrei&lt;/i&gt; Baudon, 1965); &lt;i&gt;biasoni&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;shaumaae&lt;/i&gt; Descarpentries &amp; Villiers, 1963);&lt;i&gt;brigitteae&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;cochinchinae&lt;/i&gt; Obenberger, 1924); &lt;i&gt;canidius&lt;/i&gt; Descarpentries &amp; Villiers, 1963(synonym of &lt;i&gt;coloratus&lt;/i&gt; Kerremans, 1894); &lt;i&gt;champasak&lt;/i&gt; Jendek, 2000 (synonym of &lt;i&gt;ardoini&lt;/i&gt; Descarpentries &amp;Villiers, 1963); &lt;i&gt;chounramanyi&lt;/i&gt; Baudon, 1965 (synonym of &lt;i&gt;auripilis&lt;/i&gt; Deyrolle, 1864); &lt;i&gt;cuneatus&lt;/i&gt; Jendek, 2009(synonym of &lt;i&gt;palii&lt;/i&gt; Baudon, 1968); &lt;i&gt;damoiselli&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;sikkimensis&lt;/i&gt; Obenberger, 1928); &lt;i&gt;deuvei&lt;/i&gt;Baudon, 1965 (synonym of &lt;i&gt;perlisensis&lt;/i&gt; Fisher, 1936); &lt;i&gt;emeritus&lt;/i&gt; Descarpentries &amp; Villiers, 1963 (synonym of&lt;i&gt;perlisensis&lt;/i&gt; Fisher, 1936); &lt;i&gt;favieri&lt;/i&gt; Baudon, 1961 (synonym of &lt;i&gt;cochinchinae&lt;/i&gt; Obenberger, 1924); &lt;i&gt;forquerayi&lt;/i&gt; Baudon,1968 (synonym of &lt;i&gt;inops&lt;/i&gt; Kerremans, 1892); &lt;i&gt;gagneuxi&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;beatissimus&lt;/i&gt; Descarpentries &amp;Villiers, 1963); &lt;i&gt;gardneri&lt;/i&gt; Théry, 1928 (synonym of &lt;i&gt;mixtus&lt;/i&gt; Kerremans, 1892); &lt;i&gt;giraudi&lt;/i&gt; Baudon, 1965 (synonym of&lt;i&gt;birmanicus&lt;/i&gt; Kerremans, 1892); &lt;i&gt;goichetae&lt;/i&gt; Baudon, 1965 (synonym of &lt;i&gt;rivalieri&lt;/i&gt; Descarpentries &amp; Villiers, 1963);&lt;i&gt;gouyei&lt;/i&gt; Baudon, 1965 (synonym of &lt;i&gt;inops&lt;/i&gt; Kerremans, 1892); &lt;i&gt;haniquei&lt;/i&gt; Baudon, 1965 (synonym of &lt;i&gt;weyersi&lt;/i&gt;Kerremans, 1900); &lt;i&gt;jarrensis&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;coloratus&lt;/i&gt; Kerremans, 1894); &lt;i&gt;kandyanus&lt;/i&gt; Théry, 1904(synonym of &lt;i&gt;repercussus&lt;/i&gt; Kerremans, 1893); &lt;i&gt;korbi&lt;/i&gt; Abeille de Perrin, 1897 (synonym of &lt;i&gt;auricollis&lt;/i&gt; Kiesenwetter,1857); &lt;i&gt;laurenconi&lt;/i&gt; Descarpentries &amp; Villiers, 1963 (synonym of &lt;i&gt;auroapicalis&lt;/i&gt; Kurosawa, 1957); &lt;i&gt;lebisi&lt;/i&gt;Descarpentries &amp; Villiers, 1963 (synonym of &lt;i&gt;ardoini&lt;/i&gt; Descarpentries &amp; Villiers, 1963); &lt;i&gt;legrosi&lt;/i&gt; Descarpentries &amp;Villiers, 1963 (synonym of &lt;i&gt;tsacasi&lt;/i&gt; Descarpentries &amp; Villiers, 1963); &lt;i&gt;leguayi&lt;/i&gt; Baudon, 1965 (synonym of &lt;i&gt;simplex&lt;/i&gt;Kerremans, 1894); &lt;i&gt;lessei&lt;/i&gt; Descarpentries &amp; Villiers, 1963 (synonym of &lt;i&gt;colasi&lt;/i&gt; Descarpentries &amp; Villiers, 1963);&lt;i&gt;lindryi&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;loupyi&lt;/i&gt; Baudon, 1968); &lt;i&gt;lloydae&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;miwai&lt;/i&gt; Obenberger,1936); &lt;i&gt;lukesi&lt;/i&gt; Obenberger, 1936 (synonym of &lt;i&gt;modicus&lt;/i&gt; Kerremans, 1892); &lt;i&gt;minusculus&lt;/i&gt; Marseul, 1866 (synonym of&lt;i&gt;otiosus&lt;/i&gt; Say, 1833); &lt;i&gt;morelae&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;milo&lt;/i&gt; Obenberger, 1936); &lt;i&gt;moreli&lt;/i&gt; Baudon, 1968 (synonymof &lt;i&gt;coomani&lt;/i&gt; Bourgoin, 1925); &lt;i&gt;mouricouae&lt;/i&gt; Baudon, 1965 (synonym of &lt;i&gt;inops&lt;/i&gt; Kerremans, 1892); &lt;i&gt;nginni&lt;/i&gt; Baudon,1968 (synonym of &lt;i&gt;cochinchinae&lt;/i&gt; Obenberger, 1924); &lt;i&gt;parizotae&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;syrphus&lt;/i&gt; Descarpentries&amp; Villiers, 1963); &lt;i&gt;roscidulus&lt;/i&gt; Abeille de Perrin, 1897 (synonym of &lt;i&gt;elegans&lt;/i&gt; Mulsant &amp; Rey, 1863); &lt;i&gt;rousselatae&lt;/i&gt;Baudon, 1968 (synonym of &lt;i&gt;lacroixi&lt;/i&gt; Obenberger, 1936); &lt;i&gt;ruteri&lt;/i&gt; Descarpentries &amp; Villiers, 1963 (synonym of&lt;i&gt;jarrigei&lt;/i&gt; Descarpentries &amp; Villiers, 1963); &lt;i&gt;samyi&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;suturaalba&lt;/i&gt; Deyrolle, 1864);&lt;i&gt;sedonensis&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;sommailae&lt;/i&gt; Baudon, 1965); &lt;i&gt;siva&lt;/i&gt; Obenberger, 1916 (synonym of &lt;i&gt;repercussus&lt;/i&gt;Kerremans, 1893); &lt;i&gt;souvannavongsi&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;perlisensis&lt;/i&gt; Fisher, 1936); &lt;i&gt;syrdarjensis&lt;/i&gt; Obenberger,1928 (synonym of &lt;i&gt;vaginalis&lt;/i&gt; Abeille de Perrin, 1897); &lt;i&gt;theodasi&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;simoninae&lt;/i&gt;Descarpentries &amp; Villiers, 1963); &lt;i&gt;thevadensis&lt;/i&gt; Baudon, 1968 (synonym of &lt;i&gt;truncatipennis&lt;/i&gt; Descarpentries &amp; Villiers,1967); &lt;i&gt;tokatensis&lt;/i&gt; Obenberger, 1924 (synonym of &lt;i&gt;auricollis&lt;/i&gt; Kiesenwetter, 1857); &lt;i&gt;ukrainensis&lt;/i&gt; Obenberger, 1936(synonym of &lt;i&gt;croaticus&lt;/i&gt; Abeille de Perrin, 1897).&lt;b&gt;Lectotype&lt;/b&gt; &lt;b&gt;designations:&lt;/b&gt; 43 lectotype designations are proposed (types are cited in the original combination and rank):&lt;i&gt;Agrilus&lt;/i&gt; &lt;i&gt;ambiguus&lt;/i&gt; Kerremans, 1895; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;amphion&lt;/i&gt; Obenberger, 1935; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ampliatus&lt;/i&gt; Kerremans, 1900; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;anachlorus&lt;/i&gt;Obenberger, 1924; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;angustulus&lt;/i&gt; variety &lt;i&gt;bicoloratus&lt;/i&gt; Abeille de Perrin, 1893; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;atomus&lt;/i&gt; Kerremans, 1914; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;atratulus&lt;/i&gt; Obenberger, 1924; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;balnearis&lt;/i&gt; Kerremans, 1914; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;belides&lt;/i&gt; Obenberger, 1936; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brahma&lt;/i&gt; Obenberger, 1916; &lt;i&gt;A.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduard</firstname>
+          <lastname>Jendek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2012-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Bucculatrix &lt;/i&gt;Zeller (Lepidoptera: Bucculatricidae) associated with &lt;i&gt;Baccharis salicifolia &lt;/i&gt;(Asteraceae) in northern Chile</title>
+        <abstract locale="en_US">Male, female and immature stages of &lt;i&gt;Bucculatrix&lt;/i&gt; &lt;i&gt;mirnae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; from the Azapa Valley, coastal desert of northern Chile, aredescribed and illustrated, under optical and scanning electron microscopy. The immature stages are associated with the shrub&lt;i&gt;Baccharis&lt;/i&gt; &lt;i&gt;salicifolia&lt;/i&gt; (Ruiz &amp; Pav.) Pers. (Asteraceae). The larva is hypermetamorphic, having five instars and two feedinghabits. The first, second and third instars are leaf miners, and the fourth and fifth instars are leaf skeletonizers. This is the first species of Bucculatricidae described from Chile.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">leaf-mining moths; Neotropical region; hypermetamorphosis; molting cocoon; pupal cocoon</subject>
+          <subject_class locale="en_US">leaf-mining moths</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hector</firstname>
+          <middlename>A.</middlename>
+          <lastname>Vargas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilson</firstname>
+          <middlename>R. P.</middlename>
+          <lastname>Moreira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-33</pages>
+        <date_published>2012-05-04</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">The species of &lt;i&gt;Ormyrus &lt;/i&gt;Westwood (Hymenoptera: Ormyridae) in Iran with description of an unusual new species</title>
+        <abstract locale="en_US">An account is given of the Iranian species of &lt;i&gt;Ormyrus&lt;/i&gt; Westwood (Hymenoptera: Chalcidoidea: Ormyridae). Eleven species arelisted from Iran, including &lt;i&gt;Ormyrus&lt;/i&gt; &lt;i&gt;pallens&lt;/i&gt; Lotfalizadeh &amp; Askew &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; and six species that are newly reported from Iran, &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;bingoeliensis&lt;/i&gt; Doğanlar, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;bucharicus&lt;/i&gt; Zerova, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;cupreus&lt;/i&gt; Askew, &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;diffinis&lt;/i&gt; (Fonscolombe), &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;discolor&lt;/i&gt; Zerova and &lt;i&gt;O.&lt;/i&gt;&lt;i&gt;wachtli&lt;/i&gt; Mayr. New biological associations for the Iranian species are presented, and geographical distribution and biological data are summarised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Biological associations; fauna; gall; parasitoid</subject>
+          <subject_class locale="en_US">Biological associations</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hosseinali</firstname>
+          <lastname>Lotfalizadeh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Richard</firstname>
+          <middlename>R.</middlename>
+          <lastname>Askew</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pablo</firstname>
+          <lastname>Fuentes-Utrilla</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Majid</firstname>
+          <lastname>Tavakoli</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-44</pages>
+        <date_published>2012-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Review of the Nearctic species of &lt;i&gt;Drusilla &lt;/i&gt;Leach (Coleoptera: Staphylinidae: Aleocharinae)</title>
+        <abstract locale="en_US">The Nearctic members of the genus &lt;i&gt;Drusilla&lt;/i&gt; Leach, 1819 are reviewed. Three species are recognized: &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;canaliculata&lt;/i&gt;(Fabricius, 1787), an adventive Palearctic species, and two new species, &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nearctica&lt;/i&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;ashei.&lt;/i&gt; A key to the Nearctic &lt;i&gt;Drusilla&lt;/i&gt; species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">identification key; Lomechusini; new species; taxonomy; U.S.A.</subject>
+          <subject_class locale="en_US">identification key</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>K.</firstname>
+          <middlename>Taro</middlename>
+          <lastname>Eldredge</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>45-54</pages>
+        <date_published>2012-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Syneches &lt;/i&gt;belonging to &lt;i&gt;S. signatus &lt;/i&gt;species-group from Vietnam (Diptera: Empidoidea, Hybotinae)</title>
+        <abstract locale="en_US">The following two species of &lt;i&gt;Syneches&lt;/i&gt; from Vietnam belonging to the &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;signatus&lt;/i&gt; species-group are described as new to sci-ence: &lt;i&gt;Syneches&lt;/i&gt; &lt;i&gt;apicalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;basalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; A key to the known species of this group from Vietnam and China is presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Empidoidea; &lt;i&gt;Syneches&lt;/i&gt;; new species; Vietnam</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoyan</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Lili</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-61</pages>
+        <date_published>2012-05-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Saetherolabis &lt;/i&gt;Andersen &lt;i&gt;et &lt;/i&gt;Mendes, 2007 from Brazil (Diptera: Chironomidae, Orthocladiinae)</title>
+        <abstract locale="en_US">The genus &lt;i&gt;Saetherolabis&lt;/i&gt; Andersen &lt;i&gt;et&lt;/i&gt; Mendes, 2007 was described based on &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;pectinata&lt;/i&gt; Andersen &lt;i&gt;et&lt;/i&gt; Mendes, 2007 from theAmazon forest in Brazil. Below two new species of &lt;i&gt;Saetherolabis,&lt;/i&gt; &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;iperuype&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;siriype&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; are described and figured based on males from Mata Atlântica in São Paulo and Sergipe States in Southeastern and Northeastern Brazil.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chironomidae; Orthocladiinae; &lt;i&gt;Saetherolabis&lt;/i&gt;; new species; Mata Atlântica; Brazil; Neotropical</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Trond</firstname>
+          <lastname>Andersen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Humberto</firstname>
+          <middlename>F.</middlename>
+          <lastname>Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luiz</firstname>
+          <middlename>C.</middlename>
+          <lastname>Pinho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-05-04</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

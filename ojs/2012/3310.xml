@@ -1,3 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3310.1</id>
+    <title locale="en_US">11 May. 2012</title>
+    <volume>3310</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-11</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new &lt;i&gt;Pseudorchomene &lt;/i&gt;species from the Southern Ocean, with phylogenetic remarks on the genus and related species (Crustacea: Amphipoda: Lysianassoidea: Lysianassidae: Tryphosinae)</title>
+        <abstract locale="en_US">Two new lysianassoid amphipods of the genus &lt;i&gt;Pseudorchomene&lt;/i&gt; Schellenberg, 1926 from the Southern Ocean are de-scribed: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;debroyeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; collected in baited traps deployed around the Falkland Islands, Burdwood Bank and Îles Ker-guelen between 55 and 470 m, and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lophorachis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; collected in baited traps and Agassiz trawls deployed in the Scotiaand Weddell Seas at depths between 847 and 1943 m. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lophorachis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is characterized by an strongly elongated firstgnathopod and by the occurrence of low posterodorsal humps on the body segments. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;debroyeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is very similar to&lt;i&gt;P.&lt;/i&gt; &lt;i&gt;coatsi&lt;/i&gt; (Chilton, 1912) but exhibits slight differences of proportions in the articles of gnathopods 1 and 2, more spineson pereopods and more acute spines on the propodus of pereopods 3–7. Molecular data indicate the existence of a well-defined clade comprising &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lophorachis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;debroyeri&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;coatsi&lt;/i&gt; (Chilton, 1912), &lt;i&gt;Abyssorchomene&lt;/i&gt; &lt;i&gt;plebs&lt;/i&gt; (Hur-ley, 1965) and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rossi&lt;/i&gt; (Walker, 1903). On the other hand, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;plebs&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rossi&lt;/i&gt; do not form a clade with &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;chevreuxi&lt;/i&gt;(Stebbing, 1906), which is the type species of the genus &lt;i&gt;Abyssorchomene&lt;/i&gt; De Broyer, 1984. The definition of &lt;i&gt;Pseudor-&lt;/i&gt;&lt;i&gt;chomene&lt;/i&gt; is amended, so that it now includes &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;coatsi,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;debroyeri,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lophorachis,&lt;/i&gt; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;plebs&lt;/i&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;rossi.&lt;/i&gt; The triangularcoxa 1 in these 5 species is unique for ‘orchomenid’ lysianassoids, thus considered as a putative synapomorphy. &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;coatsi&lt;/i&gt;(Antarctic species) is morphologically extremely similar to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;debroyeri&lt;/i&gt; (sub-Antarctic species) but it is genetically closer to the morphologically distinct &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;lophorachis&lt;/i&gt; (Antarctic species). Hypotheses for these recent speciations and the mor-phological evolution within &lt;i&gt;Pseudorchomene&lt;/i&gt; are discussed. The type species and the nomenclatural history of the genus &lt;i&gt;Tryphosa&lt;/i&gt; Boeck, 1871, which is the type genus of the subfamily Tryphosinae, are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; Lysianassoidea; &lt;i&gt;Pseudorchomene&lt;/i&gt;; &lt;i&gt;Abyssorchomene&lt;/i&gt;; &lt;i&gt;Tryphosa&lt;/i&gt;; Southern Ocean; systematics; new species</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cedric</firstname>
+          <middlename>D’Udekem</middlename>
+          <lastname>D’Acoz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Charlotte</firstname>
+          <lastname>Havermans</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-50</pages>
+        <date_published>2012-05-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Liljeborgia &lt;/i&gt;in the Mediterranean Sea, with the description of a new species (Crustacea: Amphipoda: Liljeborgiidae)</title>
+        <abstract locale="en_US">A new amphipod crustacean, &lt;i&gt;Liljeborgia&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described based on specimens from Malta andthe Bay of Naples. It is quite similar to the sympatric &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dellavallei&lt;/i&gt; Stebbing, 1906, but it has narrower and moreregular-sized spines on the propodus of pereiopods 3–4. The longest spine on the dorsolateral border of the pedun-cle of uropod 1 is not strongly elongate in adult males, as in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dellavallei.&lt;/i&gt; The apical spines on the lobes of the tel-son are much longer than in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dellavallei.&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is actually more similar to two northeasternAtlantic species, the British &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pallida&lt;/i&gt; (Spence Bate, 1857) and the Scandinavian &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;brevicornis&lt;/i&gt; (Bruzelius, 1859)than to the Mediterranean &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dellavallei.&lt;/i&gt; In &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; article 2 of the mandibular palp has setae ondistal third, whilst setae are restricted to tip in the two other species. Article 3 of the mandibular palp is also longerin &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; than in the two Atlantic species. The spines of the outer plate of the maxilliped are lon-ger in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; than in the two other species. The most distal spine of the propodus of pereiopods3–4 is reduced in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;brevicornis,&lt;/i&gt; but not in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pallida.&lt;/i&gt; The serration of the posteriorborder of the basis of pereiopod 7 is much stronger in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; than in the two other species.Finally, in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;clytaemnestra&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; the spines of the lobes of the telson are longer than in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;pallida.&lt;/i&gt; A lectotypeis designated for &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dellavallei.&lt;/i&gt; The presence/absence of a posterodorsal tooth on pleonite 3 in &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dellavallei&lt;/i&gt; is dis-cussed. The validity of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;kinahani&lt;/i&gt; (Spence Bate, 1862) is questioned. An identification key is proposed for Mediterranean &lt;i&gt;Liljeborgia&lt;/i&gt; species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Liljeborgiidae; Europe; taxonomy</subject>
+          <subject_class locale="en_US">Liljeborgiidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Cédric</firstname>
+          <middlename>D'udekem</middlename>
+          <lastname>D'acoz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-65</pages>
+        <date_published>2012-05-11</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Advertisement call and geographical variation in call features of &lt;i&gt;Dendropsophus&lt;/i&gt; &lt;i&gt;berthalutzae &lt;/i&gt;(Anura: Hylidae) from the Atlantic Rainforest of southeastern Brazil</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lucas</firstname>
+          <middlename>Rodriguez</middlename>
+          <lastname>Forti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fábio</firstname>
+          <middlename>Augusto Miguel</middlename>
+          <lastname>Martins</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jaime</firstname>
+          <lastname>Bertoluci</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-05-11</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

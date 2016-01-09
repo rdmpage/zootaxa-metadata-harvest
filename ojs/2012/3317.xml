@@ -1,3 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3317.1</id>
+    <title locale="en_US">18 May. 2012</title>
+    <volume>3317</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-18</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of freshwater amphipods (Crustacea: Gammaridae) from Central Asia, with comments on the unusual upper lip morphology</title>
+        <abstract locale="en_US">This paper describes two new species of the genus &lt;i&gt;Gammarus&lt;/i&gt; Fabricius from the freshwaters of Central Asia: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;montaniformis&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Kazakhstan, Dzungarian Alatau, Borohudzyr River) and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;alius&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Kyrgyzstan, Chatyr-Kul Lake). The mor-phology of the mouth parts of the new species &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;alius&lt;/i&gt; is characterised by a peculiar upper lip with “hooks” on its epistome thatis discussed. The affinity of the new species for their congeners is discussed, emphasizing morphological and biogeographical relationships.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphipoda; &lt;i&gt;Gammarus&lt;/i&gt;; freshwaters; Kazakhstan; Kyrgyzstan</subject>
+          <subject_class locale="en_US">Amphipoda</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dmitry</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sidorov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-24</pages>
+        <date_published>2012-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Descriptions of &lt;i&gt;Thereza murutinga &lt;/i&gt;sp. nov. and &lt;i&gt;Pristocnemis caipira &lt;/i&gt;sp. nov., and new records of Caelopyginae (Opiliones: Laniatores: Gonyleptidae)</title>
+        <abstract locale="en_US">Two new species of Caelopyginae are described: &lt;i&gt;Pristocnemis&lt;/i&gt; &lt;i&gt;caipira&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; from Parque Nacional da Serra da Canastra,Minas Gerais, Brazil, and &lt;i&gt;Thereza&lt;/i&gt; &lt;i&gt;murutinga&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; from Parati, Rio de Janeiro, Brazil. &lt;i&gt;Pristocnemis&lt;/i&gt; &lt;i&gt;caipira&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; isdiagnosed by shallow grooves on the dorsal scutum, a lower number of tarsal segments, presence of a spine on the anal opercu-lum, large, pointed tubercles on the lateral margins of the dorsal scutum, and an absence of white patches on the dorsal scutum.&lt;i&gt;Thereza&lt;/i&gt; &lt;i&gt;murutinga&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is diagnosed by the combination of the following characters: incomplete median longitudinalgroove on area III and absent on area II, prosoma much smaller than opisthosoma, and a large white patch covering theprosoma and whole areas of the opisthosomal scutum. A cladistic analysis including the two new species was performed toinvestigate their relationship within the subfamily. We obtained 927 trees of 185 steps (CI=0.4, RI=0.74), which corroboratedthe generic assignments of the new species, but infrageneric relationships remained unsolved. In addition, male genitalia of&lt;i&gt;Ampheres&lt;/i&gt; &lt;i&gt;luteus&lt;/i&gt; (Giltay) and genera &lt;i&gt;Pristocnemis&lt;/i&gt; and &lt;i&gt;Thereza&lt;/i&gt; are redescribed, new distribution records for Caelopyginae species are presented, and biogeographical implications are discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Atlantic Rain Forest; harvestmen taxonomy; biogeography; Cerrado; phylogeny</subject>
+          <subject_class locale="en_US">Atlantic Rain Forest</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcio</firstname>
+          <middlename>Bernardino</middlename>
+          <lastname>Dasilva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <lastname>Pinto-Da-Rocha</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>25-38</pages>
+        <date_published>2012-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New Species of &lt;i&gt;Pista &lt;/i&gt;Malmgren, 1866 (Polychaeta: Terebellidae) from the Caribbean</title>
+        <abstract locale="en_US">Three new species of &lt;i&gt;Pista&lt;/i&gt; are described. &lt;i&gt;Pista&lt;/i&gt; &lt;i&gt;vossae&lt;/i&gt; sp. nov., occurs from Florida to Jamaica and Venezuela.This species is distinguished by uncini having few teeth, and base shaped with a rounded anterior process. &lt;i&gt;Pista&lt;/i&gt;&lt;i&gt;lizae&lt;/i&gt; sp. nov., is present in Florida, the Gulf of Mexico and Panama. This species is distinguished by having a lobeon the dorsal edge of segment 4, eyespots, and uncini with long posterior processes on the anteriormost threeuncinigers only. Finally, &lt;i&gt;Pista&lt;/i&gt; &lt;i&gt;hataam&lt;/i&gt; sp. nov., from Yucatan Basin, is distinguished by having two lobes on thedorsal edge of segment 4, separated by a smooth swollen membrane, and all thoracic uncini with long posteriorprocesses. Thus, the number of species of &lt;i&gt;Pista&lt;/i&gt; for the region is doubled to six. A taxonomic key for Caribbean species is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Annelida; Descriptions; Grand Caribbean; Morphological characters; Standardization; Taxonomic Revision; New Species</subject>
+          <subject_class locale="en_US">Annelida</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mario</firstname>
+          <middlename>H.</middlename>
+          <lastname>Londoño-Mesa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>39-48</pages>
+        <date_published>2012-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on an enigmatic Bornean megophryid, &lt;i&gt;Leptolalax dringi &lt;/i&gt;Dubois, 1987 (Amphibia: Anura)</title>
+        <abstract locale="en_US">The original description of the Bornean megophryid &lt;i&gt;Leptolalax&lt;/i&gt; &lt;i&gt;dringi&lt;/i&gt; was not sufficient to differentiate the species fromits Bornean congeners. The species was later re-described but the redescription included characters from both type spec-imens and &lt;i&gt;Leptolalax&lt;/i&gt; from other sites, including undescribed species. Analyses of the advertisement call of specimensassigned to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dringi&lt;/i&gt; have been published but call descriptions differ markedly from each other. Moreover, published pic-tures of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dringi&lt;/i&gt; are dubious in identification. Thus, the identity of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;dringi&lt;/i&gt; is enigmatic, hindering taxonomic work onBornean &lt;i&gt;Leptolalax.&lt;/i&gt; We herein provide detailed descriptions of the type series as well as recently obtained topotypic spec-imens. We also present the results of an analysis of the advertisement call of a male paratype. These data will facilitate future taxonomic work on Bornean &lt;i&gt;Leptolalax.&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">advertisement call; Borneo; &lt;i&gt;Leptolalax&lt;/i&gt; &lt;i&gt;dringi&lt;/i&gt;; morphological analysis; re-description</subject>
+          <subject_class locale="en_US">advertisement call</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masafumi</firstname>
+          <lastname>Matsui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Maximilian</middlename>
+          <lastname>Dehling</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>49-58</pages>
+        <date_published>2012-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Parambassis bistigmata&lt;/i&gt;, a new species of glassperch from north-eastern India (Teleostei: Ambassidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Parambassis&lt;/i&gt; &lt;i&gt;bistigmata,&lt;/i&gt; a new species of glassperch from northeast India, is distinguished from its congeners by the com-bination of the following characters: two distinct black spots on either side of the anal-fin origin connected by a narrowblack curved line; 13–14 gill rakers on the first gill arch; 65–67 scales in lateral series; a well developed pre-orbital edgewith prominent, acute spines, almost covering the upper lip; dorsal and ventral sides of caudal peduncle with a longitudinal black stripe; and the presence of a faint, vertically elongated humeral spot.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Glassperch; new species; Brahmaputra drainage; India</subject>
+          <subject_class locale="en_US">Glassperch</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Khangjrakpam</firstname>
+          <lastname>Geetakumari</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-64</pages>
+        <date_published>2012-05-18</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of the genus &lt;i&gt;Zimiromus &lt;/i&gt;from Argentina (Araneae: Gnaphosidae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Lorena</firstname>
+          <middlename>V.</middlename>
+          <lastname>Zapata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cristian</firstname>
+          <middlename>J.</middlename>
+          <lastname>Grismado</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-05-18</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

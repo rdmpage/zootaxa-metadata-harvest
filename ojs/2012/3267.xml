@@ -1,3 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3267.1</id>
+    <title locale="en_US">12 Apr. 2012</title>
+    <volume>3267</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-12</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A check list of the world genera of the family Chloropidae (Diptera, Cyclorrhapha, Muscomorpha) </title>
+        <abstract locale="en_US">A check list of the world genera of the family Chloropidae (Diptera, Cyclorrhapha, Muscomorpha) reflects all generic namesand nomenclature changes published before 2010. It includes 204 valid genera: 2 fossils, 4 of Siphonellopsinae, 14 of Rhode-siellinae, 109 of Oscinellinae, 75 of Chloropinae and 138 subgenera and synonyms. Chloropid genera were described by 67 authors.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Insecta; Diptera; Cyclorrhapha; Muscomorpha; Chloropidae; catalogue; genera; world.</subject>
+          <subject_class locale="en_US">Insecta</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Emilia</firstname>
+          <middlename>P.</middlename>
+          <lastname>Nartshuk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-43</pages>
+        <date_published>2012-04-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New generic synomyms in the Chloropidae (Diptera, Acalyptratae), with additional taxonomic notes </title>
+        <abstract locale="en_US">&lt;i&gt;Myrmemorpha&lt;/i&gt; Dufour, 1833 and &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;brachyptera&lt;/i&gt; Dufour, 1833 are considered as synonyms of &lt;i&gt;Elachiptera&lt;/i&gt; Macquart, 1835 and&lt;i&gt;E.&lt;/i&gt; &lt;i&gt;brevipennis&lt;/i&gt; (Meigen, 1830), respectively (Oscinellinae). &lt;i&gt;Pachychoeta&lt;/i&gt; Bezzi, 1895, &lt;i&gt;Melanochaeta&lt;/i&gt; Bezzi, 1906 and &lt;i&gt;Pachy-&lt;/i&gt;&lt;i&gt;chaetina&lt;/i&gt; Hendel, 1907 are considered as synonyms of &lt;i&gt;Oscinella&lt;/i&gt; Becker, 1909 as the type-species of these genera, &lt;i&gt;Pachychoeta&lt;/i&gt;&lt;i&gt;aterrima&lt;/i&gt; Bezzi, 1895 (= &lt;i&gt;Oscinis&lt;/i&gt; &lt;i&gt;capreolus&lt;/i&gt; Haliday, 1838), is transferred to the genus &lt;i&gt;Oscinella&lt;/i&gt; Becker, 1909. &lt;i&gt;Lasiochaeta&lt;/i&gt;Corti, 1909 (type-species &lt;i&gt;Elachiptera&lt;/i&gt; &lt;i&gt;pubescens&lt;/i&gt; Thalhammer, 1898) is resurrected from synonymy with &lt;i&gt;Melanochaeta&lt;/i&gt; Bezzi,1906. Currently an application is with the ICZN (case 3576) to conserve &lt;i&gt;Oscinella&lt;/i&gt; Becker, 1909 by reversed precedence of both &lt;i&gt;Melanochaeta&lt;/i&gt; Bezzi, 1906 and &lt;i&gt;Pachychaetina&lt;/i&gt; Hendel, 1907. Wing reduction in Chloropidae is also discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Brachyptery; Chloropidae; &lt;i&gt;Cynodon&lt;/i&gt;; Diptera; &lt;i&gt;Elachiptera&lt;/i&gt;; Hybotidae; &lt;i&gt;Lasiochaeta&lt;/i&gt;; &lt;i&gt;Melanochaeta&lt;/i&gt;; &lt;i&gt;Myrmemorpha&lt;/i&gt;; &lt;i&gt;Oscinella&lt;/i&gt;; &lt;i&gt;Pachychaetina&lt;/i&gt;; &lt;i&gt;Pachychoeta&lt;/i&gt;; &lt;i&gt;Stilpon&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Brachyptery</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Emilia</firstname>
+          <middlename>P.</middlename>
+          <lastname>Nartshuk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <lastname>Von Tschirnhaus</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-54</pages>
+        <date_published>2012-04-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A review of &lt;i&gt;Megachile &lt;/i&gt;(&lt;i&gt;Chelostomoda&lt;/i&gt;) Michener (Megachilidae: Megachilini) known from China with the description of a new species </title>
+        <abstract locale="en_US">The Chinese species of &lt;i&gt;Megachile&lt;/i&gt; (Chelostomoda) Michener, 1962, are treated in this paper. &lt;i&gt;Megachile&lt;/i&gt; (C.) &lt;i&gt;guangxiense&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described and illustrated. A checklist of the known Chinese species, distribution records, and an updated iden-tification key are provided. The type specimens of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;guangxiense&lt;/i&gt; are deposited in the Insect Collection of the Institute of Zoology, Chinese Academy of Sciences, Beijing, China (IZCAS, Beijing).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Megachile&lt;/i&gt; (Chelostomoda); taxonomy; species checklist; floral association; distribution</subject>
+          <subject_class locale="en_US">&lt;i&gt;Megachile&lt;/i&gt; (Chelostomoda)</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ze-Qing</firstname>
+          <lastname>Niu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yan-Ru</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chao-Dong</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-64</pages>
+        <date_published>2012-04-12</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Platyonitis oberthueri &lt;/i&gt;Janssens, 1942 and &lt;i&gt;Epionitis tarsatus &lt;/i&gt;Balthasar, 1942 (Coleoptera: Scarabaeidae: Scarabaeinae: Onitini) — synonymy confirmed </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Aleš</firstname>
+          <lastname>Bezděk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>František</firstname>
+          <middlename>X. J.</middlename>
+          <lastname>Sládeček</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-04-12</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

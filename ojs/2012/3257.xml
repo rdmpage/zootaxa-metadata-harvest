@@ -11,6 +11,29 @@
     <section>
       <title locale="en_US">Articles</title>
       <article language="en">
+        <title locale="en_US">A new cryptic species of glassfrog (Centrolenidae: &lt;i&gt;Nymphargus&lt;/i&gt;) from Reserva Las Gralarias, Ecuador </title>
+        <abstract locale="en_US">We describe a new species of &lt;i&gt;Nymphargus&lt;/i&gt; from Reserva Las Gralarias, in the montane forests of the Pacific versant ofthe Andes of Ecuador. The new species, &lt;i&gt;Nymphargus&lt;/i&gt; &lt;i&gt;lasgralarias&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is nearly morphologically identical to sym-patric &lt;i&gt;Nymphargus&lt;/i&gt; &lt;i&gt;griffithsi&lt;/i&gt; (Goin 1961), with the exception of the following characters: (i) a gold colored iris with nu-merous small spots and lighter reticulation, (ii) absence of dark dorsal spotting, and (iii) a significantly larger body size.Additionally, we describe the vocalizations for &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;griffithsi&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lasgralarias.&lt;/i&gt; The call of &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;lasgralarias&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is eas-ily distinguished from &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;griffithsi&lt;/i&gt; through the following temporal and spectral characteristics: (i) calls are emitted in series, (ii) waveform shape is always pulsed, (iii) significantly shorter call duration, and (iv) lower dominant frequency.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Andes; Anuran; diversity; Neotropics; &lt;i&gt;Nymphargus&lt;/i&gt; &lt;i&gt;lasgralarias&lt;/i&gt;; &lt;i&gt;Nymphargus&lt;/i&gt; &lt;i&gt;griffithsi&lt;/i&gt;; speciation</subject>
+          <subject_class locale="en_US">Andes</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Carl</firstname>
+          <middlename>R.</middlename>
+          <lastname>Hutter</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Juan</firstname>
+          <middlename>M.</middlename>
+          <lastname>Guayasamin</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-21</pages>
+        <date_published>2012-04-04</date_published>
+      </article>
+      <article language="en">
         <title locale="en_US">A preliminary assessment of the &lt;i&gt;Nactus pelagicus &lt;/i&gt;species group (Squamata: Gekkonidae) in New Guinea and a new species from the Admiralty Islands </title>
         <abstract locale="en_US">The Slender-toed Geckos (Nactus) currently have four recognized species in New Guinea, and these species divide intotwo sister clades: a &lt;i&gt;pelagicus&lt;/i&gt; clade and a &lt;i&gt;vankampeni&lt;/i&gt; clade (Heinicke &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.&lt;/i&gt; 2010). The latter contains three dwarf species.The former consists of five bisexual populations, of which numerous New Guinea populations are uncharacterized no-menclaturally and lumped under the epithet ‘pelagicus.’ This report and description of a new species of the &lt;i&gt;pelagicus&lt;/i&gt;group from Manus Island in the Admiralty Islands encourages us to offer a preliminary assessment of morphology and diversity in New Guinea ‘pelagicus’ populations.</abstract>
         <indexing>
@@ -60,6 +83,55 @@
         <pages>38-55</pages>
         <date_published>2012-04-04</date_published>
         <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of genus &lt;i&gt;Gobio &lt;/i&gt;from Turkey (Teleostei: Cyprinidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Gobio&lt;/i&gt; &lt;i&gt;sakaryaensis,&lt;/i&gt; a new species from the Tozman and the Porsuk streams of the Sakarya River drainage (northwesternAnatolia, Black Sea basin), is described. The species is distinguished from other gudgeons by a combination of the fol-lowing characters: breast completely scaled, scales approximately extending to isthmus; head length 27.2–30.0 % SL; 39–42 lateral line scales; 4–6 scales between anus and anal-fin origin; 6–8 scales between posterior extremity of pelvic-fin bases and anus. A key is provided for &lt;i&gt;Gobio&lt;/i&gt; and &lt;i&gt;Romanogobio&lt;/i&gt; species recorded from Turkey.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Gobio&lt;/i&gt; &lt;i&gt;sakaryaensis&lt;/i&gt;; gudgeon; Anatolia; taxonomy</subject>
+          <subject_class locale="en_US">&lt;i&gt;Gobio&lt;/i&gt; &lt;i&gt;sakaryaensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Davut</firstname>
+          <lastname>Turan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>F.</firstname>
+          <middlename>Güler</middlename>
+          <lastname>Ekmekçi</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vera</firstname>
+          <lastname>Luskova</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Mendel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>56-65</pages>
+        <date_published>2012-04-04</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic certification versus the scientific method </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>D.</firstname>
+          <middlename>Christopher</middlename>
+          <lastname>Rogers</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-04-04</date_published>
       </article>
     </section>
   </issue>

@@ -58,19 +58,8 @@
         <pages>54-61</pages>
         <date_published>2012-03-02</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">PU TANG (China), QIONG WU (China), SERGEY BELOKOBYLSKIJ (Poland)</title>
+        <title locale="en_US">The rare genus &lt;i&gt;Leptospathius &lt;/i&gt;Szépligeti (Hymenoptera, Braconidae, Dorycti-nae) from China, with description of a new species </title>
         <abstract locale="en_US">The Chinese &lt;i&gt;Leptospathius&lt;/i&gt; Szépligeti, 1902, from the Parasitic Hymenoptera Collection of Zhejiang Universitywas studied and two species were recognized. A new species of this genus, &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;hunanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described and illustrated. A key to the Oriental species of this genus is provided.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -78,8 +67,18 @@
           <subject_class locale="en_US">Hymenoptera</subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Pu</firstname>
+          <lastname>Tang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Qiong</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergey</firstname>
+          <lastname>Belokobylskij</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -87,8 +86,64 @@
           <lastname>Chen</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>62-66</pages>
+        <date_published>2012-03-02</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Synonymy of &lt;i&gt;Orthomus susanae &lt;/i&gt;Serrano &amp; Borges, 2009 with &lt;i&gt;Orthomus annae &lt;/i&gt;(Donabauer, 2008) (Coleoptera: Carabidae) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Artur</firstname>
+          <middlename>R. M.</middlename>
+          <lastname>Serrano</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <middlename>A. S.</middlename>
+          <lastname>Aguiar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Mário</firstname>
+          <lastname>Boieiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Paulo</firstname>
+          <middlename>A. V.</middlename>
+          <lastname>Borges</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carla</firstname>
+          <lastname>Rego</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Isabel</firstname>
+          <middlename>R.</middlename>
+          <lastname>Amorim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sérvio</firstname>
+          <middlename>P.</middlename>
+          <lastname>Ribeiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Pereira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2012-03-02</date_published>
       </article>
     </section>
   </issue>

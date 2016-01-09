@@ -1,3 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3278.1</id>
+    <title locale="en_US">25 Apr. 2012</title>
+    <volume>3278</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-25</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Ichneumons in Reunion Island: a catalogue of the local Ichneumonidae (Hymenoptera) species, including 15 new taxa and a key to species</title>
+        <abstract locale="en_US">We revised the ichneumonid fauna of Reunion Island, where 17 species were hitherto recorded. One genus (Tariqia &lt;b&gt;gen.&lt;/b&gt;&lt;b&gt;nov.)&lt;/b&gt; and 14 species are newly described: &lt;i&gt;Acrolyta&lt;/i&gt; &lt;i&gt;dindar&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Campoplex&lt;/i&gt; &lt;i&gt;techer&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Diaparsis&lt;/i&gt; &lt;i&gt;ramassamy&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Dusona&lt;/i&gt; &lt;i&gt;douraguia&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Eriborus&lt;/i&gt; &lt;i&gt;cadjee&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Enicospilus&lt;/i&gt; &lt;i&gt;vitry&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Enytus&lt;/i&gt; &lt;i&gt;huet&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Paraphyllax&lt;/i&gt;&lt;i&gt;mussar&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Phygadeuon&lt;/i&gt; &lt;i&gt;nativel&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Pristomerus&lt;/i&gt; &lt;i&gt;rivier&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Stenomacrus&lt;/i&gt; &lt;i&gt;payet&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Tariqia&lt;/i&gt; &lt;i&gt;stellaris&lt;/i&gt;&lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Temelucha&lt;/i&gt; &lt;i&gt;labusi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Xanthocampoplex&lt;/i&gt; &lt;i&gt;huberti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov..&lt;/b&gt; &lt;i&gt;Himertosoma&lt;/i&gt; &lt;i&gt;aciculata&lt;/i&gt; (Seyrig, 1932), &lt;i&gt;Itop-&lt;/i&gt;&lt;i&gt;lectis&lt;/i&gt; &lt;i&gt;albipes&lt;/i&gt; &lt;i&gt;evoluta&lt;/i&gt; (Benoit, 1957) and &lt;i&gt;Megastylus&lt;/i&gt; &lt;i&gt;mascarensis&lt;/i&gt; Benoit, 1957 are now considered as synonyms of, re-spectively, &lt;i&gt;Himertosoma&lt;/i&gt; &lt;i&gt;striata&lt;/i&gt; (Seyrig, 1932), &lt;i&gt;Itoplectis&lt;/i&gt; &lt;i&gt;albipes&lt;/i&gt; Seyrig, 1932 and &lt;i&gt;Megastylus&lt;/i&gt; &lt;i&gt;vagabundus&lt;/i&gt; Seyrig, 1934.Furthermore, the subspecies &lt;i&gt;Echthromorpha&lt;/i&gt; &lt;i&gt;agrestoria&lt;/i&gt; &lt;i&gt;spinator&lt;/i&gt; (Fabricius, 1781) and &lt;i&gt;Echthromorpha&lt;/i&gt; &lt;i&gt;agrestoria&lt;/i&gt; &lt;i&gt;macula&lt;/i&gt;(Brullé, 1846) are synonymized and raised to species level as &lt;i&gt;Echthromorpha&lt;/i&gt; &lt;i&gt;spinator&lt;/i&gt; (Fabricius, 1781). A catalogue isprovided for 13 subfamilies, 36 genera, and 65 species of Ichneumonidae known to occur on Reunion Island, together with new distribution and/or host records for 28 species. A key to subfamilies, genera and species is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Parasitic wasps; Hot spot volcanic island; Indian Ocean</subject>
+          <subject_class locale="en_US">Parasitic wasps</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pascal</firstname>
+          <lastname>Rousse</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claire</firstname>
+          <lastname>Villemant</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-57</pages>
+        <date_published>2012-04-25</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Heterophleps inusitata&lt;/i&gt;, an extremely rare new moth species from western Yunnan, China (Lepidoptera, Geometridae, Larentiinae)</title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jing</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nan</firstname>
+          <lastname>Jiang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hongxiang</firstname>
+          <lastname>Han</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>58-60</pages>
+        <date_published>2012-04-25</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">On nomenclature and synonymy of &lt;i&gt;Trichius rosaceus, T. gallicus&lt;/i&gt;, and &lt;i&gt;T. zonatus&lt;/i&gt; (Coleoptera: Scarabaeidae: Cetoniinae: Trichiini)</title>
+        <abstract locale="en_US">The name &lt;i&gt;Scarabaeus&lt;/i&gt; &lt;i&gt;rosaceus&lt;/i&gt; Voet, 1766–1778, currently in use as one of two names for a west Palaearctic &lt;i&gt;Trichius&lt;/i&gt; species,is unavailable because Voet’s work is not consistently binominal. The valid name for the species is &lt;i&gt;Trichius&lt;/i&gt; &lt;i&gt;gallicus&lt;/i&gt; Dejean,1821 with the Sardinian and North African populations forming the subspecies &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;g.&lt;/i&gt; &lt;i&gt;zonatus&lt;/i&gt; Germar, 1831. The lectotype of &lt;i&gt;Trichius&lt;/i&gt; &lt;i&gt;zonatus&lt;/i&gt; Germar is designated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">bumblebee beetles; lectotype designation; taxonomy; Germar type; Europe; Palaearctic</subject>
+          <subject_class locale="en_US">bumblebee beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Frank-Thorsten</firstname>
+          <lastname>Krell</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-04-25</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

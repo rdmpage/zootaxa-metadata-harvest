@@ -2,16 +2,16 @@
 <!DOCTYPE issues SYSTEM "native.dtd">
 <issues>
   <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
+    <id type="doi">10.11646/zootaxa.3250.1</id>
+    <title locale="en_US">29 Mar. 2012</title>
+    <volume>3250</volume>
     <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
+    <year>2012</year>
+    <date_published>2012-03-29</date_published>
     <section>
       <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">STEVEN M. GOODMAN (USA), PETER J. TAYLOR (South Africa), </title>
+        <title locale="en_US">The genus &lt;i&gt;Neoromicia &lt;/i&gt;(Family Vespertilionidae) in Madagascar, with the description of a new species </title>
         <abstract locale="en_US">Using molecular genetics, male sexual organ morphology (baculum), and cranio-dental characters, we describe a new spe-cies of the genus &lt;i&gt;Neoromicia&lt;/i&gt; from Madagascar, &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;robertsi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; It is presumed to be endemic to the island and isknown from three specimens taken in montane areas of the eastern central region. The new species shows 1.0 % and 2.8%divergence in the 12S rRNA and 16S rRNA genes, respectively, from its nearest congener and is notably larger in cranio-dental measurements than other members of the genus occurring on Madagascar. This new species was previously iden-tified as &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;melckorum,&lt;/i&gt; which is considered a junior synonym of southern African &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;capensis.&lt;/i&gt; &lt;i&gt;Neoromicia&lt;/i&gt; &lt;i&gt;malagasyen-&lt;/i&gt;&lt;i&gt;sis,&lt;/i&gt; an endemic to central western Madagascar, is the sister species to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;robertsi&lt;/i&gt; and the two are best considered vicariantspecies. Specimens provisionally assigned to &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;malagasyensis,&lt;/i&gt; but notably smaller in baculum and skull size, and withdifferent baculum morphology, probably represent another unknown species from the island. Given the apparent rarity of&lt;i&gt;N.&lt;/i&gt; &lt;i&gt;robertsi&lt;/i&gt; compared with other Malagasy members of this genus living in the eastern portion of Madagascar, it is considered a taxon of conservation concern.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -19,6 +19,18 @@
           <subject_class locale="en_US">taxonomy</subject_class>
         </indexing>
         <author primary_contact="true">
+          <firstname>Steven</firstname>
+          <middlename>M.</middlename>
+          <lastname>Goodman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Peter</firstname>
+          <middlename>J.</middlename>
+          <lastname>Taylor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
           <firstname>Fanja</firstname>
           <lastname>Ratrimomanarivo</lastname>
           <email>user@example.com</email>
@@ -29,20 +41,9 @@
           <lastname>Hoofer</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>1-25</pages>
+        <date_published>2012-03-29</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3250.1</id>
-    <title locale="en_US">29 Mar. 2012</title>
-    <volume>3250</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-03-29</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Tanaidacea (Crustacea) from Macaronesia II. The deep-water fauna from the Azores archipelago, Portugal </title>
         <abstract locale="en_US">As part of Portugal’s bid for extending the country’s exclusive economic zone, the EMEPC collection program wasinitiated. From this program several new species of Tanaidacea have been collected during various expeditions. In thispaper three new species of Tanaidacea are described from the Azores archipelago in the Mid-Atlantic, Portugal. Two ofthem belong to the apseudomorphan genera &lt;i&gt;Leviapseudes&lt;/i&gt; (L. &lt;i&gt;macaronesia),&lt;/i&gt; &lt;i&gt;Pseudosphyrapus&lt;/i&gt; (P. &lt;i&gt;azorensis),&lt;/i&gt; and another new species belong to the tanaidomorphan genus &lt;i&gt;Paratanais&lt;/i&gt; (P. &lt;i&gt;pseudomartinsi).&lt;/i&gt;</abstract>
@@ -147,19 +148,8 @@
         <pages>54-62</pages>
         <date_published>2012-03-29</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">DANILO SILVA RUAS, CAIO VINICIUS DE MIRA MENDES, IURI RIBEIRO DIAS </title>
+        <title locale="en_US">Description of the advertisement call of &lt;i&gt;Dendropsophus haddadi &lt;/i&gt;(Bastos and Pombal 1996) (Anura: Hylidae) from southern Bahia, Brazil </title>
         <abstract locale="en_US"/>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -167,8 +157,21 @@
           <subject_class locale="en_US"><![CDATA[]]></subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Danilo</firstname>
+          <middlename>Silva</middlename>
+          <lastname>Ruas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Caio</firstname>
+          <middlename>Vinicius</middlename>
+          <lastname>De Mira Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Iuri</firstname>
+          <middlename>Ribeiro</middlename>
+          <lastname>Dias</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -176,20 +179,9 @@
           <lastname>Solé</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>63-65</pages>
+        <date_published>2012-03-29</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3250.1</id>
-    <title locale="en_US">29 Mar. 2012</title>
-    <volume>3250</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-03-29</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Advertisement call and male morphology of the Malagasy treefrog &lt;i&gt;Boophis arcanus &lt;/i&gt;from the Ranomafana region, south-eastern Madagascar </title>
         <abstract locale="en_US"/>

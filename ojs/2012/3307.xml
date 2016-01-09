@@ -1,3 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3307.1</id>
+    <title locale="en_US">10 May. 2012</title>
+    <volume>3307</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Revision of the lysianassoid genera &lt;i&gt;Acidostoma &lt;/i&gt;and &lt;i&gt;Shackletonia &lt;/i&gt;(Crustacea: Amphipoda: Acidostomatidae fam. nov.)</title>
+        <abstract locale="en_US">The new lysianassoid amphipod family Acidostomatidae is described for the widespread genus &lt;i&gt;Acidostoma&lt;/i&gt; Lilljeborg, 1865and the endemic Antarctic genus &lt;i&gt;Shackletonia&lt;/i&gt; K.H. Barnard, 1931. All species of &lt;i&gt;Acidostoma&lt;/i&gt; are described including three new species. &lt;i&gt;Acidostoma&lt;/i&gt; &lt;i&gt;obesum&lt;/i&gt; (Bate &amp; Westwood, 1861) is discussed in detail.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Amphipoda; Lysianassidae; Acidostomatidae; Australia; taxonomy; new species</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>H.</firstname>
+          <middlename>E.</middlename>
+          <lastname>Stoddart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>K.</middlename>
+          <lastname>Lowry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-34</pages>
+        <date_published>2012-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Molecular, morphology and bioacoustic data suggest Bolivian distribution of a large species of the &lt;i&gt;Leptodactylus pentadactylus &lt;/i&gt;group (Amphibia: Anura: Leptodactylidae)</title>
+        <abstract locale="en_US">During an inventory and ecological study of amphibians in the lowlands of Bolivia, we recorded two populations of a largerepresentative of the &lt;i&gt;Leptodactylus&lt;/i&gt; &lt;i&gt;pentadactylus&lt;/i&gt; species group (sensu Heyer 1979, 2005) formerly assigned to &lt;i&gt;L.&lt;/i&gt;&lt;i&gt;labyrinthicus.&lt;/i&gt; However, analyses of morphology, advertisement call, and Bayesian inference of mitochondrial DNA (16S)provided evidence for the heterospecific status in regard to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;labyrinthicus.&lt;/i&gt; Using an integrative taxonomic approach weherein assign these populations tentatively to &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;vastus.&lt;/i&gt; This poses a range extension of more than 2000 km west-south-west and suggests that sampling between the known distribution areas is needed. The signal red coloration of thighs andgroin may be a diagnostic character to distinguish this species from other species of the group. Our results suggest that ataxonomic revision of the whole species group (including Bolivian populations studied herein) is needed. A far morecomprehensive sampling throughout its distribution area and further studies on species boundaries and phylogeography in this group is necessary to actually understand the taxonomy of this difficult group.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bioacoustics; Chiquitano Region; distribution extension; &lt;i&gt;Leptodactylus&lt;/i&gt; &lt;i&gt;pentadactylus&lt;/i&gt; group; morphology; mtDNA.</subject>
+          <subject_class locale="en_US">Bioacoustics</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Martin</firstname>
+          <lastname>Jansen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Arne</firstname>
+          <lastname>Schulze</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>35-47</pages>
+        <date_published>2012-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Notes on the Indo-West Pacific shrimp genus &lt;i&gt;Athanopsis &lt;/i&gt;Coutière, 1897 (Crustacea, Decapoda, Alpheidae), with the description of a new species associated with echiurans (Annelida, Thalassematidae)</title>
+        <abstract locale="en_US">The Indo-West Pacific alpheid shrimp genus &lt;i&gt;Athanopsis&lt;/i&gt; Coutière, 1897 is briefly reviewed. &lt;i&gt;Athanopsis&lt;/i&gt; &lt;i&gt;platyrhynchus&lt;/i&gt;Coutière, 1897, the type species, is reassessed using Coutière’s illustrations and morphological notes scattered throughouthis monograph of the family Alpheidae (Coutière 1899). &lt;i&gt;Athanopsis&lt;/i&gt; &lt;i&gt;brevirostris&lt;/i&gt; Banner &amp; Banner, 1981, originally de-scribed on the basis of a single immature specimen missing both chelipeds, is reported and illustrated based on fresh ma-terial from Madagascar and southern Japan. &lt;i&gt;Athanopsis&lt;/i&gt; &lt;i&gt;gotoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described based on two fresh specimens fromsouthern Japan, both found associated with thalassematid echiurans, and an additional, older museum specimen from In-donesia. The colour patterns of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;brevirostris,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gotoi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;saurus&lt;/i&gt; Anker, 2011, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;rubricinctuta&lt;/i&gt; Berggren, 1991,and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;australis&lt;/i&gt; Banner &amp; Banner, 1982, are contrasted to facilitate their identification in the field. A morphology and colour based key to all presently known species of &lt;i&gt;Athanopsis&lt;/i&gt; is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Indo-West Pacific; Alpheidae; &lt;i&gt;Athanopsis&lt;/i&gt;; spoon worm; Echiura; Thalassematidae; Madagascar; Japan; new species</subject>
+          <subject_class locale="en_US">Indo-West Pacific</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Arthur</firstname>
+          <lastname>Anker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>48-61</pages>
+        <date_published>2012-05-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the ant spider genus &lt;i&gt;Asceua &lt;/i&gt;Thorell, 1887 (Araneae: Zodariidae) from China</title>
+        <abstract locale="en_US">Two new spider species of the genus &lt;i&gt;Asceua&lt;/i&gt; are reported from China, &lt;i&gt;Asceua&lt;/i&gt; &lt;i&gt;quadrimaculata&lt;/i&gt; sp. nov. (male, female) and &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;anding&lt;/i&gt; sp. nov. (female). &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;torquata&lt;/i&gt; (Simon, 1909) is newly recorded from China, and its male is described and illustrated for the first time.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; &lt;i&gt;Asceua&lt;/i&gt;; new species; new record; China</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Bao-Shi</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Feng</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xiao-Mei</firstname>
+          <lastname>Jia</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-05-10</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

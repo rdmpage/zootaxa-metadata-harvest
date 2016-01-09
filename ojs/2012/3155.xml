@@ -50,19 +50,8 @@
         <date_published>2012-01-10</date_published>
         <open_access/>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">BRYAN L. STUART (USA), SOMPHOUTHONE PHIMMACHAK (Vietnam), </title>
+        <title locale="en_US">A new &lt;i&gt;Leptobrachium &lt;/i&gt;(Anura: Megophryidae) from the highlands of southeastern Laos</title>
         <abstract locale="en_US">Twelve species of &lt;i&gt;Leptobrachium&lt;/i&gt; are known from Vietnam, Laos and Cambodia, most of which have been described toscience in the past twelve years. Our fieldwork on the Dakchung Plateau of southeastern Laos discovered a small &lt;i&gt;Lepto-&lt;/i&gt;&lt;i&gt;brachium&lt;/i&gt; with a yellow upper iris that resembled &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;buchardi,&lt;/i&gt; a species known only by the female holotype from the Bo-laven Plateau of southern Laos. We use our new collections to expand the original description of &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;buchardi,&lt;/i&gt; and describethe Dakchung species as new. &lt;i&gt;Leptobrachium&lt;/i&gt; &lt;i&gt;xanthops&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is distinguished from its congeners by having small bodysize (males with SVL 44.7, females with SVL 38.8–45.2), the upper one-half of iris and scleral arc pale yellow, a dark venter, and sexually active males without spines on the upper lip.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -70,6 +59,17 @@
           <subject_class locale="en_US">Bolaven Plateau; Dakchung Plateau; Laos; &lt;i&gt;Leptobrachium&lt;/i&gt; &lt;i&gt;buchardi&lt;/i&gt;</subject_class>
         </indexing>
         <author primary_contact="true">
+          <firstname>Bryan</firstname>
+          <middlename>L.</middlename>
+          <lastname>Stuart</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Somphouthone</firstname>
+          <lastname>Phimmachak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
           <firstname>Sengvilay</firstname>
           <lastname>Seateun</lastname>
           <email>user@example.com</email>
@@ -79,12 +79,12 @@
           <lastname>Sivongxay</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>29-37</pages>
+        <date_published>2012-01-10</date_published>
         <open_access/>
       </article>
       <article language="en">
-        <title locale="en_US">MASAFUMI MATSUI (Japan), KANTO NISHIKAWA (Japan), DAICUS M. BELABUT (Malaysia),</title>
+        <title locale="en_US">A new species of &lt;i&gt;Kalophrynus &lt;/i&gt;(Amphibia, Anura, Microhylidae) from Southern Peninsular Malaysia</title>
         <abstract locale="en_US">A new microhylid, &lt;i&gt;Kalophrynus&lt;/i&gt; &lt;i&gt;limbooliati&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from the state of Johor, in the southern part of PeninsularMalaysia. Morphologically, the new species differs from all known congeners in the combination of medium body size;short fourth finger; two subarticular tubercles on fourth finger and none on the fifth toe; presence of light lateral stripe anddark inguinal spot; absence of nuptial pads and outer metatarsal tubercles. Acoustically, the new species clearly differsfrom all congeners whose calls have been reported, and resembles a syntopic ranid &lt;i&gt;Hylarana&lt;/i&gt; &lt;i&gt;laterimaculata&lt;/i&gt; with a long series of high-pitched whistle like notes.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -92,6 +92,22 @@
           <subject_class locale="en_US">&lt;i&gt;Kalophrynus&lt;/i&gt;</subject_class>
         </indexing>
         <author primary_contact="true">
+          <firstname>Masafumi</firstname>
+          <lastname>Matsui</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Kanto</firstname>
+          <lastname>Nishikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Daicus</firstname>
+          <middlename>M.</middlename>
+          <lastname>Belabut</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
           <firstname>Ahmad</firstname>
           <lastname>Norhayati</lastname>
           <email>user@example.com</email>
@@ -102,20 +118,9 @@
           <lastname>Yong</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>38-46</pages>
+        <date_published>2012-01-10</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3155.1</id>
-    <title locale="en_US">10 Jan. 2012</title>
-    <volume>3155</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-01-10</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Two new softnose skates of the genus &lt;i&gt;Brochiraja &lt;/i&gt;(Rajoidei: Arhynchobatidae) from the deepwater slopes and banks of the Norfolk Ridge (South-West Pacific)</title>
         <abstract locale="en_US">Two new species of the softnose skate genus &lt;i&gt;Brochiraja&lt;/i&gt; are described based on material collected from the Norfolk Ridgein the northern Tasman Sea (South-West Pacific). Most of this material was collected in 2003 by the New Zealand vessel,RV &lt;i&gt;Tangaroa,&lt;/i&gt; during the NORFANZ voyage. These species extend the known range of the genus northward along theNorfolk Ridge, and along with &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;aenigma,&lt;/i&gt; are the only other representatives of the genus found outside seas adjacentNew Zealand. &lt;i&gt;Brochiraja&lt;/i&gt; &lt;i&gt;heuresa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is known from the western Norfolk Ridge and the Wanganella Bank at 870–1350 m depth, whereas &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;vittacauda&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is known from a smaller area of the western Norfolk Ridge at 629–973 mdepth. These species differ from each other, and from other nominal members of the genus, in morphometrics, meristics, coloration and squamation.</abstract>

@@ -107,19 +107,8 @@
         <pages>35-44</pages>
         <date_published>2012-03-15</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">DIEGO BALDO (Argentina), CLAUDIO BORTEIRO (Uruguay), FRANCISCO KOLENC (Uruguay), SERGIO ROSSET (Argentina), CARLOS PRIGIONI (Uruguay) </title>
+        <title locale="en_US">The taxonomic status of &lt;i&gt;Melanophryniscus orejasmirandai &lt;/i&gt;Prigioni &amp; Langone, 1987 "1986" (Anura: Bufonidae) </title>
         <abstract locale="en_US">&lt;i&gt;Melanophryniscus&lt;/i&gt; &lt;i&gt;orejasmirandai&lt;/i&gt; is a species of toad known only from two localities in southern Uruguay. This toad isthe southernmost suggested taxon of the &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tumifrons&lt;/i&gt; group, whose species are characterized by a glandular frontal swell-ing on the snout. The study of the type series of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;orejasmirandai&lt;/i&gt; and of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pachyrhynus,&lt;/i&gt; along with observations madeon many specimens of both species suggested a close relationship between them. The analysis of the variation of snout-vent length, coloration pattern, relative size of the frontal swelling, and presence/absence of the metatarsal gland showedthat characters previously used to separate both species resulted of no diagnostic value. Further comparison of the externalmorphology, osteological characters, and partial sequences of the &lt;i&gt;cytochrome&lt;/i&gt; &lt;i&gt;b&lt;/i&gt; gene indicated that &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;orejasmirandai&lt;/i&gt; isa junior synonym of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pachyrhynus.&lt;/i&gt; &lt;i&gt;Melanophryniscus&lt;/i&gt; &lt;i&gt;pachyrhynus&lt;/i&gt; is characterized by a reticulated orange ventral pat-tern which is shared only with &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;peritus,&lt;/i&gt; from which it differs by its smaller size. The ornamentation of the nasal bonesunderlying the frontal swelling in &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pachyrhynus&lt;/i&gt; seems to be characteristic of the &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;tumifrons&lt;/i&gt; group. An updated distribution map of &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;pachyrhynus&lt;/i&gt; and some new localities are also provided.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -127,8 +116,28 @@
           <subject_class locale="en_US">geographic distribution</subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Diego</firstname>
+          <lastname>Baldo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Claudio</firstname>
+          <lastname>Borteiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <lastname>Kolenc</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sergio</firstname>
+          <lastname>Rosset</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carlos</firstname>
+          <lastname>Prigioni</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -137,20 +146,9 @@
           <lastname>Debat</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>45-61</pages>
+        <date_published>2012-03-15</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3235.1</id>
-    <title locale="en_US">15 Mar. 2012</title>
-    <volume>3235</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-03-15</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Faith &lt;i&gt;et al&lt;/i&gt;.'s (2011) "corroboration assessment" leads to verificationism </title>
         <abstract locale="en_US"/>

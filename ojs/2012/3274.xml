@@ -1,3 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3274.1</id>
+    <title locale="en_US">20 Apr. 2012</title>
+    <volume>3274</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-20</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Rhagophthalmus &lt;/i&gt;Motschulsky (Coleoptera: Rhagophthalmidae) from Matzu Archipelago, Taiwan with biological commentary </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jen-Zon</firstname>
+          <lastname>Ho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Young-Fa</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Su-Han</firstname>
+          <lastname>Cheng</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xi-Lian</firstname>
+          <lastname>Tsai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ping-Shin</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-13</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Bifurcipentatoma&lt;/i&gt;, a new genus of Pentatomini with descriptions of two new species from China (Hemiptera: Heteroptera: Pentatomidae) </title>
+        <abstract locale="en_US">&lt;i&gt;Bifurcipentatoma&lt;/i&gt; Fan &amp; Liu, gen. nov., with two new species, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;nigricornuta&lt;/i&gt; Fan &amp; Liu, sp. nov., and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;parabrunnea&lt;/i&gt;Fan &amp; Liu, sp. nov., are described from China. Three new combinations, &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;acuticornuta&lt;/i&gt; (Zheng &amp; Ling, 1983) comb.nov., &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;brunnea&lt;/i&gt; (Zheng &amp; Ling, 1983) comb. nov., and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;roseicornuta&lt;/i&gt; (Zheng &amp; Ling, 1983) comb. nov., are proposedand those species are diagnosed. A key to the species and illustrations of each species are provided. The type specimens are deposited in the Institute of Entomology, Nankai University, Tianjin, China (NKUM).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Pentatomidae; &lt;i&gt;Bifurcipentatoma&lt;/i&gt;; new genus; new species; new combination; China; Palaearctic Region</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Zhong–Hua</firstname>
+          <lastname>Fan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guo–Qing</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>14-28</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of the male of &lt;i&gt;Megalava truncata &lt;/i&gt;Perrichot (Hymenoptera: Megalyridae) in Early Cretaceous amber from El Soplao (Spain) </title>
+        <abstract locale="en_US">A new fossil of megalyrid wasp recently discovered in Early Cretaceous (Albian) amber from El Soplao (Cantabria, Spain) isdescribed as the male of &lt;i&gt;Megalava&lt;/i&gt; &lt;i&gt;truncata&lt;/i&gt; Perrichot, 2009, originally described from Peñacerrada I (= Moraza) amber (Bur-gos, Spain). The new specimen permits a more thorough description of the genus &lt;i&gt;Megalava,&lt;/i&gt; which was established originallyfrom a single, fragmentary specimen lacking the metasoma, and also permits a discussion on the characters of phylogenetic value for the clade [Megazar + &lt;i&gt;Megalava].&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Mesozoic; amber; wasps; Megalyroidea; taxonomy; Spain</subject>
+          <subject_class locale="en_US">Mesozoic</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ricardo</firstname>
+          <middlename>Pérez-De</middlename>
+          <lastname>La Fuente</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vincent</firstname>
+          <lastname>Perrichot</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jaime</firstname>
+          <lastname>Ortega-Blanco</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xavier</firstname>
+          <lastname>Delclòs</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>S.</middlename>
+          <lastname>Engel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-35</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of Protopsyllidiidae (Hemiptera, Sternorrhyncha) from the Middle Jurassic of China </title>
+        <abstract locale="en_US">A new fossil species, &lt;i&gt;Poljanka&lt;/i&gt; &lt;i&gt;hirsuta&lt;/i&gt; &lt;b&gt;sp.n.,&lt;/b&gt; of the family Protopsyllidiidae is described from the Middle Jurassic JiulongshanFormation of Daohugou Village, Inner Mongolia, China. A key to the species of the genus &lt;i&gt;Poljanka&lt;/i&gt; Klimaszewski, 1995 is provided. The diagnosis of the genus is revised.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Sternorrhyncha; Protopsyllidiidae; Middle Jurassic</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Guang</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yunzhi</firstname>
+          <lastname>Yao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>36-42</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Neogreenia lonicera &lt;/i&gt;sp. nov., a new species of Margarodidae &lt;i&gt;sensu lato &lt;/i&gt;(Hemiptera: Coccoidea) from China, with a key to species of &lt;i&gt;Neogreenia &lt;/i&gt;MacGillivray and placement of the genus in the family Kuwaniidae </title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Neogreenia&lt;/i&gt; &lt;i&gt;lonicera&lt;/i&gt; Wu &amp; Nan, is described and illustrated based on the adult female, second-instarfemale and first-instar nymph. This new species was collected at Helan Mountain, Inner Mongolia, China, in bark crevicesof &lt;i&gt;Lonicera&lt;/i&gt; &lt;i&gt;microphylla&lt;/i&gt; (Caprifoliaceae). A key is provided to separate the five species now known in &lt;i&gt;Neogreenia&lt;/i&gt;MacGillivray. A cladistic analysis of morphological data from adult females and first-instar nymphs of 28 archaeococcoidgenera has &lt;i&gt;Neogreenia&lt;/i&gt; in a clade with &lt;i&gt;Jansenus&lt;/i&gt; Foldi and &lt;i&gt;Neosteingelia&lt;/i&gt; Morrison and usually also with &lt;i&gt;Kuwania&lt;/i&gt;Cockerell, and thus &lt;i&gt;Neogreenia&lt;/i&gt; should be placed in the family Kuwaniidae. A key to distinguish the adult females of the four genera of the Kuwaniidae is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Margarodidae; &lt;i&gt;Neogreenia&lt;/i&gt;; new species; China; cladistic analysis.</subject>
+          <subject_class locale="en_US">Margarodidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>San’An</firstname>
+          <lastname>Wu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Nan</firstname>
+          <lastname>Nan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The genus &lt;i&gt;Hydrometra &lt;/i&gt;Latreille in Ecuador with description of a new species (Hemiptera: Heteroptera: Gerromorpha: Hydrometridae) </title>
+        <abstract locale="en_US">&lt;i&gt;Hydrometra&lt;/i&gt; &lt;i&gt;argentina&lt;/i&gt; Berg is reported for Ecuador for the first time. &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;aequatoriana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is described from westernAndean Ecuador. Male terminalia separate this species from other congeneric species. Four species of &lt;i&gt;Hydrometra&lt;/i&gt; arenow known to occur in Ecuador: &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;argentina,&lt;/i&gt; &lt;i&gt;Hydrometra&lt;/i&gt; &lt;i&gt;caraiba&lt;/i&gt; Guérin-Méneville, &lt;i&gt;Hydrometra&lt;/i&gt; &lt;i&gt;williamsi&lt;/i&gt; Hungerford &amp; Evans and &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;aequatoriana&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Hydrometra&lt;/i&gt;; &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;aequatoriana&lt;/i&gt;; Ecuador; new species; new records; species checklist</subject>
+          <subject_class locale="en_US">&lt;i&gt;Hydrometra&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <lastname>Cianferoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Filippo</firstname>
+          <middlename>Maria</middlename>
+          <lastname>Buzzetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-62</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Polytremis jigongi&lt;/i&gt;: a new skipper from China (Lepidoptera: Hesperiidae) </title>
+        <abstract locale="en_US">A new species, &lt;i&gt;Polytremis&lt;/i&gt; &lt;i&gt;jigongi&lt;/i&gt; is described from Zhejiang, China. The new taxon resembles four congeneric species &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;nascens&lt;/i&gt; (Leech), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;micropunctata&lt;/i&gt; (Huang), &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;theca&lt;/i&gt; (Evans) and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;mencia&lt;/i&gt; (Moore), which are also analyzed and compared in the present study, and their geographical distribution in China is mapped. A key to the genus &lt;i&gt;Polytremis&lt;/i&gt; of the world is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">skipper; Zhejiang; taxonomy; &lt;i&gt;Polytremis&lt;/i&gt; &lt;i&gt;jigongi&lt;/i&gt;; Hesperiinae; Baorini</subject>
+          <subject_class locale="en_US">skipper</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jian-Qing</firstname>
+          <lastname>Zhu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Zhi-Bing</firstname>
+          <lastname>Chen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li-Zhen</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-04-20</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

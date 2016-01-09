@@ -1,3 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3275.1</id>
+    <title locale="en_US">23 Apr. 2012</title>
+    <volume>3275</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-23</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The &lt;i&gt;Chironomus &lt;/i&gt;group (Diptera: Chironomidae) in Lake Winnipeg, Canada </title>
+        <abstract locale="en_US">Species of the &lt;i&gt;Chironomus&lt;/i&gt; group from Lake Winnipeg, Manitoba, Canada are listed and taxonomic and ecological notesgiven. &lt;i&gt;Chironomus&lt;/i&gt; &lt;i&gt;(C.)&lt;/i&gt; &lt;i&gt;entis&lt;/i&gt; Shobanov and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;(C.)&lt;/i&gt; &lt;i&gt;bifurcatus&lt;/i&gt; dominates the bottom fauna with minor occurrence of fourother larval types. Fourteen species of &lt;i&gt;Chironomus&lt;/i&gt; Meigen, one &lt;i&gt;Chaetolabis&lt;/i&gt; Townes, and one &lt;i&gt;Lobochironomus&lt;/i&gt; Ryser,Wülker &lt;i&gt;et&lt;/i&gt; Scholl; one species of &lt;i&gt;Benthalia&lt;/i&gt; Lipina, and one &lt;i&gt;Einfeldia&lt;/i&gt; Kieffer are present in the light traps. &lt;i&gt;Chironomus&lt;/i&gt;&lt;i&gt;(Lobochironomus)&lt;/i&gt; sp. and &lt;i&gt;Benthalia&lt;/i&gt; &lt;i&gt;brunneipennis&lt;/i&gt; (Johannsen) are described on adult male. A key to the Nearctic malesof &lt;i&gt;Einfeldia,&lt;/i&gt; &lt;i&gt;Benthalia&lt;/i&gt; and &lt;i&gt;Chironomus&lt;/i&gt; subgen. &lt;i&gt;Lobochironomus&lt;/i&gt; is presented. The significance of the different &lt;i&gt;Chi-&lt;/i&gt;&lt;i&gt;ronomus&lt;/i&gt; species as indicators of trophic levels is demonstrated by their distribution in Lake Winnipeg. The separation of larval instars is shown approximately to follow Dyar’s rule.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Chironomidae; &lt;i&gt;Chironomus&lt;/i&gt;; &lt;i&gt;Benthalia&lt;/i&gt;; &lt;i&gt;Einfeldia&lt;/i&gt;; key; Lake Winnipeg</subject>
+          <subject_class locale="en_US">Chironomidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ole</firstname>
+          <middlename>A.</middlename>
+          <lastname>Sæther</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-19</pages>
+        <date_published>2012-04-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Three new species of &lt;i&gt;Dinera &lt;/i&gt;Robineau-Desvoidy from China (Diptera: Tachinidae) </title>
+        <abstract locale="en_US">Three species of the genus &lt;i&gt;Dinera&lt;/i&gt; Robineau-Desvoidy (Diptera: Tachinidae) are described from China as new to science:&lt;i&gt;D.&lt;/i&gt; &lt;i&gt;borealis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;guangxiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;nigrisquama&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Illustrations of the head and male terminalia are given as well as a modified key.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Tachinidae; &lt;i&gt;Dinera&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Tachinidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Chun-Tian</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chao</firstname>
+          <lastname>Fu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>20-28</pages>
+        <date_published>2012-04-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Philosepedon &lt;/i&gt;Eaton (Diptera, Psychodidae, Psychodinae) from Europe, with comments on subgeneric classification </title>
+        <abstract locale="en_US">A list of world species for subgenera of &lt;i&gt;Philosepedon&lt;/i&gt; Eaton, including &lt;i&gt;Philosepedon&lt;/i&gt; &lt;i&gt;s.&lt;/i&gt; &lt;i&gt;str.,&lt;/i&gt; &lt;i&gt;Trichosepedon&lt;/i&gt; Krek, and &lt;i&gt;Philo-&lt;/i&gt;&lt;i&gt;threticus&lt;/i&gt; Krek is given, and the subgenus &lt;i&gt;Bahisepedon&lt;/i&gt; &lt;b&gt;subgen.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is proposed to include some western hemisphere species.&lt;i&gt;Philosepedon&lt;/i&gt; &lt;i&gt;wagneri&lt;/i&gt; &lt;b&gt;nom.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is proposed to replace &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;orientale&lt;/i&gt; Wagner, a homonym of &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;orientale&lt;/i&gt; Krek. Two new spe-cies from Europe, &lt;i&gt;Philosepedon&lt;/i&gt; &lt;i&gt;dumosum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;perdecorum&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; are described, and all important male diagnostic characters are discussed. The number of moth fly species known to occur in the Czech Republic is increased to 172.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Trichopsychodina; new subgenus; species checklist; Czech Republic; the Netherlands</subject>
+          <subject_class locale="en_US">Trichopsychodina</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Markéta</firstname>
+          <lastname>Omelková</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Ježek</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>29-42</pages>
+        <date_published>2012-04-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Six new species of &lt;i&gt;Epicephala &lt;/i&gt;Meyrick, 1880 (Lepidoptera: Gracillariidae) associated with Phyllanthaceae plants </title>
+        <abstract locale="en_US">Six new species of &lt;i&gt;Epicephala&lt;/i&gt; Meyrick, 1880 are described based on the specimens collected or reared from &lt;i&gt;Breynia&lt;/i&gt; and&lt;i&gt;Glochidion&lt;/i&gt; plants during a biological survey: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lanceolaria&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lativalvaris&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;mirivalvata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;vitisidaea&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;bipollenella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;eriocarpa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; These species are obligate pollinators of Phyllanthaceae plants. Photographs of adults and illustrations of genital structures are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Breynia&lt;/i&gt;; &lt;i&gt;Glochidion&lt;/i&gt;; hostplants; leafminer moths; new species; taxonomy; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Breynia&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jing</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Bingbing</firstname>
+          <lastname>Hu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shuxia</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Houhun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-54</pages>
+        <date_published>2012-04-23</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Synopsis of the antlion genus &lt;i&gt;Deutoleon &lt;/i&gt;Navás, 1927 in China (Neuroptera: Myrmeleontidae) </title>
+        <abstract locale="en_US">A synopsis of the genus &lt;i&gt;Deutoleon&lt;/i&gt; Navás, 1927 (Neuroptera: Myrmeleontidae) is presented. The little known species &lt;i&gt;Deuto-&lt;/i&gt;&lt;i&gt;leon&lt;/i&gt; &lt;i&gt;turanicus&lt;/i&gt; Navás, 1927 is newly recorded from China. Two species of &lt;i&gt;Deutoleon&lt;/i&gt; are redescribed and illustrated in detail, including the female of &lt;i&gt;D.&lt;/i&gt; &lt;i&gt;turanicus.&lt;/i&gt; A key to species of &lt;i&gt;Deutoleon&lt;/i&gt; is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Myrmeleontidae; Nemoleontini</subject>
+          <subject_class locale="en_US">Myrmeleontidae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Qingbin</firstname>
+          <lastname>Zhan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sha</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xinli</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>55-61</pages>
+        <date_published>2012-04-23</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of Orsillini (Hemiptera: Heteroptera: Lygaeidae: Orsillinae) from Argentina, with a key to the Argentinean Orsillini </title>
+        <abstract locale="en_US">&lt;i&gt;Aborsillus&lt;/i&gt; &lt;i&gt;pora,&lt;/i&gt; the second species in the genus &lt;i&gt;Aborsillus,&lt;/i&gt; is described and illustrated, the generic limits are discussed,new records to Argentinean Orsillini are provided, and a key to the Argentinean Orsillini as well as a distributional map for these species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Aborsillus&lt;/i&gt; &lt;i&gt;pora&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Orsillinae; &lt;i&gt;Neortholomus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Aborsillus&lt;/i&gt; &lt;i&gt;pora&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.,&lt;/b&gt; Orsillinae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Pablo</firstname>
+          <middlename>M.</middlename>
+          <lastname>Dellapé</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sara</firstname>
+          <middlename>I.</middlename>
+          <lastname>Montemayor</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-04-23</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

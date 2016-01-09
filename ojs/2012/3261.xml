@@ -1,3 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3261.1</id>
+    <title locale="en_US">6 Apr. 2012</title>
+    <volume>3261</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the genus &lt;i&gt;Glaucocharis &lt;/i&gt;Meyrick (Lepidoptera, Crambidae, Crambinae) from China, with descriptions of nine new species </title>
+        <abstract locale="en_US">&lt;i&gt;Glaucocharis&lt;/i&gt; Meyrick is revised from China, with descriptions of nine new species: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;brevis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;flavifasciaria&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt;&lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;paulispinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;grandispinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;siciformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tridentata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;biconvexa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;scrotiformis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;setosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.;&lt;/b&gt; &lt;i&gt;Glaucocharis&lt;/i&gt; &lt;i&gt;incisella&lt;/i&gt; (Bleszynski, 1970) and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pilcheri&lt;/i&gt; Gaskin, 1988 are newlyrecorded for China; the females of seven species are described for the first time: &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;omeishani&lt;/i&gt; (Bleszynski, 1965), &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;incisella&lt;/i&gt; (Bleszynski, 1970), &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;parmulella&lt;/i&gt; Wang &amp; Sung, 1988, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;pilcheri&lt;/i&gt; Gaskin, 1988, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;longqiensis&lt;/i&gt; Song, 1993, &lt;i&gt;G.&lt;/i&gt;&lt;i&gt;huanggangensis&lt;/i&gt; Song &amp; Chen, 2001 and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;hastatella&lt;/i&gt; Song &amp; Chen, 2001. Images of the adults and illustrations of thegenitalia for the new species are provided. The distribution data of the Chinese &lt;i&gt;Glaucocharis&lt;/i&gt; are presented, along with a map showing the localities of these species.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Crambidae; Crambinae; &lt;i&gt;Glaucocharis&lt;/i&gt;; new species; China</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weichun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Houhun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-32</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of Palaearctic and Oriental &lt;i&gt;Necrophila &lt;/i&gt;Kirby &amp; Spence, part 2: subgenus &lt;i&gt;Chrysosilpha &lt;/i&gt;Portevin (Coleoptera: Silphidae) </title>
+        <abstract locale="en_US">A taxonomic revision of the subgenus &lt;i&gt;Chrysosilpha&lt;/i&gt; Portevin, 1921 (of the genus &lt;i&gt;Necrophila&lt;/i&gt; Kirby &amp; Spence, 1828) ispresented. Three valid species are recognized: (1) &lt;i&gt;N.&lt;/i&gt; (C.) &lt;i&gt;formosa&lt;/i&gt; (Laporte, 1832), comb. nov. (ex &lt;i&gt;Silpha&lt;/i&gt; Linnaeus, 1758),widely distributed from Laos and Vietnam through the Malay Peninsula, to Sumatra and Bali, with &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;chloroptera&lt;/i&gt;Laporte, 1840 and &lt;i&gt;Chrysosilpha&lt;/i&gt; &lt;i&gt;chloroptera&lt;/i&gt; var. &lt;i&gt;magnifica&lt;/i&gt; Portevin, 1921 as newly established junior subjectivesynonyms; (2) &lt;i&gt;N.&lt;/i&gt; (C.) &lt;i&gt;renatae&lt;/i&gt; (Portevin, 1920), comb. nov. (ex &lt;i&gt;Silpha),&lt;/i&gt; endemic to Sulawesi; and (3) &lt;i&gt;N.&lt;/i&gt; (C.) &lt;i&gt;viridis&lt;/i&gt;(Motschulsky, 1861), comb. nov. (ex &lt;i&gt;Oiceoptoma&lt;/i&gt; Leach, 1815), endemic to the Philippines. Lectotypes are designated for&lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;formosa&lt;/i&gt; Laporte, 1832; &lt;i&gt;Silpha&lt;/i&gt; &lt;i&gt;chloroptera&lt;/i&gt; Laporte, 1840 and &lt;i&gt;Chrysosilpha&lt;/i&gt; &lt;i&gt;chloroptera&lt;/i&gt; var. &lt;i&gt;magnifica&lt;/i&gt; Portevin,1921. Georeferenced records for all three species are mapped. Parsimony analysis supports the monophyly of&lt;i&gt;Chrysosilpha,&lt;/i&gt; with &lt;i&gt;N.&lt;/i&gt; (C.) &lt;i&gt;formosa&lt;/i&gt; as the sister to a clade of &lt;i&gt;N.&lt;/i&gt; (C.) &lt;i&gt;renatae&lt;/i&gt; and &lt;i&gt;N.&lt;/i&gt; (C.) &lt;i&gt;viridis.&lt;/i&gt; Geometricalmorphometrics (thin-plate spline) discriminated the three species of &lt;i&gt;Chrysosilpha;&lt;/i&gt; the first two relative warp axesindicated 70.31% shape variation in males and 77.18% in females, which was further confirmed by MANOVA to be highlysignificant. Canonical variate analysis indicated no overlap between the three taxa and enabled a 100% correct classification of each specimen to its group mean.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; new synonymy; new combination; phylogeny; geometric morphometrics; distribution; Oriental region; Wallacea</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jan</firstname>
+          <lastname>Růžička</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jan</firstname>
+          <lastname>Schneider</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jarin</firstname>
+          <lastname>Qubaiová</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Masaaki</firstname>
+          <lastname>Nishikawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-58</pages>
+        <date_published>2012-04-06</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two newly recorded genera and three new species of the tribe Cedusini (Hemiptera: Fulgoromorpha: Derbidae) from Korea </title>
+        <abstract locale="en_US">Three new derbid species, &lt;i&gt;Produsa&lt;/i&gt; &lt;i&gt;koreana&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; &lt;i&gt;Hauptenia&lt;/i&gt; &lt;i&gt;palgongsanensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Hauptenia&lt;/i&gt; &lt;i&gt;tripartita&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; ofthe tribe Cedusini (Hemiptera: Fulgoromorpha: Derbidae) are described and illustrated from Korea. They represent the firstrecord of the genera &lt;i&gt;Produsa&lt;/i&gt; Szwedo, 2006 and &lt;i&gt;Hauptenia&lt;/i&gt; Szwedo, 2006 and the tribe Cedusini in the Korean fauna. Identification keys to the known species of &lt;i&gt;Produsa&lt;/i&gt; and &lt;i&gt;Hauptenia&lt;/i&gt; are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Planthoppers; Fulgoroidea; &lt;i&gt;Produsa&lt;/i&gt;; &lt;i&gt;Hauptenia&lt;/i&gt;; Auchenorrhyncha</subject>
+          <subject_class locale="en_US">Planthoppers</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <middlename>Atikur</middlename>
+          <lastname>Rahman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yong</firstname>
+          <middlename>Jung</middlename>
+          <lastname>Kwon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sang</firstname>
+          <middlename>Jae</middlename>
+          <lastname>Suh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>59-68</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

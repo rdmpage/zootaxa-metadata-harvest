@@ -127,19 +127,8 @@
         <date_published>2012-03-07</date_published>
         <open_access/>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">MARIO RIBEIRO MOURA, JOÃO VICTOR ANDRADE DE LACERDA </title>
+        <title locale="en_US">The advertisement call of &lt;i&gt;Haddadus binotatus &lt;/i&gt;(Spix, 1824) (Anura; Craugastoridae) </title>
         <abstract locale="en_US"/>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -147,8 +136,15 @@
           <subject_class locale="en_US"><![CDATA[]]></subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Mario</firstname>
+          <middlename>Ribeiro</middlename>
+          <lastname>Moura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Victor Andrade</middlename>
+          <lastname>De Lacerda</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -157,8 +153,8 @@
           <lastname>Feio</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>67-68</pages>
+        <date_published>2012-03-07</date_published>
       </article>
     </section>
   </issue>

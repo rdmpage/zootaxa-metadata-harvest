@@ -1,3 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3298.1</id>
+    <title locale="en_US">3 May. 2012</title>
+    <volume>3298</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-03</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Centris &lt;/i&gt;(&lt;i&gt;Paracentris&lt;/i&gt;) Cameron, 1903 from northeastern Brazil, with a key for the &lt;i&gt;Centris &lt;/i&gt;species of the Caatinga region (Hymenoptera: Apidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Centris&lt;/i&gt; (Paracentris) Cameron is one of the subgenera with the greatest species richness of the bee tribe Centridini. Inthis paper, &lt;i&gt;Centris&lt;/i&gt; &lt;i&gt;nordestina,&lt;/i&gt; a new Brazilian species of the subgenus is described, and due to its close relationship witha clade of Andean species, a new biogeographical track is defined uniting northeastern Brazil with the Andes. For the first time a key for the species of the Caatinga region, the semiarid region of northeastern Brazil, is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Bees; Apoidea; Neotropical; Taxonomy</subject>
+          <subject_class locale="en_US">Bees</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Felipe</firstname>
+          <lastname>Vivallo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <middlename>César Vieira</middlename>
+          <lastname>Zanella</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-16</pages>
+        <date_published>2012-05-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Togeciphus &lt;/i&gt;Nishijima and &lt;i&gt;Neoloxotaenia &lt;/i&gt;Sabrosky (Diptera: Chloropidae) from China</title>
+        <abstract locale="en_US">&lt;i&gt;Togeciphus&lt;/i&gt; Nishijima and &lt;i&gt;Neoloxotaenia&lt;/i&gt; Sabrosky are small genera in the family Chloropidae. &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;truncatus&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; isdescribed and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;fasciata&lt;/i&gt; (de Meijere) is recorded for the first time from China. Two species, &lt;i&gt;T.&lt;/i&gt; &lt;i&gt;katoi&lt;/i&gt; (Nishijima) and &lt;i&gt;N.&lt;/i&gt; &lt;i&gt;gracilis&lt;/i&gt; (de Meijere) are redescribed. Keys to the world species of the genera &lt;i&gt;Togeciphus&lt;/i&gt; and &lt;i&gt;Neoloxotaenia&lt;/i&gt; are presented.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Chloropidae; &lt;i&gt;Togeciphus&lt;/i&gt;; &lt;i&gt;Neoloxotaenia&lt;/i&gt;; new species; new record; China</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xiaoyan</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ding</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>17-29</pages>
+        <date_published>2012-05-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Scuttle flies (Diptera: Phoridae) caught at dead mice in S. W. Finland</title>
+        <abstract locale="en_US">Scuttle flies trapped at baits of dead mice are reported from a region of S. W. Finland subjected to pollution from the smelt-ing of copper and nickel. Most belonged to the huge genus &lt;i&gt;Megaselia,&lt;/i&gt; but 96% were females, the majority of which cannot be named until linked to their males. These are given code numbers and distinguished by means of a key.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Diptera; Phoridae; &lt;i&gt;Megaselia&lt;/i&gt;; Europe; key</subject>
+          <subject_class locale="en_US">Diptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>R.</firstname>
+          <middlename>Henry L.</middlename>
+          <lastname>Disney</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>30-42</pages>
+        <date_published>2012-05-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New species of the snakefly genus &lt;i&gt;Inocellia &lt;/i&gt;Schneider, 1843 (Raphidioptera: Inocelliidae) from Yunnan, China</title>
+        <abstract locale="en_US">Two new species of the snakefly genus &lt;i&gt;Inocellia&lt;/i&gt; Schneider, 1843 from Yunnan Province of China are described: &lt;i&gt;Inocellia&lt;/i&gt; &lt;i&gt;nigra&lt;/i&gt;sp. nov. and &lt;i&gt;Inocellia&lt;/i&gt; &lt;i&gt;yunnanica&lt;/i&gt; sp. nov. A revised key is provided for the males of all &lt;i&gt;Inocellia&lt;/i&gt; species. The biogeographical significance of the Yunnanian refugial centre is discussed.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">snakefly; &lt;i&gt;Inocellia&lt;/i&gt;; Yunnan; China</subject>
+          <subject_class locale="en_US">snakefly</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xingyue</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Horst</firstname>
+          <lastname>Aspöck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Weiwei</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ulrike</firstname>
+          <lastname>Aspöck</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-52</pages>
+        <date_published>2012-05-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Mannheimsia &lt;/i&gt;Beyer (Diptera: Phoridae): description of a new species, redescription of &lt;i&gt;Mannheimsia stricta &lt;/i&gt;and studies on hypopygial morphology</title>
+        <abstract locale="en_US">&lt;i&gt;Mannheimsia&lt;/i&gt; &lt;i&gt;conica,&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described, &lt;i&gt;M.&lt;/i&gt; &lt;i&gt;stricta&lt;/i&gt; redescribed and the hypopygial morphology including the phallus of allfour &lt;i&gt;Mannheimsia&lt;/i&gt; species is illustrated and discussed. A table with the different phallus terminology used in the main studies of this structure in Phoridae is presented. Uniformization of phallus terminology is suggested.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Male terminalia; taxonomy; phorid flies</subject>
+          <subject_class locale="en_US">Male terminalia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Danilo</firstname>
+          <middlename>César</middlename>
+          <lastname>Ament</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-05-03</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Suphisellus &lt;/i&gt;Crotch, 1873 (Coleoptera: Noteridae) from “Los Llanos”, Venezuela</title>
+        <abstract locale="en_US">&lt;i&gt;Suphisellus&lt;/i&gt; &lt;i&gt;shorti&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described from “Los Llanos”, Venezuela, which brings to six the number of species includedin the Noteridae genus &lt;i&gt;Suphisellus&lt;/i&gt; Crotch, 1873 recorded in this country. Specimens were collected in The Plains regionin Venezuela (Apure and Guarico states) using either a light trap or a net. Description and illustration of the new speciesare provided along with a discussion of its systematic position. The new species can be distinguished from the other spe-cies of the genus by the following main characters: crease at posterolateral angle of pronotum weakly marked; numerous setae covering entire surface of prosternal process and medial part of prosternum; shape of male genitalia.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Noteridae; Noterini; &lt;i&gt;Suphisellus&lt;/i&gt;; new species; Plains Region; Venezuela; wetlands</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Auricio</firstname>
+          <lastname>García</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Cesar</firstname>
+          <middlename>João</middlename>
+          <lastname>Benetti</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jesús</firstname>
+          <lastname>Camacho</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-05-03</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

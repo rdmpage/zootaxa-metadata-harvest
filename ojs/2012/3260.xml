@@ -1,3 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3260.1</id>
+    <title locale="en_US">6 Apr. 2012</title>
+    <volume>3260</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-06</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Checklist of the Elmidae (Coleoptera: Byrrhoidea) of Brazil </title>
+        <abstract locale="en_US">Information on the Elmidae that occur in a country is important for the advancement of ecological knowledge and the useof these organisms in biomonitoring programs. To date, there are checklists of elmids recorded in two regions of Brazil—one for the Amazon region, listing 48 species in 14 genera, and another for the state of Rio de Janeiro, listing 13 speciesin 7 genera. Thus, there is no checklist of the Elmidae for Brazil as a whole, and only inconsistent estimates of the numberof species present. Therefore, the aim of this paper is to present a checklist of the Elmidae recorded from Brazil. We basedthis checklist on literature produced between 1882 and 2011. A total of 148 species named plus 1 unnamed species ofElmidae are cited for Brazil, distributed in 24 genera. Moreover, we include taxonomic notes, such as changes in genus, and information about bibliography and distribution.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Riffle beetles; Neotropics; geographic distribution</subject>
+          <subject_class locale="en_US">Riffle beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Melissa</firstname>
+          <middlename>Ottoboni</middlename>
+          <lastname>Segura</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Francisco</firstname>
+          <lastname>Valente-Neto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alaíde</firstname>
+          <middlename>Aparecida</middlename>
+          <lastname>Fonseca-Gessner</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-18</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new genus of leaf litter inhabiting Neotropical Monoplatina (Coleoptera: Chrysomelidae: Galerucinae: Alticini) </title>
+        <abstract locale="en_US">A new genus (Andersonaltica) containing five new species (A. &lt;i&gt;denticulata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;elongata,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;pecki—the&lt;/i&gt; type species of thegenus, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;tuberosa,&lt;/i&gt; and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;valens)&lt;/i&gt; from Central America is described and illustrated. It is compared to &lt;i&gt;Aedmon&lt;/i&gt; Clark,&lt;i&gt;Apleuraltica&lt;/i&gt; Bechyne, &lt;i&gt;Distigmoptera&lt;/i&gt; Blake, &lt;i&gt;Hypolampsis&lt;/i&gt; Clark, and &lt;i&gt;Pseudolampsis&lt;/i&gt; Horn and a key to identification of these genera is provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">flea beetles; apterous; new genus; new species; leaf litter; Neotropical Region</subject>
+          <subject_class locale="en_US">flea beetles</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Adelita</firstname>
+          <middlename>M.</middlename>
+          <lastname>Linzmeier</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Alexander</firstname>
+          <middlename>S.</middlename>
+          <lastname>Konstantinov</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>19-32</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Squamatinia algharbica &lt;/i&gt;gen. n. sp. n., a remarkable new Coletiniinae silverfish (Zygentoma: Nicoletiidae) from caves in southern Portugal </title>
+        <abstract locale="en_US">A new genus of Coletiniinae silverfish (Nicoletiidae) similar to &lt;i&gt;Coletinia&lt;/i&gt; Wygodzinsky and &lt;i&gt;Lepidospora&lt;/i&gt; Escherich isdescribed to accommodate the new species &lt;i&gt;Squamatinia&lt;/i&gt; &lt;i&gt;algharbica&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; Many individuals were collected overall seasons of the year in four caves of the Algarve karst massif in the south of Portugal. An identification key for the known genera of Coletiniinae is provided, as well as some biogeographical and ecological comments.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Thysanura; new genus; new species; hypogean; cave-dwelling; troglobiont; karst; Algarve; Iberian Peninsula.</subject>
+          <subject_class locale="en_US">Thysanura</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ana</firstname>
+          <middlename>Sofia P. S.</middlename>
+          <lastname>Reboleira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Fernando</firstname>
+          <lastname>Gonçalves</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Pedro</firstname>
+          <lastname>Oromí</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Luis</firstname>
+          <middlename>F.</middlename>
+          <lastname>Mendes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>33-46</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">One new species and two new synonyms in the genus &lt;i&gt;Ethmia &lt;/i&gt;(Lepidoptera: Elachistidae: Ethmiinae) </title>
+        <abstract locale="en_US">One new species of the genus &lt;i&gt;Ethmia&lt;/i&gt; Hübner [1819], viz. &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;apispinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described based on the specimenscollected in Yunnan Province; two new synonyms are proposed: &lt;i&gt;Ethmia&lt;/i&gt; &lt;i&gt;pseudozygospila&lt;/i&gt; Kun &amp; Szabóky, 2000, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt;(= &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;guangzhouensis&lt;/i&gt; Liu, 1980), and &lt;i&gt;Ethmia&lt;/i&gt; &lt;i&gt;amissus&lt;/i&gt; Kun, 2001, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (= &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pingxiangensis&lt;/i&gt; Liu, 1980); the male of &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;pingxiangensis&lt;/i&gt; is described for the first time. Images of adults and illustrations of genitalia are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Elachistidae; Ethmiinae; synonym; new species</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jing-Jing</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shu-Xia</firstname>
+          <lastname>Wang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-52</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Zorotypus novobritannicus &lt;/i&gt;n. sp., the first species of the order Zoraptera (Zorotypidae) from the Australasian Ecozone </title>
+        <abstract locale="en_US">&lt;i&gt;Zorotypus&lt;/i&gt; &lt;i&gt;novobritannicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; (Polyneoptera: Zoraptera: Zorotypidae) is described from the Australasian ecozone frommales and females of both apterous and dealated morphs. The description includes detailed accounts of head and thoraxof the eyeless apterous morphs, head of the dealated winged morph with both eyes and ocelli, and the male and femaleabdomen and terminalia. &lt;i&gt;Zorotypus&lt;/i&gt; &lt;i&gt;novobritannicus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; has unique, palmate setae on the lateral and ventral sides of thecerci of both sexes and dealated winged morphs are found at much higher densities than have been reported for any other species of Zoraptera.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">biogeography; New Britain; taxonomy; Zoraptera; Zorotypidae</subject>
+          <subject_class locale="en_US">biogeography</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Matthew</firstname>
+          <middlename>D.</middlename>
+          <lastname>Terry</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Michael</firstname>
+          <middlename>F.</middlename>
+          <lastname>Whiting</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The Ochteridae of Ecuador, with new records and an identification key (Hemiptera: Heteroptera: Nepomorpha) </title>
+        <abstract locale="en_US">Two species of Ochteridae, &lt;i&gt;Ochterus&lt;/i&gt; &lt;i&gt;manni&lt;/i&gt; Hungerford, 1927 and &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;viridifrons&lt;/i&gt; (Champion, 1901) are recorded for thefirst time from Ecuador, so that thus six species belonging to the genus &lt;i&gt;Ochterus&lt;/i&gt; Latreille, 1807 and one to the genus&lt;i&gt;Ocyochterus&lt;/i&gt; Drake &amp; Gómez-Menor, 1954 are now recorded from Ecuador. A remark on the endemic &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;unidentatus&lt;/i&gt;Chen &amp; Nieser, 1992, a checklist of the Ochteridae of Ecuador, and an identification key to the Ecuadorian species are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ochteridae; Ecuador; key; checklist; new records</subject>
+          <subject_class locale="en_US">Ochteridae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Fabio</firstname>
+          <lastname>Cianferoni</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-04-06</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

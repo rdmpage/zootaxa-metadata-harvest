@@ -72,19 +72,8 @@
         <pages>22-36</pages>
         <date_published>2012-03-14</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">S. HARIKRISHNAN (India), KARTHIKEYAN VASUDEVAN (India), ANSLEM DE SILVA (Sri Landa), V. DEEPAK (India), NILADRI BHUSAN KAR (India), ROHIT NANIWADEKAR (India), ALBERT LALREMRUATA (India), K. REBEKAH PRASOONA (India) </title>
+        <title locale="en_US">Phylogeography of &lt;i&gt;Dasia &lt;/i&gt;Gray, 1830 (Reptilia: Scincidae), with the description of a new species from southern India </title>
         <abstract locale="en_US">A new tree skink species of the genus &lt;i&gt;Dasia&lt;/i&gt; Gray, 1830, closely allied to &lt;i&gt;Dasia&lt;/i&gt; &lt;i&gt;haliana,&lt;/i&gt; is described from southern West-ern Ghats of India. The new species named, &lt;i&gt;Dasia&lt;/i&gt; &lt;i&gt;johnsinghi&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; can be distinguished from all other congeners bymorphological and molecular data. A related species, &lt;i&gt;Dasia&lt;/i&gt; &lt;i&gt;subcaeruleum,&lt;/i&gt; is re-described based on new material from anew locality in the Western Ghats. Mitochondrial rDNA-based phylogenetic analysis of the genus &lt;i&gt;Dasia&lt;/i&gt; reveals the affin-ities of the south Indian and the Sri Lankan species with Southeast Asian ones. The biogeographic processes that mighthave led to the disjunct distribution of the entities in the genus are discussed. An updated key to the identification of species of the genus &lt;i&gt;Dasia&lt;/i&gt; is provided.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -92,8 +81,45 @@
           <subject_class locale="en_US">Endemism</subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>S.</firstname>
+          <lastname>Harikrishnan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Karthikeyan</firstname>
+          <lastname>Vasudevan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anslem</firstname>
+          <lastname>De Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>V.</firstname>
+          <lastname>Deepak</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Niladri</firstname>
+          <middlename>Bhusan</middlename>
+          <lastname>Kar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rohit</firstname>
+          <lastname>Naniwadekar</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Albert</firstname>
+          <lastname>Lalremruata</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>K.</firstname>
+          <middlename>Rebekah</middlename>
+          <lastname>Prasoona</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -102,20 +128,9 @@
           <lastname>Aggarwal</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>37-51</pages>
+        <date_published>2012-03-14</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3233.1</id>
-    <title locale="en_US">14 Mar. 2012</title>
-    <volume>3233</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-03-14</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Classification of &lt;i&gt;Crangonyx islandicus &lt;/i&gt;(Amphipoda, Crangonyctidae) based on morphological characters and comparison with molecular phylogenies </title>
         <abstract locale="en_US">&lt;i&gt;Crangonyx&lt;/i&gt; &lt;i&gt;islandicus&lt;/i&gt; is a groundwater amphipod species endemic to Iceland and a member of the family Crangonyctidaewhich is widespread throughout the Holarctic region. A previous study based on variation in nuclear genes showed that&lt;i&gt;C.&lt;/i&gt; &lt;i&gt;islandicus&lt;/i&gt; closest relatives are &lt;i&gt;Crangonyx&lt;/i&gt; species from North America, where most of the species diversity of the genusoccurs. In this study, we aim at describing the morphological affinities of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;islandicus&lt;/i&gt; with North American &lt;i&gt;Crangonyx&lt;/i&gt;species and two Eurasian species, &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;chlebnikovi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;subterraneus.&lt;/i&gt; We used the morphological characters defined byZhang &amp; Holsinger (2003) and scored them for different populations of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;islandicus&lt;/i&gt; as well as for &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;chlebnikovi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt;&lt;i&gt;subterraneus.&lt;/i&gt; The molecular phylogeny of the Crangonyctidae family and the morphological character states are com-pared in order to detect potential convergence in the morphological traits, common in subterranean species. &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;islandicus&lt;/i&gt;appears to be close morphologically to &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;subterraneus&lt;/i&gt; from Europe and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;longicarpus&lt;/i&gt; from North America. The morphological proximity of &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;islandicus&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;subterraneus&lt;/i&gt; is incongruent with the pattern observed from molecular data.</abstract>

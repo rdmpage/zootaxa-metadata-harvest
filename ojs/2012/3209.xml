@@ -78,6 +78,24 @@
         <pages>53-66</pages>
         <date_published>2012-02-28</date_published>
       </article>
+      <article language="en">
+        <title locale="en_US">Three new synonyms among Australian Thripinae (Insecta: Thysanoptera) </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laurence</firstname>
+          <middlename>A.</middlename>
+          <lastname>Mound</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>67-68</pages>
+        <date_published>2012-02-28</date_published>
+        <open_access/>
+      </article>
     </section>
   </issue>
 </issues>

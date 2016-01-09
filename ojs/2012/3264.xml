@@ -1,3 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3264.1</id>
+    <title locale="en_US">10 Apr. 2012</title>
+    <volume>3264</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-10</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Description of two new and five known species of the genus &lt;i&gt;Axonchium &lt;/i&gt;Cobb, 1920 (Nematoda : Dorylamida) from India with diagnostic compendia and keys to species of the genera &lt;i&gt;Axonchium &lt;/i&gt;and &lt;i&gt;Syncheilaxonchium &lt;/i&gt;Coomans &amp; Nair, 1975 </title>
+        <abstract locale="en_US">Two new and six known species of soil-inhabiting nematodes belonging to the genus &lt;i&gt;Axonchium&lt;/i&gt; Cobb, 1920 are describedand illustrated from India. &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;meghalayense&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is characterized by its body length (1.6–1.9 mm), odontostylelength (9.5–10 µm), the presence of a short isthmus-like structure between the anterior and posterior parts of the pharynx,and rounded tail. The vagina in females is slightly bent posteriad, and the anterior uterine branch is a long sac. Males have41 µm long spicules, lateral guiding pieces with bifurcated distal ends, and five ventromedian supplements starting abovethe range of spicules. Body length in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;noreasum&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; is 1.0–1.5 mm, its odontostyle is 7–10 µm long, and the two partsof the pharynx abut each other. Females have a posteriorly directed vagina, and an anterior uterine branch 45–138 µmlong. Males have two well-spaced ventromedian supplements, spicules 30–36 µm long and conoid tail. &lt;i&gt;Axonchium&lt;/i&gt;&lt;i&gt;amplicolle&lt;/i&gt; Cobb, 1920; &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;bulbosum&lt;/i&gt; Williams, 1958; &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;elegans&lt;/i&gt; Jairajpuri, 1964; &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;neoeletum&lt;/i&gt;Rahman, Jairajpuri &amp; Ahmad, 1985; &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;phukani&lt;/i&gt; Rahman, Jairajpuri &amp; Ahmad, 1985; &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;parasaccatum&lt;/i&gt;Rahman, Jairajpuri &amp; Ahmad, 1985 are redescribed. Three recently described species, &lt;i&gt;Axonchium&lt;/i&gt; &lt;i&gt;sturhani&lt;/i&gt; Naz &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt;2007, &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;parassaculum&lt;/i&gt; Naz &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2007 and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;singaporense&lt;/i&gt; Ahmad &amp; Naz, 2010, because of their continuous lip regionwith amalgamated lips are transferred to the genus &lt;i&gt;Syncheilaxonchium&lt;/i&gt; as &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;sturhani&lt;/i&gt; (Naz &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2007) n. comb., &lt;i&gt;S.&lt;/i&gt;&lt;i&gt;parassaculum&lt;/i&gt; (Naz &lt;i&gt;et&lt;/i&gt; &lt;i&gt;al.,&lt;/i&gt; 2007) n. comb. and &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;singaporense&lt;/i&gt; (Ahmad &amp; Naz, 2010b) n. comb. Keys and compendia to the species of the genera &lt;i&gt;Axonchium&lt;/i&gt; and &lt;i&gt;Syncheilaxonchium&lt;/i&gt; Coomans &amp; Nair, 1975 are also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Axonchium&lt;/i&gt;; compendium; India; key to species; known species; new species; &lt;i&gt;Syncheilaxonchium&lt;/i&gt;</subject>
+          <subject_class locale="en_US">&lt;i&gt;Axonchium&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tabbasam</firstname>
+          <lastname>Naz</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wasim</firstname>
+          <lastname>Ahmad</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-37</pages>
+        <date_published>2012-04-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of &lt;i&gt;Paraehlersia &lt;/i&gt;San Martín, 2003 (Polychaeta, Syllidae) from the Atlantic Coast of South America </title>
+        <abstract locale="en_US">&lt;i&gt;Paraehlersia&lt;/i&gt; San Martín, 2003 is reported for the first time for the Atlantic coast off South America based on specimenscollected off Brazil and Argentina. The specimens belong to two new species, which are herein described. &lt;i&gt;Paraehlersia&lt;/i&gt;&lt;i&gt;longichaetosa&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is characterized by having spiniger-like chaetae with long blades, up to 120μm in length, bidentateanterior falcigers, with relatively coarse subdistal tooth, bidentate dorsal simple chaetae, with teeth about same size, andsubdistally irregularly inflated aciculae, apparently hollow, with acute tip. &lt;i&gt;Paraehlersia&lt;/i&gt; &lt;i&gt;martapolae&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; has spiniger-like chaetae with shorter blades, up to 82μm in length, bidentate falcigers, with thin subdistal tooth, distally irregularlyrounded dorsal simple chaetae, and aciculae subdistally bent at almost right angle, sometimes with apparently flattenedtop. These new species are compared to their most similar congeners. Additionally, a table summarizing relevant morphological traits of all currently known species of &lt;i&gt;Paraehlersia&lt;/i&gt; is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; Polychaeta; Syllidae; &lt;i&gt;Paraehlersia&lt;/i&gt;</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Marcelo</firstname>
+          <middlename>Veronesi</middlename>
+          <lastname>Fukuda</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Romina</firstname>
+          <lastname>Centurión</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>João</firstname>
+          <middlename>Miguel</middlename>
+          <lastname>De Matos Nogueira</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Guillermo</firstname>
+          <lastname>San Martín</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>38-52</pages>
+        <date_published>2012-04-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Galathea &lt;/i&gt;Fabricius, 1793 (Crustacea: Decapoda: Anomura: Galatheidae) from Okinawa, southern Japan </title>
+        <abstract locale="en_US">A new species of squat lobster, &lt;i&gt;Galathea&lt;/i&gt; &lt;i&gt;chura&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; is described from deep-waters off Okinawa Island in the Ryukyus,southern Japan, on the basis of a single specimen found on a colony of unidentified octocoral of the genus &lt;i&gt;Parisis&lt;/i&gt; Verrill,1864. The new species resembles &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;magnifica&lt;/i&gt; Haswell, 1882, &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;spinosorostris&lt;/i&gt; Dana, 1852, and &lt;i&gt;G.&lt;/i&gt; &lt;i&gt;tanegashimae&lt;/i&gt; Baba,1969, in having scale-like or interrupted arcuate ridges on the gastric region of the carapace and epipods on the first or first and second pereopods only, but it is readily distinguished by the absence of epigastric spines.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Anomura; &lt;i&gt;Galathea&lt;/i&gt;; new species; Ryukyu Islands; ROV.</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masayuki</firstname>
+          <lastname>Osawa</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Takuo</firstname>
+          <lastname>Higashiji</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-60</pages>
+        <date_published>2012-04-10</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Lagis &lt;/i&gt;(Polychaeta: Pectinariidae) from Hong Kong </title>
+        <abstract locale="en_US">&lt;i&gt;Lagis&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt; sp. nov., (Pectinariidae) is described based on specimens collected from an intertidal mudflat in an estu-ary of Hong Kong. The specimens are small, with a body length of 6.4 mm to 15.4 mm. Among a total of 10 describedspecies of &lt;i&gt;Lagis,&lt;/i&gt; &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt; sp. nov., and &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;abranchiata&lt;/i&gt; (Fauvel, 1932) are the only two without thoracic branchiae.&lt;i&gt;Lagis&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt; sp. nov., can be distinguished from &lt;i&gt;L.&lt;/i&gt; &lt;i&gt;abranchiata&lt;/i&gt; by having crenulated rather than knobbed margins in the scaphe, and lacking a pair of dorsal elongated pads on the third segment.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; polychaete; &lt;i&gt;Lagis&lt;/i&gt; &lt;i&gt;crenulatus&lt;/i&gt;; new species; Hong Kong</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Yanan</firstname>
+          <lastname>Sun</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jian-Wen</firstname>
+          <lastname>Qiu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>61-68</pages>
+        <date_published>2012-04-10</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

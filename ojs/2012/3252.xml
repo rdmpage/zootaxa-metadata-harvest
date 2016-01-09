@@ -1,3 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3252.1</id>
+    <title locale="en_US">30 Mar. 2012</title>
+    <volume>3252</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-03-30</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A review of the whitefly genus &lt;i&gt;Aleurocanthus &lt;/i&gt;Quaintance &amp; Baker (Hemiptera: Aleyrodidae) in Australia </title>
+        <abstract locale="en_US">A review of the genus &lt;i&gt;Aleurocanthus&lt;/i&gt; in Australia recognises 22 species, of which eleven new species are described here- &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;ashleyi&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;callistemonus&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;coombsi&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;gullanae&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;laurenae&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;maculatus&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt;&lt;i&gt;mcneili&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;neofroggatti&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;octospinosum&lt;/i&gt; sp. n., &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;sapindus&lt;/i&gt; sp. n. and &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;schmidti&lt;/i&gt; sp. n. recorded from theAustralian mainland for the first time is &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;luteus&lt;/i&gt; Martin, whilst the presence of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;woglumi&lt;/i&gt; Ashby is confirmed from anAustralian territory (Christmas Island, Indian Ocean) and from Daru Island in the Torres Strait. Distributional, biological and host data are presented for &lt;i&gt;Aleurocanthus&lt;/i&gt; species in Australia, and a key to species is given.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; pest; key; whitefly; &lt;i&gt;Aleurocanthus&lt;/i&gt;</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Peter</firstname>
+          <middlename>S.</middlename>
+          <lastname>Gillespie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-42</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revision of &lt;i&gt;Cestocampa &lt;/i&gt;Condé (Diplura, Campodeidae), with description of a new species from caves in the eastern Iberian Peninsula </title>
+        <abstract locale="en_US">A new cave-dwelling Diplura, &lt;i&gt;Cestocampa&lt;/i&gt; &lt;i&gt;iberica,&lt;/i&gt; is described from the eastern Iberian Peninsula. The new species wascollected in ten caves located in the large karstic area occurring along the Castilian-Valencian branch of the IberianMountain Range. It closely resembles other &lt;i&gt;Cestocampa&lt;/i&gt; spp., especially &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;gasparoi&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;balcanica.&lt;/i&gt; The delimitationof &lt;i&gt;Cestocampa&lt;/i&gt; is reviewed. &lt;i&gt;Cestocampa&lt;/i&gt; &lt;i&gt;balcanica&lt;/i&gt; is redescribed and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;kashiensis&lt;/i&gt; is removed from the genus andtransferred to &lt;i&gt;Plusiocampa.&lt;/i&gt; A phylogeographic analysis, based on the &lt;i&gt;cox1&lt;/i&gt; mtDNA gene of the new species, reveals aclear geographic structure with high levels of population phylopatry, indicating limited dispersal capabilities as found inother soil arthropods. Evidence of gene flow between nearby localities suggests interconnections among nearby caves.Under certain climatic conditions the species may be able to disperse over the surface, as suggested by one presumed longdistance dispersal event.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">cave-dwelling; phylogeography; Iberian Peninsula; &lt;i&gt;Plusiocampa&lt;/i&gt;; &lt;i&gt;Vandelicampa&lt;/i&gt;; Plusiocampinae</subject>
+          <subject_class locale="en_US">cave-dwelling</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Alberto</firstname>
+          <lastname>Sendra</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Miquel</firstname>
+          <middlename>A.</middlename>
+          <lastname>Arnedo</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Carles</firstname>
+          <lastname>Ribera</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>S.</firstname>
+          <lastname>Teruel</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>L.</firstname>
+          <lastname>Bidegaray-Batista</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>B.</firstname>
+          <lastname>Conde†</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>43-56</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Socotracris kleukersi &lt;/i&gt;n. gen. n. sp.&lt;i&gt;, &lt;/i&gt;a new troglobitic cricket from Socotra (Yemen) (Orthoptera: Grylloidea, Phalangopsidae) </title>
+        <abstract locale="en_US">The cricket &lt;i&gt;Socotracris&lt;/i&gt; &lt;i&gt;kleukersi&lt;/i&gt; n. gen., n. sp., collected in a cave at Wadi Zerik, Diksam Plateau, Socotra, Yemen is described. The genus and species are characterized by male and female genitalia and external morphology.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">New species; Cave life; Indian Ocean</subject>
+          <subject_class locale="en_US">New species</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Laure</firstname>
+          <lastname>Desutter-Grandcolas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Rob</firstname>
+          <middlename>P. W. H.</middlename>
+          <lastname>Felix</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-65</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">One new species of &lt;i&gt;Hemielimaea &lt;/i&gt;Brunner von Wattenwyl from China </title>
+        <abstract locale="en_US">One new species &lt;i&gt;Hemielimaea&lt;/i&gt; &lt;i&gt;(Hemielimaea)&lt;/i&gt; &lt;i&gt;adeviara&lt;/i&gt; sp. nov. from China is described. Characteristics of the stridulatory fileon underside of male left tegmen, male stridulatory area on left and right tegmen, and abdominal apex of male and female areprovided. Important and necessary illustrations of the new species are presented. The type specimens are deposited in Collections of Institute of Zoology, Chinese Academy of Sciences, Beijing, China (IZCAS).</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">new species; &lt;i&gt;Hemielimaea;&lt;/i&gt; katydid; China</subject>
+          <subject_class locale="en_US">new species; &lt;i&gt;Hemielimaea;&lt;/i&gt; katydid; China</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Xi-Ming</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Li</firstname>
+          <lastname>Yuan</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Chun-Xiang</firstname>
+          <lastname>Liu</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>66-68</pages>
+        <date_published>2012-03-30</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

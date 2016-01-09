@@ -91,6 +91,35 @@
         <pages>58-64</pages>
         <date_published>2012-02-22</date_published>
       </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Gryllus mandevillus &lt;/i&gt;(Orthoptera: Gryllidae) is a valid field cricket species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>David</firstname>
+          <middlename>B.</middlename>
+          <lastname>Weissman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>H.</middlename>
+          <lastname>Funk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Thomas</firstname>
+          <middlename>J.</middlename>
+          <lastname>Walker</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-02-22</date_published>
+      </article>
     </section>
   </issue>
 </issues>

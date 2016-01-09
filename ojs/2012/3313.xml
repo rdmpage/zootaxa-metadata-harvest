@@ -1,3 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3313.1</id>
+    <title locale="en_US">15 May. 2012</title>
+    <volume>3313</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-15</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Trichromothrips &lt;/i&gt;genus-group (Thysanoptera, Thripidae) from Vietnam, with descriptions of new species in both &lt;i&gt;Okajimaella &lt;/i&gt;and &lt;i&gt;Paithrips&lt;/i&gt;</title>
+        <abstract locale="en_US">&lt;i&gt;Okajimaella&lt;/i&gt; &lt;i&gt;nonakai&lt;/i&gt; sp. n. and &lt;i&gt;Paithrips&lt;/i&gt; &lt;i&gt;pornthipae&lt;/i&gt; sp. n. are described from bamboo in Vietnam as the third and second spe-cies respectively in these genera. Also newly recorded from bamboo in Vietnam are &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tubercula&lt;/i&gt; Nonaka &amp; Janguvitaya and &lt;i&gt;P.&lt;/i&gt;&lt;i&gt;circularis&lt;/i&gt; Nonaka &amp; Janguvitaya, &lt;i&gt;Neocorynothrips&lt;/i&gt; &lt;i&gt;asiaticus&lt;/i&gt; Rhamakrishna &amp; Margabandhu, &lt;i&gt;Takethrips&lt;/i&gt; &lt;i&gt;megas&lt;/i&gt; Nonaka &amp;Jangvitaya, &lt;i&gt;Watanabeotrips&lt;/i&gt; &lt;i&gt;yasuakii&lt;/i&gt; Okajima, and &lt;i&gt;Yoshinothrips&lt;/i&gt; &lt;i&gt;thailandicus&lt;/i&gt; Nonaka &amp; Jangvitaya. As a result, nine species from seven genera are now known from bamboo in Vietnam.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Thysanoptera; Thripidae; &lt;i&gt;Okajimaella&lt;/i&gt;; &lt;i&gt;O.&lt;/i&gt; &lt;i&gt;tubercula&lt;/i&gt;; &lt;i&gt;Paithrips&lt;/i&gt;; &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;circularis&lt;/i&gt;; &lt;i&gt;Trichromothrips&lt;/i&gt; genus-group; bamboo; Vietnam</subject>
+          <subject_class locale="en_US">Thysanoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Masami</firstname>
+          <lastname>Masumoto</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Shûji</firstname>
+          <lastname>Okajima</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-11</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new species group in &lt;i&gt;Edessa &lt;/i&gt;Fabricius, 1803 (Heteroptera: Pentatomidae: Edessinae)</title>
+        <abstract locale="en_US">The &lt;i&gt;caldaria&lt;/i&gt; group of &lt;i&gt;Edessa&lt;/i&gt; is proposed to include four species: &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;caldaria&lt;/i&gt; Distant, 1890, &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;pantherina&lt;/i&gt; Bergroth,1891, &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;rufomaculata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;costaricensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Diagnoses, line drawings of the metasternal process,male and female external genitalia, digital &lt;i&gt;habitus&lt;/i&gt; photographs and distributional maps are provided. This group can be identi-fied by rounded to ovate body shape, pattern of maculae on connexivum and stripes on ventral surface. The following syn-onyms are proposed: &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;pacifica&lt;/i&gt; Breddin, 1903 = &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;pantherina&lt;/i&gt; Bergroth, 1891. The lectotype of &lt;i&gt;Edessa&lt;/i&gt; &lt;i&gt;caldaria&lt;/i&gt; is designated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;caldaria&lt;/i&gt; group; Neotropical region; new species; taxonomy; lectotype; synonym</subject>
+          <subject_class locale="en_US">&lt;i&gt;caldaria&lt;/i&gt; group</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Valéria</firstname>
+          <middlename>Juliete</middlename>
+          <lastname>Da Silva</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>José</firstname>
+          <middlename>Antônio Marin</middlename>
+          <lastname>Fernandes</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>12-22</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Two new species of the genus &lt;i&gt;Vekunta &lt;/i&gt;Distant (Hemiptera: Fulgoromorpha: Derbidae) from Korea</title>
+        <abstract locale="en_US">Two new derbid species of the genus &lt;i&gt;Vekunta&lt;/i&gt; Distant, &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;fuscolineata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;V.&lt;/i&gt; &lt;i&gt;jahini&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; (Hemiptera: Fulgoro-morpha: Derbidae: Cenchreini), are described and illustrated from Korea. They represent the first record of the genus &lt;i&gt;Vekunta&lt;/i&gt; Distant, 1906 in the Korean fauna. A checklist of species and a key to the known species of the genus are provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Planthoppers; Fulgoroidea; Auchenorrhyncha; new species; Korea</subject>
+          <subject_class locale="en_US">Planthoppers</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Mohammad</firstname>
+          <middlename>Atikur</middlename>
+          <lastname>Rahman</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yong</firstname>
+          <middlename>Jung</middlename>
+          <lastname>Kwon</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Sang</firstname>
+          <middlename>Jae</middlename>
+          <lastname>Suh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>23-33</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new &lt;i&gt;Psychoda &lt;/i&gt;Latreille species from Fennoscandia (Diptera: Psychodidae)</title>
+        <abstract locale="en_US">&lt;i&gt;Psychoda&lt;/i&gt; &lt;i&gt;cultella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is described. The new species is characterized by 16-segmented antennae with the three apicalflagellomeres globular, very short and partially fused; labellum with five terminal digital projections; aedeagus ca 1.7times the length of gonostylus; distiphallus bipartite, composed of a ventral phallomere with a roundish blunt tip and adorsal phallomere with pointed tip; basiphallus in lateral view sub-basally widened. The new species is known from Fin-land (29 localities) and Norway (6 localities), ranging from the southern boreal ecoregion to the subalpine zone. &lt;i&gt;Psychoda&lt;/i&gt;&lt;i&gt;cultella&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is mainly found in Malaise trap samples collected from moist coniferous forests and spruce mires (riparianforests, springs) and rarely from fens and subalpine heaths. Two male specimens from Norway were reared from fruiting bodies of polypore fungi (either &lt;i&gt;Fomes&lt;/i&gt; &lt;i&gt;fomentarius&lt;/i&gt; or &lt;i&gt;Piptoporus&lt;/i&gt; &lt;i&gt;betulinus).&lt;/i&gt;</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Finland; Norway; Boreal zone; moth flies; taxonomy; saproxylic species; DNA barcode</subject>
+          <subject_class locale="en_US">Finland</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Jukka</firstname>
+          <lastname>Salmela</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gunnar</firstname>
+          <middlename>M.</middlename>
+          <lastname>Kvifte</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Anna</firstname>
+          <lastname>More</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>34-43</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Sicardicoris, &lt;/i&gt;a new Madagascan subgenus of &lt;i&gt;Peyrierocoris &lt;/i&gt;Chłond &amp; Junkiert 2010 (Hemiptera: Heteroptera: Reduviidae: Harpactorinae)</title>
+        <abstract locale="en_US">&lt;i&gt;Sicardicoris,&lt;/i&gt; a new subgenus of &lt;i&gt;Peyrierocoris&lt;/i&gt; Chłond &amp; Junkiert and one new species &lt;i&gt;Peyrierocoris&lt;/i&gt; (Sicardicoris) &lt;i&gt;niger&lt;/i&gt;is described on the basis of specimens selected from the collection of the Muséum national D’Histoire naturelle, Paris.Description with drawings of dorsal habitus and characters of male and female genitalia are given. A key to all the species of the genus is also provided.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Hemiptera; Heteroptera; Reduviidae; Harpactorinae; &lt;i&gt;Peyrierocoris&lt;/i&gt;; &lt;i&gt;Sicardicoris&lt;/i&gt;; new subgenus; new species; Madagascar</subject>
+          <subject_class locale="en_US">Hemiptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Dominik</firstname>
+          <lastname>Chłond</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Eric</firstname>
+          <lastname>Guilbert</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>44-52</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New cytogenetic data on Coreoidea (Hemiptera: Heteroptera) with special reference to Coreidae</title>
+        <abstract locale="en_US">Some cytogenetic aspects of six Chinese species of Coreoidea were studied. The material included five species from the familyCoreidae: &lt;i&gt;Hydarella&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; (Distant), &lt;i&gt;Homoeocerus&lt;/i&gt; &lt;i&gt;bannaensis&lt;/i&gt; Hsiao, &lt;i&gt;Cletus&lt;/i&gt; &lt;i&gt;graminis&lt;/i&gt; Hsiao &amp; Cheng, &lt;i&gt;Paradasynus&lt;/i&gt; &lt;i&gt;lon-&lt;/i&gt;&lt;i&gt;girostris&lt;/i&gt; Hsiao, &lt;i&gt;Acanthocoris&lt;/i&gt; &lt;i&gt;scaber&lt;/i&gt; (Linnaeus), and one species from the family Stenocephalidae: &lt;i&gt;Stenocephalus&lt;/i&gt; &lt;i&gt;femoralis&lt;/i&gt;Reuter. All species show holokinetic chromosomes, post-reductional meiotic division of XO sex chromosomes, a pre-reduc-tional type of meiosis for autosomes and m-chromosomes, intersticial chiasmata in most autosomes, and one chiasma per biva-lent in male meiosis. In the species studied, the diploid chromosome number ranged from 13 to 21. It was 13 in &lt;i&gt;S.&lt;/i&gt; &lt;i&gt;femoralis&lt;/i&gt; (10+ 2m + XO), 15 in &lt;i&gt;Hy.&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; (12 + 2m + XO), 17 in &lt;i&gt;Ho.&lt;/i&gt; &lt;i&gt;bannaensis&lt;/i&gt; (14 + 2m + XO) and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;graminis&lt;/i&gt; (14 + 2m + XO), 19in &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;longirostris&lt;/i&gt; (16 + 2m + XO), and 21 in &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;scaber&lt;/i&gt; (18 + 2m + XO). &lt;i&gt;Hy.&lt;/i&gt; &lt;i&gt;orientalis&lt;/i&gt; represents the first cytogenetically stud-ied species in subfamily Hydarinae. The phylogenetic relationships among Coreoidea are briefly discussed from a cytogenetic point of view.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coreoidea; Coreidae; Stenocephalidae; chromosome; karyotype evolution</subject>
+          <subject_class locale="en_US">Coreoidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Hailin</firstname>
+          <lastname>Yang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hu</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Xun</firstname>
+          <lastname>Dai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jian</firstname>
+          <lastname>Chang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Wanzhi</firstname>
+          <lastname>Cai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-61</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Taxonomic status of &lt;i&gt;Allohoraeomorphus &lt;/i&gt;Franz (Coleoptera, Staphylinidae, Scydmaeninae)</title>
+        <abstract locale="en_US">Following the examination of the type material, the generic name &lt;i&gt;Allohoraeomorphus&lt;/i&gt; Franz, 1986 is placed as a juniorobjective synonym of &lt;i&gt;Horaeomorphus&lt;/i&gt; Schaufuss, 1889. The only species included in &lt;i&gt;Allohoraeomorphus,&lt;/i&gt; &lt;i&gt;Horaeomor-&lt;/i&gt;&lt;i&gt;phus&lt;/i&gt; &lt;i&gt;calcarifer&lt;/i&gt; (Franz, 1986), comb. n., is redescribed and its diagnostic characters, including the aedeagus and modified male metatrochanters are illustrated.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Coleoptera; Staphylinidae; Scydmaeninae; Cyrtoscydmini; &lt;i&gt;Allohoraeomorphus&lt;/i&gt;; &lt;i&gt;Horaeomorphus&lt;/i&gt;; new synonym; Pacific; Fiji</subject>
+          <subject_class locale="en_US">Coleoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Paweł</firstname>
+          <lastname>Jałoszyński</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>62-68</pages>
+        <date_published>2012-05-15</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

@@ -1,3 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3305.1</id>
+    <title locale="en_US">9 May. 2012</title>
+    <volume>3305</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-05-09</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">The identity of &lt;i&gt;Pilumnus dofleini &lt;/i&gt;Balss, 1933 (Crustacea: Decapoda: Brachyura: Pilumnidae), with descriptions of three new species from the Western Pacific</title>
+        <abstract locale="en_US">The identity of the pilumnid crab, &lt;i&gt;Pilumnus&lt;/i&gt; &lt;i&gt;dofleini&lt;/i&gt; Balss, 1933, is reassessed based on the female holotype and additionalmale specimens from Sagami Bay and the Sea of Japan, Japan. Three new species allied to &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;dofleini&lt;/i&gt; are described andillustrated: &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;curvipenis&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Izu Islands, Japan; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;armatus&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; and &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;bohol&lt;/i&gt; &lt;b&gt;n.&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; from the Bohol Sea, the Philippines. These four species are diagnosed, compared and differentiated from the related &lt;i&gt;P.&lt;/i&gt; &lt;i&gt;acanthosoma&lt;/i&gt; Ng, 2000.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Crustacea; Decapoda; Brachyura; Pilumnidae; &lt;i&gt;Pilumnus&lt;/i&gt;; redescription; new species; Japan; Philippines</subject>
+          <subject_class locale="en_US">Crustacea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tomoyuki</firstname>
+          <lastname>Komai</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Hiroshi</firstname>
+          <lastname>Motoh</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2012-05-09</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Revisions of Australian ground-hunting spiders. V. A new lycosoid genus from eastern Australia (Araneae: Tengellidae)</title>
+        <abstract locale="en_US">A new genus, &lt;i&gt;Austrotengella,&lt;/i&gt; and six new species—A. &lt;i&gt;toddae,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hackerae,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;monteithi,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;wrighti,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;hebronae,&lt;/i&gt; &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;plimeri—&lt;/i&gt;are described from eastern Australia. The genus presents difficulties in its family placement; its relationships are discussed.Downslope altitudinal changes of 400 metres on elevation in the distribution of &lt;i&gt;A.&lt;/i&gt; &lt;i&gt;toddae&lt;/i&gt; contradict predicted shifts from cli-mate change and minimally indicate, in this case at least, that temperature is clearly not the main driver of altitudinal models, which are considered to be far too simplistic.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Araneomorphae; Tengellidae; Lycosoidea; taxonomy; Australia; biodiversity; biogeography; phenology; distribution; climate change; downslope; altitudinal gradient</subject>
+          <subject_class locale="en_US">Araneomorphae</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Robert</firstname>
+          <middlename>J</middlename>
+          <lastname>Raven</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-52</pages>
+        <date_published>2012-05-09</date_published>
+        <open_access/>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of &lt;i&gt;Eupsophus &lt;/i&gt;(Amphibia: Neobatrachia) from the Valdivian Coastal range, Southern Chile: an integrative taxonomic approach</title>
+        <abstract locale="en_US">We describe a new species of &lt;i&gt;Eupsophus&lt;/i&gt; from the Coastal Range of Southern Chile. The new taxon can be differentiated usingan integrative taxonomic approach that includes advertisement call, reproductive mode, tadpoles, and mtDNA D-loopsequences. Based on karyological characters, the new species is assigned to the &lt;i&gt;roseus&lt;/i&gt; Group (2N=30), and differs from alldescribed species therein by having early winter breeding season, terrestrial tadpoles and its advertisement call with spectralelements reaching the 20 kHz. Phylogenetic analyses based on mitochondrial data place the new species as sister taxon of &lt;i&gt;E.&lt;/i&gt;&lt;i&gt;migueli.&lt;/i&gt; The discovery of this new species highlights the importance of the multisource approaches to discover cryptic diversity as well as to establish the basis for prioritizing policies and conservation efforts on Chilean batrachofauna.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibia; Neobatrachia; &lt;i&gt;Eupsophus&lt;/i&gt; &lt;i&gt;altor&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.,&lt;/b&gt; integrative taxonomy; Chile</subject>
+          <subject_class locale="en_US">Amphibia</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>José</firstname>
+          <middlename>J.</middlename>
+          <lastname>Nuñez</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Felipe</firstname>
+          <middlename>E.</middlename>
+          <lastname>Rabanal</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>J.</firstname>
+          <middlename>Ramon</middlename>
+          <lastname>Formas</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>53-68</pages>
+        <date_published>2012-05-09</date_published>
+        <open_access/>
+      </article>
+    </section>
+  </issue>
+</issues>

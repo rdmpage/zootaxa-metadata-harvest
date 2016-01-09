@@ -120,19 +120,8 @@
         <pages>41-48</pages>
         <date_published>2012-01-18</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa..1</id>
-    <title locale="en_US">PublishDate</title>
-    <volume></volume>
-    <number>1</number>
-    <year></year>
-    <date_published><![CDATA[]]></date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
-        <title locale="en_US">JI-CHUN XING (China), C. A. VIRAKTAMATH (India), REN-HUAI DAI (China) </title>
+        <title locale="en_US">Review of the leafhopper genus &lt;i&gt;Jilinga &lt;/i&gt;Ghauri (Hemiptera: Cicadellidae: Deltocephalinae: Paralimnini), with description of two new species from China</title>
         <abstract locale="en_US">The leafhopper genus &lt;i&gt;Jilinga&lt;/i&gt; Ghauri (Cicadellidae: Deltocephalinae: Paralimnini) is reported for the first time from Chinaand two new species, &lt;i&gt;Jilinga&lt;/i&gt; &lt;i&gt;linzhiensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; and &lt;i&gt;Jilinga&lt;/i&gt; &lt;i&gt;asymmetrica&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; are described and illustrated. A key is given to distinguish all species of the genus.</abstract>
         <indexing>
           <discipline locale="en_US"><![CDATA[]]></discipline>
@@ -140,8 +129,19 @@
           <subject_class locale="en_US">Homoptera</subject_class>
         </indexing>
         <author primary_contact="true">
-          <firstname></firstname>
-          <lastname></lastname>
+          <firstname>Ji-Chun</firstname>
+          <lastname>Xing</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>C.</firstname>
+          <middlename>A.</middlename>
+          <lastname>Viraktamath</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ren-Huai</firstname>
+          <lastname>Dai</lastname>
           <email>user@example.com</email>
         </author>
         <author primary_contact="false">
@@ -149,20 +149,9 @@
           <lastname>Li</lastname>
           <email>user@example.com</email>
         </author>
-        <pages></pages>
-        <date_published><![CDATA[]]></date_published>
+        <pages>49-56</pages>
+        <date_published>2012-01-18</date_published>
       </article>
-    </section>
-  </issue>
-  <issue current="false" identification="title" public_id="" published="true">
-    <id type="doi">10.11646/zootaxa.3164.1</id>
-    <title locale="en_US">18 Jan. 2012</title>
-    <volume>3164</volume>
-    <number>1</number>
-    <year>2012</year>
-    <date_published>2012-01-18</date_published>
-    <section>
-      <title locale="en_US">Articles</title>
       <article language="en">
         <title locale="en_US">Revision of the genus &lt;i&gt;Typhlocybella &lt;/i&gt;Baker, 1903 (Hemiptera: Cicadellidae: Typhlocybinae: Dikraneurini) and description of a new species from Argentina</title>
         <abstract locale="en_US">The dikraneurine leafhopper genus &lt;i&gt;Typhlocybella&lt;/i&gt; Baker is revised based on a comparative morphological study, and a keyfor identification of males is provided. Five valid species are recognized, four of which were previously described and another one new, &lt;i&gt;Typhlocybella&lt;/i&gt; &lt;i&gt;affinis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; &lt;i&gt;Typhlocybella&lt;/i&gt; &lt;i&gt;parva&lt;/i&gt; Ruppel &amp; DeLong is re-described.</abstract>

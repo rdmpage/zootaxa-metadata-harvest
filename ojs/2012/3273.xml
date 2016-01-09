@@ -1,3 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3273.1</id>
+    <title locale="en_US">19 Apr. 2012</title>
+    <volume>3273</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-19</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">Taxonomic revision of the genus &lt;i&gt; Eudonia Billberg, &lt;/i&gt; 1820 from China (&lt;i&gt;Lepidoptera&lt;/i&gt;:&lt;i&gt; Crambidae&lt;/i&gt;:&lt;i&gt; Scopariinae&lt;/i&gt;) &lt;i&gt;&lt;/i&gt;</title>
+        <abstract locale="en_US">The Chinese species of the genus &lt;i&gt;Eudonia&lt;/i&gt; Billberg, 1820 are revised, and in total 25 species are recognized including 10new to science as follows: &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;singulannulata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;rectilineata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;wolongensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;zhongdianensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt;&lt;i&gt;E.&lt;/i&gt; &lt;i&gt;lijiangensis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;hexamera&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;furva&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;magna&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.,&lt;/b&gt; &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;duospinata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;cavata&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; &lt;i&gt;Eudonia&lt;/i&gt;&lt;i&gt;persimilis&lt;/i&gt; Sasaki, 1991 and &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;puellaris&lt;/i&gt; Sasaki, 1991 are recorded for the first time from China. &lt;i&gt;Eudonia&lt;/i&gt; &lt;i&gt;altissima&lt;/i&gt; Leraut,1986, &lt;b&gt;syn.&lt;/b&gt; &lt;b&gt;n.&lt;/b&gt; is synonymised with &lt;i&gt;E.&lt;/i&gt; &lt;i&gt;tibetalis&lt;/i&gt; (Caradja, 1937). Images of the adults and genitalia of the new species areprovided, along with keys for the identification of the Chinese species based on both male and female genitalia. A distribution map of &lt;i&gt;Eudonia&lt;/i&gt; in China is included.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Lepidoptera; Crambidae; Scopariinae; &lt;i&gt;Eudonia&lt;/i&gt;; new species; new record; China</subject>
+          <subject_class locale="en_US">Lepidoptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weichun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Houhun</firstname>
+          <lastname>Li</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Matthias</firstname>
+          <lastname>Nuss</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-27</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Redescriptions of two species and descriptions of three new species of the louse genus&lt;i&gt; Bizarrifrons Eichler&lt;/i&gt;, 1938 (&lt;i&gt;Phthiraptera&lt;/i&gt;: &lt;i&gt;Ischnocera&lt;/i&gt;: &lt;i&gt;Philopteridae&lt;/i&gt;) &lt;i&gt;&lt;/i&gt;</title>
+        <abstract locale="en_US">Redescriptions of &lt;i&gt;Bizarrifrons&lt;/i&gt; &lt;i&gt;magus&lt;/i&gt; (Nitzsch [in Giebel], 1866), the type species of &lt;i&gt;Bizarrifrons,&lt;/i&gt; and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;picturatus&lt;/i&gt; Car-riker &amp; Díaz-Ungría, 1961 are given based on material from their type hosts. The nymphal instars of these two species aredescribed and illustrated for the first time. Also, three new species are named and described: &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;latifrons,&lt;/i&gt; from the russet-backed oropendola, &lt;i&gt;Psarocolius&lt;/i&gt; &lt;i&gt;angustifrons&lt;/i&gt; &lt;i&gt;alfredi&lt;/i&gt; (Des Murs, 1856); &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;wecksteini,&lt;/i&gt; from the Amazonian oropendola,&lt;i&gt;Psarocolius&lt;/i&gt; &lt;i&gt;b.&lt;/i&gt; &lt;i&gt;bifasciatus&lt;/i&gt; (Spix, 1824); and &lt;i&gt;B.&lt;/i&gt; &lt;i&gt;quasisymmetricus,&lt;/i&gt; from the solitary cacique, &lt;i&gt;Cacicus&lt;/i&gt; &lt;i&gt;solitarius&lt;/i&gt; (Vieillot,1816) (Passeriformes: Icteridae). Two species-groups are proposed, and a checklist and a key for the species of &lt;i&gt;Bizarri-&lt;/i&gt;&lt;i&gt;frons&lt;/i&gt; are also included. Sequences of a portion of the mitochondrial cytochrome oxidase I (COI) and the nuclear elongation factor 1α (EF-1α) genes for two species are given for the first time in this genus.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Bizarrifrons&lt;/i&gt;; Philopteridae; taxonomy; redescriptions; type species; new species; nymphs</subject>
+          <subject_class locale="en_US">&lt;i&gt;Bizarrifrons&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Michel</firstname>
+          <middlename>P.</middlename>
+          <lastname>Valim</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Ricardo</firstname>
+          <middlename>L.</middlename>
+          <lastname>Palma</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>28-50</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Definition of the European &lt;i&gt; Lepidocyrtus curvicollis&lt;/i&gt; group (&lt;i&gt;Collembola&lt;/i&gt;: &lt;i&gt;Entomobryidae&lt;/i&gt;) with description of a new species from Sardinia (Italy) </title>
+        <abstract locale="en_US">The genus &lt;i&gt;Lepidocyrtus&lt;/i&gt; was up to now represented by two species in Sardinia. However, recent molecular data suggestthe existence of several other species in the region. The study of a &lt;i&gt;Lepidocyrtus&lt;/i&gt; population from the peninsula of CapoCaccia (NW Sardinia) has allowed the description of the species &lt;i&gt;Lepidocyrtus&lt;/i&gt; &lt;i&gt;apicalis&lt;/i&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; Along with seven otherEuropean species, the new species constitute the “Lepidocyrtus &lt;i&gt;curvicollis&lt;/i&gt; group”, characterized by the presence of scaleson the antenna, legs and dorsal side of manubrium, by having the mesothorax more or less protruded, labial seta M 1 shorterthan M 2 , presence of seta s on abd.IV, and by the dorsal macrochaetae formula R 0 R 1s R 1 So/00/0101+3. An identificationkey has been developed for differentiating all species of this group. With the new species the number of &lt;i&gt;Lepidocyrtus&lt;/i&gt; species present in Sardinia increases to three and the number of total European &lt;i&gt;Lepidocyrtus&lt;/i&gt; species to 30.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">taxonomy; chaetotaxy; species key</subject>
+          <subject_class locale="en_US">taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Eduardo</firstname>
+          <lastname>Mateos</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Henning</firstname>
+          <lastname>Petersen</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>51-62</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">A new &lt;i&gt; fossil Saldidae&lt;/i&gt; (&lt;i&gt;Hemiptera&lt;/i&gt;: &lt;i&gt;Heteroptera&lt;/i&gt;: &lt;i&gt;Leptopodomorpha&lt;/i&gt;) from the Early Cretaceous in China </title>
+        <abstract locale="en_US">&lt;i&gt;Venustsalda&lt;/i&gt; &lt;i&gt;locella&lt;/i&gt; &lt;b&gt;gen.&lt;/b&gt; &lt;b&gt;et&lt;/b&gt; &lt;b&gt;sp.&lt;/b&gt; &lt;b&gt;nov.&lt;/b&gt; is described and illustrated from the Lower Cretaceous Yixian Formation at Huang-banjigou Village, Liaoning Province, China. The new genus is established based on its unusual six cells on the membrane, with the second cell smallest.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Heteroptera; Saldidae; fossil; Early Cretaceous; Yixian Formation</subject>
+          <subject_class locale="en_US">Heteroptera</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Weiting</firstname>
+          <lastname>Zhang</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Jingjing</firstname>
+          <lastname>Song</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Yunzhi</firstname>
+          <lastname>Yao</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Dong</firstname>
+          <lastname>Ren</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>63-68</pages>
+        <date_published>2012-04-19</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>

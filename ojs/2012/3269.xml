@@ -1,3 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE issues SYSTEM "native.dtd">
-<issues/>
+<issues>
+  <issue current="false" identification="title" public_id="" published="true">
+    <id type="doi">10.11646/zootaxa.3269.1</id>
+    <title locale="en_US">16 Apr. 2012</title>
+    <volume>3269</volume>
+    <number>1</number>
+    <year>2012</year>
+    <date_published>2012-04-16</date_published>
+    <section>
+      <title locale="en_US">Articles</title>
+      <article language="en">
+        <title locale="en_US">A new species of &lt;i&gt;Hyperolius &lt;/i&gt;Rapp, 1842 (Anura: Hyperoliidae) from the Serra da Chela mountains, south-western Angola </title>
+        <abstract locale="en_US">A new species of African reed frog (genus &lt;i&gt;Hyperolius&lt;/i&gt; Rapp, 1842) is described from a high altitude, forested gorge in theSerra da Chela mountain range near the village of Humpata, Lubango area, Huila Province, south-western Angola. It iscurrently only known from its type locality. Phylogenetic reconstruction using the mitochondrial 16S marker reveals thatit is the sister taxon of the poorly known &lt;i&gt;Hyperolius&lt;/i&gt; &lt;i&gt;cinereus&lt;/i&gt; (&gt;4% sequence divergence) also described from Angola, andforms part of a larger clade comprising &lt;i&gt;H.&lt;/i&gt; &lt;i&gt;platyceps.&lt;/i&gt; The new species is distinguished from other closely related &lt;i&gt;Hyperolius&lt;/i&gt; species by genetic divergence, vocalisation, an unusual torrent stream habitat, and colouration.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Amphibian; Hyperoliidae; &lt;i&gt;Hyperolius&lt;/i&gt;; Reed frog; Biodiversity; Afromontane; Angola</subject>
+          <subject_class locale="en_US">Amphibian</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Werner</firstname>
+          <lastname>Conradie</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>William</firstname>
+          <middlename>R.</middlename>
+          <lastname>Branch</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>G.</firstname>
+          <middlename>John</middlename>
+          <lastname>Measey</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Krystal</firstname>
+          <middlename>A.</middlename>
+          <lastname>Tolley</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>1-17</pages>
+        <date_published>2012-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">New records of &lt;i&gt;Copidognathus &lt;/i&gt;mites (Acari: Halacaridae) from mangroves in Brunei Darussalam with descriptions of two new species </title>
+        <abstract locale="en_US">Three species of the genus &lt;i&gt;Copidognathus&lt;/i&gt; were collected from the algal cover of mangrove pneumatophores in BruneiDarussalam. Two of the species are new and are described as &lt;i&gt;Copidognathus&lt;/i&gt; &lt;i&gt;mangrovorum&lt;/i&gt; and &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;bruneiensis.&lt;/i&gt; &lt;i&gt;C.&lt;/i&gt; &lt;i&gt;rhombognathoideus&lt;/i&gt; Bartsch is reported for the first time from Brunei Darussalam.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Taxonomy; estuarine halacarids; mangrove; &lt;i&gt;Copidognathus&lt;/i&gt;; Brunei; new records</subject>
+          <subject_class locale="en_US">Taxonomy</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Tapas</firstname>
+          <lastname>Chatterjee</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>David</firstname>
+          <middlename>J</middlename>
+          <lastname>Marshall</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Vladimir</firstname>
+          <lastname>Pešić</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>18-30</pages>
+        <date_published>2012-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">The larval development of the mud shrimp &lt;i&gt;Upogebia issaeffi &lt;/i&gt;(Balss, 1913) (Decapoda: Gebiidea: Upogebiidae) reared under laboratory conditions </title>
+        <abstract locale="en_US">Larval development of the mud shrimp &lt;i&gt;Upogebia&lt;/i&gt; &lt;i&gt;issaeffi&lt;/i&gt; (Balss, 1913) (Decapoda: Gebiidea: Upogebiidae) is describedand illustrated for the first time from material reared in the laboratory. The development includes four zoeal and a singlemegalopal stages. At 20–22°C the first megalopa was attained 12 days after hatching. &lt;i&gt;U.&lt;/i&gt; &lt;i&gt;issaeffi&lt;/i&gt; is distinguished from &lt;i&gt;U.&lt;/i&gt;&lt;i&gt;major,&lt;/i&gt; the second upogebiid species inhabiting Russian waters of the Sea of Japan, by the presence of the fourth zoeal stage and considerably more intensive larval setation.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Gebiidea; Upogebiidae; larva; zoea; megalopa; Sea of Japan</subject>
+          <subject_class locale="en_US">Gebiidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Elena</firstname>
+          <middlename>S.</middlename>
+          <lastname>Kornienko</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Olga</firstname>
+          <middlename>M.</middlename>
+          <lastname>Korn</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Darya</firstname>
+          <middlename>D.</middlename>
+          <lastname>Demchuk</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>31-46</pages>
+        <date_published>2012-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">&lt;i&gt;Asteroschema sampadae &lt;/i&gt;(Ophiuroidea: Asteroschematinae), a new deep-sea brittle star from the continental slope off the southern tip of India </title>
+        <abstract locale="en_US">A new species of deep-sea euryalid ophiuroid, &lt;i&gt;Asteroschema&lt;/i&gt; &lt;i&gt;sampadae&lt;/i&gt; is described from the continental margin off thesouthern tip of India. This species is distinguished from others in having scattered, distinctly conical epidermal ossiclesthroughout the aboral surface of the disc and arms and minute, scattered granular ossicles on the oral side. This is the fourthreport of the genus &lt;i&gt;Asteroschema&lt;/i&gt; from Indian waters (including Andaman &amp; Nicobar Islands) and the first report of thisgenus from around the Indian peninsula since the report of &lt;i&gt;Asteroschema&lt;/i&gt; &lt;i&gt;flosculus&lt;/i&gt; from a coral bank off Nellore, Andhra Pradesh by Alcock in 1893.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">Ophiuroidea; Asteroschematinae; &lt;i&gt;Asteroschema&lt;/i&gt;; India; continental slope</subject>
+          <subject_class locale="en_US">Ophiuroidea</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Usha</firstname>
+          <middlename>V.</middlename>
+          <lastname>Parameswaran</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Abdul</firstname>
+          <middlename>Jaleel K.</middlename>
+          <lastname>U.</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>47-56</pages>
+        <date_published>2012-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Description of a new species of the genus &lt;i&gt;Yunnanilus &lt;/i&gt;Nichols, 1925 (Teleostei: Nemacheilidae) from Yunnan, China </title>
+        <abstract locale="en_US">A new species of the family Nemacheilidae, &lt;i&gt;Yunnanilus&lt;/i&gt; &lt;i&gt;niulanensis,&lt;/i&gt; is described from the upper reach of the NiulanjiangRiver, a branch of the Jinsha River, in Songming County, Yunnan Province, China. It can be distinguished from all other&lt;i&gt;Yunnanilus&lt;/i&gt; species by the combination of the following characters: dorsal fin rays iii, 9; anal fin rays iii, 5; pectoral finrays i, 11; pelvic fin rays i, 7–8; branched caudal fin rays 14; mouth subterminal; 9–11 gillrakers on the inner side of thefirst gill arch, no gillrakers on the outer side; upper two-thirds of body and head covered by large brown spots; fins hyaline;body covered with scales; no lateral line; no cephalic sensory pores; caudal-peduncle length less than caudal-peduncledepth; caudal-peduncle length 9.2–11.1 % SL; body depth 21.0–25.8 % SL; eye diameter 5.4–6.0 % SL; interorbital width 9.9–12.1 % SL.</abstract>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US">&lt;i&gt;Yunnanilus&lt;/i&gt; &lt;i&gt;niulanensis&lt;/i&gt;; Nemacheilidae; new species; Yunnan; China</subject>
+          <subject_class locale="en_US">&lt;i&gt;Yunnanilus&lt;/i&gt; &lt;i&gt;niulanensis&lt;/i&gt;</subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname></firstname>
+          <lastname></lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>57-64</pages>
+        <date_published>2012-04-16</date_published>
+      </article>
+      <article language="en">
+        <title locale="en_US">Resurrection and redefinition of the genus &lt;i&gt;Tubella &lt;/i&gt;(Porifera: Spongillidae) with a worldwide list of valid species </title>
+        <abstract locale="en_US"/>
+        <indexing>
+          <discipline locale="en_US"><![CDATA[]]></discipline>
+          <subject locale="en_US"><![CDATA[]]></subject>
+          <subject_class locale="en_US"><![CDATA[]]></subject_class>
+        </indexing>
+        <author primary_contact="true">
+          <firstname>Ulisses</firstname>
+          <lastname>Pinheiro</lastname>
+          <email>user@example.com</email>
+        </author>
+        <author primary_contact="false">
+          <firstname>Gilberto</firstname>
+          <lastname>Nicacio</lastname>
+          <email>user@example.com</email>
+        </author>
+        <pages>65-68</pages>
+        <date_published>2012-04-16</date_published>
+      </article>
+    </section>
+  </issue>
+</issues>
